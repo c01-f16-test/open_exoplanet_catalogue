@@ -2,30 +2,33 @@
 	<name>HD 224693</name>
 	<rightascension>23 59 54</rightascension>
 	<declination>-22 25 41</declination>
-	<distance>94</distance>
+	<distance errorminus="11.64" errorplus="9.33">94</distance>
 	<star>
-		<mass>1.33</mass>
-		<radius>1.7</radius>
-		<magV>8.23</magV>
+		<mass errorminus="0.1" errorplus="0.1">1.33</mass>
+		<radius errorminus="0.3" errorplus="0.3">1.7</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.23</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.87</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.136</magJ>
 		<magH errorminus="0.047" errorplus="0.047">6.882</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.808</magK>
-		<metallicity>0.343</metallicity>
-		<spectraltype>G2IV</spectraltype>
+		<metallicity errorminus="0.05" errorplus="0.05">0.343</metallicity>
+		<spectraltype>G2 IV</spectraltype>
 		<planet>
 			<name>HD 224693 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.71</mass>
-			<period>26.73</period>
+			<period errorminus="0.02" errorplus="0.02">26.73</period>
 			<semimajoraxis>0.233</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/04/18</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>718.9</temperature>
+			<periastron errorminus="200.0000" errorplus="200.0000">6.0</periastron>
+			<periastrontime errorminus="3.000000" errorplus="3.000000">2453193.9</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 224693</name>
-		<temperature>6037.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">6037.0</temperature>
 	</star>
 </system>

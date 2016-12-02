@@ -17,7 +17,7 @@
 		<magJ errorminus="0.232" errorplus="0.232">3.942</magJ>
 		<magH errorminus="0.218" errorplus="0.218">3.366</magH>
 		<magK errorminus="0.250" errorplus="0.250">3.292</magK>
-		<spectraltype>K1III</spectraltype>
+		<spectraltype>K1 III</spectraltype>
 		<temperature errorminus="100" errorplus="100">4945</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">0.03</metallicity>
 		<planet>
@@ -37,6 +37,8 @@
 			<lastupdate>15/05/25</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
+			<periastron errorminus="32.6000" errorplus="32.6000">166.0</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

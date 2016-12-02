@@ -2,10 +2,10 @@
 	<name>WASP-78</name>
 	<rightascension>04 15 02</rightascension>
 	<declination>-22 06 59</declination>
-	<distance>550</distance>
+	<distance errorminus="120.0" errorplus="120.0">550</distance>
 	<star>
-		<mass>2.02</mass>
-		<radius>2.31</radius>
+		<mass errorplus="0.13">1.17</mass>
+		<radius errorplus="0.41">1.6</radius>
 		<magV>12</magV>
 		<magB errorminus="0.21" errorplus="0.21">12.65</magB>
 		<magR errorminus="0.10" errorplus="0.10">12.43</magR>
@@ -21,12 +21,12 @@
 			<name>TYC 5889-271-1 b</name>
 			<name>GSC 05889-00271 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.16</mass>
-			<radius>1.75</radius>
-			<period>2.17517656</period>
-			<semimajoraxis>0.0415</semimajoraxis>
+			<mass errorminus="0.08" errorplus="0.08">0.89</mass>
+			<radius errorminus="0.11" errorplus="0.11">1.75</radius>
+			<period errorminus="4.7e-06" errorplus="4.7e-06">2.17517656</period>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0415</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>89</inclination>
+			<inclination errorminus="1.6" errorplus="2.3">83.2</inclination>
 			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455882.35953</transittime>
 			<description>WASP-78b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. It is one of the hottest known exoplanets with an equilibrium temperature of 2350 degrees Kelvin.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -36,6 +36,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-78</name>
-		<temperature>6100.0</temperature>
+		<temperature errorplus="150.0">6100.0</temperature>
 	</star>
 </system>

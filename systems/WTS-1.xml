@@ -2,35 +2,38 @@
 	<name>WTS-1</name>
 	<rightascension>19 35 56.41</rightascension>
 	<declination>+36 17 46.76</declination>
-	<distance>3200</distance>
+	<distance errorminus="400.0" errorplus="900.0">3200</distance>
 	<star>
-		<mass>1.2</mass>
-		<radius>1.15</radius>
-		<temperature>6250</temperature>
-		<magV>16.13</magV>
+		<mass errorminus="0.1" errorplus="0.1">1.2</mass>
+		<radius errorminus="0.12" errorplus="0.1">1.15</radius>
+		<temperature errorminus="200.0" errorplus="200.0">6250</temperature>
+		<magV errorminus="0.04" errorplus="0.04">16.13</magV>
 		<magB errorminus="0.1" errorplus="0.1">17.0</magB>
 		<magR errorminus="0.1" errorplus="0.1">16.1</magR>
 		<magJ errorminus="0.052" errorplus="0.052">15.375</magJ>
 		<magH errorminus="0.081" errorplus="0.081">15.187</magH>
 		<magK errorminus="0.199" errorplus="0.199">15.271</magK>
-		<spectraltype>F</spectraltype>
+		<spectraltype>F6 V</spectraltype>
 		<planet>
 			<name>WTS-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.01</mass>
-			<radius>1.49</radius>
-			<period>3.35</period>
-			<semimajoraxis>0.047</semimajoraxis>
+			<mass errorminus="0.35" errorplus="0.35">4.01</mass>
+			<radius errorminus="0.18" errorplus="0.16">1.49</radius>
+			<period errorminus="1.5e-05" errorplus="1.3e-05">3.35</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.047</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>85.5</inclination>
+			<inclination errorminus="0.7" errorplus="1.0">85.5</inclination>
 			<transittime errorminus="0.0036" errorplus="0.0043" unit="BJD">2454318.7479</transittime>
 			<description>The Hot Jupiter WTS-1 b is the first extrasolar planet found by the WFCAM Transit Survey. The observations were made at the 3.8-m United Kingdom Infrared Telescope and the Hobby-Eberly Telescope. The planet has one of the largest radius anomalies among the known Hot Jupiters its mass range.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/10/04</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1362.3</temperature>
+			<temperature errorminus="100.0" errorplus="100.0">1500.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0900" errorplus="0.0500">0.69</impactparameter>
 		</planet>
 		<name>WTS-1</name>
+		<age errorminus="1.950" errorplus="1.950">2.55</age>
+		<metallicity errorminus="0.500" errorplus="0.500">-0.5</metallicity>
 	</star>
 </system>

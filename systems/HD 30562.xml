@@ -2,32 +2,34 @@
 	<name>HD 30562</name>
 	<rightascension>04 48 36</rightascension>
 	<declination>-05 40 27</declination>
-	<distance>26.5</distance>
+	<distance errorminus="0.64" errorplus="0.61">26.5</distance>
 	<star>
 		<name>HD 30562</name>
-		<mass>1.23</mass>
-		<radius>1.53</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.23</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.53</radius>
 		<magV>5.77</magV>
 		<magB>6.40</magB>
 		<magJ errorminus="0.26" errorplus="0.26">4.98</magJ>
 		<magH errorminus="0.27" errorplus="0.27">4.57</magH>
 		<magK>4.310</magK>
-		<metallicity>0.29</metallicity>
-		<age>3.6</age>
-		<spectraltype>F8V</spectraltype>
+		<metallicity errorminus="0.06" errorplus="0.06">0.29</metallicity>
+		<age errorminus="0.5" errorplus="0.5">3.6</age>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 30562 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.373</mass>
-			<period>1159</period>
-			<semimajoraxis>2.315</semimajoraxis>
-			<eccentricity>0.778</eccentricity>
-			<periastron>78.4</periastron>
+			<mass errorminus="0.047" errorplus="0.047">1.373</mass>
+			<period errorminus="2.8" errorplus="2.8">1159.2</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">2.315</semimajoraxis>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.778</eccentricity>
+			<periastron errorminus="3.0" errorplus="3.0">78.4</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>208.7</temperature>
+			<periastrontime errorminus="2.800000" errorplus="2.800000">2453601.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
-		<temperature>5861.0</temperature>
+		<temperature errorminus="46.0" errorplus="46.0">5994.0</temperature>
 	</star>
 </system>

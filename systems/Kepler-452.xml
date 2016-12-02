@@ -27,6 +27,9 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/07/23</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.4500" errorplus="0.1600">0.69</impactparameter>
 		</planet>
+		<spectraltype>G2</spectraltype>
+		<magV errorminus="" errorplus="">13.426</magV>
 	</star>
 </system>

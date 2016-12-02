@@ -12,8 +12,8 @@
 		<magK errorminus="0.023" errorplus="0.023">11.966</magK>
 		<temperature errorminus="56.00" errorplus="56.00">5946.00</temperature>
 		<age errorminus="1.0000" errorplus="1.0000">5.0000</age>
-		<radius errorminus=".22" errorplus="0.22">1.65</radius>
-		<mass errorminus="0.37" errorplus="0.49">1.19</mass>
+		<radius errorminus="0.36" errorplus="0.42">1.65</radius>
+		<mass errorminus="0.11" errorplus="0.19">1.19</mass>
 		<planet>
 			<name>Kepler-277 b</name>
 			<name>KOI-1215 b</name>
@@ -21,7 +21,7 @@
 			<name>KIC 3939150 b</name>
 			<name>KIC 3939150.01</name>
 			<radius errorminus="0.03554" errorplus="0.03554">0.26610</radius>
-			<mass errorminus="0.01195" errorplus="0.47343">0.27619</mass>
+			<mass errorminus="0.126" errorplus="0.131">0.27619</mass>
 			<transittime errorminus="0.0042800" errorplus="0.0042800">2454975.1014000</transittime>
 			<period>17.324</period>
 			<list>Confirmed planets</list>
@@ -38,7 +38,7 @@
 			<name>KIC 3939150 c</name>
 			<name>KIC 3939150.02</name>
 			<radius errorminus="0.04101" errorplus="0.04101">0.30620</radius>
-			<mass errorminus="0.00818" errorplus="0.31834">0.20856</mass>
+			<mass errorminus="0.00818" errorplus="0.057">0.20856</mass>
 			<transittime errorminus="0.0046900" errorplus="0.0046900">2454978.3884600</transittime>
 			<period>33.006</period>
 			<list>Confirmed planets</list>
@@ -48,5 +48,7 @@
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.315</metallicity>
+		<magV errorminus="" errorplus="">13.42</magV>
 	</star>
 </system>

@@ -2,30 +2,33 @@
 	<name>HD 28185</name>
 	<rightascension>04 26 26</rightascension>
 	<declination>-10 33 02</declination>
-	<distance>39.4</distance>
+	<distance errorminus="1.7" errorplus="1.7">39.6</distance>
 	<star>
-		<mass>1.24</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius>1.03</radius>
-		<magV>7.81</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.81</magV>
 		<magJ errorminus="0.026" errorplus="0.026">6.578</magJ>
 		<magH errorminus="0.044" errorplus="0.044">6.289</magH>
 		<magK errorminus="0.029" errorplus="0.029">6.185</magK>
 		<magB errorminus="0.02" errorplus="0.02">8.52</magB>
-		<metallicity>0.24</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">0.12</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 28185 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.7</mass>
-			<period>383</period>
-			<semimajoraxis>1.03</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.33" errorplus="0.33">5.59</mass>
+			<period errorminus="0.6" errorplus="0.6">385.9</period>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">1.03</semimajoraxis>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.07</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/20</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>241.6</temperature>
+			<periastron errorminus="8.2000" errorplus="8.2000">351.9</periastron>
+			<periastrontime errorminus="8.800000" errorplus="8.800000">2453793.6</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 28185</name>
-		<temperature>5482.0</temperature>
+		<temperature errorminus="75.0" errorplus="75.0">5546.0</temperature>
 	</star>
 </system>

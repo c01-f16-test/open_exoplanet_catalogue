@@ -7,7 +7,7 @@
 	<distance>511.95</distance>
 	<star>
 		<magB errorminus="0.24" errorplus="0.24">12.79</magB>
-		<magV errorminus="0.14" errorplus="0.14">11.81</magV>
+		<magV errorminus="0.14" errorplus="0.14">11.584</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.047</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.581</magH>
 		<magK errorminus="0.018" errorplus="0.018">9.465</magK>
@@ -17,7 +17,7 @@
 		<temperature errorminus="75" errorplus="75">4991</temperature>
 		<radius errorminus="0.066" errorplus="0.066">2.935</radius>
 		<mass errorminus="0.0690" errorplus="0.0690">1.0790</mass>
-		<metallicity errorminus="0.10" errorplus="0.10">0.28</metallicity>
+		<metallicity errorminus="0.10" errorplus="0.10">0.422</metallicity>
 		<planet>
 			<name>Kepler-278 b</name>
 			<name>KOI-1221 b</name>
@@ -36,6 +36,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.37</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-278 c</name>
@@ -54,6 +55,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.76</impactparameter>
 		</planet>
 	</star>
 </system>

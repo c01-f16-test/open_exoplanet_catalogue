@@ -9,9 +9,9 @@
 		<name>TYC 7038-834-1</name>
 		<name>BPM 80815</name>
 		<name>GSC 05165-00481</name>
-		<temperature errorminus="100" errorplus="100">4145</temperature>
+		<temperature errorminus="94.0" errorplus="92.0">4143.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.57</mass>
-		<radius errorminus="16" errorplus="16">0.571</radius>
+		<radius errorminus="0.02" errorplus="0.02">0.571</radius>
 		<magV errorminus="0.228" errorplus="0.228">11.881</magV>
 		<magB>12.810</magB>
 		<magR>11.110</magR>
@@ -20,7 +20,7 @@
 		<magH errorminus="0.026" errorplus="0.026">8.513</magH>
 		<magK errorminus="0.022" errorplus="0.022">8.351</magK>
 		<metallicity errorminus="0.16" errorplus="0.16">-0.14</metallicity>
-		<spectraltype>K7V</spectraltype>
+		<spectraltype>K7 V</spectraltype>
 		<planet>
 			<name>WASP-80 b</name>
 			<name>2MASS J20124017-0208391 b</name>
@@ -32,15 +32,17 @@
 			<radius errorminus="0.027" errorplus="0.026">0.952</radius>
 			<period errorminus="0.0000027" errorplus="0.0000023">3.0678504</period>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0008">0.0346</semimajoraxis>
-			<eccentricity upperlimit="0.07" />
-			<inclination errorminus="0.12" errorplus="0.07">89.92</inclination>
+			<eccentricity errorminus="0.002" errorplus="0.01" upperlimit="0.07">0.002</eccentricity>
+			<inclination errorminus="0.12" errorplus="0.07">89.02</inclination>
 			<transittime errorminus="0.000052" errorplus="0.000067" unit="BJD">2456125.417512</transittime>
 			<description>WASP-80 b is a Jupiter-sized exoplanet but it has only half of Jupiter's mass. It has a transit depth of 3 percent, one of the largest reported so far. The transmission spectrum matches a hazy model with a temperature of 600 K.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/04/23</lastupdate>
-			<discoveryyear>2013</discoveryyear>
-			<temperature>600</temperature>
+			<discoveryyear>2012</discoveryyear>
+			<temperature errorminus="19.0" errorplus="19.0">825.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="21.0000" errorplus="120.0000">94.0</periastron>
+			<impactparameter errorminus="0.0220" errorplus="0.0200">0.215</impactparameter>
 		</planet>
 	</star>
 </system>

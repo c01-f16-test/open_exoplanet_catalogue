@@ -30,6 +30,10 @@
 			<istransiting>1</istransiting>
 			<lastupdate>16/07/19</lastupdate>
 			<discoveryyear>2016</discoveryyear>
+			<inclination errorminus="0.430" errorplus="0.450">84.87</inclination>
+			<impactparameter errorminus="0.0350" errorplus="0.0310">0.57</impactparameter>
 		</planet>
+		<age errorminus="0.150" errorplus="0.150">0.65</age>
+		<spectraltype>A</spectraltype>
 	</star>
 </system>

@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0053300" errorplus="0.0053300">2454993.2045100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-276 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-276 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.01100" errorplus="0.01400">0.052</mass>
 		</planet>
 		<planet>
 			<name>Kepler-276 b</name>
@@ -46,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.119</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.85</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-276 d</name>
@@ -58,10 +61,13 @@
 			<transittime errorminus="0.0091900" errorplus="0.0091900">2455005.1358000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-276 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-276 d are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.01400" errorplus="0.01600">0.051</mass>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.012</metallicity>
+		<magV errorminus="" errorplus="">15.368</magV>
 	</star>
 </system>

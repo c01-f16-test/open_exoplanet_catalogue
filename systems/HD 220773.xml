@@ -2,10 +2,10 @@
 	<name>HD 220773</name>
 	<rightascension>23 26 27</rightascension>
 	<declination>+08 38 38</declination>
-	<distance>49</distance>
+	<distance errorminus="2.57" errorplus="2.32">48.43</distance>
 	<star>
 		<mass>1.16</mass>
-		<magV>7.09</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.09</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.708</magB>
 		<magR>6.97</magR>
 		<magI>6.4</magI>
@@ -13,19 +13,22 @@
 		<magH errorminus="0.033" errorplus="0.033">5.712</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.651</magK>
 		<metallicity>0.09</metallicity>
-		<spectraltype>F9</spectraltype>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 220773 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.45</mass>
-			<period>3724.7</period>
-			<semimajoraxis>4.94</semimajoraxis>
-			<eccentricity>0.51</eccentricity>
+			<mass errorminus="0.3" errorplus="0.3">1.45</mass>
+			<period errorminus="463.0" errorplus="463.0">3724.7</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">4.94</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.51</eccentricity>
 			<description>The Jovian planet HD 220773b is orbiting an F9-type star. It has a predicted displacement of 0.242mas and might be an interesting target for astrometry.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/02/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>145.8</temperature>
+			<periastron errorminus="13.0000" errorplus="13.0000">226.0</periastron>
+			<periastrontime errorminus="95.000000" errorplus="95.000000">2453866.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 220773</name>
 		<temperature>5940.0</temperature>

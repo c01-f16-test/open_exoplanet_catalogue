@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.107</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.14</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-270 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.18</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.1</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.151</metallicity>
+		<magV errorminus="" errorplus="">13.908</magV>
 	</star>
 </system>

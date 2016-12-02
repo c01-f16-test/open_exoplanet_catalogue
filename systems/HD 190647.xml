@@ -2,29 +2,33 @@
 	<name>HD 190647</name>
 	<rightascension>20 07 20</rightascension>
 	<declination>-35 32 19</declination>
-	<distance>54.2</distance>
+	<distance errorminus="3.44" errorplus="3.05">54.2</distance>
 	<star>
-		<mass>1.1</mass>
-		<magV>7.78</magV>
+		<mass errorminus="0.1" errorplus="0.1">1.1</mass>
+		<magV errorminus="0.013" errorplus="0.013">7.78</magV>
 		<magJ errorminus="0.024" errorplus="0.024">6.546</magJ>
 		<magH errorminus="0.023" errorplus="0.023">6.251</magH>
 		<magK errorminus="0.038" errorplus="0.038">6.161</magK>
 		<magB errorminus="0.02" errorplus="0.02">8.54</magB>
-		<metallicity>0.24</metallicity>
-		<spectraltype>G5</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 190647 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>1038.1</period>
-			<semimajoraxis>2.07</semimajoraxis>
-			<eccentricity>0.18</eccentricity>
+			<mass errorminus="0.06" errorplus="0.06">1.9</mass>
+			<period errorminus="4.9" errorplus="4.9">1038.1</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.07</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.18</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>07/04/07</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>209.5</temperature>
+			<periastron errorminus="9.4000" errorplus="9.4000">232.5</periastron>
+			<periastrontime errorminus="24.000000" errorplus="24.000000">2453869.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 190647</name>
-		<temperature>5628.0</temperature>
+		<temperature errorminus="20.0" errorplus="20.0">5628.0</temperature>
+		<age errorminus="" errorplus="">2.0</age>
 	</star>
 </system>

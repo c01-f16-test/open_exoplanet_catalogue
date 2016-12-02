@@ -10,7 +10,7 @@
 		<radius errorminus="0.06" errorplus="0.11">1.76</radius>
 		<temperature errorminus="100" errorplus="100">6180</temperature>
 		<metallicity errorminus="0.15" errorplus="0.15">0.21</metallicity>
-		<age>1.4</age>
+		<age errorminus="0.6" errorplus="1.1">1.4</age>
 		<spectraltype>F8</spectraltype>
 		<magV>9.5</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.08</magB>
@@ -28,13 +28,14 @@
 			<period errorminus="0.00004" errorplus="0.00004">5.75251</period>
 			<transittime errorminus="0.0014" errorplus="0.0014" unit="HJD">2456224.9824</transittime>
 			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0717</semimajoraxis>
-			<eccentricity upperlimit="0.02" />
+			<eccentricity upperlimit="0.02">0.0</eccentricity>
 			<inclination errorminus="1.1" errorplus="1.1">88.8</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/10/22</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1700" errorplus="0.1700">0.18</impactparameter>
 		</planet>
 	</star>
 </system>

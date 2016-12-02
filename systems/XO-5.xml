@@ -2,35 +2,36 @@
 	<name>XO-5</name>
 	<rightascension>07 46 52</rightascension>
 	<declination>+39 05 41</declination>
-	<distance>255</distance>
+	<distance errorminus="12.0" errorplus="12.0">260.0</distance>
 	<star>
-		<mass>0.88</mass>
-		<radius>1.06</radius>
-		<magV>12.13</magV>
+		<mass errorminus="0.03" errorplus="0.03">1.04</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.06</radius>
+		<magV errorminus="0.03" errorplus="0.03">12.13</magV>
 		<magR>11.95</magR>
 		<magJ errorminus="0.019" errorplus="0.019">10.774</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.443</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.345</magK>
-		<metallicity>0.18</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<metallicity errorminus="0.06" errorplus="0.06">0.05</metallicity>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>XO-5 b</name>
 			<name>2MASS J07465196+3905404 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.077</mass>
-			<radius>1.03</radius>
-			<period>4.1877537</period>
-			<semimajoraxis>0.0487</semimajoraxis>
+			<mass errorminus="0.03" errorplus="0.03">1.19</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.14</radius>
+			<period errorminus="6e-07" errorplus="6e-07">4.1877537</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0487</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.8</inclination>
+			<inclination errorminus="0.2" errorplus="0.2">86.8</inclination>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454485.6842</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/03/07</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1133.5</temperature>
+			<temperature errorminus="20.0" errorplus="20.0">1230.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.55</impactparameter>
 		</planet>
 		<name>XO-5</name>
-		<temperature>5510.0</temperature>
+		<temperature errorminus="70.0" errorplus="70.0">5430.0</temperature>
 	</star>
 </system>

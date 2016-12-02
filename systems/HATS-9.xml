@@ -24,7 +24,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.029" errorplus="0.029">0.837</mass>
 			<radius errorminus="0.098" errorplus="0.098">1.065</radius>
-			<temperature errorminus="37" errorplus="52">1823</temperature>
+			<temperature errorminus="35.0" errorplus="52">1823</temperature>
 			<transittime errorminus="0.00086" errorplus="0.00086" unit="BJD">2456124.25896</transittime>
 			<period errorminus="0.0000052" errorplus="0.0000052">1.9153073</period>
 			<semimajoraxis errorminus="0.00038" errorplus="0.00038">0.03048</semimajoraxis>
@@ -34,6 +34,8 @@
 			<lastupdate>15/02/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.129</eccentricity>
+			<impactparameter errorminus="0.1200" errorplus="0.1600">0.27</impactparameter>
 		</planet>
 	</star>
 </system>

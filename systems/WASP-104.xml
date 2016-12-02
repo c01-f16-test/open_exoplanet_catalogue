@@ -28,13 +28,14 @@
 			<period errorminus="0.0000036" errorplus="0.0000018">1.7554137</period>
 			<transittime errorminus="0.00012" errorplus="0.00012">2456406.11126</transittime>
 			<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.02918</semimajoraxis>
-			<eccentricity upperlimit="0.06" />
+			<eccentricity upperlimit="0.06">0.0</eccentricity>
 			<inclination errorminus="0.25" errorplus="0.25">83.63</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
 			<lastupdate>14/08/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.0140" errorplus="0.0140">0.724</impactparameter>
 		</planet>
 	</star>
 </system>

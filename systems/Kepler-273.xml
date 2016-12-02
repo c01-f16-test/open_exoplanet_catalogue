@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.037</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.04</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-273 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.073</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.94</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.478</metallicity>
+		<magV errorminus="" errorplus="">14.968</magV>
 	</star>
 </system>

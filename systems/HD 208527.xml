@@ -2,31 +2,35 @@
 	<name>HD 208527</name>
 	<rightascension>21 56 24</rightascension>
 	<declination>+21 14 23</declination>
-	<distance>320.2</distance>
+	<distance errorminus="130.98" errorplus="75.1">352.11</distance>
 	<star>
-		<mass>1.6</mass>
-		<radius>51.1</radius>
-		<temperature>3950</temperature>
+		<mass errorminus="0.4" errorplus="0.4">1.6</mass>
+		<radius errorminus="8.3" errorplus="8.3">51.1</radius>
+		<temperature errorminus="65.0" errorplus="65.0">4035.0</temperature>
 		<magV>6.4</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.060</magB>
 		<magJ errorminus="0.214" errorplus="0.214">3.328</magJ>
 		<magH errorminus="0.170" errorplus="0.170">2.537</magH>
 		<magK errorminus="0.244" errorplus="0.244">2.224</magK>
-		<metallicity>-0.09</metallicity>
-		<spectraltype>K5 V</spectraltype>
+		<metallicity errorminus="0.16" errorplus="0.16">-0.09</metallicity>
+		<spectraltype>M1 III</spectraltype>
 		<planet>
 			<name>HD 208527 b</name>
 			<list>Confirmed planets</list>
-			<mass>9.9</mass>
-			<period>875.5</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="1.7" errorplus="1.7">9.9</mass>
+			<period errorminus="5.8" errorplus="5.8">875.5</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.1</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.08</eccentricity>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/11</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>877.3</temperature>
+			<periastron errorminus="19.5000" errorplus="19.5000">278.0</periastron>
+			<periastrontime errorminus="45.700000" errorplus="45.700000">2450745.3</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 208527</name>
+		<age errorminus="1.300" errorplus="1.300">2.0</age>
 	</star>
 </system>
