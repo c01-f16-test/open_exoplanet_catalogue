@@ -12,7 +12,7 @@
 		<name>Kepler-112</name>
 		<name>KOI-150</name>
 		<name>KIC 7626506</name>
-		<temperature errorminus="48" errorplus="148">5544</temperature>
+		<temperature errorminus="148.0" errorplus="148">5544</temperature>
 		<radius errorminus=".203" errorplus="0.203">0.841</radius>
 		<mass errorminus="0.0940" errorplus="0.0940">0.9460</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis>
+			<impactparameter errorminus="0.1700" errorplus="0.1700">0.04</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-112 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.172</semimajoraxis>
+			<impactparameter errorminus="0.1800" errorplus="0.1800">0.08</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.588</metallicity>
+		<magV errorminus="" errorplus="">13.771</magV>
 	</star>
 </system>

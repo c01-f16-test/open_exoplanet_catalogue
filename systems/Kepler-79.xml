@@ -10,8 +10,8 @@
 		<name>KOI-152</name>
 		<name>KIC 8394721</name>
 		<name>UCAC3 269-182620</name>
-		<temperature errorminus="100" errorplus="100">6189</temperature>
-		<radius errorminus=".252" errorplus="0.252">1.403</radius>
+		<temperature errorminus="117.0" errorplus="83.0">6174.0</temperature>
+		<radius errorminus="0.03" errorplus="0.03">1.3</radius>
 		<mass errorminus="0.1000" errorplus="0.1000">1.1800</mass>
 		<magB>14.68</magB>
 		<magV>13.99</magV>
@@ -26,7 +26,7 @@
 			<name>KIC 8394721 d</name>
 			<name>KIC 8394721.01</name>
 			<name>UCAC3 269-182620 d</name>
-			<radius errorminus="0.03281" errorplus="0.12394">0.69168</radius>
+			<radius errorminus="0.03281" errorplus="0.012">0.69168</radius>
 			<period errorminus=".000073" errorplus="0.000073">52.090590</period>
 			<transittime errorminus="0.0007700" errorplus="0.0007700">2454991.7450800</transittime>
 			<list>Confirmed planets</list>
@@ -35,6 +35,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.287</semimajoraxis>
+			<eccentricity errorminus="0.023000" errorplus="0.059000">0.025</eccentricity>
+			<inclination errorminus="0.030" errorplus="0.070">89.93</inclination>
+			<impactparameter errorminus="0.0560" errorplus="0.0220">0.056</impactparameter>
+			<mass errorminus="0.00500" errorplus="0.00660">0.019</mass>
 		</planet>
 		<planet>
 			<name>Kepler-79 c</name>
@@ -48,10 +53,15 @@
 			<transittime errorminus="0.0016100" errorplus="0.0016100">2454966.6323900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.003000" errorplus="0.002000">0.187</semimajoraxis>
+			<eccentricity errorminus="0.021000" errorplus="0.027000">0.03</eccentricity>
+			<inclination errorminus="0.090" errorplus="0.070">89.48</inclination>
+			<impactparameter errorminus="0.0370" errorplus="0.0470">0.278</impactparameter>
+			<mass errorminus="0.00720" errorplus="0.00600">0.019</mass>
 		</planet>
 		<planet>
 			<name>Kepler-79 b</name>
@@ -65,10 +75,15 @@
 			<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.117</semimajoraxis>
+			<eccentricity errorminus="0.006000" errorplus="0.012000">0.015</eccentricity>
+			<inclination errorminus="0.090" errorplus="0.070">88.78</inclination>
+			<impactparameter errorminus="0.0360" errorplus="0.0210">0.41</impactparameter>
+			<mass errorminus="0.01900" errorplus="0.02300">0.0343</mass>
 		</planet>
 		<planet>
 			<name>Kepler-79 e</name>
@@ -86,6 +101,13 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.386</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.044000">0.012</eccentricity>
+			<inclination errorminus="0.020" errorplus="0.020">89.13</inclination>
+			<impactparameter errorminus="0.0160" errorplus="0.0150">0.963</impactparameter>
+			<mass errorminus="0.00350" errorplus="0.00380">0.013</mass>
 		</planet>
+		<age errorminus="0.910" errorplus="0.600">3.44</age>
+		<metallicity errorminus="0.009" errorplus="0.062">-0.073</metallicity>
 	</star>
 </system>

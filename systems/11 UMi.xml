@@ -2,7 +2,7 @@
 	<name>11 UMi</name>
 	<rightascension>15 17 05.88899</rightascension>
 	<declination>+71 49 26.0466</declination>
-	<distance errorminus="2.8" errorplus="2.8">122.1</distance>
+	<distance errorminus="6.95" errorplus="6.22">119.47</distance>
 	<star>
 		<name>11 UMi</name>
 		<name>11 Ursae Minoris</name>
@@ -17,20 +17,20 @@
 		<name>2MASS J15170588+7149258</name>
 		<mass errorminus="0.25" errorplus="0.25">1.80</mass>
 		<radius errorminus="1.84" errorplus="1.84">24.08</radius>
-		<magV>5.024</magV>
+		<magV errorminus="0.009" errorplus="0.009">5.024</magV>
 		<magB>6.415</magB>
 		<magJ errorminus="0.230" errorplus="0.230">2.876</magJ>
 		<magH errorminus="0.194" errorplus="0.194">2.091</magH>
 		<magK errorminus="0.270" errorplus="0.270">1.939</magK>
 		<temperature errorminus="70" errorplus="70">4340</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.04</metallicity>
-		<spectraltype>K4III</spectraltype>
+		<spectraltype>K4 III</spectraltype>
 		<planet>
 			<name>11 UMi b</name>
 			<name>11 Ursae Minoris b</name>
 			<name>HD 136726 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.245" errorplus="0.245" type="msini">11.20</mass>
+			<mass errorminus="2.47" errorplus="2.47" type="msini">10.5</mass>
 			<period errorminus="3.25" errorplus="3.25">516.22</period>
 			<semimajoraxis errorminus="0.07" errorplus="0.07">1.54</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.08</eccentricity>
@@ -40,6 +40,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<age errorminus="0.540" errorplus="0.540">1.56</age>
 	</star>
 </system>

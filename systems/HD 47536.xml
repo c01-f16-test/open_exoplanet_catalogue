@@ -2,30 +2,31 @@
 	<name>HD 47536</name>
 	<rightascension>06 37 47</rightascension>
 	<declination>-32 20 23</declination>
-	<distance>121.36</distance>
+	<distance errorminus="8.85" errorplus="7.72">121.36</distance>
 	<star>
-		<mass>0.99</mass>
-		<radius>23.47</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.99</mass>
+		<radius errorminus="1.05" errorplus="1.05">22.39</radius>
 		<magV>5.25</magV>
 		<magJ errorminus="0.27" errorplus="0.27">3.179</magJ>
 		<magH errorminus="0.21" errorplus="0.21">2.471</magH>
 		<magK errorminus="0.252" errorplus="0.252">2.383</magK>
 		<magB errorminus="0.01" errorplus="0.01">6.43</magB>
-		<metallicity>-0.65</metallicity>
+		<metallicity errorminus="0.02" errorplus="0.02">0.69</metallicity>
 		<spectraltype>K1 III</spectraltype>
 		<planet>
 			<name>HD 47536 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.4" errorplus="0.4">4.0</mass>
-			<period errorminus="2.6" errorplus="2.6">434.9</period>
-			<semimajoraxis errorminus="0.005" errorplus="0.005">1.12</semimajoraxis>
+			<mass errorminus="2.36" errorplus="2.36">7.32</mass>
+			<period errorminus="0.31" errorplus="0.31">712.13</period>
+			<semimajoraxis errorminus="0.32" errorplus="0.32">1.93</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
-			<periastron errorminus="17.3" errorplus="17.3">268.6</periastron>
-			<periastrontime errorminus="30" errorplus="30">2453040.8</periastrontime>
+			<periastron errorminus="23.7" errorplus="23.7">260.8</periastron>
+			<periastrontime errorminus="21.5" errorplus="21.5">2451599.36</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/05/24</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<discoveryyear>2002</discoveryyear>
 			<description>The planet HD 47536 b orbits a metal-poor red giant star.</description>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 47536 c</name>
@@ -38,6 +39,7 @@
 			<description>The planet candidate HD 47536 c was not confirmed in follow-up measurements (Soto et al. 2015).</description>
 		</planet>
 		<name>HD 47536</name>
-		<temperature>4380.0</temperature>
+		<temperature errorminus="16.0" errorplus="16.0">4424.0</temperature>
+		<age errorminus="1.310" errorplus="1.310">10.15</age>
 	</star>
 </system>

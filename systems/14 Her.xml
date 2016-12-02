@@ -2,7 +2,7 @@
 	<name>14 Her</name>
 	<rightascension>16 10 23</rightascension>
 	<declination>+43 49 18</declination>
-	<distance>18.1</distance>
+	<distance errorminus="0.2" errorplus="0.19">18.1</distance>
 	<star>
 		<name>14 Her</name>
 		<name>HD 145675</name>
@@ -13,33 +13,35 @@
 		<name>GJ 614</name>
 		<name>BD+44 2549</name>
 		<name>2MASS J16102432+4349037</name>
-		<mass>1.0</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.0</mass>
 		<radius>0.708</radius>
-		<magV>6.67</magV>
+		<magV errorminus="0.02" errorplus="0.02">6.67</magV>
 		<magB>7.57</magB>
 		<magR>6.1</magR>
 		<magI>5.6</magI>
 		<magJ errorminus="0.029" errorplus="0.029">5.158</magJ>
 		<magH errorminus="0.016" errorplus="0.016">4.803</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.714</magK>
-		<temperature>5311.0</temperature>
-		<metallicity>0.43</metallicity>
+		<temperature errorminus="87.0" errorplus="87.0">5311.0</temperature>
+		<metallicity errorminus="0.08" errorplus="0.08">0.43</metallicity>
 		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>14 Her b</name>
 			<name>HD 145675 b</name>
 			<name>GJ 614 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.975</mass>
-			<period>1766</period>
-			<semimajoraxis>2.864</semimajoraxis>
-			<eccentricity>0.359</eccentricity>
-			<periastron>22.230</periastron>
+			<mass errorminus="0.19" errorplus="0.19">4.64</mass>
+			<period errorminus="2.5" errorplus="2.5">1773.4</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.864</semimajoraxis>
+			<eccentricity errorminus="0.005" errorplus="0.005">0.359</eccentricity>
+			<periastron errorminus="0.9" errorplus="0.9">22.6</periastron>
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/21</lastupdate>
 			<discoveryyear>2002</discoveryyear>
+			<periastrontime errorminus="3.600000" errorplus="3.600000">2451372.7</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>14 Her c</name>

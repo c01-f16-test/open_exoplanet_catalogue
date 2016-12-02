@@ -2,34 +2,39 @@
 	<name>HD 65216</name>
 	<rightascension>07 53 41</rightascension>
 	<declination>-63 38 50</declination>
-	<distance>34.3</distance>
+	<distance errorminus="0.9" errorplus="0.85">35.59</distance>
 	<star>
 		<mass>0.92</mass>
-		<magV>7.98</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.98</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.65</magB>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 65216 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.21</mass>
-			<period>613.1</period>
-			<semimajoraxis>1.37</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
+			<mass errorminus="0.04" errorplus="0.04">1.21</mass>
+			<period errorminus="2.1" errorplus="2.1">572.4</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.37</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>193.9</temperature>
+			<periastron errorminus="41.0000" errorplus="41.0000">0.0</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 65216 c</name>
 			<list>Confirmed planets</list>
-			<mass>2.24</mass>
-			<period>5542</period>
-			<eccentricity>0.15</eccentricity>
+			<mass errorminus="0.03" errorplus="0.03">0.17</mass>
+			<period errorminus="0.6" errorplus="0.6">152.6</period>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.02</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.54</semimajoraxis>
+			<periastron errorminus="54.0000" errorplus="54.0000">0.0</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 65216</name>
 		<temperature>5666.0</temperature>

@@ -4,11 +4,11 @@
 	<name>HR 3145</name>
 	<rightascension>08 02 16</rightascension>
 	<declination>+02 20 04</declination>
-	<distance>80.9</distance>
+	<distance errorminus="6.82" errorplus="5.82">80.06</distance>
 	<star>
-		<mass>1.1</mass>
-		<radius>22</radius>
-		<temperature>4305</temperature>
+		<mass errorminus="0.1" errorplus="0.1">1.1</mass>
+		<radius errorminus="0.6" errorplus="0.6">21.4</radius>
+		<temperature errorminus="15.0" errorplus="15.0">4323.0</temperature>
 		<magV>4.39</magV>
 		<magR>3.39</magR>
 		<magI>2.72</magI>
@@ -16,23 +16,27 @@
 		<magJ errorminus="0.282" errorplus="0.282">2.199</magJ>
 		<magH errorminus="0.268" errorplus="0.268">1.553</magH>
 		<magK errorminus="0.308" errorplus="0.308">1.447</magK>
-		<metallicity>-0.36</metallicity>
+		<metallicity errorminus="0.034" errorplus="0.034">-0.36</metallicity>
 		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>HD 66141 b</name>
 			<name>HIP 39311 b</name>
 			<name>HR 3145 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.0</mass>
-			<period>480.5</period>
-			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.3" errorplus="0.3">6.0</mass>
+			<period errorminus="0.5" errorplus="0.5">480.5</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.2</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.07</eccentricity>
 			<description>HD 66141 b is a massive planet orbiting an evolved K giant. The star is approximately as massive as our Sun but more than 20 times larger. It has exhausted its hydrogen supply and has begun fusing helium into oxygen and carbon in its core.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>801.4</temperature>
+			<periastron errorminus="3.5000" errorplus="3.5000">22.1</periastron>
+			<periastrontime errorminus="4.800000" errorplus="4.800000">2451320.8</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 66141</name>
+		<age errorminus="1.390" errorplus="1.390">6.84</age>
 	</star>
 </system>

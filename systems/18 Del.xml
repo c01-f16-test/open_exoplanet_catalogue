@@ -2,7 +2,7 @@
 	<name>18 Del</name>
 	<rightascension>20 58 25.93397</rightascension>
 	<declination>+10 50 21.4289</declination>
-	<distance errorminus="1.8" errorplus="1.8">75.3</distance>
+	<distance errorminus="3.94" errorplus="3.56">73.1</distance>
 	<star>
 		<name>18 Del</name>
 		<name>18 Delphini</name>
@@ -22,7 +22,7 @@
 		<magK errorminus="0.204" errorplus="0.204">3.366</magK>
 		<temperature errorminus="18" errorplus="18">4979</temperature>
 		<metallicity errorminus="0.023" errorplus="0.023">-0.052</metallicity>
-		<spectraltype>G6III</spectraltype>
+		<spectraltype>G6 III</spectraltype>
 		<planet>
 			<name>18 Del b</name>
 			<name>18 Delphini b</name>
@@ -38,6 +38,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

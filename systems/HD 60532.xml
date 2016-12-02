@@ -2,43 +2,51 @@
 	<name>HD 60532</name>
 	<rightascension>07 34 03</rightascension>
 	<declination>-22 17 46</declination>
-	<distance>25.7</distance>
+	<distance errorminus="0.17" errorplus="0.17">25.3</distance>
 	<star>
-		<mass>1.44</mass>
+		<mass errorminus="0.09" errorplus="0.09">1.44</mass>
 		<magV>4.45</magV>
 		<magB>4.94</magB>
 		<magJ errorminus="0.270" errorplus="0.270">3.703</magJ>
 		<magH errorminus="0.240" errorplus="0.240">3.318</magH>
 		<magK errorminus="0.286" errorplus="0.286">3.355</magK>
 		<metallicity>-0.26</metallicity>
-		<spectraltype>F6IV-V</spectraltype>
+		<spectraltype>F6 IV</spectraltype>
 		<planet>
 			<name>HD 60532 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.15</mass>
-			<period>201.83</period>
-			<semimajoraxis>0.77</semimajoraxis>
-			<eccentricity>0.278</eccentricity>
+			<mass errorminus="0.08" errorplus="0.08">1.06</mass>
+			<period errorminus="0.3" errorplus="0.3">201.83</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.77</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.278</eccentricity>
 			<inclination>20</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>497.4</temperature>
+			<periastron errorminus="5.7000" errorplus="5.7000">-3.7</periastron>
+			<periastrontime errorminus="2.800000" errorplus="2.800000">2454594.7</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 60532 c</name>
 			<list>Confirmed planets</list>
-			<mass>7.46</mass>
-			<period>607.06</period>
-			<semimajoraxis>1.58</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
+			<mass errorminus="0.16" errorplus="0.16">2.51</mass>
+			<period errorminus="2.4" errorplus="2.4">600.1</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.58</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.038</eccentricity>
 			<inclination>20</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>348.9</temperature>
+			<periastron errorminus="58.7000" errorplus="58.7000">179.8</periastron>
+			<periastrontime errorminus="100.100000" errorplus="100.100000">2454973.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 60532</name>
-		<temperature>6095.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">6245.0</temperature>
+		<radius errorminus="0.12" errorplus="0.12">2.57</radius>
+		<age errorminus="0.600" errorplus="0.100">2.8</age>
 	</star>
 </system>

@@ -2,41 +2,47 @@
 	<name>HD 47186</name>
 	<rightascension>06 36 09</rightascension>
 	<declination>-27 37 20</declination>
-	<distance>37.84</distance>
+	<distance errorminus="1.29" errorplus="1.21">37.84</distance>
 	<star>
 		<mass>0.99</mass>
-		<magV>7.8</magV>
+		<magV errorminus="0.01" errorplus="0.01">7.626</magV>
 		<magB errorminus="0.01" errorplus="0.01">8.36</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.416</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.100</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.005</magK>
-		<metallicity>0.23</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<metallicity errorminus="0.02" errorplus="0.02">0.23</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 47186 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.07167</mass>
-			<period>4.0845</period>
+			<period errorminus="0.0002" errorplus="0.0002">4.0845</period>
 			<semimajoraxis>0.05</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.038</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/01/13</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1123.6</temperature>
+			<periastron errorminus="32.0000" errorplus="32.0000">59.0</periastron>
+			<periastrontime errorminus="0.360000" errorplus="0.360000">2454566.95</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 47186 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.35061</mass>
-			<period>1353.6</period>
+			<period errorminus="57.1" errorplus="57.1">1353.6</period>
 			<semimajoraxis>2.395</semimajoraxis>
-			<eccentricity>0.249</eccentricity>
+			<eccentricity errorminus="0.073" errorplus="0.073">0.249</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/01/13</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>161.7</temperature>
+			<periastron errorminus="23.0000" errorplus="23.0000">26.0</periastron>
+			<periastrontime errorminus="180.000000" errorplus="180.000000">2452010.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 47186</name>
-		<temperature>5675.0</temperature>
+		<temperature errorminus="21.0" errorplus="21.0">5675.0</temperature>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>24 Sex</name>
 	<rightascension>10 23 28.370</rightascension>
 	<declination>-00 54 08.09</declination>
-	<distance errorminus="4.9" errorplus="4.9">74.8</distance>
+	<distance errorminus="5.21" errorplus="4.57">74.8</distance>
 	<star>
 		<name>24 Sex</name>
 		<name>24 Sextantis</name>
@@ -14,7 +14,7 @@
 		<name>2MASS J10232836-0054079</name>
 		<mass errorminus="0.08" errorplus="0.08">1.54</mass>
 		<radius errorminus="0.08" errorplus="0.08">4.9</radius>
-		<magV>7.38</magV>
+		<magV errorminus="0.01" errorplus="0.01">6.441</magV>
 		<magB errorminus="0.015" errorplus="0.015">7.400</magB>
 		<magR errorminus="0.34" errorplus="0.34">6.41</magR>
 		<magJ errorminus="0.338" errorplus="0.338">5.292</magJ>
@@ -22,7 +22,7 @@
 		<magK errorminus="0.016" errorplus="0.016">4.285</magK>
 		<temperature errorminus="44" errorplus="44">5098</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>K0 IV</spectraltype>
 		<age errorminus="0.4" errorplus="0.4">2.7</age>
 		<planet>
 			<name>24 Sex b</name>
@@ -39,6 +39,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>24 Sex c</name>
@@ -54,6 +55,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>

@@ -2,7 +2,7 @@
 	<name>42 Dra</name>
 	<rightascension>18 25 59.13734</rightascension>
 	<declination>+65 33 48.5288</declination>
-	<distance errorminus="1.9" errorplus="1.9">96.5</distance>
+	<distance errorminus="4.76" errorplus="4.34">97.28</distance>
 	<star>
 		<name>42 Dra</name>
 		<name>42 Draconis</name>
@@ -22,7 +22,7 @@
 		<magK errorminus="0.216" errorplus="0.216">2.085</magK>
 		<temperature errorminus="70" errorplus="70">4200</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.46</metallicity>
-		<spectraltype>K1.5III</spectraltype>
+		<spectraltype>K1.5 III</spectraltype>
 		<age errorminus="1.76" errorplus="1.76">9.49</age>
 		<planet>
 			<name>42 Dra b</name>
@@ -38,7 +38,8 @@
 			<description>42 Draconis is a metal poor star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/24</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<discoveryyear>2008</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

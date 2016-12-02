@@ -2,7 +2,7 @@
 	<name>11 Com</name>
 	<rightascension>12 20 43</rightascension>
 	<declination>+17 47 34</declination>
-	<distance errorminus="1.7" errorplus="1.7">88.9</distance>
+	<distance errorminus="11.63" errorplus="9.61">110.62</distance>
 	<star>
 		<name>11 Com</name>
 		<name>11 Comae Berenices</name>
@@ -22,7 +22,7 @@
 		<magK errorminus="0.346" errorplus="0.346">2.282</magK>
 		<temperature errorminus="100" errorplus="100">4742</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.35</metallicity>
-		<spectraltype>G8 III</spectraltype>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>11 Com b</name>
 			<list>Confirmed planets</list>
@@ -35,7 +35,8 @@
 			<description>11 Com b is a brown dwarf-mass companion to the intermediate-mass star 11 Comae Berenices.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2007</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/qyJXJJDrEDo</videolink>

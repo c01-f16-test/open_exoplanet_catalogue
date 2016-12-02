@@ -2,30 +2,32 @@
 	<name>HD 50554</name>
 	<rightascension>06 54 42</rightascension>
 	<declination>+24 14 44</declination>
-	<distance>31.03</distance>
+	<distance errorminus="1.0" errorplus="0.94">31.03</distance>
 	<star>
-		<mass>1.04</mass>
-		<radius>1.11</radius>
-		<magV>6.86</magV>
+		<mass errorminus="0.01" errorplus="0.01">1.04</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.11</radius>
+		<magV errorminus="0.02" errorplus="0.02">6.86</magV>
 		<magJ errorminus="0.02" errorplus="0.02">5.776</magJ>
 		<magH errorminus="0.026" errorplus="0.026">5.516</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.467</magK>
 		<magB errorminus="0.02" errorplus="0.02">7.41</magB>
-		<metallicity>-0.07</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.07</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HD 50554 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.16</mass>
-			<period>1293</period>
-			<semimajoraxis>2.41</semimajoraxis>
-			<eccentricity>0.5</eccentricity>
+			<mass errorminus="0.389" errorplus="0.389">4.954</mass>
+			<period errorminus="37.0" errorplus="37.0">1293</period>
+			<semimajoraxis errorminus="0.0452" errorplus="0.0452">2.41</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.5</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>173.7</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 50554</name>
-		<temperature>5902.0</temperature>
+		<temperature errorminus="70.0" errorplus="70.0">5987.0</temperature>
+		<age errorminus="0.290" errorplus="0.290">2.16</age>
 	</star>
 </system>

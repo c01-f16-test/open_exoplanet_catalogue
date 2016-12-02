@@ -12,7 +12,7 @@
 		<name>Kepler-157</name>
 		<name>KOI-442</name>
 		<name>KIC 3745690</name>
-		<temperature errorminus="25" errorplus="125">5774</temperature>
+		<temperature errorminus="125.0" errorplus="125">5774</temperature>
 		<radius errorminus=".200" errorplus="0.200">1.044</radius>
 		<mass errorminus="0.0970" errorplus="0.0970">1.0280</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.11</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.34</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-157 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.028</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-157 d</name>
@@ -59,5 +63,7 @@
 			<period errorminus="0.000023880" errorplus="0.000023880">7.025734740</period>
 			<radius errorminus="0.009" errorplus="0.014">0.130</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.108</metallicity>
+		<magV errorminus="" errorplus="">14.002</magV>
 	</star>
 </system>

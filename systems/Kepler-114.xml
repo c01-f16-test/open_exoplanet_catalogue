@@ -14,7 +14,7 @@
 		<name>KIC 10925104</name>
 		<temperature errorminus="100" errorplus="100">4605</temperature>
 		<radius errorminus=".035" errorplus="0.035">0.667</radius>
-		<mass errorminus="0.0230" errorplus="0.0230">0.7090</mass>
+		<mass errorminus="0.0230" errorplus="0.0230">0.56</mass>
 		<planet>
 			<name>Kepler-114 c</name>
 			<name>KOI-156 c</name>
@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0009800" errorplus="0.0009800">2454976.0376100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-114 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-114 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.00200" errorplus="0.00200">0.009</mass>
 		</planet>
 		<planet>
 			<name>Kepler-114 b</name>
@@ -46,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.053</semimajoraxis>
+			<impactparameter errorminus="0.3100" errorplus="0.3100">0.69</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-114 d</name>
@@ -58,10 +61,13 @@
 			<transittime errorminus="0.0005200" errorplus="0.0005200">2454975.7047700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-114 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-114 d are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.00500" errorplus="0.00500">0.012</mass>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.003</metallicity>
+		<magV errorminus="" errorplus="">13.738</magV>
 	</star>
 </system>

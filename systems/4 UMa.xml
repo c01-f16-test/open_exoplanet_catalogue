@@ -2,7 +2,7 @@
 	<name>4 UMa</name>
 	<rightascension>08 40 12.81767</rightascension>
 	<declination>+64 19 40.5700</declination>
-	<distance>78.5</distance>
+	<distance errorminus="4.5" errorplus="4.03">77.4</distance>
 	<star>
 		<name>4 UMa</name>
 		<name>4 Ursae Majoris</name>
@@ -17,7 +17,7 @@
 		<name>HR 3404</name>
 		<name>2MASS J08401279+6419405</name>
 		<temperature errorminus="70" errorplus="70">4415</temperature>
-		<magV errorminus="0.005" errorplus="0.005">5.787</magV>
+		<magV errorminus="0.005" errorplus="0.005">4.61</magV>
 		<magR>3.72</magR>
 		<magI>3.09</magI>
 		<magJ>2.48</magJ>
@@ -27,7 +27,7 @@
 		<mass errorminus="0.15" errorplus="0.15">1.234</mass>
 		<radius errorminus="1.47" errorplus="1.47">18.11</radius>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.25</metallicity>
-		<spectraltype>K1III</spectraltype>
+		<spectraltype>K1 III</spectraltype>
 		<age errorminus="2.0" errorplus="2.0">4.604</age>
 		<planet>
 			<name>4 UMa b</name>
@@ -52,8 +52,9 @@
 			<description>4 Ursae Majoris is also known as Muscida, a name that is shared with 3 Ursae Majoris and Omicron Ursae Majoris.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>877.3</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>
