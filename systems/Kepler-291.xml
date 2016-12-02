@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.047</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.33</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-291 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis>
+			<impactparameter errorminus="0.3600" errorplus="0.3600">0.57</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.07</metallicity>
+		<magV errorminus="" errorplus="">15.934</magV>
 	</star>
 </system>

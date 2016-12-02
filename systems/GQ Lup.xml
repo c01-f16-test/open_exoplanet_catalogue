@@ -2,32 +2,36 @@
 	<name>GQ Lup</name>
 	<rightascension>15 49 12</rightascension>
 	<declination>-35 39 03</declination>
-	<distance>140</distance>
+	<distance errorminus="45.0" errorplus="45.0">139.0</distance>
 	<star>
 		<mass>0.7</mass>
-		<magV>11.4</magV>
+		<magV>12.43</magV>
 		<magB>12.36</magB>
 		<magR>11.000</magR>
 		<magJ errorminus="0.021" errorplus="0.021">8.605</magJ>
 		<magH errorminus="0.033" errorplus="0.033">7.702</magH>
 		<magK errorminus="0.020" errorplus="0.020">7.096</magK>
-		<spectraltype>K7eV</spectraltype>
+		<spectraltype>K7e V</spectraltype>
 		<planet>
 			<name>GQ Lup b</name>
 			<list>Confirmed planets</list>
-			<mass>21.5</mass>
-			<radius>1.8</radius>
+			<mass>20.0</mass>
+			<radius errorminus="0.5" errorplus="0.5">3.0</radius>
 			<separation errorminus="0.0033" errorplus="0.0033" unit="arcsec">0.7351</separation>
 			<separation unit="AU">103</separation>
 			<positionangle errorminus="0.34" errorplus="0.34">276.00</positionangle>
 			<description>GQ Lupi b is a directly imaged planet or brown dwarf orbiting the star GQ Lupi in the constellation Lupus.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>10/12/06</lastupdate>
-			<discoveryyear>2005</discoveryyear>
+			<discoveryyear>2004</discoveryyear>
 			<image>GQ Lupi</image>
 			<imagedescription>This image show the star GQ Lupi and a planetary companion on the right. It was taken with NOCA on VLT. The planetary companion is about 250 dimmer than the star. Credit: ESO.</imagedescription>
+			<semimajoraxis errorminus="" errorplus="">100.0</semimajoraxis>
+			<temperature errorminus="100" errorplus="100">2650.0</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>GQ Lup</name>
 		<temperature>5150.0</temperature>
+		<age errorminus="0.001" errorplus="0.001">0.001</age>
 	</star>
 </system>

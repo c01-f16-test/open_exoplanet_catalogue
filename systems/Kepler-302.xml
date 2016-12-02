@@ -12,7 +12,7 @@
 		<name>Kepler-302</name>
 		<name>KOI-1486</name>
 		<name>KIC 7898352</name>
-		<temperature errorminus="07" errorplus="107">5740</temperature>
+		<temperature errorminus="107.0" errorplus="107">5740</temperature>
 		<radius errorminus=".249" errorplus="0.249">1.220</radius>
 		<mass errorminus="0.0850" errorplus="0.0850">1.0210</mass>
 		<planet>
@@ -21,7 +21,7 @@
 			<name>KOI-1486.01</name>
 			<name>KIC 7898352 c</name>
 			<name>KIC 7898352.01</name>
-			<radius errorminus="0.04921" errorplus="0.23147">1.13457</radius>
+			<radius errorminus="0.227" errorplus="0.23147">1.13457</radius>
 			<period errorminus=".000427" errorplus="0.000427">127.282184</period>
 			<transittime errorminus="0.0021300" errorplus="0.0021300">2454996.8893700</transittime>
 			<list>Confirmed planets</list>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.503</semimajoraxis>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.83</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-302 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.193</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.73</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.238</metallicity>
+		<magV errorminus="" errorplus="">15.505</magV>
 	</star>
 </system>

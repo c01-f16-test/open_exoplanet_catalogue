@@ -3,13 +3,13 @@
 	<name>GJ 3470</name>
 	<rightascension>07 59 06</rightascension>
 	<declination>+15 23 30</declination>
-	<distance>30.7</distance>
+	<distance errorminus="2.9" errorplus="2.9">25.2</distance>
 	<star>
 		<name>Gliese 3470</name>
 		<name>GJ 3470</name>
 		<mass errorminus="0.06" errorplus="0.06">0.51</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.48</radius>
-		<magV>12.3</magV>
+		<magV errorminus="0.012" errorplus="0.012">12.3</magV>
 		<magB>13.5</magB>
 		<magR>11.2</magR>
 		<magI>9.8</magI>
@@ -19,14 +19,14 @@
 		<metallicity errorminus="0.06" errorplus="0.06">0.17</metallicity>
 		<spectraltype>M1.5</spectraltype>
 		<temperature errorminus="50" errorplus="50">3652</temperature>
-		<age lowerlimit="1" upperlimit="4" />
+		<age errorminus="1.5" errorplus="1.5" lowerlimit="1" upperlimit="4">2.5</age>
 		<planet>
 			<name>Gliese 3470 b</name>
 			<name>GJ 3470 b</name>
 			<name>LP 424-4</name>
 			<name>2MASS J07590587+1523294</name>
 			<list>Confirmed planets</list>
-			<inclination errorminus="0.30" errorplus="0.34">88.12</inclination>
+			<inclination errorminus="0.45" errorplus="0.62">88.88</inclination>
 			<mass errorminus="0.00506" errorplus="0.00506">0.04320</mass>
 			<radius errorminus="0.029" errorplus="0.029">0.346</radius>
 			<period errorminus="0.0000033" errorplus="0.0000043">3.3366487</period>
@@ -35,11 +35,12 @@
 			<periastron errorminus="1.20" errorplus="0.96">1.70</periastron>
 			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455983.70472</transittime>
 			<description>The planet Gliese 3470 b is a transiting Hot Uranus orbiting a nearby M-dwarf. The planet was originally seen in HARPS radial velocity data and then confirmed to be a transiting planet. Spitzer observations show that it has a very low density.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/04/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature lowerlimit="506" upperlimit="702" />
+			<temperature errorminus="98.0" errorplus="98.0" lowerlimit="506" upperlimit="702">604.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1400" errorplus="0.1400">0.29</impactparameter>
 		</planet>
 	</star>
 </system>

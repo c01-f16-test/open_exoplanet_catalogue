@@ -2,30 +2,34 @@
 	<name>HD 38801</name>
 	<rightascension>05 47 59</rightascension>
 	<declination>-08 19 40</declination>
-	<distance>99.4</distance>
+	<distance errorminus="20.79" errorplus="14.66">99.4</distance>
 	<star>
-		<mass>1.36</mass>
-		<radius>2.53</radius>
-		<magV>8.26</magV>
+		<mass errorminus="0.09" errorplus="0.09">1.36</mass>
+		<radius errorminus="0.13" errorplus="0.13">2.53</radius>
+		<magV errorminus="0.013" errorplus="0.013">8.26</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.14</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.800</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.372</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.279</magK>
-		<metallicity>0.26</metallicity>
-		<spectraltype>K0IV</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">0.26</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 38801 b</name>
 			<list>Confirmed planets</list>
-			<mass>10.7</mass>
-			<period>696.3</period>
-			<semimajoraxis>1.7</semimajoraxis>
+			<mass errorminus="0.5" errorplus="0.5">10.7</mass>
+			<period errorminus="2.7" errorplus="2.7">696.3</period>
+			<semimajoraxis errorminus="0.037" errorplus="0.037">1.7</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/15</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>280.9</temperature>
+			<periastron errorminus="" errorplus="">0.0</periastron>
+			<periastrontime errorminus="2.100000" errorplus="2.100000">2453966.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 38801</name>
-		<temperature>5222.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5222.0</temperature>
+		<age errorminus="2.560" errorplus="2.560">4.67</age>
 	</star>
 </system>

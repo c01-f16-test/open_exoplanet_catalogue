@@ -2,17 +2,17 @@
 	<name>HAT-P-4</name>
 	<rightascension>15 19 58</rightascension>
 	<declination>+36 13 47</declination>
-	<distance>310</distance>
+	<distance errorminus="24.0" errorplus="24.0">314.0</distance>
 	<star>
-		<mass>1.26</mass>
-		<radius>1.59</radius>
+		<mass errorplus="0.14">1.26</mass>
+		<radius errorplus="0.06">1.59</radius>
 		<magV errorminus="0.07" errorplus="0.07">11.12</magV>
 		<magB errorminus="0.10" errorplus="0.10">11.83</magB>
 		<magJ errorminus="0.018" errorplus="0.018">10.100</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.837</magH>
 		<magK errorminus="0.018" errorplus="0.018">9.770</magK>
 		<metallicity>0.24</metallicity>
-		<spectraltype>F</spectraltype>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HAT-P-4 b</name>
 			<name>BD+36 2593 b</name>
@@ -20,21 +20,22 @@
 			<name>2MASS J15195792+3613467 b</name>
 			<name>SAO 64638 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<radius>1.27</radius>
+			<mass errorminus="0.044" errorplus="0.033">0.68</mass>
+			<radius errorminus="0.06" errorplus="0.049">1.27</radius>
 			<period>3.0565114</period>
-			<semimajoraxis>0.0446</semimajoraxis>
+			<semimajoraxis errorminus="0.0015" errorplus="0.00081">0.0446</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>89.67</inclination>
+			<inclination errorminus="2.2" errorplus="0.09">89.91</inclination>
 			<transittime errorminus="0.00023" errorplus="0.00025" unit="BJD">2454365.91538</transittime>
 			<description>The star HAT-P-4 is located in the constellation Bootes.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1550.7</temperature>
+			<temperature errorminus="26.0" errorplus="30.0">1686.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.2300">0.01</impactparameter>
 		</planet>
 		<name>HAT-P-4</name>
-		<temperature>5890.0</temperature>
+		<temperature errorplus="80.0">5860.0</temperature>
 	</star>
 </system>

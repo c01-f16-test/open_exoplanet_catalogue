@@ -2,7 +2,7 @@
 	<name>30 Ari</name>
 	<rightascension>02 37 00.52363</rightascension>
 	<declination>+24 38 49.9957</declination>
-	<distance>41.8</distance>
+	<distance errorminus="1.79" errorplus="1.64">39.43</distance>
 	<binary>
 		<name>30 Ari</name>
 		<name>30 Arietis</name>
@@ -71,25 +71,26 @@
 				<magJ>6.080</magJ>
 				<magH errorminus="0.029" errorplus="0.029">5.908</magH>
 				<magK>5.90</magK>
-				<metallicity>0.07</metallicity>
-				<spectraltype>F8V</spectraltype>
+				<metallicity errorminus="0.195" errorplus="0.195">0.245</metallicity>
+				<spectraltype>F6 V</spectraltype>
 				<age errorminus="0.83" errorplus="0.83">0.91</age>
 				<planet>
 					<name>30 Ari B b</name>
 					<name>30 Arietis B b</name>
 					<list>Confirmed planets</list>
-					<mass errorminus="0.9" errorplus="0.9" type="msini">6.6</mass>
-					<period errorminus="3.8" errorplus="3.8">345.4</period>
+					<mass errorminus="0.9" errorplus="0.9" type="msini">9.88</mass>
+					<period errorminus="2.5" errorplus="2.5">335.1</period>
 					<semimajoraxis errorminus="0.01" errorplus="0.01">1.01</semimajoraxis>
-					<eccentricity errorminus="0.11" errorplus="0.11">0.18</eccentricity>
-					<periastron errorminus="57" errorplus="57">337</periastron>
-					<periastrontime errorminus="42.4" errorplus="42.4">245322.1</periastrontime>
+					<eccentricity errorminus="0.11" errorplus="0.11">0.289</eccentricity>
+					<periastron errorminus="18.0" errorplus="18.0">307.0</periastron>
+					<periastrontime errorminus="20.0" errorplus="20.0">2454538.0</periastrontime>
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>16/01/10</lastupdate>
 					<discoveryyear>2009</discoveryyear>
 					<list>Planets in binary systems, S-type</list>
+					<istransiting>1</istransiting>
 				</planet>
-				<temperature>6424</temperature>
+				<temperature errorminus="60.0" errorplus="60.0">6300.0</temperature>
 			</star>
 			<star>
 				<name>30 Ari C</name>

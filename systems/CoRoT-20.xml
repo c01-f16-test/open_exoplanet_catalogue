@@ -15,7 +15,7 @@
 		<magK errorminus="0.029" errorplus="0.029">12.513</magK>
 		<metallicity errorminus="0.12" errorplus="0.12">0.14</metallicity>
 		<age errorminus="0.04" errorplus="0.8">0.1</age>
-		<spectraltype>G2V</spectraltype>
+		<spectraltype>G2 V</spectraltype>
 		<planet>
 			<name>CoRoT-20 b</name>
 			<name>CoRoT-Exo 20 b</name>
@@ -24,7 +24,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.23" errorplus="0.23">4.24</mass>
 			<radius errorminus="0.04" errorplus="0.04">0.84</radius>
-			<period>9.2</period>
+			<period errorminus="0.0003" errorplus="0.0003">9.2</period>
 			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.0902</semimajoraxis>
 			<eccentricity errorminus="0.013" errorplus="0.013">0.562</eccentricity>
 			<inclination errorminus="0.53" errorplus="0.53">88.21</inclination>
@@ -34,6 +34,9 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="24" errorplus="24">1002</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="2.3000" errorplus="2.4000">56.3</periastron>
+			<impactparameter errorminus="0.0800" errorplus="0.0800">0.26</impactparameter>
+			<periastrontime errorminus="" errorplus="">2455265.79074</periastrontime>
 		</planet>
 		<name>CoRoT-20</name>
 		<temperature errorminus="90" errorplus="90">5880.0</temperature>

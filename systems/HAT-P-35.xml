@@ -2,11 +2,11 @@
 	<name>HAT-P-35</name>
 	<rightascension>08 13 00</rightascension>
 	<declination>+04 47 13</declination>
-	<distance>535</distance>
+	<distance errorminus="32.0" errorplus="32.0">535</distance>
 	<star>
-		<mass>1.236</mass>
-		<radius>1.435</radius>
-		<magV errorminus="0.19" errorplus="0.19">11.59</magV>
+		<mass errorplus="0.05">1.236</mass>
+		<radius errorplus="0.08">1.435</radius>
+		<magV errorminus="0.19" errorplus="0.19">12.46</magV>
 		<magB errorminus="0.45" errorplus="0.45">12.84</magB>
 		<magR errorminus="0.09" errorplus="0.09">12.38</magR>
 		<magJ errorminus="0.024" errorplus="0.024">11.358</magJ>
@@ -18,21 +18,23 @@
 			<name>HAT-P-35 b</name>
 			<name>2MASS 08130018+0447132</name>
 			<list>Confirmed planets</list>
-			<mass>1.054</mass>
-			<radius>1.332</radius>
-			<period>3.6467</period>
-			<semimajoraxis>0.0498</semimajoraxis>
-			<eccentricity>0.025</eccentricity>
-			<inclination>87.3</inclination>
+			<mass errorminus="0.033" errorplus="0.033">1.054</mass>
+			<radius errorminus="0.098" errorplus="0.098">1.332</radius>
+			<period errorminus="2.1e-05" errorplus="2.1e-05">3.6467</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0498</semimajoraxis>
+			<eccentricity errorminus="0.018" errorplus="0.018">0.025</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.0">87.3</inclination>
 			<description>HAT-P-35 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/01/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1442.8</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<temperature errorminus="45.0" errorplus="45.0">1581.0</temperature>
 			<transittime errorminus="0.00050" errorplus="0.00050" unit="BJD">2455578.66081</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="93.0000" errorplus="93.0000">248.0</periastron>
+			<impactparameter errorminus="0.1270" errorplus="0.0920">0.357</impactparameter>
 		</planet>
 		<name>HAT-P-35</name>
-		<temperature>6096.0</temperature>
+		<temperature errorplus="88.0">6096.0</temperature>
 	</star>
 </system>

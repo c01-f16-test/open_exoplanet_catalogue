@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.08</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.42</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-298 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.136</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.59</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-298 d</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.305</semimajoraxis>
+			<impactparameter errorminus="0.3500" errorplus="0.3500">0.75</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.121</metallicity>
+		<magV errorminus="" errorplus="">15.415</magV>
 	</star>
 </system>

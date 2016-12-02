@@ -20,8 +20,8 @@
 		<magH errorminus="0.017" errorplus="0.017">7.032</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.879</magK>
 		<metallicity errorminus="0.20" errorplus="0.20">0.30</metallicity>
-		<spectraltype>K5Ve</spectraltype>
-		<age lowerlimit="0.035" upperlimit="0.080" />
+		<spectraltype>K5 V</spectraltype>
+		<age errorminus="0.023" errorplus="0.023" lowerlimit="0.035" upperlimit="0.080">0.058</age>
 		<planet>
 			<name>BD+20 1790 b</name>
 			<name>V429 Gem b</name>
@@ -38,8 +38,9 @@
 			<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2010</discoveryyear>
 			<istransiting>0</istransiting>
 		</planet>
+		<radius errorminus="0.03" errorplus="0.03">0.71</radius>
 	</star>
 </system>

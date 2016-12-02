@@ -2,37 +2,39 @@
 	<name>CoRoT-11</name>
 	<rightascension>18 42 45</rightascension>
 	<declination>+05 56 16</declination>
-	<distance>560</distance>
+	<distance errorminus="30.0" errorplus="30.0">560</distance>
 	<star>
-		<mass>1.27</mass>
-		<radius>1.37</radius>
+		<mass errorminus="0.05" errorplus="0.05">1.27</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.37</radius>
 		<magV errorminus="0.38" errorplus="0.38">12.80</magV>
 		<magB errorminus="0.45" errorplus="0.45">13.73</magB>
 		<magJ errorminus="0.021" errorplus="0.021">11.589</magJ>
 		<magH errorminus="0.029" errorplus="0.029">11.416</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.248</magK>
-		<metallicity>-0.03</metallicity>
-		<spectraltype>F6V</spectraltype>
+		<metallicity errorminus="0.08" errorplus="0.08">-0.03</metallicity>
+		<spectraltype>F6 V</spectraltype>
 		<planet>
 			<name>CoRoT-11 b</name>
 			<name>CoRoT-Exo-11 b</name>
 			<name>2MASS J18424494+0556156 b</name>
 			<name>CoRoTID 105833549 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.49</mass>
-			<radius>1.39</radius>
-			<period>2.994325</period>
-			<semimajoraxis>0.04351</semimajoraxis>
+			<mass errorminus="0.34" errorplus="0.34">2.33</mass>
+			<radius errorminus="0.03" errorplus="0.03">1.39</radius>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">2.994325</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.04351</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>81.41</inclination>
+			<inclination errorminus="0.15" errorplus="0.15">83.17</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454597.6797</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/07/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1593.4</temperature>
+			<temperature errorminus="55.0" errorplus="55.0">1657.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0080" errorplus="0.0080">0.818</impactparameter>
 		</planet>
 		<name>CoRoT-11</name>
-		<temperature>6440.0</temperature>
+		<temperature errorminus="120.0" errorplus="120.0">6440.0</temperature>
+		<age errorminus="1.000" errorplus="1.000">2.0</age>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>Gliese 504</name>
 	<rightascension>13 16 47</rightascension>
 	<declination>+09 25 27</declination>
-	<distance errorminus="0.08" errorplus="0.08">17.56</distance>
+	<distance errorminus="0.28" errorplus="0.27">17.95</distance>
 	<star>
 		<magB>5.81</magB>
 		<magV>5.22</magV>
@@ -18,7 +18,7 @@
 		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
 		<temperature errorminus="25" errorplus="25">6234</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>G0 V</spectraltype>
 		<age errorminus="0.06" errorplus="0.35">0.16</age>
 		<planet>
 			<name>Gliese 504 b</name>
@@ -43,6 +43,8 @@
 			<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
 			
 Credit: Kuzuhara et al. (2013).</imagedescription>
+			<semimajoraxis errorminus="" errorplus="">43.5</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

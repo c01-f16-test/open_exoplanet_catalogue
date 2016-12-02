@@ -23,25 +23,30 @@
 		<magJ>4.09</magJ>
 		<magH>3.99</magH>
 		<magK errorminus="0.05" errorplus="0.05">3.89</magK>
-		<mass>1.00</mass>
-		<temperature>5823</temperature>
+		<mass errorminus="0.03" errorplus="0.03">0.89</mass>
+		<temperature errorminus="54.0" errorplus="54.0">5627.0</temperature>
 		<planet>
 			<name>Rho Coronae Borealis b</name>
 			<name>rho CrB b</name>
 			<name>ρ CrB b</name>
 			<period errorminus="0.0063" errorplus="0.0063">39.8449</period>
 			<eccentricity errorminus="0.028" errorplus="0.028">0.057</eccentricity>
-			<periastron>303</periastron>
+			<periastron errorminus="5.8" errorplus="5.9">270.6</periastron>
 			<periastrontime errorminus="4.1" errorplus="4.1">2450563.2</periastrontime>
-			<semimajoraxis>0.24</semimajoraxis>
+			<semimajoraxis errorminus="0.0025" errorplus="0.0024">0.24</semimajoraxis>
 			<inclination lowerlimit="0.4" upperlimit="0.7">0.4</inclination>
 			<ascendingnode lowerlimit="242.3" upperlimit="290.6">266.4</ascendingnode>
-			<mass lowerlimit="100.1" upperlimit="199.6">169.7</mass>
+			<mass errorminus="0.02391" errorplus="0.0236" lowerlimit="100.1" upperlimit="199.6">1.0449</mass>
 			<discoveryyear>1997</discoveryyear>
 			<discoverymethod>RV</discoverymethod>
 			<list>Controversial</list>
 			<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit.</description>
 			<lastupdate>15/04/20</lastupdate>
+			<temperature errorminus="9" errorplus="9">614.0</temperature>
+			<istransiting>0</istransiting>
 		</planet>
+		<radius errorminus="0.03" errorplus="0.03">1.36</radius>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.31</metallicity>
+		<spectraltype>G0 V</spectraltype>
 	</star>
 </system>

@@ -36,6 +36,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.6800" errorplus="0.6600">0.04</impactparameter>
 		</planet>
 		<planet>
 			<name>PH3 c</name>
@@ -54,6 +55,7 @@
 			<lastupdate>14/11/01</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.7600" errorplus="0.7000">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-289 c</name>
@@ -74,6 +76,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0290" errorplus="0.0260">0.394</impactparameter>
 		</planet>
+		<age errorminus="0.440" errorplus="0.440">0.65</age>
+		<magV errorminus="" errorplus="">13.956</magV>
 	</star>
 </system>

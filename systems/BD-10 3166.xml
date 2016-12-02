@@ -3,12 +3,12 @@
 	<name>BD-10°3166</name>
 	<rightascension>10 58 28.7798</rightascension>
 	<declination>-10 46 13.386</declination>
-	<distance errorminus="13.64" errorplus="13.64">65.19</distance>
+	<distance errorminus="10.0" errorplus="10.0">80.0</distance>
 	<star>
 		<name>BD-10 3166</name>
 		<name>TYC 5503-946-1</name>
 		<name>2MASS J10582880-1046133</name>
-		<mass>0.85</mass>
+		<mass>1.01</mass>
 		<radius errorminus="0.03" errorplus="0.05">0.81</radius>
 		<magV errorminus="0.04" errorplus="0.04">10.01</magV>
 		<magI>9.19</magI>
@@ -19,7 +19,7 @@
 		<magK errorminus="0.026" errorplus="0.026">8.124</magK>
 		<temperature errorminus="44" errorplus="44">5393</temperature>
 		<metallicity errorminus="0.030" errorplus="0.030">0.382</metallicity>
-		<spectraltype>K3.0 V</spectraltype>
+		<spectraltype>K0 V</spectraltype>
 		<age upperlimit="1.84" />
 		<planet>
 			<name>BD-10 3166 b</name>
@@ -34,6 +34,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2000</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.036</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-301 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.112</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.27</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-301 c</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.06</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.11</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.178</metallicity>
+		<magV errorminus="" errorplus="">14.271</magV>
 	</star>
 </system>

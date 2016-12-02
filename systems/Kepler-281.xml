@@ -21,7 +21,7 @@
 			<name>KOI-1258.01</name>
 			<name>KIC 8630788 c</name>
 			<name>KIC 8630788.01</name>
-			<radius errorminus="0.00547" errorplus="0.18773">0.48390</radius>
+			<radius errorminus="0.184" errorplus="0.18773">0.48390</radius>
 			<period errorminus=".000111" errorplus="0.000111">36.337373</period>
 			<transittime errorminus="0.0017500" errorplus="0.0017500">2454993.4009200</transittime>
 			<list>Confirmed planets</list>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.215</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.77</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-281 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.117</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.92</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.012</metallicity>
+		<magV errorminus="" errorplus="">15.773</magV>
 	</star>
 </system>

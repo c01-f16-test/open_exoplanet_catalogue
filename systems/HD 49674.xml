@@ -2,27 +2,30 @@
 	<name>HD 49674</name>
 	<rightascension>06 51 30</rightascension>
 	<declination>+40 52 03</declination>
-	<distance>40.7</distance>
+	<distance errorminus="1.98" errorplus="1.81">40.7</distance>
 	<star>
 		<mass>1.07</mass>
 		<radius>0.94</radius>
 		<magV>8.1</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.83</magB>
-		<metallicity>0.25</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.25</metallicity>
 		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 49674 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.115</mass>
-			<period>4.9437</period>
-			<semimajoraxis>0.058</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
+			<mass errorminus="0.011" errorplus="0.011">0.115</mass>
+			<period errorminus="0.00098" errorplus="0.00098">4.9437</period>
+			<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.058</semimajoraxis>
+			<eccentricity errorminus="0.095" errorplus="0.095">0.087</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>969.8</temperature>
+			<periastron errorminus="" errorplus="">264.0</periastron>
+			<periastrontime errorminus="0.880000" errorplus="0.880000">2451882.38</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 49674</name>
-		<temperature>5482.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5662.0</temperature>
 	</star>
 </system>

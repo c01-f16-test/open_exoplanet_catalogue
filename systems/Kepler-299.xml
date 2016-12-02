@@ -12,7 +12,7 @@
 		<name>Kepler-299</name>
 		<name>KOI-1432</name>
 		<name>KIC 11014932</name>
-		<temperature errorminus="12" errorplus="112">5617</temperature>
+		<temperature errorminus="112.0" errorplus="112">5617</temperature>
 		<radius errorminus=".208" errorplus="0.208">1.032</radius>
 		<mass errorminus="0.0680" errorplus="0.0680">1.0010</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.07</semimajoraxis>
+			<impactparameter errorminus="0.3400" errorplus="0.3400">0.95</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-299 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.118</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.52</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-299 b</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.04</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.38</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-299 e</name>
@@ -78,6 +84,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.22</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.22</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.052</metallicity>
+		<magV errorminus="" errorplus="">15.017</magV>
 	</star>
 </system>

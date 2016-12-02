@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.232</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.7</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-300 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.094</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.33</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.238</metallicity>
+		<magV errorminus="" errorplus="">14.201</magV>
 	</star>
 </system>

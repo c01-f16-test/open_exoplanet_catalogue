@@ -2,9 +2,9 @@
 	<name>AB Pic</name>
 	<rightascension>06 19 12</rightascension>
 	<declination>-58 03 15</declination>
-	<distance errorminus="1.7" errorplus="1.8">45.5</distance>
+	<distance errorminus="1.7" errorplus="1.64">45.5</distance>
 	<star>
-		<magV>9.16</magV>
+		<magV errorminus="0.019" errorplus="0.019">9.16</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.01</magB>
 		<magR>9.1</magR>
 		<magI>8.23</magI>
@@ -16,7 +16,7 @@
 		<planet>
 			<name>AB Pic b</name>
 			<list>Confirmed planets</list>
-			<mass lowerlimit="10" upperlimit="14">12</mass>
+			<mass errorminus="0.5" errorplus="0.5" lowerlimit="10" upperlimit="14">13.5</mass>
 			<temperature errorminus="100" errorplus="100">1750</temperature>
 			<radius lowerlimit="1.5" upperlimit="1.6">1.55</radius>
 			<separation errorminus="0.014" errorplus="0.014" unit="arcsec">5.450</separation>
@@ -29,8 +29,11 @@
 			<discoveryyear>2005</discoveryyear>
 			<image>AB Pic</image>
 			<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+			<semimajoraxis errorminus="" errorplus="">260.0</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>AB Pic</name>
 		<temperature>4875.0</temperature>
+		<age errorminus="" errorplus="">0.03</age>
 	</star>
 </system>
