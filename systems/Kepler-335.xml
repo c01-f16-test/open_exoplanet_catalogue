@@ -12,7 +12,7 @@
 		<name>Kepler-335</name>
 		<name>KOI-1915</name>
 		<name>KIC 9101496</name>
-		<temperature errorminus="12" errorplus="112">5877</temperature>
+		<temperature errorminus="112.0" errorplus="112">5877</temperature>
 		<radius errorminus=".350" errorplus="0.350">1.854</radius>
 		<planet>
 			<name>Kepler-335 b</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.075</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.83</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-335 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.356</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.77</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">0.99</mass>
+		<metallicity errorminus="" errorplus="">-0.106</metallicity>
+		<magV errorminus="" errorplus="">13.996</magV>
 	</star>
 </system>

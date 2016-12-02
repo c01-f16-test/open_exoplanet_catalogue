@@ -18,7 +18,7 @@
 		<radius errorminus="0.12" errorplus="0.14">1.67</radius>
 		<temperature errorminus="55" errorplus="54">5754</temperature>
 		<metallicity errorminus="0.038" errorplus="0.038">0.272</metallicity>
-		<spectraltype>G2V</spectraltype>
+		<spectraltype>G2 V</spectraltype>
 		<planet>
 			<name>KELT-8 b</name>
 			<name>HD 343246 b</name>
@@ -39,6 +39,10 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/05/25</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron errorminus="97.0000" errorplus="87.0000">85.0</periastron>
+			<impactparameter errorminus="0.0330" errorplus="0.0270">0.741</impactparameter>
+			<periastrontime errorminus="0.860000" errorplus="0.750000">2456870.47</periastrontime>
 		</planet>
+		<age errorminus="0.500" errorplus="0.400">5.4</age>
 	</star>
 </system>

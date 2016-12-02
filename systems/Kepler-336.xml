@@ -14,7 +14,7 @@
 		<name>KIC 6037581</name>
 		<temperature errorminus="100" errorplus="100">5867</temperature>
 		<radius errorminus=".230" errorplus="0.230">1.304</radius>
-		<mass errorminus="0.0600" errorplus="0.0600">1.0570</mass>
+		<mass errorminus="0.0600" errorplus="0.0600">0.89</mass>
 		<planet>
 			<name>Kepler-336 d</name>
 			<name>KOI-1916 d</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.154</semimajoraxis>
+			<impactparameter errorminus="0.3500" errorplus="0.3500">0.5</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-336 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.092</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-336 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.033</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.06</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.401</metallicity>
+		<magV errorminus="" errorplus="">13.598</magV>
 	</star>
 </system>

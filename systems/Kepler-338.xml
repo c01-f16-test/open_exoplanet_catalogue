@@ -37,6 +37,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.14</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-338 c</name>
@@ -56,6 +57,7 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.03</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-338 d</name>
@@ -73,6 +75,8 @@
 			<lastupdate>15/07/28</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.257</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.79</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-338 e</name>
@@ -89,7 +93,7 @@
 			<description>Kepler-338 e was confirmed by transit timing variations.</description>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/07/28</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

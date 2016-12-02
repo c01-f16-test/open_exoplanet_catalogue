@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.055</semimajoraxis>
+			<impactparameter errorminus="0.3500" errorplus="0.3500">0.6</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-339 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.091</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.25</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-339 c</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.069</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.46</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.237</metallicity>
+		<magV errorminus="" errorplus="">14.531</magV>
 	</star>
 </system>

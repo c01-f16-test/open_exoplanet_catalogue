@@ -4,8 +4,8 @@
 	<declination>+47 19 59</declination>
 	<distance>980</distance>
 	<star>
-		<mass>1.512</mass>
-		<radius>2.048</radius>
+		<mass errorminus="0.04" errorplus="0.04">1.512</mass>
+		<radius errorminus="0.08" errorplus="0.11">2.048</radius>
 		<magV>12.12</magV>
 		<magB errorminus="0.16" errorplus="0.16">12.24</magB>
 		<magR errorminus="0.06" errorplus="0.06">12.16</magR>
@@ -13,7 +13,7 @@
 		<magJ errorminus="0.022" errorplus="0.022">11.202</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.068</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.988</magK>
-		<metallicity>0.12</metallicity>
+		<metallicity errorminus="0.06" errorplus="0.06">0.12</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
 			<name>Kepler-14 b</name>
@@ -23,21 +23,23 @@
 			<name>KOI-98.01</name>
 			<name>KOI-98 b</name>
 			<list>Confirmed planets</list>
-			<mass>8.4</mass>
-			<radius>1.136</radius>
-			<period>6.790123</period>
-			<eccentricity>0.035</eccentricity>
-			<inclination>90</inclination>
+			<mass errorminus="0.34" errorplus="0.35">8.4</mass>
+			<radius errorminus="0.054" errorplus="0.073">1.136</radius>
+			<period errorminus="4.3e-06" errorplus="4.3e-06">6.790123</period>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.035</eccentricity>
+			<inclination errorminus="2.8" errorplus="0.0">90</inclination>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="HJD">2454971.08737</transittime>
 			<description>This planet was discovered with the Kepler spacecraft. The host star is in a close visual binary. The object was previously known as KOI-98 (Kepler Object of Interest).</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/06/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0000" errorplus="0.4100">0.0</impactparameter>
 		</planet>
 		<name>Kepler-14</name>
 		<name>KOI-98</name>
 		<name>KIC 10264660</name>
-		<temperature>6395.0</temperature>
+		<temperature errorminus="60.0" errorplus="60.0">6395.0</temperature>
+		<age errorminus="0.100" errorplus="0.200">2.2</age>
 	</star>
 </system>

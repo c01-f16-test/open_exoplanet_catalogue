@@ -12,7 +12,7 @@
 		<name>Kepler-340</name>
 		<name>KOI-1932</name>
 		<name>KIC 5202905</name>
-		<temperature errorminus="76" errorplus="376">6620</temperature>
+		<temperature errorminus="376.0" errorplus="376">6620</temperature>
 		<radius errorminus=".416" errorplus="0.416">1.850</radius>
 		<planet>
 			<name>Kepler-340 c</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.178</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.12</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-340 b</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.134</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.31</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">2.11</mass>
+		<metallicity errorminus="" errorplus="">-0.094</metallicity>
+		<magV errorminus="" errorplus="">12.345</magV>
 	</star>
 </system>

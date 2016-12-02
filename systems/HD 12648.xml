@@ -37,6 +37,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/30</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron errorminus="140.7000" errorplus="140.7000">99.3</periastron>
+			<istransiting>0</istransiting>
 		</planet>
+		<age errorminus="1.000" errorplus="1.000">4.5</age>
 	</star>
 </system>
