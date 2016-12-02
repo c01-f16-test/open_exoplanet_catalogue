@@ -14,7 +14,7 @@
 		<name>KIC 5371776</name>
 		<temperature errorminus="100" errorplus="100">4731</temperature>
 		<radius errorminus=".037" errorplus="0.037">0.687</radius>
-		<mass errorminus="0.0450" errorplus="0.0450">0.6870</mass>
+		<mass errorminus="0.0450" errorplus="0.0450">0.8</mass>
 		<planet>
 			<name>Kepler-304 b</name>
 			<name>KOI-1557 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.039</semimajoraxis>
+			<impactparameter errorminus="0.1900" errorplus="0.1900">0.42</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-304 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.08</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.75</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-304 c</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis>
+			<impactparameter errorminus="0.1200" errorplus="0.1200">0.49</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-304 e</name>
@@ -75,5 +81,7 @@
 			<period errorminus="0.000002800" errorplus="0.000002800">1.499146950</period>
 			<radius errorminus="0.003" errorplus="0.005">0.107</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.523</metallicity>
+		<magV errorminus="" errorplus="">14.84</magV>
 	</star>
 </system>

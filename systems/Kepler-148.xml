@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.48</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-148 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.028</semimajoraxis>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-148 d</name>
@@ -59,5 +63,7 @@
 			<period errorminus="0.000025700" errorplus="0.000025700">51.846885750</period>
 			<radius errorminus="0.037" errorplus="0.046">0.774</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.143</metallicity>
+		<magV errorminus="" errorplus="">15.342</magV>
 	</star>
 </system>

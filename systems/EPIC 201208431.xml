@@ -33,6 +33,7 @@
 				<discoveryyear>2015</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
+			<magV errorminus="0.030" errorplus="0.030">14.907</magV>
 		</star>
 		<star>
 			<name>EPIC 201208431 B</name>

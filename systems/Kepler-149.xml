@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.184</semimajoraxis>
+			<impactparameter errorminus="0.1700" errorplus="0.1700">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-149 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.571</semimajoraxis>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.62</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-149 c</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.281</semimajoraxis>
+			<impactparameter errorminus="0.3600" errorplus="0.3600">0.5</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.147</metallicity>
+		<magV errorminus="" errorplus="">14.001</magV>
 	</star>
 </system>

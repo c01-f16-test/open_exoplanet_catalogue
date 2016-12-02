@@ -33,6 +33,7 @@
 				<discoveryyear>2015</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
+			<magV errorminus="0.040" errorplus="0.040">12.654</magV>
 		</star>
 		<star>
 			<name>EPIC 201384232 B</name>

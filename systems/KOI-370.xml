@@ -12,7 +12,7 @@
 		<magK errorminus="0.016" errorplus="0.016">10.628</magK>
 		<temperature errorminus="54.00" errorplus="54.00">6022.00</temperature>
 		<age errorminus="0.9700" errorplus="0.9700">4.2100</age>
-		<radius errorminus="0.014" errorplus="0.012">1.98</radius>
+		<radius errorminus="0.014" errorplus="0.012">1.85</radius>
 		<mass errorminus="0.030" errorplus="0.030">1.419</mass>
 		<planet>
 			<name>KOI-370.02</name>
@@ -30,6 +30,7 @@
 			<lastupdate>13/09/13</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.03600" errorplus="0.03600">0.117</mass>
 		</planet>
 		<planet>
 			<name>KOI-370.01</name>
@@ -48,6 +49,9 @@
 			<lastupdate>13/09/13</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.05200" errorplus="0.05200">0.25</mass>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.674</metallicity>
+		<magV errorminus="" errorplus="">11.931</magV>
 	</star>
 </system>

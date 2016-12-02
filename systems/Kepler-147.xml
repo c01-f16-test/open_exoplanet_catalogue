@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.216</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-147 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.113</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.51</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.078</metallicity>
+		<magV errorminus="" errorplus="">13.954</magV>
 	</star>
 </system>

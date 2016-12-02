@@ -12,7 +12,7 @@
 		<name>Kepler-143</name>
 		<name>KOI-352</name>
 		<name>KIC 11521793</name>
-		<temperature errorminus="68" errorplus="168">5848</temperature>
+		<temperature errorminus="168.0" errorplus="168">5848</temperature>
 		<radius errorminus=".320" errorplus="0.320">1.359</radius>
 		<mass errorminus="0.0900" errorplus="0.0900">1.0080</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.181</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.89</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-143 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.127</semimajoraxis>
+			<impactparameter errorminus="0.0600" errorplus="0.0600">0.79</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.167</metallicity>
+		<magV errorminus="" errorplus="">13.77</magV>
 	</star>
 </system>

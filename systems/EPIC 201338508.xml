@@ -31,6 +31,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.4300" errorplus="0.0900">0.83</impactparameter>
+			<temperature errorminus="68" errorplus="68">456.0</temperature>
 		</planet>
 		<planet>
 			<name>EPIC 201338508 b</name>
@@ -47,6 +49,9 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.4100" errorplus="0.2200">0.65</impactparameter>
+			<temperature errorminus="84" errorplus="84">565.0</temperature>
 		</planet>
+		<spectraltype>K7.5 V</spectraltype>
 	</star>
 </system>

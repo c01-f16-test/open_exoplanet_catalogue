@@ -2,7 +2,7 @@
 	<name>HD 200964</name>
 	<rightascension>21 06 39.84239</rightascension>
 	<declination>+03 48 11.2280</declination>
-	<distance errorminus="4.8" errorplus="4.8">68.4</distance>
+	<distance errorminus="5.18" errorplus="4.5">68.4</distance>
 	<star>
 		<name>HD 200964</name>
 		<name>HIP 104202</name>
@@ -12,14 +12,14 @@
 		<name>2MASS J21063983+0348110</name>
 		<mass errorminus="0.09" errorplus="0.09">1.44</mass>
 		<radius errorminus="0.09" errorplus="0.09">4.3</radius>
-		<magV>6.64</magV>
+		<magV errorminus="0.01" errorplus="0.01">6.487</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.379</magB>
 		<magJ errorminus="0.021" errorplus="0.021">4.802</magJ>
 		<magH errorminus="0.036" errorplus="0.036">4.459</magH>
 		<magK errorminus="0.015" errorplus="0.015">4.286</magK>
 		<temperature errorminus="44" errorplus="44">5164</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.15</metallicity>
-		<spectraltype>K0</spectraltype>
+		<spectraltype>G8 IV</spectraltype>
 		<age errorminus="0.6" errorplus="0.6">3.0</age>
 		<planet>
 			<name>HD 200964 b</name>
@@ -33,6 +33,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 200964 c</name>
@@ -46,6 +47,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

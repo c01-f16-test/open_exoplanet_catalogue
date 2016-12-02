@@ -12,7 +12,7 @@
 		<name>Kepler-154</name>
 		<name>KOI-435</name>
 		<name>KIC 11709124</name>
-		<temperature errorminus="08" errorplus="108">5690</temperature>
+		<temperature errorminus="108.0" errorplus="108">5690</temperature>
 		<radius errorminus=".190" errorplus="0.190">1.001</radius>
 		<planet>
 			<name>Kepler-154 b</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.198</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.37</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-154 c</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.303</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.7</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-154 d</name>
@@ -82,5 +86,8 @@
 			<period errorminus="0.000077880" errorplus="0.000077880">9.919356840</period>
 			<radius errorminus="0.019" errorplus="0.030">0.134</radius>
 		</planet>
+		<mass errorminus="" errorplus="">0.89</mass>
+		<metallicity errorminus="" errorplus="">-0.391</metallicity>
+		<magV errorminus="" errorplus="">14.534</magV>
 	</star>
 </system>

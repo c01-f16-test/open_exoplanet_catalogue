@@ -31,6 +31,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.3600" errorplus="0.0400">0.88</impactparameter>
+			<temperature errorminus="18" errorplus="18">631.0</temperature>
 		</planet>
 		<planet>
 			<name>EPIC 201445392 c</name>
@@ -46,7 +48,10 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/07/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
+			<impactparameter errorminus="0.4200" errorplus="0.1200">0.78</impactparameter>
+			<temperature errorminus="23" errorplus="23">801.0</temperature>
 		</planet>
+		<spectraltype>K3 V</spectraltype>
 	</star>
 </system>

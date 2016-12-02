@@ -7,16 +7,16 @@
 	<distance>385.13</distance>
 	<star>
 		<magB errorminus="0.23" errorplus="0.23">12.69</magB>
-		<magV errorminus="0.19" errorplus="0.19">12.20</magV>
+		<magV errorminus="0.19" errorplus="0.19">11.992</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.050</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.830</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.792</magK>
 		<name>Kepler-144</name>
 		<name>KOI-369</name>
 		<name>KIC 7175184</name>
-		<temperature errorminus="31" errorplus="131">6075</temperature>
+		<temperature errorminus="131.0" errorplus="131">6075</temperature>
 		<radius errorminus=".237" errorplus="0.237">1.235</radius>
-		<mass errorminus="0.0190" errorplus="0.0190">1.1540</mass>
+		<mass errorminus="0.0190" errorplus="0.0190">1.03</mass>
 		<planet>
 			<name>Kepler-144 b</name>
 			<name>KOI-369 b</name>
@@ -32,6 +32,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.34</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-144 c</name>
@@ -48,6 +50,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.094</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.25</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.326</metallicity>
 	</star>
 </system>

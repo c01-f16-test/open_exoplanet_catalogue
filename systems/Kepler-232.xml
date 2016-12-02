@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.35</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-232 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.101</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.92</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.083</metallicity>
+		<magV errorminus="" errorplus="">15.367</magV>
 	</star>
 </system>
