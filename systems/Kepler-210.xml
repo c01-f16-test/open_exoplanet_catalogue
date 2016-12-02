@@ -23,7 +23,7 @@
 			<name>KOI-676.01</name>
 			<name>KIC 7447200 c</name>
 			<name>KIC 7447200.01</name>
-			<radius errorminus="0.0041" errorplus="0.0041">0.436</radius>
+			<radius errorminus="0.0041" errorplus="0.0041">0.323</radius>
 			<inclination errorminus="0.16" errorplus="0.16">85.73</inclination>
 			<semimajoraxis errorminus="0.00103614491" errorplus="0.00103614491">0.03710232851</semimajoraxis>
 			<period errorminus="0.0014" errorplus="0.0014">7.9725</period>
@@ -34,6 +34,7 @@
 			<lastupdate>14/03/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.4</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-210 b</name>
@@ -52,6 +53,9 @@
 			<lastupdate>14/03/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.73</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.748</metallicity>
+		<magV errorminus="" errorplus="">13.822</magV>
 	</star>
 </system>

@@ -2,19 +2,19 @@
 	<name>Kepler-36</name>
 	<rightascension>19 25 00</rightascension>
 	<declination>+49 13 54</declination>
-	<distance>436.937</distance>
+	<distance>470.0</distance>
 	<star>
 		<name>Kepler-36</name>
 		<name>KIC 11401755</name>
 		<name>KOI-277</name>
-		<temperature>5911.0</temperature>
+		<temperature errorminus="66.0" errorplus="66.0">5911.0</temperature>
 		<magB errorminus="0.24" errorplus="0.24">12.66</magB>
 		<magV errorminus="0.17" errorplus="0.17">11.94</magV>
 		<magJ errorminus="0.023" errorplus="0.023">11.124</magJ>
 		<magH errorminus="0.029" errorplus="0.029">10.850</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
-		<mass>1.071</mass>
-		<radius>1.619</radius>
+		<mass errorminus="0.04" errorplus="0.04">1.071</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.619</radius>
 		<planet>
 			<name>Kepler-36 b</name>
 			<name>KOI-277.02</name>
@@ -22,10 +22,10 @@
 			<name>KIC 11401755 b</name>
 			<name>2MASS 19250004+4913545 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.01346359</mass>
-			<radius>0.13778</radius>
-			<period>13.83988</period>
-			<semimajoraxis>0.1151</semimajoraxis>
+			<mass errorminus="0.001" errorplus="0.001">0.01346359</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.13778</radius>
+			<period errorminus="0.0006" errorplus="0.00082">13.83988</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1151</semimajoraxis>
 			<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -35,8 +35,10 @@
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
-			<temperature>978.8</temperature>
+			<temperature errorminus="11.0" errorplus="11.0">978.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.039</eccentricity>
+			<inclination errorminus="0.710" errorplus="0.690">90.01</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-36 c</name>
@@ -45,10 +47,10 @@
 			<name>KIC 11401755 c</name>
 			<name>2MASS 19250004+4913545 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.02541726</mass>
-			<radius>0.33526835</radius>
-			<period>16.23855</period>
-			<semimajoraxis>0.1283</semimajoraxis>
+			<mass errorminus="0.001" errorplus="0.002">0.02541726</mass>
+			<radius errorminus="0.005" errorplus="0.005">0.33526835</radius>
+			<period errorminus="0.00054" errorplus="0.00038">16.23855</period>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
 			<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -58,8 +60,12 @@
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
 	
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
-			<temperature>927.8</temperature>
+			<temperature errorminus="10.0" errorplus="10.0">928.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.033</eccentricity>
+			<inclination errorminus="0.530" errorplus="0.540">89.98</inclination>
 		</planet>
+		<age errorminus="1.000" errorplus="1.000">6.8</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.2</metallicity>
 	</star>
 </system>

@@ -8,7 +8,7 @@
 		<name>TYC 8146-86-1</name>
 		<name>2MASS J07493960-5207136</name>
 		<magB errorminus="0.05" errorplus="0.05">11.189</magB>
-		<magV errorminus="0.05" errorplus="0.05">11.745</magV>
+		<magV errorminus="0.05" errorplus="0.05">11.189</magV>
 		<magJ errorminus="0.024" errorplus="0.024">10.205</magJ>
 		<magH errorminus="0.023" errorplus="0.023">9.919</magH>
 		<magK errorminus="0.025" errorplus="0.025">9.854</magK>
@@ -32,7 +32,10 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/09/29</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<inclination errorminus="1.700" errorplus="1.200">88.3</inclination>
+			<impactparameter errorminus="0.1400" errorplus="0.1800">0.2</impactparameter>
 		</planet>
 	</star>
 </system>

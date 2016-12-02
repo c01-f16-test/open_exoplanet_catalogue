@@ -4,7 +4,7 @@
 	<name>KIC 7109675</name>
 	<rightascension>19 17 04</rightascension>
 	<declination>+42 36 15</declination>
-	<distance>855</distance>
+	<distance errorminus="65.0" errorplus="68.0">855</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">13.814</magJ>
 		<magH errorminus="0.020" errorplus="0.020">13.436</magH>
@@ -15,14 +15,14 @@
 		<temperature errorminus="200" errorplus="200">5309</temperature>
 		<radius errorminus="0.441" errorplus="0.441">0.790</radius>
 		<mass errorminus="0.1000" errorplus="0.1000">0.8200</mass>
-		<metallicity>0.410</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">0.410</metallicity>
 		<planet>
 			<name>Kepler-46 b</name>
 			<name>KOI-872 b</name>
 			<name>KOI-872.01</name>
 			<name>KIC 7109675 b</name>
 			<name>KIC 7109675.01</name>
-			<radius errorminus="0.00273" errorplus="0.36726">0.65705</radius>
+			<radius errorminus="0.00273" errorplus="0.042">0.808</radius>
 			<period errorminus=".000030" errorplus="0.000030">33.601528</period>
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2455019.6776800</transittime>
 			<list>Confirmed planets</list>
@@ -30,11 +30,13 @@
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
-			<temperature>543</temperature>
-			<inclination>89.038</inclination>
-			<eccentricity>0.010</eccentricity>
-			<semimajoraxis>0.19680</semimajoraxis>
+			<temperature errorminus="16.0" errorplus="16.0">543</temperature>
+			<inclination errorminus="0.067" errorplus="0.075">89.038</inclination>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.010</eccentricity>
+			<semimajoraxis errorminus="0.0028" errorplus="0.0029">0.19680</semimajoraxis>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0270" errorplus="0.0220">0.757</impactparameter>
+			<mass errorminus="" errorplus="">6.0</mass>
 		</planet>
 		<planet>
 			<name>Kepler-46 c</name>
@@ -45,12 +47,13 @@
 			<list>Confirmed planets</list>
 			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/03/06</lastupdate>
-			<discoverymethod>transit</discoverymethod>
-			<temperature>455</temperature>
-			<inclination>87.400</inclination>
-			<eccentricity>0.015</eccentricity>
-			<semimajoraxis>0.27990</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<temperature errorminus="13.0" errorplus="14.0">455</temperature>
+			<inclination errorminus="1.0" errorplus="1.6">87.400</inclination>
+			<eccentricity errorminus="0.0036" errorplus="0.0034">0.015</eccentricity>
+			<semimajoraxis errorminus="0.004" errorplus="0.0041">0.27990</semimajoraxis>
 			<istransiting>1</istransiting>
+			<periastron errorminus="9.2000" errorplus="11.6000">330.0</periastron>
 		</planet>
 		<planet>
 			<name>Kepler-46 d</name>
@@ -70,6 +73,9 @@
 			<inclination>88.240</inclination>
 			<semimajoraxis>0.06700</semimajoraxis>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.24</impactparameter>
 		</planet>
+		<age errorminus="3.500" errorplus="3.700">9.7</age>
+		<magV errorminus="" errorplus="">15.262</magV>
 	</star>
 </system>

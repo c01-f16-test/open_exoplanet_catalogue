@@ -2,11 +2,11 @@
 	<name>HAT-P-36</name>
 	<rightascension>12 33 03.909</rightascension>
 	<declination>+44 54 55.18</declination>
-	<distance>317</distance>
+	<distance errorminus="17.0" errorplus="17.0">317</distance>
 	<star>
-		<mass>1.022</mass>
-		<radius>1.096</radius>
-		<magV>12.262</magV>
+		<mass errorplus="0.05">1.022</mass>
+		<radius errorplus="0.06">1.096</radius>
+		<magV errorminus="0.068" errorplus="0.068">12.262</magV>
 		<magB errorminus="0.25" errorplus="0.25">12.97</magB>
 		<magR errorminus="0.05" errorplus="0.05">12.27</magR>
 		<magJ errorminus="0.16" errorplus="0.16">12.15</magJ>
@@ -18,21 +18,23 @@
 			<name>HAT-P-36 b</name>
 			<name>2MASS 12330390+4454552</name>
 			<list>Confirmed planets</list>
-			<mass>1.832</mass>
-			<radius>1.264</radius>
-			<period>1.327</period>
-			<semimajoraxis>0.0238</semimajoraxis>
-			<eccentricity>0.063</eccentricity>
-			<inclination>86.0</inclination>
+			<mass errorminus="0.099" errorplus="0.099">1.832</mass>
+			<radius errorminus="0.071" errorplus="0.071">1.264</radius>
+			<period errorminus="3e-06" errorplus="3e-06">1.327</period>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0238</semimajoraxis>
+			<eccentricity errorminus="0.032" errorplus="0.032">0.063</eccentricity>
+			<inclination errorminus="1.3" errorplus="1.3">86.0</inclination>
 			<description>HAT-P-36 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1669.2</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<temperature errorminus="55.0" errorplus="55.0">1823.0</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2455565.18144</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="63.0000" errorplus="63.0000">95.0</periastron>
+			<impactparameter errorminus="0.1050" errorplus="0.0780">0.312</impactparameter>
 		</planet>
 		<name>HAT-P-36</name>
-		<temperature>5580.0</temperature>
+		<temperature errorplus="100.0">5560.0</temperature>
 	</star>
 </system>

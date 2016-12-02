@@ -7,20 +7,20 @@
 		<name>Kepler-48</name>
 		<name>KOI-148</name>
 		<name>KIC 5735762</name>
-		<temperature>5190.0</temperature>
+		<temperature errorminus="73.0" errorplus="73.0">5194.0</temperature>
 		<magJ errorminus="0.024" errorplus="0.024">11.702</magJ>
 		<magH errorminus="0.026" errorplus="0.026">11.292</magH>
 		<magK errorminus="0.023" errorplus="0.023">11.221</magK>
-		<mass>0.89</mass>
-		<radius>0.89</radius>
+		<mass errorminus="0.06" errorplus="0.06">0.89</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.89</radius>
 		<planet>
 			<name>Kepler-48 b</name>
 			<name>KOI-148.01</name>
 			<name>KOI-148 b</name>
 			<name>KIC 5735762 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.015079</mass>
-			<radius>0.195019</radius>
+			<mass errorminus="0.00661" errorplus="0.00661">0.015079</mass>
+			<radius errorminus="0.009" errorplus="0.009">0.195019</radius>
 			<period>4.7779803</period>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455057.06301</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 4.78 days for 2.8412 hours. Periodic transit timing variations confirm its planetary nature.</description>
@@ -28,6 +28,7 @@
 			<lastupdate>12/08/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1100" errorplus="0.1100">0.17</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-48 c</name>
@@ -35,8 +36,8 @@
 			<name>KOI-148 c</name>
 			<name>KIC 5735762 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.033219</mass>
-			<radius>0.286149</radius>
+			<mass errorminus="0.00724" errorplus="0.00724">0.033219</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.286149</radius>
 			<period>9.6739283</period>
 			<transittime errorminus="0.00077" errorplus="0.00077" unit="BJD">2455058.33981</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 9.67 days for 3.5027 hours. Periodic transit timing variations confirm its planetary nature.</description>
@@ -44,6 +45,7 @@
 			<lastupdate>12/08/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0500" errorplus="0.0500">0.38</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-48 d</name>
@@ -59,6 +61,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1100" errorplus="0.1100">0.2</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-48 e</name>
@@ -72,6 +75,10 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
+			<istransiting>0</istransiting>
 		</planet>
+		<age errorminus="" errorplus="">3.14</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.17</metallicity>
+		<magV errorminus="" errorplus="">13.04</magV>
 	</star>
 </system>

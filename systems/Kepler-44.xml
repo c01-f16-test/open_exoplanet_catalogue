@@ -17,8 +17,8 @@
 		<radius errorminus="0.08" errorplus="0.08">1.35</radius>
 		<mass errorminus="0.08" errorplus="0.08">1.12</mass>
 		<age errorminus="1.5" errorplus="2.4">5.8</age>
-		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
-		<spectraltype>G2IV</spectraltype>
+		<metallicity errorminus="0.11" errorplus="0.11">0.15</metallicity>
+		<spectraltype>G2 IV</spectraltype>
 		<planet>
 			<name>Kepler-44 b</name>
 			<name>KOI-204 b</name>
@@ -31,12 +31,15 @@
 			<transittime errorminus="0.00021" errorplus="0.00021">2455187.15640</transittime>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0446</semimajoraxis>
 			<inclination errorminus="0.62" errorplus="0.50">84.96</inclination>
-			<eccentricity upperlimit="0.066" />
+			<eccentricity upperlimit="0.066">0.066</eccentricity>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.62</impactparameter>
+			<temperature errorminus="47" errorplus="47">1544.0</temperature>
 		</planet>
+		<magV errorminus="" errorplus="">14.678</magV>
 	</star>
 </system>
