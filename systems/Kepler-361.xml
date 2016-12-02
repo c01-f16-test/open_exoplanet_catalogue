@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.3</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-361 b</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.086</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.27</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.07</mass>
+		<metallicity errorminus="" errorplus="">-0.137</metallicity>
+		<magV errorminus="" errorplus="">13.573</magV>
 	</star>
 </system>

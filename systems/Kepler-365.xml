@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.098</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.87</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-365 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.137</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.22</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">0.99</mass>
+		<metallicity errorminus="" errorplus="">-0.046</metallicity>
+		<magV errorminus="" errorplus="">14.651</magV>
 	</star>
 </system>

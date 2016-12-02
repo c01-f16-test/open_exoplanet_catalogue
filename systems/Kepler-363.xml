@@ -14,7 +14,7 @@
 		<name>KIC 6021193</name>
 		<temperature errorminus="100" errorplus="100">5593</temperature>
 		<radius errorminus=".231" errorplus="0.231">1.485</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">1.0700</mass>
+		<mass errorminus="0.1300" errorplus="0.1300">1.23</mass>
 		<planet>
 			<name>Kepler-363 d</name>
 			<name>KOI-2148 d</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.107</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.68</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-363 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.1</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-363 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.048</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.06</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.299</metallicity>
+		<magV errorminus="" errorplus="">13.353</magV>
 	</star>
 </system>

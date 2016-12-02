@@ -12,7 +12,7 @@
 		<name>Kepler-359</name>
 		<name>KOI-2092</name>
 		<name>KIC 6696580</name>
-		<temperature errorminus="50" errorplus="250">6248</temperature>
+		<temperature errorminus="250.0" errorplus="250">6248</temperature>
 		<radius errorminus=".503" errorplus="0.503">1.086</radius>
 		<planet>
 			<name>Kepler-359 c</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.307</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.06</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-359 b</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.178</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.21</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-359 d</name>
@@ -61,6 +65,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.372</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.92</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.07</mass>
+		<metallicity errorminus="" errorplus="">-0.039</metallicity>
+		<magV errorminus="" errorplus="">15.886</magV>
 	</star>
 </system>

@@ -12,9 +12,9 @@
 		<name>Kepler-368</name>
 		<name>KOI-2175</name>
 		<name>KIC 9022166</name>
-		<temperature errorminus="06" errorplus="206">5502</temperature>
+		<temperature errorminus="206.0" errorplus="206">5502</temperature>
 		<radius errorminus=".559" errorplus="0.559">2.019</radius>
-		<mass errorminus="0.3000" errorplus="0.3000">0.9700</mass>
+		<mass errorminus="0.3000" errorplus="0.3000">0.71</mass>
 		<planet>
 			<name>Kepler-368 b</name>
 			<name>KOI-2175 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.186</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.28</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-368 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.36</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.46</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.489</metallicity>
+		<magV errorminus="" errorplus="">12.848</magV>
 	</star>
 </system>

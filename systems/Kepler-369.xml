@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.094</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.01</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-369 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.03</semimajoraxis>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.27</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.207</metallicity>
+		<magV errorminus="" errorplus="">15.673</magV>
 	</star>
 </system>
