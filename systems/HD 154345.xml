@@ -2,10 +2,10 @@
 	<name>HD 154345</name>
 	<rightascension>17 02 36</rightascension>
 	<declination>+47 04 55</declination>
-	<distance>18.06</distance>
+	<distance errorminus="0.18" errorplus="0.18">18.06</distance>
 	<star>
 		<mass>0.88</mass>
-		<magV>6.74</magV>
+		<magV errorminus="0.0" errorplus="0.0">6.74</magV>
 		<magB>7.50</magB>
 		<magR>6.3</magR>
 		<magI>6.0</magI>
@@ -13,19 +13,22 @@
 		<magH errorminus="0.020" errorplus="0.020">5.098</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.003</magK>
 		<metallicity>-0.105</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 154345 b</name>
 			<list>Confirmed planets</list>
-			<mass>1</mass>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
+			<mass errorminus="0.09" errorplus="0.09">1</mass>
+			<period errorminus="95.0" errorplus="95.0">3342.0</period>
+			<semimajoraxis errorminus="0.26" errorplus="0.26">4.19</semimajoraxis>
+			<eccentricity errorminus="0.046" errorplus="0.046">0.044</eccentricity>
 			<inclination>50</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>106.4</temperature>
+			<periastron errorminus="" errorplus="">68.0</periastron>
+			<periastrontime errorminus="330.000000" errorplus="330.000000">2452830.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 154345</name>
 		<temperature>5468.0</temperature>

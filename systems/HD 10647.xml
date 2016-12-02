@@ -2,32 +2,34 @@
 	<name>HD 10647</name>
 	<rightascension>01 42 29</rightascension>
 	<declination>-53 44 27</declination>
-	<distance>17.3</distance>
+	<distance errorminus="0.19" errorplus="0.19">17.3</distance>
 	<star>
 		<name>HD 10647</name>
-		<age>1.4</age>
-		<mass>1.11</mass>
-		<radius>1.1</radius>
+		<age errorminus="0.9" errorplus="0.9">1.4</age>
+		<mass errorminus="0.02" errorplus="0.02">1.11</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.1</radius>
 		<magV>5.52</magV>
 		<magB>6.05</magB>
 		<magJ errorminus="0.23" errorplus="0.23">4.79</magJ>
 		<magH errorminus="0.23" errorplus="0.23">4.40</magH>
 		<magK errorminus="0.28" errorplus="0.28">4.34</magK>
-		<metallicity>0.0</metallicity>
-		<spectraltype>F9V</spectraltype>
+		<metallicity errorminus="0.01" errorplus="0.01">0.0</metallicity>
+		<spectraltype>F9 V</spectraltype>
 		<planet>
 			<name>HD 10647 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.94</mass>
-			<period>989.2</period>
-			<semimajoraxis>2.015</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<periastron>212</periastron>
+			<mass errorminus="0.08" errorplus="0.08">0.94</mass>
+			<period errorminus="8.1" errorplus="8.1">989.2</period>
+			<semimajoraxis errorminus="0.011" errorplus="0.011">2.015</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.15</eccentricity>
+			<periastron errorminus="39.0" errorplus="39.0">212</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<discoveryyear>2006</discoveryyear>
 			<temperature>195.9</temperature>
+			<periastrontime errorminus="99.000000" errorplus="99.000000">2453654.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
-		<temperature>6039.0</temperature>
+		<temperature errorminus="20.0" errorplus="20.0">6218.0</temperature>
 	</star>
 </system>

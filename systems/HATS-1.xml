@@ -2,10 +2,10 @@
 	<name>HATS-1</name>
 	<rightascension>11 42 06.080</rightascension>
 	<declination>-23 21 17.44</declination>
-	<distance>303</distance>
+	<distance errorminus="23.0" errorplus="38.0">303</distance>
 	<star>
-		<mass>0.986</mass>
-		<radius>1.038</radius>
+		<mass errorplus="0.05">0.986</mass>
+		<radius errorplus="0.13">1.038</radius>
 		<magV errorminus="0.017" errorplus="0.017">12.053</magV>
 		<magB errorminus="0.066" errorplus="0.066">12.740</magB>
 		<magR errorminus="0.07" errorplus="0.07">12.08</magR>
@@ -20,21 +20,22 @@
 			<name>2MASS J11420608-2321174 b</name>
 			<name>GSC 6652-186 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.855</mass>
-			<radius>1.302</radius>
-			<period>3.446459</period>
-			<semimajoraxis>0.0444</semimajoraxis>
-			<eccentricity>0.12</eccentricity>
-			<inclination>85.6</inclination>
+			<mass errorminus="0.196" errorplus="0.262">1.855</mass>
+			<radius errorminus="0.098" errorplus="0.162">1.302</radius>
+			<period errorminus="4e-06" errorplus="4e-06">3.446459</period>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0444</semimajoraxis>
+			<eccentricity errorminus="0.092" errorplus="0.092">0.12</eccentricity>
+			<inclination errorminus="1.4" errorplus="0.6">85.6</inclination>
 			<description>HATS-1 b is the first planet discovery of HATSouth, a global network of autonomous wide-field telescopes.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/06/08</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1250.3</temperature>
+			<temperature errorminus="59.0" errorplus="89.0">1359.0</temperature>
 			<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">2455241.28722</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0230" errorplus="0.0200">0.633</impactparameter>
 		</planet>
 		<name>HATS-1</name>
-		<temperature>5870.0</temperature>
+		<temperature errorplus="100.0">5870.0</temperature>
 	</star>
 </system>

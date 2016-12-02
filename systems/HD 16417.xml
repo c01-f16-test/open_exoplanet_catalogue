@@ -2,7 +2,7 @@
 	<name>HD 16417</name>
 	<rightascension>02 36 59</rightascension>
 	<declination>-34 34 41</declination>
-	<distance>25.5</distance>
+	<distance errorminus="0.42" errorplus="0.41">25.5</distance>
 	<star>
 		<mass>1.18</mass>
 		<magV>5.78</magV>
@@ -10,19 +10,22 @@
 		<magJ errorminus="0.24" errorplus="0.24">4.60</magJ>
 		<magH errorminus="0.23" errorplus="0.23">4.18</magH>
 		<magK errorminus="0.018" errorplus="0.018">4.246</magK>
-		<metallicity>0.19</metallicity>
-		<spectraltype>G1V</spectraltype>
+		<metallicity>0.06</metallicity>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HD 16417 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.069</mass>
-			<period>17.24</period>
-			<semimajoraxis>0.14</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
+			<mass errorminus="0.0063" errorplus="0.0063">0.069</mass>
+			<period errorminus="0.01" errorplus="0.01">17.24</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.14</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.2</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/02/25</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<discoveryyear>2008</discoveryyear>
 			<temperature>875.5</temperature>
+			<periastron errorminus="26.0000" errorplus="26.0000">77.0</periastron>
+			<periastrontime errorminus="3.300000" errorplus="3.300000">2450099.74</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 16417</name>
 		<temperature>5936.0</temperature>

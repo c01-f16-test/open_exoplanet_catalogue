@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.75</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-314 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.035</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.21</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.157</metallicity>
+		<magV errorminus="" errorplus="">12.557</magV>
 	</star>
 </system>

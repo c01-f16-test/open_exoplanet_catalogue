@@ -2,9 +2,9 @@
 	<name>HD 156279</name>
 	<rightascension>17 12 23</rightascension>
 	<declination>+63 21 08</declination>
-	<distance>36.6</distance>
+	<distance errorminus="0.79" errorplus="0.76">35.37</distance>
 	<star>
-		<mass>0.93</mass>
+		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
 		<magV>8.08</magV>
 		<magB errorminus="0.018" errorplus="0.018">8.879</magB>
 		<magR>7.6</magR>
@@ -12,21 +12,25 @@
 		<magJ errorminus="0.018" errorplus="0.018">6.677</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.346</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.269</magK>
-		<metallicity>0.14</metallicity>
-		<spectraltype>K0</spectraltype>
+		<metallicity errorminus="0.01" errorplus="0.01">0.14</metallicity>
+		<spectraltype>G6</spectraltype>
 		<planet>
 			<name>HD 156279 b</name>
 			<list>Confirmed planets</list>
-			<mass>9.71</mass>
-			<period>131.05</period>
-			<semimajoraxis>0.495</semimajoraxis>
-			<eccentricity>0.708</eccentricity>
+			<mass errorminus="0.66" errorplus="0.66">9.71</mass>
+			<period errorminus="0.54" errorplus="0.54">131.05</period>
+			<semimajoraxis errorminus="0.017" errorplus="0.017">0.495</semimajoraxis>
+			<eccentricity errorminus="0.018" errorplus="0.018">0.708</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/11/04</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>327.8</temperature>
+			<periastron errorminus="1.7000" errorplus="1.7000">264.2</periastron>
+			<periastrontime errorminus="0.180000" errorplus="0.180000">2455525.59</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 156279</name>
-		<temperature>5453.0</temperature>
+		<temperature errorminus="40.0" errorplus="40.0">5453.0</temperature>
+		<age errorminus="3.700" errorplus="3.600">4.1</age>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>KELT-3</name>
 	<rightascension>09 54 34.3880</rightascension>
 	<declination>+40 23 16.981</declination>
-	<distance>178</distance>
+	<distance errorminus="16.0" errorplus="16.0">178</distance>
 	<star>
 		<name>KELT-3</name>
 		<name>BD+41 2024</name>
@@ -11,16 +11,16 @@
 		<name>GSC 02996-00683</name>
 		<name>SAO 43097</name>
 		<name>PPM 51568</name>
-		<mass>1.282</mass>
-		<radius>1.482</radius>
-		<metallicity>0.047</metallicity>
+		<mass errorminus="0.06" errorplus="0.06">1.282</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.482</radius>
+		<metallicity errorminus="0.082" errorplus="0.08">0.047</metallicity>
 		<spectraltype>F2</spectraltype>
 		<magV errorminus="0.03" errorplus="0.03">9.82</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.30</magB>
 		<magJ errorminus="0.019" errorplus="0.019">8.963</magJ>
 		<magH errorminus="0.019" errorplus="0.019">8.728</magH>
 		<magK errorminus="0.019" errorplus="0.019">8.662</magK>
-		<temperature>6304</temperature>
+		<temperature errorminus="49.0" errorplus="50.0">6306.0</temperature>
 		<planet>
 			<name>KELT-3 b</name>
 			<name>BD+41 2024 b</name>
@@ -30,18 +30,21 @@
 			<name>SAO 43097 b</name>
 			<name>PPM 51568 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.462</mass>
-			<radius>1.358</radius>
-			<period>2.703390</period>
-			<semimajoraxis>0.04126</semimajoraxis>
+			<mass errorminus="0.064" errorplus="0.066">1.462</mass>
+			<radius errorminus="0.072" errorplus="0.072">1.358</radius>
+			<period errorminus="1e-05" errorplus="9.9e-06">2.703390</period>
+			<semimajoraxis errorminus="0.00067" errorplus="0.00066">0.04126</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>84.14</inclination>
+			<inclination errorminus="0.58" errorplus="0.65">84.14</inclination>
 			<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/11/07</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1667.7</temperature>
+			<discoveryyear>2013</discoveryyear>
+			<temperature errorminus="39.0" errorplus="37.0">1816.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="" errorplus="">90.0</periastron>
+			<impactparameter errorminus="0.0460" errorplus="0.0370">0.606</impactparameter>
 		</planet>
+		<age errorminus="0.200" errorplus="0.200">3.0</age>
 	</star>
 </system>

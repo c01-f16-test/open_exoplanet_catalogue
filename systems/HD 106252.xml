@@ -2,33 +2,36 @@
 	<name>HD 106252</name>
 	<rightascension>12 13 29</rightascension>
 	<declination>+10 02 29</declination>
-	<distance>37.44</distance>
+	<distance errorminus="1.3" errorplus="1.3">37.44</distance>
 	<star>
-		<mass>0.96</mass>
+		<mass errorminus="0.02" errorplus="0.02">0.96</mass>
 		<radius>1.09</radius>
-		<magV>7.36</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.36</magV>
 		<magB>8.00</magB>
 		<magR>7.0</magR>
 		<magI>6.7</magI>
 		<magJ>6.30</magJ>
 		<magH>6.02</magH>
 		<magK>5.93</magK>
-		<metallicity>-0.078</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.078</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 106252 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.56</mass>
-			<period>1600</period>
-			<semimajoraxis>2.7</semimajoraxis>
-			<eccentricity>0.47</eccentricity>
+			<mass errorminus="0.16" errorplus="0.16">6.92</mass>
+			<period errorminus="4.7" errorplus="4.7">1531.0</period>
+			<semimajoraxis errorminus="0.026" errorplus="0.026">2.7</semimajoraxis>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.47</eccentricity>
 			<inclination>166.7</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/11</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>158.8</temperature>
+			<periastron errorminus="1.8000" errorplus="1.8000">292.8</periastron>
+			<periastrontime errorminus="4.700000" errorplus="4.700000">2453397.5</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 106252</name>
-		<temperature>5754.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5870.0</temperature>
 	</star>
 </system>

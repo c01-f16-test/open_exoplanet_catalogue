@@ -10,20 +10,20 @@
 		<magJ errorminus="0.027" errorplus="0.027">12.833</magJ>
 		<magH errorminus="0.028" errorplus="0.028">12.452</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.321</magK>
-		<temperature errorminus="105.00" errorplus="105.00">5577.00</temperature>
+		<temperature errorminus="94.0" errorplus="94.0">5367.0</temperature>
 		<age errorminus="3.6000" errorplus="3.6000">13.5000</age>
-		<radius errorminus=".42" errorplus="0.42">1.03</radius>
-		<mass errorminus="0.55" errorplus="1.36">0.78</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.81</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.91</mass>
 		<planet>
 			<name>Kepler-307 b</name>
 			<name>KOI-1576 b</name>
 			<name>KOI-1576.01</name>
 			<name>KIC 5299459 b</name>
 			<name>KIC 5299459.01</name>
-			<radius errorminus="0.02825" errorplus="0.11938">0.29162</radius>
+			<radius errorminus="0.02825" errorplus="0.008">0.29162</radius>
 			<mass errorminus="0.002740" errorplus="0.002854">0.023403</mass>
 			<transittime errorminus="0.0009800" errorplus="0.0009800">2454976.0458200</transittime>
-			<period>10.416</period>
+			<period errorminus="0.0008" errorplus="0.0009">10.416</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -40,7 +40,7 @@
 			<radius errorminus="0.01276" errorplus="0.10389">0.25516</radius>
 			<mass errorminus="0.001825" errorplus="0.002055">0.011468</mass>
 			<transittime errorminus="0.0013400" errorplus="0.0013400">2454965.6317400</transittime>
-			<period>13.084</period>
+			<period errorminus="0.0012" errorplus="0.0012">13.084</period>
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -62,5 +62,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<metallicity errorminus="0.100" errorplus="0.100">0.19</metallicity>
+		<magV errorminus="" errorplus="">14.072</magV>
 	</star>
 </system>

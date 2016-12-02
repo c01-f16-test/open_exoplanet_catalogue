@@ -14,7 +14,7 @@
 		<name>KIC 10004738</name>
 		<temperature errorminus="200" errorplus="200">5797</temperature>
 		<radius errorminus=".406" errorplus="0.406">0.876</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">0.9700</mass>
+		<mass errorminus="0.1300" errorplus="0.1300">0.85</mass>
 		<planet>
 			<name>Kepler-310 c</name>
 			<name>KOI-1598 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.281</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.89</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-310 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.392</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.79</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-310 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.111</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.21</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.299</metallicity>
+		<magV errorminus="" errorplus="">14.279</magV>
 	</star>
 </system>

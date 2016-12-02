@@ -2,7 +2,7 @@
 	<name>HD 96127</name>
 	<rightascension>11 05 45.94825</rightascension>
 	<declination>+44 18 05.6092</declination>
-	<distance errorminus="135" errorplus="135">483</distance>
+	<distance errorminus="135" errorplus="135">221.24</distance>
 	<star>
 		<name>HD 96127</name>
 		<name>HIP 54232</name>
@@ -20,7 +20,7 @@
 		<magK errorminus="0.036" errorplus="0.036">3.911</magK>
 		<temperature errorminus="23" errorplus="23">4152</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.24</metallicity>
-		<spectraltype>K2III</spectraltype>
+		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>HD 96127 b</name>
 			<list>Confirmed planets</list>
@@ -34,6 +34,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

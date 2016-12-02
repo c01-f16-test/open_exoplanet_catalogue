@@ -2,7 +2,7 @@
 	<name>HD 114613</name>
 	<rightascension>13 12 03.18502</rightascension>
 	<declination>-37 48 10.8901</declination>
-	<distance errorminus="0.13" errorplus="0.13">20.67</distance>
+	<distance errorminus="0.34" errorplus="0.33">20.48</distance>
 	<star>
 		<name>HD 114613</name>
 		<mass>1.364</mass>
@@ -15,7 +15,7 @@
 		<magH errorminus="0.206" errorplus="0.206">3.346</magH>
 		<magK>3.27</magK>
 		<metallicity errorminus="0.01" errorplus="0.01">0.19</metallicity>
-		<spectraltype>G4IV</spectraltype>
+		<spectraltype>G4 IV</spectraltype>
 		<planet>
 			<name>HD 114613 b</name>
 			<list>Confirmed planets</list>
@@ -28,6 +28,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/01/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastrontime errorminus="" errorplus="">2455550.3</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

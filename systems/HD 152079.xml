@@ -2,29 +2,33 @@
 	<name>HD 152079</name>
 	<rightascension>16 53 30</rightascension>
 	<declination>-46 19 51</declination>
-	<distance>85.17</distance>
+	<distance errorminus="10.56" errorplus="10.56">83.33</distance>
 	<star>
-		<mass>1.023</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.023</mass>
 		<magV>9.18</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.91</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.984</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.656</magH>
 		<magK errorminus="0.021" errorplus="0.021">7.634</magK>
-		<metallicity>0.16</metallicity>
-		<spectraltype>G6V</spectraltype>
+		<metallicity errorminus="0.1" errorplus="0.1">0.16</metallicity>
+		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 152079 b</name>
 			<list>Confirmed planets</list>
-			<mass>3</mass>
-			<period>2097</period>
-			<semimajoraxis>3.2</semimajoraxis>
-			<eccentricity>0.6</eccentricity>
+			<mass errorminus="0.17" errorplus="0.17">2.18</mass>
+			<period errorminus="52.0" errorplus="52.0">2899.0</period>
+			<semimajoraxis errorminus="0.15" errorplus="0.15">3.98</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.6</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/01/26</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>149.6</temperature>
+			<periastron errorminus="3.4400" errorplus="3.4400">324.87</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 152079</name>
-		<temperature>5940.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5726.0</temperature>
+		<radius errorminus="0.13" errorplus="0.13">1.15</radius>
+		<age errorminus="3.000" errorplus="3.000">3.0</age>
 	</star>
 </system>

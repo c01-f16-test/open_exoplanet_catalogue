@@ -2,11 +2,11 @@
 	<name>HD 89307</name>
 	<rightascension>10 18 21</rightascension>
 	<declination>+12 37 15</declination>
-	<distance>30.9</distance>
+	<distance errorminus="0.97" errorplus="0.92">30.9</distance>
 	<star>
 		<mass>1.028</mass>
 		<radius>1.05</radius>
-		<magV>7.06</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.06</magV>
 		<magB errorminus="0.007" errorplus="0.007">7.590</magB>
 		<magR>6.7</magR>
 		<magI>6.4</magI>
@@ -14,18 +14,21 @@
 		<magH>5.64</magH>
 		<magK>5.56</magK>
 		<metallicity>-0.14</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 89307 b</name>
 			<list>Confirmed planets</list>
-			<mass>2</mass>
-			<period>2199</period>
-			<semimajoraxis>3.34</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass errorminus="0.13" errorplus="0.13">1.78</mass>
+			<period errorminus="63.0" errorplus="63.0">2157.0</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">3.34</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.25</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>146.5</temperature>
+			<periastron errorminus="52.0000" errorplus="52.0000">36.0</periastron>
+			<periastrontime errorminus="80.000000" errorplus="80.000000">2450228.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 89307</name>
 		<temperature>5950.0</temperature>

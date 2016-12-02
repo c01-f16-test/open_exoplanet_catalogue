@@ -2,33 +2,36 @@
 	<name>HD 103774</name>
 	<rightascension>11 56 55</rightascension>
 	<declination>-12 06 28</declination>
-	<distance>55</distance>
+	<distance errorminus="2.48" errorplus="2.27">53.08</distance>
 	<star>
 		<name>HD 103774</name>
 		<name>HIP 58263</name>
-		<mass>1.335</mass>
-		<temperature>6489</temperature>
-		<magV>7.12</magV>
+		<mass errorminus="0.03" errorplus="0.03">1.335</mass>
+		<temperature errorminus="77.0" errorplus="77.0">6489</temperature>
+		<magV errorminus="0.011" errorplus="0.011">7.12</magV>
 		<magB errorminus="0.02" errorplus="0.02">7.61</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.269</magJ>
 		<magH errorminus="0.049" errorplus="0.049">6.112</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.000</magK>
-		<metallicity>0.28</metallicity>
-		<spectraltype>F5V</spectraltype>
+		<metallicity errorminus="0.06" errorplus="0.06">0.28</metallicity>
+		<spectraltype>F5 V</spectraltype>
 		<planet>
 			<name>HD 103774 b</name>
 			<name>HIP 58263 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.367</mass>
-			<period>5.8881</period>
-			<semimajoraxis>0.070</semimajoraxis>
-			<eccentricity>0.09</eccentricity>
-			<periastron>-42</periastron>
+			<mass errorminus="0.022" errorplus="0.022">0.367</mass>
+			<period errorminus="0.0005" errorplus="0.0005">5.8881</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.070</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
+			<periastron errorminus="64.0" errorplus="64.0">-42</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/01/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
 			<temperature>1310.9</temperature>
+			<periastrontime errorminus="2.000000" errorplus="2.000000">2455675.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
+		<age errorminus="0.640" errorplus="0.640">1.05</age>
 	</star>
 </system>

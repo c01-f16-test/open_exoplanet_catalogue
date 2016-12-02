@@ -14,7 +14,7 @@
 		<name>KIC 5219234</name>
 		<temperature errorminus="100" errorplus="100">5100</temperature>
 		<radius errorminus=".050" errorplus="0.050">0.794</radius>
-		<mass errorminus="0.3000" errorplus="0.3000">0.9000</mass>
+		<mass errorminus="0.06" errorplus="0.13">0.76</mass>
 		<planet>
 			<name>Kepler-305 b</name>
 			<name>KOI-1563 b</name>
@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0017600" errorplus="0.0017600">2455189.0755900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-305 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-305 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.00600" errorplus="0.00800">0.033</mass>
 		</planet>
 		<planet>
 			<name>Kepler-305 c</name>
@@ -42,10 +43,11 @@
 			<transittime errorminus="0.0032200" errorplus="0.0032200">2455192.6362300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-305 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-305 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.00700" errorplus="0.00800">0.019</mass>
 		</planet>
 		<planet>
 			<name>Kepler-305 d</name>
@@ -62,6 +64,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.121</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.62</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.071</metallicity>
+		<magV errorminus="" errorplus="">15.812</magV>
 	</star>
 </system>

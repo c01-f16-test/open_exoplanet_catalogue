@@ -14,7 +14,7 @@
 		<name>KIC 3967760</name>
 		<temperature errorminus="200" errorplus="200">5497</temperature>
 		<radius errorminus=".429" errorplus="0.429">0.941</radius>
-		<mass errorminus="0.0810" errorplus="0.0810">0.8160</mass>
+		<mass errorminus="0.0810" errorplus="0.0810">0.95</mass>
 		<planet>
 			<name>Kepler-317 b</name>
 			<name>KOI-1760 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.061</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.3</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-317 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.083</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.38</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.258</metallicity>
+		<magV errorminus="" errorplus="">15.377</magV>
 	</star>
 </system>

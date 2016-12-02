@@ -12,7 +12,7 @@
 		<name>Kepler-311</name>
 		<name>KOI-1608</name>
 		<name>KIC 10055126</name>
-		<temperature errorminus="31" errorplus="131">5905</temperature>
+		<temperature errorminus="131.0" errorplus="131">5905</temperature>
 		<radius errorminus=".230" errorplus="0.230">1.188</radius>
 		<planet>
 			<name>Kepler-311 b</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.01</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-311 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.145</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.42</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.06</mass>
+		<metallicity errorminus="" errorplus="">-0.057</metallicity>
+		<magV errorminus="" errorplus="">13.797</magV>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 80606</name>
 	<rightascension>09 22 37</rightascension>
 	<declination>+50 36 13</declination>
-	<distance>58.4</distance>
+	<distance>29.04</distance>
 	<binary>
 		<separation unit="arcsec">20.6</separation>
 		<separation unit="AU">1203</separation>
@@ -10,7 +10,7 @@
 		<star>
 			<name>HD 80606</name>
 			<name>Struve 1341 B</name>
-			<mass>0.98</mass>
+			<mass errorplus="0.04">0.98</mass>
 			<radius errorminus="0.015" errorplus="0.015">0.978</radius>
 			<magV errorminus="0.02" errorplus="0.02">9.00</magV>
 			<magB errorminus="0.03" errorplus="0.03">9.78</magB>
@@ -19,20 +19,20 @@
 			<magK errorminus="0.013" errorplus="0.013">7.316</magK>
 			<metallicity>0.43</metallicity>
 			<spectraltype>G5</spectraltype>
-			<temperature>5370</temperature>
+			<temperature errorplus="45.0">5645.0</temperature>
 			<age>7.63</age>
 			<planet>
 				<name>HD 80606 b</name>
 				<name>Struve 1341 B b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass>3.94</mass>
+				<mass errorminus="0.11" errorplus="0.11">3.94</mass>
 				<radius errorminus="0.0036" errorplus="0.0036">0.921</radius>
 				<period errorminus="0.0031" errorplus="0.0031">111.4273</period>
 				<semimajoraxis errorminus="0.025" errorplus="0.032">0.463</semimajoraxis>
 				<eccentricity errorminus="0.00068" errorplus="0.00068">0.93369</eccentricity>
 				<inclination errorminus="0.063" errorplus="0.073">89.341</inclination>
-				<periastron errorminus="0.19" errorplus="0.19">300.53</periastron>
+				<periastron errorminus="0.19" errorplus="0.19">300.8</periastron>
 				<transittime errorminus="0.0036" errorplus="0.0036" unit="HJD">2454876.3173</transittime>
 				<periastrontime errorminus="0.0040" errorplus="0.0040" unit="HJD">2454424.8575</periastrontime>
 				<description>The star HD 80606 (also known as Struve 1341 B) is part of a binary star system with a separation of 1200 astronomical units. It hosts an extrasolar planet on a highly elliptical orbit. Because of the high eccentricity the temperature of the planet's surface can rise from 800K to 1500K in just 6 hours.</description>
@@ -41,6 +41,7 @@
 				<discoveryyear>2001</discoveryyear>
 				<temperature>339.6</temperature>
 				<istransiting>1</istransiting>
+				<impactparameter errorminus="0.0600" errorplus="0.0600">0.75</impactparameter>
 			</planet>
 		</star>
 		<star>

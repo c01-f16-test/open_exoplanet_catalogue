@@ -2,28 +2,31 @@
 	<name>HD 86264</name>
 	<rightascension>09 56 58</rightascension>
 	<declination>-15 53 42</declination>
-	<distance>72.6</distance>
+	<distance errorminus="4.59" errorplus="4.08">72.6</distance>
 	<star>
 		<mass>1.42</mass>
 		<radius>1.88</radius>
-		<magV>7.42</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.42</magV>
 		<magB errorminus="0.02" errorplus="0.02">7.92</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.505</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.344</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.224</magK>
 		<metallicity>0.202</metallicity>
-		<spectraltype>F7V</spectraltype>
+		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 86264 b</name>
 			<list>Confirmed planets</list>
-			<mass>7</mass>
-			<period>1475</period>
-			<semimajoraxis>2.86</semimajoraxis>
-			<eccentricity>0.7</eccentricity>
+			<mass errorminus="1.6" errorplus="1.6">7</mass>
+			<period errorminus="55.0" errorplus="55.0">1475</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">2.86</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.7</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/08/13</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>214.2</temperature>
+			<periastron errorminus="10.0000" errorplus="10.0000">306.0</periastron>
+			<periastrontime errorminus="114.000000" errorplus="114.000000">2455172.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 86264</name>
 		<temperature>6210.0</temperature>

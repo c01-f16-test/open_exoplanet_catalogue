@@ -14,7 +14,7 @@
 		<name>KIC 5438099</name>
 		<temperature errorminus="100" errorplus="100">4954</temperature>
 		<radius errorminus=".041" errorplus="0.041">0.719</radius>
-		<mass errorminus="0.3000" errorplus="0.3000">0.9300</mass>
+		<mass errorminus="0.3000" errorplus="0.3000">0.82</mass>
 		<planet>
 			<name>Kepler-306 c</name>
 			<name>KOI-1567 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.067</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.83</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-306 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.07</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-306 d</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.12</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.9</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-306 e</name>
@@ -78,6 +84,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.227</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.31</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.155</metallicity>
+		<magV errorminus="" errorplus="">15.565</magV>
 	</star>
 </system>

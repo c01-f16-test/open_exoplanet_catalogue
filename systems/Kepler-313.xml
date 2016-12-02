@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.125</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-313 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.208</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.74</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.112</metallicity>
+		<magV errorminus="" errorplus="">14.167</magV>
 	</star>
 </system>

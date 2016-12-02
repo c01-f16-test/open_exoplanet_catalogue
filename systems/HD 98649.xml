@@ -2,32 +2,34 @@
 	<name>HD 98649</name>
 	<rightascension>11 20 52</rightascension>
 	<declination>-23 13 02</declination>
-	<distance>40.3</distance>
+	<distance errorminus="1.91" errorplus="1.75">42.77</distance>
 	<star>
-		<magV>8.03</magV>
+		<magV errorminus="0.011" errorplus="0.011">8.03</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.646</magB>
 		<magR>7.75</magR>
 		<magI errorminus="0.04" errorplus="0.04">8.26</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.811</magJ>
 		<magH errorminus="0.042" errorplus="0.042">6.493</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.419</magK>
-		<spectraltype>G4V</spectraltype>
-		<mass>1.00</mass>
-		<age>2.3</age>
+		<spectraltype>G4 V</spectraltype>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<age errorminus="2.0" errorplus="2.0">2.3</age>
 		<radius>1.0</radius>
-		<metallicity>0.02</metallicity>
-		<temperature>5759</temperature>
+		<metallicity errorminus="0.03" errorplus="0.03">0.02</metallicity>
+		<temperature errorminus="35.0" errorplus="35.0">5759</temperature>
 		<planet>
 			<name>HD 98649 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.8</mass>
-			<period>4951</period>
-			<eccentricity>0.85</eccentricity>
-			<periastron>248</periastron>
+			<mass errorminus="0.5" errorplus="0.5">6.8</mass>
+			<period errorminus="465.0" errorplus="607.0">4951</period>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.85</eccentricity>
+			<periastron errorminus="9.0" errorplus="9.0">248</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
-			<semimajoraxis>5.6</semimajoraxis>
-			<discoveryyear>2011</discoveryyear>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">5.6</semimajoraxis>
+			<discoveryyear>2012</discoveryyear>
+			<periastrontime errorminus="22.000000" errorplus="22.000000">2450271.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 98649</name>
 	</star>

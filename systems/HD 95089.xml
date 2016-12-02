@@ -2,30 +2,34 @@
 	<name>HD 95089</name>
 	<rightascension>10 58 48</rightascension>
 	<declination>+01 43 45</declination>
-	<distance>139</distance>
+	<distance errorminus="26.72" errorplus="19.67">149.03</distance>
 	<star>
-		<mass>1.58</mass>
-		<radius>4.9</radius>
-		<magV>7.92</magV>
+		<mass errorminus="0.11" errorplus="0.11">1.58</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.9</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.92</magV>
 		<magB errorminus="0.020" errorplus="0.020">8.897</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.240</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.775</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.626</magK>
-		<metallicity>0.05</metallicity>
-		<spectraltype>K0 IV</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">0.05</metallicity>
+		<spectraltype>G8/K0 IV</spectraltype>
 		<planet>
 			<name>HD 95089 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.2</mass>
-			<period>507</period>
-			<semimajoraxis>1.51</semimajoraxis>
-			<eccentricity>0.157</eccentricity>
+			<mass errorminus="0.1" errorplus="0.1">1.2</mass>
+			<period errorminus="16.0" errorplus="16.0">507</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.51</semimajoraxis>
+			<eccentricity errorminus="0.086" errorplus="0.086">0.157</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>396.7</temperature>
+			<periastron errorminus="60.0000" errorplus="60.0000">317.0</periastron>
+			<periastrontime errorminus="90.000000" errorplus="90.000000">2454983.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 95089</name>
-		<temperature>5002.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5002.0</temperature>
+		<age errorminus="0.900" errorplus="0.900">2.5</age>
 	</star>
 </system>

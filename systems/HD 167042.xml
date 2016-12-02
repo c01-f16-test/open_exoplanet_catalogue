@@ -2,7 +2,7 @@
 	<name>HD 167042</name>
 	<rightascension>18 10 31.64008</rightascension>
 	<declination>+54 17 11.5922</declination>
-	<distance errorminus="0.66" errorplus="0.66">50.23</distance>
+	<distance errorminus="1.31" errorplus="1.24">50.0</distance>
 	<star>
 		<name>HD 167042</name>
 		<name>HIP 89047</name>
@@ -11,9 +11,9 @@
 		<name>HR 6817</name>
 		<name>BD+54 1950</name>
 		<name>2MASS J18103166+5417114</name>
-		<mass errorminus="0.12" errorplus="0.12">1.72</mass>
-		<radius errorminus="0.07" errorplus="0.07">4.30</radius>
-		<temperature>5020.0</temperature>
+		<mass errorminus="0.12" errorplus="0.12">1.5</mass>
+		<radius errorminus="0.2" errorplus="0.2">4.5</radius>
+		<temperature errorminus="12.0" errorplus="12.0">4943.0</temperature>
 		<magV>5.97</magV>
 		<magB>6.89</magB>
 		<magR>5.4</magR>
@@ -21,7 +21,7 @@
 		<magJ errorminus="0.230" errorplus="0.230">3.933</magJ>
 		<magH errorminus="0.198" errorplus="0.198">3.557</magH>
 		<magK errorminus="0.238" errorplus="0.238">3.550</magK>
-		<metallicity>0.05</metallicity>
+		<metallicity errorminus="0.02" errorplus="0.02">0.05</metallicity>
 		<spectraltype>K1 IV</spectraltype>
 		<planet>
 			<name>HD 167042 b</name>
@@ -36,6 +36,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/20</lastupdate>
 			<discoveryyear>2007</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

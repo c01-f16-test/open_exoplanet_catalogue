@@ -27,7 +27,7 @@
 			<periastrontime errorminus="370" errorplus="370" unit="BJD">2451430</periastrontime>
 			<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
