@@ -2,9 +2,9 @@
 	<name>HD 3651</name>
 	<rightascension>00 39 21</rightascension>
 	<declination>+21 15 01</declination>
-	<distance>11</distance>
+	<distance errorminus="0.1" errorplus="0.1">11</distance>
 	<star>
-		<mass>0.79</mass>
+		<mass errorminus="0.03" errorplus="0.03">0.79</mass>
 		<radius>0.947</radius>
 		<magV>5.8</magV>
 		<magB>6.72</magB>
@@ -13,20 +13,23 @@
 		<magJ errorminus="0.206" errorplus="0.206">4.549</magJ>
 		<magH errorminus="0.240" errorplus="0.240">4.064</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.999</magK>
-		<metallicity>0.05</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.24</metallicity>
 		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>HD 3651 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.2</mass>
-			<period>62.23</period>
-			<semimajoraxis>0.284</semimajoraxis>
-			<eccentricity>0.63</eccentricity>
+			<mass errorminus="0.008" errorplus="0.008">0.2</mass>
+			<period errorminus="0.015" errorplus="0.015">62.23</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.284</semimajoraxis>
+			<eccentricity errorminus="0.036" errorplus="0.036">0.63</eccentricity>
 			<inclination>83</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/10/19</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>405.0</temperature>
+			<periastron errorminus="4.5000" errorplus="4.5000">242.5</periastron>
+			<periastrontime errorminus="0.600000" errorplus="0.600000">2453932.6</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 3651.02</name>
@@ -43,6 +46,6 @@
 			<lastupdate>15/04/23</lastupdate>
 		</planet>
 		<name>HD 3651</name>
-		<temperature>5173.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5221.0</temperature>
 	</star>
 </system>

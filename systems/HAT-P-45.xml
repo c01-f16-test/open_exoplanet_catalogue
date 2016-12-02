@@ -36,8 +36,9 @@
 			<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/08/16</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1060" errorplus="0.0850">0.281</impactparameter>
 		</planet>
 	</star>
 </system>

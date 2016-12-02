@@ -2,11 +2,11 @@
 	<name>HAT-P-40</name>
 	<rightascension>22 22 03</rightascension>
 	<declination>+45 27 27</declination>
-	<distance>501</distance>
+	<distance errorminus="16.0" errorplus="16.0">501</distance>
 	<star>
-		<mass>1.512</mass>
-		<radius>2.206</radius>
-		<magV errorminus="0.08" errorplus="0.08">11.34</magV>
+		<mass errorplus="0.11">1.512</mass>
+		<radius errorplus="0.06">2.206</radius>
+		<magV errorminus="0.08" errorplus="0.08">11.699</magV>
 		<magB errorminus="0.15" errorplus="0.15">12.19</magB>
 		<magJ errorminus="0.023" errorplus="0.023">10.367</magJ>
 		<magH errorminus="0.020" errorplus="0.020">10.085</magH>
@@ -17,21 +17,22 @@
 			<name>HAT-P-40 b</name>
 			<name>2MASS 22220308+4527265</name>
 			<list>Confirmed planets</list>
-			<mass>0.615</mass>
-			<radius>1.730</radius>
-			<period>4.457243</period>
-			<semimajoraxis>0.0608</semimajoraxis>
+			<mass errorminus="0.038" errorplus="0.038">0.615</mass>
+			<radius errorminus="0.062" errorplus="0.062">1.730</radius>
+			<period errorminus="1e-05" errorplus="1e-05">4.457243</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0006">0.0608</semimajoraxis>
 			<eccentricity>0.095</eccentricity>
-			<inclination>88.3</inclination>
+			<inclination errorminus="0.9" errorplus="0.9">88.3</inclination>
 			<description>HAT-P-40 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>1614.8</temperature>
+			<temperature errorminus="33.0" errorplus="33.0">1770.0</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455813.17584</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0770" errorplus="0.0910">0.174</impactparameter>
 		</planet>
 		<name>HAT-P-40</name>
-		<temperature>6080.0</temperature>
+		<temperature errorplus="100.0">6080.0</temperature>
 	</star>
 </system>

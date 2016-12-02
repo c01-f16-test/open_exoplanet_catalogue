@@ -34,8 +34,10 @@
 			<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/08/16</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0510" errorplus="0.0360">0.626</impactparameter>
+			<period errorminus="0.00004800" errorplus="0.00004800">4.463129</period>
 		</planet>
 		<planet>
 			<name>HAT-P-46 c</name>

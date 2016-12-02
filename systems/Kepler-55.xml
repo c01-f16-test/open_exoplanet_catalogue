@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.029</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-55 b</name>
@@ -42,10 +44,11 @@
 			<transittime errorminus="0.0030900" errorplus="0.0030900">2455011.7569100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">1.49</mass>
 		</planet>
 		<planet>
 			<name>Kepler-55 c</name>
@@ -58,10 +61,11 @@
 			<transittime errorminus="0.0036000" errorplus="0.0036000">2454972.0322300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-55 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-55 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">1.11</mass>
 		</planet>
 		<planet>
 			<name>Kepler-55 e</name>
@@ -78,6 +82,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.048</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.72</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-55 f</name>
@@ -94,6 +100,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.081</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.46</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.201</metallicity>
+		<magV errorminus="" errorplus="">15.791</magV>
 	</star>
 </system>

@@ -19,9 +19,9 @@
 			<name>KOI-1270 b</name>
 			<name>KIC 8564587 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.015814</mass>
+			<mass>18.86</mass>
 			<radius>0.199575</radius>
-			<period>5.7293196</period>
+			<period errorminus="1.8e-05" errorplus="1.8e-05">5.7293196</period>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455071.5584</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 5.73 days for 1.1185 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -35,9 +35,9 @@
 			<name>KOI-1270 c</name>
 			<name>KIC 8564587 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.007759</mass>
+			<mass>6.95</mass>
 			<radius>0.141252</radius>
-			<period>11.6092567</period>
+			<period errorminus="8.6e-05" errorplus="8.6e-05">11.6092567</period>
 			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455066.99083</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.61 days for 1.7074 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -45,5 +45,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.045</metallicity>
+		<magV errorminus="" errorplus="">14.809</magV>
 	</star>
 </system>

@@ -12,7 +12,7 @@
 		<name>Kepler-53</name>
 		<name>KOI-829</name>
 		<name>KIC 5358241</name>
-		<temperature errorminus="200" errorplus="200">6085</temperature>
+		<temperature errorminus="200" errorplus="200">5858.0</temperature>
 		<radius errorminus=".466" errorplus="0.466">0.958</radius>
 		<mass errorminus="0.0930" errorplus="0.0930">1.0650</mass>
 		<planet>
@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0024100" errorplus="0.0024100">2455007.7750500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-53 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">18.41</mass>
 		</planet>
 		<planet>
 			<name>Kepler-53 d</name>
@@ -46,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.091</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.81</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-53 c</name>
@@ -58,10 +61,12 @@
 			<transittime errorminus="0.0046200" errorplus="0.0046200">2454996.8416700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-53 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">15.74</mass>
 		</planet>
+		<magV errorminus="" errorplus="">15.386</magV>
 	</star>
 </system>

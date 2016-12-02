@@ -2,31 +2,35 @@
 	<name>HD 1502</name>
 	<rightascension>00 19 17</rightascension>
 	<declination>+14 03 17</declination>
-	<distance>159</distance>
+	<distance errorminus="36.16" errorplus="25.26">167.5</distance>
 	<star>
-		<mass>1.61</mass>
-		<radius>4.5</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.61</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.5</radius>
 		<magV>8.52</magV>
 		<magB errorminus="0.007" errorplus="0.007">9.290</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.681</magJ>
 		<magH errorminus="0.017" errorplus="0.017">6.234</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.120</magK>
-		<metallicity>0.09</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.09</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 1502 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.1</mass>
-			<period>431.8</period>
-			<semimajoraxis>1.31</semimajoraxis>
-			<eccentricity>0.101</eccentricity>
+			<mass errorminus="0.2" errorplus="0.2">3.1</mass>
+			<period errorminus="3.5" errorplus="3.5">431.8</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.31</semimajoraxis>
+			<eccentricity errorminus="0.037" errorplus="0.037">0.101</eccentricity>
 			<description>The star HD 1502 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>412.3</temperature>
+			<periastron errorminus="20.0000" errorplus="20.0000">219.0</periastron>
+			<periastrontime errorminus="20.000000" errorplus="20.000000">2455227.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 1502</name>
-		<temperature>5049.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5049.0</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.4</age>
 	</star>
 </system>

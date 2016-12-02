@@ -27,12 +27,13 @@
 			<transittime errorminus="0.0049" errorplus="0.0042" unit="BJD">2455477.6307</transittime>
 			<semimajoraxis errorminus="0.053" errorplus="0.134">0.339</semimajoraxis>
 			<inclination errorminus="0.18" errorplus="0.07">89.93</inclination>
-			<eccentricity lowerlimit="0.19" />
+			<eccentricity errorminus="0.11" errorplus="0.13" lowerlimit="0.19">0.19</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/01/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.0900" errorplus="0.2900">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-436 c</name>
@@ -47,5 +48,6 @@
 			<period errorminus="0.000085610" errorplus="0.000085610">16.797138740</period>
 			<radius errorminus="0.012" errorplus="0.017">0.208</radius>
 		</planet>
+		<magV errorminus="" errorplus="">15.856</magV>
 	</star>
 </system>

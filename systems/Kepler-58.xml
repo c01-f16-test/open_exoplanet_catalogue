@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0053900" errorplus="0.0053900">2454969.8691200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-58 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-58 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">1.39</mass>
 		</planet>
 		<planet>
 			<name>Kepler-58 c</name>
@@ -38,14 +39,15 @@
 			<name>KIC 4077526 c</name>
 			<name>KIC 4077526.02</name>
 			<radius errorminus="0.00273" errorplus="0.18499">0.24241</radius>
-			<period errorminus=".799833" errorplus="4.799833">54.155743</period>
+			<period errorminus="0.00027" errorplus="0.00027">15.5741568</period>
 			<transittime errorminus="1.6717100" errorplus="11.6717100">2454960.2488600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-58 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-58 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">2.19</mass>
 		</planet>
 		<planet>
 			<name>Kepler-58 d</name>
@@ -62,6 +64,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.236</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.9</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.12</metallicity>
+		<magV errorminus="" errorplus="">14.82</magV>
 	</star>
 </system>

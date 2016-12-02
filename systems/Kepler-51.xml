@@ -11,7 +11,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">13.562</magJ>
 		<magH errorminus="0.023" errorplus="0.023">13.219</magH>
 		<magK errorminus="0.037" errorplus="0.037">13.197</magK>
-		<radius errorminus="0.04" errorplus="0.04">0.88</radius>
+		<radius errorminus="0.5" errorplus="0.5">0.88</radius>
 		<mass errorminus="0.12" errorplus="0.12">1.04</mass>
 		<age errorminus="2.3" errorplus="2.3">0.3</age>
 		<temperature errorminus="107" errorplus="107">6018</temperature>
@@ -33,6 +33,8 @@
 			<lastupdate>15/12/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1380" errorplus="0.0730">0.251</impactparameter>
+			<temperature errorminus="11" errorplus="11">543.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-51 c</name>
@@ -52,6 +54,8 @@
 			<lastupdate>15/12/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0230" errorplus="0.0340">1.017</impactparameter>
+			<temperature errorminus="9" errorplus="9">439.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-51 d</name>
@@ -71,6 +75,11 @@
 			<lastupdate>15/12/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.008000" errorplus="0.011000">0.008</eccentricity>
+			<impactparameter errorminus="0.1410" errorplus="0.0750">0.25</impactparameter>
+			<temperature errorminus="8" errorplus="8">381.0</temperature>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.079</metallicity>
+		<magV errorminus="" errorplus="">14.669</magV>
 	</star>
 </system>

@@ -34,6 +34,10 @@
 			<lastupdate>14/01/09</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.019000" errorplus="0.019000">0.019</eccentricity>
+			<periastron errorminus="107.0000" errorplus="107.0000">204.0</periastron>
+			<impactparameter errorminus="0.0640" errorplus="0.0570">0.158</impactparameter>
 		</planet>
+		<spectraltype>G</spectraltype>
 	</star>
 </system>

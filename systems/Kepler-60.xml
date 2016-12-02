@@ -8,12 +8,12 @@
 		<name>KOI-2086</name>
 		<name>KIC 6768394</name>
 		<name>2MASS J19155069+4215540</name>
-		<temperature>5915.0</temperature>
+		<temperature errorminus="144.0" errorplus="144.0">5905.0</temperature>
 		<magJ errorminus="0.023" errorplus="0.023">12.804</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.569</magH>
 		<magK errorminus="0.018" errorplus="0.018">12.516</magK>
-		<mass>1.105</mass>
-		<radius>1.5</radius>
+		<mass errorminus="0.08" errorplus="0.08">1.105</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.26</radius>
 		<planet>
 			<name>Kepler-60 b</name>
 			<name>KOI-2086.01</name>
@@ -41,7 +41,7 @@
 			<name>KIC 6768394 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0031" errorplus="0.0031">0.0151</mass>
-			<radius errorminus="0.054" errorplus="0.118">0.212</radius>
+			<radius errorminus="0.054" errorplus="0.013">0.212</radius>
 			<period errorminus="0.0006" errorplus="0.0006">8.9177</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454906.075</transittime>
 			<semimajoraxis>0.08701</semimajoraxis>
@@ -61,7 +61,7 @@
 			<name>KIC 6768394 d</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0035" errorplus="0.0035">0.0120</mass>
-			<radius>0.232382</radius>
+			<radius errorminus="0.014" errorplus="0.014">0.232382</radius>
 			<period errorminus="0.001" errorplus="0.001">11.903</period>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2454899.273</transittime>
 			<semimajoraxis>0.10548</semimajoraxis>
@@ -74,5 +74,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.09</metallicity>
+		<magV errorminus="" errorplus="">13.959</magV>
 	</star>
 </system>

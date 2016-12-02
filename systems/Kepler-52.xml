@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0028300" errorplus="0.0028300">2455005.7279400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-52 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">10.41</mass>
 		</planet>
 		<planet>
 			<name>Kepler-52 b</name>
@@ -42,10 +43,11 @@
 			<transittime errorminus="0.0013600" errorplus="0.0013600">2455009.3760800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-52 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">8.7</mass>
 		</planet>
 		<planet>
 			<name>Kepler-52 d</name>
@@ -62,6 +64,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.182</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.76</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.289</metallicity>
+		<magV errorminus="" errorplus="">15.095</magV>
 	</star>
 </system>
