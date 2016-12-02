@@ -21,19 +21,23 @@
 			<name>KOI-2133.01</name>
 			<name>KOI-2133 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.06" errorplus="0.06">0.66</mass>
+			<mass errorminus="0.17" errorplus="0.18">0.81</mass>
 			<radius errorminus="0.04" errorplus="0.04">1.40</radius>
 			<period errorminus="0.00002647" errorplus="0.00002647">6.24668005</period>
 			<transittime errorminus="0.00346" errorplus="0.00346" unit="BJD">2454969.38661</transittime>
-			<semimajoraxis>0.0726</semimajoraxis>
+			<semimajoraxis errorminus="0.0031" errorplus="0.0034">0.0726</semimajoraxis>
 			<eccentricity errorminus="0.0088" errorplus="0.0095">0.0519</eccentricity>
-			<inclination errorminus="0.65" errorplus="0.63">67.37</inclination>
+			<inclination errorminus="0.65" errorplus="0.63">69.68</inclination>
 			<periastron errorminus="7.1" errorplus="8.7">302.8</periastron>
 			<description>Kepler-91 b is a planet very close its host star. It might be destroyed within the next 55 million years. The planet was initially discovered by the Kepler telescope and later confirmed by a group of European researchers led by Jorge Lillo-Box. The radial velocities of the star show a linear trend after fitting the variations due to the planet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/01/27</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0105" errorplus="0.0077">0.8667</impactparameter>
+			<temperature errorminus="50" errorplus="50">2040.0</temperature>
 		</planet>
+		<spectraltype>K3</spectraltype>
+		<magV errorminus="" errorplus="">12.495</magV>
 	</star>
 </system>

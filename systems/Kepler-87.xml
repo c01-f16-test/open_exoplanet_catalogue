@@ -26,13 +26,16 @@
 			<transittime errorminus="0.0013000" errorplus="0.0013000">2454998.1507000</transittime>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">0.471</semimajoraxis>
 			<eccentricity errorminus="0.009" errorplus="0.009">0.036</eccentricity>
-			<temperature errorminus="4.3" errorplus="4.3">478.1</temperature>
+			<temperature errorminus="4.0" errorplus="4.0">478.0</temperature>
 			<description>The Kepler-87 system consists of at least two planets which have been confirmed using transit timing variations (TTV). There might be two more planets in the system which have not been confirmed yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
+			<periastron errorminus="27.6000" errorplus="27.6000">238.6</periastron>
+			<inclination errorminus="0.030" errorplus="0.034">89.274</inclination>
+			<impactparameter errorminus="0.0170" errorplus="0.0140">0.727</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-87 c</name>
@@ -41,17 +44,21 @@
 			<name>KIC 10028792 c</name>
 			<radius errorminus="0.026428" errorplus="0.026428">0.559540</radius>
 			<mass errorminus="0.002517" errorplus="0.002517">0.020132</mass>
-			<period errorminus="0.074" errorplus="0.074">192.363</period>
+			<period errorminus="0.074" errorplus="0.074">191.2318</period>
 			<transittime errorminus="0.0080000" errorplus="0.0080000">2455119.0823000</transittime>
 			<semimajoraxis errorminus="0.013" errorplus="0.013">0.664</semimajoraxis>
 			<eccentricity errorminus="0.012" errorplus="0.012">0.039</eccentricity>
-			<temperature errorminus="3.6" errorplus="3.6">403.3</temperature>
+			<temperature errorminus="4.0" errorplus="4.0">403.0</temperature>
 			<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/10/10</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
+			<periastron errorminus="18.8000" errorplus="18.8000">223.2</periastron>
+			<inclination errorminus="0.027" errorplus="0.031">89.588</inclination>
+			<impactparameter errorminus="0.0310" errorplus="0.0250">0.579</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">14.6</magV>
 	</star>
 </system>

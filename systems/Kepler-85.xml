@@ -14,7 +14,7 @@
 		<name>KIC 8950568</name>
 		<temperature errorminus="100" errorplus="100">5436</temperature>
 		<radius errorminus=".130" errorplus="0.130">0.893</radius>
-		<mass errorminus="0.0650" errorplus="0.0650">0.9410</mass>
+		<mass errorminus="0.27" errorplus="0.4">0.9410</mass>
 		<planet>
 			<name>Kepler-85 b</name>
 			<name>KOI-2038 b</name>
@@ -26,7 +26,7 @@
 			<transittime errorminus="0.0032800" errorplus="0.0032800">2454972.7280300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-85 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -42,7 +42,7 @@
 			<transittime errorminus="0.0041500" errorplus="0.0041500">2454972.4398800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-85 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -62,6 +62,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.0</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-85 e</name>
@@ -78,6 +80,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.163</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.2</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.031</metallicity>
+		<magV errorminus="" errorplus="">14.779</magV>
 	</star>
 </system>

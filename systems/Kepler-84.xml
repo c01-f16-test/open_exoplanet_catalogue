@@ -12,9 +12,9 @@
 		<name>Kepler-84</name>
 		<name>KOI-1589</name>
 		<name>KIC 5301750</name>
-		<temperature errorminus="43" errorplus="143">6031</temperature>
+		<temperature errorminus="143.0" errorplus="143">6031</temperature>
 		<radius errorminus=".219" errorplus="0.219">1.169</radius>
-		<mass errorminus="0.1200" errorplus="0.1200">1.0200</mass>
+		<mass errorminus="0.29" errorplus="0.42">1.0200</mass>
 		<planet>
 			<name>Kepler-84 b</name>
 			<name>KOI-1589 b</name>
@@ -26,7 +26,7 @@
 			<transittime errorminus="0.0030100" errorplus="0.0030100">2454971.7693700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -42,7 +42,7 @@
 			<transittime errorminus="0.0047400" errorplus="0.0047400">2454968.1902400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -62,6 +62,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.181</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-84 d</name>
@@ -78,6 +80,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-84 f</name>
@@ -94,6 +98,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.25</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.34</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.131</metallicity>
+		<magV errorminus="" errorplus="">14.764</magV>
 	</star>
 </system>

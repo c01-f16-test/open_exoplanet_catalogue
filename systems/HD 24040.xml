@@ -2,7 +2,7 @@
 	<name>HD 24040</name>
 	<rightascension>03 50 22.9</rightascension>
 	<declination>+17 28 34.9</declination>
-	<distance errorminus="1.6" errorplus="1.6">46.6</distance>
+	<distance errorminus="2.34" errorplus="2.13">46.6</distance>
 	<star>
 		<name>HD 24040</name>
 		<name>HIP 17960</name>
@@ -10,14 +10,14 @@
 		<name>TYC 1252-844-1</name>
 		<name>2MASS J03502296+1728349</name>
 		<name>BD+17 638</name>
-		<magV>7.52</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.52</magV>
 		<magB>8.18</magB>
 		<magR>7.1</magR>
 		<magI>6.8</magI>
 		<magJ>6.28</magJ>
 		<magH>6.04</magH>
 		<magK>5.97</magK>
-		<spectraltype>G0</spectraltype>
+		<spectraltype>G0 V</spectraltype>
 		<metallicity errorminus="0.030" errorplus="0.030">0.206</metallicity>
 		<temperature errorminus="44" errorplus="44">5853</temperature>
 		<mass errorminus="0.10" errorplus="0.10">1.18</mass>
@@ -25,16 +25,17 @@
 		<planet>
 			<name>HD 24040 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.12">4.10</mass>
-			<period errorminus="25" errorplus="25">3490</period>
-			<periastrontime errorminus="240" errorplus="240" unit="BJD">2456670</periastrontime>
-			<semimajoraxis errorminus="0.067" errorplus="0.067">4.637</semimajoraxis>
+			<mass errorminus="0.49" errorplus="0.49">4.10</mass>
+			<period errorminus="171.0" errorplus="169.0">3668.0</period>
+			<periastrontime errorminus="859.0" errorplus="859.0" unit="BJD">2454308.0</periastrontime>
+			<semimajoraxis errorminus="0.38" errorplus="0.38">4.92</semimajoraxis>
 			<eccentricity errorminus="0.020" errorplus="0.020">0.047</eccentricity>
-			<periastron errorminus="24" errorplus="24">67</periastron>
+			<periastron errorminus="54.0" errorplus="84.0">154.0</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 24040 b is a massive Jupiter-analogue orbiting a sunlike star. The radial velocity measurements for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2006</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

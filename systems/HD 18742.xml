@@ -2,31 +2,35 @@
 	<name>HD 18742</name>
 	<rightascension>03 00 10.656</rightascension>
 	<declination>-20 48 09.38</declination>
-	<distance>135</distance>
+	<distance errorminus="20.05" errorplus="15.27">127.88</distance>
 	<star>
-		<mass>1.60</mass>
-		<radius>4.9</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.60</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.9</radius>
 		<magV>7.97</magV>
 		<magB errorminus="0.018" errorplus="0.018">8.740</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.177</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.705</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.554</magK>
-		<metallicity>-0.04</metallicity>
-		<spectraltype>K0</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.04</metallicity>
+		<spectraltype>G8/K0 IV</spectraltype>
 		<planet>
 			<name>HD 18742 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.7</mass>
-			<period>772</period>
-			<semimajoraxis>1.92</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.3" errorplus="0.3">2.7</mass>
+			<period errorminus="11.0" errorplus="11.0">772</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.92</semimajoraxis>
+			<eccentricity>0.12</eccentricity>
 			<description>The star HD 18742 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/08/07</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>354.4</temperature>
+			<periastron errorminus="50.0000" errorplus="50.0000">107.0</periastron>
+			<periastrontime errorminus="110.000000" errorplus="110.000000">2455200.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 18742</name>
-		<temperature>5048.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5048.0</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.3</age>
 	</star>
 </system>

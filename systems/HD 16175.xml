@@ -2,30 +2,34 @@
 	<name>HD 16175</name>
 	<rightascension>02 37 02</rightascension>
 	<declination>+42 03 45</declination>
-	<distance>59.8</distance>
+	<distance errorminus="3.69" errorplus="3.28">59.8</distance>
 	<star>
-		<mass>1.35</mass>
+		<mass errorminus="0.14" errorplus="0.14">1.35</mass>
 		<radius>1.87</radius>
-		<magV>7.28</magV>
+		<magV errorminus="0.01" errorplus="0.01">7.28</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.92</magB>
 		<magJ errorminus="0.039" errorplus="0.039">6.166</magJ>
 		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
-		<metallicity>0.23</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.37</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.4</mass>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass errorminus="0.37" errorplus="0.37">4.77</mass>
+			<period errorminus="2.8" errorplus="2.8">995.4</period>
+			<semimajoraxis errorminus="0.076" errorplus="0.076">2.1</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.59</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/04/21</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>243.7</temperature>
+			<periastron errorminus="2.2000" errorplus="2.2000">221.5</periastron>
+			<periastrontime errorminus="2.600000" errorplus="2.600000">2455801.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 16175</name>
-		<temperature>6000.0</temperature>
+		<temperature errorminus="34.0" errorplus="34.0">6022.0</temperature>
+		<age errorminus="0.500" errorplus="0.500">3.3</age>
 	</star>
 </system>
