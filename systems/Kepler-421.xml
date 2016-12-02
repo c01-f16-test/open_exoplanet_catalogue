@@ -10,7 +10,7 @@
 		<mass errorminus="0.03" errorplus="0.03">0.794</mass>
 		<radius errorminus="0.029" errorplus="0.029">0.757</radius>
 		<temperature errorminus="50" errorplus="50">5308</temperature>
-		<magV errorminus="0.12" errorplus="0.12">5.9</magV>
+		<magV errorminus="0.12" errorplus="0.12">13.354</magV>
 		<magJ errorminus="0.020" errorplus="0.020">12.009</magJ>
 		<magH errorminus="0.019" errorplus="0.019">11.619</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.535</magK>
@@ -23,7 +23,7 @@
 			<name>KOI-1274 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014581" errorplus="0.017315">0.379102</radius>
-			<temperature errorminus="4.8" errorplus="8.6">184</temperature>
+			<temperature errorminus="5.0" errorplus="9.0">185.0</temperature>
 			<period errorminus="0.0016" errorplus="0.0016">704.1984</period>
 			<semimajoraxis errorminus="0.106" errorplus="0.089">1.219</semimajoraxis>
 			<eccentricity errorminus="0.034" errorplus="0.095">0.041</eccentricity>
@@ -34,6 +34,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/07/21</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.1400" errorplus="0.1700">0.21</impactparameter>
 		</planet>
+		<spectraltype>G9/K0</spectraltype>
 	</star>
 </system>

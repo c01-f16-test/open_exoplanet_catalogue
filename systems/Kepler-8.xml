@@ -6,14 +6,14 @@
 	<star>
 		<mass errorminus="0.10" errorplus="0.09">1.13</mass>
 		<radius errorminus="0.13" errorplus="0.12">1.45</radius>
-		<magV>13.9</magV>
+		<magV errorminus="0.324" errorplus="0.324">13.9</magV>
 		<magB>14.3</magB>
 		<magR>13.3</magR>
 		<magJ errorminus="0.023" errorplus="0.023">12.576</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.324</magH>
 		<magK errorminus="0.016" errorplus="0.016">12.293</magK>
 		<spectraltype>F</spectraltype>
-		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.055</metallicity>
 		<planet>
 			<name>Kepler-8 b</name>
 			<name>2MASS J18450914+4227038 b</name>
@@ -26,17 +26,18 @@
 			<period errorminus="0.00005" errorplus="0.0003">3.52254</period>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0006">0.0483</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.33" errorplus="0.33">84.07</inclination>
+			<inclination errorminus="0.033" errorplus="0.036">84.07</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0003" unit="BJD">2454954.1190</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1519.5</temperature>
+			<temperature errorminus="40.0" errorplus="40.0">1680.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0023" errorplus="0.0021">0.7191</impactparameter>
 		</planet>
 		<name>Kepler-8</name>
 		<name>KOI-10</name>
 		<name>KIC 6922244</name>
-		<temperature errorminus="75" errorplus="75">6251</temperature>
+		<temperature errorminus="150.0" errorplus="150.0">6213.0</temperature>
 	</star>
 </system>

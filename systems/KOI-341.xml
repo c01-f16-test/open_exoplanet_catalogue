@@ -21,13 +21,14 @@
 			<list>Confirmed planets</list>
 			<period>4.7</period>
 			<semimajoraxis>0.0529</semimajoraxis>
-			<radius errorminus="0.14" errorplus="0.31">0.153</radius>
+			<radius errorminus="0.012" errorplus="0.028">0.153</radius>
 			<transittime errorminus="0.00139" errorplus="0.00139">2455010.61335</transittime>
 			<description>The planet Kepler-414 b has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.00900" errorplus="0.01100">0.011</mass>
 		</planet>
 		<planet>
 			<name>KOI-341 c</name>
@@ -40,10 +41,12 @@
 			<radius errorminus="0.022" errorplus="0.048">0.268</radius>
 			<transittime errorminus="0.00081" errorplus="0.00081">2455009.664892</transittime>
 			<description>The planet Kepler-414 c has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.03300" errorplus="0.03900">0.094</mass>
 		</planet>
+		<magV errorminus="" errorplus="">13.338</magV>
 	</star>
 </system>

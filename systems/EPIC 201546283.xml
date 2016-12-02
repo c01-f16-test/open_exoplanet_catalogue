@@ -30,7 +30,8 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>16/03/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
+		<magV errorminus="0.020" errorplus="0.020">12.644</magV>
 	</star>
 </system>

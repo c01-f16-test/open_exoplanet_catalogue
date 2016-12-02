@@ -7,7 +7,7 @@
 		<name>GJ 1132</name>
 		<name>LHS 281</name>
 		<name>2MASS J10145184-4709244</name>
-		<magV>13.52</magV>
+		<magV errorminus="0.03" errorplus="0.03">13.52</magV>
 		<magB>15.25</magB>
 		<magJ errorminus="0.026" errorplus="0.026">9.245</magJ>
 		<magH errorminus="0.03" errorplus="0.03">8.67</magH>
@@ -16,8 +16,8 @@
 		<radius errorminus="0.016" errorplus="0.016">0.207</radius>
 		<temperature errorminus="140" errorplus="140">3270</temperature>
 		<metallicity errorminus="0.15" errorplus="0.15">-0.12</metallicity>
-		<spectraltype>M3.5</spectraltype>
-		<age lowerlimit="5" />
+		<spectraltype>M4.5 V</spectraltype>
+		<age lowerlimit="5">5.0</age>
 		<planet>
 			<name>GJ 1132 b</name>
 			<name>LHS 281 b</name>
@@ -32,6 +32,9 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/11/12</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<impactparameter errorminus="0.1400" errorplus="0.1400">0.38</impactparameter>
+			<temperature errorminus="11" errorplus="11">409.0</temperature>
 		</planet>
 	</star>
 </system>

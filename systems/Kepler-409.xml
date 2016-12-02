@@ -7,7 +7,7 @@
 	<distance>69.2</distance>
 	<star>
 		<magB errorminus="0.04" errorplus="0.04">10.36</magB>
-		<magV errorminus="0.03" errorplus="0.03">9.64</magV>
+		<magV errorminus="0.03" errorplus="0.03">9.439</magV>
 		<magJ errorminus="0.018" errorplus="0.018">8.200</magJ>
 		<magH errorminus="0.020" errorplus="0.020">7.838</magH>
 		<magK errorminus="0.023" errorplus="0.023">7.768</magK>
@@ -33,6 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.9</impactparameter>
 		</planet>
 	</star>
 </system>

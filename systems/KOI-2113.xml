@@ -24,10 +24,11 @@
 			<radius errorminus="0.015" errorplus="0.077">0.206</radius>
 			<transittime errorminus="0.00255" errorplus="0.00255">2455194.97363</transittime>
 			<description>The planet Kepler-417 b has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.02500" errorplus="0.02900">0.035</mass>
 		</planet>
 		<planet>
 			<name>KOI-2113 c</name>
@@ -40,10 +41,11 @@
 			<radius errorminus="0.018" errorplus="0.089">0.241</radius>
 			<transittime errorminus="0.00297" errorplus="0.00297">2454979.33004</transittime>
 			<description>The planet Kepler-417 c has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">15.886</magV>
 	</star>
 </system>

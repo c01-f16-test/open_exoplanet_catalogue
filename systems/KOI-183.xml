@@ -14,7 +14,7 @@
 		<magK errorminus="0.03" errorplus="0.03">12.78</magK>
 		<temperature errorminus="80" errorplus="80">5560</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.10</metallicity>
-		<spectraltype>G4V</spectraltype>
+		<spectraltype>G4 V</spectraltype>
 		<radius errorminus="0.04" errorplus="0.04">0.95</radius>
 		<mass errorminus="0.04" errorplus="0.04">0.85</mass>
 		<age errorminus="2" errorplus="2">11</age>
@@ -32,7 +32,7 @@
 			<period errorminus="0.00000007" errorplus="0.00000007">2.68432850</period>
 			<transittime errorminus="0.00002124" errorplus="0.00002124" unit="HJD">2454966.35480997</transittime>
 			<eccentricity errorminus="0.014" errorplus="0.028">0.019</eccentricity>
-			<periastron errorminus="33" errorplus="77">120.26</periastron>
+			<periastron errorminus="33.88" errorplus="77">120.26</periastron>
 			<semimajoraxis errorminus="0.00114" errorplus="0.00052">0.03585</semimajoraxis>
 			<inclination errorminus="0.126" errorplus="0.126">87.828</inclination>
 			<temperature errorminus="120" errorplus="120">1605</temperature>
@@ -42,6 +42,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/09/30</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.3006</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">14.29</magV>
 	</star>
 </system>

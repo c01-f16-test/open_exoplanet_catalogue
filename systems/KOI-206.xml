@@ -10,7 +10,7 @@
 		<name>2MASS J19502247+4058381</name>
 		<mass errorminus="0.17" errorplus="0.17">1.46</mass>
 		<radius errorminus="0.25" errorplus="0.25">2.26</radius>
-		<magV errorminus="0.34" errorplus="0.34">14.35</magV>
+		<magV errorminus="0.34" errorplus="0.34">14.463</magV>
 		<magB errorminus="0.37" errorplus="0.37">15.08</magB>
 		<magR errorminus="0.12" errorplus="0.12">14.81</magR>
 		<magI errorminus="0.46" errorplus="0.46">14.10</magI>
@@ -18,7 +18,7 @@
 		<magH errorminus="0.024" errorplus="0.024">12.948</magH>
 		<magK errorminus="0.026" errorplus="0.026">12.826</magK>
 		<metallicity errorminus="0.19" errorplus="0.19">0.06</metallicity>
-		<temperature errorminus="140" errorplus="140">6340</temperature>
+		<temperature errorminus="140" errorplus="140">6360.0</temperature>
 		<planet>
 			<name>KOI-206 b</name>
 			<name>KOI-206.01</name>
@@ -34,9 +34,14 @@
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE spectrograph in France.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/01/07</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="87" errorplus="87">1776</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.079000" errorplus="0.079000">0.119</eccentricity>
+			<periastron errorminus="36.0000" errorplus="67.0000">68.0</periastron>
+			<inclination errorminus="0.900" errorplus="0.520">89.21</inclination>
+			<impactparameter errorminus="0.0810" errorplus="0.0810">0.082</impactparameter>
 		</planet>
+		<age errorminus="0.910" errorplus="0.910">2.67</age>
 	</star>
 </system>

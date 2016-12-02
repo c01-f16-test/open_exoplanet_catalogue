@@ -9,7 +9,7 @@
 		<mass>0.47</mass>
 		<radius>0.24</radius>
 		<magJ errorminus="0.103" errorplus="0.103">16.363</magJ>
-		<temperature errorminus="500" errorplus="500">27500</temperature>
+		<temperature errorminus="500" errorplus="200.0">27500</temperature>
 		<spectraltype>sdB</spectraltype>
 		<planet>
 			<name>KIC 10001893 b</name>
@@ -22,6 +22,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/01/26</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>KIC 10001893 c</name>
@@ -34,6 +35,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/01/26</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>KIC 10001893 d</name>
@@ -46,6 +48,8 @@
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/01/26</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">15.846</magV>
 	</star>
 </system>

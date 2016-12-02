@@ -10,9 +10,9 @@
 		<magJ errorminus="0.020" errorplus="0.020">12.743</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.486</magH>
 		<magK errorminus="0.029" errorplus="0.029">12.391</magK>
-		<mass>1.166</mass>
-		<radius>1.485</radius>
-		<temperature>5884</temperature>
+		<mass errorminus="0.1" errorplus="0.13">1.166</mass>
+		<radius errorminus="0.23" errorplus="0.27">1.485</radius>
+		<temperature errorminus="75.0" errorplus="75.0">5884</temperature>
 		<planet>
 			<name>Kepler-430 b</name>
 			<name>KOI-2365 b</name>
@@ -28,6 +28,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature errorminus="" errorplus="">667.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-430 c</name>
@@ -44,6 +45,9 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature errorminus="" errorplus="">458.0</temperature>
 		</planet>
+		<metallicity errorminus="0.100" errorplus="0.100">0.2</metallicity>
+		<magV errorminus="" errorplus="">13.848</magV>
 	</star>
 </system>

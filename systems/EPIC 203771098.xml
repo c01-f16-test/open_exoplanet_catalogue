@@ -10,7 +10,7 @@
 		<name>2MASS J16101770-2459251</name>
 		<name>TYC 6784-837-1</name>
 		<magB errorminus="0.20" errorplus="0.20">12.22</magB>
-		<magV errorminus="0.10" errorplus="0.10">11.28</magV>
+		<magV errorminus="0.10" errorplus="0.10">11.07</magV>
 		<magJ errorminus="0.02" errorplus="0.02">9.63</magJ>
 		<magH errorminus="0.02" errorplus="0.02">9.29</magH>
 		<magK errorminus="0.02" errorplus="0.02">9.18</magK>
@@ -19,7 +19,7 @@
 		<mass errorminus="0.06" errorplus="0.06">1.12</mass>
 		<radius errorminus="0.12" errorplus="0.12">1.21</radius>
 		<age lowerlimit="3.2" upperlimit="6.9" />
-		<spectraltype>G3V</spectraltype>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>EPIC 203771098 b</name>
 			<name>K2-24 b</name>
@@ -31,10 +31,12 @@
 			<mass errorminus="0.017" errorplus="0.017">0.066</mass>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
 			<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.2700" errorplus="0.1600">0.47</impactparameter>
+			<temperature errorminus="36" errorplus="36">709.0</temperature>
 		</planet>
 		<planet>
 			<name>EPIC 203771098 c</name>
@@ -47,10 +49,12 @@
 			<mass errorminus="0.0217" errorplus="0.0217">0.0850</mass>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
 			<description>EPIC 203771098 is a metal-rich G3 dwarf hosting two low-density, sub-Saturn planets in orbits close to the 2:1 mean-motion resonance. The system was discovered using K2 photometry and radial velocities were measured with Keck/HIRES, allowing determination of the planetary masses.</description>
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.1800" errorplus="0.0900">0.44</impactparameter>
+			<temperature errorminus="29" errorplus="29">560.0</temperature>
 		</planet>
 	</star>
 </system>

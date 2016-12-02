@@ -15,8 +15,8 @@
 		<magJ errorminus="0.026" errorplus="0.026">14.021</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.689</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.62</magK>
-		<metallicity errorminus="0.003" errorplus="0.003">0.012</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<metallicity errorminus="0.003" errorplus="0.003">-0.2</metallicity>
+		<spectraltype>G0 V</spectraltype>
 		<age errorminus="0.17" errorplus="0.17">1</age>
 		<planet>
 			<name>Kepler-66 b</name>
@@ -34,6 +34,7 @@
 			<lastupdate>13/06/26</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.56</impactparameter>
 		</planet>
 	</star>
 </system>

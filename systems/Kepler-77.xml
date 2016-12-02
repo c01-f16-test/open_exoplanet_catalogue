@@ -9,7 +9,7 @@
 	<distance errorminus="70" errorplus="70">570</distance>
 	<star>
 		<magB errorminus="0.04" errorplus="0.04">15.03</magB>
-		<magV errorminus="0.03" errorplus="0.03">14.10</magV>
+		<magV errorminus="0.03" errorplus="0.03">13.938</magV>
 		<magR errorminus="0.07" errorplus="0.07">13.91</magR>
 		<magJ errorminus="0.023" errorplus="0.023">12.758</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.444</magH>
@@ -25,7 +25,7 @@
 		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
 		<age errorminus="2" errorplus="2">7.5</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.20</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>Kepler-77 b</name>
 			<name>KOI-127 b</name>
@@ -40,13 +40,15 @@
 			<mass errorminus="0.032" errorplus="0.032">0.43</mass>
 			<semimajoraxis errorminus="0.00063" errorplus="0.00063">0.04501</semimajoraxis>
 			<inclination errorminus="0.11" errorplus="0.11">88.0</inclination>
-			<temperature>1189.0</temperature>
+			<temperature errorminus="120.0" errorplus="100.0">1440.0</temperature>
 			<list>Confirmed planets</list>
 			<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/04/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<impactparameter errorminus="0.0170" errorplus="0.0170">0.341</impactparameter>
 		</planet>
 	</star>
 </system>
