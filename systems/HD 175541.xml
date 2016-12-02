@@ -2,30 +2,34 @@
 	<name>HD 175541</name>
 	<rightascension>18 55 41</rightascension>
 	<declination>+04 15 55</declination>
-	<distance>128</distance>
+	<distance errorminus="21.48" errorplus="16.07">127.55</distance>
 	<star>
-		<mass>1.65</mass>
-		<radius>3.85</radius>
+		<mass errorminus="0.12" errorplus="0.12">1.65</mass>
+		<radius errorminus="0.09" errorplus="0.09">3.85</radius>
 		<magV>8.03</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.90</magB>
 		<magJ errorminus="0.026" errorplus="0.026">6.387</magJ>
 		<magH errorminus="0.029" errorplus="0.029">5.952</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.829</magK>
-		<metallicity>-0.07</metallicity>
-		<spectraltype>G8IV</spectraltype>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.07</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 175541 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.61</mass>
-			<period>297.3</period>
+			<period errorminus="0.6" errorplus="0.6">297.3</period>
 			<semimajoraxis>1.03</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.33</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>07/04/20</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>428.3</temperature>
+			<periastron errorminus="30.0000" errorplus="30.0000">183.0</periastron>
+			<periastrontime errorminus="20.000000" errorplus="20.000000">2450213.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 175541</name>
-		<temperature>5060.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5060.0</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.9</age>
 	</star>
 </system>

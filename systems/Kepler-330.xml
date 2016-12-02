@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.116</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-330 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.075</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.64</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.097</metallicity>
+		<magV errorminus="" errorplus="">15.261</magV>
 	</star>
 </system>

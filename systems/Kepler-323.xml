@@ -12,7 +12,7 @@
 		<name>Kepler-323</name>
 		<name>KOI-1824</name>
 		<name>KIC 2989404</name>
-		<temperature errorminus="50" errorplus="150">5987</temperature>
+		<temperature errorminus="150.0" errorplus="150">5987</temperature>
 		<radius errorminus=".228" errorplus="0.228">1.178</radius>
 		<mass errorminus="0.1300" errorplus="0.1300">1.1600</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.046</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.1</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-323 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.028</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.09</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.078</metallicity>
+		<magV errorminus="" errorplus="">12.722</magV>
 	</star>
 </system>

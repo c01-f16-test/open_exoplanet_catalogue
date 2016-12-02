@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.07</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.13</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-332 c</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.114</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.08</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-332 d</name>
@@ -61,6 +65,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.189</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.51</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">0.8</mass>
+		<metallicity errorminus="" errorplus="">0.05</metallicity>
+		<magV errorminus="" errorplus="">14.017</magV>
 	</star>
 </system>
