@@ -2,7 +2,7 @@
 	<name>HD 37124</name>
 	<rightascension>05 37 02</rightascension>
 	<declination>+20 43 50</declination>
-	<distance>33</distance>
+	<distance errorminus="1.32" errorplus="1.22">33.24</distance>
 	<star>
 		<mass>0.83</mass>
 		<radius>0.82</radius>
@@ -18,38 +18,47 @@
 		<planet>
 			<name>HD 37124 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.675</mass>
-			<period>154.378</period>
-			<semimajoraxis>0.53364</semimajoraxis>
-			<eccentricity>0.054</eccentricity>
+			<mass errorminus="0.017" errorplus="0.017">0.675</mass>
+			<period errorminus="0.089" errorplus="0.089">154.378</period>
+			<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.53364</semimajoraxis>
+			<eccentricity errorminus="0.028" errorplus="0.028">0.054</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>1999</discoveryyear>
+			<discoveryyear>2002</discoveryyear>
 			<temperature>306.6</temperature>
+			<periastron errorminus="" errorplus="">130.0</periastron>
+			<periastrontime errorminus="11.000000" errorplus="11.000000">2450305.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 37124 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.652</mass>
-			<period>885.5</period>
-			<semimajoraxis>1.71</semimajoraxis>
-			<eccentricity>0.125</eccentricity>
+			<mass errorminus="0.052" errorplus="0.052">0.652</mass>
+			<period errorminus="5.1" errorplus="5.1">885.5</period>
+			<semimajoraxis errorminus="0.0065" errorplus="0.0065">1.71</semimajoraxis>
+			<eccentricity errorminus="0.055" errorplus="0.055">0.125</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>2005</discoveryyear>
+			<discoveryyear>2002</discoveryyear>
 			<temperature>171.1</temperature>
+			<periastron errorminus="17.0000" errorplus="17.0000">53.0</periastron>
+			<periastrontime errorminus="11.000000" errorplus="11.000000">2449534.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 37124 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.696</mass>
-			<period>1862</period>
-			<semimajoraxis>2.807</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.059" errorplus="0.059">0.696</mass>
+			<period errorminus="38.0" errorplus="38.0">1862</period>
+			<semimajoraxis errorminus="0.038" errorplus="0.038">2.807</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<discoveryyear>2005</discoveryyear>
 			<temperature>133.5</temperature>
+			<periastron errorminus="" errorplus="">0.0</periastron>
+			<periastrontime errorminus="11.000000" errorplus="11.000000">2448558.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 37124</name>
 		<temperature>5610.0</temperature>

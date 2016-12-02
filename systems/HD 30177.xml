@@ -2,30 +2,33 @@
 	<name>HD 30177</name>
 	<rightascension>04 41 54</rightascension>
 	<declination>-58 01 14</declination>
-	<distance>55</distance>
+	<distance errorminus="2.41" errorplus="2.21">54.71</distance>
 	<star>
 		<mass>0.95</mass>
 		<radius>1.12</radius>
-		<magV>8.41</magV>
+		<magV errorminus="0.013" errorplus="0.013">8.41</magV>
 		<magJ errorminus="0.035" errorplus="0.035">7.15</magJ>
 		<magH errorminus="0.053" errorplus="0.053">6.829</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.715</magK>
 		<magB errorminus="0.02" errorplus="0.02">9.18</magB>
-		<metallicity>0.19</metallicity>
+		<metallicity>0.39</metallicity>
 		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 30177 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.7</mass>
-			<period>1620</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<mass errorminus="0.88" errorplus="0.88">10.45</mass>
+			<period errorminus="100.0" errorplus="100.0">2770.0</period>
+			<semimajoraxis errorminus="0.26" errorplus="0.26">3.95</semimajoraxis>
+			<eccentricity errorminus="0.025" errorplus="0.025">0.22</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/31</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>153.5</temperature>
+			<periastron errorminus="15.0000" errorplus="15.0000">34.0</periastron>
+			<periastrontime errorminus="72.000000" errorplus="72.000000">2451437.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 30177</name>
-		<temperature>5320.0</temperature>
+		<temperature>5588.0</temperature>
 	</star>
 </system>

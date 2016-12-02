@@ -7,15 +7,15 @@
 	<distance>119.3</distance>
 	<star>
 		<magB errorminus="0.24" errorplus="0.24">12.58</magB>
-		<magV errorminus="0.19" errorplus="0.19">12.07</magV>
+		<magV errorminus="0.19" errorplus="0.19">11.492</magV>
 		<magJ errorminus="0.023" errorplus="0.023">9.984</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.446</magH>
 		<magK errorminus="0.011" errorplus="0.011">9.351</magK>
 		<name>Kepler-102</name>
 		<name>KOI-82</name>
 		<name>KIC 10187017</name>
-		<temperature errorminus="74" errorplus="74">4903</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.08</metallicity>
+		<temperature errorminus="41.0" errorplus="41.0">4909.0</temperature>
+		<metallicity errorminus="0.47" errorplus="0.42">0.08</metallicity>
 		<mass errorminus="0.06" errorplus="0.06">0.80</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.74</radius>
 		<age>1.41</age>
@@ -29,10 +29,11 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.006291" errorplus="0.006291">0.028091</mass>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.3</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-102 d</name>
@@ -48,6 +49,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0500" errorplus="0.0500">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-102 f</name>
@@ -63,6 +65,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.57</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-102 c</name>
@@ -78,6 +81,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0500" errorplus="0.0500">0.06</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-102 b</name>
@@ -93,6 +97,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0600" errorplus="0.0600">0.06</impactparameter>
 		</planet>
 	</star>
 </system>

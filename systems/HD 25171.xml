@@ -2,10 +2,10 @@
 	<name>HD 25171</name>
 	<rightascension>03 55 49</rightascension>
 	<declination>-65 11 12</declination>
-	<distance>55</distance>
+	<distance errorminus="1.95" errorplus="1.82">56.05</distance>
 	<star>
-		<mass>1.09</mass>
-		<radius>1.18</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.09</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.18</radius>
 		<magV>7.79</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.293</magB>
 		<magR errorminus="0.26" errorplus="0.26">7.77</magR>
@@ -13,21 +13,25 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.765</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.570</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.489</magK>
-		<metallicity>-0.11</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<metallicity errorminus="0.044" errorplus="0.044">-0.11</metallicity>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 25171 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.95</mass>
-			<period>1845</period>
-			<semimajoraxis>3.02</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.1" errorplus="0.1">0.95</mass>
+			<period errorminus="167.0" errorplus="167.0">1845</period>
+			<semimajoraxis errorminus="0.16" errorplus="0.16">3.02</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.08</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>169.7</temperature>
+			<periastron errorminus="89.0000" errorplus="89.0000">96.0</periastron>
+			<periastrontime errorminus="449.000000" errorplus="449.000000">2455301.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 25171</name>
-		<temperature>6160.0</temperature>
+		<temperature errorminus="65.0" errorplus="65.0">6160.0</temperature>
+		<age errorminus="1.600" errorplus="1.600">4.0</age>
 	</star>
 </system>

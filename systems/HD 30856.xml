@@ -2,31 +2,35 @@
 	<name>HD 30856</name>
 	<rightascension>04 50 14</rightascension>
 	<declination>-24 21 36</declination>
-	<distance>118</distance>
+	<distance errorminus="14.62" errorplus="11.78">121.07</distance>
 	<star>
-		<mass>1.35</mass>
-		<radius>4.2</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.35</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.2</radius>
 		<magV>8.07</magV>
 		<magB errorminus="0.016" errorplus="0.016">8.872</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.255</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.798</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.657</magK>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>K0</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.06</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 30856 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.8</mass>
-			<period>912</period>
-			<semimajoraxis>2.00</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.2" errorplus="0.2">1.8</mass>
+			<period errorminus="41.0" errorplus="41.0">912</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">1.8</semimajoraxis>
+			<eccentricity>0.117</eccentricity>
 			<description>The star HD 30856 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>317.2</temperature>
+			<periastron errorminus="60.0000" errorplus="60.0000">192.0</periastron>
+			<periastrontime errorminus="150.000000" errorplus="150.000000">2455260.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 30856</name>
-		<temperature>4982.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">4982.0</temperature>
+		<age errorminus="1.000" errorplus="1.000">3.8</age>
 	</star>
 </system>

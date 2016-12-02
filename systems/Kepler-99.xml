@@ -31,6 +31,8 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1300" errorplus="0.1300">0.21</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">12.97</magV>
 	</star>
 </system>

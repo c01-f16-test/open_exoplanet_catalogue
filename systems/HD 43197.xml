@@ -2,30 +2,33 @@
 	<name>HD 43197</name>
 	<rightascension>06 13 36</rightascension>
 	<declination>-29 53 50</declination>
-	<distance>54.9</distance>
+	<distance errorminus="3.6" errorplus="4.2">56.3</distance>
 	<star>
 		<mass>0.96</mass>
-		<radius>1</radius>
+		<radius errorminus="0.01" errorplus="0.01">1</radius>
 		<magV>8.95</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.79</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.658</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.328</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.203</magK>
-		<metallicity>0.4</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<metallicity errorminus="0.04" errorplus="0.04">0.4</metallicity>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 43197 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.6</mass>
-			<period>327.8</period>
-			<semimajoraxis>0.92</semimajoraxis>
-			<eccentricity>0.83</eccentricity>
+			<mass errorminus="0.04" errorplus="0.12">0.6</mass>
+			<period errorminus="1.2" errorplus="1.2">327.8</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.01">0.92</semimajoraxis>
+			<eccentricity errorminus="0.01" errorplus="0.05">0.83</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>239.6</temperature>
+			<periastron errorminus="12.0000" errorplus="7.0000">251.0</periastron>
+			<periastrontime errorminus="1.700000" errorplus="1.700000">2454713.8</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 43197</name>
-		<temperature>5508.0</temperature>
+		<temperature errorminus="46.0" errorplus="46.0">5508.0</temperature>
 	</star>
 </system>

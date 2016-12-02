@@ -14,7 +14,7 @@
 		<temperature errorminus="75" errorplus="75">5952</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
 		<magB>12.82</magB>
-		<magV>12.93</magV>
+		<magV>12.365</magV>
 		<magJ errorminus="0.019" errorplus="0.019">11.314</magJ>
 		<magH errorminus="0.016" errorplus="0.016">11.046</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.001</magK>
@@ -41,6 +41,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.58</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-109 c</name>
@@ -62,6 +63,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0800" errorplus="0.0800">0.16</impactparameter>
 		</planet>
 	</star>
 </system>

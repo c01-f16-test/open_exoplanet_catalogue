@@ -14,7 +14,7 @@
 		<radius errorminus="0.20" errorplus="0.20">1.56</radius>
 		<mass errorminus="0.05" errorplus="0.07">1.17</mass>
 		<age errorminus="1.2" errorplus="1.2">5.9</age>
-		<spectraltype>G3IV</spectraltype>
+		<spectraltype>G3 IV</spectraltype>
 		<magB>14.52</magB>
 		<magV>13.80</magV>
 		<magH errorminus="0.019" errorplus="0.019">12.112</magH>
@@ -39,6 +39,8 @@
 			<lastupdate>15/01/27</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1800" errorplus="0.0900">0.52</impactparameter>
+			<temperature errorminus="145" errorplus="103">1513.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-101 c</name>
@@ -48,7 +50,7 @@
 			<period errorminus="0.000075" errorplus="0.000075">6.029760</period>
 			<transittime errorminus="0.0088" errorplus="0.0088" unit="BJD">2454965.4860</transittime>
 			<inclination errorminus="3.1" errorplus="3.4">84.6</inclination>
-			<mass upperlimit="0.0119" />
+			<mass upperlimit="0.0119">0.01</mass>
 			<radius errorminus="0.015" errorplus="0.017">0.112</radius>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0684</semimajoraxis>
 			<list>Confirmed planets</list>
@@ -57,6 +59,11 @@
 			<lastupdate>15/01/27</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<periastron errorminus="" errorplus="">90.0</periastron>
+			<impactparameter errorminus="0.3600" errorplus="0.1300">0.75</impactparameter>
+			<temperature errorminus="210" errorplus="238">1413.0</temperature>
 		</planet>
+		<metallicity errorminus="0.070" errorplus="0.070">0.33</metallicity>
 	</star>
 </system>

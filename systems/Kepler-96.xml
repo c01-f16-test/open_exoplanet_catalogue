@@ -7,7 +7,7 @@
 	<distance>128.0</distance>
 	<star>
 		<magB errorminus="0.06" errorplus="0.06">11.25</magB>
-		<magV errorminus="0.04" errorplus="0.04">10.57</magV>
+		<magV errorminus="0.04" errorplus="0.04">10.297</magV>
 		<magJ errorminus="0.024" errorplus="0.024">9.260</magJ>
 		<magH errorminus="0.027" errorplus="0.027">8.928</magH>
 		<magK errorminus="0.020" errorplus="0.020">8.868</magK>
@@ -26,13 +26,14 @@
 			<name>KIC 5383248 b</name>
 			<period>16.2385</period>
 			<radius errorminus="0.020049" errorplus="0.020049">0.243318</radius>
-			<mass upperlimit="0.037748" />
+			<mass errorminus="0.011" errorplus="0.011" upperlimit="0.037748">0.027</mass>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0700" errorplus="0.0700">0.54</impactparameter>
 		</planet>
 	</star>
 </system>

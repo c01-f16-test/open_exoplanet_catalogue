@@ -2,31 +2,35 @@
 	<name>HD 28678</name>
 	<rightascension>04 31 28</rightascension>
 	<declination>+04 34 48</declination>
-	<distance>227</distance>
+	<distance errorminus="46.6" errorplus="30.03">168.92</distance>
 	<star>
-		<mass>1.74</mass>
-		<radius>6.2</radius>
+		<mass errorminus="0.12" errorplus="0.12">1.74</mass>
+		<radius errorminus="0.1" errorplus="0.1">6.2</radius>
 		<magV>8.54</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.43</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.447</magJ>
 		<magH errorminus="0.053" errorplus="0.053">5.942</magH>
 		<magK errorminus="0.023" errorplus="0.023">5.775</magK>
-		<metallicity>-0.11</metallicity>
-		<spectraltype>K0</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.11</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 28678 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.7</mass>
-			<period>387.1</period>
-			<semimajoraxis>1.24</semimajoraxis>
-			<eccentricity>0.168</eccentricity>
+			<mass errorminus="0.1" errorplus="0.1">1.7</mass>
+			<period errorminus="3.4" errorplus="3.4">387.1</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.24</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.168</eccentricity>
 			<description>The star HD 28678 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>499.6</temperature>
+			<periastron errorminus="30.0000" errorplus="30.0000">126.0</periastron>
+			<periastrontime errorminus="30.000000" errorplus="30.000000">2455517.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 28678</name>
-		<temperature>5076.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5076.0</temperature>
+		<age errorminus="0.700" errorplus="0.700">1.8</age>
 	</star>
 </system>

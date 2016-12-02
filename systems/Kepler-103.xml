@@ -7,7 +7,7 @@
 	<distance>476.8</distance>
 	<star>
 		<magB errorminus="0.24" errorplus="0.24">12.68</magB>
-		<magV errorminus="0.16" errorplus="0.16">11.88</magV>
+		<magV errorminus="0.16" errorplus="0.16">12.287</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.193</magJ>
 		<magH errorminus="0.016" errorplus="0.016">10.941</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.873</magK>
@@ -26,7 +26,7 @@
 			<name>KIC 4914423 b</name>
 			<period>15.9654</period>
 			<radius errorminus="0.008202" errorplus="0.008202">0.307109</radius>
-			<mass upperlimit="0.094371" />
+			<mass errorminus="0.027" errorplus="0.027" upperlimit="0.094371">0.031</mass>
 			<transittime unit="BJD">2455128.32581</transittime>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.128</semimajoraxis>
 			<inclination errorminus="0.1" errorplus="0.1">87.8</inclination>
@@ -37,6 +37,7 @@
 			<lastupdate>15/06/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.72</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-103 c</name>
@@ -45,7 +46,7 @@
 			<name>KIC 4914423 c</name>
 			<period>179.612</period>
 			<radius errorminus="0.012758" errorplus="0.012758">0.468410</radius>
-			<mass upperlimit="0.298842" />
+			<mass errorminus="0.079" errorplus="0.079" upperlimit="0.298842">0.114</mass>
 			<transittime unit="BJD">2454969.27837</transittime>
 			<semimajoraxis errorminus="0.014" errorplus="0.014">0.641</semimajoraxis>
 			<inclination errorminus="0.02" errorplus="0.02">89.7</inclination>
@@ -56,6 +57,7 @@
 			<lastupdate>15/06/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.44</impactparameter>
 		</planet>
 	</star>
 </system>

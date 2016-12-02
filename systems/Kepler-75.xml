@@ -4,7 +4,7 @@
 	<name>2MASS 19243302+3634385</name>
 	<rightascension>19 24 33</rightascension>
 	<declination>+36 34 39</declination>
-	<distance errorminus="250" errorplus="160">1140</distance>
+	<distance errorminus="160.0" errorplus="250.0">1140</distance>
 	<star>
 		<name>Kepler-75</name>
 		<name>KOI-889</name>
@@ -20,7 +20,7 @@
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
 		<age errorminus="2.8" errorplus="3.5">6.2</age>
 		<metallicity errorminus="0.12" errorplus="0.12">0.30</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>Kepler-75 b</name>
 			<name>KOI-889 b</name>
@@ -41,6 +41,9 @@
 			<lastupdate>13/03/26</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0800" errorplus="0.0900">0.13</impactparameter>
+			<temperature errorminus="16" errorplus="16">767.0</temperature>
 		</planet>
+		<magV errorminus="" errorplus="">15.264</magV>
 	</star>
 </system>

@@ -12,24 +12,30 @@
 		<name>Kepler-105</name>
 		<name>KOI-115</name>
 		<name>KIC 9579641</name>
-		<temperature errorminus="100" errorplus="100">5873</temperature>
-		<radius errorminus="0.245" errorplus="0.245">1.160</radius>
-		<mass errorminus="0.0930" errorplus="0.0930">1.1800</mass>
+		<temperature errorminus="94.0" errorplus="94.0">5827.0</temperature>
+		<radius errorminus="0.04" errorplus="0.04">0.89</radius>
+		<mass errorminus="0.0930" errorplus="0.0930">0.96</mass>
 		<planet>
 			<name>Kepler-105 b</name>
 			<name>KOI-115 b</name>
 			<name>KOI-115.01</name>
 			<name>KIC 9579641 b</name>
 			<name>KIC 9579641.01</name>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
+			<radius errorminus="0.05468" errorplus="0.05468">0.429</radius>
 			<period errorminus="0.000004" errorplus="0.000004">5.412200</period>
 			<transittime errorminus="0.0004200" errorplus="0.0004200">2454966.1424900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-105 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>16/01/13</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.066</semimajoraxis>
+			<eccentricity errorminus="0.470000" errorplus="0.050000">0.47</eccentricity>
+			<periastron errorminus="272.1600" errorplus="16.0400">272.16</periastron>
+			<inclination errorminus="3.880" errorplus="1.870">85.94</inclination>
+			<impactparameter errorminus="0.1700" errorplus="0.2600">0.64</impactparameter>
+			<temperature errorminus="228" errorplus="228">1418.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-105 c</name>
@@ -61,5 +67,7 @@
 			<istransiting>1</istransiting>
 			<list>Controversial</list>
 		</planet>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.19</metallicity>
+		<magV errorminus="" errorplus="">12.791</magV>
 	</star>
 </system>

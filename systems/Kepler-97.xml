@@ -31,19 +31,22 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1600" errorplus="0.1600">0.41</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-97 c</name>
 			<name>KOI-292.10</name>
 			<name>KOI-292 c</name>
 			<name>KIC 11075737 c</name>
-			<period lowerlimit="789" />
+			<period lowerlimit="789">789.0</period>
 			<list>Confirmed planets</list>
-			<mass lowerlimit="1.082121" />
+			<mass lowerlimit="1.082121">1.08</mass>
 			<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
+			<istransiting>0</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">12.872</magV>
 	</star>
 </system>

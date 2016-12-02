@@ -2,11 +2,11 @@
 	<name>HD 33564</name>
 	<rightascension>05 22 33</rightascension>
 	<declination>+79 13 52</declination>
-	<distance>20.98</distance>
+	<distance errorminus="0.23" errorplus="0.23">20.98</distance>
 	<star>
-		<mass>1.25</mass>
+		<mass errorminus="0.04" errorplus="0.03">1.25</mass>
 		<radius>1.1</radius>
-		<magV>5.08</magV>
+		<magV errorminus="0.02" errorplus="0.02">5.08</magV>
 		<magB>5.547</magB>
 		<magR>4.8</magR>
 		<magI>4.6</magI>
@@ -14,20 +14,24 @@
 		<magH errorminus="0.276" errorplus="0.276">4.201</magH>
 		<magK errorminus="0.020" errorplus="0.020">3.911</magK>
 		<metallicity>-0.12</metallicity>
-		<spectraltype>F6 V</spectraltype>
+		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 33564 b</name>
 			<list>Confirmed planets</list>
 			<mass>9.1</mass>
-			<period>388</period>
+			<period errorminus="3.0" errorplus="3.0">388</period>
 			<semimajoraxis>1.1</semimajoraxis>
-			<eccentricity>0.34</eccentricity>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.34</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>273.5</temperature>
+			<periastron errorminus="4.0000" errorplus="4.0000">205.0</periastron>
+			<periastrontime errorminus="8.000000" errorplus="8.000000">2452603.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 33564</name>
 		<temperature>6250.0</temperature>
+		<age errorminus="0.300" errorplus="0.600">3.0</age>
 	</star>
 </system>

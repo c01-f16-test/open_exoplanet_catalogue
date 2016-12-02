@@ -12,7 +12,7 @@
 		<name>Kepler-108</name>
 		<name>KOI-119</name>
 		<name>KIC 9471974</name>
-		<temperature errorminus="2" errorplus="92">5854</temperature>
+		<temperature errorminus="92.0" errorplus="92">5854</temperature>
 		<radius errorminus="0.121" errorplus="0.121">2.192</radius>
 		<mass errorminus="0.1700" errorplus="0.1700">0.8900</mass>
 		<planet>
@@ -33,6 +33,7 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1500" errorplus="0.1500">0.03</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-108 c</name>
@@ -43,7 +44,7 @@
 			<radius errorminus="0.04648" errorplus="0.04648">0.74545</radius>
 			<period errorminus=".000988" errorplus="0.000988">190.323494</period>
 			<transittime errorminus="0.0025500" errorplus="0.0025500">2455145.6732300</transittime>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">0.62</semimajoraxis>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">0.721</semimajoraxis>
 			<inclination errorminus="0.1" errorplus="0.1">89.2</inclination>
 			<eccentricity errorminus="0.04" errorplus="0.19">0.04</eccentricity>
 			<list>Confirmed planets</list>
@@ -52,6 +53,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0600" errorplus="0.0600">0.81</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.026</metallicity>
+		<magV errorminus="" errorplus="">12.654</magV>
 	</star>
 </system>

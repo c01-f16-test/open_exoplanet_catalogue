@@ -2,9 +2,9 @@
 	<name>HD 40307</name>
 	<rightascension>05 54 04</rightascension>
 	<declination>-60 01 24</declination>
-	<distance>12.8</distance>
+	<distance errorminus="0.09" errorplus="0.09">12.8</distance>
 	<star>
-		<mass>0.77</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.77</mass>
 		<magV>7.17</magV>
 		<magB>8.097</magB>
 		<magR>6.597</magR>
@@ -12,46 +12,52 @@
 		<magJ errorminus="0.019" errorplus="0.019">5.412</magJ>
 		<magH errorminus="0.040" errorplus="0.040">4.968</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.793</magK>
-		<metallicity>-0.31</metallicity>
-		<spectraltype>K2.5V</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.31</metallicity>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 40307 b</name>
-			<mass>0.01258</mass>
-			<period>4.3123</period>
-			<semimajoraxis>0.0468</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
+			<mass errorminus="0.0022" errorplus="0.0025">0.01258</mass>
+			<period errorminus="0.0012" errorplus="0.0011">4.3123</period>
+			<semimajoraxis errorminus="0.0023" errorplus="0.0024">0.0468</semimajoraxis>
+			<eccentricity errorminus="0.16" errorplus="0.14">0.2</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/08</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>804.5</temperature>
+			<periastron errorminus="57.3000" errorplus="45.8000">194.8</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.020761624</mass>
-			<period>9.6184</period>
-			<semimajoraxis>0.0799</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<mass errorminus="0.0031" errorplus="0.0035">0.020761624</mass>
+			<period errorminus="0.0049" errorplus="0.005">9.6184</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.0799</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.11">0.06</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/08</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>617.1</temperature>
+			<periastron errorminus="" errorplus="">234.9</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.029884156</mass>
-			<period>20.432</period>
-			<semimajoraxis>0.1321</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.0047" errorplus="0.0053">0.029884156</mass>
+			<period errorminus="0.024" errorplus="0.022">20.432</period>
+			<semimajoraxis errorminus="0.0066" errorplus="0.0066">0.1321</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.11">0.07</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/08</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>479.9</temperature>
+			<periastron errorminus="" errorplus="">17.2</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 e</name>
@@ -68,32 +74,37 @@
 		</planet>
 		<planet>
 			<name>HD 40307 f</name>
-			<mass>0.01635764</mass>
-			<period>51.76</period>
-			<semimajoraxis>0.247</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<mass errorminus="0.005" errorplus="0.0047">0.01635764</mass>
+			<period errorminus="0.46" errorplus="0.5">51.76</period>
+			<semimajoraxis errorminus="0.014" errorplus="0.011">0.247</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.2">0.02</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets, most likely 6. The first three planets were discovered in 2008, the other ones were reported in 2012.</description>
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/08</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<temperature>351.1</temperature>
+			<periastron errorminus="" errorplus="">355.2</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 40307 g</name>
 			<list>Confirmed planets</list>
-			<mass>0.02233447</mass>
-			<period>197.8</period>
-			<semimajoraxis>0.60</semimajoraxis>
-			<eccentricity>0.29</eccentricity>
+			<mass errorminus="0.0082" errorplus="0.0082">0.02233447</mass>
+			<period errorminus="9.0" errorplus="5.7">197.8</period>
+			<semimajoraxis errorminus="0.033" errorplus="0.034">0.60</semimajoraxis>
+			<eccentricity errorminus="0.29" errorplus="0.31">0.29</eccentricity>
 			<description>The HD 40307 system hosts at least 5 planets. A signal of a sixth planet has also been reported but should be taken with a grain of salt as it might correlate with chromospheric emission from the star. If the signal is a genuine signal of planetary origin, then this super-Earth might be habitable as it could support liquid water on its surface.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/08</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<temperature>224.0</temperature>
+			<periastron errorminus="" errorplus="">91.7</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 40307</name>
-		<temperature>4977.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">4956.0</temperature>
+		<age errorminus="" errorplus="">4.5</age>
 	</star>
 	<videolink>http://youtu.be/MNIllUKtjfI</videolink>
 </system>

@@ -7,7 +7,7 @@
 	<distance>296.6</distance>
 	<star>
 		<magB errorminus="0.11" errorplus="0.11">11.86</magB>
-		<magV errorminus="0.07" errorplus="0.07">11.06</magV>
+		<magV errorminus="0.07" errorplus="0.07">11.197</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.081</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.804</magH>
 		<magK errorminus="0.014" errorplus="0.014">9.768</magK>
@@ -37,6 +37,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0400" errorplus="0.0400">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-100 b</name>
@@ -56,6 +57,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.54</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-100 d</name>
@@ -74,6 +76,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.75</impactparameter>
 		</planet>
 	</star>
 </system>
