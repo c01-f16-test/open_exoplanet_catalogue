@@ -7,13 +7,13 @@
 		<name>HD 4732</name>
 		<mass>1.74</mass>
 		<radius>5.4</radius>
-		<temperature>4959</temperature>
 		<magV>2.04</magV>
-		<magR errorminus="0.30" errorplus="0.30">7.09</magR>
 		<magB>6.84</magB>
+		<magR errorminus="0.30" errorplus="0.30">7.09</magR>
 		<magJ errorminus="0.248" errorplus="0.248">4.338</magJ>
 		<magH errorminus="0.242" errorplus="0.242">3.717</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.691</magK>
+		<temperature>4959</temperature>
 		<metallicity>0.01</metallicity>
 		<spectraltype>K0 IV</spectraltype>
 		<planet>

@@ -33,8 +33,8 @@
 				<period>256</period>
 				<semimajoraxis>0.88</semimajoraxis>
 				<eccentricity>0.7</eccentricity>
-				<description>This planet was discovered in 2000 by Korzennik and collaborators in 2004 Mugrauer and colleagues found a low mass stellar companion</description>
 				<inclination>54</inclination>
+				<description>This planet was discovered in 2000 by Korzennik and collaborators in 2004 Mugrauer and colleagues found a low mass stellar companion</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2000</discoveryyear>

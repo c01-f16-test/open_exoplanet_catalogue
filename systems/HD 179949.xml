@@ -4,6 +4,7 @@
 	<declination>-24 10 45</declination>
 	<distance>27</distance>
 	<star>
+		<name>HD 179949</name>
 		<mass>1.28</mass>
 		<radius>1.19</radius>
 		<magV>6.25</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">5.296</magJ>
 		<magH errorminus="0.04" errorplus="0.04">5.10</magH>
 		<magK errorminus="0.018" errorplus="0.018">4.936</magK>
+		<temperature>6260.0</temperature>
 		<metallicity>0.22</metallicity>
 		<spectraltype>F8 V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>3.0925</period>
 			<semimajoraxis>0.045</semimajoraxis>
 			<eccentricity>0.022</eccentricity>
+			<temperature>1419.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/09/06</lastupdate>
 			<discoveryyear>2000</discoveryyear>
-			<temperature>1419.4</temperature>
 		</planet>
-		<name>HD 179949</name>
-		<temperature>6260.0</temperature>
 	</star>
 </system>

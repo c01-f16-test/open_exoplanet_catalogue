@@ -4,14 +4,16 @@
 	<declination>-23 27 23</declination>
 	<distance>15.1</distance>
 	<star>
+		<name>Gliese 317</name>
 		<mass>0.42</mass>
 		<magV>12</magV>
+		<magB>13.2</magB>
 		<magR>10.84</magR>
 		<magI>9.37</magI>
-		<magB>13.2</magB>
 		<magJ errorminus="0.027" errorplus="0.027">7.934</magJ>
 		<magH errorminus="0.071" errorplus="0.071">7.321</magH>
 		<magK errorminus="0.020" errorplus="0.020">7.028</magK>
+		<temperature>3510.0</temperature>
 		<metallicity>0.36</metallicity>
 		<spectraltype>M3.5</spectraltype>
 		<planet>
@@ -44,7 +46,5 @@
 			<lastupdate>11/11/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
-		<name>Gliese 317</name>
-		<temperature>3510.0</temperature>
 	</star>
 </system>

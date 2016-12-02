@@ -12,18 +12,18 @@
 		<name>PPM 125847</name>
 		<name>SAO 98188</name>
 		<name>BD+13 2007</name>
+		<mass errorminus="0.08" errorplus="0.08">1.41</mass>
+		<radius errorminus="0.3" errorplus="0.3">3.3</radius>
 		<magV>7.84</magV>
 		<magU>9.74</magU>
 		<magB>8.84</magB>
 		<magJ>6.092</magJ>
 		<magH>5.626</magH>
 		<magK>5.502</magK>
-		<mass errorminus="0.08" errorplus="0.08">1.41</mass>
-		<radius errorminus="0.3" errorplus="0.3">3.3</radius>
 		<temperature errorminus="44" errorplus="44">4917</temperature>
+		<age errorminus="0.7" errorplus="0.7">4.0</age>
 		<metallicity errorminus="0.03" errorplus="0.03">0.25</metallicity>
 		<spectraltype>K3IV</spectraltype>
-		<age errorminus="0.7" errorplus="0.7">4.0</age>
 		<planet>
 			<name>HD 75784 b</name>
 			<name>HD 75784 b</name>

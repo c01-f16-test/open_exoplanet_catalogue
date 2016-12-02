@@ -4,12 +4,14 @@
 	<declination>-44 26 04</declination>
 	<distance>59.35</distance>
 	<star>
+		<name>HD 143361</name>
 		<mass>0.95</mass>
 		<magV>9.2</magV>
 		<magB>9.93</magB>
 		<magJ errorminus="0.026" errorplus="0.026">7.905</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.572</magH>
 		<magK errorminus="0.018" errorplus="0.018">7.488</magK>
+		<temperature>5940.0</temperature>
 		<metallicity>0.29</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
@@ -19,12 +21,10 @@
 			<period>1057</period>
 			<semimajoraxis>2</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
+			<temperature>161.0</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/05/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>161.0</temperature>
 		</planet>
-		<name>HD 143361</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

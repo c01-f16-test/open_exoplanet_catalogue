@@ -18,10 +18,10 @@
 		<magJ errorminus="0.023" errorplus="0.023">6.060</magJ>
 		<magH errorminus="0.021" errorplus="0.021">5.839</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.792</magK>
-		<metallicity>0.16</metallicity>
-		<spectraltype>F8</spectraltype>
 		<temperature>5960</temperature>
 		<age>3</age>
+		<metallicity>0.16</metallicity>
+		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HD 31253 b</name>
 			<list>Confirmed planets</list>

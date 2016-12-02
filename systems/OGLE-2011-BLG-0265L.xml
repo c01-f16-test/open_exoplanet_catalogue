@@ -4,12 +4,12 @@
 	<declination>-27 23 40.3</declination>
 	<distance errorminus="500" errorplus="500">3500</distance>
 	<star>
+		<name>OGLE-2011-BLG-0265L</name>
+		<name>MOA-2011-BLG-197</name>
 		<mass errorminus="0.07" errorplus="0.07">0.23</mass>
 		<magV>20.54</magV>
 		<magI>17.51</magI>
 		<spectraltype>M3.5</spectraltype>
-		<name>OGLE-2011-BLG-0265L</name>
-		<name>MOA-2011-BLG-197</name>
 		<planet>
 			<name>OGLE-2011-BLG-0265L b</name>
 			<name>MOA-2011-BLG-197 b</name>

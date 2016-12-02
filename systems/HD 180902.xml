@@ -4,6 +4,7 @@
 	<declination>-23 33 29</declination>
 	<distance>110</distance>
 	<star>
+		<name>HD 180902</name>
 		<mass>1.52</mass>
 		<radius>4.1</radius>
 		<magV>7.78</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">6.121</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.670</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.543</magK>
+		<temperature>5030.0</temperature>
 		<metallicity>0.04</metallicity>
 		<spectraltype>K0III/IV</spectraltype>
 		<planet>
@@ -21,12 +23,10 @@
 			<period>479</period>
 			<semimajoraxis>1.39</semimajoraxis>
 			<eccentricity>0.09</eccentricity>
+			<temperature>380.7</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/03/19</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>380.7</temperature>
 		</planet>
-		<name>HD 180902</name>
-		<temperature>5030.0</temperature>
 	</star>
 </system>

@@ -10,10 +10,8 @@
 		<name>LHS 450</name>
 		<name>BD+68 946</name>
 		<name>HIP 86162</name>
-		<spectraltype>M3V</spectraltype>
 		<mass errorminus="0.041" errorplus="0.041">0.413</mass>
 		<radius errorminus="0.0070" errorplus="0.0070">0.4183</radius>
-		<temperature errorminus="28" errorplus="28">3413</temperature>
 		<magV>9.15</magV>
 		<magB>10.65</magB>
 		<magR>8.3</magR>
@@ -21,6 +19,8 @@
 		<magJ>5.335</magJ>
 		<magH>4.77</magH>
 		<magK>4.548</magK>
+		<temperature errorminus="28" errorplus="28">3413</temperature>
+		<spectraltype>M3V</spectraltype>
 		<planet>
 			<name>Gliese 687 b</name>
 			<name>GJ 687 b</name>

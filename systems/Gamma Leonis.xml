@@ -52,18 +52,18 @@
 				<name>Algieba A b</name>
 				<name>Al Gieba A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="1.0" errorplus="1.0" type="msini">8.78</mass>
 				<period errorminus="1.25" errorplus="1.25">428.5</period>
 				<semimajoraxis errorminus="0.02" errorplus="0.02">1.19</semimajoraxis>
 				<eccentricity errorminus="0.046" errorplus="0.046">0.144</eccentricity>
 				<periastron errorminus="9.2" errorplus="9.2">206.7</periastron>
 				<periastrontime errorminus="13.5" errorplus="13.5">2451236</periastrontime>
-				<inclination errorminus="98.6" errorplus="3.8">172.1</inclination>
 				<ascendingnode errorminus="82.2" errorplus="73.6">157.4</ascendingnode>
+				<inclination errorminus="98.6" errorplus="3.8">172.1</inclination>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/09/22</lastupdate>
 				<discoveryyear>2009</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
@@ -87,8 +87,8 @@
 			<name>BD+20 2467 B</name>
 			<name>WDS J10200+1950 B</name>
 			<name>STF 1424 B</name>
-			<magB>3.4</magB>
 			<magV errorminus="0.011" errorplus="0.011">4.225</magV>
+			<magB>3.4</magB>
 			<magR>2.2</magR>
 			<spectraltype>G7IIIb</spectraltype>
 		</star>

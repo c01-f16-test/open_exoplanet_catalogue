@@ -4,6 +4,7 @@
 	<declination>+18 53 04</declination>
 	<distance>47</distance>
 	<star>
+		<name>HD 209458</name>
 		<mass errorminus="0.022" errorplus="0.022">1.148</mass>
 		<radius errorminus="0.059" errorplus="0.059">1.146</radius>
 		<magV errorminus="0.01" errorplus="0.01">7.63</magV>
@@ -11,9 +12,9 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.591</magJ>
 		<magH errorminus="0.04" errorplus="0.04">6.37</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.308</magK>
-		<metallicity errorminus="0.05" errorplus="0.05">0.02</metallicity>
 		<temperature errorminus="33" errorplus="33">6075</temperature>
 		<age errorminus="2" errorplus="2">4</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.02</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 209458 b</name>
@@ -24,11 +25,13 @@
 			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.04747</semimajoraxis>
 			<eccentricity errorminus="0.003" errorplus="0.003">0.0004</eccentricity>
 			<inclination errorminus="0.046" errorplus="0.046">86.59</inclination>
-			<transittime errorminus="0.014" errorplus="0.014" unit="HJD">2451370.048</transittime>
+			<temperature>1316.1</temperature>
+			<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.014" errorplus="0.014" unit="HJD">2451370.048</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>14/04/18</lastupdate>
 			<discoveryyear>1999</discoveryyear>
-			<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
 			<image>HD209458</image>
 			<imagedescription>Astronomers have measured a superstorm for the first time in the atmosphere of the planet HD 209458 b. The very high-precision observations of carbon monoxide gas show that it is streaming at enormous speed from the extremely hot day side to the cooler night side of the planet.
 
@@ -37,9 +40,6 @@
 		Credit:
 
 		ESO/L. Calcada</imagedescription>
-			<temperature>1316.1</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>HD 209458</name>
 	</star>
 </system>

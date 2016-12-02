@@ -24,10 +24,10 @@
 		<magJ errorminus="0.296" errorplus="0.296">3.960</magJ>
 		<magH errorminus="0.224" errorplus="0.224">3.736</magH>
 		<magK errorminus="0.34" errorplus="0.34">3.75</magK>
-		<age errorminus="1.04" errorplus="1.44">6.48</age>
-		<spectraltype>G0V</spectraltype>
 		<temperature>5818.7</temperature>
+		<age errorminus="1.04" errorplus="1.44">6.48</age>
 		<metallicity>-0.019</metallicity>
+		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>47 UMa b</name>
 			<name>47 Ursae Majoris b</name>

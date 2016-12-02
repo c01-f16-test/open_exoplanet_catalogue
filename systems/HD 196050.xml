@@ -14,6 +14,7 @@
 			<radius>1.29</radius>
 			<magV>7.5</magV>
 			<magB errorminus="0.02" errorplus="0.02">8.16</magB>
+			<temperature>5874.0</temperature>
 			<age>3.55</age>
 			<metallicity>0.23</metallicity>
 			<spectraltype>G3 V</spectraltype>
@@ -22,31 +23,30 @@
 				<name>HD 196050 b</name>
 				<name>HIP 101806 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>2.83</mass>
 				<period>1316.24</period>
 				<semimajoraxis>2.47</semimajoraxis>
 				<eccentricity>0.21</eccentricity>
+				<temperature>186.7</temperature>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/04</lastupdate>
 				<discoveryyear>2002</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
-				<temperature>186.7</temperature>
 			</planet>
-			<temperature>5874.0</temperature>
 		</star>
 		<binary>
 			<semimajoraxis>19.7</semimajoraxis>
 			<star>
 				<name>HD 196050 Ba</name>
 				<mass>0.29</mass>
-				<spectraltype>M3</spectraltype>
 				<age>3.55</age>
+				<spectraltype>M3</spectraltype>
 			</star>
 			<star>
 				<name>HD 196050 Bb</name>
 				<mass>0.19</mass>
-				<spectraltype>M3.5</spectraltype>
 				<age>3.55</age>
+				<spectraltype>M3.5</spectraltype>
 			</star>
 		</binary>
 	</binary>

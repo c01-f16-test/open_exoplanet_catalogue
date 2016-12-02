@@ -14,10 +14,10 @@
 		<magJ errorminus="0.021" errorplus="0.021">10.999</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.527</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.409</magK>
+		<temperature>4910</temperature>
+		<age>4.5</age>
 		<metallicity>0.2</metallicity>
 		<spectraltype>K</spectraltype>
-		<age>4.5</age>
-		<temperature>4910</temperature>
 		<planet>
 			<name>Qatar-1 b</name>
 			<name>2MASS J20133160+6509433 b</name>
@@ -28,15 +28,15 @@
 			<period>1.42002504</period>
 			<semimajoraxis>0.02343</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.82</inclination>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="D">2445518.4102</transittime>
-			<discoverymethod>transit</discoverymethod>
 			<spinorbitalignment>-8.4</spinorbitalignment>
-			<lastupdate>13/04/02</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<inclination>83.82</inclination>
 			<temperature>1389</temperature>
 			<description>Qatar-1 b orbits a metal-rich K-dwarf, one of the faintest around which a planet has been discovered by ground based surveys. Measurements of the Rossiter-McLaughlin effect show that the sky-projected obliquity between the orbital plane of the planet and the star's rotation axis is only a few degrees.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0002" errorplus="0.0002" unit="D">2445518.4102</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>13/04/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

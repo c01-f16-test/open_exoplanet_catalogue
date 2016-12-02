@@ -4,6 +4,7 @@
 	<declination>+34 14 32</declination>
 	<distance>18.1</distance>
 	<star>
+		<name>HD 87883</name>
 		<mass>0.82</mass>
 		<radius>0.76</radius>
 		<magV>7.57</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">5.839</magJ>
 		<magH errorminus="0.046" errorplus="0.046">5.441</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.314</magK>
+		<temperature>4980.0</temperature>
 		<metallicity>0.093</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
@@ -25,7 +27,5 @@
 			<lastupdate>15/10/07</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
-		<name>HD 87883</name>
-		<temperature>4980.0</temperature>
 	</star>
 </system>

@@ -8,6 +8,7 @@
 		<separation unit="AU">9050</separation>
 		<positionangle>262</positionangle>
 		<star>
+			<name>HIP 70849</name>
 			<mass>0.63</mass>
 			<magV>10.36</magV>
 			<magB>11.798</magB>
@@ -16,10 +17,12 @@
 			<magJ errorminus="0.023" errorplus="0.023">7.639</magJ>
 			<magH errorminus="0.061" errorplus="0.061">7.006</magH>
 			<magK errorminus="0.027" errorplus="0.027">6.790</magK>
+			<temperature>4105.0</temperature>
 			<spectraltype>K7V</spectraltype>
 			<planet>
 				<name>HIP 70849 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>9</mass>
 				<period>10000</period>
 				<semimajoraxis>10</semimajoraxis>
@@ -27,17 +30,14 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/07/05</lastupdate>
 				<discoveryyear>2009</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
-			<name>HIP 70849</name>
-			<temperature>4105.0</temperature>
 		</star>
 		<star>
 			<name>HIP 70849 B</name>
-			<spectraltype>T4-T5</spectraltype>
+			<mass>0.05</mass>
 			<magJ>15.533</magJ>
 			<magK>12.415</magK>
-			<mass>0.05</mass>
+			<spectraltype>T4-T5</spectraltype>
 		</star>
 	</binary>
 </system>

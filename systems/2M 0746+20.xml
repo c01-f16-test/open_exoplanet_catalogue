@@ -5,9 +5,12 @@
 	<declination>+20 00 32.18</declination>
 	<distance>12.21</distance>
 	<star>
+		<name>2M 0746+20</name>
+		<name>2MASS J07464256+2000321 A</name>
 		<mass>0.12</mass>
 		<radius>0.089</radius>
 		<magV>17.7</magV>
+		<temperature>2205.0</temperature>
 		<spectraltype>L0/L1.5</spectraltype>
 		<planet>
 			<name>2M 0746+20 b</name>
@@ -23,9 +26,6 @@
 			<lastupdate>12/01/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>2M 0746+20</name>
-		<name>2MASS J07464256+2000321 A</name>
-		<temperature>2205.0</temperature>
 	</star>
 	<videolink>http://youtu.be/N0QjGA_fqb4</videolink>
 </system>

@@ -4,22 +4,22 @@
 	<declination>-24 32 24</declination>
 	<distance>120</distance>
 	<binary>
+		<name>ROXs 42 B</name>
 		<magB>16.300</magB>
 		<magV errorminus="0.04" errorplus="0.04">14.27</magV>
 		<magR errorminus="0.03" errorplus="0.03">13.03</magR>
 		<magI errorminus="0.03" errorplus="0.03">11.72</magI>
-		<name>ROXs 42 B</name>
-		<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.083</separation>
-		<positionangle errorminus="1.7" errorplus="1.7">157.9</positionangle>
 		<magJ>9.91</magJ>
 		<magH>9.02</magH>
+		<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.083</separation>
+		<positionangle errorminus="1.7" errorplus="1.7">157.9</positionangle>
 		<star>
 			<name>ROXs 42 B A</name>
 			<mass errorminus="0.08" errorplus="0.08">0.89</mass>
-			<temperature errorminus="70" errorplus="100">3850</temperature>
-			<spectraltype>M0</spectraltype>
 			<magK>9.0</magK>
+			<temperature errorminus="70" errorplus="100">3850</temperature>
 			<age errorminus="0.0023" errorplus="0.0034">0.0068</age>
+			<spectraltype>M0</spectraltype>
 		</star>
 		<star>
 			<name>ROXs 42 B B</name>
@@ -30,6 +30,7 @@
 			<name>ROXs 42 B b</name>
 			<name>ROXs 42 B (AB) b</name>
 			<list>Confirmed planets</list>
+			<list>Planets in binary systems, P-type</list>
 			<mass errorminus="4" errorplus="4">10</mass>
 			<separation errorminus="0.0012" errorplus="0.0012" unit="arcsec">1.1720</separation>
 			<separation errorminus="10" errorplus="10" unit="AU">140</separation>
@@ -40,7 +41,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
 		</planet>
 	</binary>
 </system>

@@ -6,14 +6,15 @@
 	<star>
 		<name>NGC 2423 3</name>
 		<name>BD-13 2130</name>
-		<spectraltype>GIV/V</spectraltype>
 		<mass>2.4</mass>
 		<magV>9.45</magV>
 		<magB errorminus="0.08" errorplus="0.08">11.31</magB>
 		<magJ errorminus="0.026" errorplus="0.026">7.940</magJ>
 		<magH errorminus="0.05" errorplus="0.05">7.37</magH>
 		<magK errorminus="0.023" errorplus="0.023">7.151</magK>
+		<temperature>5700.0</temperature>
 		<metallicity>0.14</metallicity>
+		<spectraltype>GIV/V</spectraltype>
 		<planet>
 			<name>NGC 2423 3 b</name>
 			<name>BD-13 2130 b</name>
@@ -23,11 +24,10 @@
 			<period>714.3</period>
 			<semimajoraxis>2.1</semimajoraxis>
 			<eccentricity>0.21</eccentricity>
+			<temperature>417.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>07/11/27</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>417.4</temperature>
 		</planet>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

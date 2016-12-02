@@ -4,6 +4,7 @@
 	<declination>-23 58 31</declination>
 	<distance>134</distance>
 	<star>
+		<name>HD 98219</name>
 		<mass>1.30</mass>
 		<radius>4.5</radius>
 		<magV>8.21</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.420</magJ>
 		<magH errorminus="0.031" errorplus="0.031">5.913</magH>
 		<magK errorminus="0.023" errorplus="0.023">5.813</magK>
+		<temperature>4992.0</temperature>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
@@ -20,13 +22,11 @@
 			<period>436.9</period>
 			<semimajoraxis>1.23</semimajoraxis>
 			<eccentricity>0</eccentricity>
+			<temperature>419.8</temperature>
 			<description>The star HD 98219 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>419.8</temperature>
 		</planet>
-		<name>HD 98219</name>
-		<temperature>4992.0</temperature>
 	</star>
 </system>

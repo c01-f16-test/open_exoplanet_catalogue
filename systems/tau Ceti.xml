@@ -5,19 +5,19 @@
 	<declination>-15 56 15</declination>
 	<distance>3.65</distance>
 	<star>
-		<magB>4.22</magB>
+		<name>tau Ceti</name>
+		<name>HD 10700</name>
+		<mass>0.783</mass>
+		<radius>0.798</radius>
 		<magV>3.50</magV>
+		<magB>4.22</magB>
 		<magR>2.88</magR>
 		<magI>2.41</magI>
 		<magJ errorminus="0.31" errorplus="0.31">2.15</magJ>
 		<magH errorminus="0.234" errorplus="0.234">1.800</magH>
 		<magK errorminus="0.274" errorplus="0.274">1.794</magK>
-		<name>tau Ceti</name>
-		<name>HD 10700</name>
-		<mass>0.783</mass>
-		<radius>0.798</radius>
-		<metallicity>-0.55</metallicity>
 		<age>5.8</age>
+		<metallicity>-0.55</metallicity>
 		<spectraltype>G8.5 V</spectraltype>
 		<planet>
 			<name>tau Ceti b</name>
@@ -27,10 +27,10 @@
 			<period>13.965</period>
 			<semimajoraxis>0.105</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
+			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/12/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<image>tau_ceti</image>
 			<imagedescription>Artist's impression of the Tau Ceti system
 
@@ -44,10 +44,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<period>35.362</period>
 			<semimajoraxis>0.195</semimajoraxis>
 			<eccentricity>0.03</eccentricity>
+			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/12/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<image>tau_ceti</image>
 			<imagedescription>Artist's impression of the Tau Ceti system
 
@@ -61,10 +61,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<period>94.11</period>
 			<semimajoraxis>0.374</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
+			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/12/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<image>tau_ceti</image>
 			<imagedescription>Artist's impression of the Tau Ceti system
 
@@ -78,10 +78,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<period>168.12</period>
 			<semimajoraxis>0.552</semimajoraxis>
 			<eccentricity>0.085</eccentricity>
+			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/12/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<image>tau_ceti</image>
 			<imagedescription>Artist's impression of the Tau Ceti system
 
@@ -95,10 +95,10 @@ Picture credit: J. Pinfield for the RoPACS network at the University of Hertford
 			<period>642</period>
 			<semimajoraxis>1.35</semimajoraxis>
 			<eccentricity>0.03</eccentricity>
+			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/12/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<description>Multiple periodic signals were found by Tuomi et al. in 2012 in the radial velocity data from HARPS, AAPS and HIRES. The planetary nature of the signals has yet to be confirmed.</description>
 			<image>tau_ceti</image>
 			<imagedescription>Artist's impression of the Tau Ceti system
 

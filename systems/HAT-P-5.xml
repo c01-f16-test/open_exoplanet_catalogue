@@ -4,16 +4,18 @@
 	<declination>+36 37 18</declination>
 	<distance>340</distance>
 	<star>
-		<spectraltype>G</spectraltype>
+		<name>HAT-P-5</name>
 		<mass>1.163</mass>
 		<radius>1.137</radius>
 		<magV errorminus="0.16" errorplus="0.16">11.95</magV>
-		<magR>12.0</magR>
 		<magB errorminus="0.30" errorplus="0.30">12.92</magB>
+		<magR>12.0</magR>
 		<magJ errorminus="0.021" errorplus="0.021">10.844</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.522</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.481</magK>
+		<temperature>5960.0</temperature>
 		<metallicity>0.24</metallicity>
+		<spectraltype>G</spectraltype>
 		<planet>
 			<name>HAT-P-5 b</name>
 			<name>2MASS J18173731+3637170 b</name>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.04079</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.75</inclination>
-			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
+			<temperature>1387.4</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/05/22</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1387.4</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-5</name>
-		<temperature>5960.0</temperature>
 	</star>
 </system>

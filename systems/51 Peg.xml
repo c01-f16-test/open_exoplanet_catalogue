@@ -21,6 +21,7 @@
 		<magJ>4.66</magJ>
 		<magH>4.23</magH>
 		<magK errorminus="0.021" errorplus="0.021">3.911</magK>
+		<temperature>5793.0</temperature>
 		<metallicity>0.2</metallicity>
 		<spectraltype>G2 IV</spectraltype>
 		<planet>
@@ -31,16 +32,14 @@
 			<period>4.231</period>
 			<semimajoraxis>0.052</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination errorminus="19" errorplus="10">80</inclination>
-			<radius lowerlimit="1.6" />
 			<periastron>0</periastron>
 			<periastrontime unit="BJD">2456021.256</periastrontime>
+			<inclination errorminus="19" errorplus="10">80</inclination>
+			<temperature>1260.3</temperature>
 			<description>51 Pegasi is a Sun-like star in the constellation Pegasus. The planet is also called Bellerophon. The lower limit for the radius is given for the limit of a perfectly-reflecting Lambert sphere.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/05/24</lastupdate>
 			<discoveryyear>1995</discoveryyear>
-			<temperature>1260.3</temperature>
 		</planet>
-		<temperature>5793.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>+39 05 41</declination>
 	<distance>255</distance>
 	<star>
+		<name>XO-5</name>
 		<mass>0.88</mass>
 		<radius>1.06</radius>
 		<magV>12.13</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">10.774</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.443</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.345</magK>
+		<temperature>5510.0</temperature>
 		<metallicity>0.18</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
@@ -23,14 +25,12 @@
 			<semimajoraxis>0.0487</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.8</inclination>
-			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454485.6842</transittime>
+			<temperature>1133.5</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454485.6842</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>11/03/07</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1133.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>XO-5</name>
-		<temperature>5510.0</temperature>
 	</star>
 </system>

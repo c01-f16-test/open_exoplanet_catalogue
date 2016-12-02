@@ -4,13 +4,15 @@
 	<declination>+11 41 44</declination>
 	<distance>64.97</distance>
 	<star>
+		<name>HD 170469</name>
 		<mass>1.14</mass>
 		<radius>1.22</radius>
 		<magV>8.21</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.86</magB>
 		<magJ errorminus="0.02" errorplus="0.02">7.047</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.779</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.707</magK>
-		<magB errorminus="0.02" errorplus="0.02">8.86</magB>
+		<temperature>5810.0</temperature>
 		<metallicity>0.3</metallicity>
 		<spectraltype>G5IV</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>1145</period>
 			<semimajoraxis>2.24</semimajoraxis>
 			<eccentricity>0.11</eccentricity>
+			<temperature>188.9</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>07/10/31</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>188.9</temperature>
 		</planet>
-		<name>HD 170469</name>
-		<temperature>5810.0</temperature>
 	</star>
 </system>

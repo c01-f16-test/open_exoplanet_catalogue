@@ -8,13 +8,13 @@
 		<name>SAND364</name>
 		<name>NGC 2682 SAND 364</name>
 		<name>BD+12 1917</name>
-		<magB>11.22</magB>
+		<mass errorminus="0.05" errorplus="0.05">1.35</mass>
+		<radius errorminus="0.7" errorplus="0.7">21.8</radius>
 		<magV>9.77</magV>
+		<magB>11.22</magB>
 		<magJ errorminus="0.027" errorplus="0.027">7.542</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.915</magH>
 		<magK>6.69</magK>
-		<mass errorminus="0.05" errorplus="0.05">1.35</mass>
-		<radius errorminus="0.7" errorplus="0.7">21.8</radius>
 		<temperature errorminus="9" errorplus="9">4284</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.02</metallicity>
 		<spectraltype>K3III</spectraltype>

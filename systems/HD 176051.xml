@@ -4,7 +4,7 @@
 	<declination>+32 54 05</declination>
 	<distance>14.99</distance>
 	<star>
-		<spectraltype>G0V</spectraltype>
+		<name>HD 176051</name>
 		<magV>5.22</magV>
 		<magB>5.25</magB>
 		<magR>4.9</magR>
@@ -12,6 +12,8 @@
 		<magJ>3.85</magJ>
 		<magH>3.61</magH>
 		<magK>3.65</magK>
+		<temperature>5700.0</temperature>
+		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 176051 b</name>
 			<list>Confirmed planets</list>
@@ -23,7 +25,5 @@
 			<lastupdate>10/10/22</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>HD 176051</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

@@ -6,10 +6,9 @@
 	<binary>
 		<name>HD 7449</name>
 		<name>BD-05 215</name>
-		<semimajoraxis errorminus="12.9" errorplus="32">17.9</semimajoraxis>
-		<inclination errorminus="25.8" errorplus="20.1">59.7</inclination>
 		<period errorminus="20500" errorplus="82900">24000</period>
-		<eccentricity upperlimit="0.5" />
+		<inclination errorminus="25.8" errorplus="20.1">59.7</inclination>
+		<semimajoraxis errorminus="12.9" errorplus="32">17.9</semimajoraxis>
 		<star>
 			<name>HD 7449 A</name>
 			<name>HIP 5806</name>
@@ -25,13 +24,14 @@
 			<magH errorminus="0.042" errorplus="0.042">6.179</magH>
 			<magK errorminus="0.029" errorplus="0.029">6.084</magK>
 			<temperature>6024.0</temperature>
+			<age errorminus="0.24" errorplus="0.24">2.10</age>
 			<metallicity errorminus="0.01" errorplus="0.01">-0.11</metallicity>
 			<spectraltype>F8V</spectraltype>
-			<age errorminus="0.24" errorplus="0.24">2.10</age>
 			<planet>
 				<name>HD 7449 b</name>
 				<name>HD 7449 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.19" errorplus="0.52" type="msini">1.09</mass>
 				<period errorminus="12.1" errorplus="5.92">1270.5</period>
 				<semimajoraxis errorminus="0.02" errorplus="0.01">2.33</semimajoraxis>
@@ -42,12 +42,12 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/02/04</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>HD 7449 c</name>
 				<name>HD 7449 A c</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.54" errorplus="0.36" type="msini">2.00</mass>
 				<period errorminus="366" errorplus="186">4046</period>
 				<semimajoraxis errorminus="0.30" errorplus="0.20">4.96</semimajoraxis>
@@ -58,18 +58,17 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/02/04</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
 			<name>HD 7449 B</name>
 			<name>BD-05 215 B</name>
+			<mass errorminus="0.05" errorplus="0.05">0.15</mass>
 			<magJ errorminus="0.11" errorplus="0.11">12.24</magJ>
 			<magH errorminus="0.12" errorplus="0.12">11.29</magH>
 			<magK errorminus="0.04" errorplus="0.04">10.93</magK>
-			<spectraltype errorminus="0.5">M4.5</spectraltype>
-			<mass errorminus="0.05" errorplus="0.05">0.15</mass>
 			<temperature>3000</temperature>
+			<spectraltype errorminus="0.5">M4.5</spectraltype>
 		</star>
 	</binary>
 </system>

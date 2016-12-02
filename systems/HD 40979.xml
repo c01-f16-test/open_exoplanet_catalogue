@@ -35,8 +35,8 @@
 				<period>263.1</period>
 				<semimajoraxis>0.83</semimajoraxis>
 				<eccentricity>0.25</eccentricity>
-				<discoverymethod>RV</discoverymethod>
 				<description>This planet is orbiting a yellow-white dwarf star which is part of a triple system.</description>
+				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 			</planet>

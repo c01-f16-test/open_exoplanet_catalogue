@@ -18,6 +18,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">6.348</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.699</magK>
+		<temperature>5052.0</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
 		<spectraltype>G5IV</spectraltype>
 		<planet>
@@ -33,11 +34,11 @@
 			<period errorminus="2" errorplus="2">641</period>
 			<semimajoraxis errorminus="0.0036" errorplus="0.0036">1.6697</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+			<temperature>303.8</temperature>
 			<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>303.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 5319 c</name>
@@ -57,6 +58,5 @@
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
-		<temperature>5052.0</temperature>
 	</star>
 </system>

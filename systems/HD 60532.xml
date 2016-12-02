@@ -4,12 +4,14 @@
 	<declination>-22 17 46</declination>
 	<distance>25.7</distance>
 	<star>
+		<name>HD 60532</name>
 		<mass>1.44</mass>
 		<magV>4.45</magV>
 		<magB>4.94</magB>
 		<magJ errorminus="0.270" errorplus="0.270">3.703</magJ>
 		<magH errorminus="0.240" errorplus="0.240">3.318</magH>
 		<magK errorminus="0.286" errorplus="0.286">3.355</magK>
+		<temperature>6095.0</temperature>
 		<metallicity>-0.26</metallicity>
 		<spectraltype>F6IV-V</spectraltype>
 		<planet>
@@ -20,10 +22,10 @@
 			<semimajoraxis>0.77</semimajoraxis>
 			<eccentricity>0.278</eccentricity>
 			<inclination>20</inclination>
+			<temperature>497.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>497.4</temperature>
 		</planet>
 		<planet>
 			<name>HD 60532 c</name>
@@ -33,12 +35,10 @@
 			<semimajoraxis>1.58</semimajoraxis>
 			<eccentricity>0.038</eccentricity>
 			<inclination>20</inclination>
+			<temperature>348.9</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>348.9</temperature>
 		</planet>
-		<name>HD 60532</name>
-		<temperature>6095.0</temperature>
 	</star>
 </system>

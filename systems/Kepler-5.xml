@@ -3,13 +3,17 @@
 	<rightascension>19 57 38</rightascension>
 	<declination>+44 02 06</declination>
 	<star>
+		<name>Kepler-5</name>
+		<name>KOI-18</name>
+		<name>KIC 8191672</name>
+		<mass errorminus="0.059" errorplus="0.040">1.374</mass>
+		<radius errorminus="0.062" errorplus="0.043">1.793</radius>
 		<magB>14.1</magB>
 		<magR>12.7</magR>
 		<magJ errorminus="0.029" errorplus="0.029">12.115</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.86</magH>
 		<magK errorminus="0.025" errorplus="0.025">11.769</magK>
-		<mass errorminus="0.059" errorplus="0.040">1.374</mass>
-		<radius errorminus="0.062" errorplus="0.043">1.793</radius>
+		<temperature errorminus="60" errorplus="60">6297.0</temperature>
 		<metallicity>0.04</metallicity>
 		<planet>
 			<name>Kepler-5 b</name>
@@ -24,16 +28,12 @@
 			<semimajoraxis>0.05064</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.5" errorplus="0.5">86.3</inclination>
-			<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2454955.90122</transittime>
+			<temperature>1652.1</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2454955.90122</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/04/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1652.1</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-5</name>
-		<name>KOI-18</name>
-		<name>KIC 8191672</name>
-		<temperature errorminus="60" errorplus="60">6297.0</temperature>
 	</star>
 </system>

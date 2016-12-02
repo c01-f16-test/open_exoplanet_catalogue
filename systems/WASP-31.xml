@@ -4,6 +4,7 @@
 	<declination>-19 03 17</declination>
 	<distance>400</distance>
 	<star>
+		<name>WASP-31</name>
 		<mass>1.16</mass>
 		<radius>1.24</radius>
 		<magV>11.7</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.022" errorplus="0.022">10.912</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.709</magH>
 		<magK errorminus="0.027" errorplus="0.027">10.650</magK>
+		<temperature>6200.0</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.19</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.04657</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>84.54</inclination>
-			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
+			<temperature>1410.6</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1410.6</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-31</name>
-		<temperature>6200.0</temperature>
 	</star>
 </system>

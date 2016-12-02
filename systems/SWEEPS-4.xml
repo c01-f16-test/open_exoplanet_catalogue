@@ -16,15 +16,14 @@
 			<name>SWEEPS-4 b</name>
 			<name>SWEEPS J175853.92-291120.6 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="3.8" />
 			<radius>0.81</radius>
 			<period>4.2</period>
 			<semimajoraxis>0.055</semimajoraxis>
 			<inclination>87</inclination>
 			<discoverymethod>transit</discoverymethod>
+			<istransiting>1</istransiting>
 			<lastupdate>14/05/23</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>-06 36 44</declination>
 	<distance>920</distance>
 	<star>
+		<name>CoRoT-17</name>
 		<mass>1.04</mass>
 		<radius>1.59</radius>
 		<magV errorminus="0.43" errorplus="0.43">15.88</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.04" errorplus="0.04">13.17</magJ>
 		<magH errorminus="0.06" errorplus="0.06">12.62</magH>
 		<magK errorminus="0.05" errorplus="0.05">12.47</magK>
+		<temperature>5740.0</temperature>
 		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>CoRoT-17 b</name>
@@ -24,14 +26,12 @@
 			<semimajoraxis>0.0461</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.34</inclination>
-			<transittime errorminus="0.0036" errorplus="0.0036" unit="BJD">2454923.3100</transittime>
+			<temperature>1486.4</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0036" errorplus="0.0036" unit="BJD">2454923.3100</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>11/05/11</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.4</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-17</name>
-		<temperature>5740.0</temperature>
 	</star>
 </system>

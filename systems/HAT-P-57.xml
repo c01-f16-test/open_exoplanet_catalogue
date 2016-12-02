@@ -14,36 +14,34 @@
 			<name>2MASS J18185842+1035502</name>
 			<name>1SWASP J181858.42+103550.1</name>
 			<name>TYC 1014-973-1</name>
-			<temperature errorminus="250" errorplus="250">7500</temperature>
-			<metallicity errorminus="0.25" errorplus="0.25">-0.25</metallicity>
-			<magB errorminus="0.021" errorplus="0.021">10.916</magB>
+			<mass errorminus="0.12" errorplus="0.12">1.47</mass>
+			<radius errorminus="0.050" errorplus="0.050">1.500</radius>
 			<magV errorminus="0.029" errorplus="0.029">10.465</magV>
+			<magB errorminus="0.021" errorplus="0.021">10.916</magB>
 			<magI errorminus="0.063" errorplus="0.063">10.007</magI>
 			<magJ errorminus="0.027" errorplus="0.027">9.670</magJ>
 			<magH errorminus="0.029" errorplus="0.029">9.497</magH>
 			<magK errorminus="0.024" errorplus="0.024">9.433</magK>
-			<mass errorminus="0.12" errorplus="0.12">1.47</mass>
-			<radius errorminus="0.050" errorplus="0.050">1.500</radius>
+			<temperature errorminus="250" errorplus="250">7500</temperature>
 			<age errorminus="0.51" errorplus="0.67">1.00</age>
+			<metallicity errorminus="0.25" errorplus="0.25">-0.25</metallicity>
 			<spectraltype>A8V</spectraltype>
 			<planet>
 				<name>HAT-P-57 b</name>
 				<name>HAT-P-57 A b</name>
-				<period errorminus="0.0000032" errorplus="0.0000032">2.4652950</period>
-				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455113.48127</transittime>
-				<inclination errorminus="0.85" errorplus="0.85">88.26</inclination>
-				<spinorbitalignment lowerlimit="27.6" upperlimit="57.4" />
-				<mass upperlimit="1.85" />
-				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0406</semimajoraxis>
-				<eccentricity>0</eccentricity>
-				<radius errorminus="0.054" errorplus="0.054">1.413</radius>
-				<discoverymethod>transit</discoverymethod>
-				<discoveryyear>2015</discoveryyear>
-				<description>HAT-P-57 b is a hot Jupiter orbiting an A-type star. There is an alternative possibility for the spin alignment to be in the range -16.7° &lt; λ &lt; 3.3° with probability 26%.</description>
-				<lastupdate>15/11/01</lastupdate>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
+				<radius errorminus="0.054" errorplus="0.054">1.413</radius>
+				<period errorminus="0.0000032" errorplus="0.0000032">2.4652950</period>
+				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0406</semimajoraxis>
+				<eccentricity>0</eccentricity>
+				<inclination errorminus="0.85" errorplus="0.85">88.26</inclination>
+				<description>HAT-P-57 b is a hot Jupiter orbiting an A-type star. There is an alternative possibility for the spin alignment to be in the range -16.7° &lt; λ &lt; 3.3° with probability 26%.</description>
+				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455113.48127</transittime>
 				<istransiting>1</istransiting>
+				<lastupdate>15/11/01</lastupdate>
+				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
 		<binary>
@@ -53,13 +51,13 @@
 			<positionangle>165</positionangle>
 			<star>
 				<name>HAT-P-57 B</name>
-				<magH errorminus="0.10" errorplus="0.10">12.25</magH>
 				<mass errorminus="0.10" errorplus="0.10">0.61</mass>
+				<magH errorminus="0.10" errorplus="0.10">12.25</magH>
 			</star>
 			<star>
 				<name>HAT-P-57 C</name>
-				<magH errorminus="0.11" errorplus="0.11">13.26</magH>
 				<mass errorminus="0.08" errorplus="0.08">0.53</mass>
+				<magH errorminus="0.11" errorplus="0.11">13.26</magH>
 			</star>
 		</binary>
 	</binary>

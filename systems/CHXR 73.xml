@@ -3,11 +3,13 @@
 	<rightascension>11 06 29</rightascension>
 	<declination>-77 37 33</declination>
 	<star>
+		<name>CHXR 73</name>
+		<mass>0.35</mass>
 		<magI>15.78</magI>
 		<magJ errorminus="0.028" errorplus="0.028">12.674</magJ>
 		<magH errorminus="0.024" errorplus="0.024">11.317</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.703</magK>
-		<mass>0.35</mass>
+		<temperature>3840.0</temperature>
 		<spectraltype>M3.25</spectraltype>
 		<planet>
 			<name>CHXR 73 b</name>
@@ -26,7 +28,5 @@
 			<image>CHXR 73</image>
 			<imagedescription>This image shows the red dwarf CHXR 73 A and its companion CHXR 73 b on the lower right. The image was obtained with the Hubble Space Telescope. Credit: NASA, ESA, and K. Luhman (Pennsylvania State University).</imagedescription>
 		</planet>
-		<name>CHXR 73</name>
-		<temperature>3840.0</temperature>
 	</star>
 </system>

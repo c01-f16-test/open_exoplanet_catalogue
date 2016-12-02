@@ -25,13 +25,14 @@
 			<magH errorminus="0.038" errorplus="0.038">6.416</magH>
 			<magK errorminus="0.020" errorplus="0.020">6.352</magK>
 			<temperature errorminus="65" errorplus="65">5966</temperature>
+			<age>7.6</age>
 			<metallicity errorminus="0.043" errorplus="0.043">-0.135</metallicity>
 			<spectraltype>F8V</spectraltype>
-			<age>7.6</age>
 			<planet>
 				<name>HD 217786 b</name>
 				<name>HD 217786 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.8" errorplus="0.8" type="msini">13.0</mass>
 				<period errorminus="4" errorplus="4">1319</period>
 				<semimajoraxis errorminus="0.04" errorplus="0.04">2.38</semimajoraxis>
@@ -41,7 +42,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2010</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

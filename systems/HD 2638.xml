@@ -12,8 +12,8 @@
 			<name>HD 2567</name>
 			<name>HD 2567 A</name>
 			<name>HIP 2292</name>
-			<magB errorminus="0.02" errorplus="0.02">8.40</magB>
 			<magV errorminus="0.01" errorplus="0.01">7.76</magV>
+			<magB errorminus="0.02" errorplus="0.02">8.40</magB>
 			<magJ errorminus="0.024" errorplus="0.024">6.715</magJ>
 			<magH errorminus="0.033" errorplus="0.033">6.459</magH>
 			<magK errorminus="0.017" errorplus="0.017">6.369</magK>
@@ -36,28 +36,28 @@
 				<magJ>7.96</magJ>
 				<magH errorminus="0.03" errorplus="0.03">7.42</magH>
 				<magK>7.47</magK>
+				<temperature>5192</temperature>
 				<metallicity>0.16</metallicity>
 				<spectraltype>G5</spectraltype>
-				<temperature>5192</temperature>
 				<planet>
 					<name>HD 2638 b</name>
 					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
 					<mass>0.48</mass>
 					<period>3.4442</period>
 					<semimajoraxis>0.044</semimajoraxis>
 					<eccentricity>0.0</eccentricity>
+					<temperature>978.2</temperature>
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>10/12/24</lastupdate>
 					<discoveryyear>2005</discoveryyear>
-					<temperature>978.2</temperature>
-					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>
 				<name>HD 2638 C</name>
+				<mass>0.46</mass>
 				<magJ>10.46</magJ>
 				<magK>9.46</magK>
-				<mass>0.46</mass>
 				<spectraltype>M1V</spectraltype>
 			</star>
 		</binary>

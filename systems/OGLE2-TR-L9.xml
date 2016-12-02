@@ -4,14 +4,16 @@
 	<declination>-61 08 46</declination>
 	<distance>900</distance>
 	<star>
-		<magR>14.74</magR>
-		<magI errorminus="0.03" errorplus="0.03">14.00</magI>
+		<name>OGLE2-TR-L9</name>
 		<mass>1.52</mass>
 		<radius>1.53</radius>
-		<metallicity>-0.05</metallicity>
+		<magR>14.74</magR>
+		<magI errorminus="0.03" errorplus="0.03">14.00</magI>
 		<magJ errorminus="0.03" errorplus="0.03">13.51</magJ>
 		<magH errorminus="0.04" errorplus="0.04">13.25</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.12</magK>
+		<temperature>6933.0</temperature>
+		<metallicity>-0.05</metallicity>
 		<spectraltype>F3</spectraltype>
 		<planet>
 			<name>OGLE2-TR-L9 b</name>
@@ -22,14 +24,12 @@
 			<period>2.4855335</period>
 			<semimajoraxis>0.0308</semimajoraxis>
 			<inclination>79.8</inclination>
-			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454492.80008</transittime>
+			<temperature>2154.6</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454492.80008</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>2154.6</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>OGLE2-TR-L9</name>
-		<temperature>6933.0</temperature>
 	</star>
 </system>

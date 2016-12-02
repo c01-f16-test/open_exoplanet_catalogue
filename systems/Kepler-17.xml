@@ -4,6 +4,9 @@
 	<declination>+47 48 54</declination>
 	<distance>800</distance>
 	<star>
+		<name>Kepler-17</name>
+		<name>KOI-203</name>
+		<name>KIC 10619192</name>
 		<mass errorminus="0.06" errorplus="0.06">1.16</mass>
 		<radius errorminus="0.03" errorplus="0.03">1.05</radius>
 		<magV>14</magV>
@@ -12,6 +15,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">12.992</magJ>
 		<magH errorminus="0.017" errorplus="0.017">12.670</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.585</magK>
+		<temperature errorminus="85" errorplus="85">5781</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">0.26</metallicity>
 		<spectraltype>G2V</spectraltype>
 		<planet>
@@ -27,17 +31,13 @@
 			<semimajoraxis>0.02591</semimajoraxis>
 			<eccentricity>0.011</eccentricity>
 			<inclination>87.2</inclination>
-			<transittime errorminus="0.000026" errorplus="0.000023" unit="BJD">2455185.678035</transittime>
+			<temperature>1622.7</temperature>
 			<description>Kepler-17b is a planet on a short orbit around a solar mass star. One year on this planet equals 1.5 days on Earth. Star spots on the host star constrain the eccentricity and obliquity of the planet.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.000026" errorplus="0.000023" unit="BJD">2455185.678035</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1622.7</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-17</name>
-		<name>KOI-203</name>
-		<name>KIC 10619192</name>
-		<temperature errorminus="85" errorplus="85">5781</temperature>
 	</star>
 </system>

@@ -17,9 +17,9 @@
 		<magJ errorminus="0.024" errorplus="0.024">5.105</magJ>
 		<magH errorminus="0.065" errorplus="0.065">4.472</magH>
 		<magK errorminus="0.318" errorplus="0.318">4.319</magK>
+		<temperature errorminus="10" errorplus="10">4361</temperature>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.26</metallicity>
 		<spectraltype>K2III</spectraltype>
-		<temperature errorminus="10" errorplus="10">4361</temperature>
 		<planet>
 			<name>HD 240237 b</name>
 			<list>Confirmed planets</list>

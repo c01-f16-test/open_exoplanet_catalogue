@@ -4,6 +4,7 @@
 	<declination>+33 03 25</declination>
 	<distance>80.58</distance>
 	<star>
+		<name>HD 75898</name>
 		<mass>1.28</mass>
 		<radius>1.6</radius>
 		<magV>8.04</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.925</magJ>
 		<magH errorminus="0.036" errorplus="0.036">6.738</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.662</magK>
+		<temperature>6021.0</temperature>
 		<metallicity>0.27</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
@@ -21,12 +23,10 @@
 			<period>418.2</period>
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
+			<temperature>307.6</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>307.6</temperature>
 		</planet>
-		<name>HD 75898</name>
-		<temperature>6021.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>-08 14 01</declination>
 	<distance>55.9</distance>
 	<star>
+		<name>HD 6718</name>
 		<mass>0.96</mass>
 		<radius>1.02</radius>
 		<magV>8.45</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">7.269</magJ>
 		<magH errorminus="0.05" errorplus="0.05">6.99</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.876</magK>
+		<temperature>5745.0</temperature>
 		<metallicity>-0.06</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>2496</period>
 			<semimajoraxis>3.56</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
+			<temperature>135.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/09/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>135.5</temperature>
 		</planet>
-		<name>HD 6718</name>
-		<temperature>5745.0</temperature>
 	</star>
 </system>

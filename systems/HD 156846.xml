@@ -15,6 +15,8 @@
 			<name>HIP 84856 A</name>
 			<name>TYC 6242-339-1</name>
 			<name>WDS J17206-1920A</name>
+			<mass errorminus="0.045" errorplus="0.045">1.35</mass>
+			<radius errorminus="0.12" errorplus="0.12">2.12</radius>
 			<magV>6.506</magV>
 			<magB>7.10</magB>
 			<magJ>5.52</magJ>
@@ -22,32 +24,30 @@
 			<magK>5.17</magK>
 			<temperature errorminus="44" errorplus="44">5969</temperature>
 			<metallicity errorminus="0.04" errorplus="0.04">0.17</metallicity>
-			<mass errorminus="0.045" errorplus="0.045">1.35</mass>
-			<radius errorminus="0.12" errorplus="0.12">2.12</radius>
 			<spectraltype>G0</spectraltype>
 			<planet>
 				<name>HD 156846 b</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass lowerlimit="10.45" upperlimit="660.9">263.0</mass>
 				<period errorminus="0.0071" errorplus="0.0071">359.5546</period>
-				<eccentricity errorminus="0.00050" errorplus="0.00050">0.84785</eccentricity>
 				<semimajoraxis errorminus="0.021" errorplus="0.021">1.096</semimajoraxis>
+				<eccentricity errorminus="0.00050" errorplus="0.00050">0.84785</eccentricity>
 				<periastron errorminus="0.16" errorplus="0.16">51.62</periastron>
-				<inclination lowerlimit="2.0" upperlimit="178.8">177.3</inclination>
 				<ascendingnode lowerlimit="91.4" upperlimit="265.6">185.3</ascendingnode>
-				<discoverymethod>RV</discoverymethod>
-				<discoveryyear>2008</discoveryyear>
-				<lastupdate>14/11/06</lastupdate>
+				<inclination lowerlimit="2.0" upperlimit="178.8">177.3</inclination>
 				<description>Reffert &amp; Quirrenbach (2011) derive a best-fit inclination of 177.8° giving a true mass of 263 Jupiter masses. While the 3-sigma error region allows inclinations from 2° to 178.8°, the highest probability density is for nearly face-on orbits.</description>
-				<list>Planets in binary systems, S-type</list>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/11/06</lastupdate>
+				<discoveryyear>2008</discoveryyear>
 			</planet>
 		</star>
 		<star>
 			<name>HD 156846 B</name>
 			<name>HIP 84856 B</name>
 			<name>WDS J17206-1920B</name>
-			<magV>14.1</magV>
 			<mass>0.59</mass>
+			<magV>14.1</magV>
 			<spectraltype>M</spectraltype>
 		</star>
 	</binary>

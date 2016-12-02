@@ -7,14 +7,14 @@
 		<name>Gliese 876</name>
 		<mass>0.37</mass>
 		<radius errorminus="0.0059" errorplus="0.0059">0.3761</radius>
-		<temperature errorminus="19" errorplus="19">3129</temperature>
 		<magV>10.17</magV>
+		<magB errorminus="0.0017" errorplus="0.0017">10.192</magB>
 		<magR errorminus="0.0017" errorplus="0.0017">9.013</magR>
 		<magI errorminus="0.0017" errorplus="0.0017">7.462</magI>
-		<magB errorminus="0.0017" errorplus="0.0017">10.192</magB>
 		<magJ errorminus="0.019" errorplus="0.019">5.934</magJ>
 		<magH errorminus="0.049" errorplus="0.049">5.349</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.010</magK>
+		<temperature errorminus="19" errorplus="19">3129</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>M4 V</spectraltype>
 		<planet>
@@ -28,9 +28,9 @@
 			<semimajoraxis errorminus="0.000030" errorplus="0.000026">0.218589</semimajoraxis>
 			<eccentricity errorminus="0.0030" errorplus="0.0019">0.0340</eccentricity>
 			<periastron errorminus="4.13" errorplus="4.51">112.27</periastron>
-			<inclination errorminus="1.44" errorplus="1.54">52.82</inclination>
-			<ascendingnode>0</ascendingnode>
 			<longitude errorminus="0.45" errorplus="0.46">-174.64</longitude>
+			<ascendingnode>0</ascendingnode>
+			<inclination errorminus="1.44" errorplus="1.54">52.82</inclination>
 			<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/08</lastupdate>
@@ -46,10 +46,10 @@
 			<period errorminus="0.0065" errorplus="0.0073">30.0766</period>
 			<semimajoraxis errorminus="0.000019" errorplus="0.000022">0.135985</semimajoraxis>
 			<eccentricity errorminus="0.0034" errorplus="0.0032">0.2539</eccentricity>
-			<inclination errorminus="1.72" errorplus="1.77">53.06</inclination>
-			<ascendingnode errorminus="0.89" errorplus="0.96">-1.29</ascendingnode>
 			<periastron errorminus="1.74" errorplus="1.70">117.12</periastron>
 			<longitude errorminus="0.61" errorplus="0.57">-104.60</longitude>
+			<ascendingnode errorminus="0.89" errorplus="0.96">-1.29</ascendingnode>
+			<inclination errorminus="1.72" errorplus="1.77">53.06</inclination>
 			<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/08</lastupdate>
@@ -65,9 +65,9 @@
 			<period errorminus="0.000028" errorplus="0.000025">1.937870</period>
 			<semimajoraxis errorminus="0.00000020" errorplus="0.00000022">0.02183930</semimajoraxis>
 			<eccentricity errorminus="0.047" errorplus="0.050">0.108</eccentricity>
-			<inclination errorminus="40.80" errorplus="38.90">88.26</inclination>
 			<periastron errorminus="6.74" errorplus="6.67">162.52</periastron>
 			<longitude errorminus="7.28" errorplus="6.77">162.28</longitude>
+			<inclination errorminus="40.80" errorplus="38.90">88.26</inclination>
 			<description>Gliese 876 is a red dwarf only 15 light years from Earth in the constellation Aquarius. The orbits of the outer three planets are locked in a Laplace reasonance. This resonance is also present in the moons of Jupiter: Io, Europa, Ganymede. This strong dynamical interaction leads to interesting conclusions about the formation history of the system. It is a very strong indication that the planets migrated in the protoplanetary disk to their current position and got locked into mean motion resonances during that process.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/08</lastupdate>
@@ -83,10 +83,10 @@
 			<period errorminus="1.41" errorplus="1.26">124.72</period>
 			<semimajoraxis errorminus="0.0026" errorplus="0.0024">0.3343</semimajoraxis>
 			<eccentricity errorminus="0.026" errorplus="0.027">0.031</eccentricity>
-			<inclination errorminus="3.17" errorplus="3.16">53.29</inclination>
-			<ascendingnode errorminus="4.58" errorplus="4.00">-1.29</ascendingnode>
 			<periastron errorminus="24.0" errorplus="23.7">-54.2</periastron>
 			<longitude errorminus="8.91" errorplus="11.62">-42.46</longitude>
+			<ascendingnode errorminus="4.58" errorplus="4.00">-1.29</ascendingnode>
+			<inclination errorminus="3.17" errorplus="3.16">53.29</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/08</lastupdate>
 			<discoveryyear>2010</discoveryyear>

@@ -22,6 +22,58 @@
 		<separation unit="arcsec">30.104</separation>
 		<separation unit="AU">690</separation>
 		<positionangle>15.49</positionangle>
+		<star>
+			<name>Psi-1 Draconis B</name>
+			<name>ψ1 Dra B</name>
+			<name>ψ1 Draconis B</name>
+			<name>psi01 Dra B</name>
+			<name>psi01 Draconis B</name>
+			<name>31 Dra B</name>
+			<name>31 Draconis B</name>
+			<name>HD 162004</name>
+			<name>HIP 86620</name>
+			<name>TYC 4436-1424-1</name>
+			<name>SAO 8891</name>
+			<name>HR 6637</name>
+			<name>Gliese 694.1 B</name>
+			<name>GJ 694.1 B</name>
+			<name>GJ 9602 B</name>
+			<name>BD+72 805</name>
+			<name>2MASS J17415811+7209251</name>
+			<name>WDS J17419+7209 B</name>
+			<name>STF 2241 B</name>
+			<mass errorminus="0.07" errorplus="0.07">1.19</mass>
+			<magV>5.699</magV>
+			<magB>6.261</magB>
+			<magR>5.2</magR>
+			<magI>5.0</magI>
+			<magJ>5.00</magJ>
+			<magH>4.59</magH>
+			<magK>4.53</magK>
+			<temperature errorminus="20" errorplus="20">6213</temperature>
+			<age errorminus="0.3" errorplus="0.3">2.5</age>
+			<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
+			<spectraltype>G0V</spectraltype>
+			<planet>
+				<name>Psi-1 Draconis B b</name>
+				<name>ψ1 Dra B b</name>
+				<name>ψ1 Draconis B b</name>
+				<name>psi01 Dra B b</name>
+				<name>psi01 Draconis B b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.10" errorplus="0.10" type="msini">1.53</mass>
+				<period errorminus="42" errorplus="42">3117</period>
+				<semimajoraxis errorminus="0.04" errorplus="0.04">4.43</semimajoraxis>
+				<eccentricity errorminus="0.05" errorplus="0.05">0.40</eccentricity>
+				<periastron errorminus="9" errorplus="9">64</periastron>
+				<periastrontime errorminus="76" errorplus="76">2449344</periastrontime>
+				<description>Psi-1 Draconis is a triple star system containing the spectroscopic binary Psi-1 Draconis AC, and their distant companion Psi-1 Draconis B. The radial velocities of Psi-1 Draconis B indicate the presence of a jovian planet on an eccentric, long-period orbit and a trend indicating the presence of an additional companion. The trend is not compatible with being caused by Psi-1 Draconis AC, so indicates the presence of an additional, likely substellar object outside the orbit of the known jovian planet.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/12/28</lastupdate>
+				<discoveryyear>2015</discoveryyear>
+			</planet>
+		</star>
 		<binary>
 			<name>HD 162003</name>
 			<name>HIP 86614</name>
@@ -30,9 +82,9 @@
 			<name>BD+72 804</name>
 			<name>STF 2241 A</name>
 			<period errorminus="160" errorplus="160">6649</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">8.7</semimajoraxis>
 			<eccentricity errorminus="0.004" errorplus="0.004">0.674</eccentricity>
 			<periastron errorminus="0.7" errorplus="0.7">32.9</periastron>
-			<semimajoraxis errorminus="0.1" errorplus="0.1">8.7</semimajoraxis>
 			<periastrontime errorminus="162" errorplus="162">2450515</periastrontime>
 			<star>
 				<name>Psi-1 Draconis A</name>
@@ -54,17 +106,17 @@
 				<name>2MASS J17415635+7208561</name>
 				<name>WDS J17419+7209 A</name>
 				<mass>1.430</mass>
-				<magB>5.00</magB>
 				<magV>4.56</magV>
+				<magB>5.00</magB>
 				<magR>4.3</magR>
 				<magI>4.1</magI>
 				<magJ errorminus="0.264" errorplus="0.264">3.803</magJ>
 				<magH errorminus="0.248" errorplus="0.248">3.648</magH>
 				<magK errorminus="0.362" errorplus="0.362">3.502</magK>
-				<spectraltype>F5IV-V</spectraltype>
 				<temperature errorminus="56" errorplus="56">6546</temperature>
-				<metallicity errorminus="0.07" errorplus="0.07">-0.10</metallicity>
 				<age errorminus="0.3" errorplus="0.3">2.3</age>
+				<metallicity errorminus="0.07" errorplus="0.07">-0.10</metallicity>
+				<spectraltype>F5IV-V</spectraltype>
 			</star>
 			<star>
 				<name>Psi-1 Draconis C</name>
@@ -83,61 +135,9 @@
 				<name>GJ 694.1 C</name>
 				<name>GJ 9602 C</name>
 				<name>BD+72 804 B</name>
-				<spectraltype>K/M</spectraltype>
 				<mass errorminus="0.005" errorplus="0.005" type="msini">0.526</mass>
+				<spectraltype>K/M</spectraltype>
 			</star>
 		</binary>
-		<star>
-			<name>Psi-1 Draconis B</name>
-			<name>ψ1 Dra B</name>
-			<name>ψ1 Draconis B</name>
-			<name>psi01 Dra B</name>
-			<name>psi01 Draconis B</name>
-			<name>31 Dra B</name>
-			<name>31 Draconis B</name>
-			<name>HD 162004</name>
-			<name>HIP 86620</name>
-			<name>TYC 4436-1424-1</name>
-			<name>SAO 8891</name>
-			<name>HR 6637</name>
-			<name>Gliese 694.1 B</name>
-			<name>GJ 694.1 B</name>
-			<name>GJ 9602 B</name>
-			<name>BD+72 805</name>
-			<name>2MASS J17415811+7209251</name>
-			<name>WDS J17419+7209 B</name>
-			<name>STF 2241 B</name>
-			<magB>6.261</magB>
-			<magV>5.699</magV>
-			<magR>5.2</magR>
-			<magI>5.0</magI>
-			<magJ>5.00</magJ>
-			<magH>4.59</magH>
-			<magK>4.53</magK>
-			<spectraltype>G0V</spectraltype>
-			<mass errorminus="0.07" errorplus="0.07">1.19</mass>
-			<temperature errorminus="20" errorplus="20">6213</temperature>
-			<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
-			<age errorminus="0.3" errorplus="0.3">2.5</age>
-			<planet>
-				<name>Psi-1 Draconis B b</name>
-				<name>ψ1 Dra B b</name>
-				<name>ψ1 Draconis B b</name>
-				<name>psi01 Dra B b</name>
-				<name>psi01 Draconis B b</name>
-				<period errorminus="42" errorplus="42">3117</period>
-				<mass errorminus="0.10" errorplus="0.10" type="msini">1.53</mass>
-				<eccentricity errorminus="0.05" errorplus="0.05">0.40</eccentricity>
-				<periastron errorminus="9" errorplus="9">64</periastron>
-				<semimajoraxis errorminus="0.04" errorplus="0.04">4.43</semimajoraxis>
-				<periastrontime errorminus="76" errorplus="76">2449344</periastrontime>
-				<discoverymethod>RV</discoverymethod>
-				<discoveryyear>2015</discoveryyear>
-				<description>Psi-1 Draconis is a triple star system containing the spectroscopic binary Psi-1 Draconis AC, and their distant companion Psi-1 Draconis B. The radial velocities of Psi-1 Draconis B indicate the presence of a jovian planet on an eccentric, long-period orbit and a trend indicating the presence of an additional companion. The trend is not compatible with being caused by Psi-1 Draconis AC, so indicates the presence of an additional, likely substellar object outside the orbit of the known jovian planet.</description>
-				<lastupdate>15/12/28</lastupdate>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
 	</binary>
 </system>

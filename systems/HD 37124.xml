@@ -4,6 +4,7 @@
 	<declination>+20 43 50</declination>
 	<distance>33</distance>
 	<star>
+		<name>HD 37124</name>
 		<mass>0.83</mass>
 		<radius>0.82</radius>
 		<magV>7.68</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.359</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.021</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.952</magK>
+		<temperature>5610.0</temperature>
 		<metallicity>-0.442</metallicity>
 		<spectraltype>G4 V</spectraltype>
 		<planet>
@@ -22,10 +24,10 @@
 			<period>154.378</period>
 			<semimajoraxis>0.53364</semimajoraxis>
 			<eccentricity>0.054</eccentricity>
+			<temperature>306.6</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
 			<discoveryyear>1999</discoveryyear>
-			<temperature>306.6</temperature>
 		</planet>
 		<planet>
 			<name>HD 37124 c</name>
@@ -34,10 +36,10 @@
 			<period>885.5</period>
 			<semimajoraxis>1.71</semimajoraxis>
 			<eccentricity>0.125</eccentricity>
+			<temperature>171.1</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<temperature>171.1</temperature>
 		</planet>
 		<planet>
 			<name>HD 37124 d</name>
@@ -46,12 +48,10 @@
 			<period>1862</period>
 			<semimajoraxis>2.807</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
+			<temperature>133.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/07</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>133.5</temperature>
 		</planet>
-		<name>HD 37124</name>
-		<temperature>5610.0</temperature>
 	</star>
 </system>

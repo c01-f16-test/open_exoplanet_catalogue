@@ -19,9 +19,9 @@
 		<magJ errorminus="0.020" errorplus="0.020">8.592</magJ>
 		<magH errorminus="0.049" errorplus="0.049">7.990</magH>
 		<magK errorminus="0.023" errorplus="0.023">7.733</magK>
+		<temperature errorminus="49" errorplus="49">3546</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.09</metallicity>
 		<spectraltype>M2.5</spectraltype>
-		<temperature errorminus="49" errorplus="49">3546</temperature>
 		<planet>
 			<name>Gliese 3341 b</name>
 			<name>GJ 3341 b</name>
@@ -32,12 +32,12 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.003" errorplus="0.003">0.02</mass>
 			<period errorminus="0.007" errorplus="0.007">14.207</period>
-			<transittime errorminus="0.8" errorplus="0.8">2455622.7</transittime>
-			<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
 			<semimajoraxis>0.089</semimajoraxis>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.31</eccentricity>
-			<istransiting>0</istransiting>
+			<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
 			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="0.8" errorplus="0.8">2455622.7</transittime>
+			<istransiting>0</istransiting>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>

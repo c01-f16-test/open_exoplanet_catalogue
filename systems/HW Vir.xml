@@ -4,35 +4,40 @@
 	<declination>-08 40 16.8338</declination>
 	<distance>181</distance>
 	<binary>
-		<semimajoraxis>5.3</semimajoraxis>
 		<period>5785</period>
+		<semimajoraxis>5.3</semimajoraxis>
+		<star>
+			<name>HW Vir (AB) C</name>
+			<mass>0.01861844</mass>
+		</star>
 		<binary>
-			<semimajoraxis>0.00399833</semimajoraxis>
 			<period>0.1167</period>
+			<semimajoraxis>0.00399833</semimajoraxis>
 			<star>
+				<name>HW Vir A</name>
 				<mass>0.485</mass>
 				<radius>0.183</radius>
-				<temperature>28488</temperature>
 				<magV>4.22</magV>
 				<magB errorminus="0.04" errorplus="0.04">10.46</magB>
 				<magJ errorminus="0.027" errorplus="0.027">10.974</magJ>
 				<magH errorminus="0.022" errorplus="0.022">11.093</magH>
 				<magK errorminus="0.023" errorplus="0.023">11.122</magK>
+				<temperature>28488</temperature>
 				<spectraltype>sdB+M</spectraltype>
-				<name>HW Vir A</name>
 			</star>
 			<star>
+				<name>HW Vir B</name>
 				<mass>0.142</mass>
 				<radius>0.175</radius>
-				<temperature>3084</temperature>
 				<magV>15.59</magV>
+				<temperature>3084</temperature>
 				<spectraltype>sdB+M</spectraltype>
-				<name>HW Vir B</name>
 			</star>
 			<planet>
 				<name>HW Vir (AB) b</name>
 				<name>HW Virginis (AB) b</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, P-type</list>
 				<mass>14.3</mass>
 				<period>4640</period>
 				<semimajoraxis>4.69</semimajoraxis>
@@ -41,13 +46,8 @@
 				<discoverymethod>timing</discoverymethod>
 				<lastupdate>12/11/24</lastupdate>
 				<discoveryyear>2008</discoveryyear>
-				<list>Planets in binary systems, P-type</list>
 			</planet>
 		</binary>
-		<star>
-			<mass>0.01861844</mass>
-			<name>HW Vir (AB) C</name>
-		</star>
 	</binary>
 	<videolink>http://youtu.be/YIUT9gGHzfo</videolink>
 </system>

@@ -19,37 +19,37 @@
 			<magJ errorminus="0.021" errorplus="0.021">9.094</magJ>
 			<magH errorminus="0.020" errorplus="0.020">8.927</magH>
 			<magK errorminus="0.019" errorplus="0.019">8.851</magK>
+			<temperature>6600.0</temperature>
 			<metallicity>0.11</metallicity>
 			<spectraltype>F</spectraltype>
-			<temperature>6600.0</temperature>
 			<planet>
 				<name>HAT-P-14 b</name>
 				<name>HAT-P-14 A b</name>
 				<name>2MASS J17202788+3814317 b</name>
 				<name>TYC 3086-00152-1 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>2.2</mass>
 				<radius>1.2</radius>
 				<period>4.627657</period>
 				<semimajoraxis>0.0594</semimajoraxis>
 				<eccentricity>0.095</eccentricity>
 				<inclination>83.2</inclination>
+				<temperature>1445.9</temperature>
 				<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2010</discoveryyear>
-				<temperature>1445.9</temperature>
 				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
+				<lastupdate>13/05/29</lastupdate>
+				<discoveryyear>2010</discoveryyear>
 			</planet>
 		</star>
 		<star>
 			<name>HAT-P-14 B</name>
+			<mass errorminus="0.037" errorplus="0.037">0.232</mass>
 			<magH errorminus="0.086" errorplus="0.086">14.164</magH>
 			<magK errorminus="0.096" errorplus="0.096">14.498</magK>
 			<temperature errorminus="57" errorplus="57">3356</temperature>
-			<mass errorminus="0.037" errorplus="0.037">0.232</mass>
 		</star>
 	</binary>
 </system>

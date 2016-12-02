@@ -9,11 +9,11 @@
 		<name>KOI-3791</name>
 		<name>Kepler-460</name>
 		<name>2MASS J19135396+4039048</name>
+		<mass errorminus="0.17" errorplus="0.17">1.07</mass>
+		<radius errorminus="0.29" errorplus="0.29">1.24</radius>
 		<magJ errorminus="0.023" errorplus="0.023">12.667</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.430</magH>
 		<magK errorminus="0.027" errorplus="0.027">12.367</magK>
-		<mass errorminus="0.17" errorplus="0.17">1.07</mass>
-		<radius errorminus="0.29" errorplus="0.29">1.24</radius>
 		<temperature errorminus="199" errorplus="176">6340</temperature>
 		<metallicity errorminus="0.30" errorplus="0.28">-0.38</metallicity>
 		<planet>
@@ -21,29 +21,29 @@
 			<name>KOI-3791.01</name>
 			<name>KOI-3791 b</name>
 			<name>Kepler-460 b</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.143" errorplus="0.143">0.571</radius>
 			<period errorminus="0.00577" errorplus="0.00563">440.78130</period>
 			<inclination errorminus="0.086" errorplus="0.066">89.904</inclination>
-			<radius errorminus="0.143" errorplus="0.143">0.571</radius>
+			<description>The planet KIC 5437945 b was discovered and validated by the Planet Hunters project in 2015 with a confidence of 0.999.</description>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454972.355</transittime>
 			<istransiting>1</istransiting>
-			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
-			<description>The planet KIC 5437945 b was discovered and validated by the Planet Hunters project in 2015 with a confidence of 0.999.</description>
 			<lastupdate>16/01/09</lastupdate>
-			<list>Confirmed planets</list>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
 			<name>KOI-3791.02</name>
+			<list>Controversial</list>
+			<radius errorminus="0.1311" errorplus="0.2560">0.5442</radius>
 			<period errorminus="0.0006389" errorplus="0.0006389">220.1303357</period>
 			<inclination>89.95</inclination>
-			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455078.98586</transittime>
-			<radius errorminus="0.1311" errorplus="0.2560">0.5442</radius>
-			<istransiting>1</istransiting>
-			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
 			<description>KOI-3791.02 is an unconfirmed planet candidate observed orbiting KIC 5437945.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2455078.98586</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>16/01/09</lastupdate>
-			<list>Controversial</list>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

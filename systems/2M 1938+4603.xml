@@ -22,17 +22,17 @@
 			<name>WISE J193832.61+460358.9 A</name>
 			<name>TYC 3556-3568-1 A</name>
 			<name>NSVS 5629361 A</name>
-			<magB errorminus="0.10" errorplus="0.10">12.17</magB>
+			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.223</radius>
 			<magV errorminus="0.24" errorplus="0.24">12.69</magV>
+			<magB errorminus="0.10" errorplus="0.10">12.17</magB>
 			<magR errorminus="0.08" errorplus="0.08">12.46</magR>
 			<magI>12.399</magI>
 			<magJ errorminus="0.022" errorplus="0.022">12.757</magJ>
 			<magH errorminus="0.020" errorplus="0.020">12.889</magH>
 			<magK errorminus="0.029" errorplus="0.029">12.955</magK>
-			<spectraltype>sdBV</spectraltype>
-			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
 			<temperature errorminus="106" errorplus="106">29564</temperature>
-			<radius errorminus="0.004" errorplus="0.004">0.223</radius>
+			<spectraltype>sdBV</spectraltype>
 		</star>
 		<star>
 			<name>2M 1938+4603 B</name>
@@ -42,9 +42,9 @@
 			<name>WISE J193832.61+460358.9 B</name>
 			<name>TYC 3556-3568-1 B</name>
 			<name>NSVS 5629361 B</name>
-			<spectraltype>M</spectraltype>
 			<mass errorminus="0.01" errorplus="0.01">0.12</mass>
 			<radius errorminus="0.003" errorplus="0.003">0.158</radius>
+			<spectraltype>M</spectraltype>
 		</star>
 		<planet>
 			<name>2M 1938+4603 b</name>
@@ -53,15 +53,15 @@
 			<name>Kepler-451 (AB) b</name>
 			<name>KIC 9472174 b</name>
 			<name>KIC 9472174 (AB) b</name>
-			<period errorminus="2" errorplus="2">416</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">0.92</semimajoraxis>
-			<mass errorminus="0.1" errorplus="0.1">1.9</mass>
-			<discoverymethod>timing</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/06/11</lastupdate>
-			<description>2M 1938+4603 is an eclipsing post-common envelope binary in the Kepler field. Variations in the timing of the eclipses of the binary star have been used to infer the presence of a giant planet in a circumbinary orbit.</description>
 			<list>Confirmed planets</list>
 			<list>Planets in binary systems, P-type</list>
+			<mass errorminus="0.1" errorplus="0.1">1.9</mass>
+			<period errorminus="2" errorplus="2">416</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.92</semimajoraxis>
+			<description>2M 1938+4603 is an eclipsing post-common envelope binary in the Kepler field. Variations in the timing of the eclipses of the binary star have been used to infer the presence of a giant planet in a circumbinary orbit.</description>
+			<discoverymethod>timing</discoverymethod>
+			<lastupdate>15/06/11</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</binary>
 </system>

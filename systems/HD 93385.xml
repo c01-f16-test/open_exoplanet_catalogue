@@ -4,6 +4,7 @@
 	<declination>-41 27 52</declination>
 	<distance>42.2</distance>
 	<star>
+		<name>HD 93385</name>
 		<magV>7.49</magV>
 		<magB errorminus="0.01" errorplus="0.01">8.08</magB>
 		<magR errorminus="0.52" errorplus="0.52">7.61</magR>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.405</magJ>
 		<magH errorminus="0.023" errorplus="0.023">6.135</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.065</magK>
+		<temperature>5940.0</temperature>
 		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>HD 93385 b</name>
@@ -19,11 +21,11 @@
 			<period>13.186</period>
 			<semimajoraxis>0.1116</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
+			<temperature>851.8</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>851.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 93385 c</name>
@@ -32,13 +34,11 @@
 			<period>46.025</period>
 			<semimajoraxis>0.257</semimajoraxis>
 			<eccentricity>0.24</eccentricity>
+			<temperature>560.1</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>560.1</temperature>
 		</planet>
-		<name>HD 93385</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

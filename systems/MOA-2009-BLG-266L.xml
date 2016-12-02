@@ -4,7 +4,9 @@
 	<declination>-35 00 19</declination>
 	<distance>3040</distance>
 	<star>
+		<name>MOA-2009-BLG-266L</name>
 		<mass>0.56</mass>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>MOA-2009-BLG-266L b</name>
 			<name>MOA 2009-BLG-266 b</name>
@@ -16,7 +18,5 @@
 			<lastupdate>11/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>MOA-2009-BLG-266L</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

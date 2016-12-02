@@ -4,6 +4,7 @@
 	<declination>-60 12 00</declination>
 	<distance>34.2</distance>
 	<star>
+		<name>HD 142415</name>
 		<mass>1.09</mass>
 		<radius>1.03</radius>
 		<magV>7.34</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.235</magJ>
 		<magH errorminus="0.05" errorplus="0.05">5.99</magH>
 		<magK errorminus="0.023" errorplus="0.023">5.892</magK>
+		<temperature>5834.0</temperature>
 		<metallicity>0.21</metallicity>
 		<spectraltype>G1 V</spectraltype>
 		<planet>
@@ -21,12 +23,10 @@
 			<period>386.3</period>
 			<semimajoraxis>1.05</semimajoraxis>
 			<eccentricity>0.5</eccentricity>
+			<temperature>250.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>250.5</temperature>
 		</planet>
-		<name>HD 142415</name>
-		<temperature>5834.0</temperature>
 	</star>
 </system>

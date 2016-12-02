@@ -6,8 +6,8 @@
 	<star>
 		<name>MOA-2007-BLG-192-L</name>
 		<mass>0.06</mass>
-		<spectraltype>M</spectraltype>
 		<temperature>3840.0</temperature>
+		<spectraltype>M</spectraltype>
 		<planet>
 			<name>MOA-2007-BLG-192-L b</name>
 			<name>MOA 2007-BLG-192L b</name>
@@ -15,10 +15,10 @@
 			<list>Confirmed planets</list>
 			<mass>0.01</mass>
 			<semimajoraxis>0.66</semimajoraxis>
+			<description>The exoplanet MOA-2007-BLG-192-L b is orbiting a low mass brown dwarf, roughly 6% the mass of our Sun. This makes the primary too small to sustain fusion.</description>
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>13/04/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<description>The exoplanet MOA-2007-BLG-192-L b is orbiting a low mass brown dwarf, roughly 6% the mass of our Sun. This makes the primary too small to sustain fusion.</description>
 			<image>MOA192</image>
 			<imagedescription>Artist's impression of the extrasolar planet MOA-2007-BLG-192-L b. 
 			

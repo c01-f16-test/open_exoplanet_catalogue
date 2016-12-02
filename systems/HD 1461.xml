@@ -4,6 +4,7 @@
 	<declination>-08 03 11</declination>
 	<distance>23.4</distance>
 	<star>
+		<name>HD 1461</name>
 		<mass>1.08</mass>
 		<radius>1.095</radius>
 		<magV>6.64</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">5.329</magJ>
 		<magH errorminus="0.047" errorplus="0.047">5.041</magH>
 		<magK errorminus="0.023" errorplus="0.023">4.897</magK>
+		<temperature>5765.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
@@ -20,10 +22,10 @@
 			<period>5.7727</period>
 			<semimajoraxis>0.063438</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
+			<temperature>1054.8</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/12/15</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1054.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 1461 c</name>
@@ -32,13 +34,11 @@
 			<period>13.505</period>
 			<semimajoraxis>0.1117</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>795.9</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>795.9</temperature>
 		</planet>
-		<name>HD 1461</name>
-		<temperature>5765.0</temperature>
 	</star>
 </system>

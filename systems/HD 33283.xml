@@ -4,6 +4,7 @@
 	<declination>-26 47 50</declination>
 	<distance>86</distance>
 	<star>
+		<name>HD 33283</name>
 		<mass>1.24</mass>
 		<radius>1.2</radius>
 		<magV>8.05</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.029" errorplus="0.029">6.983</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.729</magH>
 		<magK errorminus="0.033" errorplus="0.033">6.646</magK>
+		<temperature>5995.0</temperature>
 		<metallicity>0.366</metallicity>
 		<spectraltype>G3V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>18.179</period>
 			<semimajoraxis>0.168</semimajoraxis>
 			<eccentricity>0.48</eccentricity>
+			<temperature>695.7</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/04/18</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>695.7</temperature>
 		</planet>
-		<name>HD 33283</name>
-		<temperature>5995.0</temperature>
 	</star>
 </system>

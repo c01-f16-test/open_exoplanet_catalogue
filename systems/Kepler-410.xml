@@ -19,8 +19,8 @@
 			<name>KIC 8866102</name>
 			<mass errorminus="0.033" errorplus="0.033">1.214</mass>
 			<radius errorminus="0.010" errorplus="0.010">1.352</radius>
-			<age errorminus="0.54" errorplus="0.54">2.76</age>
 			<temperature errorminus="140" errorplus="140">6273</temperature>
+			<age errorminus="0.54" errorplus="0.54">2.76</age>
 			<planet>
 				<name>Kepler-410 A b</name>
 				<name>Kepler-410 b</name>
@@ -29,17 +29,17 @@
 				<name>KOI-42 b</name>
 				<name>KOI-42.01</name>
 				<list>Confirmed planets</list>
-				<period errorminus="0.000054" errorplus="0.000054">17.833648</period>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.004921" errorplus="0.004921">0.258628</radius>
+				<period errorminus="0.000054" errorplus="0.000054">17.833648</period>
 				<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.1226</semimajoraxis>
 				<eccentricity errorminus="0.06" errorplus="0.07">0.17</eccentricity>
 				<inclination errorminus="0.15" errorplus="0.13">87.72</inclination>
+				<description>Kepler-410 b is a Neptune sized exoplanet aroud the bright star Kepler-410. The host star is in fact one of the brightest hosts of all currently known transiting exoplanets. The confirmation was difficult because there is a second, fainter star nearby. Transit timing variations indicate the presence of another planet in the system.</description>
 				<discoverymethod>transit</discoverymethod>
+				<istransiting>1</istransiting>
 				<lastupdate>13/12/20</lastupdate>
 				<discoveryyear>2013</discoveryyear>
-				<description>Kepler-410 b is a Neptune sized exoplanet aroud the bright star Kepler-410. The host star is in fact one of the brightest hosts of all currently known transiting exoplanets. The confirmation was difficult because there is a second, fainter star nearby. Transit timing variations indicate the presence of another planet in the system.</description>
-				<list>Planets in binary systems, S-type</list>
-				<istransiting>1</istransiting>
 			</planet>
 		</star>
 		<star>

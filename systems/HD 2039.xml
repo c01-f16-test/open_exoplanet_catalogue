@@ -4,13 +4,15 @@
 	<declination>-56 39 00</declination>
 	<distance>89.8</distance>
 	<star>
+		<name>HD 2039</name>
 		<mass>0.98</mass>
 		<radius>1.21</radius>
 		<magV>9.01</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.65</magB>
 		<magJ errorminus="0.019" errorplus="0.019">7.912</magJ>
 		<magH errorminus="0.059" errorplus="0.059">7.652</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.549</magK>
-		<magB errorminus="0.02" errorplus="0.02">9.65</magB>
+		<temperature>5947.0</temperature>
 		<metallicity>0.1</metallicity>
 		<spectraltype>G2/G3 IV-V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>1183</period>
 			<semimajoraxis>2.2</semimajoraxis>
 			<eccentricity>0.67</eccentricity>
+			<temperature>188.3</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/10/07</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-			<temperature>188.3</temperature>
 		</planet>
-		<name>HD 2039</name>
-		<temperature>5947.0</temperature>
 	</star>
 </system>

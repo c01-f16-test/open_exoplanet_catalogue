@@ -4,10 +4,12 @@
 	<declination>-29 32 21</declination>
 	<distance>1500</distance>
 	<star>
+		<name>OGLE-TR-56</name>
 		<mass>1.17</mass>
 		<radius>1.32</radius>
 		<magV>16.6</magV>
 		<magI>15.30</magI>
+		<temperature>5940.0</temperature>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>OGLE-TR-56 b</name>
@@ -20,14 +22,12 @@
 			<semimajoraxis>0.0225</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>78.8</inclination>
-			<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2453963.60070</transittime>
+			<temperature>1390.3</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2453963.60070</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/06/24</lastupdate>
 			<discoveryyear>2002</discoveryyear>
-			<temperature>1390.3</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>OGLE-TR-56</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

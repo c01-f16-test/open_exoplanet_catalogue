@@ -5,8 +5,6 @@
 	<distance errorminus="0.03" errorplus="0.03">4.94</distance>
 	<star>
 		<name>Gliese 832</name>
-		<temperature>3472</temperature>
-		<spectraltype>M1.5</spectraltype>
 		<mass errorminus="0.05" errorplus="0.05">0.45</mass>
 		<magV>8.67</magV>
 		<magB>10.176</magB>
@@ -15,7 +13,9 @@
 		<magJ errorminus="0.032" errorplus="0.032">5.349</magJ>
 		<magH errorminus="0.256" errorplus="0.256">4.766</magH>
 		<magK errorminus="0.018" errorplus="0.018">4.501</magK>
+		<temperature>3472</temperature>
 		<metallicity errorminus="0.2" errorplus="0.2">-0.3</metallicity>
+		<spectraltype>M1.5</spectraltype>
 		<planet>
 			<name>Gliese 832 b</name>
 			<name>GJ 832 b</name>

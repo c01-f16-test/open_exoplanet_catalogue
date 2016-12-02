@@ -3,15 +3,19 @@
 	<rightascension>19 14 20</rightascension>
 	<declination>+41 05 23</declination>
 	<star>
-		<spectraltype>G0</spectraltype>
+		<name>Kepler-7</name>
+		<name>KOI-97</name>
+		<name>KIC 5780885</name>
+		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
 		<magB>13.4</magB>
 		<magR>12.7</magR>
 		<magJ errorminus="0.020" errorplus="0.020">11.833</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.601</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.535</magK>
-		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
-		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
+		<temperature errorminus="75" errorplus="75">6027</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">0.10</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>Kepler-7 b</name>
 			<name>2MASS J19141956+4105233 b</name>
@@ -25,16 +29,12 @@
 			<semimajoraxis>0.06246</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<inclination>85.18</inclination>
-			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
+			<temperature>1486.8</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.8</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-7</name>
-		<name>KOI-97</name>
-		<name>KIC 5780885</name>
-		<temperature errorminus="75" errorplus="75">6027</temperature>
 	</star>
 </system>

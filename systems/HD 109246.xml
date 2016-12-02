@@ -4,6 +4,7 @@
 	<declination>+74 29 22</declination>
 	<distance>65.6</distance>
 	<star>
+		<name>HD 109246</name>
 		<mass>1.01</mass>
 		<radius>1.02</radius>
 		<magV>8.77</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">7.570</magJ>
 		<magH errorminus="0.020" errorplus="0.020">7.296</magH>
 		<magK errorminus="0.023" errorplus="0.023">7.216</magK>
+		<temperature>5844.0</temperature>
 		<metallicity>0.1</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<period>68.27</period>
 			<semimajoraxis>0.33</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
+			<temperature>452.6</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/06/28</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>452.6</temperature>
 		</planet>
-		<name>HD 109246</name>
-		<temperature>5844.0</temperature>
 	</star>
 </system>

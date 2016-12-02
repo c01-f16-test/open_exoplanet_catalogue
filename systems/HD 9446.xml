@@ -4,6 +4,7 @@
 	<declination>+29 15 55</declination>
 	<distance>53</distance>
 	<star>
+		<name>HD 9446</name>
 		<mass>1</mass>
 		<radius>1</radius>
 		<magV>8.35</magV>
@@ -13,6 +14,7 @@
 		<magJ>7.21</magJ>
 		<magH>6.89</magH>
 		<magK>6.85</magK>
+		<temperature>5793.0</temperature>
 		<metallicity>0.09</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
@@ -22,10 +24,10 @@
 			<period>30.052</period>
 			<semimajoraxis>0.189</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
+			<temperature>586.1</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/01/05</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>586.1</temperature>
 		</planet>
 		<planet>
 			<name>HD 9446 c</name>
@@ -34,12 +36,10 @@
 			<period>192.9</period>
 			<semimajoraxis>0.654</semimajoraxis>
 			<eccentricity>0.06</eccentricity>
+			<temperature>315.8</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/01/05</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>315.8</temperature>
 		</planet>
-		<name>HD 9446</name>
-		<temperature>5793.0</temperature>
 	</star>
 </system>

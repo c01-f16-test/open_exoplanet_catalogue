@@ -12,12 +12,12 @@
 		<name>2MASS J20160600+0434509</name>
 		<mass errorminus="0.12" errorplus="0.12">1.69</mass>
 		<radius errorminus="0.06" errorplus="0.06">3.90</radius>
-		<temperature>5220.0</temperature>
 		<magV>6.44</magV>
 		<magB>7.290</magB>
 		<magJ errorminus="0.262" errorplus="0.262">4.903</magJ>
 		<magH errorminus="0.260" errorplus="0.260">4.360</magH>
 		<magK errorminus="0.026" errorplus="0.026">4.366</magK>
+		<temperature>5220.0</temperature>
 		<metallicity>-0.15</metallicity>
 		<spectraltype>G8IV</spectraltype>
 		<planet>

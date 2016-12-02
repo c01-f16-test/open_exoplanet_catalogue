@@ -4,6 +4,7 @@
 	<declination>+79 13 52</declination>
 	<distance>20.98</distance>
 	<star>
+		<name>HD 33564</name>
 		<mass>1.25</mass>
 		<radius>1.1</radius>
 		<magV>5.08</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.278" errorplus="0.278">4.416</magJ>
 		<magH errorminus="0.276" errorplus="0.276">4.201</magH>
 		<magK errorminus="0.020" errorplus="0.020">3.911</magK>
+		<temperature>6250.0</temperature>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>F6 V</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<period>388</period>
 			<semimajoraxis>1.1</semimajoraxis>
 			<eccentricity>0.34</eccentricity>
+			<temperature>273.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<temperature>273.5</temperature>
 		</planet>
-		<name>HD 33564</name>
-		<temperature>6250.0</temperature>
 	</star>
 </system>

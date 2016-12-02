@@ -47,18 +47,17 @@
 				<name>KOI-975 b</name>
 				<name>KOI-975 A b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.0327" />
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.0038" errorplus="0.0034">0.1456</radius>
 				<period errorminus="0.000034" errorplus="0.000031">2.785755</period>
 				<semimajoraxis errorminus="0.000119" errorplus="0.000098">0.042509</semimajoraxis>
 				<inclination errorminus="0.31" errorplus="0.28">82.59</inclination>
-				<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
 				<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
+				<istransiting>1</istransiting>
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

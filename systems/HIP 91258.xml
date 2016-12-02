@@ -6,7 +6,6 @@
 	<star>
 		<name>HIP 91258</name>
 		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
-		<age errorminus="2.4" errorplus="2.4">2.4</age>
 		<radius errorminus="0.04" errorplus="0.04">1</radius>
 		<magV errorminus="0.01" errorplus="0.01">8.65</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.45</magB>
@@ -16,6 +15,7 @@
 		<magH errorminus="0.023" errorplus="0.023">6.996</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.893</magK>
 		<temperature errorminus="70" errorplus="70">5519</temperature>
+		<age errorminus="2.4" errorplus="2.4">2.4</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.23</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
@@ -26,10 +26,10 @@
 			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.057</semimajoraxis>
 			<eccentricity errorminus="0.014" errorplus="0.014">0.024</eccentricity>
 			<periastron errorminus="64" errorplus="64">276</periastron>
+			<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/11/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
 		</planet>
 	</star>
 </system>

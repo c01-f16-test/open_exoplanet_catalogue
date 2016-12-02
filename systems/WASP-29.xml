@@ -4,6 +4,7 @@
 	<declination>-39 54 24</declination>
 	<distance>80</distance>
 	<star>
+		<name>WASP-29</name>
 		<mass>0.825</mass>
 		<radius>0.846</radius>
 		<magV>11.3</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">9.353</magJ>
 		<magH errorminus="0.019" errorplus="0.019">8.875</magH>
 		<magK errorminus="0.020" errorplus="0.020">8.783</magK>
+		<temperature>4800.0</temperature>
 		<metallicity>0.11</metallicity>
 		<spectraltype>K4V</spectraltype>
 		<planet>
@@ -26,14 +28,12 @@
 			<semimajoraxis>0.0457</semimajoraxis>
 			<eccentricity>0.03</eccentricity>
 			<inclination>88.8</inclination>
-			<transittime errorminus="0.004" errorplus="0.004" unit="BJD">2455320.23485</transittime>
+			<temperature>910.6</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.004" errorplus="0.004" unit="BJD">2455320.23485</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/09/28</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>910.6</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-29</name>
-		<temperature>4800.0</temperature>
 	</star>
 </system>

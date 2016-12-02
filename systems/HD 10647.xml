@@ -5,7 +5,6 @@
 	<distance>17.3</distance>
 	<star>
 		<name>HD 10647</name>
-		<age>1.4</age>
 		<mass>1.11</mass>
 		<radius>1.1</radius>
 		<magV>5.52</magV>
@@ -13,6 +12,8 @@
 		<magJ errorminus="0.23" errorplus="0.23">4.79</magJ>
 		<magH errorminus="0.23" errorplus="0.23">4.40</magH>
 		<magK errorminus="0.28" errorplus="0.28">4.34</magK>
+		<temperature>6039.0</temperature>
+		<age>1.4</age>
 		<metallicity>0.0</metallicity>
 		<spectraltype>F9V</spectraltype>
 		<planet>
@@ -23,11 +24,10 @@
 			<semimajoraxis>2.015</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<periastron>212</periastron>
+			<temperature>195.9</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>195.9</temperature>
 		</planet>
-		<temperature>6039.0</temperature>
 	</star>
 </system>

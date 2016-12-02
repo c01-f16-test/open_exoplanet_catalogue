@@ -10,8 +10,8 @@
 		<name>PSR J1300+1240</name>
 		<mass>1.4</mass>
 		<radius>0.000014</radius>
-		<spectraltype>Pulsar</spectraltype>
 		<age>3</age>
+		<spectraltype>Pulsar</spectraltype>
 		<planet>
 			<name>PSR 1257+12 A</name>
 			<name>PSR B1257+12 A</name>
@@ -22,8 +22,8 @@
 			<period errorminus="0.003" errorplus="0.003">25.262</period>
 			<semimajoraxis>0.19</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<periastrontime errorminus="0.2" errorplus="0.2">2449765.6</periastrontime>
 			<periastron>0.0</periastron>
+			<periastrontime errorminus="0.2" errorplus="0.2">2449765.6</periastrontime>
 			<discoverymethod>timing</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
 			<discoveryyear>1992</discoveryyear>
@@ -38,9 +38,9 @@
 			<period errorminus="0.0001" errorplus="0.0001">66.5419</period>
 			<semimajoraxis>0.36</semimajoraxis>
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0186</eccentricity>
-			<inclination errorminus="4" errorplus="4">53</inclination>
 			<periastron errorminus="0.6" errorplus="0.6">250.4</periastron>
 			<periastrontime errorminus="0.1" errorplus="0.1">2449768.1</periastrontime>
+			<inclination errorminus="4" errorplus="4">53</inclination>
 			<discoverymethod>timing</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
 			<discoveryyear>1992</discoveryyear>
@@ -55,10 +55,10 @@
 			<period errorminus="0.0002" errorplus="0.0002">98.2114</period>
 			<semimajoraxis>0.46</semimajoraxis>
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0252</eccentricity>
-			<inclination errorminus="3" errorplus="3">47</inclination>
 			<periastron errorminus="0.5" errorplus="0.5">108.3</periastron>
 			<periastrontime errorminus="0.1" errorplus="0.1">2449767.0</periastrontime>
 			<ascendingnode>3</ascendingnode>
+			<inclination errorminus="3" errorplus="3">47</inclination>
 			<discoverymethod>timing</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
 			<discoveryyear>1992</discoveryyear>

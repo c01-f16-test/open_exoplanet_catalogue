@@ -14,14 +14,14 @@
 		<name>HR 739</name>
 		<name>BD-01 353</name>
 		<name>2MASS J02320943-0102055</name>
+		<mass lowerlimit="2.22" upperlimit="2.51">2.49</mass>
+		<radius lowerlimit="9.5" upperlimit="11.5">10.5</radius>
 		<magV>5.364</magV>
 		<magB>6.373</magB>
 		<magR>10.0</magR>
 		<magJ errorminus="0.01" errorplus="0.01">3.685</magJ>
 		<magH errorminus="0.01" errorplus="0.01">3.186</magH>
 		<magK errorminus="0.01" errorplus="0.01">3.067</magK>
-		<mass lowerlimit="2.22" upperlimit="2.51">2.49</mass>
-		<radius lowerlimit="9.5" upperlimit="11.5">10.5</radius>
 		<temperature errorminus="18" errorplus="18">4846</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
 		<spectraltype>G3III:</spectraltype>
@@ -34,8 +34,8 @@
 			<eccentricity errorminus="0.048" errorplus="0.048">0.117</eccentricity>
 			<periastron errorminus="28" errorplus="28">165</periastron>
 			<periastrontime errorminus="54" errorplus="54">2452213</periastrontime>
-			<discoverymethod>RV</discoverymethod>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>

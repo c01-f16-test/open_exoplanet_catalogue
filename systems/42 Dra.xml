@@ -21,9 +21,9 @@
 		<magH errorminus="0.196" errorplus="0.196">2.197</magH>
 		<magK errorminus="0.216" errorplus="0.216">2.085</magK>
 		<temperature errorminus="70" errorplus="70">4200</temperature>
+		<age errorminus="1.76" errorplus="1.76">9.49</age>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.46</metallicity>
 		<spectraltype>K1.5III</spectraltype>
-		<age errorminus="1.76" errorplus="1.76">9.49</age>
 		<planet>
 			<name>42 Dra b</name>
 			<name>42 Draconis b</name>

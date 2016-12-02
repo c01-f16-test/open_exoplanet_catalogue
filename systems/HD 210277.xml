@@ -4,6 +4,7 @@
 	<declination>-07 32 32</declination>
 	<distance>21.29</distance>
 	<star>
+		<name>HD 210277</name>
 		<mass>1.09</mass>
 		<radius>1.1</radius>
 		<magV>6.63</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">5.275</magJ>
 		<magH errorminus="0.03" errorplus="0.03">4.96</magH>
 		<magK errorminus="0.020" errorplus="0.020">4.799</magK>
+		<temperature>5532.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>442.1</period>
 			<semimajoraxis>1.1</semimajoraxis>
 			<eccentricity>0.472</eccentricity>
+			<temperature>240.3</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/09/06</lastupdate>
 			<discoveryyear>1998</discoveryyear>
-			<temperature>240.3</temperature>
 		</planet>
-		<name>HD 210277</name>
-		<temperature>5532.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>-23 51 38</declination>
 	<distance>120</distance>
 	<star>
+		<name>WASP-34</name>
 		<mass>1.01</mass>
 		<radius>0.93</radius>
 		<magV>10.4</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.026" errorplus="0.026">9.172</magJ>
 		<magH errorminus="0.042" errorplus="0.042">8.842</magH>
 		<magK errorminus="0.021" errorplus="0.021">8.792</magK>
+		<temperature>5700.0</temperature>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
@@ -26,14 +28,12 @@
 			<semimajoraxis>0.0524</semimajoraxis>
 			<eccentricity>0.038</eccentricity>
 			<inclination>85.2</inclination>
-			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454647.55434</transittime>
+			<temperature>1058.7</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454647.55434</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/12/13</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1058.7</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-34</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

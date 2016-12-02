@@ -6,15 +6,15 @@
 		<period>0.3041666</period>
 		<star>
 			<name>RR Cae A</name>
-			<radius>0.015</radius>
 			<mass>0.622</mass>
+			<radius>0.015</radius>
 			<magV>14.4</magV>
 			<magB>14.92</magB>
 			<magJ errorminus="0.024" errorplus="0.024">10.720</magJ>
 			<magH errorminus="0.023" errorplus="0.023">10.148</magH>
 			<magK errorminus="0.025" errorplus="0.025">9.852</magK>
-			<spectraltype>DAZ8+dM</spectraltype>
 			<temperature>7540</temperature>
+			<spectraltype>DAZ8+dM</spectraltype>
 		</star>
 		<star>
 			<name>RR Cae B</name>

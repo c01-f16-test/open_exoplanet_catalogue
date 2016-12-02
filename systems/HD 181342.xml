@@ -4,6 +4,7 @@
 	<declination>-23 37 10</declination>
 	<distance>110.6</distance>
 	<star>
+		<name>HD 181342</name>
 		<mass>1.84</mass>
 		<radius>4.6</radius>
 		<magV>7.55</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">5.853</magJ>
 		<magH errorminus="0.026" errorplus="0.026">5.370</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.251</magK>
+		<temperature>5014.0</temperature>
 		<metallicity>0.26</metallicity>
 		<spectraltype>K0III</spectraltype>
 		<planet>
@@ -21,12 +23,10 @@
 			<period>663</period>
 			<semimajoraxis>1.78</semimajoraxis>
 			<eccentricity>0.177</eccentricity>
+			<temperature>354.7</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/03/19</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>354.7</temperature>
 		</planet>
-		<name>HD 181342</name>
-		<temperature>5014.0</temperature>
 	</star>
 </system>

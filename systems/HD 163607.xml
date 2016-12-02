@@ -4,6 +4,7 @@
 	<declination>+56 23 31</declination>
 	<distance>69</distance>
 	<star>
+		<name>HD 163607</name>
 		<mass>1.09</mass>
 		<radius>1.63</radius>
 		<magV>8.15</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">6.648</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.342</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.271</magK>
+		<temperature>5543.0</temperature>
 		<metallicity>0.21</metallicity>
 		<spectraltype>G5IV</spectraltype>
 		<planet>
@@ -21,11 +23,11 @@
 			<period>75.229</period>
 			<semimajoraxis>0.36</semimajoraxis>
 			<eccentricity>0.73</eccentricity>
+			<temperature>499.8</temperature>
 			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>499.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 163607 c</name>
@@ -34,13 +36,11 @@
 			<period>1314</period>
 			<semimajoraxis>2.42</semimajoraxis>
 			<eccentricity>0.12</eccentricity>
+			<temperature>200.4</temperature>
 			<description>HD 163607 is a metal-rich G star with two planets. The inner planet has the largest eccentricity of any known planet in a muli-planet system.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>200.4</temperature>
 		</planet>
-		<name>HD 163607</name>
-		<temperature>5543.0</temperature>
 	</star>
 </system>

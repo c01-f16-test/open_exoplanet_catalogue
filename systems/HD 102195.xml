@@ -4,6 +4,7 @@
 	<declination>+02 49 17</declination>
 	<distance>28.98</distance>
 	<star>
+		<name>HD 102195</name>
 		<mass>0.926</mass>
 		<radius>0.835</radius>
 		<magV>8.05</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">6.629</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.268</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.151</magK>
+		<temperature>5291.0</temperature>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<period>4.113775</period>
 			<semimajoraxis>0.049</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>963.1</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/21</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<temperature>963.1</temperature>
 		</planet>
-		<name>HD 102195</name>
-		<temperature>5291.0</temperature>
 	</star>
 </system>

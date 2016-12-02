@@ -32,22 +32,22 @@
 				<semimajoraxis>0.03138</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>84.73</inclination>
-				<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455147.25721</transittime>
+				<temperature>1170.7</temperature>
+				<description>WASP-2 is an orange dwarf star that hosts the exoplanet WASP-2 b. It was discovered with the SuperWASP survey in 2006.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455147.25721</transittime>
+				<istransiting>1</istransiting>
 				<lastupdate>13/01/27</lastupdate>
 				<discoveryyear>2006</discoveryyear>
-				<description>WASP-2 is an orange dwarf star that hosts the exoplanet WASP-2 b. It was discovered with the SuperWASP survey in 2006.</description>
-				<temperature>1170.7</temperature>
-				<istransiting>1</istransiting>
 			</planet>
 		</star>
 		<star>
 			<name>WASP-2 B</name>
+			<mass errorminus="0.028" errorplus="0.028">0.383</mass>
 			<magJ errorminus="0.010" errorplus="0.010">13.046</magJ>
 			<magH errorminus="0.0061" errorplus="0.0061">12.4863</magH>
 			<magK errorminus="0.028" errorplus="0.028">12.503</magK>
 			<temperature errorminus="26" errorplus="26">3509</temperature>
-			<mass errorminus="0.028" errorplus="0.028">0.383</mass>
 			<spectraltype>M0</spectraltype>
 		</star>
 	</binary>

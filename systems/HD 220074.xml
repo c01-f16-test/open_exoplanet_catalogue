@@ -4,14 +4,15 @@
 	<declination>+61 58 12</declination>
 	<distance>290.2</distance>
 	<star>
+		<name>HD 220074</name>
 		<mass>1.2</mass>
 		<radius>49.7</radius>
-		<temperature>5080</temperature>
 		<magV>6.4</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.070</magB>
 		<magJ errorminus="0.200" errorplus="0.200">3.182</magJ>
 		<magH errorminus="0.164" errorplus="0.164">2.373</magH>
 		<magK errorminus="0.212" errorplus="0.212">2.006</magK>
+		<temperature>5080</temperature>
 		<metallicity>-0.25</metallicity>
 		<spectraltype>K1 V</spectraltype>
 		<planet>
@@ -21,12 +22,11 @@
 			<period>672.1</period>
 			<semimajoraxis>1.6</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
+			<temperature>965.5</temperature>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<temperature>965.5</temperature>
 		</planet>
-		<name>HD 220074</name>
 	</star>
 </system>

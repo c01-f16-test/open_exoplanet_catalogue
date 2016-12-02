@@ -4,14 +4,16 @@
 	<declination>-22 40 26</declination>
 	<distance>307</distance>
 	<star>
+		<name>WASP-6</name>
 		<mass>0.888</mass>
 		<radius>0.87</radius>
 		<magV>12.4</magV>
-		<magR>11.9</magR>
 		<magB errorminus="0.35" errorplus="0.35">12.90</magB>
+		<magR>11.9</magR>
 		<magJ errorminus="0.026" errorplus="0.026">10.769</magJ>
 		<magH errorminus="0.025" errorplus="0.025">10.445</magH>
 		<magK errorminus="0.025" errorplus="0.025">10.325</magK>
+		<temperature>5450.0</temperature>
 		<metallicity>-0.2</metallicity>
 		<spectraltype>G8</spectraltype>
 		<planet>
@@ -24,14 +26,12 @@
 			<semimajoraxis>0.0421</semimajoraxis>
 			<eccentricity>0.054</eccentricity>
 			<inclination>88.47</inclination>
-			<transittime errorminus="0.00010" errorplus="0.00015" unit="BJD">2454596.43341</transittime>
+			<temperature>1092.2</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00010" errorplus="0.00015" unit="BJD">2454596.43341</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/04/08</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1092.2</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-6</name>
-		<temperature>5450.0</temperature>
 	</star>
 </system>

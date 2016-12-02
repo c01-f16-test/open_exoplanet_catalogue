@@ -9,19 +9,19 @@
 		<name>Oph J1622-2405 A</name>
 		<name>WDS J16224-2405 A</name>
 		<mass errorminus="0.007" errorplus="0.009">0.051</mass>
-		<spectraltype>M7.25</spectraltype>
 		<temperature>2838</temperature>
+		<spectraltype>M7.25</spectraltype>
 		<planet>
 			<name>Oph 11 B</name>
 			<name>Oph J1622-2405 B</name>
 			<name>WDS J16224-2405 B</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="3" errorplus="3">21</mass>
 			<spectraltype>M8.75</spectraltype>
-			<temperature>2478</temperature>
+			<mass errorminus="3" errorplus="3">21</mass>
 			<separation unit="arcsec">1.9</separation>
 			<separation unit="AU">275</separation>
 			<positionangle>182</positionangle>
+			<temperature>2478</temperature>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/12/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>

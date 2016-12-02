@@ -4,21 +4,21 @@
 	<declination>+48 09 15</declination>
 	<star>
 		<name>Kepler-1637</name>
-		<temperature errorminus="94.9" errorplus="79.6">5789.0</temperature>
 		<mass errorminus="0.05" errorplus="0.06">1.02</mass>
 		<radius errorminus="0.09" errorplus="0.20">1.02</radius>
+		<temperature errorminus="94.9" errorplus="79.6">5789.0</temperature>
 		<metallicity errorminus="0.16" errorplus="0.15">0.07</metallicity>
 		<planet>
 			<name>Kepler-1637 b</name>
-			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<radius errorminus="0.008" errorplus="0.016">0.079</radius>
+			<period errorminus="0.000064850" errorplus="0.000064850">6.109603240</period>
+			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000064850" errorplus="0.000064850">6.109603240</period>
-			<radius errorminus="0.008" errorplus="0.016">0.079</radius>
+			<lastupdate>16/05/10</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

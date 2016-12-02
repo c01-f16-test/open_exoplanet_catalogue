@@ -25,15 +25,15 @@
 				<name>GJ 128 A b</name>
 				<name>HD 19994 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.68</mass>
 				<period>535.7</period>
 				<semimajoraxis>1.42</semimajoraxis>
 				<eccentricity>0.3</eccentricity>
-				<discoverymethod>RV</discoverymethod>
 				<description>The star system 94 Ceti (also known ad HD 19994) is an eccentric binary approximately 73 light years away from Earth. A planet orbiting the primary star was discovered in 2000 by the European Southern Observatory.</description>
+				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2000</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

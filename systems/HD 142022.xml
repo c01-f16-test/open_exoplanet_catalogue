@@ -13,24 +13,24 @@
 			<radius>0.705</radius>
 			<magV>7.7</magV>
 			<magB>8.47</magB>
+			<temperature>5382.0</temperature>
 			<metallicity>0.19</metallicity>
 			<spectraltype>G9V</spectraltype>
 			<planet>
 				<name>HD 142022 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>5.1</mass>
 				<period>1928</period>
 				<semimajoraxis>3.03</semimajoraxis>
 				<eccentricity>0.53</eccentricity>
 				<inclination>10</inclination>
+				<temperature>112.3</temperature>
+				<description>The binary star system HD 142022 is located in the southernmost constellation of Octans. A planet has been discovered in orbit around the primary star.</description>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
-				<description>The binary star system HD 142022 is located in the southernmost constellation of Octans. A planet has been discovered in orbit around the primary star.</description>
 				<discoveryyear>2005</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
-				<temperature>112.3</temperature>
 			</planet>
-			<temperature>5382.0</temperature>
 		</star>
 		<star>
 			<name>HD 142022 B</name>

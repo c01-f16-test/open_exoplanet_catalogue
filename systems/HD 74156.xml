@@ -19,9 +19,9 @@
 		<magJ>6.56</magJ>
 		<magH>6.28</magH>
 		<magK>6.21</magK>
+		<temperature errorminus="44" errorplus="44">6068</temperature>
 		<metallicity errorminus="0.030" errorplus="0.030">0.131</metallicity>
 		<spectraltype>G0</spectraltype>
-		<temperature errorminus="44" errorplus="44">6068</temperature>
 		<planet>
 			<name>HD 74156 b</name>
 			<list>Confirmed planets</list>
@@ -29,10 +29,10 @@
 			<period errorminus="0.0015" errorplus="0.0015">51.6385</period>
 			<semimajoraxis errorminus="0.0033" errorplus="0.0033">0.2916</semimajoraxis>
 			<eccentricity errorminus="0.0061" errorplus="0.0061">0.6380</eccentricity>
-			<periastrontime errorminus="0.11" errorplus="0.11" unit="BJD">2450793.39</periastrontime>
 			<periastron errorminus="0.92" errorplus="0.92">175.35</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<periastrontime errorminus="0.11" errorplus="0.11" unit="BJD">2450793.39</periastrontime>
 			<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
+			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
@@ -43,10 +43,10 @@
 			<period errorminus="5.5" errorplus="5.5">2448.9</period>
 			<semimajoraxis errorminus="0.044" errorplus="0.044">3.820</semimajoraxis>
 			<eccentricity errorminus="0.0080" errorplus="0.0080">0.3829</eccentricity>
-			<periastrontime errorminus="15" errorplus="15" unit="BJD">2448559</periastrontime>
 			<periastron errorminus="1.6" errorplus="1.6">268.9</periastron>
-			<discoverymethod>RV</discoverymethod>
+			<periastrontime errorminus="15" errorplus="15" unit="BJD">2448559</periastrontime>
 			<description>HD 74156 c is a long-period giant planet in an eccentric orbit. It is the outer member of a hierarchical system of two planets.</description>
+			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>

@@ -10,10 +10,6 @@
 		<name>BD-01 3943</name>
 		<name>PPM 180934</name>
 		<name>TYC 5162-1142-1</name>
-		<spectraltype>F9</spectraltype>
-		<age errorminus="1.0" errorplus="1.6">2.0</age>
-		<temperature errorminus="110" errorplus="110">5990</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">0.39</metallicity>
 		<mass errorminus="0.12" errorplus="0.12">1.48</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.64</radius>
 		<magV>9.75</magV>
@@ -21,6 +17,10 @@
 		<magJ>8.55</magJ>
 		<magH>8.29</magH>
 		<magK>8.22</magK>
+		<temperature errorminus="110" errorplus="110">5990</temperature>
+		<age errorminus="1.0" errorplus="1.6">2.0</age>
+		<metallicity errorminus="0.13" errorplus="0.13">0.39</metallicity>
+		<spectraltype>F9</spectraltype>
 		<planet>
 			<name>WASP-74 b</name>
 			<name>1SWASP J201809.32-010432.6 b</name>
@@ -31,17 +31,16 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.06" errorplus="0.06">0.95</mass>
 			<radius errorminus="0.06" errorplus="0.06">1.56</radius>
-			<semimajoraxis errorminus="0.001" errorplus="0.001">0.037</semimajoraxis>
 			<period errorminus="0.000001" errorplus="0.000001">2.137750</period>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.037</semimajoraxis>
 			<inclination errorminus="0.24" errorplus="0.24">79.81</inclination>
-			<eccentricity upperlimit="0.07" />
 			<temperature errorminus="40" errorplus="40">1910</temperature>
 			<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>14/10/24</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

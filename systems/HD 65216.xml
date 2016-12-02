@@ -4,9 +4,11 @@
 	<declination>-63 38 50</declination>
 	<distance>34.3</distance>
 	<star>
+		<name>HD 65216</name>
 		<mass>0.92</mass>
 		<magV>7.98</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.65</magB>
+		<temperature>5666.0</temperature>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>G5 V</spectraltype>
 		<planet>
@@ -16,10 +18,10 @@
 			<period>613.1</period>
 			<semimajoraxis>1.37</semimajoraxis>
 			<eccentricity>0.41</eccentricity>
+			<temperature>193.9</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/30</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>193.9</temperature>
 		</planet>
 		<planet>
 			<name>HD 65216 c</name>
@@ -31,7 +33,5 @@
 			<lastupdate>11/09/13</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
-		<name>HD 65216</name>
-		<temperature>5666.0</temperature>
 	</star>
 </system>

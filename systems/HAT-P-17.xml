@@ -4,6 +4,7 @@
 	<declination>+30 29 19</declination>
 	<distance>90</distance>
 	<star>
+		<name>HAT-P-17</name>
 		<mass>0.857</mass>
 		<radius>0.837</radius>
 		<magV errorminus="0.03" errorplus="0.03">10.38</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.022" errorplus="0.022">9.017</magJ>
 		<magH errorminus="0.029" errorplus="0.029">8.619</magH>
 		<magK errorminus="0.025" errorplus="0.025">8.544</magK>
+		<temperature>5246.0</temperature>
 		<spectraltype>K</spectraltype>
 		<planet>
 			<name>HAT-P-17 b</name>
@@ -24,12 +26,12 @@
 			<semimajoraxis>0.0882</semimajoraxis>
 			<eccentricity>0.346</eccentricity>
 			<inclination>89.2</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
 			<temperature>707.1</temperature>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>12/04/03</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 		<planet>
 			<name>HAT-P-17 c</name>
@@ -40,14 +42,12 @@
 			<period>1798</period>
 			<semimajoraxis>2.75</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
-			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
+			<temperature>127.5</temperature>
 			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/12/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>127.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-17</name>
-		<temperature>5246.0</temperature>
 	</star>
 </system>

@@ -9,15 +9,15 @@
 		<name>2MASS J02425045+4935130</name>
 		<mass errorminus="0.39" errorplus="0.39">0.74</mass>
 		<radius errorminus="1" errorplus="1">11</radius>
-		<magB errorminus="0.04" errorplus="0.04">10.35</magB>
 		<magV errorminus="0.017" errorplus="0.017">9.139</magV>
+		<magB errorminus="0.04" errorplus="0.04">10.35</magB>
 		<magR errorminus="0.06" errorplus="0.06">8.56</magR>
 		<magJ errorminus="0.021" errorplus="0.021">6.704</magJ>
 		<magH errorminus="0.047" errorplus="0.047">6.077</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.904</magK>
+		<temperature errorminus="15" errorplus="15">4414</temperature>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.20</metallicity>
 		<spectraltype>K0III</spectraltype>
-		<temperature errorminus="15" errorplus="15">4414</temperature>
 		<planet>
 			<name>BD+48 738 b</name>
 			<list>Confirmed planets</list>

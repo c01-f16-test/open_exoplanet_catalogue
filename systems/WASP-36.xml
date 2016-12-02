@@ -4,6 +4,7 @@
 	<declination>-08 01 37.01</declination>
 	<distance>450</distance>
 	<star>
+		<name>WASP-36</name>
 		<mass>1.02</mass>
 		<radius>0.943</radius>
 		<magV>12.7</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.028" errorplus="0.028">11.609</magJ>
 		<magH errorminus="0.027" errorplus="0.027">11.353</magH>
 		<magK errorminus="0.026" errorplus="0.026">11.294</magK>
+		<temperature>5881.0</temperature>
 		<metallicity>-0.31</metallicity>
 		<spectraltype>G2</spectraltype>
 		<planet>
@@ -24,14 +26,12 @@
 			<semimajoraxis>0.02624</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>83.65</inclination>
-			<transittime errorminus="0.000095" errorplus="0.000095" unit="BJD">2455569.83809</transittime>
+			<temperature>1554.5</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.000095" errorplus="0.000095" unit="BJD">2455569.83809</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>11/10/25</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1554.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-36</name>
-		<temperature>5881.0</temperature>
 	</star>
 </system>

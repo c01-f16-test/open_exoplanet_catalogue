@@ -4,6 +4,7 @@
 	<declination>-03 48 30</declination>
 	<distance>91</distance>
 	<star>
+		<name>HD 86081</name>
 		<mass>1.21</mass>
 		<radius>1.22</radius>
 		<magV>8.73</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">7.628</magJ>
 		<magH errorminus="0.040" errorplus="0.040">7.425</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.299</magK>
+		<temperature>6028.0</temperature>
 		<metallicity>0.257</metallicity>
 		<spectraltype>F8V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>2.1375</period>
 			<semimajoraxis>0.039</semimajoraxis>
 			<eccentricity>0.008</eccentricity>
+			<temperature>1486.6</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>1486.6</temperature>
 		</planet>
-		<name>HD 86081</name>
-		<temperature>6028.0</temperature>
 	</star>
 </system>

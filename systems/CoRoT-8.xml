@@ -4,6 +4,7 @@
 	<declination>+01 25 36</declination>
 	<distance>380</distance>
 	<star>
+		<name>CoRoT-8</name>
 		<mass>0.88</mass>
 		<radius>0.77</radius>
 		<magV>14.797</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">12.154</magJ>
 		<magH errorminus="0.024" errorplus="0.024">11.641</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.463</magK>
+		<temperature>5080.0</temperature>
 		<metallicity>0.3</metallicity>
 		<spectraltype>K1V</spectraltype>
 		<planet>
@@ -27,14 +29,12 @@
 			<semimajoraxis>0.063</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.4</inclination>
-			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
+			<temperature>783.1</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>783.1</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-8</name>
-		<temperature>5080.0</temperature>
 	</star>
 </system>

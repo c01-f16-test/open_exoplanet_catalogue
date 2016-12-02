@@ -8,13 +8,13 @@
 		<name>SAO 74893</name>
 		<name>2MASS J01434087+2100191</name>
 		<name>GSC 01211-00603</name>
-		<magB errorminus="0.07" errorplus="0.07">10.72</magB>
+		<mass errorminus="0.2" errorplus="0.2">0.8</mass>
+		<radius errorminus="0.9" errorplus="0.9">17.3</radius>
 		<magV errorminus="0.029" errorplus="0.029">9.367</magV>
+		<magB errorminus="0.07" errorplus="0.07">10.72</magB>
 		<magJ errorminus="0.019" errorplus="0.019">7.003</magJ>
 		<magH errorminus="0.020" errorplus="0.020">6.337</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.169</magK>
-		<mass errorminus="0.2" errorplus="0.2">0.8</mass>
-		<radius errorminus="0.9" errorplus="0.9">17.3</radius>
 		<temperature errorminus="10" errorplus="10">4296</temperature>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.46</metallicity>
 		<spectraltype>K5 III</spectraltype>

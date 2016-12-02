@@ -7,6 +7,7 @@
 	<binary>
 		<period>0.133333</period>
 		<star>
+			<name>NN Ser A</name>
 			<mass>0.535</mass>
 			<magV>16.6</magV>
 			<magB>16.0</magB>
@@ -15,18 +16,18 @@
 			<magK errorminus="0.29" errorplus="0.29">16.17</magK>
 			<temperature>57000</temperature>
 			<spectraltype>DAO1</spectraltype>
-			<name>NN Ser A</name>
 		</star>
 		<star>
+			<name>NN Ser B</name>
 			<mass>0.111</mass>
 			<spectraltype>M4</spectraltype>
-			<name>NN Ser B</name>
 		</star>
 		<planet>
 			<name>NN Ser (AB) c</name>
 			<name>NN Ser c</name>
 			<name>NN Serpentis (AB) c</name>
 			<list>Confirmed planets</list>
+			<list>Planets in binary systems, P-type</list>
 			<mass errorminus="0.12" errorplus="0.12">6.96</mass>
 			<period errorminus="9.86" errorplus="9.86">5654.6797</period>
 			<semimajoraxis errorminus="0.045" errorplus="0.045">5.389</semimajoraxis>
@@ -36,13 +37,13 @@
 			<discoverymethod>timing</discoverymethod>
 			<lastupdate>13/06/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
 		</planet>
 		<planet>
 			<name>NN Ser (AB) d</name>
 			<name>NN Ser d</name>
 			<name>NN Serpentis (AB) d</name>
 			<list>Confirmed planets</list>
+			<list>Planets in binary systems, P-type</list>
 			<mass errorminus="0.09" errorplus="0.09">1.74</mass>
 			<period errorminus="21.184" errorplus="21.184">2793.0</period>
 			<semimajoraxis errorminus="0.033" errorplus="0.033">3.358</semimajoraxis>
@@ -52,7 +53,6 @@
 			<discoverymethod>timing</discoverymethod>
 			<lastupdate>13/06/20</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
 		</planet>
 	</binary>
 </system>

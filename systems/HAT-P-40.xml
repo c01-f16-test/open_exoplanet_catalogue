@@ -4,6 +4,7 @@
 	<declination>+45 27 27</declination>
 	<distance>501</distance>
 	<star>
+		<name>HAT-P-40</name>
 		<mass>1.512</mass>
 		<radius>2.206</radius>
 		<magV errorminus="0.08" errorplus="0.08">11.34</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">10.367</magJ>
 		<magH errorminus="0.020" errorplus="0.020">10.085</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.009</magK>
+		<temperature>6080.0</temperature>
 		<metallicity>0.22</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
@@ -23,15 +25,13 @@
 			<semimajoraxis>0.0608</semimajoraxis>
 			<eccentricity>0.095</eccentricity>
 			<inclination>88.3</inclination>
+			<temperature>1614.8</temperature>
 			<description>HAT-P-40 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1614.8</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455813.17584</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
-		<name>HAT-P-40</name>
-		<temperature>6080.0</temperature>
 	</star>
 </system>

@@ -6,29 +6,29 @@
 	<star>
 		<name>WASP-135</name>
 		<name>1SWASPJ174908.40+295244.9</name>
+		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.96</radius>
 		<magV>13.28</magV>
 		<magB>14.25</magB>
 		<temperature errorminus="60" errorplus="60">5675</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">0.02</metallicity>
-		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
-		<radius errorminus="0.05" errorplus="0.05">0.96</radius>
-		<spectraltype>G5</spectraltype>
 		<age errorminus="0.35" errorplus="1.40">0.60</age>
+		<metallicity errorminus="0.13" errorplus="0.13">0.02</metallicity>
+		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>WASP-135 b</name>
-			<period errorminus="0.0000008" errorplus="0.0000008">1.4013794</period>
-			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455230.9902</transittime>
-			<inclination errorminus="0.6" errorplus="0.6">82.0</inclination>
-			<eccentricity>0</eccentricity>
+			<list>Confirmed planets</list>
 			<mass errorminus="0.08" errorplus="0.08">1.90</mass>
 			<radius errorminus="0.09" errorplus="0.09">1.30</radius>
+			<period errorminus="0.0000008" errorplus="0.0000008">1.4013794</period>
 			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0243</semimajoraxis>
-			<istransiting>1</istransiting>
-			<discoverymethod>transit</discoverymethod>
-			<discoveryyear>2015</discoveryyear>
+			<eccentricity>0</eccentricity>
+			<inclination errorminus="0.6" errorplus="0.6">82.0</inclination>
 			<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455230.9902</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>15/11/21</lastupdate>
-			<list>Confirmed planets</list>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

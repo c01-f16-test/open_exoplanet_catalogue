@@ -12,13 +12,13 @@
 		<name>PPM 8785</name>
 		<name>WDS J14568+7454A</name>
 		<name>2MASS J14564834+7454032</name>
-		<magB>7.817</magB>
+		<mass errorminus="0.1" errorplus="0.1">1.8</mass>
+		<radius errorminus="0.4" errorplus="0.4">9.9</radius>
 		<magV>6.843</magV>
+		<magB>7.817</magB>
 		<magJ errorminus="0.027" errorplus="0.027">5.069</magJ>
 		<magH errorminus="0.036" errorplus="0.036">4.749</magH>
 		<magK errorminus="0.020" errorplus="0.020">4.515</magK>
-		<mass errorminus="0.1" errorplus="0.1">1.8</mass>
-		<radius errorminus="0.4" errorplus="0.4">9.9</radius>
 		<temperature errorminus="7.5" errorplus="7.5">4847.4</temperature>
 		<metallicity errorminus="0.02" errorplus="0.02">-0.03</metallicity>
 		<spectraltype>K0</spectraltype>
@@ -34,9 +34,9 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.2" errorplus="0.2" type="msini">1.5</mass>
 			<period errorminus="4.5" errorplus="4.5">93.4</period>
-			<periastrontime errorminus="22.8" errorplus="22.8">2454108.5</periastrontime>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.49</semimajoraxis>
 			<eccentricity errorminus="0.18" errorplus="0.18">0.06</eccentricity>
+			<periastrontime errorminus="22.8" errorplus="22.8">2454108.5</periastrontime>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/30</lastupdate>

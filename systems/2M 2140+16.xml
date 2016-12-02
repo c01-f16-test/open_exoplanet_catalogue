@@ -5,8 +5,11 @@
 	<declination>+16 25 18</declination>
 	<distance>25</distance>
 	<star>
+		<name>2M 2140+16</name>
+		<name>2MASS J21402931+1625183</name>
 		<mass>0.08</mass>
 		<radius>0.1</radius>
+		<temperature>2300.0</temperature>
 		<spectraltype>M8.5/L2</spectraltype>
 		<planet>
 			<name>2M 2140+16 b</name>
@@ -22,8 +25,5 @@
 			<lastupdate>12/01/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>2M 2140+16</name>
-		<name>2MASS J21402931+1625183</name>
-		<temperature>2300.0</temperature>
 	</star>
 </system>

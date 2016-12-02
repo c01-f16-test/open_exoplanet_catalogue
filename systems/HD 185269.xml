@@ -18,19 +18,20 @@
 			<name>2MASS J19371174+2829597</name>
 			<mass errorminus="0.1" errorplus="0.1">1.28</mass>
 			<radius errorminus="0.1" errorplus="0.1">1.88</radius>
-			<magB>7.238</magB>
 			<magV>6.683</magV>
+			<magB>7.238</magB>
 			<magJ errorminus="0.027" errorplus="0.027">5.518</magJ>
 			<magH errorminus="0.069" errorplus="0.069">5.400</magH>
 			<magK errorminus="0.018" errorplus="0.018">5.260</magK>
 			<temperature errorminus="50" errorplus="50">5980</temperature>
+			<age>4.2</age>
 			<metallicity errorminus="0.05" errorplus="0.05">0.11</metallicity>
 			<spectraltype>G0IV</spectraltype>
-			<age>4.2</age>
 			<planet>
 				<name>HD 185269 b</name>
 				<name>HD 185269 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass type="msini">0.94</mass>
 				<period errorminus="0.001" errorplus="0.001">6.838</period>
 				<semimajoraxis>0.077</semimajoraxis>
@@ -40,7 +41,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2006</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<binary>

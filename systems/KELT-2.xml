@@ -13,8 +13,8 @@
 		<name>SAO 58830</name>
 		<name>COU 1102</name>
 		<separation unit="arcsec">2.29</separation>
-		<positionangle>328.6</positionangle>
 		<separation errorminus="10" errorplus="10" unit="AU">295</separation>
+		<positionangle>328.6</positionangle>
 		<star>
 			<name>KELT-2A</name>
 			<name>WDS J06107+3057 A</name>
@@ -26,12 +26,12 @@
 			<name>COU 1102 A</name>
 			<mass errorminus="0.060" errorplus="0.063">1.314</mass>
 			<radius errorminus="0.046" errorplus="0.066">1.836</radius>
-			<temperature errorminus="48" errorplus="48">6148</temperature>
 			<magV errorminus="0.02" errorplus="0.02">8.77</magV>
 			<magB errorminus="0.02" errorplus="0.02">9.33</magB>
 			<magJ errorminus="0.021" errorplus="0.021">7.669</magJ>
 			<magH errorminus="0.026" errorplus="0.026">7.417</magH>
 			<magK errorminus="0.031" errorplus="0.031">7.346</magK>
+			<temperature errorminus="48" errorplus="48">6148</temperature>
 			<metallicity errorminus="0.78" errorplus="0.78">-0.034</metallicity>
 			<spectraltype>F7V</spectraltype>
 			<planet>
@@ -44,19 +44,19 @@
 				<name>SAO 58830 A b</name>
 				<name>2MASS J06103935+3057258 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.088" errorplus="0.088">1.524</mass>
 				<radius errorminus="0.050" errorplus="0.064">1.290</radius>
 				<period errorminus="0.00001" errorplus="0.00001">4.1137913</period>
 				<semimajoraxis errorminus="0.00086" errorplus="0.00086">0.05504</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<transittime errorminus="0.00083" errorplus="0.00080" unit="BJD">2455974.60338</transittime>
+				<temperature errorminus="20" errorplus="28">1712</temperature>
 				<description>This planet is a typical Hot Jupiter. It is the first planet discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey. KELT-2A is the third brightest star with a transiting planet identified by ground-based transit surveys, and the ninth brightest star overall with a transiting planet. The planet might have been put on its orbit by the binary companion KELT-2B via the so-called eccentric Kozai mechanism.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.00083" errorplus="0.00080" unit="BJD">2455974.60338</transittime>
+				<istransiting>1</istransiting>
 				<lastupdate>15/09/20</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<temperature errorminus="20" errorplus="28">1712</temperature>
-				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
@@ -68,11 +68,11 @@
 			<name>BD+30 1138 B</name>
 			<name>SAO 58830 B</name>
 			<name>COU 1102 B</name>
-			<magV>12.0</magV>
-			<spectraltype>K2V</spectraltype>
-			<temperature errorminus="150" errorplus="150">485</temperature>
 			<mass>0.78</mass>
 			<radius>0.70</radius>
+			<magV>12.0</magV>
+			<temperature errorminus="150" errorplus="150">485</temperature>
+			<spectraltype>K2V</spectraltype>
 		</star>
 	</binary>
 </system>

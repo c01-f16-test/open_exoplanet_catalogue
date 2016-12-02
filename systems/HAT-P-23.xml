@@ -4,6 +4,7 @@
 	<declination>+16 45 44</declination>
 	<distance>393</distance>
 	<star>
+		<name>HAT-P-23</name>
 		<mass>1.13</mass>
 		<radius>1.203</radius>
 		<magV errorminus="0.020" errorplus="0.020">11.94</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.022" errorplus="0.022">11.103</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.846</magH>
 		<magK errorminus="0.020" errorplus="0.020">10.791</magK>
+		<temperature>5905.0</temperature>
 		<metallicity>0.15</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.0232</semimajoraxis>
 			<eccentricity>0.106</eccentricity>
 			<inclination>85.1</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2010</discoveryyear>
 			<temperature>1873.6</temperature>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2454852.26464</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>HAT-P-23</name>
-		<temperature>5905.0</temperature>
 	</star>
 </system>

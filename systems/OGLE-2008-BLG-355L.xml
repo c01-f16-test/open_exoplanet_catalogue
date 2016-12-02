@@ -4,6 +4,7 @@
 	<declination>-30 45 34</declination>
 	<distance errorminus="1100" errorplus="1100">6800</distance>
 	<star>
+		<name>OGLE-2008-BLG-355L</name>
 		<mass errorminus="0.17" errorplus="0.30">0.37</mass>
 		<planet>
 			<name>OGLE-2008-BLG-355L b</name>
@@ -14,6 +15,5 @@
 			<lastupdate>14/03/31</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
-		<name>OGLE-2008-BLG-355L</name>
 	</star>
 </system>

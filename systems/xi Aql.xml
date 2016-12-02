@@ -20,14 +20,14 @@
 		<name>2MASS J19541489+0827414</name>
 		<mass>2.2</mass>
 		<radius>12</radius>
-		<temperature errorminus="30" errorplus="30">4780</temperature>
-		<metallicity errorminus="0.039" errorplus="0.039">-0.205</metallicity>
-		<spectraltype>K0 III</spectraltype>
 		<magV>4.722</magV>
 		<magB>5.769</magB>
 		<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
 		<magH errorminus="0.174" errorplus="0.174">2.367</magH>
 		<magK errorminus="0.220" errorplus="0.220">2.171</magK>
+		<temperature errorminus="30" errorplus="30">4780</temperature>
+		<metallicity errorminus="0.039" errorplus="0.039">-0.205</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>xi Aql b</name>
 			<name>Xi Aquilae b</name>

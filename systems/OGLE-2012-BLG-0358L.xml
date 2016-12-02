@@ -12,10 +12,10 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.19" errorplus="0.19">1.85</mass>
 			<semimajoraxis errorminus="0.03" errorplus="0.03">0.87</semimajoraxis>
+			<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
 			<discoverymethod>microlensing</discoverymethod>
 			<lastupdate>13/07/25</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<description>OGLE-2012-BLG-0358L b is a planetary mass object which is orbiting a brown dwarf. The discovery of this system suggests that planets can form around brown dwarf hosts, probably in a protoplanetary disk analogous to those around main sequence stars.</description>
 		</planet>
 	</star>
 </system>

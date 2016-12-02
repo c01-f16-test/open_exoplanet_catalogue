@@ -4,6 +4,7 @@
 	<declination>+47 04 55</declination>
 	<distance>18.06</distance>
 	<star>
+		<name>HD 154345</name>
 		<mass>0.88</mass>
 		<magV>6.74</magV>
 		<magB>7.50</magB>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.041" errorplus="0.041">5.411</magJ>
 		<magH errorminus="0.020" errorplus="0.020">5.098</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.003</magK>
+		<temperature>5468.0</temperature>
 		<metallicity>-0.105</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<semimajoraxis>4.3</semimajoraxis>
 			<eccentricity>0.26</eccentricity>
 			<inclination>50</inclination>
+			<temperature>106.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>106.4</temperature>
 		</planet>
-		<name>HD 154345</name>
-		<temperature>5468.0</temperature>
 	</star>
 </system>

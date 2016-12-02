@@ -13,7 +13,6 @@
 		<name>2MASS J18103166+5417114</name>
 		<mass errorminus="0.12" errorplus="0.12">1.72</mass>
 		<radius errorminus="0.07" errorplus="0.07">4.30</radius>
-		<temperature>5020.0</temperature>
 		<magV>5.97</magV>
 		<magB>6.89</magB>
 		<magR>5.4</magR>
@@ -21,6 +20,7 @@
 		<magJ errorminus="0.230" errorplus="0.230">3.933</magJ>
 		<magH errorminus="0.198" errorplus="0.198">3.557</magH>
 		<magK errorminus="0.238" errorplus="0.238">3.550</magK>
+		<temperature>5020.0</temperature>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K1 IV</spectraltype>
 		<planet>

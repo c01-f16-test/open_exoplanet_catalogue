@@ -4,6 +4,7 @@
 	<declination>-00 01 54</declination>
 	<distance>870</distance>
 	<star>
+		<name>CoRoT-18</name>
 		<mass>0.95</mass>
 		<radius>1</radius>
 		<magV errorminus="0.1" errorplus="0.1">15.00</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">13.441</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.08</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.01</magK>
+		<temperature>5440.0</temperature>
 		<metallicity>-0.1</metallicity>
 		<spectraltype>G9V</spectraltype>
 		<planet>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.0295</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
 			<inclination>86.5</inclination>
-			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455321.72490</transittime>
+			<temperature>1396.0</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455321.72490</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/04/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1396.0</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-18</name>
-		<temperature>5440.0</temperature>
 	</star>
 </system>

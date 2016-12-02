@@ -9,8 +9,8 @@
 		<name>TYC 1422-790-1</name>
 		<name>2MASS J10164485+1953290</name>
 		<mass errorminus="1.5" errorplus="1.5">2.8</mass>
-		<magB errorminus="0.08" errorplus="0.08">10.99</magB>
 		<magV errorminus="0.03" errorplus="0.03">9.74</magV>
+		<magB errorminus="0.08" errorplus="0.08">10.99</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.299</magJ>
 		<magH errorminus="0.021" errorplus="0.021">6.606</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.420</magK>

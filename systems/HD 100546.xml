@@ -4,27 +4,27 @@
 	<declination>-70 11 41</declination>
 	<distance errorminus="4" errorplus="4">97</distance>
 	<star>
-		<magB errorminus="0.01" errorplus="0.01">6.71</magB>
+		<name>HD 100546</name>
+		<mass errorminus="0.1" errorplus="0.1">2.4</mass>
 		<magV errorminus="0.01" errorplus="0.01">6.70</magV>
+		<magB errorminus="0.01" errorplus="0.01">6.71</magB>
 		<magR>6.7</magR>
 		<magI errorminus="0.05" errorplus="0.05">6.64</magI>
 		<magJ errorminus="0.020" errorplus="0.020">6.425</magJ>
 		<magH errorminus="0.03" errorplus="0.03">5.96</magH>
 		<magK errorminus="0.06" errorplus="0.06">5.83</magK>
-		<name>HD 100546</name>
-		<mass errorminus="0.1" errorplus="0.1">2.4</mass>
 		<temperature>10500</temperature>
-		<spectraltype>B9Vne</spectraltype>
 		<age>0.005</age>
+		<spectraltype>B9Vne</spectraltype>
 		<planet>
 			<name>HD 100546 b</name>
 			<list>Confirmed planets</list>
-			<semimajoraxis errorminus="2" errorplus="2">53</semimajoraxis>
 			<mass>17.5</mass>
+			<radius errorminus="2.6" errorplus="2.5">6</radius>
 			<magK errorminus="0.11" errorplus="0.11">13.59</magK>
 			<age errorminus="0.0045" errorplus="0.0045">0.0055</age>
+			<semimajoraxis errorminus="2" errorplus="2">53</semimajoraxis>
 			<temperature errorminus="253" errorplus="227">1028</temperature>
-			<radius errorminus="2.6" errorplus="2.5">6</radius>
 			<description>HD 100546 is a Herbig Ae/Be star. High contrast observations of the circumstellar disk reveal an emmision source at a distance of 68 astronomical units. The most likely explanation is a planet in the process of forming. HD 100546b has, as of the 2nd November, 2014, been confirmed to be a planet. HD 100546b is a unique laboratory to study the formation process of a new planetary system, with one giant planet currently forming in the disk and a second planet possibly oribitin in the disk gap at a smaller separation.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>14/12/26</lastupdate>

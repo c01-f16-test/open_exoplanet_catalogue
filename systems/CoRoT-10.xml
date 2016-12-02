@@ -4,6 +4,7 @@
 	<declination>+00 44 46</declination>
 	<distance>345</distance>
 	<star>
+		<name>CoRoT-10</name>
 		<mass>0.89</mass>
 		<radius>0.79</radius>
 		<magV>15.216</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.025" errorplus="0.025">12.567</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.929</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.782</magK>
+		<temperature>5075.0</temperature>
 		<metallicity>0.26</metallicity>
 		<spectraltype>K1V</spectraltype>
 		<planet>
@@ -27,14 +29,12 @@
 			<semimajoraxis>0.1055</semimajoraxis>
 			<eccentricity>0.53</eccentricity>
 			<inclination>88.55</inclination>
-			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
+			<temperature>600.8</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>600.8</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-10</name>
-		<temperature>5075.0</temperature>
 	</star>
 </system>

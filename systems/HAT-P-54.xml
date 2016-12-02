@@ -9,8 +9,8 @@
 		<name>2MASS 06393552+2528571</name>
 		<mass errorminus="0.020" errorplus="0.020">0.645</mass>
 		<radius errorminus="0.013" errorplus="0.013">0.617</radius>
-		<temperature errorminus="50" errorplus="50">4390</temperature>
 		<magV errorminus="0.06" errorplus="0.06">13.505</magV>
+		<temperature errorminus="50" errorplus="50">4390</temperature>
 		<age errorminus="2.1" errorplus="4.3">3.9</age>
 		<metallicity errorminus="0.08" errorplus="0.08">-0.127</metallicity>
 		<planet>
@@ -20,16 +20,15 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.032" errorplus="0.032">0.760</mass>
 			<radius errorminus="0.028" errorplus="0.028">0.944</radius>
-			<temperature errorminus="12" errorplus="12">818</temperature>
 			<semimajoraxis errorminus="0.00043" errorplus="0.00043">0.04117</semimajoraxis>
-			<eccentricity upperlimit="0.074" />
 			<inclination errorminus="0.084" errorplus="0.084">87.040</inclination>
-			<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2456299.30370</transittime>
+			<temperature errorminus="12" errorplus="12">818</temperature>
 			<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA K2 mission. Follow-up high-precision photometric observations by the Kepler spacecraft could make this a well-studied planetary system.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2456299.30370</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>14/04/18</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>1</istransiting>
 		</planet>
 	</star>
 </system>

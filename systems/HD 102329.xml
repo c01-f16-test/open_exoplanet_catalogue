@@ -4,6 +4,7 @@
 	<declination>+03 28 27</declination>
 	<distance>158</distance>
 	<star>
+		<name>HD 102329</name>
 		<mass>1.95</mass>
 		<radius>6.3</radius>
 		<magV>8.04</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">6.049</magJ>
 		<magH errorminus="0.027" errorplus="0.027">5.526</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.402</magK>
+		<temperature>4830.0</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.3</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
@@ -20,13 +22,11 @@
 			<period>778.1</period>
 			<semimajoraxis>2.01</semimajoraxis>
 			<eccentricity>0.211</eccentricity>
+			<temperature>376.0</temperature>
 			<description>The star HD 102329 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>376.0</temperature>
 		</planet>
-		<name>HD 102329</name>
-		<temperature>4830.0</temperature>
 	</star>
 </system>

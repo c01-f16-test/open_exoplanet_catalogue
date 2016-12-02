@@ -17,9 +17,9 @@
 		<magH errorminus="0.033" errorplus="0.033">7.027</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.914</magK>
 		<temperature errorminus="93" errorplus="93">4714</temperature>
+		<age errorminus="4" errorplus="4">4.3</age>
 		<metallicity errorminus="0.06" errorplus="0.06">-0.03</metallicity>
 		<spectraltype>K5V</spectraltype>
-		<age errorminus="4" errorplus="4">4.3</age>
 		<planet>
 			<name>BD-17 63 b</name>
 			<list>Confirmed planets</list>

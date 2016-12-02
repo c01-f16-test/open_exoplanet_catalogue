@@ -14,6 +14,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">10.608</magJ>
 		<magH errorminus="0.022" errorplus="0.022">20.214</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.129</magK>
+		<temperature>5200.0</temperature>
 		<metallicity>-0.07</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
@@ -27,14 +28,13 @@
 			<semimajoraxis>0.0517</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.8</inclination>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455824.3750</transittime>
+			<temperature>940.6</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455824.3750</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/04/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>940.6</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<temperature>5200.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>+30 57 33</declination>
 	<distance>25.92</distance>
 	<star>
+		<name>HIP 57274</name>
 		<mass>0.73</mass>
 		<radius>0.68</radius>
 		<magV>8.96</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.958</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.408</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.286</magK>
+		<temperature>4640.0</temperature>
 		<metallicity>0.09</metallicity>
 		<spectraltype>K5V</spectraltype>
 		<planet>
@@ -22,11 +24,11 @@
 			<period>8.1352</period>
 			<semimajoraxis>0.07</semimajoraxis>
 			<eccentricity>0.187</eccentricity>
+			<temperature>636.3</temperature>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>636.3</temperature>
 		</planet>
 		<planet>
 			<name>HIP 57274 c</name>
@@ -35,11 +37,11 @@
 			<period>32.03</period>
 			<semimajoraxis>0.178</semimajoraxis>
 			<eccentricity>0.05</eccentricity>
+			<temperature>399.8</temperature>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>399.8</temperature>
 		</planet>
 		<planet>
 			<name>HIP 57274 d</name>
@@ -48,13 +50,11 @@
 			<period>431.7</period>
 			<semimajoraxis>1.01</semimajoraxis>
 			<eccentricity>0.27</eccentricity>
+			<temperature>167.1</temperature>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>167.1</temperature>
 		</planet>
-		<name>HIP 57274</name>
-		<temperature>4640.0</temperature>
 	</star>
 </system>

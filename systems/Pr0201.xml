@@ -4,13 +4,14 @@
 	<declination>+20 13 36</declination>
 	<distance>177</distance>
 	<star>
-		<magB>11.1</magB>
+		<name>Pr0201</name>
+		<mass>1.234</mass>
+		<radius>1.167</radius>
 		<magV>10.33</magV>
+		<magB>11.1</magB>
 		<magJ errorminus="0.023" errorplus="0.023">9.463</magJ>
 		<magH errorminus="0.020" errorplus="0.020">9.227</magH>
 		<magK errorminus="0.018" errorplus="0.018">9.142</magK>
-		<mass>1.234</mass>
-		<radius>1.167</radius>
 		<temperature>6174</temperature>
 		<metallicity>0.187</metallicity>
 		<spectraltype>F7.5</spectraltype>
@@ -32,6 +33,5 @@
 
 Image credit: NASA/JPL-Caltech</imagedescription>
 		</planet>
-		<name>Pr0201</name>
 	</star>
 </system>

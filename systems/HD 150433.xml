@@ -4,6 +4,7 @@
 	<declination>-02 51 26</declination>
 	<distance>29.6</distance>
 	<star>
+		<name>HD 150433</name>
 		<magV>7.22</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.861</magB>
 		<magR>6.80</magR>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.014</magJ>
 		<magH errorminus="0.046" errorplus="0.046">5.715</magH>
 		<magK errorminus="0.023" errorplus="0.023">5.610</magK>
+		<temperature>5940.0</temperature>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 150433 b</name>
@@ -19,13 +21,11 @@
 			<period>1096.2</period>
 			<semimajoraxis>1.9303</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>182.8</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>182.8</temperature>
 		</planet>
-		<name>HD 150433</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

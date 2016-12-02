@@ -7,15 +7,15 @@
 		<name>HD 41248</name>
 		<mass errorminus="0.05" errorplus="0.05">0.92</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<temperature errorminus="50" errorplus="50">5713</temperature>
 		<magV>8.82</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.42</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.606</magJ>
 		<magH errorminus="0.024" errorplus="0.024">7.284</magH>
 		<magK errorminus="0.027" errorplus="0.027">7.277</magK>
+		<temperature errorminus="50" errorplus="50">5713</temperature>
+		<age errorminus="2" errorplus="3">2</age>
 		<metallicity errorminus="0.1" errorplus="0.1">-0.43</metallicity>
 		<spectraltype>G2V</spectraltype>
-		<age errorminus="2" errorplus="3">2</age>
 		<planet>
 			<name>HD 41248 b</name>
 			<list>Controversial</list>
@@ -34,7 +34,6 @@
 			<mass errorminus="0.01572850" errorplus="0.02044705">0.02705302</mass>
 			<period errorminus="0.130" errorplus="0.120">25.648</period>
 			<semimajoraxis errorminus="0.014" errorplus="0.020">0.172</semimajoraxis>
-			<eccentricity upperlimit="0.18" />
 			<description>The planetary system HD 41248 consists of at least two planets. Both planets are most likely Super-Earths. Their period ratio is close to the integer ratio 7:5, a second order commensurability.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/04/30</lastupdate>

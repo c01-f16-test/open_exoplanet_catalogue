@@ -4,6 +4,7 @@
 	<declination>-13 23 59</declination>
 	<distance>59.3</distance>
 	<star>
+		<name>HD 148427</name>
 		<mass>1.45</mass>
 		<radius>3.22</radius>
 		<magV>6.89</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">5.299</magJ>
 		<magH errorminus="0.065" errorplus="0.065">4.875</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.682</magK>
+		<temperature>5052.0</temperature>
 		<metallicity>0.154</metallicity>
 		<spectraltype>K0IV</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>331.5</period>
 			<semimajoraxis>0.93</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
+			<temperature>413.8</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/08/13</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>413.8</temperature>
 		</planet>
-		<name>HD 148427</name>
-		<temperature>5052.0</temperature>
 	</star>
 </system>

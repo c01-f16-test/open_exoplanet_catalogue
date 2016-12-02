@@ -4,6 +4,7 @@
 	<declination>+01 43 45</declination>
 	<distance>139</distance>
 	<star>
+		<name>HD 95089</name>
 		<mass>1.58</mass>
 		<radius>4.9</radius>
 		<magV>7.92</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">6.240</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.775</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.626</magK>
+		<temperature>5002.0</temperature>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K0 IV</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>507</period>
 			<semimajoraxis>1.51</semimajoraxis>
 			<eccentricity>0.157</eccentricity>
+			<temperature>396.7</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/03/19</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>396.7</temperature>
 		</planet>
-		<name>HD 95089</name>
-		<temperature>5002.0</temperature>
 	</star>
 </system>

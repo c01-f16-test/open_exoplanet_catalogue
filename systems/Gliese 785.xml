@@ -4,6 +4,7 @@
 	<declination>-27 01 58</declination>
 	<distance>8.82</distance>
 	<star>
+		<name>Gliese 785</name>
 		<mass>0.80</mass>
 		<magV>5.73</magV>
 		<magB errorminus="0.01" errorplus="0.01">6.63</magB>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.294" errorplus="0.294">4.112</magJ>
 		<magH errorminus="0.266" errorplus="0.266">3.582</magH>
 		<magK errorminus="0.232" errorplus="0.232">3.501</magK>
+		<temperature>5166.0</temperature>
 		<metallicity>-0.04</metallicity>
 		<spectraltype>K3V</spectraltype>
 		<planet>
@@ -34,11 +36,11 @@
 			<period>74.72</period>
 			<semimajoraxis>0.32</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
+			<temperature>331.7</temperature>
 			<description>The planetary system around the star HD 192310 consists of two Neptune-mass planets and is located in the constellation of Capricornus.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/08/18</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>331.7</temperature>
 		</planet>
 		<planet>
 			<name>Gliese 785 c</name>
@@ -60,13 +62,11 @@
 			<period>525.8</period>
 			<semimajoraxis>1.18</semimajoraxis>
 			<eccentricity>0.32</eccentricity>
+			<temperature>171.8</temperature>
 			<description>The planetary system around the star HD 192310 consists of two Neptune-mass planets and is located in the constellation of Capricornus. The outer planet Gliese 785 c is at the outer edge of the habitable zone.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/08/18</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>171.8</temperature>
 		</planet>
-		<name>Gliese 785</name>
-		<temperature>5166.0</temperature>
 	</star>
 </system>

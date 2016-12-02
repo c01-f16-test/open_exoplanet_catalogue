@@ -13,16 +13,16 @@
 			<name>HIP 1291 A</name>
 			<mass>0.9</mass>
 			<radius>0.9</radius>
-			<age>0.8</age>
 			<magV>6.59</magV>
 			<magB>7.335</magB>
 			<magR>6.6</magR>
 			<magJ>5.366</magJ>
 			<magH>4.990</magH>
 			<magK errorminus="0.023" errorplus="0.023">4.859</magK>
+			<temperature errorminus="75" errorplus="75">5540</temperature>
+			<age>0.8</age>
 			<metallicity errorminus="0.08" errorplus="0.08">0.10</metallicity>
 			<spectraltype>G6 V</spectraltype>
-			<temperature errorminus="75" errorplus="75">5540</temperature>
 			<planet>
 				<name>Gliese 3021 A b</name>
 				<name>GJ 3021 A b</name>

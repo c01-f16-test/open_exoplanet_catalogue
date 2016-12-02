@@ -4,6 +4,7 @@
 	<declination>-02 15 54</declination>
 	<distance>20.4</distance>
 	<star>
+		<name>HD 114783</name>
 		<mass>0.92</mass>
 		<radius>0.78</radius>
 		<magV>7.57</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.025</magJ>
 		<magH errorminus="0.05" errorplus="0.05">5.62</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.475</magK>
+		<temperature>5105.0</temperature>
 		<metallicity>0.33</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
@@ -23,12 +25,10 @@
 			<semimajoraxis>1.2</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<inclination>10</inclination>
+			<temperature>181.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/01/11</lastupdate>
 			<discoveryyear>2001</discoveryyear>
-			<temperature>181.4</temperature>
 		</planet>
-		<name>HD 114783</name>
-		<temperature>5105.0</temperature>
 	</star>
 </system>

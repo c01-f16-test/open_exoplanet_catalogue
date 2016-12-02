@@ -4,6 +4,7 @@
 	<declination>-23 14 31</declination>
 	<distance>38.6</distance>
 	<star>
+		<name>HD 31527</name>
 		<magV>7.48</magV>
 		<magB errorminus="0.016" errorplus="0.016">8.071</magB>
 		<magR errorminus="0.18" errorplus="0.18">7.24</magR>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">6.373</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.048</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.049</magK>
+		<temperature>5940.0</temperature>
 		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 31527 b</name>
@@ -19,11 +21,11 @@
 			<period>16.546</period>
 			<semimajoraxis>0.1253</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
+			<temperature>770.9</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>770.9</temperature>
 		</planet>
 		<planet>
 			<name>HD 31527 c</name>
@@ -32,11 +34,11 @@
 			<period>51.284</period>
 			<semimajoraxis>0.2665</semimajoraxis>
 			<eccentricity>0.11</eccentricity>
+			<temperature>528.8</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>528.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 31527 d</name>
@@ -45,13 +47,11 @@
 			<period>274.49</period>
 			<semimajoraxis>0.8181</semimajoraxis>
 			<eccentricity>0.38</eccentricity>
+			<temperature>299.2</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>299.2</temperature>
 		</planet>
-		<name>HD 31527</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

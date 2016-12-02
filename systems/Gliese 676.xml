@@ -10,19 +10,20 @@
 		<star>
 			<name>Gliese 676 A</name>
 			<mass errorminus="0.04" errorplus="0.04">0.71</mass>
-			<metallicity>0.23</metallicity>
-			<magB>11.028</magB>
 			<magV>9.585</magV>
+			<magB>11.028</magB>
 			<magR>8.675</magR>
 			<magI>8.60</magI>
 			<magJ>6.711</magJ>
 			<magH>6.082</magH>
 			<magK>5.825</magK>
+			<metallicity>0.23</metallicity>
 			<spectraltype>M0V</spectraltype>
 			<planet>
 				<name>Gliese 676 A d</name>
 				<name>GJ 676 A d</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.002" errorplus="0.002">0.014</mass>
 				<period errorminus="0.0008" errorplus="0.0008">3.6000</period>
 				<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0413</semimajoraxis>
@@ -31,12 +32,12 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/05</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Gliese 676 A e</name>
 				<name>GJ 676 A e</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.005" errorplus="0.005">0.036</mass>
 				<period errorminus="0.07" errorplus="0.07">35.37</period>
 				<semimajoraxis errorminus="0.007" errorplus="0.007">0.187</semimajoraxis>
@@ -45,12 +46,12 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/05</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Gliese 676 A b</name>
 				<name>GJ 676 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.31" errorplus="0.31">4.95</mass>
 				<period errorminus="1.2" errorplus="1.2">1050.3</period>
 				<semimajoraxis errorminus="0.07" errorplus="0.07">1.80</semimajoraxis>
@@ -59,12 +60,12 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/05</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Gliese 676 A c</name>
 				<name>GJ 676 A c</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>3.0</mass>
 				<period>4400</period>
 				<semimajoraxis>5.2</semimajoraxis>
@@ -72,7 +73,6 @@
 				<description>This companion is inferred from a curvature in the radial velocity residuals. Its nature is currently unclear.</description>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

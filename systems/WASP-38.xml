@@ -4,6 +4,7 @@
 	<declination>+10 01 57</declination>
 	<distance>110</distance>
 	<star>
+		<name>WASP-38</name>
 		<mass>1.23</mass>
 		<radius>1.35</radius>
 		<magV>9.42</magV>
@@ -12,9 +13,10 @@
 		<magJ errorminus="0.023" errorplus="0.023">8.287</magJ>
 		<magH errorminus="0.047" errorplus="0.047">8.106</magH>
 		<magK errorminus="0.040" errorplus="0.040">7.998</magK>
+		<temperature>6150.0</temperature>
+		<age>3.41</age>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>F8</spectraltype>
-		<age>3.41</age>
 		<planet>
 			<name>WASP-38 b</name>
 			<name>HD 146389 b</name>
@@ -27,17 +29,15 @@
 			<period>6.87188</period>
 			<semimajoraxis>0.0758</semimajoraxis>
 			<eccentricity>0.028</eccentricity>
-			<inclination>89.5</inclination>
+			<spinorbitalignment>7.5</spinorbitalignment>
 			<periastron>-22.2</periastron>
-			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
+			<inclination>89.5</inclination>
+			<temperature>1152.9</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>13/03/30</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<spinorbitalignment>7.5</spinorbitalignment>
-			<temperature>1152.9</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-38</name>
-		<temperature>6150.0</temperature>
 	</star>
 </system>

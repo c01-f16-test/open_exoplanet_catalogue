@@ -4,6 +4,7 @@
 	<declination>+18 38 45</declination>
 	<distance>81.1</distance>
 	<star>
+		<name>HD 219828</name>
 		<mass>1.24</mass>
 		<radius>1.7</radius>
 		<magV>8.04</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.871</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.614</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
+		<temperature>5891.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G0IV</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>3.8335</period>
 			<semimajoraxis>0.052</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>1485.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/21</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1485.2</temperature>
 		</planet>
-		<name>HD 219828</name>
-		<temperature>5891.0</temperature>
 	</star>
 </system>

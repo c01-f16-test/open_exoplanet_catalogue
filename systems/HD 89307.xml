@@ -4,6 +4,7 @@
 	<declination>+12 37 15</declination>
 	<distance>30.9</distance>
 	<star>
+		<name>HD 89307</name>
 		<mass>1.028</mass>
 		<radius>1.05</radius>
 		<magV>7.06</magV>
@@ -13,6 +14,7 @@
 		<magJ>5.89</magJ>
 		<magH>5.64</magH>
 		<magK>5.56</magK>
+		<temperature>5950.0</temperature>
 		<metallicity>-0.14</metallicity>
 		<spectraltype>G0V</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<period>2199</period>
 			<semimajoraxis>3.34</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
+			<temperature>146.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/05/25</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-			<temperature>146.5</temperature>
 		</planet>
-		<name>HD 89307</name>
-		<temperature>5950.0</temperature>
 	</star>
 </system>

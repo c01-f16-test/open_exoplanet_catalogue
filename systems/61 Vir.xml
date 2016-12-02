@@ -22,9 +22,9 @@
 		<magJ errorminus="0.200" errorplus="0.200">3.334</magJ>
 		<magH errorminus="0.176" errorplus="0.176">2.974</magH>
 		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
-		<metallicity>0.05</metallicity>
 		<temperature>5571</temperature>
 		<age errorminus="3.1" errorplus="3.3">6.3</age>
+		<metallicity>0.05</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
 			<name>61 Vir b</name>
@@ -33,8 +33,8 @@
 			<period errorminus="0.0006" errorplus="0.0006">4.2150</period>
 			<semimajoraxis errorminus="0.000005" errorplus="0.000005">0.050201</semimajoraxis>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.12</eccentricity>
-			<meananomaly errorminus="53" errorplus="53">166</meananomaly>
 			<periastron errorminus="54" errorplus="54">105</periastron>
+			<meananomaly errorminus="53" errorplus="53">166</meananomaly>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
@@ -47,8 +47,8 @@
 			<period errorminus="0.034" errorplus="0.034">38.021</period>
 			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.2175</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.14</eccentricity>
-			<meananomaly errorminus="40" errorplus="40">177</meananomaly>
 			<periastron errorminus="38" errorplus="38">341</periastron>
+			<meananomaly errorminus="40" errorplus="40">177</meananomaly>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
@@ -61,8 +61,8 @@
 			<period errorminus="0.55" errorplus="0.55">123.01</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.476</semimajoraxis>
 			<eccentricity errorminus="0.09" errorplus="0.09">0.35</eccentricity>
-			<meananomaly errorminus="25" errorplus="25">56</meananomaly>
 			<periastron errorminus="20" errorplus="20">314</periastron>
+			<meananomaly errorminus="25" errorplus="25">56</meananomaly>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>

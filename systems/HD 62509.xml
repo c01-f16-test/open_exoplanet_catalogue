@@ -8,13 +8,13 @@
 		<name>Pollux</name>
 		<name>Beta Geminorum</name>
 		<name>Beta Gem</name>
-		<temperature>4666.0</temperature>
 		<mass>1.47</mass>
 		<radius>9.3</radius>
 		<magV>1.15</magV>
 		<magB>2.15</magB>
 		<magR>0.6</magR>
 		<magI>0.2</magI>
+		<temperature>4666.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>K0IIIb</spectraltype>
 		<planet>
@@ -27,10 +27,10 @@
 			<period>589.64</period>
 			<semimajoraxis>1.69</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
+			<temperature>482.6</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/07/11</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>482.6</temperature>
 		</planet>
 	</star>
 </system>

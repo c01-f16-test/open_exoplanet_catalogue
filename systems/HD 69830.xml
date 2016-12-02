@@ -4,6 +4,7 @@
 	<declination>-12 37 55</declination>
 	<distance>12.6</distance>
 	<star>
+		<name>HD 69830</name>
 		<mass>0.86</mass>
 		<radius>0.895</radius>
 		<magV>5.95</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.268" errorplus="0.268">4.953</magJ>
 		<magH errorminus="0.224" errorplus="0.224">4.364</magH>
 		<magK errorminus="0.036" errorplus="0.036">4.165</magK>
+		<temperature>5385.0</temperature>
 		<metallicity>-0.05</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
@@ -21,10 +23,10 @@
 			<semimajoraxis>0.0785</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<inclination>13</inclination>
+			<temperature>801.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/01/31</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>801.2</temperature>
 		</planet>
 		<planet>
 			<name>HD 69830 c</name>
@@ -34,10 +36,10 @@
 			<semimajoraxis>0.186</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
 			<inclination>13</inclination>
+			<temperature>520.3</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/10/19</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>520.3</temperature>
 		</planet>
 		<planet>
 			<name>HD 69830 d</name>
@@ -47,12 +49,10 @@
 			<semimajoraxis>0.63</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
 			<inclination>13</inclination>
+			<temperature>282.9</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/10/19</lastupdate>
 			<discoveryyear>2006</discoveryyear>
-			<temperature>282.9</temperature>
 		</planet>
-		<name>HD 69830</name>
-		<temperature>5385.0</temperature>
 	</star>
 </system>

@@ -4,10 +4,12 @@
 	<declination>-37 45 49</declination>
 	<distance>45</distance>
 	<star>
+		<name>HD 208487</name>
 		<mass>1.3</mass>
 		<radius>1.15</radius>
 		<magV>7.48</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.02</magB>
+		<temperature>5929.0</temperature>
 		<metallicity>-0.06</metallicity>
 		<spectraltype>G2V</spectraltype>
 		<planet>
@@ -17,12 +19,10 @@
 			<period>129.8</period>
 			<semimajoraxis>0.51</semimajoraxis>
 			<eccentricity>0.21</eccentricity>
+			<temperature>391.5</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/24</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-			<temperature>391.5</temperature>
 		</planet>
-		<name>HD 208487</name>
-		<temperature>5929.0</temperature>
 	</star>
 </system>

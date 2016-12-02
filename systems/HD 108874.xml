@@ -4,6 +4,7 @@
 	<declination>+22 52 47</declination>
 	<distance>68.5</distance>
 	<star>
+		<name>HD 108874</name>
 		<mass>1</mass>
 		<radius>1.22</radius>
 		<magV>8.76</magV>
@@ -13,6 +14,7 @@
 		<magJ>7.48</magJ>
 		<magH>7.11</magH>
 		<magK>7.06</magK>
+		<temperature>5407.0</temperature>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
@@ -22,10 +24,10 @@
 			<period>395.4</period>
 			<semimajoraxis>1.051</semimajoraxis>
 			<eccentricity>0.07</eccentricity>
+			<temperature>256.8</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2003</discoveryyear>
-			<temperature>256.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 108874 c</name>
@@ -34,12 +36,10 @@
 			<period>1605.8</period>
 			<semimajoraxis>2.68</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
+			<temperature>160.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<temperature>160.2</temperature>
 		</planet>
-		<name>HD 108874</name>
-		<temperature>5407.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>-05 32 10</declination>
 	<distance>1340</distance>
 	<star>
+		<name>CoRoT-14</name>
 		<mass>1.13</mass>
 		<radius>1.21</radius>
 		<magV errorminus="0.070" errorplus="0.070">16.03</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.04" errorplus="0.04">14.32</magJ>
 		<magH errorminus="0.05" errorplus="0.05">14.01</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.81</magK>
+		<temperature>6035.0</temperature>
 		<metallicity>0.05</metallicity>
 		<spectraltype>F9V</spectraltype>
 		<planet>
@@ -27,14 +29,12 @@
 			<semimajoraxis>0.027</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>79.6</inclination>
-			<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2454787.6702</transittime>
+			<temperature>1781.4</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2454787.6702</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1781.4</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-14</name>
-		<temperature>6035.0</temperature>
 	</star>
 </system>

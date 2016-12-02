@@ -4,6 +4,7 @@
 	<declination>+18 14 07</declination>
 	<distance>110</distance>
 	<star>
+		<name>HD 131496</name>
 		<mass>1.61</mass>
 		<radius>4.3</radius>
 		<magV>7.96</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.032</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.546</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.437</magK>
+		<temperature>4927.0</temperature>
 		<metallicity>0.25</metallicity>
 		<spectraltype>K2</spectraltype>
 		<planet>
@@ -20,13 +22,11 @@
 			<period>883</period>
 			<semimajoraxis>2.09</semimajoraxis>
 			<eccentricity>0.163</eccentricity>
+			<temperature>321.8</temperature>
 			<description>The star HD 131496 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>321.8</temperature>
 		</planet>
-		<name>HD 131496</name>
-		<temperature>4927.0</temperature>
 	</star>
 </system>

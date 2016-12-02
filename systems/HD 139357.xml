@@ -19,9 +19,9 @@
 		<magH errorminus="0.216" errorplus="0.216">3.593</magH>
 		<magK errorminus="0.324" errorplus="0.324">3.406</magK>
 		<temperature errorminus="70" errorplus="70">4700</temperature>
+		<age errorminus="1.47" errorplus="1.47">3.07</age>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.13</metallicity>
 		<spectraltype>K4III</spectraltype>
-		<age errorminus="1.47" errorplus="1.47">3.07</age>
 		<planet>
 			<name>HD 139357 b</name>
 			<list>Confirmed planets</list>

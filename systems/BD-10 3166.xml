@@ -11,16 +11,15 @@
 		<mass>0.85</mass>
 		<radius errorminus="0.03" errorplus="0.05">0.81</radius>
 		<magV errorminus="0.04" errorplus="0.04">10.01</magV>
-		<magI>9.19</magI>
 		<magB errorminus="0.07" errorplus="0.07">10.88</magB>
 		<magR>9.85</magR>
+		<magI>9.19</magI>
 		<magJ errorminus="0.03" errorplus="0.03">8.61</magJ>
 		<magH errorminus="0.04" errorplus="0.04">8.30</magH>
 		<magK errorminus="0.026" errorplus="0.026">8.124</magK>
 		<temperature errorminus="44" errorplus="44">5393</temperature>
 		<metallicity errorminus="0.030" errorplus="0.030">0.382</metallicity>
 		<spectraltype>K3.0 V</spectraltype>
-		<age upperlimit="1.84" />
 		<planet>
 			<name>BD-10 3166 b</name>
 			<list>Confirmed planets</list>

@@ -21,9 +21,9 @@
 		<magH errorminus="0.076" errorplus="0.076">4.486</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.285</magK>
 		<temperature errorminus="44" errorplus="44">5098</temperature>
+		<age errorminus="0.4" errorplus="0.4">2.7</age>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
 		<spectraltype>G5</spectraltype>
-		<age errorminus="0.4" errorplus="0.4">2.7</age>
 		<planet>
 			<name>24 Sex b</name>
 			<name>24 Sextantis b</name>

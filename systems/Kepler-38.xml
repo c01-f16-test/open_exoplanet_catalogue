@@ -13,19 +13,19 @@
 		<semimajoraxis>0.1460</semimajoraxis>
 		<eccentricity>0.1032</eccentricity>
 		<star>
-			<mass>0.949</mass>
-			<radius>1.757</radius>
 			<name>Kepler-38 A</name>
 			<name>KOI-1740 A</name>
 			<name>KIC 6762829 A</name>
+			<mass>0.949</mass>
+			<radius>1.757</radius>
 		</star>
 		<star>
-			<mass>0.249</mass>
-			<radius>0.2724</radius>
 			<name>Kepler-38 B</name>
 			<name>KOI-1740 B</name>
 			<name>KOI-1740.01</name>
 			<name>KIC 6762829 B</name>
+			<mass>0.249</mass>
+			<radius>0.2724</radius>
 		</star>
 		<planet>
 			<name>Kepler-38 (AB) b</name>
@@ -35,18 +35,18 @@
 			<name>2MASS J19071928+4216451</name>
 			<name>Kepler-38 b</name>
 			<list>Confirmed planets</list>
+			<list>Planets in binary systems, P-type</list>
 			<radius>0.39641678</radius>
 			<period>105.595</period>
 			<semimajoraxis>0.4644</semimajoraxis>
 			<eccentricity>0.032</eccentricity>
 			<inclination>90.182</inclination>
-			<transittime errorminus="0.000090" errorplus="0.000090" unit="BJD">2454952.872560</transittime>
 			<description>Kepler-38 (AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.000090" errorplus="0.000090" unit="BJD">2454952.872560</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/08/24</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
-			<istransiting>1</istransiting>
 		</planet>
 	</binary>
 	<videolink>http://youtu.be/4ivxxwksL04</videolink>

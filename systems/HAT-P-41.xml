@@ -4,6 +4,7 @@
 	<declination>+04 40 20</declination>
 	<distance>344</distance>
 	<star>
+		<name>HAT-P-41</name>
 		<mass>1.418</mass>
 		<radius>1.683</radius>
 		<magV errorminus="0.15" errorplus="0.15">11.36</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">10.006</magJ>
 		<magH errorminus="0.032" errorplus="0.032">9.777</magH>
 		<magK errorminus="0.029" errorplus="0.029">9.728</magK>
+		<temperature>6390.0</temperature>
 		<metallicity>0.21</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
@@ -23,15 +25,13 @@
 			<semimajoraxis>0.0426</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination>87.7</inclination>
+			<temperature>1689.7</temperature>
 			<description>HAT-P-41 b is a highly inflated hot Jupiter. The planet is less massive than Jupiter but has a much larger radius. It has been discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-			<temperature>1689.7</temperature>
 			<transittime errorminus="0.00107" errorplus="0.00107" unit="BJD">2454983.86167</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>13/05/29</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
-		<name>HAT-P-41</name>
-		<temperature>6390.0</temperature>
 	</star>
 </system>

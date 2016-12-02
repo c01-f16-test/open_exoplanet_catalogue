@@ -4,6 +4,7 @@
 	<declination>-06 00 09</declination>
 	<distance>840</distance>
 	<star>
+		<name>CoRoT-16</name>
 		<mass>1.098</mass>
 		<radius>1.19</radius>
 		<magV errorminus="0.43" errorplus="0.43">16.03</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.029" errorplus="0.029">13.496</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.98</magH>
 		<magK errorminus="0.04" errorplus="0.04">12.85</magK>
+		<temperature>5650.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.0618</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.3">0.33</eccentricity>
 			<inclination>85.01</inclination>
-			<transittime errorminus="0.0022" errorplus="0.0021" unit="BJD">2454923.9145</transittime>
+			<temperature>1085.5</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0022" errorplus="0.0021" unit="BJD">2454923.9145</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>11/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1085.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-16</name>
-		<temperature>5650.0</temperature>
 	</star>
 </system>

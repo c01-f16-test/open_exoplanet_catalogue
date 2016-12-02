@@ -4,6 +4,7 @@
 	<declination>-08 16 52</declination>
 	<distance>319</distance>
 	<star>
+		<name>HD 1690</name>
 		<mass>1.09</mass>
 		<radius>16.7</radius>
 		<magV>9.17</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.026" errorplus="0.026">6.877</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.229</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.018</magK>
+		<temperature>4393.0</temperature>
 		<metallicity>-0.32</metallicity>
 		<spectraltype>K1III</spectraltype>
 		<planet>
@@ -22,12 +24,10 @@
 			<period>533</period>
 			<semimajoraxis>1.3</semimajoraxis>
 			<eccentricity>0.64</eccentricity>
+			<temperature>674.4</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/20</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>674.4</temperature>
 		</planet>
-		<name>HD 1690</name>
-		<temperature>4393.0</temperature>
 	</star>
 </system>

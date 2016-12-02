@@ -4,30 +4,30 @@
 	<declination>-75 21 03</declination>
 	<distance>44.3</distance>
 	<star>
+		<name>HD 196067</name>
+		<mass>1.29</mass>
+		<radius>1.73</radius>
 		<magV>6.02</magV>
 		<magB>6.64</magB>
 		<magJ errorminus="0.021" errorplus="0.021">5.417</magJ>
 		<magH errorminus="0.024" errorplus="0.024">5.207</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.080</magK>
-		<spectraltype>G0V</spectraltype>
+		<temperature>5940.0</temperature>
 		<age>3.3</age>
-		<mass>1.29</mass>
-		<radius>1.73</radius>
 		<metallicity>0.18</metallicity>
+		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 196067 b</name>
 			<list>Confirmed planets</list>
 			<mass>6.9</mass>
 			<period>3638</period>
-			<eccentricity>0.66</eccentricity>
 			<semimajoraxis>5.02</semimajoraxis>
+			<eccentricity>0.66</eccentricity>
 			<periastron>148.2</periastron>
+			<temperature>177.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>177.2</temperature>
 		</planet>
-		<name>HD 196067</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

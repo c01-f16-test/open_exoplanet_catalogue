@@ -3,6 +3,7 @@
 	<rightascension>06 44 12.64</rightascension>
 	<declination>-00 17 57.06</declination>
 	<star>
+		<name>CoRoT-21</name>
 		<mass>1.29</mass>
 		<radius>1.945</radius>
 		<magV>15.84</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.04" errorplus="0.04">14.34</magJ>
 		<magH errorminus="0.04" errorplus="0.04">13.98</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.81</magK>
+		<temperature>6200.0</temperature>
 		<spectraltype>FIV8</spectraltype>
 		<planet>
 			<name>CoRoT-21 b</name>
@@ -22,14 +24,12 @@
 			<semimajoraxis>0.0417</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.8</inclination>
-			<transittime errorminus="0.0054" errorplus="0.0054" unit="HJD">2454400.3197</transittime>
+			<temperature>1867.0</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0054" errorplus="0.0054" unit="HJD">2454400.3197</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>11/12/13</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1867.0</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-21</name>
-		<temperature>6200.0</temperature>
 	</star>
 </system>

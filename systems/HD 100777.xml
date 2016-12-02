@@ -4,12 +4,14 @@
 	<declination>-04 45 21</declination>
 	<distance>52.8</distance>
 	<star>
+		<name>HD 100777</name>
 		<mass>1</mass>
 		<magV>8.42</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.19</magB>
 		<magJ errorminus="0.02" errorplus="0.02">7.152</magJ>
 		<magH errorminus="0.031" errorplus="0.031">6.804</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.735</magK>
-		<magB errorminus="0.02" errorplus="0.02">9.19</magB>
+		<temperature>5582.0</temperature>
 		<metallicity>0.27</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
@@ -19,13 +21,11 @@
 			<period>383.7</period>
 			<semimajoraxis>1.03</semimajoraxis>
 			<eccentricity>0.36</eccentricity>
+			<temperature>259.7</temperature>
 			<description>The star HD10077 is an orange subgiant star in the constellation Leo. A planetary companion was discovered in 2007 with the HARPS spectrograph.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>07/04/07</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>259.7</temperature>
 		</planet>
-		<name>HD 100777</name>
-		<temperature>5582.0</temperature>
 	</star>
 </system>

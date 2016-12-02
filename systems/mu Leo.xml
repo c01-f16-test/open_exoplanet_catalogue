@@ -23,7 +23,6 @@
 		<name>2MASS J09524585+2600248</name>
 		<mass errorminus="0.1" errorplus="0.1">1.5</mass>
 		<radius errorminus="0.2" errorplus="0.2">11.4</radius>
-		<temperature errorminus="27.5" errorplus="27.5">4538.2</temperature>
 		<magV>3.88</magV>
 		<magB>5.10</magB>
 		<magR>2.97</magR>
@@ -31,6 +30,7 @@
 		<magJ>1.93</magJ>
 		<magH errorminus="0.174" errorplus="0.174">1.327</magH>
 		<magK>1.22</magK>
+		<temperature errorminus="27.5" errorplus="27.5">4538.2</temperature>
 		<age errorminus="0.7" errorplus="0.7">3.35</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.36</metallicity>
 		<spectraltype>K2III</spectraltype>

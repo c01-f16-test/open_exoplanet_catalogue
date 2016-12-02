@@ -4,6 +4,7 @@
 	<declination>+20 26 30</declination>
 	<distance>122</distance>
 	<star>
+		<name>HD 100655</name>
 		<mass>2.4</mass>
 		<radius>9.3</radius>
 		<magV>6.45</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.194" errorplus="0.194">5.039</magJ>
 		<magH errorminus="0.202" errorplus="0.202">4.470</magH>
 		<magK errorminus="0.024" errorplus="0.024">4.129</magK>
+		<temperature>4861.0</temperature>
 		<metallicity>0.15</metallicity>
 		<spectraltype>G9III</spectraltype>
 		<planet>
@@ -21,13 +23,11 @@
 			<period>157.57</period>
 			<semimajoraxis>0.76</semimajoraxis>
 			<eccentricity>0.085</eccentricity>
+			<temperature>749.4</temperature>
 			<description>HD 100655b is a planetary companion to a star which is more than twice as massive as our Sun. Even though the planet is heavier than Jupiter, it is the lowest-mass planet known around giant stars with more than 1.9 solar masses.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>749.4</temperature>
 		</planet>
-		<name>HD 100655</name>
-		<temperature>4861.0</temperature>
 	</star>
 </system>

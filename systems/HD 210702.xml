@@ -18,9 +18,9 @@
 		<magJ errorminus="0.320" errorplus="0.320">4.508</magJ>
 		<magH errorminus="0.226" errorplus="0.226">3.995</magH>
 		<magK errorminus="0.294" errorplus="0.294">3.984</magK>
+		<temperature errorminus="25" errorplus="25">4967</temperature>
 		<metallicity>0.12</metallicity>
 		<spectraltype>K1 IV</spectraltype>
-		<temperature errorminus="25" errorplus="25">4967</temperature>
 		<planet>
 			<name>HD 210702 b</name>
 			<list>Confirmed planets</list>

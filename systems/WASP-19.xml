@@ -4,6 +4,7 @@
 	<declination>-45 39 33</declination>
 	<distance errorminus="60" errorplus="80">250</distance>
 	<star>
+		<name>WASP-19</name>
 		<mass>0.97</mass>
 		<radius>0.99</radius>
 		<magV>12.3</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.026" errorplus="0.026">10.911</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.602</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.481</magK>
+		<temperature>5500.0</temperature>
 		<metallicity>0.02</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
@@ -25,14 +27,12 @@
 			<semimajoraxis>0.01655</semimajoraxis>
 			<eccentricity>0.0046</eccentricity>
 			<inclination>79.4</inclination>
-			<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2455252.58584</transittime>
+			<temperature>1911.5</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2455252.58584</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1911.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-19</name>
-		<temperature>5500.0</temperature>
 	</star>
 </system>

@@ -4,6 +4,7 @@
 	<declination>+33 00 45</declination>
 	<distance errorminus="9" errorplus="9">166</distance>
 	<star>
+		<name>HAT-P-18</name>
 		<mass errorminus="0.027" errorplus="0.027">0.770</mass>
 		<radius errorminus="0.026" errorplus="0.026">0.717</radius>
 		<magV>12.76</magV>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">10.822</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.340</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.234</magK>
+		<temperature errorminus="50" errorplus="50">4870</temperature>
 		<metallicity errorminus="8" errorplus="8">0.1</metallicity>
 		<spectraltype>K</spectraltype>
 		<planet>
@@ -24,14 +26,12 @@
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0559</semimajoraxis>
 			<eccentricity errorminus="0.009" errorplus="0.03">0.009</eccentricity>
 			<inclination errorminus="0.25" errorplus="0.25">88.79</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/31</lastupdate>
-			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="15" errorplus="15">841</temperature>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>14/03/31</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>HAT-P-18</name>
-		<temperature errorminus="50" errorplus="50">4870</temperature>
 	</star>
 </system>

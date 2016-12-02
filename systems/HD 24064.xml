@@ -10,13 +10,13 @@
 		<name>BD+73 204</name>
 		<name>PPM 5424</name>
 		<name>2MASS J03563629+7404482</name>
-		<magB errorminus="0.02" errorplus="0.02">8.23</magB>
+		<mass errorminus="0.1" errorplus="0.1">1.0</mass>
+		<radius errorminus="2.9" errorplus="2.9">38.0</radius>
 		<magV errorminus="0.01" errorplus="0.01">6.72</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.23</magB>
 		<magJ errorminus="0.294" errorplus="0.294">4.317</magJ>
 		<magH errorminus="0.266" errorplus="0.266">3.432</magH>
 		<magK errorminus="0.394" errorplus="0.394">3.130</magK>
-		<mass errorminus="0.1" errorplus="0.1">1.0</mass>
-		<radius errorminus="2.9" errorplus="2.9">38.0</radius>
 		<temperature errorminus="22.5" errorplus="22.5">4052.5</temperature>
 		<metallicity errorminus="0.06" errorplus="0.06">-0.49</metallicity>
 		<spectraltype>K0</spectraltype>
@@ -30,9 +30,9 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="1.3" errorplus="1.3" type="msini">9.4</mass>
 			<period errorminus="3.0" errorplus="3.0">536.6</period>
-			<periastrontime errorminus="11.8" errorplus="11.8">2455278.3</periastrontime>
 			<semimajoraxis errorminus="0.05" errorplus="0.05">1.29</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.08">0.35</eccentricity>
+			<periastrontime errorminus="11.8" errorplus="11.8">2455278.3</periastrontime>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/09/30</lastupdate>

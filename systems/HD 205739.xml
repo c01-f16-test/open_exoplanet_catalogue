@@ -4,6 +4,7 @@
 	<declination>-31 44 15</declination>
 	<distance>90.3</distance>
 	<star>
+		<name>HD 205739</name>
 		<mass>1.22</mass>
 		<radius>1.33</radius>
 		<magV>8.56</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.024" errorplus="0.024">7.585</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.350</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.299</magK>
+		<temperature>6176.0</temperature>
 		<metallicity>0.19</metallicity>
 		<spectraltype>F7V</spectraltype>
 		<planet>
@@ -20,12 +22,10 @@
 			<period>279.8</period>
 			<semimajoraxis>0.896</semimajoraxis>
 			<eccentricity>0.27</eccentricity>
+			<temperature>330.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>08/09/08</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>330.2</temperature>
 		</planet>
-		<name>HD 205739</name>
-		<temperature>6176.0</temperature>
 	</star>
 </system>

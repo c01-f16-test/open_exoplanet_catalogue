@@ -4,6 +4,7 @@
 	<declination>+01 23 02</declination>
 	<distance>300</distance>
 	<star>
+		<name>CoRoT-2</name>
 		<mass errorminus="0.06" errorplus="0.06">0.97</mass>
 		<radius errorminus="0.018" errorplus="0.018">0.902</radius>
 		<magV>12.568</magV>
@@ -13,6 +14,7 @@
 		<magJ errorminus="0.028" errorplus="0.028">10.783</magJ>
 		<magH errorminus="0.04" errorplus="0.04">10.44</magH>
 		<magK errorminus="0.03" errorplus="0.03">10.31</magK>
+		<temperature>5575.0</temperature>
 		<spectraltype>G7V</spectraltype>
 		<planet>
 			<name>CoRoT-2 b</name>
@@ -26,14 +28,12 @@
 			<semimajoraxis>0.0281</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.10" errorplus="0.10">87.84</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/05</lastupdate>
-			<discoveryyear>2007</discoveryyear>
 			<temperature>1392.7</temperature>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2454237.53562</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>12/04/05</lastupdate>
+			<discoveryyear>2007</discoveryyear>
 		</planet>
-		<name>CoRoT-2</name>
-		<temperature>5575.0</temperature>
 	</star>
 </system>

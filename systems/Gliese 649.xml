@@ -4,6 +4,7 @@
 	<declination>+25 44 39</declination>
 	<distance>10.34</distance>
 	<star>
+		<name>Gliese 649</name>
 		<mass>0.54</mass>
 		<magV>9.7</magV>
 		<magB>11.139</magB>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">6.448</magJ>
 		<magH errorminus="0.020" errorplus="0.020">5.865</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
+		<temperature>3700.0</temperature>
 		<metallicity>0.08</metallicity>
 		<spectraltype>M1.5</spectraltype>
 		<planet>
@@ -24,27 +26,25 @@
 			<period>598.3</period>
 			<semimajoraxis>1.135</semimajoraxis>
 			<eccentricity>0.3</eccentricity>
+			<temperature>102.2</temperature>
 			<description>Gliese 649 is a red dwarf with about half the mass and size of our Sun in the constellation Hercules.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/12/17</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>102.2</temperature>
 		</planet>
 		<planet>
 			<name>GJ 649.02</name>
 			<list>Controversial</list>
-			<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
 			<mass errorminus="0.008" errorplus="0.008">0.030</mass>
+			<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.043</semimajoraxis>
-			<meananomaly errorminus="68" errorplus="68">334</meananomaly>
 			<eccentricity errorminus="0.15" errorplus="0.15">0.20</eccentricity>
 			<periastron errorminus="47" errorplus="47">334</periastron>
+			<meananomaly errorminus="68" errorplus="68">334</meananomaly>
 			<description>The radial velocity data for GJ 649 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
 			<discoverymethod>RV</discoverymethod>
-			<discoveryyear>2013</discoveryyear>
 			<lastupdate>15/04/23</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
-		<name>Gliese 649</name>
-		<temperature>3700.0</temperature>
 	</star>
 </system>

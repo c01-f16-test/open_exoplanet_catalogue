@@ -4,6 +4,9 @@
 	<declination>+50 02 25</declination>
 	<distance>600</distance>
 	<star>
+		<name>Kepler-12</name>
+		<name>KOI-20</name>
+		<name>KIC 11804465</name>
 		<mass errorminus="0.09" errorplus="0.13">1.09</mass>
 		<radius errorminus="0.24" errorplus="0.30">1.42</radius>
 		<magV>13.4</magV>
@@ -12,6 +15,7 @@
 		<magJ errorminus="0.026" errorplus="0.026">12.406</magJ>
 		<magH errorminus="0.03" errorplus="0.03">12.11</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.066</magK>
+		<temperature errorminus="123" errorplus="105">5953</temperature>
 		<metallicity errorminus="0.14" errorplus="0.13">0.08</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
@@ -28,16 +32,12 @@
 			<semimajoraxis>0.0556</semimajoraxis>
 			<eccentricity>0.01</eccentricity>
 			<inclination>88.76</inclination>
-			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
+			<temperature>1354.2</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1354.2</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-12</name>
-		<name>KOI-20</name>
-		<name>KIC 11804465</name>
-		<temperature errorminus="123" errorplus="105">5953</temperature>
 	</star>
 </system>

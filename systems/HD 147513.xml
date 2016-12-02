@@ -28,15 +28,15 @@
 				<name>HD 147513 A</name>
 				<name>HD 147513 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.21</mass>
 				<period>528.4</period>
 				<semimajoraxis>1.32</semimajoraxis>
 				<eccentricity>0.26</eccentricity>
-				<discoverymethod>RV</discoverymethod>
 				<description>The star system HD 147513, also known as HR 6094, consists of a Sun-like star, a white dwarf stellar remnant and a Jupiter-mass planet. The planet was discovered on 18 June 2002.</description>
+				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2003</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

@@ -20,9 +20,9 @@
 		<magH errorminus="0.033" errorplus="0.033">6.344</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.223</magK>
 		<temperature>4820.0</temperature>
+		<age>8.5</age>
 		<metallicity>0.38</metallicity>
 		<spectraltype>K3V</spectraltype>
-		<age>8.5</age>
 		<planet>
 			<name>HD 218566 b</name>
 			<list>Confirmed planets</list>
@@ -30,8 +30,8 @@
 			<period errorminus="0.4" errorplus="0.4">225.7</period>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.6873</semimajoraxis>
 			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
-			<periastrontime errorminus="154" errorplus="154">2450360</periastrontime>
 			<periastron errorminus="24" errorplus="24">36</periastron>
+			<periastrontime errorminus="154" errorplus="154">2450360</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>

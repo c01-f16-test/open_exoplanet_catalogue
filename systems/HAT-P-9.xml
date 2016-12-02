@@ -12,14 +12,15 @@
 		<name>UCAC2 44825174</name>
 		<mass>1.28</mass>
 		<radius>1.32</radius>
-		<metallicity>0.12</metallicity>
-		<spectraltype>F</spectraltype>
-		<magB errorminus="0.23" errorplus="0.23">12.35</magB>
 		<magV errorminus="0.27" errorplus="0.27">12.34</magV>
+		<magB errorminus="0.23" errorplus="0.23">12.35</magB>
 		<magR>12.08</magR>
 		<magJ errorminus="0.022" errorplus="0.022">11.274</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.04</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.015</magK>
+		<temperature>6350.0</temperature>
+		<metallicity>0.12</metallicity>
+		<spectraltype>F</spectraltype>
 		<planet>
 			<name>HAT-P-9 b</name>
 			<name>2MASS J07204044+3708263 b</name>
@@ -31,13 +32,12 @@
 			<semimajoraxis>0.053</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.5</inclination>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/05/20</lastupdate>
-			<discoveryyear>2008</discoveryyear>
 			<temperature>1397.3</temperature>
+			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454417.9085</transittime>
 			<istransiting>1</istransiting>
+			<lastupdate>11/05/20</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
-		<temperature>6350.0</temperature>
 	</star>
 </system>

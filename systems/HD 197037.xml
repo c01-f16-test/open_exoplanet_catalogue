@@ -25,13 +25,14 @@
 			<magH errorminus="0.024" errorplus="0.024">5.568</magH>
 			<magK errorminus="0.018" errorplus="0.018">5.488</magK>
 			<temperature errorminus="100" errorplus="100">6150</temperature>
+			<age>1.90</age>
 			<metallicity errorminus="0.06" errorplus="0.06">-0.20</metallicity>
 			<spectraltype>F7V</spectraltype>
-			<age>1.90</age>
 			<planet>
 				<name>HD 197037 b</name>
 				<name>HD 197037 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.05" errorplus="0.05" type="msini">0.79</mass>
 				<period errorminus="13" errorplus="13">1035.7</period>
 				<semimajoraxis errorminus="0.05" errorplus="0.05">2.07</semimajoraxis>
@@ -42,7 +43,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

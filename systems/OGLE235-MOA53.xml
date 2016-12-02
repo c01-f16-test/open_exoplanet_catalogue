@@ -4,7 +4,9 @@
 	<declination>-28 53 42</declination>
 	<distance>5200</distance>
 	<star>
+		<name>OGLE235-MOA53</name>
 		<mass>0.63</mass>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>OGLE235-MOA53 b</name>
 			<name>OGLE-2003-BLG-235 b</name>
@@ -16,7 +18,5 @@
 			<lastupdate>06/06/10</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
-		<name>OGLE235-MOA53</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

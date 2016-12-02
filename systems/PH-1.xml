@@ -45,30 +45,28 @@
 				<name>Kepler-64 b</name>
 				<name>Kepler-64 A(ab) b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, P-type</list>
 				<radius>0.5631852</radius>
 				<period>138.506</period>
 				<semimajoraxis>0.634</semimajoraxis>
 				<eccentricity>0.0539</eccentricity>
 				<inclination>90.022</inclination>
-				<transittime errorminus="0.11" errorplus="0.11" unit="BJD">2455074.71</transittime>
 				<description>PH 1 b is a circumbinary planet in a quadruple star system. It is orbiting a double star and there is a second pair of stars at approximately 1000 AU. Citizen scientists discovered this planet by looking at many light curves using the online tool at planethunters.org.</description>
 				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.11" errorplus="0.11" unit="BJD">2455074.71</transittime>
+				<istransiting>1</istransiting>
 				<lastupdate>12/10/15</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<image>PH1</image>
 				<imagedescription>An artist's conception of the planet in a four-star system. 
 		
 	Credit: Image by Haven Giguere/Yale.</imagedescription>
-				<list>Planets in binary systems, P-type</list>
-				<istransiting>1</istransiting>
 			</planet>
 		</binary>
 		<binary>
 			<name>PH-1 B</name>
 			<name>Kepler-64 B</name>
 			<name>KIC 4862625 B</name>
-			<separation unit="arcsec" upperlimit="0.4" />
-			<separation unit="AU" upperlimit="60" />
 			<star>
 				<name>PH-1 Ba</name>
 				<name>Kepler-64 Ba</name>

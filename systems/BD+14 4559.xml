@@ -10,14 +10,14 @@
 		<name>HIP 104780</name>
 		<name>TYC 1117-615-1</name>
 		<name>2MASS J21133598+1441218</name>
-		<magB errorminus="0.06" errorplus="0.06">10.66</magB>
+		<mass errorminus="0.15" errorplus="0.15">0.86</mass>
 		<magV errorminus="0.03" errorplus="0.03">9.66</magV>
+		<magB errorminus="0.06" errorplus="0.06">10.66</magB>
 		<magR>9.1</magR>
 		<magI>8.6</magI>
 		<magJ errorminus="0.029" errorplus="0.029">7.882</magJ>
 		<magH errorminus="0.018" errorplus="0.018">7.455</magH>
 		<magK errorminus="0.023" errorplus="0.023">7.336</magK>
-		<mass errorminus="0.15" errorplus="0.15">0.86</mass>
 		<temperature errorminus="20" errorplus="20">5008</temperature>
 		<metallicity errorminus="0.07" errorplus="0.07">0.10</metallicity>
 		<spectraltype>K2V</spectraltype>

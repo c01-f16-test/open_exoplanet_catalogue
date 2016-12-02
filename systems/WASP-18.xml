@@ -4,6 +4,7 @@
 	<declination>-45 40 40</declination>
 	<distance>100</distance>
 	<star>
+		<name>WASP-18</name>
 		<mass>1.24</mass>
 		<radius>1.23</radius>
 		<magV>9.3</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">8.409</magJ>
 		<magH errorminus="0.055" errorplus="0.055">8.231</magH>
 		<magK errorminus="0.027" errorplus="0.027">8.131</magK>
+		<temperature>6400.0</temperature>
 		<spectraltype>F6</spectraltype>
 		<planet>
 			<name>WASP-18 b</name>
@@ -28,14 +30,12 @@
 			<semimajoraxis>0.02047</semimajoraxis>
 			<eccentricity>0.0088</eccentricity>
 			<inclination>86</inclination>
-			<transittime errorminus="0.000080" errorplus="0.000080" unit="BJD">2455084.792931</transittime>
+			<temperature>2187.5</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.000080" errorplus="0.000080" unit="BJD">2455084.792931</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>2187.5</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-18</name>
-		<temperature>6400.0</temperature>
 	</star>
 </system>

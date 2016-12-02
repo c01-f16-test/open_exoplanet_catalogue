@@ -9,11 +9,6 @@
 	<declination>+02 11 47.44</declination>
 	<distance>83.8</distance>
 	<star>
-		<magB>6.239</magB>
-		<magV>5.230</magV>
-		<magJ errorminus="0.01" errorplus="0.01">3.461</magJ>
-		<magH errorminus="0.01" errorplus="0.01">2.955</magH>
-		<magK errorminus="0.01" errorplus="0.01">2.838</magK>
 		<name>Omega Serpentis</name>
 		<name>ome Ser</name>
 		<name>ome Serpentis</name>
@@ -22,6 +17,11 @@
 		<name>HIP 77578</name>
 		<mass>2.17</mass>
 		<radius>12.30</radius>
+		<magV>5.230</magV>
+		<magB>6.239</magB>
+		<magJ errorminus="0.01" errorplus="0.01">3.461</magJ>
+		<magH errorminus="0.01" errorplus="0.01">2.955</magH>
+		<magK errorminus="0.01" errorplus="0.01">2.838</magK>
 		<temperature>4770</temperature>
 		<metallicity>-0.24</metallicity>
 		<spectraltype>G8III</spectraltype>

@@ -4,15 +4,17 @@
 	<declination>-15 16 02</declination>
 	<distance>250</distance>
 	<star>
+		<name>WASP-26</name>
 		<mass>1.12</mass>
 		<radius>1.34</radius>
 		<magV>11.3</magV>
-		<magR>10.99</magR>
 		<magB errorminus="0.07" errorplus="0.07">11.62</magB>
+		<magR>10.99</magR>
 		<magI errorminus="0.03" errorplus="0.03">10.46</magI>
 		<magJ errorminus="0.022" errorplus="0.022">10.021</magJ>
 		<magH errorminus="0.023" errorplus="0.023">9.775</magH>
 		<magK errorminus="0.023" errorplus="0.023">9.690</magK>
+		<temperature>5950.0</temperature>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
@@ -26,14 +28,12 @@
 			<semimajoraxis>0.03985</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>82.91</inclination>
-			<transittime errorminus="0.00058" errorplus="0.00058" unit="BJD">2455228.38916</transittime>
+			<temperature>1521.3</temperature>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00058" errorplus="0.00058" unit="BJD">2455228.38916</transittime>
+			<istransiting>1</istransiting>
 			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1521.3</temperature>
-			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-26</name>
-		<temperature>5950.0</temperature>
 	</star>
 </system>

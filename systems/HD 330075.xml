@@ -4,9 +4,11 @@
 	<declination>-49 57 48</declination>
 	<distance>50.2</distance>
 	<star>
+		<name>HD 330075</name>
 		<mass>0.95</mass>
 		<magV>9.36</magV>
 		<magB errorminus="0.04" errorplus="0.04">10.23</magB>
+		<temperature>6295.0</temperature>
 		<metallicity>0.03</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
@@ -16,12 +18,10 @@
 			<period>3.38773</period>
 			<semimajoraxis>0.039</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>1023.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2004</discoveryyear>
-			<temperature>1023.2</temperature>
 		</planet>
-		<name>HD 330075</name>
-		<temperature>6295.0</temperature>
 	</star>
 </system>

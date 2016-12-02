@@ -16,14 +16,14 @@
 			<mass>0.82</mass>
 			<radius>0.81</radius>
 			<magV>11.89</magV>
-			<magR>11.42</magR>
 			<magB errorminus="0.30" errorplus="0.30">12.58</magB>
+			<magR>11.42</magR>
 			<magJ errorminus="0.020" errorplus="0.020">10.015</magJ>
 			<magH errorminus="0.019" errorplus="0.019">9.560</magH>
 			<magK errorminus="0.017" errorplus="0.017">9.421</magK>
+			<temperature errorminus="65" errorplus="65">4974</temperature>
 			<metallicity>0.13</metallicity>
 			<spectraltype>K3V</spectraltype>
-			<temperature errorminus="65" errorplus="65">4974</temperature>
 			<planet>
 				<name>WASP-11 b</name>
 				<name>HAT-P-10 b</name>
@@ -31,29 +31,29 @@
 				<name>HAT-P-10 A b</name>
 				<name>2MASS J03092855+3040249 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>0.46</mass>
 				<radius>1.045</radius>
 				<period>3.722469</period>
 				<semimajoraxis>0.0439</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>88.5</inclination>
-				<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454759.68683</transittime>
+				<temperature>943.2</temperature>
 				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.00016" errorplus="0.00016" unit="BJD">2454759.68683</transittime>
+				<istransiting>1</istransiting>
 				<lastupdate>08/11/27</lastupdate>
 				<discoveryyear>2008</discoveryyear>
-				<temperature>943.2</temperature>
-				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
 			<name>WASP-11 B</name>
 			<name>HAT-P-10 B</name>
+			<mass errorminus="0.047" errorplus="0.047">0.344</mass>
 			<magJ errorminus="0.017" errorplus="0.017">12.671</magJ>
 			<magH errorminus="0.014" errorplus="0.014">12.008</magH>
 			<magK errorminus="0.034" errorplus="0.034">12.184</magK>
 			<temperature errorminus="43" errorplus="43">3483</temperature>
-			<mass errorminus="0.047" errorplus="0.047">0.344</mass>
 		</star>
 	</binary>
 </system>

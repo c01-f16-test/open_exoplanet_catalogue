@@ -27,28 +27,28 @@
 				<name>TYC 2461-00988-1 b</name>
 				<name>2MASS J07324421+3350061 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>0.763</mass>
 				<radius>1.827</radius>
 				<period>3.474474</period>
 				<semimajoraxis>0.0503</semimajoraxis>
 				<eccentricity>0.148</eccentricity>
 				<inclination>86.7</inclination>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
-				<discoveryyear>2011</discoveryyear>
 				<temperature>1675.2</temperature>
+				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
+				<lastupdate>13/05/29</lastupdate>
+				<discoveryyear>2011</discoveryyear>
 			</planet>
 		</star>
 		<star>
 			<name>HAT-P-33 B</name>
+			<mass errorminus="0.014" errorplus="0.014">0.557</mass>
 			<magJ errorminus="0.054" errorplus="0.054">14.400</magJ>
 			<magH errorminus="0.033" errorplus="0.033">13.530</magH>
 			<magK errorminus="0.057" errorplus="0.057">13.419</magK>
 			<temperature errorminus="32" errorplus="32">3776</temperature>
-			<mass errorminus="0.014" errorplus="0.014">0.557</mass>
 		</star>
 	</binary>
 </system>

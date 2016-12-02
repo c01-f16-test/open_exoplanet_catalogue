@@ -35,19 +35,19 @@
 			<name>GJ 9815 A</name>
 			<name>BD-09 6156 A</name>
 			<name>WDS J23159-0905 A</name>
+			<mass errorminus="0.1" errorplus="0.1">1.4</mass>
+			<radius errorminus="0.1" errorplus="0.1">11.0</radius>
 			<magV>4.24</magV>
+			<magB>5.32</magB>
 			<magR>3.46</magR>
 			<magI>2.90</magI>
-			<magB>5.32</magB>
 			<magJ errorminus="0.01" errorplus="0.01">2.400</magJ>
 			<magH errorminus="0.01" errorplus="0.01">1.886</magH>
 			<magK errorminus="0.01" errorplus="0.01">1.746</magK>
-			<mass errorminus="0.1" errorplus="0.1">1.4</mass>
-			<radius errorminus="0.1" errorplus="0.1">11.0</radius>
 			<temperature errorminus="18" errorplus="18">4665</temperature>
+			<age errorminus="0.63" errorplus="0.63">3.56</age>
 			<metallicity errorminus="0.1" errorplus="0.1">-0.03</metallicity>
 			<spectraltype>K0 III</spectraltype>
-			<age errorminus="0.63" errorplus="0.63">3.56</age>
 			<planet>
 				<name>91 Aquarii A b</name>
 				<name>91 Aqr A b</name>
@@ -85,12 +85,12 @@
 			<name>BD-09 6156 BC</name>
 			<name>WDS J23159-0905 BC</name>
 			<period>30540</period>
+			<inclination>87.0</inclination>
 			<semimajoraxis>21.5</semimajoraxis>
 			<eccentricity>0.448</eccentricity>
-			<inclination>87.0</inclination>
-			<ascendingnode>104.1</ascendingnode>
-			<periastrontime>2433640</periastrontime>
 			<periastron>145.0</periastron>
+			<periastrontime>2433640</periastrontime>
+			<ascendingnode>104.1</ascendingnode>
 			<star>
 				<name>91 Aquarii B</name>
 				<name>91 Aqr B</name>
@@ -105,9 +105,9 @@
 				<name>GJ 9815 B</name>
 				<name>BD-09 6156 B</name>
 				<name>WDS J23159-0905 B</name>
-				<magB>10.9</magB>
-				<magV>9.9</magV>
 				<mass>0.78</mass>
+				<magV>9.9</magV>
+				<magB>10.9</magB>
 				<spectraltype>K3V</spectraltype>
 			</star>
 			<star>
@@ -124,8 +124,8 @@
 				<name>GJ 9815 C</name>
 				<name>BD-09 6156 C</name>
 				<name>WDS J23159-0905 C</name>
-				<magV>10.1</magV>
 				<mass>0.73</mass>
+				<magV>10.1</magV>
 				<spectraltype>K</spectraltype>
 			</star>
 		</binary>

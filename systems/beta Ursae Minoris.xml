@@ -22,11 +22,11 @@
 		<name>2MASS J14504235+7409199</name>
 		<mass errorminus="0.2" errorplus="0.2">1.4</mass>
 		<radius errorminus="1.1" errorplus="1.1">38.3</radius>
-		<temperature errorminus="25" errorplus="25">4126</temperature>
 		<magV>2.08</magV>
 		<magB>3.55</magB>
 		<magR>0.97</magR>
 		<magI>0.21</magI>
+		<temperature errorminus="25" errorplus="25">4126</temperature>
 		<age errorminus="1.03" errorplus="1.03">2.95</age>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.27</metallicity>
 		<spectraltype>K4IIIvar</spectraltype>

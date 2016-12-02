@@ -4,21 +4,21 @@
 	<declination>+42 35 47</declination>
 	<star>
 		<name>Kepler-1097</name>
-		<temperature errorminus="86.8" errorplus="77.1">5211.0</temperature>
 		<mass errorminus="0.06" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
+		<temperature errorminus="86.8" errorplus="77.1">5211.0</temperature>
 		<metallicity errorminus="0.18" errorplus="0.17">-0.11</metallicity>
 		<planet>
 			<name>Kepler-1097 b</name>
-			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
-			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<radius errorminus="0.023" errorplus="0.023">0.291</radius>
+			<period errorminus="0.001894000" errorplus="0.001894000">187.747029000</period>
+			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.001894000" errorplus="0.001894000">187.747029000</period>
-			<radius errorminus="0.023" errorplus="0.023">0.291</radius>
+			<lastupdate>16/05/10</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

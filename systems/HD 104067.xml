@@ -4,6 +4,7 @@
 	<declination>-20 21 14</declination>
 	<distance>20.8</distance>
 	<star>
+		<name>HD 104067</name>
 		<mass>0.791</mass>
 		<magV>7.93</magV>
 		<magB>8.897</magB>
@@ -12,6 +13,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.212</magJ>
 		<magH errorminus="0.023" errorplus="0.023">5.754</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.614</magK>
+		<temperature>4969.0</temperature>
 		<metallicity>-0.06</metallicity>
 		<spectraltype>K2V</spectraltype>
 		<planet>
@@ -21,12 +23,10 @@
 			<period>55.806</period>
 			<semimajoraxis>0.2643</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<temperature>363.2</temperature>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/07/05</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>363.2</temperature>
 		</planet>
-		<name>HD 104067</name>
-		<temperature>4969.0</temperature>
 	</star>
 </system>

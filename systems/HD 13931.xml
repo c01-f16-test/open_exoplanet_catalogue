@@ -12,17 +12,17 @@
 		<name>2MASS J02164736+4346230</name>
 		<mass errorminus="0.02" errorplus="0.02">1.022</mass>
 		<radius errorminus="0.06" errorplus="0.06">1.23</radius>
-		<magB errorminus="0.016" errorplus="0.016">8.237</magB>
 		<magV errorminus="0.01" errorplus="0.01">7.60</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.237</magB>
 		<magR>7.2</magR>
 		<magI>6.9</magI>
 		<magJ errorminus="0.020" errorplus="0.020">6.452</magJ>
 		<magH errorminus="0.065" errorplus="0.065">6.234</magH>
 		<magK errorminus="0.029" errorplus="0.029">6.139</magK>
 		<temperature errorminus="44" errorplus="44">5829</temperature>
+		<age errorminus="2.0" errorplus="2.0">8.4</age>
 		<metallicity errorminus="0.04" errorplus="0.04">0.03</metallicity>
 		<spectraltype>G0 V</spectraltype>
-		<age errorminus="2.0" errorplus="2.0">8.4</age>
 		<planet>
 			<name>HD 13931 b</name>
 			<list>Confirmed planets</list>

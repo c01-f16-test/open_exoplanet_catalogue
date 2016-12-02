@@ -9,6 +9,7 @@
 		<positionangle>30</positionangle>
 		<star>
 			<name>HD 114762 A</name>
+			<name>HD 114762</name>
 			<mass>0.84</mass>
 			<radius>1.24</radius>
 			<magV>7.3</magV>
@@ -18,6 +19,7 @@
 			<magJ>6.14</magJ>
 			<magH>5.89</magH>
 			<magK>5.81</magK>
+			<temperature>5934.0</temperature>
 			<metallicity>-0.71</metallicity>
 			<spectraltype>F9V</spectraltype>
 			<planet>
@@ -29,18 +31,16 @@
 				<period>83.9151</period>
 				<semimajoraxis>0.353</semimajoraxis>
 				<eccentricity>0.3354</eccentricity>
+				<temperature>486.8</temperature>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/06/09</lastupdate>
 				<discoveryyear>1992</discoveryyear>
-				<temperature>486.8</temperature>
 			</planet>
-			<name>HD 114762</name>
-			<temperature>5934.0</temperature>
 		</star>
 		<star>
 			<name>HD 114762 B</name>
-			<spectraltype>M6V</spectraltype>
 			<mass>0.1</mass>
+			<spectraltype>M6V</spectraltype>
 		</star>
 	</binary>
 </system>

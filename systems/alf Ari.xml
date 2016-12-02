@@ -26,10 +26,10 @@
 		<mass errorminus="0.2" errorplus="0.2">1.5</mass>
 		<radius errorminus="0.3" errorplus="0.3">13.9</radius>
 		<magV>2.01</magV>
-		<magJ>0.06</magJ>
 		<magB errorminus="0.01" errorplus="0.01">3.16</magB>
 		<magR>1.3</magR>
 		<magI>0.8</magI>
+		<magJ>0.06</magJ>
 		<temperature errorminus="15" errorplus="15">4553</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.09</metallicity>
 		<spectraltype>K2III</spectraltype>
@@ -40,8 +40,8 @@
 			<period errorminus="0.3" errorplus="0.3">380.8</period>
 			<semimajoraxis>1.2</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.25</eccentricity>
-			<periastrontime errorminus="7.36" errorplus="7.36">2451213.52</periastrontime>
 			<periastron errorminus="6.84" errorplus="6.84">89.16</periastron>
+			<periastrontime errorminus="7.36" errorplus="7.36">2451213.52</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>

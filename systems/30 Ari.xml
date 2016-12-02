@@ -30,16 +30,16 @@
 			<star>
 				<name>30 Ari Aa</name>
 				<name>30 Arietis Aa</name>
-				<spectraltype>F5V</spectraltype>
-				<magB>6.86</magB>
+				<mass errorminus="0.04" errorplus="0.04">1.31</mass>
+				<radius errorminus="0.03" errorplus="0.03">1.37</radius>
 				<magV>6.48</magV>
+				<magB>6.86</magB>
 				<magJ errorminus="0.019" errorplus="0.019">5.681</magJ>
 				<magH errorminus="0.051" errorplus="0.051">5.580</magH>
 				<magK errorminus="0.024" errorplus="0.024">5.479</magK>
-				<mass errorminus="0.04" errorplus="0.04">1.31</mass>
-				<radius errorminus="0.03" errorplus="0.03">1.37</radius>
-				<age errorminus="0.63" errorplus="0.63">0.86</age>
 				<temperature>6462</temperature>
+				<age errorminus="0.63" errorplus="0.63">0.86</age>
+				<spectraltype>F5V</spectraltype>
 			</star>
 			<star>
 				<name>30 Ari Ab</name>
@@ -48,11 +48,11 @@
 			</star>
 		</binary>
 		<binary>
+			<name>30 Ari BC</name>
+			<name>RAO 8</name>
 			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.536</separation>
 			<separation unit="AU">22.3</separation>
 			<positionangle errorminus="0.2" errorplus="0.2">285.2</positionangle>
-			<name>30 Ari BC</name>
-			<name>RAO 8</name>
 			<star>
 				<name>30 Ari B</name>
 				<name>30 Arietis B</name>
@@ -71,13 +71,15 @@
 				<magJ>6.080</magJ>
 				<magH errorminus="0.029" errorplus="0.029">5.908</magH>
 				<magK>5.90</magK>
+				<temperature>6424</temperature>
+				<age errorminus="0.83" errorplus="0.83">0.91</age>
 				<metallicity>0.07</metallicity>
 				<spectraltype>F8V</spectraltype>
-				<age errorminus="0.83" errorplus="0.83">0.91</age>
 				<planet>
 					<name>30 Ari B b</name>
 					<name>30 Arietis B b</name>
 					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
 					<mass errorminus="0.9" errorplus="0.9" type="msini">6.6</mass>
 					<period errorminus="3.8" errorplus="3.8">345.4</period>
 					<semimajoraxis errorminus="0.01" errorplus="0.01">1.01</semimajoraxis>
@@ -87,17 +89,15 @@
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>16/01/10</lastupdate>
 					<discoveryyear>2009</discoveryyear>
-					<list>Planets in binary systems, S-type</list>
 				</planet>
-				<temperature>6424</temperature>
 			</star>
 			<star>
 				<name>30 Ari C</name>
 				<name>30 Arietis C</name>
 				<name>WDS J02370+2439 C</name>
+				<mass>0.50</mass>
 				<magJ>9.57</magJ>
 				<magK>8.74</magK>
-				<mass>0.50</mass>
 				<spectraltype>M1V</spectraltype>
 			</star>
 		</binary>

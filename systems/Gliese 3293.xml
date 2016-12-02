@@ -17,9 +17,9 @@
 		<magJ errorminus="0.024" errorplus="0.024">8.362</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.749</magH>
 		<magK errorminus="0.033" errorplus="0.033">7.486</magK>
+		<temperature errorminus="49" errorplus="49">3466</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">0.02</metallicity>
 		<spectraltype>M2.5</spectraltype>
-		<temperature errorminus="49" errorplus="49">3466</temperature>
 		<planet>
 			<name>Gliese 3293 b</name>
 			<name>GJ 3293 b</name>
@@ -30,12 +30,12 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.005" errorplus="0.005">0.076</mass>
 			<period errorminus="0.02" errorplus="0.02">30.60</period>
-			<transittime errorminus="1.9" errorplus="1.9">2455640.3</transittime>
-			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<semimajoraxis>0.1434</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
-			<istransiting>0</istransiting>
+			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="1.9" errorplus="1.9">2455640.3</transittime>
+			<istransiting>0</istransiting>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
@@ -49,12 +49,12 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.005" errorplus="0.005">0.07</mass>
 			<period errorminus="0.38" errorplus="0.38">123.98</period>
-			<transittime errorminus="3.7" errorplus="3.7">2455684.9</transittime>
-			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<semimajoraxis>0.3644</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.37</eccentricity>
-			<istransiting>0</istransiting>
+			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="3.7" errorplus="3.7">2455684.9</transittime>
+			<istransiting>0</istransiting>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
@@ -68,12 +68,12 @@
 			<list>Controversial</list>
 			<mass errorminus="0.005" errorplus="0.005">0.027</mass>
 			<period errorminus="0.12" errorplus="0.12">48.14</period>
-			<transittime errorminus="6.0" errorplus="6.0">2455643.3</transittime>
-			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<semimajoraxis>0.1939</semimajoraxis>
 			<eccentricity errorminus="0.16" errorplus="0.16">0.13</eccentricity>
-			<istransiting>0</istransiting>
+			<description>Two Neptune-mass planets orbit Gliese 3293, possibly together with a super-Earth planet. Gliese 3293 is a star with high proper motion.</description>
 			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="6.0" errorplus="6.0">2455643.3</transittime>
+			<istransiting>0</istransiting>
 			<lastupdate>14/11/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>

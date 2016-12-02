@@ -4,6 +4,7 @@
 	<declination>-13 59 11.3</declination>
 	<distance>126</distance>
 	<star>
+		<name>HD 33142</name>
 		<mass>1.48</mass>
 		<radius>4.2</radius>
 		<magV>8.13</magV>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.018" errorplus="0.018">6.345</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.903</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.792</magK>
+		<temperature>5052.0</temperature>
 		<metallicity>0.05</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
@@ -20,13 +22,11 @@
 			<period>326.6</period>
 			<semimajoraxis>1.06</semimajoraxis>
 			<eccentricity>0</eccentricity>
+			<temperature>442.1</temperature>
 			<description>The star HD 33142 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>442.1</temperature>
 		</planet>
-		<name>HD 33142</name>
-		<temperature>5052.0</temperature>
 	</star>
 </system>

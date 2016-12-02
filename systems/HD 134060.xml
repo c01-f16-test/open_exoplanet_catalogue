@@ -4,6 +4,7 @@
 	<declination>-61 25 20</declination>
 	<distance>24.2</distance>
 	<star>
+		<name>HD 134060</name>
 		<magV>6.29</magV>
 		<magB errorminus="0.01" errorplus="0.01">6.91</magB>
 		<magR>6.16</magR>
@@ -11,6 +12,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">5.214</magJ>
 		<magH errorminus="0.061" errorplus="0.061">5.022</magH>
 		<magK errorminus="0.026" errorplus="0.026">4.836</magK>
+		<temperature>5940.0</temperature>
 		<spectraltype>G0V</spectraltype>
 		<planet>
 			<name>HD 134060 b</name>
@@ -19,11 +21,11 @@
 			<period>3.27</period>
 			<semimajoraxis>0.0444</semimajoraxis>
 			<eccentricity>0.4</eccentricity>
+			<temperature>1336.0</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1336.0</temperature>
 		</planet>
 		<planet>
 			<name>HD 134060 c</name>
@@ -32,13 +34,11 @@
 			<period>1160.9</period>
 			<semimajoraxis>2.2263</semimajoraxis>
 			<eccentricity>0.75</eccentricity>
+			<temperature>182.8</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/12</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>182.8</temperature>
 		</planet>
-		<name>HD 134060</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>
