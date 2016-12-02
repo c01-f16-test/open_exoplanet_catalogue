@@ -12,7 +12,7 @@
 		<name>Kepler-122</name>
 		<name>KOI-232</name>
 		<name>KIC 4833421</name>
-		<temperature errorminus="37" errorplus="137">6050</temperature>
+		<temperature errorminus="137.0" errorplus="137">6050</temperature>
 		<radius errorminus="0.239" errorplus="0.239">1.216</radius>
 		<mass errorminus="0.1000" errorplus="0.1000">1.0700</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.108</semimajoraxis>
+			<impactparameter errorminus="0.1900" errorplus="0.1900">0.5</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-122 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.0</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-122 d</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.155</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.01</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-122 e</name>
@@ -78,6 +84,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.227</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.84</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-122 f</name>
@@ -89,10 +97,13 @@
 			<transittime errorminus="0.00546" errorplus="0.00546">2454997.22391</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-122 f was confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.05100" errorplus="0.06100">0.113</mass>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.202</metallicity>
+		<magV errorminus="" errorplus="">14.247</magV>
 	</star>
 </system>

@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.194</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.28</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-214 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.03</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.359</metallicity>
+		<magV errorminus="" errorplus="">13.949</magV>
 	</star>
 </system>

@@ -12,7 +12,7 @@
 		<name>Kepler-218</name>
 		<name>KOI-711</name>
 		<name>KIC 9597345</name>
-		<temperature errorminus="4" errorplus="74">5502</temperature>
+		<temperature errorminus="74.0" errorplus="74">5502</temperature>
 		<radius errorminus=".083" errorplus="0.083">1.063</radius>
 		<mass errorminus="0.0210" errorplus="0.0210">1.0190</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.248</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.52</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-218 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.046</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-218 d</name>
@@ -59,5 +63,7 @@
 			<period errorminus="0.000582200" errorplus="0.000582200">124.524464700</period>
 			<radius errorminus="0.016" errorplus="0.025">0.237</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.194</metallicity>
+		<magV errorminus="" errorplus="">13.967</magV>
 	</star>
 </system>

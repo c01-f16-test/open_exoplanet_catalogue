@@ -12,7 +12,7 @@
 		<name>Kepler-123</name>
 		<name>KOI-238</name>
 		<name>KIC 7219825</name>
-		<temperature errorminus="21" errorplus="121">6089</temperature>
+		<temperature errorminus="121.0" errorplus="121">6089</temperature>
 		<radius errorminus=".243" errorplus="0.243">1.264</radius>
 		<planet>
 			<name>Kepler-123 b</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.135</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.53</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-123 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.181</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.23</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.03</mass>
+		<metallicity errorminus="" errorplus="">-0.199</metallicity>
+		<magV errorminus="" errorplus="">14.061</magV>
 	</star>
 </system>

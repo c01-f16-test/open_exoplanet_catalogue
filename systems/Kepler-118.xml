@@ -21,7 +21,7 @@
 			<name>KOI-216.01</name>
 			<name>KIC 6152974 c</name>
 			<name>KIC 6152974.01</name>
-			<radius errorminus="0.03919" errorplus="0.31258">0.69988</radius>
+			<radius errorminus="0.306" errorplus="0.31258">0.69988</radius>
 			<period errorminus=".000013" errorplus="0.000013">20.172020</period>
 			<transittime errorminus="0.0004100" errorplus="0.0004100">2454974.2084000</transittime>
 			<list>Confirmed planets</list>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.141</semimajoraxis>
+			<impactparameter errorminus="0.1500" errorplus="0.1500">0.02</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-118 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.073</semimajoraxis>
+			<impactparameter errorminus="0.3500" errorplus="0.3500">0.72</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.18</metallicity>
+		<magV errorminus="" errorplus="">14.711</magV>
 	</star>
 </system>

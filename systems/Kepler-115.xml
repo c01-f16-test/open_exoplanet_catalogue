@@ -12,7 +12,7 @@
 		<name>Kepler-115</name>
 		<name>KOI-159</name>
 		<name>KIC 8972058</name>
-		<temperature errorminus="32" errorplus="132">5979</temperature>
+		<temperature errorminus="132.0" errorplus="132">5979</temperature>
 		<radius errorminus=".230" errorplus="0.230">1.205</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0400</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.11</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-115 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.036</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.43</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.081</metallicity>
+		<magV errorminus="" errorplus="">13.431</magV>
 	</star>
 </system>

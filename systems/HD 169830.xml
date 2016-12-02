@@ -6,35 +6,41 @@
 	<star>
 		<mass>1.4</mass>
 		<radius>1.84</radius>
-		<age>2.3</age>
-		<magV>5.9</magV>
+		<age>2.8</age>
+		<magV errorminus="0.01" errorplus="0.01">5.9</magV>
 		<magB>6.386</magB>
 		<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
 		<spectraltype>F8 V</spectraltype>
-		<temperature errorminus="50" errorplus="50">6300</temperature>
+		<temperature errorminus="50" errorplus="50">6299.0</temperature>
 		<planet>
 			<name>HD 169830 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.12">2.94</mass>
-			<period errorminus="4.6" errorplus="4.6">229.9</period>
+			<period errorminus="0.22" errorplus="0.22">225.62</period>
 			<semimajoraxis>0.82</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.35</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/06/24</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>413.9</temperature>
+			<periastron errorminus="2.0000" errorplus="2.0000">148.0</periastron>
+			<periastrontime errorminus="1.000000" errorplus="1.000000">2451923.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 169830 c</name>
 			<list>Confirmed planets</list>
 			<mass>4.04</mass>
-			<period>2102</period>
+			<period errorminus="264.0" errorplus="264.0">2102</period>
 			<semimajoraxis>3.6</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.33</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>196.1</temperature>
+			<periastron errorminus="8.0000" errorplus="8.0000">252.0</periastron>
+			<periastrontime errorminus="25.000000" errorplus="25.000000">2452516.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 169830</name>
 	</star>

@@ -2,32 +2,36 @@
 	<name>HD 164509</name>
 	<rightascension>18 01 31</rightascension>
 	<declination>+00 06 16</declination>
-	<distance>52</distance>
+	<distance errorminus="3.04" errorplus="2.72">51.81</distance>
 	<star>
-		<mass>1.13</mass>
-		<radius>1.06</radius>
-		<magV>8.24</magV>
+		<mass errorminus="0.02" errorplus="0.02">1.13</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.06</radius>
+		<magV errorminus="0.014" errorplus="0.014">8.103</magV>
 		<magB errorminus="0.019" errorplus="0.019">8.723</magB>
 		<magR errorminus="0.05" errorplus="0.05">7.85</magR>
 		<magJ errorminus="0.030" errorplus="0.030">6.938</magJ>
 		<magH errorminus="0.061" errorplus="0.061">6.665</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.586</magK>
-		<metallicity>0.21</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">0.21</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 164509 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.48</mass>
-			<period>282.4</period>
-			<semimajoraxis>0.875</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
+			<mass errorminus="0.09" errorplus="0.09">0.48</mass>
+			<period errorminus="3.8" errorplus="3.8">282.4</period>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.875</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.26</eccentricity>
 			<description>HD 164509 is a metal rich G5V star with at least one planet. A linear trend in the RV residuals suggest the existance of an additional planet.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/09/15</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2010</discoveryyear>
 			<temperature>286.2</temperature>
+			<periastron errorminus="110.0000" errorplus="110.0000">324.0</periastron>
+			<periastrontime errorminus="30.000000" errorplus="30.000000">2455703.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164509</name>
-		<temperature>5922.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5922.0</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.1</age>
 	</star>
 </system>

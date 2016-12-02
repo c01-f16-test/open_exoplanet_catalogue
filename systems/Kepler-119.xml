@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.035</semimajoraxis>
+			<impactparameter errorminus="0.1500" errorplus="0.1500">0.3</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-119 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.049</semimajoraxis>
+			<impactparameter errorminus="0.3800" errorplus="0.3800">0.51</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.083</metallicity>
+		<magV errorminus="" errorplus="">14.236</magV>
 	</star>
 </system>

@@ -12,9 +12,9 @@
 		<name>Kepler-215</name>
 		<name>KOI-700</name>
 		<name>KIC 8962094</name>
-		<temperature errorminus="64" errorplus="164">5739</temperature>
+		<temperature errorminus="164.0" errorplus="164">5739</temperature>
 		<radius errorminus=".236" errorplus="0.236">1.027</radius>
-		<mass errorminus="0.0750" errorplus="0.0750">0.9770</mass>
+		<mass errorminus="0.0750" errorplus="0.0750">0.77</mass>
 		<planet>
 			<name>Kepler-215 d</name>
 			<name>KOI-700 d</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.185</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.15</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-215 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.084</semimajoraxis>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.58</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-215 c</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.113</semimajoraxis>
+			<impactparameter errorminus="0.3100" errorplus="0.3100">0.85</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-215 e</name>
@@ -78,6 +84,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.314</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.28</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.618</metallicity>
+		<magV errorminus="" errorplus="">13.58</magV>
 	</star>
 </system>

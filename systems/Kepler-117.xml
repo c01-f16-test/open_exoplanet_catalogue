@@ -43,6 +43,8 @@
 			<lastupdate>14/11/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<periastron errorminus="7.5000" errorplus="7.5000">305.0</periastron>
+			<impactparameter errorminus="0.0870" errorplus="0.0360">0.268</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-117 b</name>
@@ -65,6 +67,9 @@
 			<lastupdate>14/11/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<periastron errorminus="4.1000" errorplus="4.1000">254.3</periastron>
+			<impactparameter errorminus="0.0320" errorplus="0.0320">0.446</impactparameter>
 		</planet>
+		<spectraltype>F8 V</spectraltype>
 	</star>
 </system>

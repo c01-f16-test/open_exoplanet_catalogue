@@ -12,7 +12,7 @@
 		<name>Kepler-216</name>
 		<name>KOI-708</name>
 		<name>KIC 9530945</name>
-		<temperature errorminus="20" errorplus="120">6091</temperature>
+		<temperature errorminus="120.0" errorplus="120">6091</temperature>
 		<radius errorminus=".243" errorplus="0.243">1.260</radius>
 		<mass errorminus="0.0800" errorplus="0.0800">1.1290</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.136</semimajoraxis>
+			<impactparameter errorminus="0.1600" errorplus="0.1600">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-216 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.72</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.183</metallicity>
+		<magV errorminus="" errorplus="">13.998</magV>
 	</star>
 </system>

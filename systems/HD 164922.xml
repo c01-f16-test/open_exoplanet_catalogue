@@ -2,10 +2,10 @@
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
 	<declination>+26 18 46</declination>
-	<distance>21.93</distance>
+	<distance errorminus="0.27" errorplus="0.27">22.13</distance>
 	<star>
-		<mass>0.94</mass>
-		<radius>0.9</radius>
+		<mass errorminus="0.01" errorplus="0.01">0.94</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.9</radius>
 		<magV>7.01</magV>
 		<magB>7.79</magB>
 		<magR>6.5</magR>
@@ -13,21 +13,23 @@
 		<magJ errorminus="0.026" errorplus="0.026">5.553</magJ>
 		<magH errorminus="0.017" errorplus="0.017">5.203</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
-		<metallicity>0.17</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<metallicity errorminus="0.05" errorplus="0.05">0.17</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.36</mass>
-			<period>1155</period>
-			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.0151" errorplus="0.01542">0.36</mass>
+			<period errorminus="5.5" errorplus="5.6">1201.1</period>
+			<semimajoraxis errorminus="0.012" errorplus="0.012">2.11</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.049">0.05</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>06/07/15</lastupdate>
-			<discoveryyear>2006</discoveryyear>
-			<temperature>155.0</temperature>
+			<discoveryyear>2005</discoveryyear>
+			<temperature errorminus="2.0" errorplus="2.0">159.0</temperature>
+			<periastron errorminus="20.0000" errorplus="24.0000">129.0</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 164922</name>
-		<temperature>5385.0</temperature>
+		<temperature errorminus="32.0" errorplus="32.0">5293.0</temperature>
 	</star>
 </system>
