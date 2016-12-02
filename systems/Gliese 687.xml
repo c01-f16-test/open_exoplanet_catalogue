@@ -10,7 +10,7 @@
 		<name>LHS 450</name>
 		<name>BD+68 946</name>
 		<name>HIP 86162</name>
-		<spectraltype>M3V</spectraltype>
+		<spectraltype>M3 V</spectraltype>
 		<mass errorminus="0.041" errorplus="0.041">0.413</mass>
 		<radius errorminus="0.0070" errorplus="0.0070">0.4183</radius>
 		<temperature errorminus="28" errorplus="28">3413</temperature>
@@ -32,6 +32,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/05/12</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron errorminus="120.5430" errorplus="120.5430">359.43</periastron>
+			<periastrontime errorminus="9.320000" errorplus="9.320000">2450579.11</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

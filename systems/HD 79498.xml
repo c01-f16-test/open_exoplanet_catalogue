@@ -2,10 +2,10 @@
 	<name>HD 79498</name>
 	<rightascension>09 15 09</rightascension>
 	<declination>+23 22 32</declination>
-	<distance>49</distance>
+	<distance errorminus="2.43" errorplus="2.21">48.64</distance>
 	<star>
 		<mass>1.06</mass>
-		<magV>8.03</magV>
+		<magV errorminus="0.012" errorplus="0.012">8.03</magV>
 		<magB errorminus="0.018" errorplus="0.018">8.726</magB>
 		<magR>7.6</magR>
 		<magI>7.2</magI>
@@ -17,15 +17,18 @@
 		<planet>
 			<name>HD 79498 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.34</mass>
-			<period>1966</period>
-			<semimajoraxis>3.13</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass errorminus="0.07" errorplus="0.07">1.34</mass>
+			<period errorminus="41.0" errorplus="41.0">1966</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">3.13</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.59</eccentricity>
 			<description>The planet HD 79498 b was found with 65 radial velocity observations over 7 years with the 2.7m Harlan J. Smith telescope.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/02/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>149.6</temperature>
+			<periastron errorminus="6.0000" errorplus="6.0000">221.0</periastron>
+			<periastrontime errorminus="39.000000" errorplus="39.000000">2453210.9</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 79498</name>
 		<temperature>5740.0</temperature>

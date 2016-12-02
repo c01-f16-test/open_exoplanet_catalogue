@@ -5,7 +5,7 @@
 	<distance errorminus="5" errorplus="5">48</distance>
 	<star>
 		<name>GU Psc</name>
-		<mass errorminus="0.25" errorplus="0.25">0.325</mass>
+		<mass errorminus="0.03" errorplus="0.03">0.325</mass>
 		<metallicity errorminus="0.13" errorplus="0.13">0.1</metallicity>
 		<spectraltype>M3</spectraltype>
 		<age errorminus="0.03" errorplus="0.03">0.1</age>
@@ -18,7 +18,7 @@
 		<planet>
 			<name>GU Psc b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="2" errorplus="2">11</mass>
+			<mass errorminus="1.7" errorplus="1.7">11.3</mass>
 			<temperature errorminus="50" errorplus="50">1050</temperature>
 			<spectraltype>T3.5</spectraltype>
 			<magJ errorminus="0.03" errorplus="0.03">18.12</magJ>
@@ -31,6 +31,9 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<semimajoraxis errorminus="200.000000" errorplus="200.000000">2000.0</semimajoraxis>
+			<radius errorminus="0.115" errorplus="0.115">1.265</radius>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

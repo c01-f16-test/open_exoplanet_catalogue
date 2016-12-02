@@ -13,12 +13,12 @@
 		<magJ errorminus="0.024" errorplus="0.024">11.350</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.762</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.530</magK>
-		<spectraltype errorminus="0.5">M1.0V</spectraltype>
+		<spectraltype errorminus="0.5">M1.0 V</spectraltype>
 		<temperature errorminus="185" errorplus="185">3785</temperature>
 		<metallicity errorminus="0.15" errorplus="0.15">-0.13</metallicity>
 		<radius errorminus="0.08" errorplus="0.08">0.52</radius>
 		<mass errorminus="0.10" errorplus="0.10">0.56</mass>
-		<age lowerlimit="1" />
+		<age lowerlimit="1">1.0</age>
 		<planet>
 			<name>K2-26 b</name>
 			<name>EPIC 202083828 b</name>
@@ -34,6 +34,8 @@
 			<description>K2-26b is a temperate sub-Neptune orbiting an M1 dwarf star. The orbit is likely to be eccentric, with a lower limit of 0.14 at 95% confidence.</description>
 			<lastupdate>16/01/21</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.3900" errorplus="0.2400">0.57</impactparameter>
+			<temperature errorminus="" errorplus="">430.0</temperature>
 		</planet>
 	</star>
 </system>

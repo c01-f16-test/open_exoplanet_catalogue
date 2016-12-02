@@ -2,7 +2,7 @@
 	<name>eps Coronae Borealis</name>
 	<rightascension>15 57 35.25147</rightascension>
 	<declination>+26 52 40.3635</declination>
-	<distance>67.9</distance>
+	<distance errorminus="3.65" errorplus="3.31">70.42</distance>
 	<binary>
 		<name>WDS J15576+2653</name>
 		<separation unit="arcsec">2.00</separation>
@@ -60,6 +60,7 @@
 				<lastupdate>15/09/22</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
+				<istransiting>0</istransiting>
 			</planet>
 		</star>
 		<star>

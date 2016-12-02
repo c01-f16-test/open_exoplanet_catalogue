@@ -36,6 +36,8 @@
 			<description>HD 103720 is a very young star orbited by a giant Jupiter planet.</description>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/11/21</lastupdate>
+			<periastrontime errorminus="0.040000" errorplus="0.040000">2455387.46</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

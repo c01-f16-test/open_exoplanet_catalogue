@@ -15,7 +15,7 @@
 		<magJ errorminus="0.020" errorplus="0.020">7.280</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.928</magH>
 		<magK errorminus="0.057" errorplus="0.057">6.881</magK>
-		<spectraltype>G6V</spectraltype>
+		<spectraltype>G6 V</spectraltype>
 		<temperature errorminus="17" errorplus="17">5392</temperature>
 		<metallicity errorminus="0.01" errorplus="0.01">-0.62</metallicity>
 		<mass errorminus="0.01" errorplus="0.01">0.71</mass>
@@ -23,7 +23,7 @@
 		<age errorminus="1.58" errorplus="1.58">10.32</age>
 		<planet>
 			<name>HD 175607 b</name>
-			<period errorminus="1.10" errorplus="1.10">8.98</period>
+			<period errorminus="0.02" errorplus="0.02">29.01</period>
 			<mass errorminus="0.0035" errorplus="0.0035" type="msini">0.0283</mass>
 			<eccentricity errorminus="0.07" errorplus="0.09">0.11</eccentricity>
 			<periastron errorminus="52" errorplus="52">142</periastron>
@@ -33,6 +33,7 @@
 			<description>HD 175607 b is a sub-Neptune planet orbiting a metal-poor star.</description>
 			<lastupdate>15/11/15</lastupdate>
 			<list>Confirmed planets</list>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 175607 c</name>

@@ -18,8 +18,8 @@
 		<magJ errorminus="0.026" errorplus="0.026">7.948</magJ>
 		<magH errorminus="0.040" errorplus="0.040">7.428</magH>
 		<magK errorminus="0.021" errorplus="0.021">7.135</magK>
-		<age errorminus="4.5" errorplus="4.5">5.5</age>
-		<spectraltype>M3.5V</spectraltype>
+		<age errorminus="4.0" errorplus="4.0">6.0</age>
+		<spectraltype>M3.5 V</spectraltype>
 		<planet>
 			<name>Gliese 163 b</name>
 			<name>GJ 163 b</name>
@@ -30,12 +30,14 @@
 			<period errorminus="0.00155" errorplus="0.00155">8.63182</period>
 			<semimajoraxis errorminus="0.00001" errorplus="0.00001">0.06070</semimajoraxis>
 			<eccentricity errorminus="0.05" errorplus="0.05">0.073</eccentricity>
-			<periastron errorminus="54.602878" errorplus="54.602878">70.702992</periastron>
+			<periastron errorminus="22.0" errorplus="22.0">97.0</periastron>
 			<longitude errorminus="15.699044" errorplus="15.699044">6.359832</longitude>
 			<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. The outer planet lies within the habitable zone.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/02/03</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
+			<periastrontime errorminus="0.010000" errorplus="0.010000">2455042.553</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>Gliese 163 c</name>
@@ -48,16 +50,18 @@
 			<period errorminus="0.02550" errorplus="0.02550">25.63058</period>
 			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.1254</semimajoraxis>
 			<eccentricity errorminus="0.086" errorplus="0.086">0.099</eccentricity>
-			<periastron errorminus="79.870317" errorplus="79.870317">227.005878</periastron>
+			<periastron errorminus="68.0" errorplus="68.0">-145.0</periastron>
 			<longitude errorminus="30.022988" errorplus="30.022988">24.522594</longitude>
 			<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. Gliese 163 c lies within the habitable zone for a wide range of albedo values and has an equilibrium temperature of 60C (140F).</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/02/03</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<image>Gliese163c</image>
 			<imagedescription>Artist's impression of the exoplanet Gliese 163 showing a thick water vapour atmosphere.
 			
 Credit: Joe Gallagher.</imagedescription>
+			<periastrontime errorminus="4.800000" errorplus="4.800000">2455057.7</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>Gliese 163 d</name>
@@ -67,13 +71,18 @@ Credit: Joe Gallagher.</imagedescription>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.009123" errorplus="0.009123" type="msini">0.092484</mass>
 			<eccentricity errorminus="0.077" errorplus="0.077">0.373</eccentricity>
-			<periastron errorminus="20.454593" errorplus="20.454593">118.258489</periastron>
+			<periastron errorminus="17.0" errorplus="17.0">88.0</periastron>
 			<longitude errorminus="17.246030" errorplus="17.246030">144.958322</longitude>
 			<semimajoraxis errorminus="0.0086" errorplus="0.0086">1.0304</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>16/02/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodic signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
+			<period errorminus="12.00000000" errorplus="12.00000000">603.0</period>
+			<periastrontime errorminus="24.000000" errorplus="24.000000">2455275.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
+		<temperature errorminus="100.00" errorplus="100.00">3500.0</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">0.1</metallicity>
 	</star>
 </system>

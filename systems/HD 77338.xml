@@ -2,31 +2,33 @@
 	<name>HD 77338</name>
 	<rightascension>09 01 12</rightascension>
 	<declination>-25 31 37</declination>
-	<distance>40.75</distance>
+	<distance errorminus="2.11" errorplus="1.92">41.27</distance>
 	<star>
-		<mass>0.93</mass>
-		<radius>0.88</radius>
-		<magV>8.63</magV>
+		<mass errorplus="0.05">0.93</mass>
+		<radius errorplus="0.04">0.88</radius>
+		<magV errorminus="0.013" errorplus="0.013">8.63</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.47</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.218</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.905</magH>
 		<magK errorminus="0.016" errorplus="0.016">6.761</magK>
 		<metallicity>0.35</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K0 IV</spectraltype>
 		<planet>
 			<name>HD 77338 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0487583</mass>
-			<period>5.7361</period>
+			<mass errorminus="0.017" errorplus="0.015">0.0487583</mass>
+			<period errorminus="0.0015" errorplus="0.0015">5.7361</period>
 			<semimajoraxis>0.0611</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity errorminus="0.09" errorplus="0.25">0.0</eccentricity>
 			<description>The planet HD77338 b is a Hot Uranus orbiting a super metal-rich K0V star. It was discovered by the Calan-Hertfordshire Extrasolar Planet Search.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>896.4</temperature>
+			<periastron errorminus="" errorplus="">223.454</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 77338</name>
-		<temperature>5370.0</temperature>
+		<temperature errorplus="82.0">5370.0</temperature>
 	</star>
 </system>

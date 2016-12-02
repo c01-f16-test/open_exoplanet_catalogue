@@ -2,32 +2,35 @@
 	<name>HD 100655</name>
 	<rightascension>11 35 04</rightascension>
 	<declination>+20 26 30</declination>
-	<distance>122</distance>
+	<distance errorminus="19.16" errorplus="15.06">140.85</distance>
 	<star>
-		<mass>2.4</mass>
-		<radius>9.3</radius>
+		<mass errorminus="0.4" errorplus="0.2">2.4</mass>
+		<radius errorminus="1.1" errorplus="1.3">9.3</radius>
 		<magV>6.45</magV>
 		<magB errorminus="0.017" errorplus="0.017">7.468</magB>
 		<magR errorminus="0.35" errorplus="0.35">6.37</magR>
 		<magJ errorminus="0.194" errorplus="0.194">5.039</magJ>
 		<magH errorminus="0.202" errorplus="0.202">4.470</magH>
 		<magK errorminus="0.024" errorplus="0.024">4.129</magK>
-		<metallicity>0.15</metallicity>
-		<spectraltype>G9III</spectraltype>
+		<metallicity errorminus="0.12" errorplus="0.12">0.15</metallicity>
+		<spectraltype>G9 III</spectraltype>
 		<planet>
 			<name>HD 100655 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.7</mass>
-			<period>157.57</period>
-			<semimajoraxis>0.76</semimajoraxis>
-			<eccentricity>0.085</eccentricity>
+			<mass errorminus="0.2" errorplus="0.1">1.7</mass>
+			<period errorminus="0.65" errorplus="0.65">157.57</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.02">0.76</semimajoraxis>
+			<eccentricity errorminus="0.054" errorplus="0.054">0.085</eccentricity>
 			<description>HD 100655b is a planetary companion to a star which is more than twice as massive as our Sun. Even though the planet is heavier than Jupiter, it is the lowest-mass planet known around giant stars with more than 1.9 solar masses.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>749.4</temperature>
+			<periastron errorminus="37.0000" errorplus="37.0000">132.0</periastron>
+			<periastrontime errorminus="15.900000" errorplus="15.900000">2453072.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 100655</name>
-		<temperature>4861.0</temperature>
+		<temperature errorminus="110.0" errorplus="110.0">4861.0</temperature>
 	</star>
 </system>

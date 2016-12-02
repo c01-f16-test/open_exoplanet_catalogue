@@ -45,6 +45,8 @@
 			<lastupdate>15/04/15</lastupdate>
 			<discoveryyear>1996</discoveryyear>
 			<temperature>479.1</temperature>
+			<periastron errorminus="0.3000" errorplus="0.3000">358.8</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

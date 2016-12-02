@@ -2,10 +2,10 @@
 	<name>HD 81040</name>
 	<rightascension>09 23 47</rightascension>
 	<declination>+20 21 52</declination>
-	<distance>32.56</distance>
+	<distance errorminus="1.37" errorplus="1.26">32.56</distance>
 	<star>
-		<mass>0.96</mass>
-		<radius>0.86</radius>
+		<mass errorminus="0.04" errorplus="0.04">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.86</radius>
 		<magV>7.72</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.370</magB>
 		<magR>7.3</magR>
@@ -13,21 +13,25 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.505</magJ>
 		<magH errorminus="0.031" errorplus="0.031">6.268</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.159</magK>
-		<metallicity>-0.16</metallicity>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.16</metallicity>
 		<spectraltype>G2/G3</spectraltype>
 		<planet>
 			<name>HD 81040 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.86</mass>
-			<period>1001.7</period>
+			<mass errorminus="0.71" errorplus="0.71">6.86</mass>
+			<period errorminus="7.0" errorplus="7.0">1001.7</period>
 			<semimajoraxis>1.94</semimajoraxis>
-			<eccentricity>0.526</eccentricity>
+			<eccentricity errorminus="0.042" errorplus="0.042">0.526</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/23</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>164.2</temperature>
+			<periastron errorminus="7.2000" errorplus="7.2000">81.3</periastron>
+			<periastrontime errorminus="12.000000" errorplus="12.000000">2452504.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 81040</name>
-		<temperature>5700.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">5700.0</temperature>
+		<age errorminus="0.100" errorplus="0.100">0.73</age>
 	</star>
 </system>

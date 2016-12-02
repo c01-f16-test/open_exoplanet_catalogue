@@ -2,31 +2,35 @@
 	<name>HD 106270</name>
 	<rightascension>12 13 37</rightascension>
 	<declination>-09 30 47</declination>
-	<distance>84.9</distance>
+	<distance errorminus="8.65" errorplus="7.23">87.87</distance>
 	<star>
-		<mass>1.32</mass>
-		<radius>2.5</radius>
-		<magV>7.73</magV>
+		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
+		<radius errorminus="0.1" errorplus="0.1">2.5</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.577</magV>
 		<magB errorminus="0.016" errorplus="0.016">8.319</magB>
 		<magJ errorminus="0.026" errorplus="0.026">6.249</magJ>
 		<magH errorminus="0.040" errorplus="0.040">5.964</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.862</magK>
-		<metallicity>0.08</metallicity>
-		<spectraltype>G5</spectraltype>
+		<metallicity errorminus="0.03" errorplus="0.03">0.08</metallicity>
+		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 106270 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.0</mass>
-			<period>2890</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.402</eccentricity>
+			<mass errorminus="0.8" errorplus="0.8">11.0</mass>
+			<period errorminus="390.0" errorplus="390.0">2890</period>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">4.3</semimajoraxis>
+			<eccentricity errorminus="0.054" errorplus="0.054">0.402</eccentricity>
 			<description>The star HD 106270 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>187.6</temperature>
+			<periastron errorminus="4.0000" errorplus="4.0000">15.2</periastron>
+			<periastrontime errorminus="390.000000" errorplus="390.000000">2454830.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 106270</name>
-		<temperature>5638.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5638.0</temperature>
+		<age errorminus="0.600" errorplus="0.600">4.3</age>
 	</star>
 </system>

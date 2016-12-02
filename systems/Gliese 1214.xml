@@ -7,10 +7,10 @@
 	<star>
 		<name>Gliese 1214</name>
 		<name>GJ 1214</name>
-		<temperature errorminus="100" errorplus="100">3250</temperature>
+		<temperature errorminus="23.0" errorplus="23.0">3170.0</temperature>
 		<mass errorminus="0.009" errorplus="0.009">0.176</mass>
 		<radius errorminus="0.0043" errorplus="0.0043">0.2213</radius>
-		<magV>14.71</magV>
+		<magV errorminus="0.6" errorplus="0.6">15.1</magV>
 		<magB>16.40</magB>
 		<magR>13.8</magR>
 		<magI>11.1</magI>
@@ -30,7 +30,7 @@
 			<period errorminus="0.00000022" errorplus="0.00000022">1.58040417</period>
 			<semimajoraxis errorminus="0.00025" errorplus="0.00025">0.01488</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.10" errorplus="0.10">88.47</inclination>
+			<inclination errorminus="0.54" errorplus="0.54">88.17</inclination>
 			<description>Gliese 1214 is a red dwarf in the constellation Ophiuchus only 40 light years away. The planet was found with a 40cm telescope and commercially available cameras. New observations from NASA's Hubble Space Telescope show that it is a waterworld enshrouded by a thick, steamy atmosphere. GJ1214b represents a new type of planet, like nothing seen in our solar system or any other planetary system currently known.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/12/07</lastupdate>

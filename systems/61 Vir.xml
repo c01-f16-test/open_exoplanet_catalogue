@@ -23,9 +23,9 @@
 		<magH errorminus="0.176" errorplus="0.176">2.974</magH>
 		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
 		<metallicity>0.05</metallicity>
-		<temperature>5571</temperature>
-		<age errorminus="3.1" errorplus="3.3">6.3</age>
-		<spectraltype>G5V</spectraltype>
+		<temperature errorminus="33.0" errorplus="33.0">5577.0</temperature>
+		<age errorminus="3.1" errorplus="2.76">8.96</age>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>61 Vir b</name>
 			<list>Confirmed planets</list>
@@ -39,6 +39,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>61 Vir c</name>
@@ -53,6 +54,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>61 Vir d</name>
@@ -67,6 +69,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

@@ -21,7 +21,7 @@
 		<magK errorminus="0.023" errorplus="0.023">7.733</magK>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.09</metallicity>
 		<spectraltype>M2.5</spectraltype>
-		<temperature errorminus="49" errorplus="49">3546</temperature>
+		<temperature errorminus="49" errorplus="49">3526.0</temperature>
 		<planet>
 			<name>Gliese 3341 b</name>
 			<name>GJ 3341 b</name>
@@ -39,7 +39,9 @@
 			<istransiting>0</istransiting>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/25</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2015</discoveryyear>
+			<periastron errorminus="4.3000" errorplus="4.3000">42.32</periastron>
+			<periastrontime errorminus="0.800000" errorplus="0.800000">2455622.7</periastrontime>
 		</planet>
 	</star>
 </system>

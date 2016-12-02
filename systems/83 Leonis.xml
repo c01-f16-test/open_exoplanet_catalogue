@@ -2,7 +2,7 @@
 	<name>83 Leonis</name>
 	<rightascension>11 26 45.32180</rightascension>
 	<declination>+03 00 47.1551</declination>
-	<distance errorminus="0.14" errorplus="0.14">17.79</distance>
+	<distance errorminus="1.46" errorplus="1.46">55.7</distance>
 	<binary>
 		<name>83 Leonis</name>
 		<name>83 Leo</name>
@@ -54,17 +54,17 @@
 			<name>STF 1540 B</name>
 			<mass errorminus="0.020" errorplus="0.036">0.832</mass>
 			<radius errorminus="0.02" errorplus="0.04">0.76</radius>
-			<magV>7.38</magV>
+			<magV>7.58</magV>
 			<magB>7.29</magB>
 			<magR>6.0</magR>
 			<magI>5.6</magI>
 			<magJ errorminus="0.023" errorplus="0.023">5.165</magJ>
 			<magH errorminus="0.065" errorplus="0.065">4.937</magH>
 			<magK errorminus="0.015" errorplus="0.015">4.747</magK>
-			<age>4</age>
-			<metallicity>0.36</metallicity>
-			<temperature>4740</temperature>
-			<spectraltype>K2V</spectraltype>
+			<age errorminus="4.1" errorplus="4.1">4.8</age>
+			<metallicity errorminus="0.03" errorplus="0.03">0.36</metallicity>
+			<temperature errorminus="44.0" errorplus="44.0">4929.0</temperature>
+			<spectraltype>K2/4</spectraltype>
 			<planet>
 				<name>83 Leonis B b</name>
 				<name>83 Leo B b</name>
@@ -76,13 +76,14 @@
 				<period errorminus="0.003" errorplus="0.003">17.054</period>
 				<semimajoraxis errorminus="0.00002" errorplus="0.00002">0.12186</semimajoraxis>
 				<eccentricity errorminus="0.07" errorplus="0.07">0.13</eccentricity>
-				<periastron errorminus="32" errorplus="32">196</periastron>
-				<periastrontime errorminus="2" errorplus="2">2450449</periastrontime>
+				<periastron errorminus="75.4" errorplus="75.4">240.7</periastron>
+				<periastrontime errorminus="3.392" errorplus="3.392">2453776.317</periastrontime>
 				<discoverymethod>RV</discoverymethod>
 				<description>The first planet around the star 83 Leonis B (HD 99492) was discovered in 2004. The second planet was found 6 years later.</description>
 				<lastupdate>15/11/02</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
+				<istransiting>0</istransiting>
 			</planet>
 			<planet>
 				<name>83 Leonis B c</name>

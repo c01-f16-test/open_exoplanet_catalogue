@@ -21,17 +21,19 @@
 		<planet>
 			<name>DP Leo b</name>
 			<list>Confirmed planets</list>
-			<mass>6.05</mass>
-			<period>10230</period>
-			<semimajoraxis>8.19</semimajoraxis>
-			<eccentricity>0.39</eccentricity>
+			<mass errorminus="0.58" errorplus="0.47">6.05</mass>
+			<period errorminus="730.0" errorplus="730.0">10220.0</period>
+			<semimajoraxis errorminus="0.39" errorplus="0.39">8.19</semimajoraxis>
+			<eccentricity errorminus="0.13" errorplus="0.13">0.39</eccentricity>
 			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2448773.21461</transittime>
 			<description>DP Leonis is an eclipsing binary system.</description>
-			<discoverymethod>timing</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>10/11/18</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron errorminus="20.0000" errorplus="20.0000">-78.0</periastron>
+			<periastrontime errorminus="500.000000" errorplus="500.000000">2453025.0</periastrontime>
 		</planet>
 	</binary>
 </system>
