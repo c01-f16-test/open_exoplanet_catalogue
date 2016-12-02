@@ -4,7 +4,7 @@
 	<declination>+01 12 02</declination>
 	<star>
 		<mass errorminus="0.03" errorplus="0.03">1.1</mass>
-		<radius>1.09</radius>
+		<radius errorplus="0.05">1.09</radius>
 		<magV>11.3</magV>
 		<magB errorminus="0.18" errorplus="0.18">12.06</magB>
 		<magR errorminus="0.03" errorplus="0.03">11.63</magR>
@@ -33,6 +33,7 @@
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1427.6</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="30.0000" errorplus="30.0000">130.0</periastron>
 		</planet>
 		<name>WASP-32</name>
 		<temperature errorminus="100" errorplus="100">6100.0</temperature>

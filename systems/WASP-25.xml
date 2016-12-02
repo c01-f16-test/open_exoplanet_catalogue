@@ -4,8 +4,8 @@
 	<declination>-27 31 20</declination>
 	<distance>169</distance>
 	<star>
-		<mass>1</mass>
-		<radius>0.95</radius>
+		<mass errorplus="0.03">1</mass>
+		<radius errorplus="0.04">0.95</radius>
 		<magV>11.9</magV>
 		<magB errorminus="0.20" errorplus="0.20">12.27</magB>
 		<magR errorminus="0.06" errorplus="0.06">11.82</magR>
@@ -20,20 +20,21 @@
 			<name>2MASS J13012637-2731199 b</name>
 			<name>TYC 6706-00861-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.58</mass>
-			<radius>1.26</radius>
-			<period>3.76483</period>
-			<semimajoraxis>0.0474</semimajoraxis>
+			<mass errorminus="0.04" errorplus="0.04">0.58</mass>
+			<radius errorminus="0.05" errorplus="0.06">1.26</radius>
+			<period errorminus="5e-06" errorplus="5e-06">3.76483</period>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0474</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.7</inclination>
+			<inclination errorminus="0.5" errorplus="0.5">88.0</inclination>
 			<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455274.99727</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/03/23</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1135.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="" errorplus="">0.0</periastron>
 		</planet>
 		<name>WASP-25</name>
-		<temperature>5750.0</temperature>
+		<temperature errorplus="100.0">5703.0</temperature>
 	</star>
 </system>

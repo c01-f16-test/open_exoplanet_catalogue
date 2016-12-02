@@ -4,8 +4,8 @@
 	<declination>-00 07 41</declination>
 	<distance errorminus="30" errorplus="30">200</distance>
 	<star>
-		<mass>1.15</mass>
-		<radius>1.40</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.15</mass>
+		<radius errorminus="0.08" errorplus="0.09">1.83</radius>
 		<temperature errorminus="100" errorplus="100">6100</temperature>
 		<magB errorminus="0.07" errorplus="0.07">10.98</magB>
 		<magV errorminus="0.06" errorplus="0.06">10.42</magV>
@@ -19,20 +19,23 @@
 		<planet>
 			<name>WASP-54 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.636</mass>
-			<radius>1.653</radius>
-			<period>3.6936411</period>
-			<semimajoraxis>0.04987</semimajoraxis>
-			<eccentricity>0.067</eccentricity>
-			<inclination>84.97</inclination>
+			<mass errorminus="0.024" errorplus="0.025">0.636</mass>
+			<radius errorminus="0.083" errorplus="0.09">1.653</radius>
+			<period errorminus="7.4e-06" errorplus="4.3e-06">3.6936411</period>
+			<semimajoraxis errorminus="0.00044" errorplus="0.00044">0.04987</semimajoraxis>
+			<eccentricity errorminus="0.025" errorplus="0.033">0.067</eccentricity>
+			<inclination errorminus="0.59" errorplus="0.63">84.97</inclination>
 			<transittime errorminus="0.00056" errorplus="0.00049" unit="BJD">2455518.35087</transittime>
 			<temperature errorminus="46" errorplus="46">1759</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/10/08</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron errorminus="33.0000" errorplus="21.0000">62.0</periastron>
+			<impactparameter errorminus="0.0440" errorplus="0.0260">0.49</impactparameter>
 		</planet>
 		<name>WASP-54</name>
+		<age errorminus="2.400" errorplus="1.600">6.3</age>
 	</star>
 </system>

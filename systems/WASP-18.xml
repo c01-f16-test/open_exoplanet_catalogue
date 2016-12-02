@@ -2,16 +2,16 @@
 	<name>WASP-18</name>
 	<rightascension>01 37 25</rightascension>
 	<declination>-45 40 40</declination>
-	<distance>100</distance>
+	<distance errorminus="15.14" errorplus="11.77">105.49</distance>
 	<star>
-		<mass>1.24</mass>
-		<radius>1.23</radius>
-		<magV>9.3</magV>
+		<mass errorminus="0.07" errorplus="0.07">1.24</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.23</radius>
+		<magV errorminus="0.018" errorplus="0.018">9.3</magV>
 		<magB>9.74</magB>
 		<magJ errorminus="0.018" errorplus="0.018">8.409</magJ>
 		<magH errorminus="0.055" errorplus="0.055">8.231</magH>
 		<magK errorminus="0.027" errorplus="0.027">8.131</magK>
-		<spectraltype>F6</spectraltype>
+		<spectraltype>F6 IV/V</spectraltype>
 		<planet>
 			<name>WASP-18 b</name>
 			<name>HIP 7562 b</name>
@@ -22,20 +22,21 @@
 			<name>SAO 215585 b</name>
 			<name>2MASS J01372503-4540404 b</name>
 			<list>Confirmed planets</list>
-			<mass>10.43</mass>
-			<radius>1.165</radius>
-			<period>0.9414518</period>
-			<semimajoraxis>0.02047</semimajoraxis>
-			<eccentricity>0.0088</eccentricity>
-			<inclination>86</inclination>
+			<mass errorminus="0.38" errorplus="0.38">10.43</mass>
+			<radius errorminus="0.057" errorplus="0.057">1.165</radius>
+			<period errorminus="8.7e-07" errorplus="8.7e-07">0.9414518</period>
+			<semimajoraxis errorminus="0.00068" errorplus="0.00068">0.02047</semimajoraxis>
+			<eccentricity errorminus="0.0028" errorplus="0.0028">0.0088</eccentricity>
+			<inclination errorminus="2.5" errorplus="2.5">86</inclination>
 			<transittime errorminus="0.000080" errorplus="0.000080" unit="BJD">2455084.792931</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/07/05</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>2187.5</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="10.0000" errorplus="10.0000">-96.0</periastron>
 		</planet>
 		<name>WASP-18</name>
-		<temperature>6400.0</temperature>
+		<temperature errorplus="100.0">6400.0</temperature>
 	</star>
 </system>

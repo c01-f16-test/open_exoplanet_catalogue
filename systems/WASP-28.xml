@@ -35,10 +35,11 @@
 			<inclination errorminus="0.67" errorplus="0.67">88.61</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/02/07</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2014</discoveryyear>
 			<temperature errorminus="37" errorplus="37">1468</temperature>
 			<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1000" errorplus="0.1000">0.21</impactparameter>
 		</planet>
 	</star>
 </system>

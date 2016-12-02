@@ -20,5 +20,8 @@
 			<period errorminus="0.000030710" errorplus="0.000030710">8.638477250</period>
 			<radius errorminus="0.021" errorplus="0.037">0.189</radius>
 		</planet>
+		<age errorminus="2.000" errorplus="3.300">3.72</age>
+		<magV errorminus="" errorplus="">14.507</magV>
 	</star>
+	<distance errorminus="103.69" errorplus="188.14">915.0</distance>
 </system>

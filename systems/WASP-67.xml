@@ -2,13 +2,13 @@
 	<name>WASP-67</name>
 	<rightascension>19 42 59</rightascension>
 	<declination>-19 56 58</declination>
-	<distance>225</distance>
+	<distance errorminus="45.0" errorplus="45.0">225</distance>
 	<star>
 		<name>WASP-67</name>
 		<name>TYC 6307-1388-1</name>
 		<name>2MASS J19425852-1956585</name>
-		<mass>0.87</mass>
-		<radius>0.87</radius>
+		<mass errorplus="0.04">0.87</mass>
+		<radius errorplus="0.04">0.87</radius>
 		<magV>12.5</magV>
 		<magB errorminus="0.29" errorplus="0.29">12.90</magB>
 		<magJ errorminus="0.023" errorplus="0.023">10.608</magJ>
@@ -21,20 +21,20 @@
 			<name>TYC 6307-1388-1 b</name>
 			<name>2MASS J19425852-1956585 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.42</mass>
-			<radius>1.4</radius>
-			<period>4.61442</period>
-			<semimajoraxis>0.0517</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>85.8</inclination>
+			<mass errorminus="0.04" errorplus="0.04">0.42</mass>
+			<radius errorminus="0.2" errorplus="0.3">1.4</radius>
+			<period errorminus="1e-05" errorplus="1e-05">4.61442</period>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0517</semimajoraxis>
+			<eccentricity>0.2</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.3">85.8</inclination>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455824.3750</transittime>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/24</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<temperature>940.6</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<temperature>5200.0</temperature>
+		<temperature errorplus="10.0">5240.0</temperature>
 	</star>
 </system>

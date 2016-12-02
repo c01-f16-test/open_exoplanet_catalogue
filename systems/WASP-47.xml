@@ -9,34 +9,35 @@
 		<name>2MASS J22044873-1201079</name>
 		<name>K2-23</name>
 		<name>EPIC 206103150</name>
-		<mass errorminus="0.076" errorplus="0.076">1.026</mass>
-		<radius errorminus="0.04" errorplus="0.04">1.15</radius>
+		<mass errorminus="0.49" errorplus="0.89">1.026</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.15</radius>
 		<magV>11.9</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.613</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.310</magH>
 		<magK errorminus="0.026" errorplus="0.026">10.192</magK>
 		<metallicity errorminus="0.05" errorplus="0.05">0.36</metallicity>
 		<spectraltype>G9V</spectraltype>
-		<temperature errorminus="67" errorplus="67">5576</temperature>
+		<temperature errorminus="68.0" errorplus="68.0">5576</temperature>
 		<planet>
 			<name>WASP-47 b</name>
 			<name>2MASS J22044873-1201079 b</name>
 			<name>K2-23 b</name>
 			<name>EPIC 206103150 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.091" errorplus="0.091">1.164</mass>
-			<radius errorminus="0.039" errorplus="0.039">1.139</radius>
+			<mass errorminus="0.39" errorplus="0.59">1.164</mass>
+			<radius errorminus="0.25" errorplus="0.25">1.139</radius>
 			<period errorminus="0.0000049" errorplus="0.0000049">4.1591287</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
-			<eccentricity upperlimit="0.026" />
+			<eccentricity errorminus="0.002" errorplus="0.0042" upperlimit="0.026">0.0028</eccentricity>
 			<inclination errorminus="0.27" errorplus="0.27">89.03</inclination>
 			<transittime errorminus="0.000023" errorplus="0.000023" unit="BJD">2457007.932131</transittime>
 			<spinorbitalignment errorminus="24" errorplus="24">0</spinorbitalignment>
 			<description>This hot Jupiter planet was announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The K2 mission discovered two additional transiting planets in 2015, and an outer giant planet was discovered by radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/10/17</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron errorminus="79.0000" errorplus="79.0000">30.0</periastron>
 		</planet>
 		<planet>
 			<name>WASP-47 e</name>
@@ -47,14 +48,16 @@
 			<mass errorminus="0.0116" errorplus="0.0116">0.0384</mass>
 			<radius errorminus="0.0062" errorplus="0.0062">0.1631</radius>
 			<period errorminus="0.000013" errorplus="0.000013">0.789597</period>
-			<semimajoraxis>0.017</semimajoraxis>
-			<inclination errorminus="3.1" errorplus="3.1">87.0</inclination>
+			<semimajoraxis errorminus="0.0038" errorplus="0.0038">0.017</semimajoraxis>
+			<inclination errorminus="2.1" errorplus="2.1">86.2</inclination>
 			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2457011.34849</transittime>
 			<description>This super-Earth planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter. Radial velocity measurements indicate this is a rocky planet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/10/17</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.020000" errorplus="0.036000">0.03</eccentricity>
+			<periastron errorminus="140.0000" errorplus="140.0000">160.0</periastron>
 		</planet>
 		<planet>
 			<name>WASP-47 d</name>
@@ -65,14 +68,16 @@
 			<mass errorminus="0.0264" errorplus="0.0264">0.0328</mass>
 			<radius errorminus="0.012" errorplus="0.012">0.324</radius>
 			<period errorminus="0.00019" errorplus="0.00019">9.03081</period>
-			<semimajoraxis>0.088</semimajoraxis>
-			<inclination errorminus="0.67" errorplus="0.67">89.36</inclination>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">0.088</semimajoraxis>
+			<inclination errorminus="0.13" errorplus="0.13">89.22</inclination>
 			<transittime errorminus="0.00044" errorplus="0.00044" unit="BJD">2457006.36927</transittime>
 			<description>This Neptune-sized outer planet was discovered by the K2 mission which measured transit timing variations at the inner hot Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/10/17</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.004100" errorplus="0.009800">0.006</eccentricity>
+			<periastron errorminus="89.0000" errorplus="89.0000">27.0</periastron>
 		</planet>
 		<planet>
 			<name>WASP-47 c</name>
@@ -80,17 +85,19 @@
 			<name>K2-23 c</name>
 			<name>EPIC 206103150 c</name>
 			<list>Confirmed planets</list>
-			<period errorminus="7" errorplus="7">572</period>
+			<period errorminus="9.6" errorplus="9.6">580.7</period>
 			<transittime errorminus="16" errorplus="16" unit="BJD">2455981</transittime>
 			<istransiting>0</istransiting>
-			<mass errorminus="0.22" errorplus="0.22" type="msini">1.24</mass>
-			<eccentricity errorminus="0.10" errorplus="0.10">0.13</eccentricity>
-			<periastron errorminus="53" errorplus="53">144</periastron>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">1.36</semimajoraxis>
+			<mass errorminus="0.59" errorplus="1.0" type="msini">1.57</mass>
+			<eccentricity errorminus="0.10" errorplus="0.10">0.36</eccentricity>
+			<periastron errorminus="20.0" errorplus="20.0">136.0</periastron>
+			<semimajoraxis errorminus="0.3" errorplus="0.3">1.36</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<description>WASP-47c was discovered from radial velocity follow-up of the WASP-47 system.</description>
 			<lastupdate>15/10/17</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<inclination errorminus="45.000" errorplus="45.000">87.0</inclination>
 		</planet>
+		<age errorminus="1.200" errorplus="2.600">6.5</age>
 	</star>
 </system>

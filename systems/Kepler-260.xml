@@ -12,7 +12,7 @@
 		<name>Kepler-260</name>
 		<name>KOI-986</name>
 		<name>KIC 2854698</name>
-		<temperature errorminus="57" errorplus="257">5250</temperature>
+		<temperature errorminus="257.0" errorplus="257">5250</temperature>
 		<radius errorminus=".233" errorplus="0.233">0.862</radius>
 		<mass errorminus="0.1000" errorplus="0.1000">0.9000</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.075</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.46</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-260 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.332</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.66</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.034</metallicity>
+		<magV errorminus="" errorplus="">14.138</magV>
 	</star>
 </system>

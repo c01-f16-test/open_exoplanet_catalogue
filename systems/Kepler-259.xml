@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.079</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.75</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-259 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.217</semimajoraxis>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.03</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.165</metallicity>
+		<magV errorminus="" errorplus="">15.219</magV>
 	</star>
 </system>

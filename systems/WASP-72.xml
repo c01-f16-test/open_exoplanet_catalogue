@@ -4,8 +4,8 @@
 	<declination>-30 10 08</declination>
 	<distance errorminus="60" errorplus="60">340</distance>
 	<star>
-		<mass>1.23</mass>
-		<radius>1.37</radius>
+		<mass errorminus="0.06" errorplus="0.06">1.39</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.98</radius>
 		<temperature errorminus="100" errorplus="100">6250</temperature>
 		<magV>10.88</magV>
 		<magR>10.47</magR>
@@ -14,18 +14,18 @@
 		<magJ errorminus="0.024" errorplus="0.024">9.964</magJ>
 		<magH errorminus="0.024" errorplus="0.024">9.724</magH>
 		<magK errorminus="0.021" errorplus="0.021">9.617</magK>
-		<metallicity>-0.06</metallicity>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.06</metallicity>
 		<spectraltype>F7</spectraltype>
 		<planet>
 			<name>WASP-72 b</name>
 			<name>1SWASPJ024409.60-301008.5 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.410</mass>
-			<radius>1.01</radius>
-			<period>2.21672</period>
-			<semimajoraxis>0.03655</semimajoraxis>
+			<mass errorminus="0.056" errorplus="0.059">1.5461</mass>
+			<radius errorminus="0.2" errorplus="0.2">1.27</radius>
+			<period errorminus="8.1e-06" errorplus="8.1e-06">2.21672</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.03655</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>86.8</inclination>
+			<inclination errorminus="2.6" errorplus="3.2">81.6</inclination>
 			<transittime errorminus="0.0021" errorplus="0.0021" unit="HJD">2455583.6529</transittime>
 			<temperature errorminus="130" errorplus="120">2210</temperature>
 			<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
@@ -33,7 +33,9 @@
 			<lastupdate>12/10/17</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1800" errorplus="0.1000">0.59</impactparameter>
 		</planet>
 		<name>WASP-72</name>
+		<age errorminus="1.900" errorplus="4.000">3.7</age>
 	</star>
 </system>

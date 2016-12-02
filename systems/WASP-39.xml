@@ -2,11 +2,11 @@
 	<name>WASP-39</name>
 	<rightascension>14 29 18</rightascension>
 	<declination>-03 26 40</declination>
-	<distance>230</distance>
+	<distance errorminus="80.0" errorplus="80.0">230</distance>
 	<star>
-		<mass>0.93</mass>
-		<radius>0.895</radius>
-		<magV>12.11</magV>
+		<mass errorplus="0.03">0.93</mass>
+		<radius errorplus="0.02">0.895</radius>
+		<magV errorminus="0.13" errorplus="0.13">12.11</magV>
 		<magB errorminus="0.25" errorplus="0.25">12.93</magB>
 		<magR errorminus="0.14" errorplus="0.14">12.17</magR>
 		<magI errorminus="0.07" errorplus="0.07">11.29</magI>
@@ -19,12 +19,12 @@
 			<name>WASP-39 b</name>
 			<name>2MASS J14291840-0326403 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.28</mass>
-			<radius>1.27</radius>
-			<period>4.055259</period>
-			<semimajoraxis>0.0486</semimajoraxis>
+			<mass errorminus="0.03" errorplus="0.03">0.28</mass>
+			<radius errorminus="0.04" errorplus="0.04">1.27</radius>
+			<period errorminus="9e-06" errorplus="9e-06">4.055259</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0486</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.83</inclination>
+			<inclination errorminus="0.22" errorplus="0.25">87.83</inclination>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455342.9696</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/09/08</lastupdate>
@@ -33,6 +33,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-39</name>
-		<temperature>5400.0</temperature>
+		<temperature errorplus="150.0">5400.0</temperature>
 	</star>
 </system>

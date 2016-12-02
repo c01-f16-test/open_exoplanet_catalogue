@@ -2,10 +2,10 @@
 	<name>WASP-34</name>
 	<rightascension>11 01 36</rightascension>
 	<declination>-23 51 38</declination>
-	<distance>120</distance>
+	<distance errorminus="15.0" errorplus="15.0">120</distance>
 	<star>
-		<mass>1.01</mass>
-		<radius>0.93</radius>
+		<mass errorplus="0.07">1.01</mass>
+		<radius errorplus="0.12">0.93</radius>
 		<magV>10.4</magV>
 		<magB errorminus="0.09" errorplus="0.09">11.05</magB>
 		<magR errorminus="0.03" errorplus="0.03">10.21</magR>
@@ -20,20 +20,22 @@
 			<name>TYC 6636-00540-1 b</name>
 			<name>2MASS J11013589-2351382 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.59</mass>
-			<radius>1.22</radius>
-			<period>4.3176782</period>
-			<semimajoraxis>0.0524</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
-			<inclination>85.2</inclination>
+			<mass errorminus="0.01" errorplus="0.01">0.59</mass>
+			<radius errorminus="0.08" errorplus="0.11">1.22</radius>
+			<period errorminus="4.5e-06" errorplus="4.5e-06">4.3176782</period>
+			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.0524</semimajoraxis>
+			<eccentricity errorminus="0.012" errorplus="0.012">0.038</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">85.2</inclination>
 			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454647.55434</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/12/13</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1058.7</temperature>
+			<temperature errorminus="30.0" errorplus="30.0">1250.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="18.6000" errorplus="23.2000">319.8</periastron>
+			<impactparameter errorminus="0.0140" errorplus="0.0170">0.904</impactparameter>
 		</planet>
 		<name>WASP-34</name>
-		<temperature>5700.0</temperature>
+		<temperature errorplus="100.0">5700.0</temperature>
 	</star>
 </system>

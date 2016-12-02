@@ -6,7 +6,7 @@
 	<star>
 		<name>WASP-58</name>
 		<name>TYC 3525-76-1</name>
-		<spectraltype>G2V</spectraltype>
+		<spectraltype>G2 V</spectraltype>
 		<magB>12.33</magB>
 		<magV>11.66</magV>
 		<magJ errorminus="0.03" errorplus="0.03">10.626</magJ>
@@ -29,10 +29,12 @@
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<temperature errorminus="80" errorplus="80">1270</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.46</impactparameter>
 		</planet>
 		<temperature errorminus="150" errorplus="150">5800</temperature>
+		<age errorminus="2.100" errorplus="4.500">3.2</age>
 	</star>
 </system>

@@ -2,36 +2,37 @@
 	<name>WASP-36</name>
 	<rightascension>08 46 19.298</rightascension>
 	<declination>-08 01 37.01</declination>
-	<distance>450</distance>
+	<distance errorminus="120.0" errorplus="120.0">450</distance>
 	<star>
-		<mass>1.02</mass>
-		<radius>0.943</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.02</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.943</radius>
 		<magV>12.7</magV>
 		<magB>13.1</magB>
 		<magI errorminus="0.03" errorplus="0.03">12.05</magI>
 		<magJ errorminus="0.028" errorplus="0.028">11.609</magJ>
 		<magH errorminus="0.027" errorplus="0.027">11.353</magH>
 		<magK errorminus="0.026" errorplus="0.026">11.294</magK>
-		<metallicity>-0.31</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.31</metallicity>
 		<spectraltype>G2</spectraltype>
 		<planet>
 			<name>WASP-36 b</name>
 			<name>2MASS J08461929-0801370 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.279</mass>
-			<radius>1.269</radius>
-			<period>1.5373653</period>
-			<semimajoraxis>0.02624</semimajoraxis>
+			<mass errorminus="0.07" errorplus="0.07">2.279</mass>
+			<radius errorminus="0.021" errorplus="0.021">1.269</radius>
+			<period errorminus="2.4e-07" errorplus="2.4e-07">1.5373653</period>
+			<semimajoraxis errorminus="0.00028" errorplus="0.00028">0.02624</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>83.65</inclination>
+			<inclination errorminus="0.13" errorplus="0.13">83.15</inclination>
 			<transittime errorminus="0.000095" errorplus="0.000095" unit="BJD">2455569.83809</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/10/25</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1554.5</temperature>
+			<discoveryyear>2011</discoveryyear>
+			<temperature errorminus="19.0" errorplus="19.0">1733.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-36</name>
-		<temperature>5881.0</temperature>
+		<temperature errorminus="134.0" errorplus="134.0">5959.0</temperature>
+		<age errorminus="3.400" errorplus="1.500">1.4</age>
 	</star>
 </system>

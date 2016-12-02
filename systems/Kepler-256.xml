@@ -12,7 +12,7 @@
 		<name>Kepler-256</name>
 		<name>KOI-939</name>
 		<name>KIC 9466668</name>
-		<temperature errorminus="11" errorplus="111">5551</temperature>
+		<temperature errorminus="111.0" errorplus="111">5551</temperature>
 		<radius errorminus=".316" errorplus="0.316">1.301</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0000</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.16</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-256 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.84</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-256 b</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.027</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.07</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-256 e</name>
@@ -78,6 +84,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.096</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.04</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.061</metallicity>
+		<magV errorminus="" errorplus="">15.065</magV>
 	</star>
 </system>

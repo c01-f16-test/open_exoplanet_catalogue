@@ -31,8 +31,10 @@
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/07/25</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0950" errorplus="0.0820">0.149</impactparameter>
 		</planet>
+		<age errorminus="" errorplus="">8.0</age>
 	</star>
 </system>

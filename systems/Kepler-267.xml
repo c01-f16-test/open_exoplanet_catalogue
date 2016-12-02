@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.037</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-267 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.06</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.19</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-267 d</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.154</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.48</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.028</metallicity>
+		<magV errorminus="" errorplus="">15.438</magV>
 	</star>
 </system>
