@@ -22,7 +22,7 @@
 		<planet>
 			<name>HD 216536 b</name>
 			<period errorminus="0.7" errorplus="0.7">148.6</period>
-			<periastrontime errorminus="11" errorplus="11">2453587</periastrontime>
+			<periastrontime errorminus="11" errorplus="11">2453587.5</periastrontime>
 			<eccentricity errorminus="0.10" errorplus="0.12">0.38</eccentricity>
 			<periastron errorminus="20" errorplus="21">270</periastron>
 			<mass errorminus="0.12" errorplus="0.20" type="msini">1.47</mass>
@@ -31,6 +31,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/01/29</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

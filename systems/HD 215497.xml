@@ -2,41 +2,48 @@
 	<name>HD 215497</name>
 	<rightascension>22 46 37</rightascension>
 	<declination>-56 35 58</declination>
-	<distance>44</distance>
+	<distance errorminus="2.51" errorplus="2.25">43.53</distance>
 	<star>
-		<mass>0.87</mass>
+		<mass errorminus="0.02" errorplus="0.02">0.87</mass>
 		<magV>8.97</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.92</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.339</magJ>
 		<magH errorminus="0.053" errorplus="0.053">6.917</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.784</magK>
-		<metallicity>0.23</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<metallicity errorminus="0.07" errorplus="0.07">0.23</metallicity>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 215497 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.02</mass>
-			<period>3.93404</period>
+			<period errorminus="0.00066" errorplus="0.00066">3.93404</period>
 			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>984.3</temperature>
+			<periastron errorminus="34.0000" errorplus="34.0000">96.0</periastron>
+			<periastrontime errorminus="0.370000" errorplus="0.370000">2454858.95</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 215497 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.33</mass>
-			<period>567.94</period>
+			<period errorminus="2.7" errorplus="2.7">567.94</period>
 			<semimajoraxis>1.282</semimajoraxis>
-			<eccentricity>0.49</eccentricity>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.49</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>185.8</temperature>
+			<periastron errorminus="4.0000" errorplus="4.0000">45.0</periastron>
+			<periastrontime errorminus="5.150000" errorplus="5.150000">2455003.48</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 215497</name>
-		<temperature>5113.0</temperature>
+		<temperature errorminus="93.0" errorplus="93.0">5113.0</temperature>
+		<age errorminus="" errorplus="">7.0</age>
 	</star>
 </system>

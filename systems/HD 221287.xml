@@ -2,29 +2,33 @@
 	<name>HD 221287</name>
 	<rightascension>23 31 20</rightascension>
 	<declination>-58 12 35</declination>
-	<distance>52.9</distance>
+	<distance errorminus="2.4" errorplus="2.2">52.9</distance>
 	<star>
-		<mass>1.25</mass>
-		<magV>7.82</magV>
+		<mass errorminus="0.1" errorplus="0.1">1.25</mass>
+		<magV errorminus="0.01" errorplus="0.01">7.82</magV>
 		<magJ errorminus="0.02" errorplus="0.02">6.843</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.616</magH>
 		<magK errorminus="0.02" errorplus="0.02">6.569</magK>
 		<magB errorminus="0.01" errorplus="0.01">8.31</magB>
-		<metallicity>0.03</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.03</metallicity>
 		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 221287 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.09</mass>
-			<period>456.1</period>
-			<semimajoraxis>1.25</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.79" errorplus="0.79">3.09</mass>
+			<period errorminus="5.8" errorplus="7.7">456.1</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.25</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.17">0.08</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/28</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>259.0</temperature>
+			<periastron errorminus="51.0000" errorplus="92.0000">98.0</periastron>
+			<periastrontime errorminus="52.000000" errorplus="99.000000">2453263.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 221287</name>
-		<temperature>6304.0</temperature>
+		<temperature errorminus="45.0" errorplus="45.0">6304.0</temperature>
+		<age errorminus="" errorplus="">1.3</age>
 	</star>
 </system>

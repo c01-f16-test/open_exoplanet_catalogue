@@ -13,7 +13,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">8.406</magJ>
 		<magH errorminus="0.023" errorplus="0.023">8.040</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.956</magK>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K0 V</spectraltype>
 		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
 		<temperature errorminus="100" errorplus="100">5312</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">0.41</metallicity>
@@ -31,6 +31,8 @@
 			<description>HD 95872 b is a super-Jupiter planet orbiting in a Jupiter-like orbit around a metal-rich solar-mass star.</description>
 			<lastupdate>15/12/28</lastupdate>
 			<list>Confirmed planets</list>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
+	<distance errorminus="" errorplus="">7.56</distance>
 </system>

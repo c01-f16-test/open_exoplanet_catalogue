@@ -7,7 +7,7 @@
 	<distance>338.98</distance>
 	<star>
 		<magB errorminus="0.14" errorplus="0.14">12.07</magB>
-		<magV errorminus="0.16" errorplus="0.16">11.75</magV>
+		<magV errorminus="0.16" errorplus="0.16">11.485</magV>
 		<magJ errorminus="0.024" errorplus="0.024">10.536</magJ>
 		<magH errorminus="0.018" errorplus="0.018">10.300</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.234</magK>
@@ -35,6 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.62</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-127 c</name>
@@ -54,6 +55,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.77</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-127 b</name>
@@ -72,6 +74,8 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.49</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.154</metallicity>
 	</star>
 </system>

@@ -8,7 +8,7 @@
 		<name>TYC 8378-64-1</name>
 		<name>2MASS J18581160-4700116</name>
 		<magB errorminus="0.08" errorplus="0.08">11.34</magB>
-		<magV errorminus="0.06" errorplus="0.06">10.62</magV>
+		<magV errorminus="0.06" errorplus="0.06">10.854</magV>
 		<magJ errorminus="0.019" errorplus="0.019">9.693</magJ>
 		<magH errorminus="0.022" errorplus="0.022">9.388</magH>
 		<magK errorminus="0.021" errorplus="0.021">9.338</magK>
@@ -33,7 +33,10 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/09/08</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
+			<impactparameter errorminus="0.1400" errorplus="0.1100">0.23</impactparameter>
 		</planet>
+		<age errorminus="0.700" errorplus="0.700">4.5</age>
+		<spectraltype>G0 V</spectraltype>
 	</star>
 </system>

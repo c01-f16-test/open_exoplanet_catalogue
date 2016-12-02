@@ -36,6 +36,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/23</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
+	<distance errorminus="" errorplus="">169.78</distance>
 </system>

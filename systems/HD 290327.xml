@@ -2,30 +2,33 @@
 	<name>HD 290327</name>
 	<rightascension>05 23 22</rightascension>
 	<declination>-02 16 39</declination>
-	<distance>54.9</distance>
+	<distance errorminus="4.6" errorplus="5.5">56.7</distance>
 	<star>
 		<mass>0.9</mass>
-		<radius>1</radius>
+		<radius errorminus="0.01" errorplus="0.01">1</radius>
 		<magV>8.96</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.73</magB>
 		<magJ errorminus="0.026" errorplus="0.026">7.683</magJ>
 		<magH errorminus="0.047" errorplus="0.047">7.404</magH>
 		<magK errorminus="0.027" errorplus="0.027">7.271</magK>
-		<metallicity>-0.11</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<metallicity errorminus="0.02" errorplus="0.02">-0.11</metallicity>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 290327 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.54</mass>
-			<period>2443</period>
-			<semimajoraxis>3.43</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.14" errorplus="0.17">2.54</mass>
+			<period errorminus="117.0" errorplus="205.0">2443</period>
+			<semimajoraxis errorminus="0.12" errorplus="0.2">3.43</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.08">0.08</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/09/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>132.1</temperature>
+			<periastron errorminus="19.0000" errorplus="94.0000">268.0</periastron>
+			<periastrontime errorminus="412.000000" errorplus="230.000000">2455326.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 290327</name>
-		<temperature>5552.0</temperature>
+		<temperature errorminus="21.0" errorplus="21.0">5552.0</temperature>
 	</star>
 </system>

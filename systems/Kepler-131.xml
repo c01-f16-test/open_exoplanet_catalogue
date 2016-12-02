@@ -33,6 +33,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.79</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-131 c</name>
@@ -48,6 +49,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1600" errorplus="0.1600">0.27</impactparameter>
 		</planet>
 	</star>
 </system>

@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.067</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.31</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-141 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.039</semimajoraxis>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.54</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.538</metallicity>
+		<magV errorminus="" errorplus="">13.448</magV>
 	</star>
 </system>

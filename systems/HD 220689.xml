@@ -2,34 +2,36 @@
 	<name>HD 220689</name>
 	<rightascension>23 25 53</rightascension>
 	<declination>-20 36 58</declination>
-	<distance>44.6</distance>
+	<distance errorminus="1.96" errorplus="1.81">45.23</distance>
 	<star>
-		<magV>7.77</magV>
+		<magV errorminus="0.012" errorplus="0.012">7.77</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.355</magB>
 		<magR>7.65</magR>
 		<magI errorminus="0.03" errorplus="0.03">8.59</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.653</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.407</magH>
 		<magK errorminus="0.031" errorplus="0.031">6.326</magK>
-		<mass>1.01</mass>
-		<age>3.5</age>
-		<radius>1.07</radius>
-		<metallicity>0.00</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<mass errorminus="0.03" errorplus="0.03">1.01</mass>
+		<age errorminus="1.9" errorplus="1.9">3.5</age>
+		<radius errorminus="0.04" errorplus="0.04">1.07</radius>
+		<metallicity errorminus="0.03" errorplus="0.03">0.00</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 220689 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<semimajoraxis>3.36</semimajoraxis>
-			<period>2209</period>
-			<eccentricity>0.16</eccentricity>
-			<periastron>137</periastron>
+			<mass errorminus="0.09" errorplus="0.09">1.06</mass>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">3.36</semimajoraxis>
+			<period errorminus="81.0" errorplus="103.0">2209</period>
+			<eccentricity errorminus="0.07" errorplus="0.1">0.16</eccentricity>
+			<periastron errorminus="75.0" errorplus="75.0">137</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<temperature>149.6</temperature>
+			<periastrontime errorminus="413.000000" errorplus="413.000000">2455649.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 220689</name>
-		<temperature>5940.0</temperature>
+		<temperature errorminus="26.0" errorplus="26.0">5921.0</temperature>
 	</star>
 </system>

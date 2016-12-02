@@ -2,7 +2,7 @@
 	<name>HD 218566</name>
 	<rightascension>23 09 10.72771</rightascension>
 	<declination>-02 15 38.6775</declination>
-	<distance errorminus="0.93" errorplus="0.93">28.55</distance>
+	<distance errorminus="1.11" errorplus="0.93">29.94</distance>
 	<star>
 		<name>HD 218566</name>
 		<name>HIP 114322</name>
@@ -21,7 +21,7 @@
 		<magK errorminus="0.020" errorplus="0.020">6.223</magK>
 		<temperature>4820.0</temperature>
 		<metallicity>0.38</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<spectraltype>K3 V</spectraltype>
 		<age>8.5</age>
 		<planet>
 			<name>HD 218566 b</name>
@@ -35,6 +35,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

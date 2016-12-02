@@ -2,40 +2,46 @@
 	<name>HIP 5158</name>
 	<rightascension>01 06 02</rightascension>
 	<declination>-22 27 11</declination>
-	<distance>45</distance>
+	<distance errorminus="4.7" errorplus="3.89">44.8</distance>
 	<star>
-		<mass>0.78</mass>
-		<magV>10.21</magV>
+		<mass errorminus="0.02" errorplus="0.02">0.78</mass>
+		<magV errorminus="0.035" errorplus="0.035">10.21</magV>
 		<magJ errorminus="0.019" errorplus="0.019">8.28</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.775</magH>
 		<magK errorminus="0.02" errorplus="0.02">7.669</magK>
 		<magB>11.29</magB>
-		<metallicity>0.1</metallicity>
+		<metallicity errorminus="0.07" errorplus="0.07">0.1</metallicity>
 		<spectraltype>K5V</spectraltype>
 		<planet>
 			<name>HIP 5158 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.44</mass>
-			<period>345.63</period>
+			<period errorminus="5.37" errorplus="5.37">345.63</period>
 			<semimajoraxis>0.89</semimajoraxis>
-			<eccentricity>0.54</eccentricity>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.54</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/05/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>168.8</temperature>
+			<periastron errorminus="11.0000" errorplus="11.0000">-108.0</periastron>
+			<periastrontime errorminus="15.210000" errorplus="15.210000">2454580.49</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HIP 5158 c</name>
 			<list>Confirmed planets</list>
-			<mass>15.04</mass>
-			<period>9018</period>
-			<semimajoraxis>7.7</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="10.55" errorplus="10.55">15.04</mass>
+			<period errorminus="3180.74" errorplus="3180.74">9017.76</period>
+			<semimajoraxis errorminus="1.88" errorplus="1.88">7.7</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.14</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>11/05/06</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
+			<periastron errorminus="75.6300" errorplus="75.6300">142.09</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HIP 5158</name>
-		<temperature>4962.0</temperature>
+		<temperature errorminus="89.0" errorplus="89.0">4962.0</temperature>
+		<age errorminus="" errorplus="">6.0</age>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 217107</name>
 	<rightascension>22 58 15.5</rightascension>
 	<declination>-02 23 43.4</declination>
-	<distance errorminus="0.15" errorplus="0.15">19.86</distance>
+	<distance errorminus="0.3" errorplus="0.29">19.72</distance>
 	<star>
 		<name>HD 217107</name>
 		<name>HIP 113421</name>
@@ -20,34 +20,36 @@
 		<magK errorminus="0.021" errorplus="0.021">4.536</magK>
 		<metallicity errorminus="0.030" errorplus="0.030">0.389</metallicity>
 		<spectraltype>G8 IV</spectraltype>
-		<temperature errorminus="44" errorplus="44">5704</temperature>
+		<temperature errorminus="44" errorplus="44">5646.0</temperature>
 		<planet>
 			<name>HD 217107 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0042" errorplus="0.0042">1.4135</mass>
+			<mass errorminus="0.11" errorplus="0.11">1.4135</mass>
 			<period errorminus="0.000013" errorplus="0.000013">7.126846</period>
 			<semimajoraxis errorminus="0.00097" errorplus="0.00097">0.07505</semimajoraxis>
 			<eccentricity errorminus="0.0027" errorplus="0.0027">0.1283</eccentricity>
-			<periastrontime errorminus="0.025" errorplus="0.025" unit="BJD">2454395.789</periastrontime>
-			<periastron errorminus="1.3" errorplus="1.3">24.0</periastron>
+			<periastrontime errorminus="39.0" errorplus="39.0" unit="BJD">2454396.0</periastrontime>
+			<periastron errorminus="3.0" errorplus="3.0">24.4</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 217107 b is a short-period gas giant, though its orbit has a longer period than the majority of hot Jupiters and is significantly elliptical. It is a member of a hierarchical two-planet system.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>1998</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 217107 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.072" errorplus="0.072">4.513</mass>
-			<period errorminus="21" errorplus="21">5189</period>
-			<semimajoraxis errorminus="0.080" errorplus="0.080">6.074</semimajoraxis>
-			<eccentricity errorminus="0.0086" errorplus="0.0086">0.3848</eccentricity>
-			<periastrontime errorminus="16" errorplus="16" unit="BJD">2450770</periastrontime>
-			<periastron errorminus="1.7" errorplus="1.7">206.3</periastron>
+			<mass errorminus="0.072" errorplus="0.072">2.6</mass>
+			<period errorminus="220.0" errorplus="220.0">4270.0</period>
+			<semimajoraxis errorminus="0.38" errorplus="0.38">5.32</semimajoraxis>
+			<eccentricity errorminus="0.0086" errorplus="0.0086">0.517</eccentricity>
+			<periastrontime errorminus="39.0" errorplus="39.0" unit="BJD">2451106.0</periastrontime>
+			<periastron errorminus="6.0" errorplus="6.0">198.6</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 217107 c is a giant planet in a long-period, eccentric orbit. It is a member of a hierarchical two-planet system.</description>
 			<lastupdate>15/08/15</lastupdate>
 			<discoveryyear>2005</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

@@ -14,7 +14,7 @@
 		<magK errorminus="0.011" errorplus="0.011">9.506</magK>
 		<temperature errorminus="49" errorplus="49">3841</temperature>
 		<radius errorminus="0.024" errorplus="0.024">0.442</radius>
-		<spectraltype>M1V</spectraltype>
+		<spectraltype>M1 V</spectraltype>
 		<mass errorminus="0.055" errorplus="0.055">0.521</mass>
 		<metallicity errorminus="0.099" errorplus="0.099">-0.280</metallicity>
 		<planet>
@@ -73,5 +73,6 @@
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">12.925</magV>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 216435</name>
 	<rightascension>22 53 37</rightascension>
 	<declination>-48 35 53</declination>
-	<distance>33.3</distance>
+	<distance errorminus="0.83" errorplus="0.79">33.3</distance>
 	<star>
 		<mass>1.3</mass>
 		<radius>2</radius>
@@ -16,16 +16,20 @@
 		<planet>
 			<name>HD 216435 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.26</mass>
-			<period>1311</period>
-			<semimajoraxis>2.56</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.13" errorplus="0.13">1.26</mass>
+			<period errorminus="49.0" errorplus="49.0">1311</period>
+			<semimajoraxis errorminus="0.17" errorplus="0.17">2.56</semimajoraxis>
+			<eccentricity errorminus="0.078" errorplus="0.078">0.07</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/10/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>224.7</temperature>
+			<periastron errorminus="" errorplus="">100.0</periastron>
+			<periastrontime errorminus="210.000000" errorplus="210.000000">2450870.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 216435</name>
-		<temperature>5767.0</temperature>
+		<temperature errorminus="60.0" errorplus="60.0">5999.0</temperature>
+		<age errorminus="" errorplus="">3.0</age>
 	</star>
 </system>

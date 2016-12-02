@@ -12,7 +12,7 @@
 		<name>Kepler-140</name>
 		<name>KOI-327</name>
 		<name>KIC 9881662</name>
-		<temperature errorminus="36" errorplus="136">6077</temperature>
+		<temperature errorminus="136.0" errorplus="136">6077</temperature>
 		<radius errorminus=".244" errorplus="0.244">1.288</radius>
 		<mass errorminus="0.0390" errorplus="0.0390">1.2070</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.045</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-140 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.414</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.13</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.094</metallicity>
+		<magV errorminus="" errorplus="">12.996</magV>
 	</star>
 </system>

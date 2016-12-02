@@ -2,31 +2,35 @@
 	<name>HD 220074</name>
 	<rightascension>23 20 14</rightascension>
 	<declination>+61 58 12</declination>
-	<distance>290.2</distance>
+	<distance errorminus="60.63" errorplus="42.71">289.02</distance>
 	<star>
-		<mass>1.2</mass>
-		<radius>49.7</radius>
-		<temperature>5080</temperature>
+		<mass errorminus="0.3" errorplus="0.3">1.2</mass>
+		<radius errorminus="9.5" errorplus="9.5">49.7</radius>
+		<temperature errorminus="110.0" errorplus="110.0">3935.0</temperature>
 		<magV>6.4</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.070</magB>
 		<magJ errorminus="0.200" errorplus="0.200">3.182</magJ>
 		<magH errorminus="0.164" errorplus="0.164">2.373</magH>
 		<magK errorminus="0.212" errorplus="0.212">2.006</magK>
-		<metallicity>-0.25</metallicity>
-		<spectraltype>K1 V</spectraltype>
+		<metallicity errorminus="0.25" errorplus="0.25">-0.25</metallicity>
+		<spectraltype>M2 III</spectraltype>
 		<planet>
 			<name>HD 220074 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.1</mass>
-			<period>672.1</period>
-			<semimajoraxis>1.6</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="1.8" errorplus="1.8">11.1</mass>
+			<period errorminus="3.7" errorplus="3.7">672.1</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.6</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.14</eccentricity>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/11/12</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>965.5</temperature>
+			<periastron errorminus="8.5000" errorplus="8.5000">323.0</periastron>
+			<periastrontime errorminus="31.700000" errorplus="31.700000">2451158.2</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 220074</name>
+		<age errorminus="2.800" errorplus="2.800">4.5</age>
 	</star>
 </system>
