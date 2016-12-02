@@ -14,7 +14,7 @@
 		<name>KIC 5959719</name>
 		<temperature errorminus="100" errorplus="100">5166</temperature>
 		<radius errorminus=".053" errorplus="0.053">0.776</radius>
-		<mass errorminus="0.0390" errorplus="0.0390">0.8440</mass>
+		<mass errorminus="0.0390" errorplus="0.0390">0.67</mass>
 		<planet>
 			<name>Kepler-390 b</name>
 			<name>KOI-2498 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.065</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.37</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-390 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.101</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.48</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.539</metallicity>
+		<magV errorminus="" errorplus="">13.942</magV>
 	</star>
 </system>

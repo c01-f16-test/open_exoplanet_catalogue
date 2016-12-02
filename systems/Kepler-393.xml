@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.091</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.63</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-393 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.124</semimajoraxis>
+			<impactparameter errorminus="0.2900" errorplus="0.2900">0.76</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.217</metallicity>
+		<magV errorminus="" errorplus="">13.223</magV>
 	</star>
 </system>

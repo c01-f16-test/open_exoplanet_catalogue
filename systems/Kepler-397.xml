@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.48</semimajoraxis>
+			<impactparameter errorminus="0.0400" errorplus="0.0400">0.84</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-397 b</name>
@@ -37,7 +39,7 @@
 			<name>KOI-2681.02</name>
 			<name>KIC 6878240 b</name>
 			<name>KIC 6878240.02</name>
-			<radius errorminus="0.12029" errorplus="1.94290">0.22418</radius>
+			<radius errorminus="1.902" errorplus="1.94290">0.22418</radius>
 			<period errorminus=".000186" errorplus="0.000186">22.250949</period>
 			<transittime errorminus="0.0052400" errorplus="0.0052400">2454982.4306700</transittime>
 			<list>Confirmed planets</list>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.144</semimajoraxis>
+			<impactparameter errorminus="0.4200" errorplus="0.4200">0.94</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.035</metallicity>
+		<magV errorminus="" errorplus="">15.996</magV>
 	</star>
 </system>

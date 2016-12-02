@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.082</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.38</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-391 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.161</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.11</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.22</mass>
+		<metallicity errorminus="" errorplus="">0.02</metallicity>
+		<magV errorminus="" errorplus="">13.007</magV>
 	</star>
 </system>

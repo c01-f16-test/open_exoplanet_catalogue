@@ -12,7 +12,7 @@
 		<name>Kepler-392</name>
 		<name>KOI-2585</name>
 		<name>KIC 7673841</name>
-		<temperature errorminus="26" errorplus="226">5938</temperature>
+		<temperature errorminus="226.0" errorplus="226">5938</temperature>
 		<radius errorminus=".231" errorplus="0.231">1.129</radius>
 		<planet>
 			<name>Kepler-392 b</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.059</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.24</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-392 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.093</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.08</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.13</mass>
+		<metallicity errorminus="" errorplus="">-0.297</metallicity>
+		<magV errorminus="" errorplus="">13.455</magV>
 	</star>
 </system>

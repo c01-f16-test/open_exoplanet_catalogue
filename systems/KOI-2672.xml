@@ -5,16 +5,16 @@
 	<distance>263.40</distance>
 	<star>
 		<magB errorminus="0.17" errorplus="0.17">12.44</magB>
-		<magV errorminus="0.17" errorplus="0.17">12.26</magV>
+		<magV errorminus="0.17" errorplus="0.17">11.921</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.672</magJ>
 		<magH errorminus="0.018" errorplus="0.018">10.356</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.285</magK>
 		<name>KOI-2672</name>
 		<name>Kepler-396</name>
 		<name>KIC 11253827</name>
-		<mass>0.95</mass>
-		<radius>1.04</radius>
-		<temperature>5565</temperature>
+		<mass errorminus="0.06" errorplus="0.13">0.95</mass>
+		<radius errorminus="0.2" errorplus="0.39">1.04</radius>
+		<temperature>5384.0</temperature>
 		<planet>
 			<name>KOI-2672.01</name>
 			<name>KOI-2672 c</name>
@@ -22,8 +22,8 @@
 			<name>KIC 11253827 c</name>
 			<name>KIC 11253827.01</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.053747" />
-			<radius>0.482991</radius>
+			<mass errorminus="0.004" errorplus="0.009" upperlimit="0.053747">0.056</mass>
+			<radius errorminus="0.088" errorplus="0.174">0.482991</radius>
 			<temperature>413</temperature>
 			<period>88.516580</period>
 			<transittime>2455015.65259</transittime>
@@ -41,8 +41,8 @@
 			<name>KIC 11253827 b</name>
 			<name>KIC 11253827.02</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.252074" />
-			<radius>0.318956</radius>
+			<mass errorminus="0.018" errorplus="0.037" upperlimit="0.252074">0.238</mass>
+			<radius errorminus="0.058" errorplus="0.114">0.318956</radius>
 			<temperature>525</temperature>
 			<period>42.990660</period>
 			<transittime>2454995.51176</transittime>
@@ -53,5 +53,6 @@
 			<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
 			<istransiting>1</istransiting>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.129</metallicity>
 	</star>
 </system>
