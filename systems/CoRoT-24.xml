@@ -16,12 +16,12 @@
 		<magJ errorminus="0.021" errorplus="0.021">13.595</magJ>
 		<age>11</age>
 		<metallicity errorminus="0.15" errorplus="0.15">0.3</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-24 b</name>
 			<name>2MASS 06474141-0343094 c</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.018" />
+			<mass upperlimit="0.018">0.018</mass>
 			<radius errorminus="0.04" errorplus="0.04">0.33</radius>
 			<temperature errorminus="140" errorplus="140">1070</temperature>
 			<period errorminus="0.0006" errorplus="0.0006">5.1134</period>
@@ -34,6 +34,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/06/08</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.65</impactparameter>
 		</planet>
 		<planet>
 			<name>CoRoT-24 c</name>
@@ -52,6 +53,7 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/06/08</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.4000" errorplus="0.4000">0.3</impactparameter>
 		</planet>
 	</star>
 </system>

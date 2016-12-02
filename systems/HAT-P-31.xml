@@ -2,10 +2,10 @@
 	<name>HAT-P-31</name>
 	<rightascension>18 06 09</rightascension>
 	<declination>+26 25 36</declination>
-	<distance>354</distance>
+	<distance errorminus="51.0" errorplus="74.0">354</distance>
 	<star>
-		<mass>1.218</mass>
-		<radius>1.36</radius>
+		<mass errorplus="0.09">1.218</mass>
+		<radius errorplus="0.27">1.36</radius>
 		<magV errorminus="0.11" errorplus="0.11">11.67</magV>
 		<magB errorminus="0.10" errorplus="0.10">12.02</magB>
 		<magR errorminus="0.04" errorplus="0.04">11.49</magR>
@@ -19,20 +19,22 @@
 			<name>TYC 2099-00908-1 b</name>
 			<name>2MASS J18060904+2625359 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.171</mass>
-			<radius>1.07</radius>
-			<period>5.005425</period>
-			<semimajoraxis>0.055</semimajoraxis>
-			<eccentricity>0.245</eccentricity>
-			<inclination>87.1</inclination>
+			<mass errorminus="0.077" errorplus="0.105">2.171</mass>
+			<radius errorminus="0.16" errorplus="0.24">1.07</radius>
+			<period errorminus="9.2e-05" errorplus="9.1e-05">5.005425</period>
+			<semimajoraxis errorminus="0.015" errorplus="0.015">0.055</semimajoraxis>
+			<eccentricity errorminus="0.0045" errorplus="0.0045">0.245</eccentricity>
+			<inclination errorminus="2.7" errorplus="1.8">87.1</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1324.7</temperature>
+			<temperature errorminus="110.0" errorplus="230.0">1450.0</temperature>
 			<transittime errorminus="-0.000092" errorplus="0.000091" unit="BJD">2454320.8866</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="1.8000" errorplus="1.8000">274.3</periastron>
+			<impactparameter errorminus="0.3100" errorplus="0.2300">0.57</impactparameter>
 		</planet>
 		<name>HAT-P-31</name>
-		<temperature>6065.0</temperature>
+		<temperature errorplus="100.0">6065.0</temperature>
 	</star>
 </system>

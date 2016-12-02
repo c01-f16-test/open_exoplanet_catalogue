@@ -2,39 +2,43 @@
 	<name>CoRoT-10</name>
 	<rightascension>19 24 15</rightascension>
 	<declination>+00 44 46</declination>
-	<distance>345</distance>
+	<distance errorminus="70.0" errorplus="70.0">345</distance>
 	<star>
-		<mass>0.89</mass>
-		<radius>0.79</radius>
-		<magV>15.216</magV>
+		<mass errorminus="0.05" errorplus="0.05">0.89</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
+		<magV errorminus="0.05" errorplus="0.05">15.216</magV>
 		<magB>16.676</magB>
 		<magR>15.48</magR>
 		<magI errorminus="0.03" errorplus="0.03">13.64</magI>
 		<magJ errorminus="0.025" errorplus="0.025">12.567</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.929</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.782</magK>
-		<metallicity>0.26</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<metallicity errorminus="0.07" errorplus="0.07">0.26</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-10 b</name>
 			<name>CoRoT-Exo-10 b</name>
 			<name>2MASS J19241528+0044461 b</name>
 			<name>CoRoTID 100725706 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.75</mass>
-			<radius>0.97</radius>
-			<period>13.2406</period>
-			<semimajoraxis>0.1055</semimajoraxis>
-			<eccentricity>0.53</eccentricity>
-			<inclination>88.55</inclination>
+			<mass errorminus="0.16" errorplus="0.16">2.75</mass>
+			<radius errorminus="0.07" errorplus="0.07">0.97</radius>
+			<period errorminus="0.0002" errorplus="0.0002">13.2406</period>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.1055</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.53</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">88.55</inclination>
 			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>600.8</temperature>
+			<temperature errorminus="23.0" errorplus="23.0">600.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="6.4000" errorplus="6.4000">218.9</periastron>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.85</impactparameter>
+			<periastrontime errorminus="0.080000" errorplus="0.080000">2454990.85</periastrontime>
 		</planet>
 		<name>CoRoT-10</name>
-		<temperature>5075.0</temperature>
+		<temperature errorminus="75.0" errorplus="75.0">5075.0</temperature>
+		<age errorminus="" errorplus="">3.0</age>
 	</star>
 </system>

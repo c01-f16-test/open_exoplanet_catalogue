@@ -2,35 +2,38 @@
 	<name>CoRoT-12</name>
 	<rightascension>06 43 04</rightascension>
 	<declination>-01 17 47</declination>
-	<distance>1150</distance>
+	<distance errorminus="85.0" errorplus="85.0">1150</distance>
 	<star>
-		<mass>1.078</mass>
-		<radius>1.116</radius>
+		<mass errorminus="0.07" errorplus="0.08">1.078</mass>
+		<radius errorminus="0.09" errorplus="0.1">1.116</radius>
 		<magV errorminus="0.052" errorplus="0.052">15.515</magV>
 		<magR>15.3</magR>
 		<magB errorminus="0.080" errorplus="0.080">16.343</magB>
 		<magJ errorminus="0.03" errorplus="0.03">14.02</magJ>
 		<magH errorminus="0.003" errorplus="0.03">13.63</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.56</magK>
-		<metallicity>0.16</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">0.16</metallicity>
 		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>CoRoT-12 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.917</mass>
-			<radius>1.44</radius>
-			<period>2.828042</period>
-			<semimajoraxis>0.04016</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
-			<inclination>85.48</inclination>
+			<mass errorminus="0.065" errorplus="0.07">0.917</mass>
+			<radius errorminus="0.13" errorplus="0.13">1.44</radius>
+			<period errorminus="1.3e-05" errorplus="1.3e-05">2.828042</period>
+			<semimajoraxis errorminus="0.00092" errorplus="0.00093">0.04016</semimajoraxis>
+			<eccentricity errorminus="0.042" errorplus="0.063">0.07</eccentricity>
+			<inclination errorminus="0.77" errorplus="0.72">85.48</inclination>
 			<transittime errorminus="0.00036" errorplus="0.00036" unit="BJD">2454398.62785</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1318.7</temperature>
+			<temperature errorminus="58.0" errorplus="58.0">1442.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="27.0000" errorplus="90.0000">105.0</periastron>
+			<impactparameter errorminus="0.0300" errorplus="0.0270">0.573</impactparameter>
 		</planet>
 		<name>CoRoT-12</name>
-		<temperature>5675.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">5675.0</temperature>
+		<age errorminus="3.100" errorplus="3.100">6.3</age>
 	</star>
 </system>

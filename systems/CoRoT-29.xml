@@ -16,7 +16,7 @@
 		<temperature errorminus="100" errorplus="100">5260</temperature>
 		<age errorminus="3.5" errorplus="3.5">4.5</age>
 		<metallicity errorminus="0.10" errorplus="0.10">0.20</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>CoRoT-29 b</name>
 			<name>2MASS J18353650+0628467 b</name>
@@ -33,6 +33,8 @@
 			<lastupdate>15/04/07</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron errorminus="49.0000" errorplus="210.0000">87.0</periastron>
+			<impactparameter errorminus="0.4400" errorplus="0.4400">0.43</impactparameter>
 		</planet>
 	</star>
 </system>

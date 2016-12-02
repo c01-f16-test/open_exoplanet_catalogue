@@ -2,10 +2,10 @@
 	<name>HD 155358</name>
 	<rightascension>17 09 35</rightascension>
 	<declination>+33 21 21</declination>
-	<distance>43</distance>
+	<distance errorminus="1.34" errorplus="1.26">43.4</distance>
 	<star>
 		<mass>0.92</mass>
-		<magV>7.27</magV>
+		<magV errorminus="0.01" errorplus="0.01">7.27</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.79</magB>
 		<magR>7.0</magR>
 		<magI>6.7</magI>
@@ -17,26 +17,32 @@
 		<planet>
 			<name>HD 155358 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<period>194.3</period>
-			<semimajoraxis>0.64</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<mass errorminus="0.05" errorplus="0.05">0.85</mass>
+			<period errorminus="0.3" errorplus="0.3">194.3</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.64</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.17</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/02/04</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>377.6</temperature>
+			<periastron errorminus="11.0000" errorplus="11.0000">143.0</periastron>
+			<periastrontime errorminus="6.000000" errorplus="6.000000">2451224.8</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 155358 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.82</mass>
-			<period>391.9</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.07" errorplus="0.07">0.82</mass>
+			<period errorminus="1.0" errorplus="1.0">391.9</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.02</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/02/04</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>299.1</temperature>
+			<periastron errorminus="26.0000" errorplus="26.0000">180.0</periastron>
+			<periastrontime errorminus="28.000000" errorplus="28.000000">2455345.4</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 155358</name>
 		<temperature>5900.0</temperature>

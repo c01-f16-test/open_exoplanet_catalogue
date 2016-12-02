@@ -2,31 +2,35 @@
 	<name>HD 152581</name>
 	<rightascension>16 53 43</rightascension>
 	<declination>+11 58 25</declination>
-	<distance>186</distance>
+	<distance errorminus="48.67" errorplus="31.76">182.82</distance>
 	<star>
-		<mass>0.927</mass>
-		<radius>2.8</radius>
+		<mass errorminus="0.07" errorplus="0.07">0.927</mass>
+		<radius errorminus="0.1" errorplus="0.1">4.8</radius>
 		<magV>8.54</magV>
 		<magB errorminus="0.018" errorplus="0.018">9.251</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.673</magJ>
 		<magH errorminus="0.017" errorplus="0.017">6.244</magH>
 		<magK errorminus="0.015" errorplus="0.015">6.173</magK>
-		<metallicity>-0.46</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.46</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 152581 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.5</mass>
-			<period>689</period>
-			<semimajoraxis>1.48</semimajoraxis>
+			<mass errorminus="0.1" errorplus="0.1">1.5</mass>
+			<period errorminus="13.0" errorplus="13.0">689</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.48</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<description>The star HD 152581 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>12/07/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>408.1</temperature>
+			<periastron errorminus="90.0000" errorplus="90.0000">321.0</periastron>
+			<periastrontime errorminus="190.000000" errorplus="190.000000">2455320.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 152581</name>
-		<temperature>5155.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5155.0</temperature>
+		<age errorminus="3.000" errorplus="3.000">12.0</age>
 	</star>
 </system>

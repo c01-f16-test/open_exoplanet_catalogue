@@ -2,36 +2,39 @@
 	<name>CoRoT-23</name>
 	<rightascension>18 39 08</rightascension>
 	<declination>+04 21 28</declination>
-	<distance>600</distance>
+	<distance errorminus="50.0" errorplus="50.0">600</distance>
 	<star>
-		<mass>1.14</mass>
-		<radius>1.61</radius>
-		<magV>15.63</magV>
+		<mass errorminus="0.08" errorplus="0.08">1.14</mass>
+		<radius errorminus="0.18" errorplus="0.18">1.61</radius>
+		<magV errorminus="0.07" errorplus="0.07">15.63</magV>
 		<magB>16.0</magB>
 		<magR errorminus="0.25" errorplus="0.25">15.70</magR>
 		<magJ errorminus="0.026" errorplus="0.026">12.944</magJ>
 		<magH errorminus="0.029" errorplus="0.029">12.450</magH>
 		<magK errorminus="0.03" errorplus="0.03">12.36</magK>
-		<metallicity>0.05</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<metallicity errorminus="0.1" errorplus="0.1">0.05</metallicity>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>CoRoT-23 b</name>
 			<name>2MASS J18390782+0421281 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.8</mass>
-			<radius>1.05</radius>
-			<period>3.6314</period>
-			<semimajoraxis>0.0477</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
-			<inclination>85.7</inclination>
+			<mass errorminus="0.3" errorplus="0.3">2.8</mass>
+			<radius errorminus="0.13" errorplus="0.13">1.05</radius>
+			<period errorminus="0.0001" errorplus="0.0001">3.6314</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.0477</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.16</eccentricity>
+			<inclination errorminus="1.5" errorplus="2.6">85.7</inclination>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455308.939</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/09/20</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1508.9</temperature>
+			<temperature>1660.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="9.0000" errorplus="9.0000">52.0</periastron>
+			<impactparameter errorminus="0.2300" errorplus="0.1000">0.56</impactparameter>
 		</planet>
 		<name>CoRoT-23</name>
-		<temperature>5900.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5900.0</temperature>
+		<age errorminus="1.000" errorplus="1.500">7.2</age>
 	</star>
 </system>

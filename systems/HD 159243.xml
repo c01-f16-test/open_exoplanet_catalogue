@@ -2,7 +2,7 @@
 	<name>HD 159243</name>
 	<rightascension>17 33 21.54580</rightascension>
 	<declination>+05 42 02.6391</declination>
-	<distance errorminus="5.5" errorplus="5.5">69.2</distance>
+	<distance errorminus="6.43" errorplus="5.5">68.59</distance>
 	<star>
 		<name>HD 159243</name>
 		<mass errorminus="0.03" errorplus="0.03">1.125</mass>
@@ -15,7 +15,7 @@
 		<magK errorminus="0.021" errorplus="0.021">7.297</magK>
 		<temperature errorminus="65" errorplus="65">6123</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.05</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 159243 b</name>
 			<list>Confirmed planets</list>
@@ -28,6 +28,7 @@
 			<lastupdate>13/11/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The HD 159243 system contains two planets, one of which (HD 159243 b) is a hot Jupiter with an orbital period of 12.6 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 159243 c</name>
@@ -41,6 +42,7 @@
 			<lastupdate>13/11/22</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The HD 159243 system contains two planets, one of which (HD 159243 b) is a hot Jupiter with an orbital period of 12.6 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

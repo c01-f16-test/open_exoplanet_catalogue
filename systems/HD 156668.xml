@@ -2,11 +2,11 @@
 	<name>HD 156668</name>
 	<rightascension>17 17 40</rightascension>
 	<declination>+29 13 38</declination>
-	<distance>24.5</distance>
+	<distance errorminus="0.62" errorplus="0.59">24.05</distance>
 	<star>
 		<mass>0.772</mass>
 		<radius>0.72</radius>
-		<magV>8.42</magV>
+		<magV errorminus="0.02" errorplus="0.02">8.42</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.43</magB>
 		<magR>7.8</magR>
 		<magI>7.3</magI>
@@ -14,18 +14,20 @@
 		<magH errorminus="0.024" errorplus="0.024">6.117</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.004</magK>
 		<metallicity>0.05</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 156668 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0131</mass>
-			<period>4.646</period>
-			<semimajoraxis>0.05</semimajoraxis>
+			<mass errorminus="0.002" errorplus="0.002">0.0131</mass>
+			<period errorminus="0.0011" errorplus="0.0011">4.646</period>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.05</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/05/24</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>811.5</temperature>
+			<periastrontime errorminus="0.110000" errorplus="0.110000">2454718.57</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 156668</name>
 		<temperature>4850.0</temperature>

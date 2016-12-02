@@ -28,7 +28,7 @@
 			<transittime errorminus="0.00024" errorplus="0.00049" unit="BJD">2457062.57935</transittime>
 			<inclination errorminus="0.70" errorplus="1.16">88.32</inclination>
 			<eccentricity errorminus="0.21" errorplus="0.16">0.27</eccentricity>
-			<periastron errorminus="39.28" errorplus="44.46">62.10</periastron>
+			<periastron errorminus="39.0" errorplus="44.0">62.0</periastron>
 			<radius errorminus="0.028" errorplus="0.085">0.306</radius>
 			<mass upperlimit="3" />
 			<istransiting>1</istransiting>
@@ -38,6 +38,7 @@
 			<lastupdate>15/12/06</lastupdate>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
+			<impactparameter errorminus="0.4200" errorplus="0.2900">0.6</impactparameter>
 		</planet>
 	</star>
 </system>

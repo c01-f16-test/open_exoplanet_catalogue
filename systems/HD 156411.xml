@@ -2,30 +2,33 @@
 	<name>HD 156411</name>
 	<rightascension>17 19 51</rightascension>
 	<declination>-48 32 58</declination>
-	<distance>55.1</distance>
+	<distance errorminus="2.64" errorplus="2.41">55.1</distance>
 	<star>
 		<mass>1.25</mass>
-		<radius>2.16</radius>
-		<magV>6.67</magV>
+		<radius errorminus="0.09" errorplus="0.09">2.16</radius>
+		<magV errorminus="0.01" errorplus="0.01">6.67</magV>
 		<magB>7.29</magB>
 		<magJ errorminus="0.018" errorplus="0.018">5.563</magJ>
 		<magH errorminus="0.031" errorplus="0.031">5.241</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.170</magK>
-		<metallicity>-0.12</metallicity>
-		<spectraltype>F8IV/V</spectraltype>
+		<metallicity errorminus="0.01" errorplus="0.01">-0.12</metallicity>
+		<spectraltype>F8 IV/V</spectraltype>
 		<planet>
 			<name>HD 156411 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.74</mass>
-			<period>842.2</period>
-			<semimajoraxis>1.88</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<mass errorminus="0.04" errorplus="0.05">0.74</mass>
+			<period errorminus="14.5" errorplus="14.5">842.2</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.03">1.88</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.22</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/09/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>278.0</temperature>
+			<periastron errorminus="14.0000" errorplus="22.0000">45.0</periastron>
+			<periastrontime errorminus="33.000000" errorplus="46.000000">2454356.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 156411</name>
-		<temperature>5900.0</temperature>
+		<temperature errorminus="15.0" errorplus="15.0">5900.0</temperature>
 	</star>
 </system>

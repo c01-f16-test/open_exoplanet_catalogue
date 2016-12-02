@@ -2,36 +2,39 @@
 	<name>HAT-P-28</name>
 	<rightascension>00 52 00</rightascension>
 	<declination>+34 43 42</declination>
-	<distance>395</distance>
+	<distance errorminus="26.0" errorplus="34.0">395</distance>
 	<star>
-		<mass>1.025</mass>
-		<radius>1.103</radius>
+		<mass errorminus="0.05" errorplus="0.05">1.025</mass>
+		<radius errorminus="0.07" errorplus="0.09">1.103</radius>
 		<magV>13.03</magV>
 		<magB>13.4</magB>
 		<magR errorminus="0.13" errorplus="0.13">13.24</magR>
 		<magJ errorminus="0.020" errorplus="0.020">11.561</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.206</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.104</magK>
-		<metallicity>0.12</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.12</metallicity>
 		<spectraltype>G3</spectraltype>
 		<planet>
 			<name>HAT-P-28 b</name>
 			<name>2MASS J00520018+3443422 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.626</mass>
-			<radius>1.212</radius>
-			<period>3.257215</period>
-			<semimajoraxis>0.0434</semimajoraxis>
-			<eccentricity>0.051</eccentricity>
-			<inclination>88</inclination>
+			<mass errorminus="0.037" errorplus="0.037">0.626</mass>
+			<radius errorminus="0.082" errorplus="0.113">1.212</radius>
+			<period errorminus="7e-06" errorplus="7e-06">3.257215</period>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0434</semimajoraxis>
+			<eccentricity errorminus="0.033" errorplus="0.033">0.051</eccentricity>
+			<inclination errorminus="0.9" errorplus="0.9">88</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/03/09</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1262.4</temperature>
+			<temperature errorminus="52.0" errorplus="52.0">1384.0</temperature>
 			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455417.59832</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="90.0000" errorplus="90.0000">233.0</periastron>
+			<impactparameter errorminus="0.1230" errorplus="0.1140">0.299</impactparameter>
 		</planet>
 		<name>HAT-P-28</name>
-		<temperature>5680.0</temperature>
+		<temperature errorminus="90.0" errorplus="90.0">5680.0</temperature>
+		<age errorminus="1.900" errorplus="2.600">6.1</age>
 	</star>
 </system>

@@ -30,6 +30,8 @@
 			<description>TYC 3667-1280-1 b is on the brink of engulfment by its host star, which is a former A-type star entering the red giant branch.</description>
 			<lastupdate>16/04/11</lastupdate>
 			<list>Confirmed planets</list>
+			<temperature errorminus="100" errorplus="100">1350.0</temperature>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

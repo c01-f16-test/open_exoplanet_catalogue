@@ -2,41 +2,48 @@
 	<name>HD 147018</name>
 	<rightascension>16 23 00</rightascension>
 	<declination>-61 41 20</declination>
-	<distance>42.96</distance>
+	<distance errorminus="1.59" errorplus="1.59">42.96</distance>
 	<star>
-		<mass>0.927</mass>
+		<mass errorminus="0.03" errorplus="0.03">0.927</mass>
 		<magV>8.3</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.07</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.963</magJ>
 		<magH errorminus="0.044" errorplus="0.044">6.640</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.571</magK>
-		<metallicity>0.1</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<metallicity errorminus="0.05" errorplus="0.05">0.1</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 147018 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.12</mass>
-			<period>44.236</period>
-			<semimajoraxis>0.2388</semimajoraxis>
-			<eccentricity>0.4686</eccentricity>
+			<mass errorminus="0.07" errorplus="0.07">2.12</mass>
+			<period errorminus="0.008" errorplus="0.008">44.236</period>
+			<semimajoraxis errorminus="0.0039" errorplus="0.0039">0.2388</semimajoraxis>
+			<eccentricity errorminus="0.0081" errorplus="0.0081">0.4686</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/08/12</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>481.2</temperature>
+			<periastron errorminus="1.2300" errorplus="1.2300">-24.03</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2454459.49</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 147018 c</name>
 			<list>Confirmed planets</list>
-			<mass>6.56</mass>
-			<period>1008</period>
-			<semimajoraxis>1.922</semimajoraxis>
-			<eccentricity>0.133</eccentricity>
+			<mass errorminus="0.32" errorplus="0.32">6.56</mass>
+			<period errorminus="18.0" errorplus="18.0">1008</period>
+			<semimajoraxis errorminus="0.039" errorplus="0.039">1.922</semimajoraxis>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.133</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/08/12</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>171.9</temperature>
+			<periastron errorminus="6.9000" errorplus="6.9000">-133.1</periastron>
+			<periastrontime errorminus="22.000000" errorplus="22.000000">2455301.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 147018</name>
-		<temperature>5441.0</temperature>
+		<temperature errorminus="55.0" errorplus="55.0">5441.0</temperature>
+		<age errorminus="4.330" errorplus="4.330">6.36</age>
 	</star>
 </system>

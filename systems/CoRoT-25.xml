@@ -17,7 +17,7 @@
 		<radius errorminus="0.03" errorplus="0.14">1.19</radius>
 		<temperature errorminus="90" errorplus="90">6040</temperature>
 		<metallicity errorminus="0.13" errorplus="0.13">-0.01</metallicity>
-		<spectraltype>F9V</spectraltype>
+		<spectraltype>F9</spectraltype>
 		<planet>
 			<name>CoRoT-25 b</name>
 			<list>Confirmed planets</list>
@@ -32,6 +32,9 @@
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454576.2156</transittime>
 			<lastupdate>13/05/24</lastupdate>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0400">0.94</impactparameter>
+			<temperature errorminus="40" errorplus="80">1330.0</temperature>
 		</planet>
+		<age errorminus="2.000" errorplus="1.800">4.5</age>
 	</star>
 </system>

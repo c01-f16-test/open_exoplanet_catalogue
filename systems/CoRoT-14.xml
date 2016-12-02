@@ -2,10 +2,10 @@
 	<name>CoRoT-14</name>
 	<rightascension>06 53 42</rightascension>
 	<declination>-05 32 10</declination>
-	<distance>1340</distance>
+	<distance errorminus="110.0" errorplus="110.0">1340</distance>
 	<star>
-		<mass>1.13</mass>
-		<radius>1.21</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.13</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.21</radius>
 		<magV errorminus="0.070" errorplus="0.070">16.03</magV>
 		<magB errorminus="0.156" errorplus="0.156">16.891</magB>
 		<magR errorminus="0.30" errorplus="0.30">16.03</magR>
@@ -13,28 +13,31 @@
 		<magJ errorminus="0.04" errorplus="0.04">14.32</magJ>
 		<magH errorminus="0.05" errorplus="0.05">14.01</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.81</magK>
-		<metallicity>0.05</metallicity>
-		<spectraltype>F9V</spectraltype>
+		<metallicity errorminus="0.15" errorplus="0.15">0.05</metallicity>
+		<spectraltype>F9 V</spectraltype>
 		<planet>
 			<name>CoRoT-14 b</name>
 			<name>CoRoT-Exo-14 b</name>
 			<name>2MASS J06534181-0532097 b</name>
 			<name>CoRoTID 110864907 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.6</mass>
-			<radius>1.09</radius>
-			<period>1.51214</period>
-			<semimajoraxis>0.027</semimajoraxis>
+			<mass errorminus="0.6" errorplus="0.6">7.6</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.09</radius>
+			<period errorminus="0.00013" errorplus="0.00013">1.51214</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.027</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>79.6</inclination>
+			<inclination errorminus="0.8" errorplus="0.8">79.6</inclination>
 			<transittime errorminus="0.0053" errorplus="0.0053" unit="BJD">2454787.6702</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/12/22</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1781.4</temperature>
+			<temperature errorminus="66.0" errorplus="66.0">1952.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.86</impactparameter>
+			<periastrontime errorminus="" errorplus="">2454787.6702</periastrontime>
 		</planet>
 		<name>CoRoT-14</name>
-		<temperature>6035.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">6035.0</temperature>
+		<age errorminus="3.800" errorplus="3.800">4.2</age>
 	</star>
 </system>

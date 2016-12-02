@@ -2,10 +2,10 @@
 	<name>CoRoT-18</name>
 	<rightascension>06 32 41</rightascension>
 	<declination>-00 01 54</declination>
-	<distance>870</distance>
+	<distance errorminus="90.0" errorplus="90.0">870</distance>
 	<star>
-		<mass>0.95</mass>
-		<radius>1</radius>
+		<mass errorminus="0.15" errorplus="0.15">0.95</mass>
+		<radius errorminus="0.13" errorplus="0.13">1</radius>
 		<magV errorminus="0.1" errorplus="0.1">15.00</magV>
 		<magB>15.8</magB>
 		<magR>14.9</magR>
@@ -13,26 +13,27 @@
 		<magJ errorminus="0.024" errorplus="0.024">13.441</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.08</magH>
 		<magK errorminus="0.03" errorplus="0.03">13.01</magK>
-		<metallicity>-0.1</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.1</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>CoRoT-18 b</name>
 			<name>2MASS J06324137-0001537 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.47</mass>
-			<radius>1.31</radius>
-			<period>1.9000693</period>
-			<semimajoraxis>0.0295</semimajoraxis>
+			<mass errorminus="0.38" errorplus="0.38">3.47</mass>
+			<radius errorminus="0.18" errorplus="0.18">1.31</radius>
+			<period errorminus="2.8e-06" errorplus="2.8e-06">1.9000693</period>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0295</semimajoraxis>
 			<eccentricity>0.08</eccentricity>
-			<inclination>86.5</inclination>
+			<inclination errorminus="0.9" errorplus="1.4">86.5</inclination>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455321.72490</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1396.0</temperature>
+			<temperature errorminus="90.0" errorplus="90.0">1550.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1400" errorplus="0.0800">0.4</impactparameter>
 		</planet>
 		<name>CoRoT-18</name>
-		<temperature>5440.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5440.0</temperature>
 	</star>
 </system>
