@@ -6,7 +6,7 @@
 	<declination>+47 16 46</declination>
 	<distance>1366.95</distance>
 	<star>
-		<magV>15</magV>
+		<magV>15.344</magV>
 		<magR errorminus="0.23" errorplus="0.23">15.78</magR>
 		<magJ errorminus="0.03" errorplus="0.03">14.10</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.73</magH>
@@ -15,15 +15,15 @@
 		<name>KOI-730</name>
 		<name>KIC 10227020</name>
 		<temperature errorminus="200" errorplus="200">5829</temperature>
-		<radius errorminus=".438" errorplus="0.438">1.017</radius>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9500</mass>
+		<radius errorminus="0.14" errorplus="0.07">1.72</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">1.12</mass>
 		<planet>
 			<name>Kepler-223 d</name>
 			<name>KOI-730 d</name>
 			<name>KOI-730.01</name>
 			<name>KIC 10227020 d</name>
 			<name>KIC 10227020.01</name>
-			<radius errorminus="0.02825" errorplus="0.11938">0.27157</radius>
+			<radius errorminus="0.02825" errorplus="0.11938">0.467</radius>
 			<period errorminus=".000108" errorplus="0.000108">14.788759</period>
 			<transittime errorminus="0.0037600" errorplus="0.0037600">2455009.7637900</transittime>
 			<list>Confirmed planets</list>
@@ -32,6 +32,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.017000" errorplus="0.018000">0.037</eccentricity>
+			<inclination errorminus="0.260" errorplus="0.320">87.94</inclination>
+			<mass errorminus="0.00409" errorplus="0.00472">0.02517</mass>
 		</planet>
 		<planet>
 			<name>Kepler-223 c</name>
@@ -39,7 +42,7 @@
 			<name>KOI-730.02</name>
 			<name>KIC 10227020 c</name>
 			<name>KIC 10227020.02</name>
-			<radius errorminus="0.07928" errorplus="0.07928">0.18226</radius>
+			<radius errorminus="0.07928" errorplus="0.07928">0.307</radius>
 			<period errorminus=".000145" errorplus="0.000145">9.848183</period>
 			<transittime errorminus="0.0103700" errorplus="0.0103700">2454971.3874800</transittime>
 			<list>Confirmed planets</list>
@@ -48,6 +51,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.051000" errorplus="0.019000">0.15</eccentricity>
+			<inclination errorminus="1.300" errorplus="">90.0</inclination>
+			<mass errorminus="0.00346" errorplus="0.00535">0.01605</mass>
 		</planet>
 		<planet>
 			<name>Kepler-223 e</name>
@@ -55,7 +61,7 @@
 			<name>KOI-730.03</name>
 			<name>KIC 10227020 e</name>
 			<name>KIC 10227020.03</name>
-			<radius errorminus="0.00365" errorplus="0.09478">0.21871</radius>
+			<radius errorminus="0.00365" errorplus="0.09478">0.41</radius>
 			<period errorminus=".000228" errorplus="0.000228">19.721734</period>
 			<transittime errorminus="0.0059300" errorplus="0.0059300">2454968.1036900</transittime>
 			<list>Confirmed planets</list>
@@ -64,6 +70,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.019000" errorplus="0.019000">0.051</eccentricity>
+			<inclination errorminus="0.210" errorplus="0.270">88.0</inclination>
+			<mass errorminus="0.00378" errorplus="0.00440">0.0151</mass>
 		</planet>
 		<planet>
 			<name>Kepler-223 b</name>
@@ -71,7 +80,7 @@
 			<name>KOI-730.04</name>
 			<name>KIC 10227020 b</name>
 			<name>KIC 10227020.04</name>
-			<radius errorminus="0.06653" errorplus="0.06653">0.15401</radius>
+			<radius errorminus="0.06653" errorplus="0.06653">0.267</radius>
 			<period errorminus=".000159" errorplus="0.000159">7.384108</period>
 			<transittime errorminus="0.0112600" errorplus="0.0112600">2454970.4863200</transittime>
 			<list>Confirmed planets</list>
@@ -80,6 +89,9 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.017000" errorplus="0.015000">0.078</eccentricity>
+			<inclination errorminus="1.800" errorplus="">90.0</inclination>
+			<mass errorminus="0.00346" errorplus="0.00409">0.02328</mass>
 		</planet>
 	</star>
 </system>

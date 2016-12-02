@@ -6,7 +6,7 @@
 	<star>
 		<mass>1.13</mass>
 		<radius>1.33</radius>
-		<magV>8.68</magV>
+		<magV errorminus="0.017" errorplus="0.017">8.68</magV>
 		<magB errorminus="0.026" errorplus="0.026">9.444</magB>
 		<magR>8.2</magR>
 		<magI>7.9</magI>
@@ -31,6 +31,9 @@
 			<lastupdate>14/03/11</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>263.9</temperature>
+			<periastron errorminus="2.9000" errorplus="2.9000">328.03</periastron>
+			<periastrontime errorminus="2.380000" errorplus="2.380000">2451911.52</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 4203 c</name>
@@ -47,6 +50,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/03/11</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron errorminus="48.8000" errorplus="48.8000">224.0</periastron>
+			<periastrontime errorminus="9600.000000" errorplus="9600.000000">2456000.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 4203</name>
 		<temperature>5702.0</temperature>

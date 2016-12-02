@@ -2,7 +2,7 @@
 	<name>omi CrB</name>
 	<rightascension>15 20 08.55879</rightascension>
 	<declination>+29 36 58.3488</declination>
-	<distance errorminus="3.0" errorplus="3.0">82.8</distance>
+	<distance errorminus="5.57" errorplus="4.92">84.03</distance>
 	<star>
 		<name>omi CrB</name>
 		<name>Omicron Coronae Borealis</name>
@@ -17,7 +17,7 @@
 		<name>SAO 83768</name>
 		<name>BD+30 2647</name>
 		<name>2MASS J15200853+2936584</name>
-		<mass errorminus="0.23" errorplus="0.01">2.13</mass>
+		<mass errorminus="0.23" errorplus="0.23">2.13</mass>
 		<radius errorminus="0.7" errorplus="0.7">10.5</radius>
 		<temperature errorminus="20" errorplus="20">4749</temperature>
 		<magV>5.51</magV>
@@ -26,7 +26,7 @@
 		<magH errorminus="0.280" errorplus="0.280">3.169</magH>
 		<magK>3.13</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
-		<spectraltype>K0 III</spectraltype>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>omi CrB b</name>
 			<name>Omicron Coronae Borealis b</name>
@@ -45,6 +45,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

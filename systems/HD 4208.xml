@@ -2,7 +2,7 @@
 	<name>HD 4208</name>
 	<rightascension>00 44 26</rightascension>
 	<declination>-26 30 56</declination>
-	<distance>33.9</distance>
+	<distance errorminus="1.2" errorplus="1.12">32.7</distance>
 	<star>
 		<mass>0.87</mass>
 		<radius>0.85</radius>
@@ -11,21 +11,24 @@
 		<magJ errorminus="0.03" errorplus="0.03">6.57</magJ>
 		<magH errorminus="0.04" errorplus="0.04">6.24</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.163</magK>
-		<metallicity>-0.284</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.284</metallicity>
 		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 4208 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.8</mass>
-			<period>829</period>
-			<semimajoraxis>1.7</semimajoraxis>
-			<eccentricity>0.04</eccentricity>
+			<mass errorminus="0.073" errorplus="0.073">0.8</mass>
+			<period errorminus="8.1" errorplus="8.1">828.0</period>
+			<semimajoraxis errorminus="0.096" errorplus="0.096">1.7</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.04</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/10/08</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>173.7</temperature>
+			<periastron errorminus="" errorplus="">345.0</periastron>
+			<periastrontime errorminus="120.000000" errorplus="120.000000">2451040.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 4208</name>
-		<temperature>5571.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5600.0</temperature>
 	</star>
 </system>

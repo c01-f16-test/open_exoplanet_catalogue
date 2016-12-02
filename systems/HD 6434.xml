@@ -2,7 +2,7 @@
 	<name>HD 6434</name>
 	<rightascension>01 04 40.15077</rightascension>
 	<declination>-39 29 17.5822</declination>
-	<distance errorminus="1.03" errorplus="1.03">41.4</distance>
+	<distance errorminus="1.5" errorplus="1.4">40.32</distance>
 	<star>
 		<name>HD 6434</name>
 		<name>HIP 5054</name>
@@ -21,7 +21,7 @@
 		<magK errorminus="0.026" errorplus="0.026">6.187</magK>
 		<temperature errorminus="92" errorplus="92">5690</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
-		<spectraltype>G3 IV</spectraltype>
+		<spectraltype>G2/3 V</spectraltype>
 		<age errorminus="2.12" errorplus="2.12">11.27</age>
 		<planet>
 			<name>HD 6434 b</name>
@@ -34,7 +34,8 @@
 			<periastrontime errorminus="0.638" errorplus="0.638">2451909.308</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/10/16</lastupdate>
-			<discoveryyear>2000</discoveryyear>
+			<discoveryyear>2003</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

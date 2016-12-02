@@ -2,31 +2,34 @@
 	<name>HD 10697</name>
 	<rightascension>01 44 55</rightascension>
 	<declination>+20 04 59</declination>
-	<distance>32.56</distance>
+	<distance errorminus="0.9" errorplus="0.9">32.56</distance>
 	<star>
-		<mass>1.15</mass>
+		<mass errorminus="0.03" errorplus="0.03">1.15</mass>
 		<radius>1.72</radius>
-		<magV>6.29</magV>
+		<magV errorminus="0.01" errorplus="0.01">6.29</magV>
 		<magB>6.957</magB>
 		<magJ errorminus="0.27" errorplus="0.27">5.39</magJ>
 		<magH>4.678</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.601</magK>
-		<metallicity>0.1</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.1</metallicity>
 		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 10697 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.38</mass>
-			<period>1076.4</period>
-			<semimajoraxis>2.16</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.15" errorplus="0.15">6.21</mass>
+			<period errorminus="1.5" errorplus="1.5">1075.2</period>
+			<semimajoraxis errorminus="0.018" errorplus="0.018">2.16</semimajoraxis>
+			<eccentricity errorminus="0.007" errorplus="0.007">0.1</eccentricity>
 			<inclination>69</inclination>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/10/19</lastupdate>
-			<discoveryyear>2000</discoveryyear>
+			<discoveryyear>1999</discoveryyear>
 			<temperature>221.8</temperature>
+			<periastron errorminus="6.3000" errorplus="6.3000">111.2</periastron>
+			<periastrontime errorminus="18.000000" errorplus="18.000000">2451480.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 10697</name>
-		<temperature>5641.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5680.0</temperature>
 	</star>
 </system>

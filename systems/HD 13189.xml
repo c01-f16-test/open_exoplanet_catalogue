@@ -2,24 +2,27 @@
 	<name>HD 13189</name>
 	<rightascension>02 09 40</rightascension>
 	<declination>+32 18 59</declination>
-	<distance>185</distance>
+	<distance>300.3</distance>
 	<star>
 		<mass>4.5</mass>
 		<radius>50.39</radius>
-		<magV>7.57</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.57</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.04</magB>
-		<spectraltype>K2 II</spectraltype>
+		<spectraltype>K2</spectraltype>
 		<planet>
 			<name>HD 13189 b</name>
 			<list>Confirmed planets</list>
-			<mass>14</mass>
-			<period>471.6</period>
-			<semimajoraxis>1.85</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<mass errorminus="6.0" errorplus="6.0">14</mass>
+			<period errorminus="6.0" errorplus="6.0">471.6</period>
+			<semimajoraxis errorminus="0.35" errorplus="0.35">1.85</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.27</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/29</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>442.7</temperature>
+			<periastron errorminus="12.0000" errorplus="12.0000">160.7</periastron>
+			<periastrontime errorminus="20.200000" errorplus="20.200000">2452327.9</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 13189</name>
 		<temperature>5150.0</temperature>

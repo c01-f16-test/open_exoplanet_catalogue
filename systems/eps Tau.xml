@@ -2,7 +2,7 @@
 	<name>eps Tau</name>
 	<rightascension>04 28 36.99882</rightascension>
 	<declination>+19 10 49.5446</declination>
-	<distance errorminus="0.51" errorplus="0.51">44.96</distance>
+	<distance errorminus="1.93" errorplus="1.78">47.53</distance>
 	<star>
 		<name>eps Tau</name>
 		<name>eps Tauri</name>
@@ -49,7 +49,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<description>Epsilon Tauri b orbits a giant star in the Hyades cluster.</description>
 			<lastupdate>15/12/11</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<discoveryyear>2006</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

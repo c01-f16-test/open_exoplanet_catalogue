@@ -12,7 +12,7 @@
 		<name>Kepler-231</name>
 		<name>KOI-784</name>
 		<name>KIC 12066335</name>
-		<temperature errorminus="50" errorplus="150">3767</temperature>
+		<temperature errorminus="150.0" errorplus="150">3767</temperature>
 		<radius errorminus=".021" errorplus="0.021">0.490</radius>
 		<mass errorminus="0.0140" errorplus="0.0140">0.5800</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.114</semimajoraxis>
+			<impactparameter errorminus="0.3000" errorplus="0.3000">0.87</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-231 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.074</semimajoraxis>
+			<impactparameter errorminus="0.0500" errorplus="0.0500">0.82</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.011</metallicity>
+		<magV errorminus="" errorplus="">15.385</magV>
 	</star>
 </system>

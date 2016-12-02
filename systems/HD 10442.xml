@@ -17,7 +17,7 @@
 		<mass errorminus="0.09" errorplus="0.09">1.56</mass>
 		<temperature errorminus="44" errorplus="44">5034</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
-		<spectraltype>K2IV</spectraltype>
+		<spectraltype>K2 IV</spectraltype>
 		<planet>
 			<name>HD 10442 b</name>
 			<name>TYC 32-383-1 b</name>
@@ -34,6 +34,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron errorminus="60.0000" errorplus="60.0000">198.0</periastron>
+			<periastrontime errorminus="770.000000" errorplus="770.000000">2457062.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

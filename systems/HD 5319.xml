@@ -12,14 +12,14 @@
 		<name>SAO 109532</name>
 		<name>TYC 12-104-1</name>
 		<mass errorminus="0.11" errorplus="0.11">1.51</mass>
-		<radius>3.26</radius>
+		<radius errorminus="0.4" errorplus="0.4">3.85</radius>
 		<magV>8.05</magV>
 		<magB>9.03</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.348</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.699</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
-		<spectraltype>G5IV</spectraltype>
+		<spectraltype>K3 IV</spectraltype>
 		<planet>
 			<name>HD 5319 b</name>
 			<name>HIP 4297 b</name>
@@ -38,6 +38,9 @@
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>303.8</temperature>
+			<periastron errorminus="90.0000" errorplus="90.0000">97.0</periastron>
+			<periastrontime errorminus="790.000000" errorplus="790.000000">2456288.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 5319 c</name>
@@ -56,7 +59,11 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron errorminus="34.0000" errorplus="34.0000">252.0</periastron>
+			<periastrontime errorminus="92.000000" errorplus="92.000000">2453453.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
-		<temperature>5052.0</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">4958.0</temperature>
+		<age errorminus="0.600" errorplus="0.600">3.1</age>
 	</star>
 </system>

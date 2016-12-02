@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.048</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.57</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-222 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.18</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.44</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-222 c</name>
@@ -53,7 +57,7 @@
 			<name>KOI-723.03</name>
 			<name>KIC 10002866 c</name>
 			<name>KIC 10002866.03</name>
-			<radius errorminus="0.00638" errorplus="0.18864">0.42284</radius>
+			<radius errorminus="0.185" errorplus="0.18864">0.42284</radius>
 			<period errorminus=".000011" errorplus="0.000011">10.088810</period>
 			<transittime errorminus="0.0006100" errorplus="0.0006100">2455006.0826300</transittime>
 			<list>Confirmed planets</list>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.091</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.9</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.15</metallicity>
+		<magV errorminus="" errorplus="">15.063</magV>
 	</star>
 </system>

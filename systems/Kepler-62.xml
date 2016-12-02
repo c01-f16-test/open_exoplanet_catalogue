@@ -11,12 +11,12 @@
 		<name>KOI-701</name>
 		<name>2MASS J18525105+4520595</name>
 		<name>GPM 283.213142+45.350276</name>
-		<mass>0.69</mass>
-		<radius>0.63</radius>
-		<temperature>4925</temperature>
-		<age>7</age>
-		<metallicity>-0.37</metallicity>
-		<spectraltype>K2V</spectraltype>
+		<mass errorminus="0.02" errorplus="0.02">0.69</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.63</radius>
+		<temperature errorminus="70.0" errorplus="70.0">4925</temperature>
+		<age errorminus="4.0" errorplus="4.0">7</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.37</metallicity>
+		<spectraltype>K2 V</spectraltype>
 		<magB>14.4</magB>
 		<magV>13.8</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.256</magJ>
@@ -28,17 +28,19 @@
 			<name>KOI-701.02</name>
 			<name>KOI-701 b</name>
 			<list>Confirmed planets</list>
-			<radius>0.1193806</radius>
-			<temperature>750</temperature>
-			<period>5.714932</period>
-			<semimajoraxis>0.0553</semimajoraxis>
-			<inclination>89.2</inclination>
+			<radius errorminus="0.004" errorplus="0.004">0.1193806</radius>
+			<temperature errorminus="41.0" errorplus="41.0">750</temperature>
+			<period errorminus="9e-06" errorplus="9e-06">5.714932</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0553</semimajoraxis>
+			<inclination errorminus="0.4" errorplus="0.4">89.2</inclination>
 			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455003.9189</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/04/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1300" errorplus="0.1300">0.25</impactparameter>
+			<mass errorminus="" errorplus="">0.03</mass>
 		</planet>
 		<planet>
 			<name>Kepler-62 c</name>
@@ -46,17 +48,19 @@
 			<name>KOI-701.05</name>
 			<name>KOI-701 c</name>
 			<list>Confirmed planets</list>
-			<radius>0.049210359</radius>
-			<temperature>578</temperature>
-			<period>12.4417</period>
-			<semimajoraxis>0.0929</semimajoraxis>
-			<inclination>89.7</inclination>
+			<radius errorminus="0.003" errorplus="0.003">0.049210359</radius>
+			<temperature errorminus="31.0" errorplus="31.0">578</temperature>
+			<period errorminus="0.0001" errorplus="0.0001">12.4417</period>
+			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0929</semimajoraxis>
+			<inclination errorminus="0.2" errorplus="0.2">89.7</inclination>
 			<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2454967.651</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/04/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0900" errorplus="0.0900">0.16</impactparameter>
+			<mass errorminus="" errorplus="">0.013</mass>
 		</planet>
 		<planet>
 			<name>Kepler-62 d</name>
@@ -64,17 +68,19 @@
 			<name>KOI-701.01</name>
 			<name>KOI-701 d</name>
 			<list>Confirmed planets</list>
-			<radius>0.1777040</radius>
-			<temperature>510</temperature>
-			<period>18.16406</period>
-			<semimajoraxis>0.120</semimajoraxis>
-			<inclination>89.7</inclination>
+			<radius errorminus="0.006" errorplus="0.006">0.1777040</radius>
+			<temperature errorminus="28.0" errorplus="28.0">510</temperature>
+			<period errorminus="2e-05" errorplus="2e-05">18.16406</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.120</semimajoraxis>
+			<inclination errorminus="0.3" errorplus="0.3">89.7</inclination>
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="BJD">2455013.8117</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/04/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Kepler-62 system has five planets. Two of them orbit in the habitable zone. Only the size, not the mass of planets in this system is known. Kepler-62 could be the Holy Grail of exoplanetology: a system with a rocky or water planet in the habitable zone.</description>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1300" errorplus="0.1300">0.22</impactparameter>
+			<mass errorminus="" errorplus="">0.044</mass>
 		</planet>
 		<planet>
 			<name>Kepler-62 e</name>
@@ -82,11 +88,11 @@
 			<name>KOI-701.03</name>
 			<name>KOI-701 e</name>
 			<list>Confirmed planets</list>
-			<radius>0.14671977</radius>
-			<temperature>270</temperature>
-			<period>122.3874</period>
-			<semimajoraxis>0.427</semimajoraxis>
-			<inclination>89.98</inclination>
+			<radius errorminus="0.004" errorplus="0.004">0.14671977</radius>
+			<temperature errorminus="15.0" errorplus="15.0">270</temperature>
+			<period errorminus="0.0008" errorplus="0.0008">122.3874</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.427</semimajoraxis>
+			<inclination errorminus="0.02" errorplus="0.02">89.98</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454983.404</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/04/18</lastupdate>
@@ -97,6 +103,8 @@
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0500" errorplus="0.0500">0.06</impactparameter>
+			<mass errorminus="" errorplus="">0.113</mass>
 		</planet>
 		<planet>
 			<name>Kepler-62 f</name>
@@ -104,11 +112,11 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<name>KOI-701.04</name>
 			<name>KOI-701 f</name>
 			<list>Confirmed planets</list>
-			<radius>0.12849371</radius>
-			<temperature>208</temperature>
-			<period>267.291</period>
-			<semimajoraxis>0.718</semimajoraxis>
-			<inclination>89.90</inclination>
+			<radius errorminus="0.006" errorplus="0.006">0.12849371</radius>
+			<temperature errorminus="11.0" errorplus="11.0">208</temperature>
+			<period errorminus="0.005" errorplus="0.005">267.291</period>
+			<semimajoraxis errorminus="0.007" errorplus="0.007">0.718</semimajoraxis>
+			<inclination errorminus="0.03" errorplus="0.03">89.90</inclination>
 			<transittime errorminus="0.006" errorplus="0.006" unit="BJD">2455422.71</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/04/18</lastupdate>
@@ -119,6 +127,8 @@ Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 
 Credit: NASA/JPL-Caltech/T. Pyle</imagedescription>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1400" errorplus="0.1400">0.41</impactparameter>
+			<mass errorminus="" errorplus="">0.11</mass>
 		</planet>
 	</star>
 </system>

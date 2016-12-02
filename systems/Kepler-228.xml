@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.101</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.46</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-228 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.15</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-228 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.038</semimajoraxis>
+			<impactparameter errorminus="0.3800" errorplus="0.3800">0.45</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.067</metallicity>
+		<magV errorminus="" errorplus="">15.714</magV>
 	</star>
 </system>

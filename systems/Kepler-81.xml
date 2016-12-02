@@ -12,9 +12,9 @@
 		<name>Kepler-81</name>
 		<name>KOI-877</name>
 		<name>KIC 7287995</name>
-		<temperature errorminus="16" errorplus="116">4500</temperature>
+		<temperature errorminus="116.0" errorplus="116">4500</temperature>
 		<radius errorminus=".029" errorplus="0.029">0.595</radius>
-		<mass errorminus="0.0280" errorplus="0.0280">0.6480</mass>
+		<mass errorminus="0.23" errorplus="0.38">0.6480</mass>
 		<planet>
 			<name>Kepler-81 b</name>
 			<name>KOI-877 b</name>
@@ -26,7 +26,7 @@
 			<transittime errorminus="0.0007700" errorplus="0.0007700">2455003.9562800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -42,7 +42,7 @@
 			<transittime errorminus="0.0011200" errorplus="0.0011200">2455014.2229200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
@@ -62,6 +62,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.128</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.71</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.524</metallicity>
+		<magV errorminus="" errorplus="">15.019</magV>
 	</star>
 </system>

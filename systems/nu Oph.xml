@@ -2,7 +2,7 @@
 	<name>nu Oph</name>
 	<rightascension>17 59 01.59191</rightascension>
 	<declination>-09 46 25.0798</declination>
-	<distance errorminus="0.56" errorplus="0.56">46.21</distance>
+	<distance errorminus="1.8" errorplus="1.67">46.84</distance>
 	<star>
 		<name>nu Oph</name>
 		<name>nu. Oph</name>
@@ -25,9 +25,9 @@
 		<magJ errorminus="0.290" errorplus="0.290">1.732</magJ>
 		<magH errorminus="0.284" errorplus="0.284">1.289</magH>
 		<magK errorminus="0.306" errorplus="0.306">1.225</magK>
-		<spectraltype>K0III</spectraltype>
-		<mass lowerlimit="2.98" upperlimit="3.10">3.04</mass>
-		<radius lowerlimit="14.1" upperlimit="16.2">15.1</radius>
+		<spectraltype>K1 III</spectraltype>
+		<mass errorplus="0.06" lowerlimit="2.98" upperlimit="3.10">3.04</mass>
+		<radius errorplus="1.1" lowerlimit="14.1" upperlimit="16.2">15.1</radius>
 		<temperature errorminus="25" errorplus="25">4928</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">0.13</metallicity>
 		<planet>
@@ -42,7 +42,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<lastupdate>15/11/02</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>nu Oph c</name>
@@ -56,7 +57,8 @@
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/02</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

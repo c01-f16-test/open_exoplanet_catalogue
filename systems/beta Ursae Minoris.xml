@@ -3,7 +3,7 @@
 	<name>HD 131873</name>
 	<rightascension>14 50 42.32580</rightascension>
 	<declination>+74 09 19.8142</declination>
-	<distance errorminus="0.19" errorplus="0.19">40.14</distance>
+	<distance errorminus="0.8" errorplus="0.77">38.78</distance>
 	<star>
 		<name>beta Ursae Minoris</name>
 		<name>HD 131873</name>
@@ -29,7 +29,7 @@
 		<magI>0.21</magI>
 		<age errorminus="1.03" errorplus="1.03">2.95</age>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.27</metallicity>
-		<spectraltype>K4IIIvar</spectraltype>
+		<spectraltype>K4 III</spectraltype>
 		<planet>
 			<name>beta Ursae Minoris b</name>
 			<name>HD 131873 b</name>
@@ -47,6 +47,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

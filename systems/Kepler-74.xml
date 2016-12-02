@@ -23,7 +23,7 @@
 		<mass errorminus="0.04" errorplus="0.04">1.18</mass>
 		<age errorminus="0.5" errorplus="0.9">0.8</age>
 		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>Kepler-74 b</name>
 			<name>KOI-200 b</name>
@@ -41,8 +41,10 @@
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. Originally announced to be in an eccentric orbit, the later re-analysis by Bonomo et al. (2015) indicated that the orbit was compatible with being circular. The planet was first announced in 2012.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/01/27</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0110" errorplus="0.0110">0.685</impactparameter>
+			<temperature errorminus="19" errorplus="19">1078.0</temperature>
 		</planet>
 	</star>
 </system>

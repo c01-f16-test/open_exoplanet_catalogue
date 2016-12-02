@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.058</semimajoraxis>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.25</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-226 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.047</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.15</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-226 d</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.06</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.145</metallicity>
+		<magV errorminus="" errorplus="">15.416</magV>
 	</star>
 </system>
