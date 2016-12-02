@@ -37,8 +37,9 @@
 			<description>KELT-6b is a Saturn-mass planet transiting a metal-poor host star. The planet candidate was originally discovered by the KELT-North survey. Follow up observations confirmed the planetary nature of the candidate using a combination of photometry, high-resolution imaging, high resolution spectroscopy and radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/08/27</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1300" errorplus="0.1400">0.2</impactparameter>
 		</planet>
 		<planet>
 			<name>KELT-6 c</name>

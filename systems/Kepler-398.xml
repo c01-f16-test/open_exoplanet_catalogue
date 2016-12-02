@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.044</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.87</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-398 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis>
+			<impactparameter errorminus="0.3400" errorplus="0.3400">0.9</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-398 d</name>
@@ -59,5 +63,7 @@
 			<period errorminus="0.000015180" errorplus="0.000015180">6.834370010</period>
 			<radius errorminus="0.004" errorplus="0.003">0.079</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.046</metallicity>
+		<magV errorminus="" errorplus="">13.256</magV>
 	</star>
 </system>

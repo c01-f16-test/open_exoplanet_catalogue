@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.11</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-403 c</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.297</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.53</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-403 d</name>
@@ -58,5 +62,7 @@
 			<period errorminus="0.000082880" errorplus="0.000082880">13.611591290</period>
 			<radius errorminus="0.017" errorplus="0.027">0.127</radius>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.145</metallicity>
+		<magV errorminus="" errorplus="">12.805</magV>
 	</star>
 </system>

@@ -21,20 +21,22 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.04" errorplus="0.04">0.44</mass>
 			<radius errorminus="0.01" errorplus="0.01">1.62</radius>
-			<period>4.885525</period>
-			<semimajoraxis>0.06246</semimajoraxis>
+			<period errorminus="9e-07" errorplus="9e-07">4.885525</period>
+			<semimajoraxis errorminus="0.00059" errorplus="0.00059">0.06246</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
-			<inclination>85.18</inclination>
+			<inclination errorminus="0.054" errorplus="0.055">85.18</inclination>
 			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1486.8</temperature>
+			<discoveryyear>2009</discoveryyear>
+			<temperature errorminus="10.0" errorplus="10.0">1630.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0046" errorplus="0.0045">0.5599</impactparameter>
 		</planet>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>
 		<name>KIC 5780885</name>
-		<temperature errorminus="75" errorplus="75">6027</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5933.0</temperature>
+		<magV errorminus="" errorplus="">12.885</magV>
 	</star>
 </system>

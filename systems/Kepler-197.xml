@@ -35,6 +35,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-197 d</name>
@@ -54,6 +55,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.3400" errorplus="0.3400">0.66</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-197 b</name>
@@ -73,6 +75,7 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-197 e</name>
@@ -92,6 +95,8 @@
 			<lastupdate>15/07/22</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.14</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.533</metallicity>
 	</star>
 </system>

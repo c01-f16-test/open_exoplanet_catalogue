@@ -46,7 +46,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.01" errorplus="0.01">0.17</mass>
 			<radius errorminus="0.07" errorplus="0.07">0.82</radius>
-			<period errorminus="0.0002" errorplus="0.0002">39.03106</period>
+			<period errorminus="0.0002" errorplus="0.0002">38.91</period>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.229</semimajoraxis>
 			<inclination errorminus="0.7" errorplus="0.7">87.2</inclination>
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0684</eccentricity>
@@ -65,15 +65,16 @@
 			<name>KOI-377 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.022</mass>
-			<radius>0.147</radius>
+			<radius errorminus="0.012" errorplus="0.017">0.147</radius>
 			<period errorminus="0.000045" errorplus="0.000045">1.592851</period>
 			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.0271</semimajoraxis>
 			<transittime errorminus="0.0033" errorplus="0.0018" unit="BJD">2455015.0943</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/03/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>1601.5</temperature>
+			<temperature errorminus="60.0" errorplus="60.0">2026.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
+		<age errorminus="" errorplus="">1.0</age>
 	</star>
 </system>

@@ -8,9 +8,9 @@
 		<magJ errorminus="0.021" errorplus="0.021">12.001</magJ>
 		<magH errorminus="0.019" errorplus="0.019">11.706</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.634</magK>
-		<mass errorminus="0.07" errorplus="0.08">1.05</mass>
+		<mass errorminus="0.07" errorplus="0.08">1.21</mass>
 		<radius errorminus="0.10" errorplus="0.09">1.29</radius>
-		<metallicity errorminus="0.16" errorplus="0.10">0.34</metallicity>
+		<metallicity errorminus="0.04" errorplus="0.10">0.34</metallicity>
 		<planet>
 			<name>Kepler-6 b</name>
 			<name>2MASS J19472094+4814238 b</name>
@@ -21,19 +21,21 @@
 			<mass errorminus="0.04" errorplus="0.04">0.67</mass>
 			<radius errorminus="0.03" errorplus="0.02">1.30</radius>
 			<period errorminus="0.000017" errorplus="0.000017">3.234723</period>
-			<semimajoraxis>0.04567</semimajoraxis>
+			<semimajoraxis errorminus="0.00133" errorplus="0.00074">0.04567</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.3" errorplus="0.3">86.8</inclination>
+			<inclination errorminus="0.17" errorplus="0.19">88.93</inclination>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454954.48636</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
-			<temperature>1374.1</temperature>
+			<discoveryyear>2009</discoveryyear>
+			<temperature errorminus="10.0" errorplus="10.0">1460.0</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0250" errorplus="0.0220">0.141</impactparameter>
 		</planet>
 		<name>Kepler-6</name>
 		<name>KOI-17</name>
 		<name>KIC 10874614</name>
-		<temperature errorminus="110" errorplus="99">5640</temperature>
+		<temperature errorminus="44.0" errorplus="44.0">5647.0</temperature>
+		<magV errorminus="" errorplus="">13.303</magV>
 	</star>
 </system>
