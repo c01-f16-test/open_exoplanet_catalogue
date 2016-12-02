@@ -16,9 +16,9 @@
 		<magH errorminus="0.020" errorplus="0.020">9.532</magH>
 		<magK errorminus="0.017" errorplus="0.017">9.493</magK>
 		<spectraltype>F</spectraltype>
-		<temperature errorminus="27" errorplus="27">6354</temperature>
-		<age errorminus="0.300" errorplus="0.300">2.750</age>
-		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
+		<temperature errorminus="79.0" errorplus="79.0">6270.0</temperature>
+		<age errorminus="0.300" errorplus="0.300">11.0</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.04</metallicity>
 		<planet>
 			<name>Kepler-25 b</name>
 			<name>KIC 4349452 b</name>
@@ -33,9 +33,11 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-25 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>1220.6</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.54</impactparameter>
+			<mass errorminus="0.01321" errorplus="0.01321">0.0302</mass>
 		</planet>
 		<planet>
 			<name>Kepler-25 c</name>
@@ -52,9 +54,11 @@
 			<spinorbitalignment errorminus="7.1" errorplus="7.1">9.4</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>959.7</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0000" errorplus="0.0000">0.88</impactparameter>
+			<mass errorminus="0.01793" errorplus="0.01793">0.0774</mass>
 		</planet>
 		<planet>
 			<name>Kepler-25 d</name>
@@ -68,6 +72,7 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

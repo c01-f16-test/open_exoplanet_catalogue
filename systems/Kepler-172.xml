@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.04</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.14</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-172 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.81</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-172 d</name>
@@ -62,6 +66,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.118</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-172 e</name>
@@ -78,6 +84,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.211</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.6</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.012</metallicity>
+		<magV errorminus="" errorplus="">14.532</magV>
 	</star>
 </system>

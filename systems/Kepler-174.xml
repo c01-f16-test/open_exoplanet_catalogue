@@ -12,7 +12,7 @@
 		<name>Kepler-174</name>
 		<name>KOI-518</name>
 		<name>KIC 8017703</name>
-		<temperature errorminus="26" errorplus="126">4880</temperature>
+		<temperature errorminus="126.0" errorplus="126">4880</temperature>
 		<radius errorminus=".032" errorplus="0.032">0.622</radius>
 		<mass errorminus="0.0190" errorplus="0.0190">0.6020</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.1</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.22</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-174 c</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.214</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.11</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-174 d</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.677</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.09</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.556</metallicity>
+		<magV errorminus="" errorplus="">14.287</magV>
 	</star>
 </system>

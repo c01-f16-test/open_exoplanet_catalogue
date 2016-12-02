@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.03</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-179 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.036</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.57</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.01</metallicity>
+		<magV errorminus="" errorplus="">14.613</magV>
 	</star>
 </system>

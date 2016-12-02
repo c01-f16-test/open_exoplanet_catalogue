@@ -2,14 +2,14 @@
 	<name>Kepler-20</name>
 	<rightascension>19 10 47</rightascension>
 	<declination>+42 20 19</declination>
-	<distance>290</distance>
+	<distance errorminus="30.0" errorplus="30.0">290</distance>
 	<star>
 		<name>Kepler-20</name>
 		<name>KOI-70</name>
 		<name>KIC 6850504</name>
-		<temperature>5466.0</temperature>
-		<mass>0.912</mass>
-		<radius>0.944</radius>
+		<temperature errorminus="100.0" errorplus="100.0">5455.0</temperature>
+		<mass errorminus="0.03" errorplus="0.03">0.912</mass>
+		<radius errorminus="0.1" errorplus="0.06">0.944</radius>
 		<magV>12.5</magV>
 		<magB errorminus="0.35" errorplus="0.35">13.41</magB>
 		<magR errorminus="0.07" errorplus="0.07">12.70</magR>
@@ -17,7 +17,7 @@
 		<magJ errorminus="0.021" errorplus="0.021">11.252</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.910</magH>
 		<magK errorminus="0.013" errorplus="0.013">10.871</magK>
-		<metallicity>0.02</metallicity>
+		<metallicity errorminus="0.04" errorplus="0.04">0.02</metallicity>
 		<spectraltype>G8</spectraltype>
 		<planet>
 			<name>Kepler-20 b</name>
@@ -26,18 +26,20 @@
 			<name>KOI-70 b</name>
 			<name>KIC 6850504 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.027</mass>
-			<radius>0.17</radius>
-			<period>3.6961219</period>
-			<semimajoraxis>0.04537</semimajoraxis>
-			<inclination>86.5</inclination>
+			<mass errorminus="0.007" errorplus="0.007">0.027</mass>
+			<radius errorminus="0.019" errorplus="0.011">0.17</radius>
+			<period errorminus="6.4e-06" errorplus="4.3e-06">3.6961219</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.00054">0.04537</semimajoraxis>
+			<inclination errorminus="0.31" errorplus="0.36">86.5</inclination>
 			<transittime errorminus="0.00068" errorplus="0.00058" unit="BJD">2454967.50027</transittime>
 			<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 b has a period of only 3.7 days. Because it is about twice as big as the Earth, it is classified as a super-Earth or sub-Neptune. Kepler-20 b's composition is ambiguous. It could be a terrestrial planet with a rocky surface or it could have a significant gas envelope.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/12/21</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1092.1</temperature>
+			<temperature>1014.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.32</eccentricity>
+			<impactparameter errorminus="0.0210" errorplus="0.0250">0.633</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-20 c</name>
@@ -46,18 +48,20 @@
 			<name>KOI-70 c</name>
 			<name>KIC 6850504 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.051</mass>
-			<radius>0.27</radius>
-			<period>10.854092</period>
-			<semimajoraxis>0.093</semimajoraxis>
-			<inclination>88.39</inclination>
+			<mass errorminus="0.012" errorplus="0.01">0.051</mass>
+			<radius errorminus="0.028" errorplus="0.018">0.27</radius>
+			<period errorminus="1.3e-05" errorplus="1.3e-05">10.854092</period>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.093</semimajoraxis>
+			<inclination errorminus="0.14" errorplus="0.16">88.39</inclination>
 			<transittime errorminus="0.00046" errorplus="0.00046" unit="BJD">2454971.60758</transittime>
 			<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 c has a low mean density which means it cannot be composed of rocky and iron material alone but must have a gas envelope.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/12/21</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>759.9</temperature>
+			<temperature>713.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.4</eccentricity>
+			<impactparameter errorminus="0.0210" errorplus="0.0180">0.594</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-20 d</name>
@@ -67,17 +71,19 @@
 			<name>KIC 6850504 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.06</mass>
-			<radius>0.25</radius>
-			<period>77.61185</period>
-			<semimajoraxis>0.3453</semimajoraxis>
-			<inclination>89.57</inclination>
+			<radius errorminus="0.027" errorplus="0.015">0.25</radius>
+			<period errorminus="0.00037" errorplus="0.00015">77.61185</period>
+			<semimajoraxis errorminus="0.0046" errorplus="0.0041">0.3453</semimajoraxis>
+			<inclination errorminus="0.048" errorplus="0.043">89.57</inclination>
 			<transittime errorminus="0.0019" errorplus="0.0016" unit="BJD">24544997.7271</transittime>
 			<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 d has a low mean density and cannot be composed of rocky and iron material alone. The planet has an equilibrium temperature of 95C (205F).</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/12/21</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>388.6</temperature>
+			<temperature>369.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.6</eccentricity>
+			<impactparameter errorminus="0.0320" errorplus="0.0410">0.588</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-20 e</name>
@@ -86,17 +92,20 @@
 			<name>KOI-70 e</name>
 			<name>KIC 6850504 e</name>
 			<list>Confirmed planets</list>
-			<radius>0.0791</radius>
-			<period>6.098493</period>
+			<radius errorminus="0.009" errorplus="0.007">0.0791</radius>
+			<period errorminus="6.5e-05" errorplus="6.5e-05">6.098493</period>
 			<semimajoraxis>0.06335</semimajoraxis>
-			<inclination>87.5</inclination>
+			<inclination errorminus="0.34" errorplus="0.33">87.5</inclination>
 			<transittime errorminus="0.0039" errorplus="0.0039" unit="BJD">2454968.9336</transittime>
 			<description>The Kepler-20 system hosts at least five transiting exo-planets. Kepler-20 e is most likely a rocky planet made of iron and silicates. It is approximately the size of Venus and is the first discovery of a sub-Earth size planet by the Kepler team. It is not habitable because the planet is on an orbit very close to its host star and the equilibrium temperature is as high as 1000 Kelvin (726C, 1340F).</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/12/21</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1040.0</temperature>
+			<temperature errorminus="22.0" errorplus="22.0">1040.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.28</eccentricity>
+			<impactparameter errorminus="0.0530" errorplus="0.0700">0.63</impactparameter>
+			<mass errorminus="" errorplus="">0.01</mass>
 		</planet>
 		<planet>
 			<name>Kepler-20 f</name>
@@ -105,17 +114,21 @@
 			<name>KOI-70 f</name>
 			<name>KIC 6850504 f</name>
 			<list>Confirmed planets</list>
-			<radius>0.093</radius>
-			<period>19.57706</period>
+			<radius errorminus="0.012" errorplus="0.009">0.093</radius>
+			<period errorminus="0.00052" errorplus="0.00052">19.57706</period>
 			<semimajoraxis>0.1378</semimajoraxis>
-			<inclination>88.68</inclination>
+			<inclination errorminus="0.17" errorplus="0.14">88.68</inclination>
 			<transittime errorminus="0.011" errorplus="0.011" unit="BJD">2454968.219</transittime>
 			<description>The Kepler-20 system hosts at least 5 transiting exo-planets. Kepler-20 f is orbiting the star every 20 days and has a size similar to that of Earth. It is too close to the star to be habitable. However, it could have developed a thick water vapour atmosphere.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/12/21</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>706.0</temperature>
+			<temperature errorminus="16.0" errorplus="16.0">705.0</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.32</eccentricity>
+			<impactparameter errorminus="0.0530" errorplus="0.0540">0.727</impactparameter>
+			<mass errorminus="" errorplus="">0.045</mass>
 		</planet>
+		<age errorminus="2.700" errorplus="4.700">8.8</age>
 	</star>
 </system>
