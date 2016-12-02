@@ -9,12 +9,14 @@
 		<name>Kepler-260</name>
 		<name>KOI-986</name>
 		<name>KIC 2854698</name>
-		<mass errorminus="0.1000" errorplus="0.1000">0.9000</mass>
-		<radius errorminus=".233" errorplus="0.233">0.862</radius>
+		<mass errorminus="0.1000" errorplus="0.1000">0.88</mass>
+		<radius errorminus="0.23" errorplus="0.23">0.86</radius>
+		<magV>14.138</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.900</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.540</magH>
 		<magK errorminus="0.026" errorplus="0.026">12.494</magK>
-		<temperature errorminus="57" errorplus="257">5250</temperature>
+		<temperature errorminus="257.00" errorplus="257.00">5250.00</temperature>
+		<metallicity>-0.034</metallicity>
 		<planet>
 			<name>Kepler-260 b</name>
 			<name>KOI-986 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 2854698 b</name>
 			<name>KIC 2854698.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.05012">0.18317</radius>
-			<period errorminus=".000022" errorplus="0.000022">8.187399</period>
+			<radius errorminus="0.049" errorplus="0.049">0.179</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">8.18739900</period>
+			<semimajoraxis>0.075000</semimajoraxis>
 			<description>Kepler-260 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-260 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013600" errorplus="0.0013600">2455093.8677100</transittime>
+			<transittime errorminus=".001360" errorplus="0.001360" unit="BJD">2455093.867710</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 2854698 c</name>
 			<name>KIC 2854698.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04921" errorplus="0.04921">0.15857</radius>
-			<period errorminus=".001026" errorplus="0.001026">76.050178</period>
+			<radius errorminus="0.048" errorplus="0.048">0.155</radius>
+			<period errorminus="0.00102600" errorplus="0.00102600">76.05017800</period>
+			<semimajoraxis>0.332000</semimajoraxis>
 			<description>Kepler-260 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-260 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0070500" errorplus="0.0070500">2454994.7120900</transittime>
+			<transittime errorminus=".007050" errorplus="0.007050" unit="BJD">2454994.712090</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

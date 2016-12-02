@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-754</name>
-	<rightascension>19 33 01</rightascension>
+	<rightascension>19 33 00</rightascension>
 	<declination>+37 50 46</declination>
+	<distance errorminus="141.53" errorplus="281.57">1192.00</distance>
 	<star>
 		<name>Kepler-754</name>
 		<mass errorminus="0.08" errorplus="0.08">1.06</mass>
 		<radius errorminus="0.12" errorplus="0.26">1.08</radius>
-		<temperature errorminus="182.0" errorplus="126.1">5935.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.05</metallicity>
+		<magV>15.160</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.895</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.566</magH>
+		<magK errorminus="0.041" errorplus="0.041">13.516</magK>
+		<temperature errorminus="181.97" errorplus="126.07">5935.00</temperature>
+		<age errorminus="2.080" errorplus="2.280">3.800</age>
+		<metallicity errorminus="0.161" errorplus="0.130">0.050</metallicity>
 		<planet>
 			<name>Kepler-754 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.043">0.179</radius>
-			<period errorminus="0.000201300" errorplus="0.000201300">14.559623700</period>
+			<period errorminus="0.00020130" errorplus="0.00020130">14.55962370</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".009560" errorplus="0.009560" unit="JD">2454968.961810</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

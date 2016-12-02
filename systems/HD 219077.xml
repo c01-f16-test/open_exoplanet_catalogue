@@ -1,32 +1,34 @@
 <system>
 	<name>HD 219077</name>
-	<rightascension>23 14 07</rightascension>
+	<rightascension>23 14 06</rightascension>
 	<declination>-62 42 00</declination>
-	<distance>29</distance>
+	<distance errorminus="0.53" errorplus="0.51">29.20</distance>
 	<star>
 		<name>HD 219077</name>
-		<mass>1.05</mass>
-		<radius>1.91</radius>
-		<magV>6.12</magV>
-		<magB>6.91</magB>
+		<mass errorminus="0.02" errorplus="0.02">1.05</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.91</radius>
+		<magV>6.120</magV>
+		<magB>6.900</magB>
 		<magJ errorminus="0.192" errorplus="0.192">4.640</magJ>
 		<magH errorminus="0.138" errorplus="0.138">4.124</magH>
 		<magK errorminus="8.888" errorplus="8.888">4.287</magK>
-		<temperature>5362.0</temperature>
-		<age>8.9</age>
-		<metallicity>-0.13</metallicity>
-		<spectraltype>G8 V+</spectraltype>
+		<temperature errorminus="18.00" errorplus="18.00">5362.00</temperature>
+		<age errorminus="0.300" errorplus="0.300">8.900</age>
+		<metallicity errorminus="0.010" errorplus="0.010">-0.130</metallicity>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 219077 b</name>
 			<list>Confirmed planets</list>
-			<mass>10.39</mass>
-			<period>5501</period>
-			<semimajoraxis>6.22</semimajoraxis>
-			<eccentricity>0.770</eccentricity>
-			<periastron>57.61</periastron>
+			<mass errorminus="0.09000" errorplus="0.09000" type="Msini">10.39000</mass>
+			<period errorminus="119.00000000" errorplus="130.00000000">5501.00000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">6.220000</semimajoraxis>
+			<eccentricity errorminus="0.003000" errorplus="0.003000">0.770000</eccentricity>
+			<periastron errorminus="0.4200" errorplus="0.4200">57.6100</periastron>
+			<periastrontime errorminus="1.400000" errorplus="1.400000">2450455.800000</periastrontime>
+			<maximumrvtime errorminus="1.400000" errorplus="1.400000">2450455.800000</maximumrvtime>
 			<temperature>124.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

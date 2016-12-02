@@ -1,0 +1,25 @@
+<system>
+	<name>KIC 9662267</name>
+	<declination>+46 21 00</declination>
+	<star>
+		<name>KIC 9662267</name>
+		<mass errorminus="0.18" errorplus="0.13">0.86</mass>
+		<radius errorminus="0.27" errorplus="0.19">0.89</radius>
+		<magV>15.3</magV>
+		<temperature errorminus="531.0" errorplus="151.0">5602.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>KIC 9662267 b</name>
+			<radius errorminus="0.096" errorplus="0.096">0.34</radius>
+			<period errorminus="0.0118" errorplus="0.0118">466.202</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">1.12</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.41">0.11</eccentricity>
+			<periastron errorminus="33.0" errorplus="1.7">1.7</periastron>
+			<inclination errorminus="0.06" errorplus="0.06">89.82</inclination>
+			<temperature>236.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

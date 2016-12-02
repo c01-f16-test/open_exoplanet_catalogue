@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-961</name>
-	<rightascension>18 48 09</rightascension>
-	<declination>+43 37 53</declination>
+	<rightascension>18 48 08</rightascension>
+	<declination>+43 37 52</declination>
+	<distance errorminus="22.14" errorplus="23.89">607.00</distance>
 	<star>
 		<name>Kepler-961</name>
 		<mass errorminus="0.03" errorplus="0.03">0.96</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.90</radius>
-		<temperature errorminus="55.8" errorplus="53.7">5582.0</temperature>
-		<metallicity errorminus="0.11" errorplus="0.11">0.05</metallicity>
+		<magV>14.101</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.859</magJ>
+		<magH errorminus="0.032" errorplus="0.032">12.564</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.482</magK>
+		<temperature errorminus="55.83" errorplus="53.72">5582.00</temperature>
+		<age errorminus="1.320" errorplus="2.140">2.820</age>
+		<metallicity errorminus="0.106" errorplus="0.108">0.050</metallicity>
 		<planet>
 			<name>Kepler-961 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.007" errorplus="0.010">0.227</radius>
-			<period errorminus="0.000028720" errorplus="0.000028720">16.877274140</period>
+			<period errorminus="0.00002872" errorplus="0.00002872">16.87727414</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001410" errorplus="0.001410" unit="JD">2454971.647900</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

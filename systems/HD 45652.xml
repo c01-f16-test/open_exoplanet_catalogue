@@ -2,30 +2,34 @@
 	<name>HD 45652</name>
 	<rightascension>06 29 13</rightascension>
 	<declination>+10 56 02</declination>
-	<distance>36</distance>
+	<distance errorminus="1.77" errorplus="1.61">36.14</distance>
 	<star>
 		<name>HD 45652</name>
-		<mass>0.83</mass>
-		<magV>8.1</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.96</magB>
+		<mass errorminus="0.05" errorplus="0.05">0.83</mass>
+		<magV errorminus="0.017" errorplus="0.017">8.127</magV>
+		<magB errorminus="0.024" errorplus="0.024">8.962</magB>
 		<magR>7.6</magR>
 		<magI>7.2</magI>
 		<magJ errorminus="0.021" errorplus="0.021">6.703</magJ>
-		<magH errorminus="0.023" errorplus="0.023">6.316</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.263</magK>
-		<temperature>5312.0</temperature>
-		<metallicity>0.29</metallicity>
+		<magH errorminus="0.022" errorplus="0.022">6.316</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.263</magK>
+		<temperature errorminus="68.00" errorplus="68.00">5312.00</temperature>
+		<age>12.000</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.290</metallicity>
 		<spectraltype>G8-K0</spectraltype>
 		<planet>
 			<name>HD 45652 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.47</mass>
-			<period>43.6</period>
-			<semimajoraxis>0.23</semimajoraxis>
-			<eccentricity>0.38</eccentricity>
+			<mass type="Msini">0.47000</mass>
+			<period errorminus="0.20000000" errorplus="0.20000000">43.60000000</period>
+			<semimajoraxis>0.230000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.380000</eccentricity>
+			<periastron errorminus="12.0000" errorplus="12.0000">273.0000</periastron>
+			<periastrontime errorminus="1.200000" errorplus="1.200000">2454120.300000</periastrontime>
+			<maximumrvtime errorminus="1.200000" errorplus="1.200000">2454120.300000</maximumrvtime>
 			<temperature>472.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/10/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2015-BLG-0966L</name>
+	<rightascension>17 55 01</rightascension>
+	<declination>-29 02 49</declination>
+	<distance>2500.00</distance>
+	<star>
+		<name>OGLE 2015-BLG-0966L</name>
+		<mass errorminus="0.04" errorplus="0.04">0.38</mass>
+		<planet>
+			<name>OGLE 2015-BLG-0966L b</name>
+			<mass errorminus="0.00629" errorplus="0.00629" type="Mass">0.06607</mass>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

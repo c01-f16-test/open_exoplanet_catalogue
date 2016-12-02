@@ -1,0 +1,28 @@
+<system>
+	<name>OGLE 2012-BLG-26L</name>
+	<rightascension>17 34 18</rightascension>
+	<declination>-27 08 33</declination>
+	<distance errorminus="380.00" errorplus="380.00">4019.00</distance>
+	<star>
+		<name>OGLE 2012-BLG-26L</name>
+		<mass errorminus="0.05" errorplus="0.05">1.06</mass>
+		<age errorminus="1.000" errorplus="1.000">5.000</age>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>OGLE 2012-BLG-26L b</name>
+			<mass errorminus="0.00820" errorplus="0.00820" type="Mass">0.14500</mass>
+			<semimajoraxis errorminus="0.500000" errorplus="0.500000">4.000000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>OGLE 2012-BLG-26L c</name>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Mass">0.86000</mass>
+			<semimajoraxis errorminus="0.700000" errorplus="0.700000">4.800000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

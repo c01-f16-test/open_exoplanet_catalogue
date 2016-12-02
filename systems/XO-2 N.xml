@@ -1,0 +1,32 @@
+<system>
+	<name>XO-2 N</name>
+	<rightascension>07 48 06</rightascension>
+	<declination>+50 13 32</declination>
+	<distance errorminus="3.00" errorplus="2.90">145.50</distance>
+	<star>
+		<name>XO-2 N</name>
+		<mass errorminus="0.05" errorplus="0.05">0.97</mass>
+		<radius errorminus="0.07" errorplus="0.10">1.01</radius>
+		<magV errorminus="0.026" errorplus="0.026">11.138</magV>
+		<magB errorminus="0.015" errorplus="0.015">12.002</magB>
+		<magJ errorminus="0.022" errorplus="0.022">9.744</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.340</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.308</magK>
+		<temperature errorminus="57.00" errorplus="57.00">5332.00</temperature>
+		<age errorminus="3.000" errorplus="2.300">7.900</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.430</metallicity>
+		<spectraltype>K0 V</spectraltype>
+		<planet>
+			<name>XO-2 N b</name>
+			<mass errorminus="0.02100" errorplus="0.02100" type="Mass">0.59700</mass>
+			<radius errorminus="0.031" errorplus="0.031">1.019</radius>
+			<period errorminus="0.00000028" errorplus="0.00000028">2.61585922</period>
+			<semimajoraxis errorminus="0.000640" errorplus="0.000640">0.036730</semimajoraxis>
+			<eccentricity>0.006000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000054" errorplus="0.000054" unit="BJD-TDB">2455565.546480</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

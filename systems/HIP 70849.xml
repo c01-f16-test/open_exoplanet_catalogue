@@ -1,34 +1,35 @@
 <system>
 	<name>HIP 70849</name>
-	<rightascension>14 29 19</rightascension>
-	<declination>-46 27 50</declination>
-	<distance>24</distance>
+	<rightascension>14 29 18</rightascension>
+	<declination>-46 27 49</declination>
+	<distance errorminus="1.22" errorplus="1.11">23.98</distance>
 	<binary>
 		<separation unit="arcsec">377</separation>
 		<separation unit="AU">9050</separation>
 		<positionangle>262</positionangle>
 		<star>
 			<name>HIP 70849</name>
-			<mass>0.63</mass>
-			<magV>10.36</magV>
-			<magB>11.798</magB>
+			<mass errorminus="0.03" errorplus="0.03">0.63</mass>
+			<magV errorminus="0.011" errorplus="0.011">10.380</magV>
+			<magB errorminus="0.009" errorplus="0.009">11.790</magB>
 			<magR>9.492</magR>
 			<magI>8.637</magI>
 			<magJ errorminus="0.023" errorplus="0.023">7.639</magJ>
 			<magH errorminus="0.061" errorplus="0.061">7.006</magH>
 			<magK errorminus="0.027" errorplus="0.027">6.790</magK>
-			<temperature>4105.0</temperature>
-			<spectraltype>K7V</spectraltype>
+			<temperature errorminus="130.0" errorplus="130.0">4105.0</temperature>
+			<age errorminus="2.0" errorplus="2.0">3.0</age>
+			<spectraltype>K7 V k</spectraltype>
 			<planet>
 				<name>HIP 70849 b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass>9</mass>
-				<period>10000</period>
-				<semimajoraxis>10</semimajoraxis>
-				<eccentricity>0.6</eccentricity>
+				<mass errorminus="6.00000" errorplus="6.00000" type="Msini">9.00000</mass>
+				<period errorminus="15512.50000000" errorplus="15512.50000000">17337.50000000</period>
+				<semimajoraxis errorminus="15.750000" errorplus="15.750000">20.250000</semimajoraxis>
+				<eccentricity errorminus="0.245000" errorplus="0.245000">0.715000</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/07/05</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2009</discoveryyear>
 			</planet>
 		</star>

@@ -9,12 +9,14 @@
 		<name>Kepler-114</name>
 		<name>KOI-156</name>
 		<name>KIC 10925104</name>
-		<mass errorminus="0.0230" errorplus="0.0230">0.7090</mass>
-		<radius errorminus=".035" errorplus="0.035">0.667</radius>
+		<mass errorminus="0.06" errorplus="0.06">0.56</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.67</radius>
+		<magV>13.738</magV>
 		<magJ errorminus="0.029" errorplus="0.029">12.035</magJ>
-		<magH errorminus="0.026" errorplus="0.026">11.469</magH>
+		<magH errorminus="0.025" errorplus="0.025">11.469</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.366</magK>
-		<temperature errorminus="100" errorplus="100">4605</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4605.00</temperature>
+		<metallicity>-0.003</metallicity>
 		<planet>
 			<name>Kepler-114 c</name>
 			<name>KOI-156 c</name>
@@ -22,14 +24,18 @@
 			<name>KIC 10925104 c</name>
 			<name>KIC 10925104.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.13670</radius>
-			<period errorminus=".000013" errorplus="0.000013">8.041348</period>
+			<mass errorminus="0.00200" errorplus="0.00200" type="Mass">0.00900</mass>
+			<radius errorminus="0.016" errorplus="0.016">0.143</radius>
+			<period errorminus=".000013" errorplus="0.000013">8.04100000</period>
+			<semimajoraxis>0.07</semimajoraxis>
+			<inclination>88.24</inclination>
+			<temperature>623.0</temperature>
 			<description>Kepler-114 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-114 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009800" errorplus="0.0009800">2454976.0376100</transittime>
+			<transittime errorminus="0.0015" errorplus="0.0015">2454976.039</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-114 b</name>
@@ -38,13 +44,17 @@
 			<name>KIC 10925104 b</name>
 			<name>KIC 10925104.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01185" errorplus="0.01185">0.11482</radius>
-			<period errorminus=".000012" errorplus="0.000012">5.188549</period>
+			<mass errorminus="0.00943900827486392" errorplus="0.00943900827486392">0.0220243526413</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.112</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">5.18854900</period>
+			<semimajoraxis>0.053000</semimajoraxis>
+			<inclination>87.66</inclination>
+			<temperature>722.0</temperature>
 			<description>Kepler-114 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-114 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014000" errorplus="0.0014000">2454978.3632000</transittime>
+			<transittime errorminus=".001400" errorplus="0.001400" unit="BJD">2454978.363200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,14 +64,18 @@
 			<name>KIC 10925104 d</name>
 			<name>KIC 10925104.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.22054</radius>
-			<period errorminus=".000010" errorplus="0.000010">11.776134</period>
+			<mass errorminus="0.00500" errorplus="0.00500" type="Mass">0.01200</mass>
+			<radius errorminus="0.025" errorplus="0.025">0.226</radius>
+			<period errorminus=".000010" errorplus="0.000010">11.77600000</period>
+			<semimajoraxis>0.09</semimajoraxis>
+			<inclination>88.24</inclination>
+			<temperature>549.0</temperature>
 			<description>Kepler-114 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-114 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0005200" errorplus="0.0005200">2454975.7047700</transittime>
+			<transittime errorminus="0.00074" errorplus="0.00074">2454975.70441</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

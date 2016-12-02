@@ -1,0 +1,26 @@
+<system>
+	<name>Qatar-5</name>
+	<declination>+42 03 41</declination>
+	<star>
+		<name>Qatar-5</name>
+		<name>UCAC3 265-004681</name>
+		<mass errorminus="0.056" errorplus="0.056">1.128</mass>
+		<radius errorminus="0.051" errorplus="0.051">1.076</radius>
+		<temperature errorminus="49.0" errorplus="49.0">5747.0</temperature>
+		<age errorminus="4.4" errorplus="4.4">5.47</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.377</metallicity>
+		<planet>
+			<name>Qatar-5 b</name>
+			<mass errorminus="0.18" errorplus="0.18" type="Radial Velocity">4.32</mass>
+			<radius errorminus="0.064" errorplus="0.064">1.107</radius>
+			<period errorminus="9.9e-06" errorplus="9.9e-06">2.8792319</period>
+			<semimajoraxis errorminus="0.0067" errorplus="0.0067">0.04127</semimajoraxis>
+			<inclination errorminus="0.87" errorplus="0.87">88.74</inclination>
+			<temperature>1415.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="9.8e-05" errorplus="9.8e-05">2457336.75824</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

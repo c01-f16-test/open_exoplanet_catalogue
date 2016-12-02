@@ -9,12 +9,14 @@
 		<name>Kepler-394</name>
 		<name>KOI-2597</name>
 		<name>KIC 12120307</name>
-		<mass errorminus="0.1300" errorplus="0.1300">1.1700</mass>
-		<radius errorminus=".580" errorplus="0.580">1.132</radius>
+		<mass errorminus="0.1300" errorplus="0.1300">1.11</mass>
+		<radius errorminus="0.58" errorplus="0.58">1.13</radius>
+		<magV>14.790</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.724</magJ>
 		<magH errorminus="0.027" errorplus="0.027">13.436</magH>
 		<magK errorminus="0.042" errorplus="0.042">13.384</magK>
-		<temperature errorminus="200" errorplus="200">6402</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">6402.00</temperature>
+		<metallicity>-0.129</metallicity>
 		<planet>
 			<name>Kepler-394 b</name>
 			<name>KOI-2597 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 12120307 b</name>
 			<name>KIC 12120307.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07473" errorplus="0.07473">0.14581</radius>
-			<period errorminus=".000090" errorplus="0.000090">8.005013</period>
+			<radius errorminus="0.073" errorplus="0.073">0.143</radius>
+			<period errorminus="0.00009000" errorplus="0.00009000">8.00501300</period>
+			<semimajoraxis>0.083000</semimajoraxis>
 			<description>Kepler-394 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-394 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0068700" errorplus="0.0068700">2454971.7106900</transittime>
+			<transittime errorminus=".006870" errorplus="0.006870" unit="BJD">2454971.710690</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 12120307 c</name>
 			<name>KIC 12120307.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07837" errorplus="0.07837">0.15128</radius>
-			<period errorminus=".000180" errorplus="0.000180">12.130686</period>
+			<radius errorminus="0.077" errorplus="0.077">0.148</radius>
+			<period errorminus="0.00018000" errorplus="0.00018000">12.13068600</period>
+			<semimajoraxis>0.110000</semimajoraxis>
 			<description>Kepler-394 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-394 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0091800" errorplus="0.0091800">2454972.8972900</transittime>
+			<transittime errorminus=".009180" errorplus="0.009180" unit="BJD">2454972.897290</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

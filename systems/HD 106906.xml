@@ -1,32 +1,31 @@
 <system>
 	<name>HD 106906</name>
-	<rightascension>12 17 53.19228</rightascension>
-	<declination>-55 58 31.8890</declination>
-	<distance errorminus="6" errorplus="6">92</distance>
+	<rightascension>12 17 53</rightascension>
+	<declination>-55 58 31</declination>
+	<distance errorminus="8.27" errorplus="7.01">91.83</distance>
 	<star>
 		<name>HD 106906</name>
-		<mass errorminus="0.1" errorplus="0.1">1.5</mass>
-		<magV>7.81</magV>
-		<magB>8.21</magB>
-		<magJ errorminus="0.03" errorplus="0.03">6.95</magJ>
+		<mass errorminus="0.10" errorplus="0.10">1.50</mass>
+		<magV errorminus="0.011" errorplus="0.011">7.797</magV>
+		<magB errorminus="0.015" errorplus="0.015">8.237</magB>
+		<magJ errorminus="0.030" errorplus="0.030">6.946</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.759</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.683</magK>
-		<temperature errorminus="165" errorplus="165">6516</temperature>
+		<temperature errorminus="165.00" errorplus="165.00">6516.00</temperature>
 		<age errorminus="0.002" errorplus="0.002">0.013</age>
-		<spectraltype>F5V</spectraltype>
+		<spectraltype>F5 V</spectraltype>
 		<planet>
 			<name>HD 106906 b</name>
 			<list>Confirmed planets</list>
 			<spectraltype>L2.5</spectraltype>
-			<mass errorminus="2" errorplus="2">11</mass>
-			<separation errorminus="0.03" errorplus="0.03" unit="arcsec">7.11</separation>
-			<separation unit="AU">650</separation>
+			<mass errorminus="2.00000" errorplus="2.00000" type="Mass">11.00000</mass>
 			<positionangle errorminus="0.2" errorplus="0.2">307.3</positionangle>
 			<magJ errorminus="0.3" errorplus="0.3">17.6</magJ>
+			<semimajoraxis errorminus="3.0" errorplus="3.0">650.000000</semimajoraxis>
 			<temperature errorminus="100" errorplus="100">1800</temperature>
 			<description>The star HD 106906 hosts a massive debris disk with an inner edge at 15-20 AU and an outer edge at 120 AU. New adaptive optics images from the Magellan telescope revealed a planetary mass companion far beyond the debris disk at 650 AU. Explaining the formation of such a wide companion is challenging.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>13/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

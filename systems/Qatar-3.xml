@@ -1,0 +1,26 @@
+<system>
+	<name>Qatar-3</name>
+	<declination>+36 12 47</declination>
+	<star>
+		<name>Qatar-3</name>
+		<name>UCAC3 253-304972</name>
+		<mass errorminus="0.064" errorplus="0.064">1.145</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.272</radius>
+		<temperature errorminus="52.0" errorplus="52.0">6007.0</temperature>
+		<age errorminus="1.34" errorplus="1.34">4.079</age>
+		<metallicity errorminus="0.081" errorplus="0.081">-0.041</metallicity>
+		<planet>
+			<name>Qatar-3 b</name>
+			<mass errorminus="0.47" errorplus="0.47" type="Radial Velocity">4.31</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.096</radius>
+			<period errorminus="9.9e-06" errorplus="9.9e-06">2.5079204</period>
+			<semimajoraxis errorminus="0.00069" errorplus="0.00069">0.03783</semimajoraxis>
+			<inclination errorminus="2.0" errorplus="2.0">86.8</inclination>
+			<temperature>1681.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0001" errorplus="0.0001">2457302.453</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

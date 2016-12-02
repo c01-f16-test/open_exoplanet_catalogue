@@ -9,11 +9,14 @@
 		<name>Kepler-340</name>
 		<name>KOI-1932</name>
 		<name>KIC 5202905</name>
-		<radius errorminus=".416" errorplus="0.416">1.850</radius>
+		<mass>2.11</mass>
+		<radius errorminus="0.42" errorplus="0.42">1.85</radius>
+		<magV>12.345</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.725</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.629</magH>
 		<magK errorminus="0.014" errorplus="0.014">11.583</magK>
-		<temperature errorminus="76" errorplus="376">6620</temperature>
+		<temperature errorminus="376.00" errorplus="376.00">6620.00</temperature>
+		<metallicity>-0.094</metallicity>
 		<planet>
 			<name>Kepler-340 c</name>
 			<name>KOI-1932 c</name>
@@ -21,13 +24,14 @@
 			<name>KIC 5202905 c</name>
 			<name>KIC 5202905.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07017" errorplus="0.07017">0.30711</radius>
-			<period errorminus=".000481" errorplus="0.000481">22.824669</period>
+			<radius errorminus="0.069" errorplus="0.069">0.301</radius>
+			<period errorminus="0.00048100" errorplus="0.00048100">22.82466900</period>
+			<semimajoraxis>0.178000</semimajoraxis>
 			<description>Kepler-340 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-340 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0094500" errorplus="0.0094500">2454977.4661600</transittime>
+			<transittime errorminus=".009450" errorplus="0.009450" unit="BJD">2454977.466160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +41,14 @@
 			<name>KIC 5202905 b</name>
 			<name>KIC 5202905.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05468" errorplus="0.05468">0.23056</radius>
-			<period errorminus=".000473" errorplus="0.000473">14.844387</period>
+			<radius errorminus="0.054" errorplus="0.054">0.226</radius>
+			<period errorminus="0.00047300" errorplus="0.00047300">14.84438700</period>
+			<semimajoraxis>0.134000</semimajoraxis>
 			<description>Kepler-340 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-340 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0159500" errorplus="0.0159500">2454976.5828900</transittime>
+			<transittime errorminus=".015950" errorplus="0.015950" unit="BJD">2454976.582890</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

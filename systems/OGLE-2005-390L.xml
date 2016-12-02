@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2005-390L</name>
+	<declination>-30 22 37</declination>
+	<star>
+		<name>OGLE-2005-390L</name>
+		<mass>0.22</mass>
+		<magB>15.7</magB>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGLE-2005-390L b</name>
+			<mass>0.017</mass>
+			<period>3500.0</period>
+			<semimajoraxis>2.1</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+</system>

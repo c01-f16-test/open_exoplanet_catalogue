@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-995</name>
-	<rightascension>18 58 28</rightascension>
-	<declination>+39 07 52</declination>
+	<rightascension>18 58 27</rightascension>
+	<declination>+39 07 51</declination>
+	<distance errorminus="44.11" errorplus="44.56">659.00</distance>
 	<star>
 		<name>Kepler-995</name>
 		<mass errorminus="0.05" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
-		<temperature errorminus="74.7" errorplus="110.9">5206.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.07</metallicity>
+		<magV>14.907</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.566</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.066</magH>
+		<magK errorminus="0.027" errorplus="0.027">13.021</magK>
+		<temperature errorminus="74.71" errorplus="110.94">5206.00</temperature>
+		<age errorminus="3.200" errorplus="6.050">5.010</age>
+		<metallicity errorminus="0.170" errorplus="0.148">-0.070</metallicity>
 		<planet>
 			<name>Kepler-995 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.017">0.241</radius>
-			<period errorminus="0.000086430" errorplus="0.000086430">28.267316720</period>
+			<period errorminus="0.00008643" errorplus="0.00008643">28.26731672</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002270" errorplus="0.002270" unit="JD">2454973.924950</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

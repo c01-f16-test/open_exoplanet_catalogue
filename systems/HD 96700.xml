@@ -1,7 +1,7 @@
 <system>
 	<name>HD 96700</name>
 	<rightascension>11 07 54</rightascension>
-	<declination>-30 10 28</declination>
+	<declination>-30 10 27</declination>
 	<distance>25.6</distance>
 	<star>
 		<name>HD 96700</name>
@@ -17,27 +17,27 @@
 		<planet>
 			<name>HD 96700 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0284</mass>
-			<period>8.1256</period>
-			<semimajoraxis>0.0774</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.002" errorplus="0.002">0.0284</mass>
+			<period errorminus="0.0013" errorplus="0.0013">8.1256</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0774</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.1</eccentricity>
 			<temperature>1001.4</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 96700 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.04</mass>
-			<period>103.49</period>
-			<semimajoraxis>0.422</semimajoraxis>
-			<eccentricity>0.37</eccentricity>
+			<mass errorminus="0.005" errorplus="0.005">0.04</mass>
+			<period errorminus="0.5794" errorplus="0.5794">103.49</period>
+			<semimajoraxis errorminus="0.0073" errorplus="0.0073">0.422</semimajoraxis>
+			<eccentricity errorminus="0.19" errorplus="0.19">0.37</eccentricity>
 			<temperature>425.4</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

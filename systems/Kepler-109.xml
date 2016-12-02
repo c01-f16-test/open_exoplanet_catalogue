@@ -2,8 +2,8 @@
 	<name>Kepler-109</name>
 	<name>KOI-123</name>
 	<name>KIC 5094751</name>
-	<rightascension>19 21 34.263</rightascension>
-	<declination>+40 17 05.66</declination>
+	<rightascension>19 21 34</rightascension>
+	<declination>+40 17 05</declination>
 	<distance>468.1</distance>
 	<star>
 		<name>Kepler-109</name>
@@ -13,14 +13,14 @@
 		<name>2MASS J19213425+4017055</name>
 		<mass errorminus="0.06" errorplus="0.06">1.04</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.32</radius>
-		<magV>12.93</magV>
-		<magB>12.82</magB>
+		<magV>12.365</magV>
+		<magB>12.206</magB>
 		<magJ errorminus="0.019" errorplus="0.019">11.314</magJ>
 		<magH errorminus="0.016" errorplus="0.016">11.046</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.001</magK>
-		<temperature errorminus="75" errorplus="75">5952</temperature>
-		<age>5.73</age>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
+		<temperature errorminus="75.00" errorplus="75.00">5952.00</temperature>
+		<age errorminus="1.05" errorplus="1.05">5.730</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.080</metallicity>
 		<planet>
 			<name>Kepler-109 b</name>
 			<name>KOI-123.01</name>
@@ -29,15 +29,17 @@
 			<name>TYC 3138-1820-1 b</name>
 			<name>2MASS J19213425+4017055 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
-			<period>6.48163</period>
+			<mass errorminus="0.017" errorplus="0.017">0.0041</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.211</radius>
+			<period errorminus="8e-06" errorplus="8e-06">6.48163000</period>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.069</semimajoraxis>
+			<eccentricity errorminus="0.21" errorplus="0.09">0.21</eccentricity>
 			<inclination errorminus="0.1" errorplus="0.1">87.0</inclination>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="BJD">2454955.97755</transittime>
+			<transittime unit="BJD">2454955.977550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -48,16 +50,17 @@
 			<name>TYC 3138-1820-1 c</name>
 			<name>2MASS J19213425+4017055 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
-			<period>21.2227</period>
+			<mass errorminus="0.025" errorplus="0.025">0.00698</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.225</radius>
+			<period errorminus="3e-05" errorplus="3e-05">21.22270000</period>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.152</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.19">0.03</eccentricity>
 			<inclination errorminus="0.2" errorplus="0.2">89.6</inclination>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="BJD">2454970.57250</transittime>
+			<transittime unit="BJD">2454970.572500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

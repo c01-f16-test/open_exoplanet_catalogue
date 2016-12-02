@@ -1,0 +1,98 @@
+<system>
+	<name>GJ 436</name>
+	<name>Gliese 436</name>
+	<rightascension>11 42 11</rightascension>
+	<declination>+26 42 23</declination>
+	<distance errorminus="0.24" errorplus="0.23">10.23</distance>
+	<star>
+		<name>Gliese 436</name>
+		<mass errorminus="0.012" errorplus="0.014">0.452</mass>
+		<radius errorminus="0.012" errorplus="0.014">0.464</radius>
+		<magV errorminus="0.011" errorplus="0.009">10.59</magV>
+		<magB errorminus="0.28" errorplus="0.28">12.06</magB>
+		<magR>9.58</magR>
+		<magI>8.24</magI>
+		<magJ errorminus="0.024" errorplus="0.024">6.900</magJ>
+		<magH errorminus="0.023" errorplus="0.023">6.319</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.073</magK>
+		<temperature>3684.0</temperature>
+		<metallicity>-0.32</metallicity>
+		<spectraltype>M2V</spectraltype>
+		<planet>
+			<name>Gliese 436 b</name>
+			<name>GJ 436 b</name>
+			<name>Gj 436 b</name>
+			<name>Gl 436 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.0032" errorplus="0.0032">0.0727</mass>
+			<radius errorminus="0.0092" errorplus="0.0082">0.3767</radius>
+			<period errorminus="0.00009" errorplus="0.00009">2.643850</period>
+			<semimajoraxis errorminus="0.0048" errorplus="0.0048">0.02872</semimajoraxis>
+			<eccentricity errorminus="0.012" errorplus="0.012">0.15</eccentricity>
+			<inclination errorminus="0.25" errorplus="0.25">85.8</inclination>
+			<temperature>650.3</temperature>
+			<description>The star Gliese 436 is located in the constellation Leo. Due to tidal forces the planet Gliese 436b is expected to circularise on short timescales. It might be perturbed by an additional planet in the system.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454222.6172</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+		<planet>
+			<name>Gliese 436 c</name>
+			<name>GJ 436 c</name>
+			<name>Gj 436 c</name>
+			<name>Gl 436 c</name>
+			<name>UCF-1.01</name>
+			<list>Controversial</list>
+			<mass>0.0008807961</mass>
+			<radius>0.06014599</radius>
+			<period>1.3658</period>
+			<semimajoraxis>0.0185</semimajoraxis>
+			<eccentricity>0</eccentricity>
+			<inclination>85.1</inclination>
+			<temperature>813.5</temperature>
+			<description>The star Gliese 436 is located in the constellation Leo. While observing the already known planet Gliese 436 b with the Spitzer Space Telescope, astronomers have discovered an additional transiting planet Gliese 436 c. The planet is also known as UCF-1.01. There might be even more planets in the system.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0018" errorplus="0.0018" unit="HJD">2454600.69795</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<image>ucf101</image>
+			<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet. 
+	
+	Credit: NASA/JPL-Caltech</imagedescription>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 436</name>
+		<mass errorminus="0.07" errorplus="0.07">0.47</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.46</radius>
+		<magV errorminus="0.010" errorplus="0.010">10.670</magV>
+		<magB errorminus="0.025" errorplus="0.025">12.170</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.900</magJ>
+		<magH errorminus="0.022" errorplus="0.022">6.319</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.073</magK>
+		<temperature errorminus="55.0" errorplus="55.0">3684.0</temperature>
+		<age errorminus="5.0" errorplus="5.0">6.0</age>
+		<metallicity errorminus="0.12" errorplus="0.12">-0.32</metallicity>
+		<spectraltype>M2.5 V</spectraltype>
+		<planet>
+			<name>GJ 436 b</name>
+			<mass errorminus="0.00700" errorplus="0.00700" type="Mass">0.07000</mass>
+			<radius errorminus="0.015" errorplus="0.015">0.372</radius>
+			<period errorminus="0.00000057" errorplus="0.00000057">2.64388312</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.029100</semimajoraxis>
+			<eccentricity errorminus="0.000180" errorplus="0.000180">0.138270</eccentricity>
+			<periastron errorminus="0.0300" errorplus="0.0300">351.0000</periastron>
+			<periastrontime>2455959.000000</periastrontime>
+			<maximumrvtime>2455959.000000</maximumrvtime>
+			<inclination errorminus="0.160" errorplus="0.170">86.440</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus=".000070" errorplus="0.000070" unit="BJD-TDB">2454510.801620</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+	<videolink>http://youtu.be/csx-hif97mw</videolink>
+</system>

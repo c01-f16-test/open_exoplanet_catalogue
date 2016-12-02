@@ -1,0 +1,28 @@
+<system>
+	<name>EPIC 220504338</name>
+	<declination>+06 42 08</declination>
+	<star>
+		<name>EPIC 220504338</name>
+		<mass errorminus="0.039" errorplus="0.049">1.007</mass>
+		<radius errorminus="0.08" errorplus="0.11">1.047</radius>
+		<magV>13.68</magV>
+		<temperature errorminus="88.0" errorplus="88.0">5627.0</temperature>
+		<age errorminus="2.7" errorplus="3.4">5.9</age>
+		<metallicity errorminus="0.062" errorplus="0.062">0.18</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>EPIC 220504338</name>
+			<mass errorminus="0.12" errorplus="0.12" type="Radial Velocity">1.28</mass>
+			<radius errorminus="0.07" errorplus="0.1">0.91</radius>
+			<period errorminus="4e-05" errorplus="4e-05">5.817712</period>
+			<semimajoraxis errorminus="0.0057" errorplus="0.0074">0.0575</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.042" errorplus="0.54">86.44</inclination>
+			<temperature>1000.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00032" errorplus="0.00032">2457392.88588</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

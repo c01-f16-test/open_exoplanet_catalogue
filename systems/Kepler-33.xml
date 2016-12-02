@@ -7,35 +7,36 @@
 		<name>Kepler-33</name>
 		<name>KOI-707</name>
 		<name>KIC 9458613</name>
-		<mass errorminus="0.121" errorplus="0.063">1.291</mass>
+		<mass errorminus="0.12" errorplus="0.06">1.29</mass>
 		<radius errorminus="0.18" errorplus="0.14">1.82</radius>
-		<magV errorminus="0.28" errorplus="0.28">13.74</magV>
+		<magV errorminus="0.28" errorplus="0.28">13.988</magV>
 		<magB errorminus="0.42" errorplus="0.42">14.39</magB>
 		<magR errorminus="0.09" errorplus="0.09">14.26</magR>
 		<magI errorminus="0.43" errorplus="0.43">13.23</magI>
 		<magJ errorminus="0.020" errorplus="0.020">12.871</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.620</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.591</magK>
-		<temperature errorminus="47" errorplus="47">5904.0</temperature>
-		<age errorminus="1.03" errorplus="0.74">4.27</age>
-		<metallicity errorminus="0.0019" errorplus="0.0019">0.0250</metallicity>
+		<temperature errorminus="47.00" errorplus="47.00">5904.00</temperature>
+		<age errorminus="1.030" errorplus="0.740">4.270</age>
+		<metallicity errorminus="0.002" errorplus="0.002">0.025</metallicity>
 		<planet>
 			<name>Kepler-33 b</name>
 			<name>KOI-707.05</name>
 			<name>KOI-707 b</name>
 			<name>KIC 9458613 b</name>
 			<list>Confirmed planets</list>
-			<radius>0.158566</radius>
-			<period errorminus="0.00012" errorplus="0.00012">5.66793</period>
-			<semimajoraxis>0.0677</semimajoraxis>
-			<inclination errorminus="1.62" errorplus="0.96">86.39</inclination>
+			<radius errorminus="0.016" errorplus="0.016">0.155</radius>
+			<period errorminus="0.00012000" errorplus="0.00012000">5.66793000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.067700</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.620" errorplus="0.960">86.390</inclination>
 			<temperature>1349.8</temperature>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0075" errorplus="0.0075" unit="BJD">2454964.8981</transittime>
+			<transittime errorminus=".007500" errorplus="0.007500" unit="BJD">2454964.898100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/01/26</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-33 c</name>
@@ -44,17 +45,18 @@
 			<name>KIC 9458613 c</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.00220" errorplus="0.00787">0.00252</mass>
-			<radius>0.2916</radius>
-			<period errorminus="0.00014" errorplus="0.00014">13.17562</period>
-			<semimajoraxis>0.1189</semimajoraxis>
-			<inclination errorminus="1.06" errorplus="0.58">88.19</inclination>
+			<radius errorminus="0.027" errorplus="0.027">0.285</radius>
+			<period errorminus="0.00014000" errorplus="0.00014000">13.17562000</period>
+			<semimajoraxis errorminus="0.002500" errorplus="0.002500">0.118900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.060" errorplus="0.580">88.190</inclination>
 			<temperature>1018.5</temperature>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042" errorplus="0.0042" unit="BJD">2454976.6764</transittime>
+			<transittime errorminus=".004200" errorplus="0.004200" unit="BJD">2454976.676400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-33 d</name>
@@ -63,17 +65,18 @@
 			<name>KIC 9458613 d</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.00629" errorplus="0.00629">0.01478</mass>
-			<radius>0.487547</radius>
-			<period errorminus="0.00011" errorplus="0.00011">21.77596</period>
-			<semimajoraxis>0.166</semimajoraxis>
-			<inclination errorminus="0.48" errorplus="0.61">88.71</inclination>
+			<radius errorminus="0.044" errorplus="0.044">0.477</radius>
+			<period errorminus="0.00011000" errorplus="0.00011000">21.77596000</period>
+			<semimajoraxis errorminus="0.003500" errorplus="0.003500">0.166200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.480" errorplus="0.610">88.710</inclination>
 			<temperature>861.5</temperature>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018" errorplus="0.0018" unit="BJD">2455022.6342</transittime>
+			<transittime errorminus=".001800" errorplus="0.001800" unit="BJD">2455022.634200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-33 e</name>
@@ -82,16 +85,18 @@
 			<name>KIC 9458613 e</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.00409" errorplus="0.00378">0.02108</mass>
-			<radius>0.366343</radius>
-			<period errorminus="0.00039" errorplus="0.00039">31.78440</period>
-			<semimajoraxis>0.2138</semimajoraxis>
+			<radius errorminus="0.034" errorplus="0.034">0.359</radius>
+			<period errorminus="0.00039000" errorplus="0.00039000">31.78440000</period>
+			<semimajoraxis errorminus="0.004500" errorplus="0.004500">0.213800</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.350" errorplus="0.450">88.940</inclination>
 			<temperature>759.5</temperature>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454968.8715</transittime>
+			<transittime errorminus=".004800" errorplus="0.004800" unit="BJD">2454968.871500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-33 f</name>
@@ -100,16 +105,18 @@
 			<name>KIC 9458613 f</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.00661" errorplus="0.00566">0.03618</mass>
-			<radius>0.406441</radius>
-			<period errorminus="0.00042" errorplus="0.00042">41.02902</period>
-			<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.2535</semimajoraxis>
+			<radius errorminus="0.037" errorplus="0.037">0.398</radius>
+			<period errorminus="0.00042000" errorplus="0.00042000">41.02902000</period>
+			<semimajoraxis errorminus="0.005400" errorplus="0.005400">0.253500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.420" errorplus="0.330">89.170</inclination>
 			<temperature>697.5</temperature>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. The closely packed system Kepler-33 was validated by multiplicity (Lissauer et al. 2012). However, the mass of the planets is not known yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040" errorplus="0.0040" unit="BJD">2455005.5763</transittime>
+			<transittime errorminus=".004000" errorplus="0.004000" unit="BJD">2455005.576300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

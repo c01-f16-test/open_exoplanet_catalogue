@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1556</name>
 	<rightascension>19 13 35</rightascension>
-	<declination>+40 12 48</declination>
+	<declination>+40 12 47</declination>
+	<distance errorminus="81.53" errorplus="212.39">1060.00</distance>
 	<star>
 		<name>Kepler-1556</name>
 		<mass errorminus="0.05" errorplus="0.05">0.97</mass>
 		<radius errorminus="0.07" errorplus="0.19">0.95</radius>
-		<temperature errorminus="91.9" errorplus="69.1">5608.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.16">0.08</metallicity>
+		<magV>15.247</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.998</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.695</magH>
+		<magK errorminus="0.043" errorplus="0.043">13.555</magK>
+		<temperature errorminus="91.90" errorplus="69.12">5608.00</temperature>
+		<age errorminus="3.140" errorplus="4.940">4.900</age>
+		<metallicity errorminus="0.156" errorplus="0.156">0.080</metallicity>
 		<planet>
 			<name>Kepler-1556 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.036">0.175</radius>
-			<period errorminus="0.000040250" errorplus="0.000040250">8.827134570</period>
+			<period errorminus="0.00004025" errorplus="0.00004025">8.82713457</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004040" errorplus="0.004040" unit="JD">2454972.735500</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

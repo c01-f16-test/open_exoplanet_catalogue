@@ -9,12 +9,14 @@
 		<name>Kepler-58</name>
 		<name>KOI-1336</name>
 		<name>KIC 4077526</name>
-		<mass errorminus="0.1200" errorplus="0.1200">1.0400</mass>
-		<radius errorminus=".526" errorplus="0.526">1.127</radius>
+		<mass errorminus="0.1200" errorplus="0.1200">0.95</mass>
+		<radius errorminus="0.53" errorplus="0.53">1.13</radius>
+		<magV>14.820</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.643</magJ>
 		<magH errorminus="0.025" errorplus="0.025">13.382</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.28</magK>
-		<temperature errorminus="200" errorplus="200">6099</temperature>
+		<magK errorminus="0.032" errorplus="0.032">13.283</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6099.00</temperature>
+		<metallicity>-0.120</metallicity>
 		<planet>
 			<name>Kepler-58 b</name>
 			<name>KOI-1336 b</name>
@@ -22,14 +24,15 @@
 			<name>KIC 4077526 b</name>
 			<name>KIC 4077526.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03098" errorplus="0.12211">0.25699</radius>
-			<period errorminus=".000077" errorplus="0.000077">10.218558</period>
+			<mass errorminus="1.39" errorplus="0.0" type="Mass">1.39000</mass>
+			<radius errorminus="0.03098" errorplus="0.12211">0.248</radius>
+			<period errorminus="0.00015000" errorplus="0.00015000">10.21849540</period>
 			<description>Kepler-58 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-58 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0053900" errorplus="0.0053900">2454969.8691200</transittime>
+			<transittime errorminus=".005600" errorplus="0.005600" unit="BJD">2454969.870480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-58 c</name>
@@ -38,14 +41,15 @@
 			<name>KIC 4077526 c</name>
 			<name>KIC 4077526.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00273" errorplus="0.18499">0.24241</radius>
-			<period errorminus=".799833" errorplus="4.799833">54.155743</period>
+			<mass errorminus="2.19" errorplus="0.0" type="Mass">2.19000</mass>
+			<radius errorminus="0.00273" errorplus="0.18499">0.255</radius>
+			<period errorminus="0.00027000" errorplus="0.00027000">15.57415680</period>
 			<description>Kepler-58 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-58 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="1.6717100" errorplus="11.6717100">2454960.2488600</transittime>
+			<transittime errorminus=".006600" errorplus="0.006600" unit="BJD">2454965.432090</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-58 d</name>
@@ -54,13 +58,14 @@
 			<name>KIC 4077526 d</name>
 			<name>KIC 4077526.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.12758">0.26792</radius>
-			<period errorminus=".000612" errorplus="0.000612">40.101371</period>
+			<radius errorminus="0.125" errorplus="0.125">0.262</radius>
+			<period errorminus="0.00061200" errorplus="0.00061200">40.10137100</period>
+			<semimajoraxis>0.236000</semimajoraxis>
 			<description>Kepler-58 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-58 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0090300" errorplus="0.0090300">2454965.7179900</transittime>
+			<transittime errorminus=".009030" errorplus="0.009030" unit="BJD">2454965.717990</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

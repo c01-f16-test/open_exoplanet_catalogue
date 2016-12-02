@@ -1,0 +1,33 @@
+<system>
+	<name>WASP-157</name>
+	<rightascension>13 26 37</rightascension>
+	<declination>-08 19 03</declination>
+	<star>
+		<name>WASP-157</name>
+		<mass errorminus="0.12" errorplus="0.12">1.26</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.13</radius>
+		<magV>12.910</magV>
+		<magB errorminus="0.324" errorplus="0.324">12.959</magB>
+		<magJ errorminus="0.026" errorplus="0.026">11.110</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.799</magH>
+		<magK errorminus="0.023" errorplus="0.023">10.764</magK>
+		<temperature errorminus="140.00" errorplus="140.00">5838.00</temperature>
+		<age errorminus="0.800" errorplus="2.500">1.600</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.340</metallicity>
+		<spectraltype>G2 V</spectraltype>
+		<planet>
+			<name>WASP-157 b</name>
+			<mass errorminus="0.09300" errorplus="0.09300" type="Mass">0.57400</mass>
+			<radius errorminus="0.047" errorplus="0.047">1.065</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">3.95162050</period>
+			<semimajoraxis errorminus="0.001700" errorplus="0.001700">0.052900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.210" errorplus="0.450">84.930</inclination>
+			<temperature errorminus="93" errorplus="93">1339</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000088" errorplus="0.000088" unit="BJD">2457257.803194</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,45 @@
+<system>
+	<name>XO-2 S</name>
+	<rightascension>07 48 07</rightascension>
+	<declination>+50 13 03</declination>
+	<distance errorminus="2.90" errorplus="2.80">148.00</distance>
+	<star>
+		<name>XO-2 S</name>
+		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
+		<radius errorminus="0.07" errorplus="0.09">1.02</radius>
+		<magV errorminus="0.025" errorplus="0.025">11.086</magV>
+		<magB errorminus="0.015" errorplus="0.015">11.927</magB>
+		<magJ errorminus="0.019" errorplus="0.019">9.742</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.371</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.272</magK>
+		<temperature errorminus="55.00" errorplus="55.00">5399.00</temperature>
+		<age errorminus="2.900" errorplus="2.500">7.100</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.390</metallicity>
+		<planet>
+			<name>XO-2 S b</name>
+			<mass errorminus="0.01400" errorplus="0.01400" type="Msini">0.25900</mass>
+			<period errorminus="0.03400000" errorplus="0.03400000">18.15700000</period>
+			<semimajoraxis errorminus="0.002500" errorplus="0.002500">0.134400</semimajoraxis>
+			<eccentricity errorminus="0.035000" errorplus="0.035000">0.180000</eccentricity>
+			<periastron errorminus="9.5000" errorplus="9.5000">311.9000</periastron>
+			<periastrontime errorminus="0.860000" errorplus="0.820000">2456413.110000</periastrontime>
+			<maximumrvtime errorminus="0.860000" errorplus="0.820000">2456413.110000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>XO-2 S c</name>
+			<mass errorminus="0.05300" errorplus="0.05300" type="Msini">1.37000</mass>
+			<period errorminus="0.34000000" errorplus="0.34000000">120.80000000</period>
+			<semimajoraxis errorminus="0.008700" errorplus="0.008700">0.475600</semimajoraxis>
+			<eccentricity errorminus="0.009800" errorplus="0.009400">0.152800</eccentricity>
+			<periastron errorminus="4.9000" errorplus="4.9000">264.5000</periastron>
+			<periastrontime errorminus="1.900000" errorplus="1.800000">2456408.100000</periastrontime>
+			<maximumrvtime errorminus="1.900000" errorplus="1.800000">2456408.100000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

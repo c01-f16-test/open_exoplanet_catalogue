@@ -1,19 +1,20 @@
 <system>
 	<name>Kepler-446</name>
-	<rightascension>18 49 00.051</rightascension>
-	<declination>+44 55 15.99</declination>
-	<distance>120</distance>
+	<rightascension>18 49 00</rightascension>
+	<declination>+44 55 16</declination>
+	<distance>120.00</distance>
 	<star>
 		<name>Kepler-446</name>
 		<name>KOI-2842</name>
 		<name>KIC 8733898</name>
 		<mass errorminus="0.05" errorplus="0.05">0.22</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.24</radius>
+		<magV>16.257</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.591</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.075</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.827</magK>
-		<temperature errorminus="60" errorplus="60">3359</temperature>
-		<metallicity errorminus="0.12" errorplus="0.12">-0.30</metallicity>
+		<temperature errorminus="60.00" errorplus="60.00">3359.00</temperature>
+		<metallicity errorminus="0.120" errorplus="0.120">-0.300</metallicity>
 		<spectraltype>M4</spectraltype>
 		<planet>
 			<name>Kepler-446 b</name>
@@ -22,15 +23,17 @@
 			<name>KIC 8733898 b</name>
 			<name>KIC 8733898.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.022783" errorplus="0.022783">0.136695</radius>
-			<period errorminus="0.0000033" errorplus="0.0000033">1.565409</period>
+			<mass errorminus="0.002" errorplus="0.002" type="Theoretical">0.014</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.130</radius>
+			<period errorminus="0.00000330" errorplus="0.00000330">1.56540900</period>
 			<semimajoraxis errorminus="0.004" errorplus="0.004">0.067</semimajoraxis>
-			<inclination errorminus="0.37" errorplus="0.62">87.42</inclination>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.370" errorplus="0.620">87.420</inclination>
 			<description>Kepler-446 is an M-dwarf with transit signals of three short-period planets.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019" errorplus="0.0019" unit="BJD">2454965.9135</transittime>
+			<transittime errorminus=".001900" errorplus="0.001900" unit="BJD">2454965.913500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -40,15 +43,17 @@
 			<name>KIC 8733898 c</name>
 			<name>KIC 8733898.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.016403" errorplus="0.016403">0.101155</radius>
-			<period errorminus="0.0000055" errorplus="0.0000055">3.036179</period>
+			<mass errorminus="0.003" errorplus="0.003" type="Theoretical">0.009</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.100</radius>
+			<period errorminus="0.00000550" errorplus="0.00000550">3.03617900</period>
 			<semimajoraxis errorminus="0.006" errorplus="0.006">0.104</semimajoraxis>
-			<inclination errorminus="0.46" errorplus="0.57">88.97</inclination>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.460" errorplus="0.570">88.970</inclination>
 			<description>Kepler-446 is an M-dwarf with transit signals of three short-period planets.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000945" errorplus="0.000945" unit="BJD">2454967.069573</transittime>
+			<transittime errorminus=".000945" errorplus="0.000945" unit="BJD">2454967.069573</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -58,15 +63,17 @@
 			<name>KIC 8733898 d</name>
 			<name>KIC 8733898.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.020049" errorplus="0.020049">0.123026</radius>
-			<period errorminus="0.000022" errorplus="0.000022">5.148921</period>
+			<mass errorminus="0.003" errorplus="0.003" type="Theoretical">0.01</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.120</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">5.14892100</period>
 			<semimajoraxis errorminus="0.010" errorplus="0.010">0.147</semimajoraxis>
-			<inclination errorminus="0.19" errorplus="0.17">88.72</inclination>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.190" errorplus="0.170">88.720</inclination>
 			<description>Kepler-446 is an M-dwarf with transit signals of three short-period planets.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042" errorplus="0.0042" unit="BJD">2454966.3196</transittime>
+			<transittime errorminus=".004200" errorplus="0.004200" unit="BJD">2454966.319600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

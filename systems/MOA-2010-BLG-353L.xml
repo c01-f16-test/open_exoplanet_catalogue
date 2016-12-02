@@ -1,19 +1,20 @@
 <system>
 	<name>MOA-2010-BLG-353L</name>
 	<rightascension>18 05 12.94</rightascension>
-	<declination>-27 17 35.64</declination>
+	<declination>-27 17 36</declination>
 	<distance errorminus="1120" errorplus="870">7170</distance>
 	<star>
 		<name>MOA-2010-BLG-353L</name>
-		<mass errorminus="0.09" errorplus="0.28">0.16</mass>
+		<mass errorminus="0.11" errorplus="0.32">0.18</mass>
+		<spectraltype>M</spectraltype>
 		<planet>
 			<name>MOA-2010-BLG-353L b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.13" errorplus="0.42">0.23</mass>
-			<separation errorminus="0.51" errorplus="0.63" unit="AU">1.85</separation>
+			<mass errorminus="0.16" errorplus="0.48" type="Microlensing">0.27</mass>
+			<semimajoraxis errorminus="0.48" errorplus="0.56">1.72</semimajoraxis>
 			<description>MOA-2010-BLG-353Lb is a Saturn-mass planet orbiting a low-mass star. It was discovered in archived light curve data for a microlensing event that occurred in 2010.</description>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>15/12/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

@@ -1,29 +1,33 @@
 <system>
 	<name>HD 190647</name>
-	<rightascension>20 07 20</rightascension>
+	<rightascension>20 07 19</rightascension>
 	<declination>-35 32 19</declination>
-	<distance>54.2</distance>
+	<distance errorminus="3.44" errorplus="3.05">54.23</distance>
 	<star>
 		<name>HD 190647</name>
-		<mass>1.1</mass>
-		<magV>7.78</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.54</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.10</mass>
+		<magV errorminus="0.013" errorplus="0.013">7.775</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.539</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.546</magJ>
-		<magH errorminus="0.023" errorplus="0.023">6.251</magH>
+		<magH errorminus="0.022" errorplus="0.022">6.251</magH>
 		<magK errorminus="0.038" errorplus="0.038">6.161</magK>
-		<temperature>5628.0</temperature>
-		<metallicity>0.24</metallicity>
-		<spectraltype>G5</spectraltype>
+		<temperature errorminus="20.00" errorplus="20.00">5628.00</temperature>
+		<age errorminus="inf" errorplus="nan">2.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.240</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 190647 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>1038.1</period>
-			<semimajoraxis>2.07</semimajoraxis>
-			<eccentricity>0.18</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">1.90000</mass>
+			<period errorminus="4.90000000" errorplus="4.90000000">1038.10000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.060000">2.070000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.180000</eccentricity>
+			<periastron errorminus="9.4000" errorplus="9.4000">232.5000</periastron>
+			<periastrontime errorminus="24.000000" errorplus="24.000000">2453869.000000</periastrontime>
+			<maximumrvtime errorminus="24.000000" errorplus="24.000000">2453869.000000</maximumrvtime>
 			<temperature>209.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

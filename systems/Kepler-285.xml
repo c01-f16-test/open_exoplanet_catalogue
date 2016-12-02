@@ -9,12 +9,14 @@
 		<name>Kepler-285</name>
 		<name>KOI-1305</name>
 		<name>KIC 10730034</name>
-		<mass errorminus="0.0600" errorplus="0.0600">0.8650</mass>
-		<radius errorminus=".348" errorplus="0.348">0.808</radius>
+		<mass errorminus="0.0600" errorplus="0.0600">0.85</mass>
+		<radius errorminus="0.35" errorplus="0.35">0.81</radius>
+		<magV>15.173</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.887</magJ>
-		<magH errorminus="0.022" errorplus="0.022">13.435</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.32</magK>
-		<temperature errorminus="200" errorplus="200">5411</temperature>
+		<magH errorminus="0.021" errorplus="0.021">13.435</magH>
+		<magK errorminus="0.039" errorplus="0.039">13.319</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5411.00</temperature>
+		<metallicity>-0.063</metallicity>
 		<planet>
 			<name>Kepler-285 b</name>
 			<name>KOI-1305 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10730034 b</name>
 			<name>KIC 10730034.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05286" errorplus="0.05286">0.12211</radius>
-			<period errorminus=".000012" errorplus="0.000012">2.633867</period>
+			<radius errorminus="0.052" errorplus="0.052">0.120</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">2.63386700</period>
+			<semimajoraxis>0.036000</semimajoraxis>
 			<description>Kepler-285 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-285 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025100" errorplus="0.0025100">2454967.5628100</transittime>
+			<transittime errorminus=".002510" errorplus="0.002510" unit="BJD">2454967.562810</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10730034 c</name>
 			<name>KIC 10730034.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04465" errorplus="0.04465">0.10207</radius>
-			<period errorminus=".000059" errorplus="0.000059">6.186676</period>
+			<radius errorminus="0.044" errorplus="0.044">0.100</radius>
+			<period errorminus="0.00005900" errorplus="0.00005900">6.18667600</period>
+			<semimajoraxis>0.064000</semimajoraxis>
 			<description>Kepler-285 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-285 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0050700" errorplus="0.0050700">2454969.6335100</transittime>
+			<transittime errorminus=".005070" errorplus="0.005070" unit="BJD">2454969.633510</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

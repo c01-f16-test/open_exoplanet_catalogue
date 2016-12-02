@@ -9,32 +9,33 @@
 		<name>KOI-314</name>
 		<name>Kepler-138</name>
 		<name>KIC 7603200</name>
-		<mass errorminus="0.055" errorplus="0.055">0.521</mass>
-		<radius errorminus="0.024" errorplus="0.024">0.442</radius>
+		<mass errorminus="0.06" errorplus="0.06">0.52</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.44</radius>
+		<magV>12.925</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.293</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.680</magH>
 		<magK errorminus="0.011" errorplus="0.011">9.506</magK>
-		<temperature errorminus="49" errorplus="49">3841</temperature>
+		<temperature errorminus="49.00" errorplus="49.00">3841.00</temperature>
 		<metallicity errorminus="0.099" errorplus="0.099">-0.280</metallicity>
-		<spectraltype>M1V</spectraltype>
+		<spectraltype>M1 V</spectraltype>
 		<planet>
 			<name>KOI-314 b</name>
 			<name>Kepler-138 c</name>
 			<name>KOI-314.01</name>
 			<name>KIC 7603200 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.003523" errorplus="0.006015">0.006197</mass>
-			<radius errorminus="0.006379" errorplus="0.006379">0.109083</radius>
-			<period errorminus="0.0001" errorplus="0.0001">13.7813</period>
+			<mass errorminus="0.00352" errorplus="0.00602" type="Mass">0.00620</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.107</radius>
+			<period errorminus="0.00010000" errorplus="0.00010000">13.78130000</period>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.091</semimajoraxis>
-			<eccentricity errorminus="0.025" errorplus="0.049">0.050</eccentricity>
-			<periastron errorminus="28" errorplus="47">72</periastron>
+			<eccentricity errorminus="0.025" errorplus="0.049">0.05</eccentricity>
+			<periastron errorminus="28.0" errorplus="47.0">72.0</periastron>
 			<temperature>446.0</temperature>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2455686.1289</transittime>
+			<transittime errorminus=".000500" errorplus="0.000500" unit="BJD">2455686.128900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -43,17 +44,18 @@
 			<name>KOI-314.02</name>
 			<name>KIC 7603200 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001217" errorplus="0.002120">0.002013</mass>
-			<radius errorminus="0.006835" errorplus="0.006835">0.110450</radius>
-			<period errorminus="0.0008" errorplus="0.0009">23.0881</period>
+			<mass errorminus="0.00122" errorplus="0.00212" type="Mass">0.00201</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.108</radius>
+			<period errorminus="0.00080000" errorplus="0.00090000">23.08810000</period>
 			<semimajoraxis errorminus="0.004" errorplus="0.004">0.128</semimajoraxis>
-			<periastron errorminus="120" errorplus="130">170</periastron>
-			<temperature>376.0</temperature>
+			<eccentricity errorminus="0.016" errorplus="0.03">0.024</eccentricity>
+			<periastron errorminus="120.0" errorplus="130.0">170.0</periastron>
+			<temperature>431.0</temperature>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">24556996.6689</transittime>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="BJD">2455696.668900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -62,15 +64,17 @@
 			<name>KIC 7603200 b</name>
 			<name>KIC 7603200.03</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.000116" errorplus="0.000186">0.000208</mass>
-			<radius errorminus="0.002916" errorplus="0.002916">0.047570</radius>
-			<period errorminus="0.0006" errorplus="0.0004">10.3126</period>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.075</semimajoraxis>
+			<mass errorminus="0.00012" errorplus="0.00019" type="Mass">0.00021</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.047</radius>
+			<period errorminus="0.00060000" errorplus="0.00040000">10.31260000</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0746</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>89.95</inclination>
 			<description>Kepler-138 b has been discovered by the Kepler spacecraft and was first announced in 2014. In June 2015, a team of astronomers has measured the mass and size of Kepler-138 b to find that it is in fact the smallest exoplanet yet. Kepler-138 b is a Mars-sized object orbiting a red dwarf star about 200 light years from our solar system. Current measurements are consistent with a variety of compositions, and favor compositions that are mostly rock. All three planets orbiting Kepler-138 are close to their star and are most likely are too hot to be habitable.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455688.4142</transittime>
+			<transittime errorminus=".002700" errorplus="0.002700" unit="BJD">2455688.414200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

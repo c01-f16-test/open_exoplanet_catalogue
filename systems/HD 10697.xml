@@ -2,31 +2,35 @@
 	<name>HD 10697</name>
 	<rightascension>01 44 55</rightascension>
 	<declination>+20 04 59</declination>
-	<distance>32.56</distance>
+	<distance errorminus="0.90" errorplus="0.90">32.60</distance>
 	<star>
 		<name>HD 10697</name>
-		<mass>1.15</mass>
-		<radius>1.72</radius>
-		<magV>6.29</magV>
-		<magB>6.957</magB>
-		<magJ errorminus="0.27" errorplus="0.27">5.39</magJ>
-		<magH>4.678</magH>
+		<mass errorminus="0.03" errorplus="0.03">1.11</mass>
+		<radius errorminus="0.17" errorplus="0.17">1.72</radius>
+		<magV errorminus="0.010" errorplus="0.010">6.279</magV>
+		<magB errorminus="0.016" errorplus="0.016">6.985</magB>
+		<magJ errorminus="0.268" errorplus="0.268">5.386</magJ>
+		<magH errorminus="0.031" errorplus="0.031">4.678</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.601</magK>
-		<temperature>5641.0</temperature>
-		<metallicity>0.1</metallicity>
+		<temperature errorminus="44.00" errorplus="44.00">5680.00</temperature>
+		<age errorminus="0.6" errorplus="0.6">6.9</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.170</metallicity>
 		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 10697 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.38</mass>
-			<period>1076.4</period>
-			<semimajoraxis>2.16</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<inclination>69</inclination>
+			<mass errorminus="0.15000" errorplus="0.15000" type="Msini">6.21000</mass>
+			<period errorminus="1.50000000" errorplus="1.50000000">1075.20000000</period>
+			<semimajoraxis errorminus="0.018000" errorplus="0.018000">2.131000</semimajoraxis>
+			<eccentricity errorminus="0.007000" errorplus="0.007000">0.099000</eccentricity>
+			<periastron errorminus="6.3000" errorplus="6.3000">111.2000</periastron>
+			<periastrontime errorminus="18.000000" errorplus="18.000000">2451480.000000</periastrontime>
+			<maximumrvtime errorminus="18.000000" errorplus="18.000000">2451480.000000</maximumrvtime>
+			<inclination errorminus="26.0" errorplus="26.0">69.0</inclination>
 			<temperature>221.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
-			<discoveryyear>2000</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
 		</planet>
 	</star>
 </system>

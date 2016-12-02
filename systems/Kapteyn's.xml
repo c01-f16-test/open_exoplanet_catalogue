@@ -1,0 +1,89 @@
+<system>
+	<name>Kapteyn's</name>
+	<name>Kapteyn</name>
+	<rightascension>05 11 40</rightascension>
+	<declination>-45 01 06</declination>
+	<distance errorminus="0.01" errorplus="0.01">3.92</distance>
+	<star>
+		<name>Kapteyn</name>
+		<name>Kapteyn's Star</name>
+		<name>HD 33793</name>
+		<name>Gliese 191</name>
+		<mass errorminus="0.01" errorplus="0.01">0.28</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.29</radius>
+		<magV>8.845</magV>
+		<magB errorminus="0.021" errorplus="0.021">10.410</magB>
+		<magJ errorminus="0.025" errorplus="0.025">5.821</magJ>
+		<magH errorminus="0.027" errorplus="0.027">5.316</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.049</magK>
+		<temperature errorminus="50.00" errorplus="50.00">3550.00</temperature>
+		<age errorminus="10.6" errorplus="4">11.0</age>
+		<metallicity>-0.890</metallicity>
+		<spectraltype>M0 V</spectraltype>
+		<planet>
+			<name>Kapteyn b</name>
+			<name>Kapteyn's Star b</name>
+			<name>Kapteyn's b</name>
+			<name>HD 33793 b</name>
+			<name>Gliese 191 b</name>
+			<list>Controversial</list>
+			<mass errorminus="0.003146" errorplus="0.002831">0.015099</mass>
+			<period errorminus="0.032" errorplus="0.036">48.616</period>
+			<semimajoraxis errorminus="0.008" errorplus="0.006">0.168</semimajoraxis>
+			<eccentricity errorminus="0.10" errorplus="0.11">0.21</eccentricity>
+			<periastron errorminus="28.9" errorplus="30.7">80.4</periastron>
+			<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. It is visible through binoculars or a small telescope. The planet Kapteyn b is one of the oldest known potentially habitable planets. It's roughly 11 billion years old. The system contains at least one other planet, Kapteyn c, which is close to a 5:2 period commensurability. Analysis by Robertson et al. (2015) indicates that the radial velocity signature attributed to this planet is an artifact of stellar activity.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kapteyn c</name>
+			<name>Kapteyn's Star c</name>
+			<name>Kapteyn's c</name>
+			<name>HD 33793 c</name>
+			<name>Gliese 191 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00300" errorplus="0.00400" type="Msini">0.02200</mass>
+			<period errorminus="0.25000000" errorplus="0.25000000">121.54000000</period>
+			<semimajoraxis errorminus="0.014000" errorplus="0.038000">0.311000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.100000">0.230000</eccentricity>
+			<periastron errorminus="33.2000" errorplus="28.9000">3.9000</periastron>
+			<description>Kapteyn's star is named in honor of its discoverer, the Dutch astronomer Jacobus Kapteyn. The planetary system is roughly 11 billion years old and contains at least one other planet, Kapteyn b, which is close to a 5:2 period commensurability.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Kapteyn's</name>
+		<mass errorminus="0.014" errorplus="0.014">0.281</mass>
+		<radius errorminus="0.025" errorplus="0.025">0.29</radius>
+		<magV>8.8</magV>
+		<temperature errorminus="50.0" errorplus="50.0">3550.0</temperature>
+		<age errorminus="7.5" errorplus="7.5">8.0</age>
+		<metallicity>-0.86</metallicity>
+		<spectraltype>dM1</spectraltype>
+		<planet>
+			<name>Kapteyn's b</name>
+			<mass errorminus="0.00314633609162131" errorplus="0.00314633609162131">0.0151024132398</mass>
+			<period errorminus="0.036" errorplus="0.036">48.616</period>
+			<semimajoraxis errorminus="0.008" errorplus="0.008">0.168</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.21</eccentricity>
+			<periastron errorminus="30.0" errorplus="30.0">80.4</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kapteyn's c</name>
+			<mass errorminus="0.00377560330994557" errorplus="0.00377560330994557">0.0220243526413</mass>
+			<period errorminus="0.25" errorplus="0.25">121.54</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.014">0.311</semimajoraxis>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.23</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

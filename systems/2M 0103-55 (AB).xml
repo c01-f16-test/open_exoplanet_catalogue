@@ -1,0 +1,19 @@
+<system>
+	<name>2M 0103-55 (AB)</name>
+	<declination>-55 15 56</declination>
+	<star>
+		<name>2M 0103-55 (AB)</name>
+		<mass>0.4</mass>
+		<magJ>7.5</magJ>
+		<age>0.03</age>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>2M 0103-55 (AB) b</name>
+			<mass errorminus="1.0" errorplus="1.0">13.0</mass>
+			<semimajoraxis>84.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

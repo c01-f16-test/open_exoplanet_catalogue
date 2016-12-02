@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-483</name>
 	<rightascension>19 26 35</rightascension>
-	<declination>+41 53 05</declination>
+	<declination>+41 53 04</declination>
+	<distance errorminus="123.51" errorplus="198.17">953.00</distance>
 	<star>
 		<name>Kepler-483</name>
 		<mass errorminus="0.07" errorplus="0.10">1.28</mass>
 		<radius errorminus="0.19" errorplus="0.31">1.47</radius>
-		<temperature errorminus="73.4" errorplus="79.7">6346.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.09">0.09</metallicity>
+		<magV>13.432</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.516</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.251</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.222</magK>
+		<temperature errorminus="73.37" errorplus="79.71">6346.00</temperature>
+		<age errorminus="0.794" errorplus="0.420">2.630</age>
+		<metallicity errorminus="0.089" errorplus="0.091">0.090</metallicity>
 		<planet>
 			<name>Kepler-483 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.038" errorplus="0.061">0.286</radius>
-			<period errorminus="0.000078510" errorplus="0.000078510">30.229104000</period>
+			<period errorminus="0.00007851" errorplus="0.00007851">30.22910400</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001970" errorplus="0.001970" unit="JD">2454967.520380</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

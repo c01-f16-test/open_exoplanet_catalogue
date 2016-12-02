@@ -10,11 +10,13 @@
 		<name>KOI-534</name>
 		<name>KIC 10554999</name>
 		<mass errorminus="0.0250" errorplus="0.0250">0.8420</mass>
-		<radius errorminus=".307" errorplus="0.307">0.759</radius>
+		<radius errorminus="0.31" errorplus="0.31">0.76</radius>
+		<magV>14.613</magV>
 		<magJ errorminus="0.026" errorplus="0.026">13.278</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.87</magH>
+		<magH errorminus="0.030" errorplus="0.030">12.873</magH>
 		<magK errorminus="0.026" errorplus="0.026">12.750</magK>
-		<temperature errorminus="200" errorplus="200">5302</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5302.00</temperature>
+		<metallicity>-0.010</metallicity>
 		<planet>
 			<name>Kepler-179 c</name>
 			<name>KOI-534 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10554999 c</name>
 			<name>KIC 10554999.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07382" errorplus="0.07382">0.18226</radius>
-			<period errorminus=".000017" errorplus="0.000017">6.400130</period>
+			<radius errorminus="0.072" errorplus="0.072">0.178</radius>
+			<period errorminus="0.00001700" errorplus="0.00001700">6.40013000</period>
+			<semimajoraxis>0.064000</semimajoraxis>
 			<description>Kepler-179 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-179 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013600" errorplus="0.0013600">2455007.0234300</transittime>
+			<transittime errorminus=".001360" errorplus="0.001360" unit="BJD">2455007.023430</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10554999 b</name>
 			<name>KIC 10554999.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06197" errorplus="0.06197">0.14945</radius>
-			<period errorminus=".000008" errorplus="0.000008">2.735926</period>
+			<radius errorminus="0.061" errorplus="0.061">0.146</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">2.73592600</period>
+			<semimajoraxis>0.036000</semimajoraxis>
 			<description>Kepler-179 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-179 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015600" errorplus="0.0015600">2455004.0938200</transittime>
+			<transittime errorminus=".001560" errorplus="0.001560" unit="BJD">2455004.093820</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

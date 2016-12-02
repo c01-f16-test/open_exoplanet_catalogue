@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1597</name>
 	<rightascension>19 12 39</rightascension>
-	<declination>+42 28 52</declination>
+	<declination>+42 28 51</declination>
+	<distance errorminus="191.54" errorplus="530.92">1255.00</distance>
 	<star>
 		<name>Kepler-1597</name>
 		<mass errorminus="0.11" errorplus="0.20">1.25</mass>
 		<radius errorminus="0.21" errorplus="0.61">1.39</radius>
-		<temperature errorminus="114.2" errorplus="131.9">6377.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.12">0.02</metallicity>
+		<magV>14.144</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.241</magJ>
+		<magH errorminus="0.028" errorplus="0.028">12.965</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.927</magK>
+		<temperature errorminus="114.19" errorplus="131.93">6377.00</temperature>
+		<age errorminus="0.766" errorplus="0.706">2.400</age>
+		<metallicity errorminus="0.184" errorplus="0.125">0.020</metallicity>
 		<planet>
 			<name>Kepler-1597 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.042">0.095</radius>
-			<period errorminus="0.000034710" errorplus="0.000034710">2.946541790</period>
+			<period errorminus="0.00003471" errorplus="0.00003471">2.94654179</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008960" errorplus="0.008960" unit="JD">2454965.415420</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

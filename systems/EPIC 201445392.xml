@@ -1,8 +1,8 @@
 <system>
 	<name>EPIC 201445392</name>
 	<name>K2-8</name>
-	<rightascension>11 19 10.48</rightascension>
-	<declination>-00 17 03.75</declination>
+	<rightascension>11 19 10</rightascension>
+	<declination>-00 17 03</declination>
 	<distance errorminus="16" errorplus="14">405</distance>
 	<star>
 		<name>EPIC 201445392</name>
@@ -10,26 +10,29 @@
 		<name>2MASS J11191047-0017036</name>
 		<mass errorminus="0.04" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
-		<magV errorminus="0.03" errorplus="0.03">14.61</magV>
-		<magJ errorminus="0.03" errorplus="0.03">12.83</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.32</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.24</magK>
-		<temperature errorminus="60" errorplus="60">4870</temperature>
-		<metallicity errorminus="0.04" errorplus="0.04">-0.02</metallicity>
+		<magV errorminus="0.030" errorplus="0.030">14.610</magV>
+		<magB errorminus="0.020" errorplus="0.020">15.726</magB>
+		<magJ errorminus="0.026" errorplus="0.026">12.829</magJ>
+		<magH errorminus="0.030" errorplus="0.030">12.318</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.245</magK>
+		<temperature errorminus="60.00" errorplus="60.00">4870.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.020</metallicity>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>EPIC 201445392 b</name>
 			<name>EPIC 201445392.01</name>
 			<name>K2-8 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.063" errorplus="0.063">0.319</radius>
-			<period errorminus="0.00086" errorplus="0.00086">10.35239</period>
-			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0856</semimajoraxis>
-			<inclination errorminus="1.37" errorplus="2.56">86.42</inclination>
+			<period errorminus="0.00086000" errorplus="0.00086000">10.35239000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.085600</semimajoraxis>
+			<inclination errorminus="1.370" errorplus="2.560">86.420</inclination>
+			<temperature errorminus="18" errorplus="18">631</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030" errorplus="0.0030" unit="BJD">2456813.6114</transittime>
+			<transittime errorminus=".003000" errorplus="0.003000" unit="BJD-TDB">2456813.611400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -38,15 +41,16 @@
 			<name>K2-8 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.029" errorplus="0.029">0.215</radius>
-			<period errorminus="0.00041" errorplus="0.00041">5.06416</period>
-			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0532</semimajoraxis>
-			<inclination errorminus="2.48" errorplus="2.48">86.70</inclination>
+			<period errorminus="0.00041000" errorplus="0.00041000">5.06416000</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.053200</semimajoraxis>
+			<inclination errorminus="2.480" errorplus="2.480">86.700</inclination>
+			<temperature errorminus="23" errorplus="23">801</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0033" errorplus="0.0033" unit="BJD">2456813.0707</transittime>
+			<transittime errorminus=".003300" errorplus="0.003300" unit="BJD-TDB">2456813.070700</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

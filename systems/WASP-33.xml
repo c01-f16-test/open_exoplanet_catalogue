@@ -1,19 +1,19 @@
 <system>
 	<name>WASP-33</name>
 	<rightascension>02 26 51</rightascension>
-	<declination>+37 33 02</declination>
-	<distance>116</distance>
+	<declination>+37 33 01</declination>
+	<distance errorminus="16.13" errorplus="12.62">116.14</distance>
 	<star>
 		<name>WASP-33</name>
-		<mass>1.495</mass>
-		<radius>1.444</radius>
-		<magV>8.3</magV>
-		<magB errorminus="0.01" errorplus="0.01">8.41</magB>
+		<mass errorminus="0.031" errorplus="0.03">1.50</mass>
+		<radius errorminus="0.034" errorplus="0.03">1.44</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.142</magV>
+		<magB errorminus="0.015" errorplus="0.015">8.412</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.581</magJ>
 		<magH errorminus="0.024" errorplus="0.024">7.516</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.468</magK>
-		<temperature>7400.0</temperature>
-		<metallicity>0.1</metallicity>
+		<temperature errorminus="200.0" errorplus="100.00">7430.00</temperature>
+		<metallicity errorminus="0.2" errorplus="0.2">0.1</metallicity>
 		<spectraltype>A5</spectraltype>
 		<planet>
 			<name>WASP-33 b</name>
@@ -24,17 +24,17 @@
 			<name>SAO 55561 b</name>
 			<name>2MASS J02265106+3733017 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.59</mass>
-			<radius>1.438</radius>
-			<period>1.21986967</period>
-			<semimajoraxis>0.02558</semimajoraxis>
+			<mass errorminus="0.1" errorplus="0.1" type="Mass">4.10000</mass>
+			<radius errorminus="0.045" errorplus="0.045">1.497</radius>
+			<period errorminus="0.00000120" errorplus="0.00000120">1.21986690</period>
+			<semimajoraxis errorminus="0.000170" errorplus="0.000170">0.025550</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.67</inclination>
+			<inclination errorminus="1.810" errorplus="1.810">87.670</inclination>
 			<temperature>2451.5</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454590.18025</transittime>
+			<transittime errorminus=".000260" errorplus="0.000260" unit="HJD">2454163.223730</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

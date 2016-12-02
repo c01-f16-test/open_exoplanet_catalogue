@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-731</name>
 	<rightascension>19 45 34</rightascension>
-	<declination>+45 34 07</declination>
+	<declination>+45 34 06</declination>
+	<distance errorminus="153.48" errorplus="302.36">1311.00</distance>
 	<star>
 		<name>Kepler-731</name>
 		<mass errorminus="0.06" errorplus="0.09">1.03</mass>
 		<radius errorminus="0.12" errorplus="0.24">1.06</radius>
-		<temperature errorminus="139.5" errorplus="200.4">5849.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.13">0.04</metallicity>
+		<magV>15.272</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.126</magJ>
+		<magH errorminus="0.030" errorplus="0.030">13.762</magH>
+		<magK errorminus="0.049" errorplus="0.049">13.775</magK>
+		<temperature errorminus="139.51" errorplus="200.38">5849.00</temperature>
+		<age errorminus="2.050" errorplus="3.080">3.800</age>
+		<metallicity errorminus="0.154" errorplus="0.132">0.040</metallicity>
 		<planet>
 			<name>Kepler-731 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.136" errorplus="0.284">1.238</radius>
-			<period errorminus="0.000000290" errorplus="0.000000290">3.855603550</period>
+			<period errorminus="0.00000029" errorplus="0.00000029">3.85560355</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000061" errorplus="0.000061" unit="JD">2455003.678886</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

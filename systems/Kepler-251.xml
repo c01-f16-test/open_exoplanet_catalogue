@@ -9,12 +9,14 @@
 		<name>Kepler-251</name>
 		<name>KOI-907</name>
 		<name>KIC 8247638</name>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9600</mass>
-		<radius errorminus=".155" errorplus="0.155">0.890</radius>
-		<magJ errorminus="0.03" errorplus="0.03">13.96</magJ>
+		<mass errorminus="0.1100" errorplus="0.1100">0.91</mass>
+		<radius errorminus="0.15" errorplus="0.15">0.89</radius>
+		<magV>15.223</magV>
+		<magJ errorminus="0.031" errorplus="0.031">13.960</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.596</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.63</magK>
-		<temperature errorminus="100" errorplus="100">5526</temperature>
+		<magK errorminus="0.042" errorplus="0.042">13.632</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5526.00</temperature>
+		<metallicity>-0.156</metallicity>
 		<planet>
 			<name>Kepler-251 c</name>
 			<name>KOI-907 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8247638 c</name>
 			<name>KIC 8247638.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04465" errorplus="0.04465">0.25243</radius>
-			<period errorminus=".000054" errorplus="0.000054">16.514043</period>
+			<radius errorminus="0.044" errorplus="0.044">0.247</radius>
+			<period errorminus="0.00005400" errorplus="0.00005400">16.51404300</period>
+			<semimajoraxis>0.122000</semimajoraxis>
 			<description>Kepler-251 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-251 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018100" errorplus="0.0018100">2455009.1163200</transittime>
+			<transittime errorminus=".001810" errorplus="0.001810" unit="BJD">2455009.116320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8247638 d</name>
 			<name>KIC 8247638.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04465" errorplus="0.04465">0.25243</radius>
-			<period errorminus=".000161" errorplus="0.000161">30.133001</period>
+			<radius errorminus="0.044" errorplus="0.044">0.247</radius>
+			<period errorminus="0.00016100" errorplus="0.00016100">30.13300100</period>
+			<semimajoraxis>0.182000</semimajoraxis>
 			<description>Kepler-251 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-251 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030100" errorplus="0.0030100">2455023.3832200</transittime>
+			<transittime errorminus=".003010" errorplus="0.003010" unit="BJD">2455023.383220</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 8247638 b</name>
 			<name>KIC 8247638.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02187" errorplus="0.02187">0.12120</radius>
-			<period errorminus=".000037" errorplus="0.000037">4.790936</period>
+			<radius errorminus="0.021" errorplus="0.021">0.119</radius>
+			<period errorminus="0.00003700" errorplus="0.00003700">4.79093600</period>
+			<semimajoraxis>0.053000</semimajoraxis>
 			<description>Kepler-251 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-251 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0045800" errorplus="0.0045800">2454969.3114800</transittime>
+			<transittime errorminus=".004580" errorplus="0.004580" unit="BJD">2454969.311480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 8247638 e</name>
 			<name>KIC 8247638.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04465" errorplus="0.04465">0.25243</radius>
-			<period errorminus=".001074" errorplus="0.001074">99.640161</period>
+			<radius errorminus="0.044" errorplus="0.044">0.247</radius>
+			<period errorminus="0.00107400" errorplus="0.00107400">99.64016100</period>
+			<semimajoraxis>0.404000</semimajoraxis>
 			<description>Kepler-251 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-251 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0051900" errorplus="0.0051900">2455031.6931200</transittime>
+			<transittime errorminus=".005190" errorplus="0.005190" unit="BJD">2455031.693120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1633</name>
-	<rightascension>19 14 04</rightascension>
-	<declination>+44 55 24</declination>
+	<rightascension>19 14 03</rightascension>
+	<declination>+44 55 23</declination>
+	<distance errorminus="119.04" errorplus="325.02">811.00</distance>
 	<star>
 		<name>Kepler-1633</name>
 		<mass errorminus="0.09" errorplus="0.17">1.20</mass>
 		<radius errorminus="0.18" errorplus="0.54">1.32</radius>
-		<temperature errorminus="118.4" errorplus="119.7">6256.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.02</metallicity>
+		<magV>13.435</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.447</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.190</magH>
+		<magK errorminus="0.013" errorplus="0.013">12.109</magK>
+		<temperature errorminus="118.36" errorplus="119.67">6256.00</temperature>
+		<age errorminus="1.030" errorplus="0.923">2.820</age>
+		<metallicity errorminus="0.163" errorplus="0.128">0.020</metallicity>
 		<planet>
 			<name>Kepler-1633 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.058">0.141</radius>
-			<period errorminus="0.005886000" errorplus="0.005886000">186.404271000</period>
+			<period errorminus="0.00588600" errorplus="0.00588600">186.40427100</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".026800" errorplus="0.026800" unit="JD">2455049.221100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

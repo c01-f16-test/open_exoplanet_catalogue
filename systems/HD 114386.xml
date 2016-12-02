@@ -2,39 +2,43 @@
 	<name>HD 114386</name>
 	<rightascension>13 10 39</rightascension>
 	<declination>-35 03 17</declination>
-	<distance>28.04</distance>
+	<distance errorminus="1.08" errorplus="1.00">28.04</distance>
 	<star>
 		<name>HD 114386</name>
-		<mass>0.75</mass>
+		<mass>0.68</mass>
 		<radius>0.76</radius>
-		<magV>8.73</magV>
-		<magB errorminus="0.03" errorplus="0.03">9.80</magB>
+		<magV errorminus="0.000" errorplus="0.000">8.730</magV>
+		<magB errorminus="0.000" errorplus="0.000">9.710</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.968</magJ>
 		<magH errorminus="0.042" errorplus="0.042">6.497</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.351</magK>
-		<temperature>4819.0</temperature>
+		<temperature>4804.00</temperature>
 		<age>2.19</age>
+		<metallicity>-0.080</metallicity>
 		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 114386 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.24</mass>
-			<period errorminus="15.6" errorplus="15.6">937</period>
-			<semimajoraxis>1.65</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.23</eccentricity>
+			<mass type="Msini">1.24000</mass>
+			<period errorminus="15.60000000" errorplus="15.60000000">937.70000000</period>
+			<semimajoraxis>1.650000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.230000</eccentricity>
+			<periastron errorminus="14.0000" errorplus="14.0000">273.0000</periastron>
+			<periastrontime errorminus="43.000000" errorplus="43.000000">2450454.000000</periastrontime>
+			<maximumrvtime errorminus="43.000000" errorplus="43.000000">2450454.000000</maximumrvtime>
 			<temperature>182.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 114386 c</name>
 			<list>Confirmed planets</list>
 			<mass>1.19</mass>
-			<period>1046</period>
+			<period>1046.0</period>
 			<eccentricity>0.06</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

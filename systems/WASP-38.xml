@@ -2,20 +2,20 @@
 	<name>WASP-38</name>
 	<rightascension>16 15 50</rightascension>
 	<declination>+10 01 57</declination>
-	<distance>110</distance>
+	<distance errorminus="20.00" errorplus="20.00">110.00</distance>
 	<star>
 		<name>WASP-38</name>
-		<mass>1.23</mass>
-		<radius>1.35</radius>
-		<magV>9.42</magV>
+		<mass errorminus="0.041" errorplus="0.04">1.20</mass>
+		<radius errorminus="0.041" errorplus="0.03">1.33</radius>
+		<magV errorminus="0.024" errorplus="0.024">9.447</magV>
 		<magB errorminus="0.028" errorplus="0.028">9.866</magB>
 		<magR errorminus="0.04" errorplus="0.04">9.22</magR>
 		<magJ errorminus="0.023" errorplus="0.023">8.287</magJ>
 		<magH errorminus="0.047" errorplus="0.047">8.106</magH>
 		<magK errorminus="0.040" errorplus="0.040">7.998</magK>
-		<temperature>6150.0</temperature>
-		<age>3.41</age>
-		<metallicity>-0.12</metallicity>
+		<temperature errorminus="80.0" errorplus="80.00">6150.00</temperature>
+		<age errorminus="inf" errorplus="nan">5.0</age>
+		<metallicity errorminus="0.07" errorplus="0.07">-0.12</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>WASP-38 b</name>
@@ -24,19 +24,19 @@
 			<name>2MASS J16155036+1001572 b</name>
 			<name>BD+10 2980 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.71</mass>
-			<radius>1.09</radius>
-			<period>6.87188</period>
-			<semimajoraxis>0.0758</semimajoraxis>
-			<eccentricity>0.028</eccentricity>
+			<mass errorminus="0.05800" errorplus="0.05800" type="Mass">2.69100</mass>
+			<radius errorminus="0.028" errorplus="0.029">1.094</radius>
+			<period errorminus="0.00004200" errorplus="0.00004500">6.87181500</period>
+			<semimajoraxis errorminus="0.000750" errorplus="0.000740">0.075220</semimajoraxis>
+			<eccentricity errorminus="0.004100" errorplus="0.004600">0.031400</eccentricity>
 			<spinorbitalignment>7.5</spinorbitalignment>
-			<periastron>-22.2</periastron>
-			<inclination>89.5</inclination>
+			<periastron errorminus="17.0000" errorplus="18.0000">-16.0000</periastron>
+			<inclination errorminus="0.250" errorplus="0.300">88.690</inclination>
 			<temperature>1152.9</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
+			<transittime errorminus=".000740" errorplus="0.000740" unit="HJD">2455335.920500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/03/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

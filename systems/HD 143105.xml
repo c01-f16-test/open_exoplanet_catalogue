@@ -1,0 +1,30 @@
+<system>
+	<name>HD 143105</name>
+	<rightascension>15 53 36</rightascension>
+	<declination>+68 43 12</declination>
+	<distance errorminus="0.80" errorplus="0.80">48.70</distance>
+	<star>
+		<name>HD 143105</name>
+		<mass errorminus="0.11" errorplus="0.11">1.51</mass>
+		<magV errorminus="0.010" errorplus="0.010">6.750</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.272</magB>
+		<magJ errorminus="0.025" errorplus="0.025">5.795</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.628</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.519</magK>
+		<temperature errorminus="60.00" errorplus="60.00">6380.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">0.150</metallicity>
+		<spectraltype>F5</spectraltype>
+		<planet>
+			<name>HD 143105 b</name>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">1.21000</mass>
+			<period errorminus="0.00030000" errorplus="0.00030000">2.19740000</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.037900</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.0">0.070000</eccentricity>
+			<periastrontime errorminus="0.007000" errorplus="0.007000">2456531.344000</periastrontime>
+			<maximumrvtime errorminus="0.007000" errorplus="0.007000">2456531.344000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

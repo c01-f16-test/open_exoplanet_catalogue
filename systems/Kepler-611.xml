@@ -2,22 +2,29 @@
 	<name>Kepler-611</name>
 	<rightascension>19 04 01</rightascension>
 	<declination>+45 28 49</declination>
+	<distance errorminus="80.72" errorplus="215.68">906.00</distance>
 	<star>
 		<name>Kepler-611</name>
 		<mass errorminus="0.05" errorplus="0.05">1.01</mass>
 		<radius errorminus="0.09" errorplus="0.24">1.01</radius>
-		<temperature errorminus="69.4" errorplus="64.9">5761.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">0.06</metallicity>
+		<magV>14.573</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.438</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.149</magH>
+		<magK errorminus="0.027" errorplus="0.027">13.035</magK>
+		<temperature errorminus="69.42" errorplus="64.93">5761.00</temperature>
+		<age errorminus="2.630" errorplus="3.330">4.470</age>
+		<metallicity errorminus="0.165" errorplus="0.155">0.060</metallicity>
 		<planet>
 			<name>Kepler-611 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.045">0.147</radius>
-			<period errorminus="0.000005030" errorplus="0.000005030">2.437033300</period>
+			<period errorminus="0.00000503" errorplus="0.00000503">2.43703330</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001690" errorplus="0.001690" unit="JD">2455003.737240</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

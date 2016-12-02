@@ -1,0 +1,27 @@
+<system>
+	<name>HATS-33</name>
+	<declination>-55 19 48</declination>
+	<star>
+		<name>HATS-33</name>
+		<mass errorminus="0.032" errorplus="0.032">1.062</mass>
+		<radius errorminus="0.037" errorplus="0.05">1.022</radius>
+		<magV>11.9</magV>
+		<temperature errorminus="85.0" errorplus="85.0">5659.0</temperature>
+		<age errorminus="0.17" errorplus="0.17">3.0</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.29</metallicity>
+		<planet>
+			<name>HATS-33 b</name>
+			<mass errorminus="0.053" errorplus="0.053" type="Radial Velocity">1.192</mass>
+			<radius errorminus="0.08" errorplus="0.11">1.23</radius>
+			<period errorminus="6.1e-06" errorplus="6.1e-06">2.5495551</period>
+			<semimajoraxis errorminus="0.00037" errorplus="0.00037">0.03727</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.0">0.08</eccentricity>
+			<inclination errorminus="0.92" errorplus="0.92">87.62</inclination>
+			<temperature>1429.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0005" errorplus="0.0005">2456497.23181</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

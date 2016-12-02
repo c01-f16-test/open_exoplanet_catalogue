@@ -2,22 +2,29 @@
 	<name>Kepler-698</name>
 	<rightascension>19 14 02</rightascension>
 	<declination>+41 18 06</declination>
+	<distance errorminus="91.57" errorplus="140.38">1135.00</distance>
 	<star>
 		<name>Kepler-698</name>
 		<mass errorminus="0.06" errorplus="0.05">0.94</mass>
 		<radius errorminus="0.07" errorplus="0.11">0.91</radius>
-		<temperature errorminus="116.0" errorplus="128.4">5612.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
+		<magV>15.447</magV>
+		<magJ errorminus="0.030" errorplus="0.030">14.255</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.870</magH>
+		<magK errorminus="0.050" errorplus="0.050">13.799</magK>
+		<temperature errorminus="116.05" errorplus="128.36">5612.00</temperature>
+		<age errorminus="2.600" errorplus="4.420">4.270</age>
+		<metallicity errorminus="0.181" errorplus="0.142">-0.030</metallicity>
 		<planet>
 			<name>Kepler-698 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.040" errorplus="0.040">0.328</radius>
-			<period errorminus="0.000035120" errorplus="0.000035120">16.329762180</period>
+			<period errorminus="0.00003512" errorplus="0.00003512">16.32976218</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001740" errorplus="0.001740" unit="JD">2455010.295110</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

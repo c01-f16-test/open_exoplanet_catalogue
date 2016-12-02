@@ -1,23 +1,24 @@
 <system>
 	<name>HD 11755</name>
-	<rightascension>01 58 50.087</rightascension>
-	<declination>+73 09 08.58</declination>
-	<distance errorminus="22.7" errorplus="22.7">231.5</distance>
+	<rightascension>01 58 50</rightascension>
+	<declination>+73 09 08</declination>
+	<distance errorminus="22.70" errorplus="22.70">231.50</distance>
 	<star>
 		<name>HD 11755</name>
 		<name>HIP 9242</name>
 		<name>TYC 4322-1310-1</name>
 		<name>BD+72 112</name>
 		<name>PPM 4856</name>
-		<mass errorminus="0.1" errorplus="0.1">0.9</mass>
-		<radius errorminus="1" errorplus="1.0">27.3</radius>
-		<magV errorminus="0.01" errorplus="0.01">6.88</magV>
-		<magB errorminus="0.01" errorplus="0.01">8.11</magB>
+		<mass errorminus="0.10" errorplus="0.10">0.90</mass>
+		<radius errorminus="1.00" errorplus="1.00">27.30</radius>
+		<magV errorminus="0.01" errorplus="0.01">6.870</magV>
+		<magB errorminus="0.015" errorplus="0.015">8.113</magB>
 		<magJ errorminus="0.186" errorplus="0.186">4.667</magJ>
 		<magH errorminus="0.228" errorplus="0.228">3.931</magH>
-		<magK errorminus="0.28" errorplus="0.28">3.76</magK>
-		<temperature errorminus="5" errorplus="5.0">4312.5</temperature>
-		<metallicity errorminus="0.02" errorplus="0.02">-0.74</metallicity>
+		<magK errorminus="0.280" errorplus="0.280">3.760</magK>
+		<temperature errorminus="5.00" errorplus="5.00">4312.50</temperature>
+		<age errorminus="1.300" errorplus="1.300">10.200</age>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.740</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 11755 b</name>
@@ -26,14 +27,16 @@
 			<name>BD+72 112 b</name>
 			<name>PPM 4856 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.0" errorplus="1.0" type="msini">6.5</mass>
-			<period errorminus="3.2" errorplus="3.2">433.7</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">1.08</semimajoraxis>
-			<eccentricity errorminus="0.10" errorplus="0.10">0.19</eccentricity>
-			<periastrontime errorminus="14.0" errorplus="14.0">2457018.2</periastrontime>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Msini">6.50000</mass>
+			<period errorminus="3.20000000" errorplus="3.20000000">433.70000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">1.080000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.190000</eccentricity>
+			<periastron errorminus="12.6000" errorplus="12.6000">155.3000</periastron>
+			<periastrontime errorminus="14.000000" errorplus="14.000000">2457018.200000</periastrontime>
+			<maximumrvtime errorminus="14.000000" errorplus="14.000000">2457018.200000</maximumrvtime>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

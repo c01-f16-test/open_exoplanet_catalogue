@@ -2,22 +2,29 @@
 	<name>Kepler-1409</name>
 	<rightascension>19 20 20</rightascension>
 	<declination>+51 12 31</declination>
+	<distance errorminus="37.99" errorplus="40.06">722.00</distance>
 	<star>
 		<name>Kepler-1409</name>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<temperature errorminus="73.8" errorplus="76.6">5160.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.15">-0.03</metallicity>
+		<magV>15.168</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.775</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.296</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.248</magK>
+		<temperature errorminus="73.84" errorplus="76.61">5160.00</temperature>
+		<age errorminus="2.950" errorplus="5.980">4.790</age>
+		<metallicity errorminus="0.155" errorplus="0.147">-0.030</metallicity>
 		<planet>
 			<name>Kepler-1409 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.007">0.093</radius>
-			<period errorminus="0.000002400" errorplus="0.000002400">0.764864930</period>
+			<period errorminus="0.00000240" errorplus="0.00000240">0.76486493</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002480" errorplus="0.002480" unit="JD">2454965.130760</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

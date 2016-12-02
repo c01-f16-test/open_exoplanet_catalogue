@@ -2,29 +2,33 @@
 	<name>HD 117618</name>
 	<rightascension>13 32 25</rightascension>
 	<declination>-47 16 16</declination>
-	<distance>38</distance>
+	<distance errorminus="1.39" errorplus="1.30">38.02</distance>
 	<star>
 		<name>HD 117618</name>
-		<mass>1.05</mass>
+		<mass>1.08</mass>
 		<radius>1.19</radius>
-		<magV>7.18</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.77</magB>
-		<magJ errorminus="0.02" errorplus="0.02">6.098</magJ>
+		<magV errorminus="0.011" errorplus="0.011">7.169</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.769</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.098</magJ>
 		<magH errorminus="0.029" errorplus="0.029">5.843</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.737</magK>
-		<temperature>5861.0</temperature>
-		<metallicity>0.04</metallicity>
-		<spectraltype>G2V</spectraltype>
+		<temperature errorminus="13.00" errorplus="13.00">5990.00</temperature>
+		<age>3.88</age>
+		<metallicity errorminus="0.010" errorplus="0.010">0.030</metallicity>
+		<spectraltype>G2 V</spectraltype>
 		<planet>
 			<name>HD 117618 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.178</mass>
-			<period>25.827</period>
-			<semimajoraxis>0.176</semimajoraxis>
-			<eccentricity>0.42</eccentricity>
+			<mass errorminus="0.02100" errorplus="0.02100" type="Msini">0.17800</mass>
+			<period errorminus="0.01900000" errorplus="0.01900000">25.82700000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.176000</semimajoraxis>
+			<eccentricity errorminus="0.170000" errorplus="0.170000">0.420000</eccentricity>
+			<periastron errorminus="19.0000" errorplus="19.0000">254.0000</periastron>
+			<periastrontime errorminus="1.800000" errorplus="1.800000">2450832.200000</periastrontime>
+			<maximumrvtime errorminus="1.800000" errorplus="1.800000">2450832.200000</maximumrvtime>
 			<temperature>664.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 		<planet>
@@ -38,7 +42,18 @@
 			<meananomaly errorminus="50" errorplus="50">304</meananomaly>
 			<description>The radial velocity data for HD 117618 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 117618 c</name>
+			<mass errorminus="0.1" errorplus="0.1">0.2</mass>
+			<period errorminus="2.0" errorplus="2.0">318.0</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.93</semimajoraxis>
+			<eccentricity errorminus="0.26" errorplus="0.26">0.0</eccentricity>
+			<periastron errorminus="29.0" errorplus="29.0">360.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

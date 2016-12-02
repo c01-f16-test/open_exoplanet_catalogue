@@ -1,0 +1,18 @@
+<system>
+	<name>WD 0806-661B</name>
+	<declination>-66 18 16</declination>
+	<star>
+		<name>WD 0806-661B</name>
+		<mass errorminus="0.03" errorplus="0.03">0.62</mass>
+		<age errorminus="0.3" errorplus="0.3">1.5</age>
+		<spectraltype>DQ D</spectraltype>
+		<planet>
+			<name>WD 0806-661 B b</name>
+			<mass errorminus="2.0" errorplus="2.0">8.0</mass>
+			<semimajoraxis>2500.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

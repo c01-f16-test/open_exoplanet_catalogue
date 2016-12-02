@@ -9,12 +9,14 @@
 		<name>Kepler-224</name>
 		<name>KOI-733</name>
 		<name>KIC 10271806</name>
-		<mass errorminus="0.0310" errorplus="0.0310">0.8250</mass>
-		<radius errorminus=".038" errorplus="0.038">0.676</radius>
+		<mass errorminus="0.0310" errorplus="0.0310">0.74</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.68</radius>
+		<magV>15.644</magV>
 		<magJ errorminus="0.025" errorplus="0.025">14.212</magJ>
-		<magH errorminus="0.022" errorplus="0.022">13.722</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.70</magK>
-		<temperature errorminus="100" errorplus="100">5018</temperature>
+		<magH errorminus="0.021" errorplus="0.021">13.722</magH>
+		<magK errorminus="0.039" errorplus="0.039">13.703</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5018.00</temperature>
+		<metallicity>-0.309</metallicity>
 		<planet>
 			<name>Kepler-224 c</name>
 			<name>KOI-733 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10271806 c</name>
 			<name>KIC 10271806.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.28433</radius>
-			<period errorminus=".000010" errorplus="0.000010">5.925003</period>
+			<radius errorminus="0.023" errorplus="0.023">0.278</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">5.92500300</period>
+			<semimajoraxis>0.058000</semimajoraxis>
 			<description>Kepler-224 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-224 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009800" errorplus="0.0009800">2455002.7150800</transittime>
+			<transittime errorminus=".000980" errorplus="0.000980" unit="BJD">2455002.715080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10271806 d</name>
 			<name>KIC 10271806.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.20960</radius>
-			<period errorminus=".000034" errorplus="0.000034">11.349393</period>
+			<radius errorminus="0.012" errorplus="0.012">0.205</radius>
+			<period errorminus="0.00003400" errorplus="0.00003400">11.34939300</period>
+			<semimajoraxis>0.089000</semimajoraxis>
 			<description>Kepler-224 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-224 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018200" errorplus="0.0018200">2454967.3160200</transittime>
+			<transittime errorminus=".001820" errorplus="0.001820" unit="BJD">2454967.316020</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10271806 b</name>
 			<name>KIC 10271806.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.12667</radius>
-			<period errorminus=".000014" errorplus="0.000014">3.132924</period>
+			<radius errorminus="0.008" errorplus="0.008">0.124</radius>
+			<period errorminus="0.00001400" errorplus="0.00001400">3.13292400</period>
+			<semimajoraxis>0.038000</semimajoraxis>
 			<description>Kepler-224 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-224 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025000" errorplus="0.0025000">2454968.6754400</transittime>
+			<transittime errorminus=".002500" errorplus="0.002500" unit="BJD">2454968.675440</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 10271806 e</name>
 			<name>KIC 10271806.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.01367">0.17953</radius>
-			<period errorminus=".000087" errorplus="0.000087">18.643577</period>
+			<radius errorminus="0.013" errorplus="0.013">0.176</radius>
+			<period errorminus="0.00008700" errorplus="0.00008700">18.64357700</period>
+			<semimajoraxis>0.124000</semimajoraxis>
 			<description>Kepler-224 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-224 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0028300" errorplus="0.0028300">2454974.6246300</transittime>
+			<transittime errorminus=".002830" errorplus="0.002830" unit="BJD">2454974.624630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

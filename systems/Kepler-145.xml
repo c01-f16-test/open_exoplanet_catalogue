@@ -1,0 +1,61 @@
+<system>
+	<name>Kepler-145</name>
+	<name>KOI-370</name>
+	<rightascension>19 25 33</rightascension>
+	<declination>+44 31 44</declination>
+	<distance>589.92</distance>
+	<star>
+		<name>Kepler-145</name>
+		<name>KOI-370</name>
+		<name>KIC 849414</name>
+		<name>KIC 8494142</name>
+		<mass errorminus="0.10" errorplus="0.10">1.32</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.85</radius>
+		<magV>11.931</magV>
+		<magB>11.799</magB>
+		<magJ errorminus="0.025" errorplus="0.025">10.913</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.693</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.628</magK>
+		<temperature errorminus="106.0" errorplus="106.0">6022.00</temperature>
+		<age errorminus="0.26" errorplus="0.24">2.62</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.674</metallicity>
+		<planet>
+			<name>KOI-370.02</name>
+			<name>KOI-370 b</name>
+			<name>Kepler-145 b</name>
+			<name>KIC 8494142 b</name>
+			<name>KIC 8494142.02</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.03600" errorplus="0.03600" type="Mass">0.11700</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.236</radius>
+			<period errorminus="0.00023" errorplus="0.00023">22.95100000</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.178</semimajoraxis>
+			<eccentricity errorminus="0.25" errorplus="0.18">0.43</eccentricity>
+			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0034500" errorplus="0.0034500">2454984.5312600</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-370.01</name>
+			<name>KOI-370 c</name>
+			<name>Kepler-145 c</name>
+			<name>KIC 8494142 c</name>
+			<name>KIC 8494142.01</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.05200" errorplus="0.05200" type="Mass">0.25000</mass>
+			<radius errorminus="0.011" errorplus="0.011">0.385</radius>
+			<period errorminus="0.00015" errorplus="0.00015">42.88200000</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.269</semimajoraxis>
+			<eccentricity errorminus="0.11" errorplus="0.11">0.11</eccentricity>
+			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0018500" errorplus="0.0018500">2455036.6489000</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

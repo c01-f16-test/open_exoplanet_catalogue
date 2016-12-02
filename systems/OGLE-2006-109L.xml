@@ -1,0 +1,30 @@
+<system>
+	<name>OGLE-2006-109L</name>
+	<declination>-30 05 16</declination>
+	<star>
+		<name>OGLE-2006-109L</name>
+		<mass errorminus="0.04" errorplus="0.04">0.51</mass>
+		<magH>17.17</magH>
+		<planet>
+			<name>OGLE-2006-109L b</name>
+			<mass errorminus="0.06" errorplus="0.06">0.727</mass>
+			<period errorminus="548.0" errorplus="548.0">1790.0</period>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">2.3</semimajoraxis>
+			<inclination errorminus="7.0" errorplus="7.0">64.0</inclination>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+		<planet>
+			<name>OGLE-2006-109L c</name>
+			<mass errorminus="0.022" errorplus="0.022">0.271</mass>
+			<period errorminus="1750.0" errorplus="1750.0">4931.0</period>
+			<semimajoraxis errorminus="1.0" errorplus="1.0">4.5</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.15</eccentricity>
+			<inclination errorminus="8.0" errorplus="8.0">64.0</inclination>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

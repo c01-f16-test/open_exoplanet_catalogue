@@ -2,19 +2,20 @@
 	<name>VHS 1256-1257</name>
 	<name>VHS J125602.15-125721.7</name>
 	<rightascension>12 56 01.922</rightascension>
-	<declination>-12 57 23.990</declination>
+	<declination>-12 57 24</declination>
 	<distance errorminus="1.0" errorplus="1.0">12.7</distance>
 	<star>
 		<name>VHS 1256-1257</name>
 		<name>VHS J125602.15-125721.7</name>
 		<name>2MASS J125602.15-125721.7</name>
-		<mass errorminus="0.014" errorplus="0.019">0.070</mass>
-		<magV errorminus="0.059" errorplus="0.059">17.759</magV>
+		<mass errorminus="0.02" errorplus="0.015">0.073</mass>
+		<magV errorminus="0.059" errorplus="0.059">17.8</magV>
 		<magI errorminus="0.039" errorplus="0.039">13.318</magI>
 		<magJ errorminus="0.023" errorplus="0.023">11.018</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.473</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.044</magK>
-		<temperature errorminus="140" errorplus="140">2620</temperature>
+		<temperature errorminus="140.0" errorplus="140.0">2620.0</temperature>
+		<age errorminus="0.05" errorplus="0.1">0.2</age>
 		<spectraltype errorminus="0.5" errorplus="0.5">M7.5</spectraltype>
 		<planet>
 			<name>VHS 1256-1257 b</name>
@@ -22,17 +23,16 @@
 			<name>2MASS J125601.83-125727.6</name>
 			<list>Confirmed planets</list>
 			<spectraltype errorminus="1.5" errorplus="1.5">L7</spectraltype>
-			<mass errorminus="1.8" errorplus="9.7">11.2</mass>
-			<separation errorminus="0.03" errorplus="0.03" unit="arcsec">8.06</separation>
-			<separation errorminus="9" errorplus="9" unit="AU">102</separation>
+			<mass errorminus="1.8" errorplus="9.7" type="Spectrum">11.2</mass>
 			<positionangle errorminus="0.2" errorplus="0.2">218.1</positionangle>
 			<magJ errorminus="0.287" errorplus="0.287">16.662</magJ>
 			<magH errorminus="0.209" errorplus="0.209">15.595</magH>
 			<magK errorminus="0.121" errorplus="0.121">14.568</magK>
+			<semimajoraxis errorminus="9.0" errorplus="9.0">102.0</semimajoraxis>
 			<temperature errorminus="110" errorplus="140">880</temperature>
 			<description>VHS 1256-1257 b is a common-proper motion L-dwarf companion of a nearby red dwarf star. It is cooler than expected for a field L-dwarf, and its mass is close to the deuterium-burning limit.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/07/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

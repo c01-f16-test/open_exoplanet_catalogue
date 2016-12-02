@@ -1,0 +1,23 @@
+<system>
+	<name>WISE 1711+3500</name>
+	<declination>+35 00 37</declination>
+	<star>
+		<name>WISE 1711+3500</name>
+		<name>WISE J1511+3500B</name>
+		<mass errorminus="0.012" errorplus="0.012">0.034</mass>
+		<magV>18.0</magV>
+		<temperature errorminus="80.0" errorplus="80.0">770.0</temperature>
+		<age errorminus="2.0" errorplus="2.0">3.0</age>
+		<spectraltype>T8</spectraltype>
+		<planet>
+			<name>WISE 1711+3500 b</name>
+			<name>WISE J1511+3500B</name>
+			<mass errorminus="7.0" errorplus="7.0">18.0</mass>
+			<period errorminus="29000.0" errorplus="29000.0">125000.0</period>
+			<semimajoraxis errorminus="2.0" errorplus="2.0">15.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

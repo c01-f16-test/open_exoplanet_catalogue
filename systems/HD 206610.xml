@@ -1,32 +1,36 @@
 <system>
 	<name>HD 206610</name>
-	<rightascension>21 43 25</rightascension>
-	<declination>-07 24 30</declination>
-	<distance>194</distance>
+	<rightascension>21 43 24</rightascension>
+	<declination>-07 24 29</declination>
+	<distance errorminus="39.58" errorplus="27.01">170.07</distance>
 	<star>
 		<name>HD 206610</name>
-		<mass>1.56</mass>
-		<radius>6.1</radius>
-		<magV>8.34</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.38</magB>
+		<mass errorminus="0.11" errorplus="0.11">1.56</mass>
+		<radius errorminus="0.10" errorplus="0.10">6.10</radius>
+		<magV errorminus="0.014" errorplus="0.014">8.346</magV>
+		<magB errorminus="0.023" errorplus="0.023">9.378</magB>
 		<magI errorminus="0.03" errorplus="0.03">8.76</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.579</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.111</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.952</magK>
-		<temperature>4874.0</temperature>
-		<metallicity>0.14</metallicity>
-		<spectraltype>K0</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">4874.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">3.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.140</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 206610 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.2</mass>
-			<period>610</period>
-			<semimajoraxis>1.68</semimajoraxis>
-			<eccentricity>0.229</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">2.20000</mass>
+			<period errorminus="13.00000000" errorplus="13.00000000">610.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.680000</semimajoraxis>
+			<eccentricity errorminus="0.058000" errorplus="0.058000">0.229000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">296.0000</periastron>
+			<periastrontime errorminus="20.000000" errorplus="20.000000">2454677.000000</periastrontime>
+			<maximumrvtime errorminus="20.000000" errorplus="20.000000">2454677.000000</maximumrvtime>
 			<temperature>408.1</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,53 +2,62 @@
 	<name>HIP 14810</name>
 	<rightascension>03 11 14</rightascension>
 	<declination>+21 05 50</declination>
-	<distance>52.9</distance>
+	<distance errorminus="4.39" errorplus="3.77">52.88</distance>
 	<star>
 		<name>HIP 14810</name>
-		<mass>0.99</mass>
-		<radius>1</radius>
-		<magV>8.52</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.26</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.99</mass>
+		<radius errorminus="0.06" errorplus="0.06">1.00</radius>
+		<magV>8.520</magV>
+		<magB errorminus="0.023" errorplus="0.023">9.257</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.202</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.964</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.828</magK>
-		<temperature>5485.0</temperature>
-		<metallicity>0.26</metallicity>
-		<spectraltype>G5</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5485.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">0.260</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HIP 14810 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.88</mass>
-			<period>6.673855</period>
-			<semimajoraxis>0.0692</semimajoraxis>
-			<eccentricity>0.1427</eccentricity>
+			<mass errorminus="0.32000" errorplus="0.32000" type="Msini">3.88000</mass>
+			<period errorminus="0.00001900" errorplus="0.00001900">6.67385500</period>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.069200</semimajoraxis>
+			<eccentricity errorminus="0.000940" errorplus="0.000940">0.142700</eccentricity>
+			<periastron errorminus="0.3800" errorplus="0.3800">159.3200</periastron>
+			<periastrontime errorminus="0.007000" errorplus="0.007000">2453694.598000</periastrontime>
+			<maximumrvtime errorminus="0.007000" errorplus="0.007000">2453694.598000</maximumrvtime>
 			<temperature>918.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 		</planet>
 		<planet>
 			<name>HIP 14810 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.28</mass>
-			<period>147.73</period>
-			<semimajoraxis>0.545</semimajoraxis>
-			<eccentricity>0.164</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">1.28000</mass>
+			<period errorminus="0.06500000" errorplus="0.06500000">147.73000000</period>
+			<semimajoraxis errorminus="0.031000" errorplus="0.031000">0.545000</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.012000">0.164000</eccentricity>
+			<periastron errorminus="2.5000" errorplus="2.5000">329.0000</periastron>
+			<periastrontime errorminus="0.007300" errorplus="0.007300">2454672.240000</periastrontime>
+			<maximumrvtime errorminus="0.007300" errorplus="0.007300">2454672.240000</maximumrvtime>
 			<temperature>327.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 		<planet>
 			<name>HIP 14810 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.57</mass>
-			<period>962</period>
-			<semimajoraxis>1.89</semimajoraxis>
-			<eccentricity>0.173</eccentricity>
+			<mass errorminus="0.05200" errorplus="0.05200" type="Msini">0.57000</mass>
+			<period errorminus="15.00000000" errorplus="15.00000000">952.00000000</period>
+			<semimajoraxis errorminus="0.110000" errorplus="0.110000">1.890000</semimajoraxis>
+			<eccentricity errorminus="0.037000" errorplus="0.037000">0.173000</eccentricity>
+			<periastron errorminus="19.0000" errorplus="19.0000">286.0000</periastron>
+			<periastrontime errorminus="0.007300" errorplus="0.007300">2454317.198000</periastrontime>
+			<maximumrvtime errorminus="0.007300" errorplus="0.007300">2454317.198000</maximumrvtime>
 			<temperature>175.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/06/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,31 @@
+<system>
+	<name>NGC 2682 Sand 364</name>
+	<rightascension>08 49 56</rightascension>
+	<declination>+11 41 32</declination>
+	<star>
+		<name>NGC 2682 Sand 364</name>
+		<mass errorminus="0.05" errorplus="0.05">1.35</mass>
+		<radius errorminus="0.70" errorplus="0.70">21.80</radius>
+		<magV>9.800</magV>
+		<magB errorminus="0.117" errorplus="0.117">11.249</magB>
+		<magJ errorminus="0.021" errorplus="0.021">7.542</magJ>
+		<magH errorminus="0.011" errorplus="0.011">6.915</magH>
+		<magK errorminus="9.995" errorplus="9.995">6.693</magK>
+		<temperature errorminus="9.00" errorplus="9.00">4284.00</temperature>
+		<age errorminus="0.650" errorplus="0.650">4.150</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.020</metallicity>
+		<spectraltype>K3 III</spectraltype>
+		<planet>
+			<name>NGC 2682 Sand 364 b</name>
+			<mass errorminus="0.24000" errorplus="0.24000" type="Msini">1.54000</mass>
+			<period errorminus="0.30500000" errorplus="0.30500000">121.71000000</period>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.350000</eccentricity>
+			<periastron errorminus="12.8100" errorplus="12.8100">273.5100</periastron>
+			<periastrontime errorminus="3.700000" errorplus="3.700000">2456240.900000</periastrontime>
+			<maximumrvtime errorminus="3.700000" errorplus="3.700000">2456240.900000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,47 +1,56 @@
 <system>
 	<name>Kepler-770</name>
-	<rightascension>19 05 58</rightascension>
-	<declination>+38 22 30</declination>
+	<rightascension>19 05 57</rightascension>
+	<declination>+38 22 29</declination>
+	<distance errorminus="58.20" errorplus="105.60">761.00</distance>
 	<star>
 		<name>Kepler-770</name>
 		<mass errorminus="0.06" errorplus="0.05">0.94</mass>
 		<radius errorminus="0.07" errorplus="0.12">0.92</radius>
-		<temperature errorminus="124.5" errorplus="127.6">5598.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.01</metallicity>
+		<magV>14.604</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.391</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.010</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.923</magK>
+		<temperature errorminus="124.54" errorplus="127.60">5598.00</temperature>
+		<age errorminus="2.850" errorplus="4.780">4.570</age>
+		<metallicity errorminus="0.179" errorplus="0.135">-0.010</metallicity>
 		<planet>
 			<name>Kepler-770 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.029">0.205</radius>
-			<period errorminus="0.000052910" errorplus="0.000052910">18.925402740</period>
+			<period errorminus="0.00005291" errorplus="0.00005291">18.92540274</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002220" errorplus="0.002220" unit="JD">2454982.494120</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-770 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.017">0.107</radius>
-			<period errorminus="0.000004190" errorplus="0.000004190">1.475322310</period>
+			<period errorminus="0.00000419" errorplus="0.00000419">1.47532231</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002470" errorplus="0.002470" unit="JD">2454964.833200</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-770 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.010" errorplus="0.017">0.125</radius>
-			<period errorminus="0.000016850" errorplus="0.000016850">4.152447220</period>
+			<period errorminus="0.00001685" errorplus="0.00001685">4.15244722</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003530" errorplus="0.003530" unit="JD">2454967.582770</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

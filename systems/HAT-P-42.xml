@@ -2,39 +2,39 @@
 	<name>HAT-P-42</name>
 	<rightascension>09 01 22</rightascension>
 	<declination>+06 05 50</declination>
-	<distance>447</distance>
+	<distance errorminus="41.00" errorplus="41.00">447.00</distance>
 	<star>
 		<name>HAT-P-42</name>
 		<name>2MASS 09012265+0605500</name>
-		<mass>1.179</mass>
-		<radius>1.528</radius>
-		<magV errorminus="0.03" errorplus="0.03">12.17</magV>
-		<magB errorminus="0.02" errorplus="0.02">12.83</magB>
+		<mass errorminus="0.07" errorplus="0.07">1.18</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.53</radius>
+		<magV errorminus="0.030" errorplus="0.030">12.168</magV>
+		<magB errorminus="0.020" errorplus="0.020">12.827</magB>
 		<magR errorminus="0.04" errorplus="0.04">12.02</magR>
-		<magJ errorminus="0.023" errorplus="0.023">10.960</magJ>
-		<magH errorminus="0.024" errorplus="0.024">10.677</magH>
-		<magK errorminus="0.026" errorplus="0.026">10.626</magK>
-		<temperature>5743</temperature>
-		<age>5.1</age>
-		<metallicity>0.27</metallicity>
+		<magJ errorminus="0.019" errorplus="0.019">10.960</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.677</magH>
+		<magK errorminus="0.024" errorplus="0.024">10.626</magK>
+		<temperature errorminus="50.00" errorplus="50.00">5743.00</temperature>
+		<age errorminus="0.700" errorplus="1.800">5.200</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.270</metallicity>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>HAT-P-42 b</name>
 			<name>2MASS 09012265+0605500 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.975</mass>
-			<radius>1.277</radius>
-			<period>4.641876</period>
-			<semimajoraxis>0.0575</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination>85.9</inclination>
-			<temperature>1427</temperature>
+			<mass errorminus="0.08300" errorplus="0.08300" type="Mass">1.04400</mass>
+			<radius errorminus="0.153" errorplus="0.153">1.280</radius>
+			<period errorminus="0.00003200" errorplus="0.00003200">4.64187800</period>
+			<semimajoraxis errorminus="0.001100" errorplus="0.001100">0.057500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.800" errorplus="1.300">85.900</inclination>
+			<temperature errorminus="60" errorplus="60">1428</temperature>
 			<description>HAT-P-42 b is a typical Hot Jupiter on a circular orbit around an early G-type main sequence star. The planet is inflated compared to our own Jupiter. It was discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00077" errorplus="0.00077" unit="BJD">2455952.52606</transittime>
+			<transittime errorminus=".000750" errorplus="0.000750" unit="BJD-UTC">2455952.526030</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

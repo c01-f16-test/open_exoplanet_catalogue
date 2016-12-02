@@ -2,22 +2,23 @@
 	<name>Kepler-14</name>
 	<rightascension>19 10 50</rightascension>
 	<declination>+47 19 59</declination>
-	<distance>980</distance>
+	<distance>980.00</distance>
 	<star>
 		<name>Kepler-14</name>
 		<name>KOI-98</name>
 		<name>KIC 10264660</name>
-		<mass>1.512</mass>
-		<radius>2.048</radius>
-		<magV>12.12</magV>
+		<mass errorminus="0.04" errorplus="0.04">1.51</mass>
+		<radius errorminus="0.08" errorplus="0.11">2.05</radius>
+		<magV>12.128</magV>
 		<magB errorminus="0.16" errorplus="0.16">12.24</magB>
 		<magR errorminus="0.06" errorplus="0.06">12.16</magR>
 		<magI errorminus="0.13" errorplus="0.13">11.65</magI>
 		<magJ errorminus="0.022" errorplus="0.022">11.202</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.068</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.988</magK>
-		<temperature>6395.0</temperature>
-		<metallicity>0.12</metallicity>
+		<temperature errorminus="60.00" errorplus="60.00">6395.00</temperature>
+		<age errorminus="0.100" errorplus="0.200">2.200</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.120</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
 			<name>Kepler-14 b</name>
@@ -27,16 +28,17 @@
 			<name>KOI-98.01</name>
 			<name>KOI-98 b</name>
 			<list>Confirmed planets</list>
-			<mass>8.4</mass>
-			<radius>1.136</radius>
-			<period>6.790123</period>
-			<eccentricity>0.035</eccentricity>
-			<inclination>90</inclination>
+			<mass errorminus="0.34000" errorplus="0.35000" type="Mass">8.40000</mass>
+			<radius errorminus="0.054" errorplus="0.073">1.136</radius>
+			<period errorminus="0.00000430" errorplus="0.00000430">6.79012300</period>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.035000</eccentricity>
+			<inclination errorminus="2.800" errorplus="0.000">90.000</inclination>
+			<temperature>1573.0</temperature>
 			<description>This planet was discovered with the Kepler spacecraft. The host star is in a close visual binary. The object was previously known as KOI-98 (Kepler Object of Interest).</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00018" errorplus="0.00018" unit="HJD">2454971.08737</transittime>
+			<transittime errorminus=".000180" errorplus="0.000180" unit="HJD-UTC">2454971.087370</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/06/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

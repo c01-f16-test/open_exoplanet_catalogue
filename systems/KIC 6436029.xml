@@ -1,0 +1,28 @@
+<system>
+	<name>KIC 6436029</name>
+	<declination>+41 53 34</declination>
+	<star>
+		<name>KIC 6436029</name>
+		<name>KOI-2828</name>
+		<mass errorminus="0.05" errorplus="0.05">0.83</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.83</radius>
+		<magV>16.2</magV>
+		<temperature errorminus="130.0" errorplus="180.0">4817.0</temperature>
+		<metallicity errorminus="0.24" errorplus="0.06">0.42</metallicity>
+		<planet>
+			<name>KIC 6436029 b</name>
+			<name>KOI-2828 b</name>
+			<radius errorminus="0.055" errorplus="0.055">0.274</radius>
+			<period errorminus="0.0043" errorplus="0.0042">505.45</period>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.15</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<periastrontime errorminus="0.031" errorplus="0.035">2455291.092</periastrontime>
+			<maximumrvtime errorminus="0.031" errorplus="0.035">2455291.092</maximumrvtime>
+			<inclination errorminus="0.39" errorplus="0.06">89.94</inclination>
+			<temperature>175.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

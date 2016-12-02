@@ -2,22 +2,29 @@
 	<name>Kepler-1323</name>
 	<rightascension>19 31 29</rightascension>
 	<declination>+46 05 56</declination>
+	<distance errorminus="81.27" errorplus="114.09">530.00</distance>
 	<star>
 		<name>Kepler-1323</name>
 		<mass errorminus="0.06" errorplus="0.11">1.18</mass>
 		<radius errorminus="0.21" errorplus="0.30">1.40</radius>
-		<temperature errorminus="59.8" errorplus="74.2">6169.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.08">0.02</metallicity>
+		<magV>12.410</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.387</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.147</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.122</magK>
+		<temperature errorminus="59.83" errorplus="74.24">6169.00</temperature>
+		<age errorminus="0.960" errorplus="0.840">3.550</age>
+		<metallicity errorminus="0.088" errorplus="0.082">0.020</metallicity>
 		<planet>
 			<name>Kepler-1323 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.029">0.136</radius>
-			<period errorminus="0.000000750" errorplus="0.000000750">0.929906680</period>
+			<period errorminus="0.00000075" errorplus="0.00000075">0.92990668</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000712" errorplus="0.000712" unit="JD">2454965.250751</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

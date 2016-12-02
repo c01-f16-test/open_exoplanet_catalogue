@@ -7,22 +7,23 @@
 	<star>
 		<name>2M 2140+16</name>
 		<name>2MASS J21402931+1625183</name>
-		<mass>0.08</mass>
-		<radius>0.1</radius>
-		<temperature>2300.0</temperature>
+		<mass errorminus="0.06" errorplus="0.06">0.08</mass>
+		<radius errorminus="0.043" errorplus="0.043">0.1</radius>
+		<temperature errorminus="80.0" errorplus="80.0">2300.0</temperature>
 		<spectraltype>M8.5/L2</spectraltype>
 		<planet>
 			<name>2M 2140+16 b</name>
 			<name>2MASS J21402931+1625183 b</name>
 			<list>Confirmed planets</list>
-			<mass>20</mass>
-			<radius>0.92</radius>
-			<period>7340</period>
-			<semimajoraxis>3.53</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
-			<inclination>46.2</inclination>
+			<mass errorminus="20.0" errorplus="80.0">20.0</mass>
+			<radius errorminus="0.39" errorplus="0.39">0.92</radius>
+			<period errorminus="584.0" errorplus="584.0">7340.0</period>
+			<semimajoraxis errorminus="0.15" errorplus="0.15">3.53</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.06">0.26</eccentricity>
+			<periastron errorminus="47.0" errorplus="47.0">223.0</periastron>
+			<inclination errorminus="8.7" errorplus="8.7">46.2</inclination>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>12/01/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

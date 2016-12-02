@@ -1,0 +1,26 @@
+<system>
+	<name>K2-43</name>
+	<rightascension>11 16 28</rightascension>
+	<declination>-03 58 31</declination>
+	<star>
+		<name>K2-43</name>
+		<mass errorminus="0.03" errorplus="0.03">0.60</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.57</radius>
+		<magV errorminus="0.050" errorplus="0.050">15.596</magV>
+		<magB errorminus="0.100" errorplus="0.100">17.254</magB>
+		<magJ errorminus="0.024" errorplus="0.024">12.422</magJ>
+		<magH errorminus="0.024" errorplus="0.024">11.712</magH>
+		<magK errorminus="0.024" errorplus="0.024">11.577</magK>
+		<temperature errorminus="87.00" errorplus="87.00">3939.00</temperature>
+		<planet>
+			<name>K2-43 b</name>
+			<radius errorminus="0.028" errorplus="0.028">0.368</radius>
+			<period errorminus="0.00021000" errorplus="0.00021000">3.47114000</period>
+			<semimajoraxis errorminus="0.000630" errorplus="0.000630">0.037840</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003300" errorplus="0.003300" unit="BJD_TDB">2456809.884500</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

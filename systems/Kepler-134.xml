@@ -10,11 +10,12 @@
 		<name>KOI-295</name>
 		<name>KIC 11547513</name>
 		<mass>1.0100</mass>
-		<radius errorminus=".228" errorplus="0.228">1.176</radius>
+		<radius errorminus="0.23" errorplus="0.23">1.18</radius>
+		<magV>12.324</magV>
 		<magJ errorminus="0.024" errorplus="0.024">11.260</magJ>
 		<magH errorminus="0.015" errorplus="0.015">10.984</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.951</magK>
-		<temperature errorminus="50" errorplus="150">5983</temperature>
+		<temperature errorminus="150.00" errorplus="150.00">5983.00</temperature>
 		<planet>
 			<name>Kepler-134 b</name>
 			<name>KOI-295 b</name>
@@ -22,13 +23,14 @@
 			<name>KIC 11547513 b</name>
 			<name>KIC 11547513.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03554" errorplus="0.03554">0.18226</radius>
-			<period errorminus=".000008" errorplus="0.000008">5.317429</period>
+			<radius errorminus="0.035" errorplus="0.035">0.178</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">5.31742900</period>
+			<semimajoraxis>0.060000</semimajoraxis>
 			<description>Kepler-134 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-134 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007700" errorplus="0.0007700">2455004.8760800</transittime>
+			<transittime errorminus=".000770" errorplus="0.000770" unit="BJD">2455004.876080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +40,14 @@
 			<name>KIC 11547513 c</name>
 			<name>KIC 11547513.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02278" errorplus="0.02278">0.11482</radius>
-			<period errorminus=".000053" errorplus="0.000053">10.105785</period>
+			<radius errorminus="0.022" errorplus="0.022">0.112</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">10.10578500</period>
+			<semimajoraxis>0.092000</semimajoraxis>
 			<description>Kepler-134 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-134 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029600" errorplus="0.0029600">2454968.5071600</transittime>
+			<transittime errorminus=".002960" errorplus="0.002960" unit="BJD">2454968.507160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

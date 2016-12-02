@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-922</name>
-	<rightascension>18 58 56</rightascension>
-	<declination>+49 31 60</declination>
+	<rightascension>18 58 55</rightascension>
+	<declination>+49 31 59</declination>
+	<distance errorminus="45.13" errorplus="68.30">558.00</distance>
 	<star>
 		<name>Kepler-922</name>
 		<mass errorminus="0.05" errorplus="0.05">0.95</mass>
 		<radius errorminus="0.07" errorplus="0.11">0.93</radius>
-		<temperature errorminus="65.4" errorplus="64.1">5671.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.05</metallicity>
+		<magV>13.757</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.613</magJ>
+		<magH errorminus="0.016" errorplus="0.016">12.260</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.188</magK>
+		<temperature errorminus="65.37" errorplus="64.06">5671.00</temperature>
+		<age errorminus="2.570" errorplus="4.220">4.370</age>
+		<metallicity errorminus="0.179" errorplus="0.152">-0.050</metallicity>
 		<planet>
 			<name>Kepler-922 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.010" errorplus="0.016">0.127</radius>
-			<period errorminus="0.000000950" errorplus="0.000000950">0.938466830</period>
+			<period errorminus="0.00000095" errorplus="0.00000095">0.93846683</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000827" errorplus="0.000827" unit="JD">2454968.601201</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

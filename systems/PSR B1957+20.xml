@@ -1,0 +1,18 @@
+<system>
+	<name>PSR B1957+20</name>
+	<declination>+20 48 15</declination>
+	<star>
+		<name>PSR B1957+20</name>
+		<mass>1.4</mass>
+		<age>2.2</age>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR B1957+20 b</name>
+			<mass>22.0</mass>
+			<period>0.38</period>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1988</discoveryyear>
+		</planet>
+	</star>
+</system>

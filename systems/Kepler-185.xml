@@ -9,12 +9,14 @@
 		<name>Kepler-185</name>
 		<name>KOI-569</name>
 		<name>KIC 8008206</name>
-		<mass errorminus="0.0780" errorplus="0.0780">0.7730</mass>
-		<radius errorminus=".460" errorplus="0.460">0.806</radius>
+		<mass errorminus="0.0780" errorplus="0.0780">0.79</mass>
+		<radius errorminus="0.46" errorplus="0.46">0.81</radius>
+		<magV>14.458</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.050</magJ>
-		<magH errorminus="0.020" errorplus="0.020">12.587</magH>
+		<magH errorminus="0.019" errorplus="0.019">12.587</magH>
 		<magK errorminus="0.013" errorplus="0.013">12.515</magK>
-		<temperature errorminus="200" errorplus="200">5208</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5208.00</temperature>
+		<metallicity>-0.051</metallicity>
 		<planet>
 			<name>Kepler-185 c</name>
 			<name>KOI-569 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8008206 c</name>
 			<name>KIC 8008206.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.10662">0.18408</radius>
-			<period errorminus=".000097" errorplus="0.000097">20.729042</period>
+			<radius errorminus="0.104" errorplus="0.104">0.180</radius>
+			<period errorminus="0.00009700" errorplus="0.00009700">20.72904200</period>
+			<semimajoraxis>0.139000</semimajoraxis>
 			<description>Kepler-185 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-185 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029300" errorplus="0.0029300">2455018.4364200</transittime>
+			<transittime errorminus=".002930" errorplus="0.002930" unit="BJD">2455018.436420</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8008206 b</name>
 			<name>KIC 8008206.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06106" errorplus="0.06106">0.10662</radius>
-			<period errorminus=".000005" errorplus="0.000005">1.632900</period>
+			<radius errorminus="0.060" errorplus="0.060">0.104</radius>
+			<period errorminus="0.00000500" errorplus="0.00000500">1.63290000</period>
+			<semimajoraxis>0.026000</semimajoraxis>
 			<description>Kepler-185 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-185 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018900" errorplus="0.0018900">2454967.5479700</transittime>
+			<transittime errorminus=".001890" errorplus="0.001890" unit="BJD">2454967.547970</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

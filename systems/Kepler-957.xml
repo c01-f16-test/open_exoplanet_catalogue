@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-957</name>
-	<rightascension>19 20 38</rightascension>
+	<rightascension>19 20 37</rightascension>
 	<declination>+48 49 08</declination>
+	<distance errorminus="42.82" errorplus="38.35">749.00</distance>
 	<star>
 		<name>Kepler-957</name>
 		<mass errorminus="0.04" errorplus="0.03">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.75</radius>
-		<temperature errorminus="58.9" errorplus="47.5">4963.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.18">-0.01</metallicity>
+		<magV>15.625</magV>
+		<magJ errorminus="0.036" errorplus="0.036">14.061</magJ>
+		<magH errorminus="0.046" errorplus="0.046">13.642</magH>
+		<magK errorminus="0.040" errorplus="0.040">13.453</magK>
+		<temperature errorminus="58.85" errorplus="47.52">4963.00</temperature>
+		<age errorminus="1.300" errorplus="6.280">2.750</age>
+		<metallicity errorminus="0.177" errorplus="0.184">-0.010</metallicity>
 		<planet>
 			<name>Kepler-957 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.029" errorplus="0.026">0.491</radius>
-			<period errorminus="0.000005070" errorplus="0.000005070">5.907413540</period>
+			<period errorminus="0.00000507" errorplus="0.00000507">5.90741354</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000687" errorplus="0.000687" unit="JD">2454966.934664</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

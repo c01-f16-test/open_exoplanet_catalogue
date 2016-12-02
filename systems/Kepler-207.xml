@@ -10,11 +10,13 @@
 		<name>KOI-665</name>
 		<name>KIC 6685609</name>
 		<mass errorminus="0.0940" errorplus="0.0940">1.0400</mass>
-		<radius errorminus=".302" errorplus="0.302">1.588</radius>
+		<radius errorminus="0.30" errorplus="0.30">1.59</radius>
+		<magV>13.182</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.100</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.841</magH>
-		<magK errorminus="0.016" errorplus="0.016">11.805</magK>
-		<temperature errorminus="16" errorplus="116">5920</temperature>
+		<magK errorminus="0.015" errorplus="0.015">11.805</magK>
+		<temperature errorminus="116.00" errorplus="116.00">5920.00</temperature>
+		<metallicity>-0.023</metallicity>
 		<planet>
 			<name>Kepler-207 d</name>
 			<name>KOI-665 d</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6685609 d</name>
 			<name>KIC 6685609.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05741" errorplus="0.05741">0.30164</radius>
-			<period errorminus=".000009" errorplus="0.000009">5.868075</period>
+			<radius errorminus="0.056" errorplus="0.056">0.295</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">5.86807500</period>
+			<semimajoraxis>0.068000</semimajoraxis>
 			<description>Kepler-207 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-207 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009100" errorplus="0.0009100">2455003.3224300</transittime>
+			<transittime errorminus=".000910" errorplus="0.000910" unit="BJD">2455003.322430</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6685609 b</name>
 			<name>KIC 6685609.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02734" errorplus="0.02734">0.14307</radius>
-			<period errorminus=".000006" errorplus="0.000006">1.611865</period>
+			<radius errorminus="0.027" errorplus="0.027">0.140</radius>
+			<period errorminus="0.00000600" errorplus="0.00000600">1.61186500</period>
+			<semimajoraxis>0.029000</semimajoraxis>
 			<description>Kepler-207 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-207 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0022600" errorplus="0.0022600">2454966.5704100</transittime>
+			<transittime errorminus=".002260" errorplus="0.002260" unit="BJD">2454966.570410</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6685609 c</name>
 			<name>KIC 6685609.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02643" errorplus="0.02643">0.13670</radius>
-			<period errorminus=".000016" errorplus="0.000016">3.071571</period>
+			<radius errorminus="0.026" errorplus="0.026">0.134</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">3.07157100</period>
+			<semimajoraxis>0.044000</semimajoraxis>
 			<description>Kepler-207 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-207 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029500" errorplus="0.0029500">2454966.3042500</transittime>
+			<transittime errorminus=".002950" errorplus="0.002950" unit="BJD">2454966.304250</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

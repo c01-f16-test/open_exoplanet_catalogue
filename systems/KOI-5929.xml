@@ -1,0 +1,22 @@
+<system>
+	<name>KOI-5929</name>
+	<declination>+49 48 01</declination>
+	<star>
+		<name>KOI-5929</name>
+		<mass errorminus="0.07" errorplus="0.07">0.86</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.82</radius>
+		<magV>15.2</magV>
+		<temperature errorminus="164.0" errorplus="155.0">5830.0</temperature>
+		<metallicity errorminus="0.28" errorplus="0.28">-0.14</metallicity>
+		<planet>
+			<name>KOI-5929 b</name>
+			<radius errorminus="0.04" errorplus="0.04">0.37</radius>
+			<period errorminus="0.00775" errorplus="0.00799">466.0001</period>
+			<inclination errorminus="0.059" errorplus="0.037">89.947</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.005" errorplus="0.005">2455267.999</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,8 +1,8 @@
 <system>
 	<name>HD 34445</name>
-	<rightascension>05 17 40.98051</rightascension>
-	<declination>+07 21 12.0508</declination>
-	<distance errorminus="1.4" errorplus="1.4">46.5</distance>
+	<rightascension>05 17 40</rightascension>
+	<declination>+07 21 12</declination>
+	<distance errorminus="2.23" errorplus="2.03">45.01</distance>
 	<star>
 		<name>HD 34445</name>
 		<name>HIP 24681</name>
@@ -11,24 +11,28 @@
 		<name>BD+07 855</name>
 		<mass errorminus="0.02" errorplus="0.02">1.07</mass>
 		<radius errorminus="0.08" errorplus="0.08">1.38</radius>
-		<magV errorminus="0.01" errorplus="0.01">7.33</magV>
-		<magB errorminus="0.02" errorplus="0.02">7.97</magB>
-		<temperature errorminus="44" errorplus="44">5836</temperature>
-		<age errorminus="2.0" errorplus="2.0">8.5</age>
-		<metallicity errorminus="0.04" errorplus="0.04">0.14</metallicity>
-		<spectraltype>G0 V</spectraltype>
+		<magV errorminus="0.011" errorplus="0.011">7.328</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.969</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.122</magJ>
+		<magH errorminus="0.027" errorplus="0.027">5.848</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.790</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5836.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">8.500</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.140</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 34445 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07" type="msini">0.79</mass>
-			<period errorminus="11" errorplus="11">1049</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">2.07</semimajoraxis>
-			<eccentricity errorminus="0.07" errorplus="0.07">0.27</eccentricity>
-			<periastron errorminus="19" errorplus="19">104</periastron>
-			<periastrontime errorminus="48" errorplus="48">2453781</periastrontime>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">0.79000</mass>
+			<period errorminus="11.00000000" errorplus="11.00000000">1049.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">2.070000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.270000</eccentricity>
+			<periastron errorminus="19.0000" errorplus="19.0000">104.0000</periastron>
+			<periastrontime errorminus="48.000000" errorplus="48.000000">2453781.000000</periastrontime>
+			<maximumrvtime errorminus="48.000000" errorplus="48.000000">2453781.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/09</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

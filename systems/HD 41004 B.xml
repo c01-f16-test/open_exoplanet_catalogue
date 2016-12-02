@@ -1,0 +1,32 @@
+<system>
+	<name>HD 41004 B</name>
+	<rightascension>05 59 49</rightascension>
+	<declination>-48 14 23</declination>
+	<distance errorminus="1.98" errorplus="1.81">43.03</distance>
+	<star>
+		<name>HD 41004 B</name>
+		<mass>0.40</mass>
+		<magV>12.33</magV>
+		<magJ errorminus="0.025" errorplus="0.025">7.004</magJ>
+		<magH errorminus="0.031" errorplus="0.031">6.549</magH>
+		<magK errorminus="0.036" errorplus="0.036">6.428</magK>
+		<temperature>5035.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">1.56</age>
+		<metallicity>-0.01</metallicity>
+		<spectraltype>M2 V</spectraltype>
+		<planet>
+			<name>HD 41004 B b</name>
+			<mass errorminus="0.22000" errorplus="0.22000" type="Msini">18.37000</mass>
+			<radius>1.06</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">1.32830000</period>
+			<semimajoraxis>0.0177</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.012000">0.081000</eccentricity>
+			<periastron errorminus="7.8000" errorplus="7.8000">178.5000</periastron>
+			<periastrontime errorminus="0.029000" errorplus="0.029000">2452434.880000</periastrontime>
+			<maximumrvtime errorminus="0.029000" errorplus="0.029000">2452434.880000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+	</star>
+</system>

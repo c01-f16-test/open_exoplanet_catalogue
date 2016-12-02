@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-680</name>
 	<rightascension>19 26 29</rightascension>
-	<declination>+50 37 06</declination>
+	<declination>+50 37 05</declination>
+	<distance errorminus="145.05" errorplus="446.09">1342.00</distance>
 	<star>
 		<name>Kepler-680</name>
 		<mass errorminus="0.06" errorplus="0.10">1.08</mass>
 		<radius errorminus="0.11" errorplus="0.38">1.11</radius>
-		<temperature errorminus="99.2" errorplus="77.4">5890.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.15">0.13</metallicity>
+		<magV>15.242</magV>
+		<magJ errorminus="0.027" errorplus="0.027">14.012</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.720</magH>
+		<magK errorminus="0.057" errorplus="0.057">13.764</magK>
+		<temperature errorminus="99.20" errorplus="77.37">5890.00</temperature>
+		<age errorminus="2.010" errorplus="1.930">3.720</age>
+		<metallicity errorminus="0.146" errorplus="0.152">0.130</metallicity>
 		<planet>
 			<name>Kepler-680 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.073">0.216</radius>
-			<period errorminus="0.000009430" errorplus="0.000009430">3.689926290</period>
+			<period errorminus="0.00000943" errorplus="0.00000943">3.68992629</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002080" errorplus="0.002080" unit="JD">2455003.364610</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

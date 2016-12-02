@@ -9,12 +9,14 @@
 		<name>Kepler-305</name>
 		<name>KOI-1563</name>
 		<name>KIC 5219234</name>
-		<mass errorminus="0.3000" errorplus="0.3000">0.9000</mass>
-		<radius errorminus=".050" errorplus="0.050">0.794</radius>
+		<mass errorminus="0.06" errorplus="0.13">0.76</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
+		<magV>15.812</magV>
 		<magJ errorminus="0.029" errorplus="0.029">14.250</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.74</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.70</magK>
-		<temperature errorminus="100" errorplus="100">5100</temperature>
+		<magH errorminus="0.034" errorplus="0.034">13.737</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.702</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5100.00</temperature>
+		<metallicity>-0.071</metallicity>
 		<planet>
 			<name>Kepler-305 b</name>
 			<name>KOI-1563 b</name>
@@ -22,14 +24,16 @@
 			<name>KIC 5219234 b</name>
 			<name>KIC 5219234.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01823" errorplus="0.01823">0.26246</radius>
-			<period errorminus=".000021" errorplus="0.000021">5.487108</period>
+			<mass errorminus="0.00600" errorplus="0.00800" type="Mass">0.03300</mass>
+			<radius errorminus="0.032" errorplus="0.080">0.321</radius>
+			<period errorminus=".000021" errorplus="0.000021">5.48700000</period>
+			<semimajoraxis>0.05856</semimajoraxis>
 			<description>Kepler-305 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-305 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0017600" errorplus="0.0017600">2455189.0755900</transittime>
+			<transittime errorminus="0.0017600" errorplus="0.0017600">2455189.0796</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-305 c</name>
@@ -38,14 +42,16 @@
 			<name>KIC 5219234 c</name>
 			<name>KIC 5219234.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02734" errorplus="0.02734">0.25608</radius>
-			<period errorminus=".000056" errorplus="0.000056">8.290858</period>
+			<mass errorminus="0.00700" errorplus="0.00800" type="Mass">0.01900</mass>
+			<radius errorminus="0.029" errorplus="0.073">0.294</radius>
+			<period errorminus=".000056" errorplus="0.000056">8.29100000</period>
+			<semimajoraxis>0.07711</semimajoraxis>
 			<description>Kepler-305 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-305 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0032200" errorplus="0.0032200">2455192.6362300</transittime>
+			<transittime errorminus="0.0032200" errorplus="0.0032200">2455192.6276</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-305 d</name>
@@ -54,13 +60,14 @@
 			<name>KIC 5219234 d</name>
 			<name>KIC 5219234.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03736" errorplus="0.03736">0.24696</radius>
-			<period errorminus=".000145" errorplus="0.000145">16.738661</period>
+			<radius errorminus="0.037" errorplus="0.037">0.242</radius>
+			<period errorminus="0.00014500" errorplus="0.00014500">16.73866100</period>
+			<semimajoraxis>0.121000</semimajoraxis>
 			<description>Kepler-305 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-305 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0035800" errorplus="0.0035800">2455192.4160800</transittime>
+			<transittime errorminus=".003580" errorplus="0.003580" unit="BJD">2455192.416080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

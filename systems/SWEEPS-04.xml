@@ -1,0 +1,48 @@
+<system>
+	<name>SWEEPS-04</name>
+	<name>SWEEPS-4</name>
+	<rightascension>17 58 53</rightascension>
+	<declination>-29 11 20</declination>
+	<distance>8500.00</distance>
+	<star>
+		<name>SWEEPS-4</name>
+		<name>SWEEPS J175853.92-291120.6</name>
+		<mass>1.24</mass>
+		<radius>1.18</radius>
+		<magV>18.800</magV>
+		<magI>17.70</magI>
+		<planet>
+			<name>SWEEPS-4</name>
+			<name>SWEEPS-04</name>
+			<name>SWEEPS-4 b</name>
+			<name>SWEEPS J175853.92-291120.6 b</name>
+			<list>Confirmed planets</list>
+			<mass type="Mass">3.80000</mass>
+			<radius errorminus="0.100" errorplus="0.100">0.810</radius>
+			<period>4.20000000</period>
+			<semimajoraxis>0.055000</semimajoraxis>
+			<inclination>87</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>SWEEPS-04</name>
+		<mass>1.24</mass>
+		<radius>1.18</radius>
+		<magV>18.8</magV>
+		<planet>
+			<name>SWEEPS-04</name>
+			<mass errorminus="inf" errorplus="nan">3.8</mass>
+			<radius errorminus="0.1" errorplus="0.1">0.81</radius>
+			<period>4.2</period>
+			<semimajoraxis>0.055</semimajoraxis>
+			<inclination errorminus="nan" errorplus="inf">87.0</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+</system>

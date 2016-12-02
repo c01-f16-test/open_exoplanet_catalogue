@@ -1,7 +1,7 @@
 <system>
 	<name>HD 233604</name>
-	<rightascension>09 09 48.8205</rightascension>
-	<declination>+53 34 05.623</declination>
+	<rightascension>09 09 48</rightascension>
+	<declination>+53 34 05</declination>
 	<star>
 		<name>HD 233604</name>
 		<name>TYC 3805-193-1</name>
@@ -9,28 +9,29 @@
 		<name>BD+15 2940</name>
 		<name>2MASS J16002294+1532491</name>
 		<mass errorminus="0.30" errorplus="0.30">1.50</mass>
-		<radius errorminus="0.6" errorplus="0.6">10.9</radius>
-		<magV errorminus="0.05" errorplus="0.05">10.29</magV>
+		<radius errorminus="0.60" errorplus="0.60">10.90</radius>
+		<magV errorminus="0.049" errorplus="0.049">10.406</magV>
 		<magB errorminus="0.09" errorplus="0.09">11.33</magB>
-		<magJ errorminus="0.046" errorplus="0.046">8.660</magJ>
-		<magH errorminus="0.018" errorplus="0.018">8.131</magH>
-		<magK errorminus="0.021" errorplus="0.021">7.979</magK>
-		<temperature errorminus="45" errorplus="45">4791</temperature>
-		<age errorminus="1.8" errorplus="1.8">2.4</age>
-		<metallicity errorminus="0.04" errorplus="0.04">-0.36</metallicity>
+		<magJ errorminus="0.043" errorplus="0.043">8.660</magJ>
+		<magH errorminus="0.011" errorplus="0.011">8.131</magH>
+		<magK errorminus="0.015" errorplus="0.015">7.979</magK>
+		<temperature errorminus="45.00" errorplus="45.00">4791.00</temperature>
+		<age errorminus="1.800" errorplus="1.800">2.400</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.360</metallicity>
 		<spectraltype>K5</spectraltype>
 		<planet>
 			<name>HD 233604 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">6.575</mass>
-			<period errorminus="0.22" errorplus="0.22">192.00</period>
-			<semimajoraxis>0.747</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.05</eccentricity>
-			<periastron errorminus="43" errorplus="43">281</periastron>
-			<periastrontime errorminus="77" errorplus="77">2453022</periastrontime>
+			<mass type="Msini">6.57500</mass>
+			<period errorminus="0.22000000" errorplus="0.22000000">192.00000000</period>
+			<semimajoraxis>0.747000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.050000</eccentricity>
+			<periastron errorminus="43.0000" errorplus="43.0000">281.0000</periastron>
+			<periastrontime errorminus="77.000000" errorplus="77.000000">2453022.000000</periastrontime>
+			<maximumrvtime errorminus="77.000000" errorplus="77.000000">2453022.000000</maximumrvtime>
 			<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abundance which may be either a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

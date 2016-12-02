@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2010-BLG-328L</name>
+	<rightascension>17 57 59</rightascension>
+	<declination>-30 42 54</declination>
+	<distance errorminus="100.00" errorplus="100.00">810.00</distance>
+	<star>
+		<name>MOA 2010-BLG-328L</name>
+		<mass errorminus="0.01" errorplus="0.01">0.11</mass>
+		<planet>
+			<name>MOA 2010-BLG-328L b</name>
+			<mass errorminus="0.00692" errorplus="0.00692" type="Mass">0.02895</mass>
+			<semimajoraxis errorminus="0.160000" errorplus="0.160000">0.920000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

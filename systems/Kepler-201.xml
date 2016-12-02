@@ -9,12 +9,14 @@
 		<name>Kepler-201</name>
 		<name>KOI-655</name>
 		<name>KIC 5966154</name>
-		<mass errorminus="0.0510" errorplus="0.0510">1.1770</mass>
-		<radius errorminus=".240" errorplus="0.240">1.229</radius>
+		<mass errorminus="0.0510" errorplus="0.0510">1.17</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.23</radius>
+		<magV>13.004</magV>
 		<magJ errorminus="0.020" errorplus="0.020">12.037</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.784</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.737</magK>
-		<temperature errorminus="17" errorplus="117">6065</temperature>
+		<temperature errorminus="117.00" errorplus="117.00">6065.00</temperature>
+		<metallicity>-0.279</metallicity>
 		<planet>
 			<name>Kepler-201 b</name>
 			<name>KOI-655 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5966154 b</name>
 			<name>KIC 5966154.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04374" errorplus="0.04374">0.22418</radius>
-			<period errorminus=".000075" errorplus="0.000075">25.672083</period>
+			<radius errorminus="0.043" errorplus="0.043">0.219</radius>
+			<period errorminus="0.00007500" errorplus="0.00007500">25.67208300</period>
+			<semimajoraxis>0.175000</semimajoraxis>
 			<description>Kepler-201 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-201 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016900" errorplus="0.0016900">2455025.0970500</transittime>
+			<transittime errorminus=".001690" errorplus="0.001690" unit="BJD">2455025.097050</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5966154 c</name>
 			<name>KIC 5966154.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
-			<period errorminus=".002014" errorplus="0.002014">151.884058</period>
+			<radius errorminus="0.054" errorplus="0.054">0.254</radius>
+			<period errorminus="0.00201400" errorplus="0.00201400">151.88405800</period>
+			<semimajoraxis>0.573000</semimajoraxis>
 			<description>Kepler-201 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-201 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0079400" errorplus="0.0079400">2455009.4181600</transittime>
+			<transittime errorminus=".007940" errorplus="0.007940" unit="BJD">2455009.418160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

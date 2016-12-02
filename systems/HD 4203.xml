@@ -2,19 +2,20 @@
 	<name>HD 4203</name>
 	<rightascension>00 44 41</rightascension>
 	<declination>+20 26 56</declination>
-	<distance errorminus="8.53" errorplus="7">77.82</distance>
+	<distance errorminus="8.53" errorplus="7.00">77.82</distance>
 	<star>
 		<name>HD 4203</name>
 		<mass>1.13</mass>
 		<radius>1.33</radius>
-		<magV>8.68</magV>
-		<magB errorminus="0.026" errorplus="0.026">9.444</magB>
+		<magV errorminus="0.017" errorplus="0.017">8.687</magV>
+		<magB errorminus="0.026" errorplus="0.026">9.445</magB>
 		<magR>8.2</magR>
 		<magI>7.9</magI>
-		<magJ>7.39</magJ>
-		<magH>7.11</magH>
-		<magK>7.05</magK>
-		<temperature>5702.0</temperature>
+		<magJ errorminus="0.023" errorplus="0.023">7.389</magJ>
+		<magH errorminus="0.021" errorplus="0.021">7.115</magH>
+		<magK errorminus="0.029" errorplus="0.029">7.047</magK>
+		<temperature>5702.00</temperature>
+		<age>9.41</age>
 		<metallicity>0.453</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
@@ -25,13 +26,16 @@
 			<name>HIP 3502 b</name>
 			<name>2MASS J00444118+2026563 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05">1.82</mass>
-			<period errorminus="0.27" errorplus="0.27">437.05</period>
-			<semimajoraxis errorminus="0.0222" errorplus="0.0222">1.1735</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.52</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">1.82000</mass>
+			<period errorminus="0.27000000" errorplus="0.27000000">437.05000000</period>
+			<semimajoraxis errorminus="0.022200" errorplus="0.022200">1.173500</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.520000</eccentricity>
+			<periastron errorminus="2.9000" errorplus="2.9000">328.0300</periastron>
+			<periastrontime errorminus="2.380000" errorplus="2.380000">2451911.520000</periastrontime>
+			<maximumrvtime errorminus="2.380000" errorplus="2.380000">2451911.520000</maximumrvtime>
 			<temperature>263.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 		</planet>
 		<planet>
@@ -42,12 +46,15 @@
 			<name>HIP 3502 c</name>
 			<name>2MASS J00444118+2026563 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.52" errorplus="0.52">2.17</mass>
-			<period errorminus="4500" errorplus="4500">6700</period>
-			<semimajoraxis errorminus="0.56" errorplus="1.93">6.95</semimajoraxis>
-			<eccentricity errorminus="0.13" errorplus="0.13">0.24</eccentricity>
+			<mass errorminus="0.52000" errorplus="0.52000" type="Msini">2.17000</mass>
+			<period errorminus="4500.00000000" errorplus="4500.00000000">6700.00000000</period>
+			<semimajoraxis errorminus="0.560000" errorplus="1.930000">6.950000</semimajoraxis>
+			<eccentricity errorminus="0.130000" errorplus="0.130000">0.240000</eccentricity>
+			<periastron errorminus="48.8000" errorplus="48.8000">224.0000</periastron>
+			<periastrontime errorminus="9600.000000" errorplus="9600.000000">2456000.000000</periastrontime>
+			<maximumrvtime errorminus="9600.000000" errorplus="9600.000000">2456000.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/03/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

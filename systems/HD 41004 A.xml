@@ -1,0 +1,54 @@
+<system>
+	<name>HD 41004 A</name>
+	<name>HD 41004</name>
+	<rightascension>05 59 49</rightascension>
+	<declination>-48 14 22</declination>
+	<distance errorminus="1.98" errorplus="1.81">43.03</distance>
+	<binary>
+		<semimajoraxis>21.51</semimajoraxis>
+		<star>
+			<name>HD 41004 A</name>
+			<mass>0.70</mass>
+			<magV>8.650</magV>
+			<magB>9.537</magB>
+			<magR>8.6</magR>
+			<magJ errorminus="0.025" errorplus="0.025">7.004</magJ>
+			<magH errorminus="0.031" errorplus="0.031">6.549</magH>
+			<magK errorminus="0.036" errorplus="0.036">6.428</magK>
+			<temperature>5010.00</temperature>
+			<age>1.600</age>
+			<metallicity errorminus="0.100" errorplus="0.100">-0.090</metallicity>
+			<spectraltype>K1/K2 V</spectraltype>
+			<planet>
+				<name>HD 41004 A b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.74000" errorplus="0.74000" type="Msini">2.54000</mass>
+				<period errorminus="38.00000000" errorplus="38.00000000">963.00000000</period>
+				<semimajoraxis>1.64</semimajoraxis>
+				<eccentricity errorminus="0.200000" errorplus="0.200000">0.740000</eccentricity>
+				<periastron errorminus="31.0000" errorplus="31.0000">97.0000</periastron>
+				<periastrontime errorminus="37.000000" errorplus="37.000000">2452425.000000</periastrontime>
+				<maximumrvtime errorminus="37.000000" errorplus="37.000000">2452425.000000</maximumrvtime>
+				<temperature>174.8</temperature>
+				<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2004</discoveryyear>
+			</planet>
+		</star>
+		<binary>
+			<period>1.32</period>
+			<eccentricity>0.081</eccentricity>
+			<star>
+				<name>HD 41004 B</name>
+				<mass>0.7</mass>
+				<spectraltype>K1V</spectraltype>
+			</star>
+			<star>
+				<name>HD 41004 B b</name>
+				<mass>0.0181410</mass>
+			</star>
+		</binary>
+	</binary>
+</system>

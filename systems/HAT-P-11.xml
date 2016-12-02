@@ -2,23 +2,24 @@
 	<name>HAT-P-11</name>
 	<rightascension>19 50 50</rightascension>
 	<declination>+48 04 51</declination>
-	<distance>38</distance>
+	<distance errorminus="1.30" errorplus="1.30">38.00</distance>
 	<star>
 		<name>HAT-P-11</name>
 		<name>Kepler-3</name>
 		<name>KOI-3</name>
 		<name>KIC 10748390</name>
-		<mass>0.81</mass>
-		<radius>0.75</radius>
-		<magV errorminus="0.02" errorplus="0.02">9.47</magV>
-		<magB errorminus="0.05" errorplus="0.05">10.66</magB>
+		<mass errorminus="0.03" errorplus="0.02">0.81</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.75</radius>
+		<magV errorminus="0.024" errorplus="0.024">9.472</magV>
+		<magB errorminus="0.049" errorplus="0.049">10.659</magB>
 		<magR>8.8</magR>
 		<magI>8.2</magI>
 		<magJ errorminus="0.029" errorplus="0.029">7.608</magJ>
 		<magH errorminus="0.021" errorplus="0.021">7.131</magH>
 		<magK errorminus="0.020" errorplus="0.020">7.009</magK>
-		<temperature>4780.0</temperature>
-		<metallicity>0.31</metallicity>
+		<temperature errorminus="50.00" errorplus="50.00">4780.00</temperature>
+		<age errorminus="4.100" errorplus="5.900">6.500</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.310</metallicity>
 		<spectraltype>K4</spectraltype>
 		<planet>
 			<name>HAT-P-11 b</name>
@@ -31,19 +32,20 @@
 			<name>KOI-3.01</name>
 			<name>KOI-3 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.081</mass>
-			<radius>0.452</radius>
-			<period>4.887804</period>
-			<semimajoraxis>0.053</semimajoraxis>
-			<eccentricity>0.198</eccentricity>
-			<inclination>88.5</inclination>
-			<temperature>790.9</temperature>
+			<mass errorminus="0.00900" errorplus="0.00900" type="Mass">0.08100</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.422</radius>
+			<period errorminus="0.00000710" errorplus="0.00000710">4.88781620</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000200">0.053000</semimajoraxis>
+			<eccentricity errorminus="0.046000" errorplus="0.046000">0.198000</eccentricity>
+			<periastron errorminus="17.3000" errorplus="17.3000">355.2000</periastron>
+			<inclination errorminus="0.600" errorplus="0.600">88.500</inclination>
+			<temperature errorminus="15" errorplus="15">878</temperature>
 			<description>The star HAT-P-11b is located in the constellation Cygnus. The planetary companion HAT-P-11b is in the field of view of the Kepler spacecraft. The expected temperature is 878K. The planets orbit is highly inclined.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00032" errorplus="0.00032" unit="BJD">2454605.89132</transittime>
+			<transittime errorminus=".000320" errorplus="0.000320" unit="BJD">2454605.891320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

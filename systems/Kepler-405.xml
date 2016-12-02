@@ -10,11 +10,13 @@
 		<name>KOI-3057</name>
 		<name>KIC 3234843</name>
 		<mass errorminus="0.3000" errorplus="0.3000">1.0200</mass>
-		<radius errorminus=".425" errorplus="0.425">0.893</radius>
+		<radius errorminus="0.42" errorplus="0.42">0.89</radius>
+		<magV>15.855</magV>
 		<magJ errorminus="0.030" errorplus="0.030">14.543</magJ>
 		<magH errorminus="0.039" errorplus="0.039">14.172</magH>
 		<magK errorminus="0.067" errorplus="0.067">14.056</magK>
-		<temperature errorminus="50" errorplus="250">5818</temperature>
+		<temperature errorminus="250.00" errorplus="250.00">5818.00</temperature>
+		<metallicity>-0.131</metallicity>
 		<planet>
 			<name>Kepler-405 c</name>
 			<name>KOI-3057 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3234843 c</name>
 			<name>KIC 3234843.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.60602" errorplus="2.42862">0.42467</radius>
-			<period errorminus=".011477" errorplus="0.011477">29.726682</period>
+			<radius errorminus="2.378" errorplus="2.378">0.416</radius>
+			<period errorminus="0.01147700" errorplus="0.01147700">29.72668200</period>
+			<semimajoraxis>0.188000</semimajoraxis>
 			<description>Kepler-405 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-405 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.4009700" errorplus="0.4009700">2456560.2039800</transittime>
+			<transittime errorminus=".400970" errorplus="0.400970" unit="BJD">2456560.203980</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 3234843 b</name>
 			<name>KIC 3234843.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.09022" errorplus="0.09022">0.18955</radius>
-			<period errorminus=".000111" errorplus="0.000111">10.613839</period>
+			<radius errorminus="0.088" errorplus="0.088">0.186</radius>
+			<period errorminus="0.00011100" errorplus="0.00011100">10.61383900</period>
+			<semimajoraxis>0.095000</semimajoraxis>
 			<description>Kepler-405 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-405 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0045400" errorplus="0.0045400">2455196.7367600</transittime>
+			<transittime errorminus=".004540" errorplus="0.004540" unit="BJD">2455196.736760</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

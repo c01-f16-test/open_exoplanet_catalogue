@@ -1,8 +1,8 @@
 <system>
 	<name>Kepler-21</name>
-	<rightascension>19 09 26.83535</rightascension>
-	<declination>+38 42 50.4593</declination>
-	<distance errorminus="7.4" errorplus="7.4">112.9</distance>
+	<rightascension>19 09 26</rightascension>
+	<declination>+38 42 50</declination>
+	<distance errorminus="7.00" errorplus="7.00">113.00</distance>
 	<binary>
 		<name>Kepler-21</name>
 		<name>KOI-975</name>
@@ -56,7 +56,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>16/01/22</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 			</planet>
 		</star>
@@ -69,4 +69,91 @@
 			<mass errorminus="0.32" errorplus="0.14">0.42</mass>
 		</star>
 	</binary>
+	<star>
+		<name>Kepler-21 A</name>
+		<name>KOI-975 A</name>
+		<name>KIC 3632418 A</name>
+		<name>HIP 94112</name>
+		<name>TYC 3120-963-1</name>
+		<name>SAO 67891</name>
+		<name>BD+38 3455 A</name>
+		<name>2MASS J19092683+3842505</name>
+		<mass errorminus="0.010" errorplus="0.010">1.340</mass>
+		<radius errorminus="0.020" errorplus="0.020">1.860</radius>
+		<magV errorminus="0.01" errorplus="0.01">8.25</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.767</magB>
+		<magR errorminus="0.07" errorplus="0.07">8.00</magR>
+		<magJ errorminus="0.03" errorplus="0.03">7.23</magJ>
+		<magH errorminus="0.023" errorplus="0.023">7.031</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.945</magK>
+		<temperature errorminus="44" errorplus="44">6131</temperature>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.15</metallicity>
+		<spectraltype>F6IV</spectraltype>
+		<planet>
+			<name>Kepler-21 b</name>
+			<name>Kepler-21 A b</name>
+			<name>HIP 94112 b</name>
+			<name>TYC 3120-00963-1 b</name>
+			<name>HD 179070 b</name>
+			<name>HD 179070 A b</name>
+			<name>BD+38 3455 A b</name>
+			<name>SAO 67891 b</name>
+			<name>2MASS J19092683+3842505 b</name>
+			<name>KIC 3632418 b</name>
+			<name>KOI-975.01</name>
+			<name>KOI-975 b</name>
+			<name>KOI-975 A b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.0038" errorplus="0.0034">0.1456</radius>
+			<period errorminus="0.000034" errorplus="0.000031">2.785755</period>
+			<semimajoraxis errorminus="0.000119" errorplus="0.000098">0.042509</semimajoraxis>
+			<inclination errorminus="0.31" errorplus="0.28">82.59</inclination>
+			<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Kepler-21 B</name>
+		<name>KOI-975 B</name>
+		<name>KIC 3632418 A</name>
+		<name>HD 179070 B</name>
+		<name>BD+38 3455 B</name>
+		<mass errorminus="0.32" errorplus="0.14">0.42</mass>
+	</star>
+	<star>
+		<name>Kepler-21</name>
+		<mass errorminus="0.03" errorplus="0.02">1.41</mass>
+		<radius errorminus="0.01" errorplus="0.02">1.90</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.250</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.768</magB>
+		<magJ errorminus="0.032" errorplus="0.032">7.229</magJ>
+		<magH errorminus="0.022" errorplus="0.022">7.031</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.945</magK>
+		<temperature errorminus="50.00" errorplus="50.00">6305.00</temperature>
+		<age errorminus="0.350" errorplus="0.350">3.030</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.030</metallicity>
+		<spectraltype>F6 IV</spectraltype>
+		<planet>
+			<name>Kepler-21 b</name>
+			<mass errorminus="0.00541" errorplus="0.00541" type="Mass">0.01598</mass>
+			<radius errorminus="0.001" errorplus="0.002">0.146</radius>
+			<period errorminus="0.00003000" errorplus="0.00003000">2.78578000</period>
+			<semimajoraxis errorminus="0.000000" errorplus="0.000000">0.042717</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.020000</eccentricity>
+			<periastron errorminus="79.0000" errorplus="79.0000">-15.0000</periastron>
+			<periastrontime errorminus="0.700000" errorplus="0.700000">2456797.900000</periastrontime>
+			<maximumrvtime errorminus="0.700000" errorplus="0.700000">2456797.900000</maximumrvtime>
+			<inclination errorminus="0.260" errorplus="0.280">83.200</inclination>
+			<temperature errorminus="20" errorplus="20">2025</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000100" errorplus="0.000100" unit="BJD">2456798.718800</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
 </system>

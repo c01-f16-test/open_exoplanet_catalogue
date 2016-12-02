@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE-2011-BLG-0420L</name>
+	<declination>-29 49 29</declination>
+	<star>
+		<name>OGLE-2011-BLG-0420L</name>
+		<mass errorminus="0.001" errorplus="0.001">0.025</mass>
+		<magV>14.7</magV>
+		<planet>
+			<name>OGLE-2011-BLG-0420L b</name>
+			<mass errorminus="0.5" errorplus="0.5">9.4</mass>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.19</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

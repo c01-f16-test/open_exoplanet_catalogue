@@ -1,0 +1,33 @@
+<system>
+	<name>NN Ser (AB)</name>
+	<declination>+12 54 47</declination>
+	<star>
+		<name>NN Ser (AB)</name>
+		<mass>0.646</mass>
+		<magV>16.6</magV>
+		<spectraltype>WD+M</spectraltype>
+		<planet>
+			<name>NN Ser (AB) c</name>
+			<mass errorminus="0.54" errorplus="0.54">6.91</mass>
+			<period errorminus="165.0" errorplus="165.0">5660.0</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">5.38</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+		<planet>
+			<name>NN Ser (AB) d</name>
+			<mass errorminus="0.38" errorplus="0.38">2.28</mass>
+			<period errorminus="130.0" errorplus="130.0">2830.0</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">3.39</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.2</eccentricity>
+			<periastron errorminus="4.0" errorplus="4.0">74.0</periastron>
+			<periastrontime>2454515.0</periastrontime>
+			<maximumrvtime>2454515.0</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,51 @@
+<system>
+	<name>WASP-85 A</name>
+	<name>WASP-85</name>
+	<rightascension>11 43 38</rightascension>
+	<declination>+06 33 49</declination>
+	<distance errorminus="80" errorplus="80">128</distance>
+	<binary>
+		<separation unit="arcsec">1.48</separation>
+		<positionangle>99.6</positionangle>
+		<star>
+			<name>WASP-85 A</name>
+			<mass errorminus="0.08" errorplus="0.08">1.09</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.94</radius>
+			<magV errorminus="0.076" errorplus="0.076">10.720</magV>
+			<magB errorminus="0.091" errorplus="0.091">11.427</magB>
+			<magJ errorminus="0.033" errorplus="0.033">9.275</magJ>
+			<magH errorminus="0.036" errorplus="0.036">8.925</magH>
+			<magK errorminus="0.026" errorplus="0.026">8.733</magK>
+			<temperature errorminus="27.00" errorplus="27.00">6112.00</temperature>
+			<metallicity errorminus="0.10" errorplus="0.10">0.08</metallicity>
+			<spectraltype>G5 V</spectraltype>
+			<planet>
+				<name>WASP-85 A b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.06500" errorplus="0.06500" type="Mass">1.26500</mass>
+				<radius errorminus="0.030" errorplus="0.030">1.240</radius>
+				<period errorminus="0.00000044" errorplus="0.00000044">2.65567770</period>
+				<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.039000</semimajoraxis>
+				<eccentricity>0.000000</eccentricity>
+				<inclination errorminus="0.030" errorplus="0.110">89.690</inclination>
+				<temperature errorminus="6" errorplus="6">1452</temperature>
+				<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1. The star has starspots which are occulted by the planet, indicating that the orbit is misaligned with the stellar equator.</description>
+				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus=".000014" errorplus="0.000014" unit="BJD">2456847.472856</transittime>
+				<istransiting>1</istransiting>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2016</discoveryyear>
+			</planet>
+		</star>
+		<star>
+			<name>WASP-85 B</name>
+			<mass errorminus="0.07" errorplus="0.07">0.88</mass>
+			<radius errorminus="0.13" errorplus="0.13">0.77</radius>
+			<magV>11.9</magV>
+			<temperature errorminus="90" errorplus="90">5250</temperature>
+			<metallicity errorminus="0.15" errorplus="0.15">0.0</metallicity>
+			<spectraltype>K0</spectraltype>
+		</star>
+	</binary>
+</system>

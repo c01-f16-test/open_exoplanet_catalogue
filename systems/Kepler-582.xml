@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-582</name>
-	<rightascension>19 50 01</rightascension>
+	<rightascension>19 50 00</rightascension>
 	<declination>+41 03 25</declination>
+	<distance errorminus="77.05" errorplus="117.55">751.00</distance>
 	<star>
 		<name>Kepler-582</name>
 		<mass errorminus="0.07" errorplus="0.07">0.93</mass>
 		<radius errorminus="0.08" errorplus="0.13">0.91</radius>
-		<temperature errorminus="211.7" errorplus="218.2">5564.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<magV>14.915</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.467</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.034</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.992</magK>
+		<temperature errorminus="211.72" errorplus="218.22">5564.00</temperature>
+		<age errorminus="2.740" errorplus="4.740">4.470</age>
+		<metallicity errorminus="0.165" errorplus="0.140">0.010</metallicity>
 		<planet>
 			<name>Kepler-582 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.030" errorplus="0.049">0.328</radius>
-			<period errorminus="0.000024870" errorplus="0.000024870">18.492356680</period>
+			<period errorminus="0.00002487" errorplus="0.00002487">18.49235668</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001040" errorplus="0.001040" unit="JD">2455006.498960</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

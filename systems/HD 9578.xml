@@ -1,7 +1,7 @@
 <system>
 	<name>HD 9578</name>
 	<rightascension>01 33 17</rightascension>
-	<declination>-38 14 42</declination>
+	<declination>-38 14 41</declination>
 	<distance>57.24</distance>
 	<star>
 		<name>HD 9578</name>
@@ -18,9 +18,9 @@
 			<name>HD 9578 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.62</mass>
-			<period>494</period>
+			<period>494.0</period>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

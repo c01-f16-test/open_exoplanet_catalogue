@@ -2,29 +2,33 @@
 	<name>HD 30177</name>
 	<rightascension>04 41 54</rightascension>
 	<declination>-58 01 14</declination>
-	<distance>55</distance>
+	<distance errorminus="2.41" errorplus="2.21">54.71</distance>
 	<star>
 		<name>HD 30177</name>
-		<mass>0.95</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.01</mass>
 		<radius>1.12</radius>
-		<magV>8.41</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.18</magB>
-		<magJ errorminus="0.035" errorplus="0.035">7.15</magJ>
+		<magV errorminus="0.013" errorplus="0.013">8.374</magV>
+		<magB errorminus="0.019" errorplus="0.019">9.180</magB>
+		<magJ errorminus="0.035" errorplus="0.035">7.150</magJ>
 		<magH errorminus="0.053" errorplus="0.053">6.829</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.715</magK>
-		<temperature>5320.0</temperature>
-		<metallicity>0.19</metallicity>
+		<temperature errorminus="20.0" errorplus="20.0">5588.00</temperature>
+		<age>8.4</age>
+		<metallicity errorminus="0.09" errorplus="0.09">0.390</metallicity>
 		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 30177 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.7</mass>
-			<period>1620</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<mass errorminus="0.88000" errorplus="0.88000" type="Msini">10.45000</mass>
+			<period errorminus="100.00000000" errorplus="100.00000000">2770.00000000</period>
+			<semimajoraxis errorminus="0.260000" errorplus="0.260000">3.950000</semimajoraxis>
+			<eccentricity errorminus="0.025000" errorplus="0.025000">0.193000</eccentricity>
+			<periastron errorminus="15.0000" errorplus="15.0000">34.0000</periastron>
+			<periastrontime errorminus="72.000000" errorplus="72.000000">2451437.000000</periastrontime>
+			<maximumrvtime errorminus="72.000000" errorplus="72.000000">2451437.000000</maximumrvtime>
 			<temperature>153.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

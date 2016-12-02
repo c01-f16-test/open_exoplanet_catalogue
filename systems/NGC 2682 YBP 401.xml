@@ -1,0 +1,27 @@
+<system>
+	<name>NGC 2682 YBP 401</name>
+	<rightascension>08 51 19</rightascension>
+	<declination>+11 40 15</declination>
+	<star>
+		<name>NGC 2682 YBP 401</name>
+		<mass errorminus="0.02" errorplus="0.02">1.14</mass>
+		<magV>13.700</magV>
+		<magJ errorminus="0.018" errorplus="0.018">12.638</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.376</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.337</magK>
+		<temperature errorminus="64.00" errorplus="64.00">6165.00</temperature>
+		<spectraltype>F9 V</spectraltype>
+		<planet>
+			<name>NGC 2682 YBP 401 b</name>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">0.46000</mass>
+			<period errorminus="0.00700000" errorplus="0.00700000">4.08700000</period>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.150000</eccentricity>
+			<periastron errorminus="25.6800" errorplus="25.6800">330.1700</periastron>
+			<periastrontime errorminus="0.500000" errorplus="0.500000">2455974.300000</periastrontime>
+			<maximumrvtime errorminus="0.500000" errorplus="0.500000">2455974.300000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

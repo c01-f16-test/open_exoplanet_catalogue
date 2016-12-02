@@ -9,30 +9,31 @@
 		<mass errorminus="0.09" errorplus="0.09">1.06</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.05</radius>
 		<magV>12.2</magV>
-		<magJ errorminus="0.025" errorplus="0.025">11.267</magJ>
-		<magH errorminus="0.023" errorplus="0.023">10.936</magH>
-		<magK errorminus="0.024" errorplus="0.024">10.914</magK>
-		<temperature errorminus="140" errorplus="140">5540</temperature>
-		<age>8</age>
-		<metallicity errorminus="0.19" errorplus="0.19">0.14</metallicity>
+		<magJ errorminus="0.022" errorplus="0.022">11.267</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.936</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.914</magK>
+		<temperature errorminus="140.00" errorplus="140.00">5540.00</temperature>
+		<age errorminus="8.000" errorplus="26.000">8.000</age>
+		<metallicity errorminus="0.190" errorplus="0.190">0.140</metallicity>
 		<spectraltype>G8</spectraltype>
 		<planet>
 			<name>WASP-96 b</name>
 			<name>1SWASP J000411.14-472138.2 b</name>
 			<name>2MASS 00041112-4721382 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
-			<radius errorminus="0.06" errorplus="0.06">1.2</radius>
-			<period errorminus="0.0000027" errorplus="0.0000027">3.4252602</period>
-			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0453</semimajoraxis>
-			<inclination errorminus="0.2" errorplus="0.2">85.6</inclination>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Mass">0.48000</mass>
+			<radius errorminus="0.060" errorplus="0.060">1.200</radius>
+			<period errorminus="0.00000270" errorplus="0.00000270">3.42526020</period>
+			<semimajoraxis errorminus="0.001300" errorplus="0.001300">0.045300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">85.600</inclination>
 			<temperature errorminus="40" errorplus="40">1285</temperature>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456258.0621</transittime>
+			<transittime errorminus=".000200" errorplus="0.000200" unit="HJD-UTC">2456258.062100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/10/22</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

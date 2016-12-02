@@ -1,31 +1,35 @@
 <system>
 	<name>HD 156279</name>
 	<rightascension>17 12 23</rightascension>
-	<declination>+63 21 08</declination>
-	<distance>36.6</distance>
+	<declination>+63 21 07</declination>
+	<distance errorminus="0.79" errorplus="0.76">35.37</distance>
 	<star>
 		<name>HD 156279</name>
-		<mass>0.93</mass>
-		<magV>8.08</magV>
-		<magB errorminus="0.018" errorplus="0.018">8.879</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
+		<magV>8.100</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.880</magB>
 		<magR>7.6</magR>
 		<magI>7.2</magI>
 		<magJ errorminus="0.018" errorplus="0.018">6.677</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.346</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.269</magK>
-		<temperature>5453.0</temperature>
-		<metallicity>0.14</metallicity>
-		<spectraltype>K0</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.269</magK>
+		<temperature errorminus="40.00" errorplus="40.00">5453.00</temperature>
+		<age errorminus="3.700" errorplus="3.600">4.100</age>
+		<metallicity errorminus="0.010" errorplus="0.010">0.140</metallicity>
+		<spectraltype>G6</spectraltype>
 		<planet>
 			<name>HD 156279 b</name>
 			<list>Confirmed planets</list>
-			<mass>9.71</mass>
-			<period>131.05</period>
-			<semimajoraxis>0.495</semimajoraxis>
-			<eccentricity>0.708</eccentricity>
+			<mass errorminus="0.66000" errorplus="0.66000" type="Msini">9.71000</mass>
+			<period errorminus="0.54000000" errorplus="0.54000000">131.05000000</period>
+			<semimajoraxis errorminus="0.017000" errorplus="0.017000">0.495000</semimajoraxis>
+			<eccentricity errorminus="0.018000" errorplus="0.018000">0.708000</eccentricity>
+			<periastron errorminus="1.7000" errorplus="1.7000">264.2000</periastron>
+			<periastrontime errorminus="0.180000" errorplus="0.180000">2455525.590000</periastrontime>
+			<maximumrvtime errorminus="0.180000" errorplus="0.180000">2455525.590000</maximumrvtime>
 			<temperature>327.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

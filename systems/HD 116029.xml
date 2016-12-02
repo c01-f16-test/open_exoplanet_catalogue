@@ -2,30 +2,34 @@
 	<name>HD 116029</name>
 	<rightascension>13 20 39</rightascension>
 	<declination>+24 38 55</declination>
-	<distance>123</distance>
+	<distance errorminus="13.45" errorplus="10.82">110.62</distance>
 	<star>
 		<name>HD 116029</name>
-		<mass>1.58</mass>
-		<radius>4.6</radius>
-		<magV>8.04</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.89</magB>
+		<mass errorminus="0.11" errorplus="0.11">1.58</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.60</radius>
+		<magV>8.040</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.898</magB>
 		<magJ errorminus="0.037" errorplus="0.037">6.144</magJ>
 		<magH errorminus="0.016" errorplus="0.016">5.650</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.534</magK>
-		<temperature>4951.0</temperature>
-		<metallicity>0.18</metallicity>
-		<spectraltype>K1</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">4951.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.700</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.180</metallicity>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 116029 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.1</mass>
-			<period>670.2</period>
-			<semimajoraxis>1.73</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000" type="Msini">2.10000</mass>
+			<period errorminus="11.00000000" errorplus="11.00000000">670.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.780000</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.054000</eccentricity>
+			<periastron errorminus="80.0000" errorplus="80.0000">40.0000</periastron>
+			<periastrontime errorminus="160.000000" errorplus="160.000000">2455220.000000</periastrontime>
+			<maximumrvtime errorminus="160.000000" errorplus="160.000000">2455220.000000</maximumrvtime>
 			<temperature>355.0</temperature>
 			<description>The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

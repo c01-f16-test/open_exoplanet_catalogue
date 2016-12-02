@@ -1,31 +1,35 @@
 <system>
 	<name>HD 18742</name>
-	<rightascension>03 00 10.656</rightascension>
-	<declination>-20 48 09.38</declination>
-	<distance>135</distance>
+	<rightascension>03 00 10</rightascension>
+	<declination>-20 48 09</declination>
+	<distance errorminus="20.05" errorplus="15.27">127.88</distance>
 	<star>
 		<name>HD 18742</name>
-		<mass>1.60</mass>
-		<radius>4.9</radius>
-		<magV>7.97</magV>
-		<magB errorminus="0.018" errorplus="0.018">8.740</magB>
+		<mass errorminus="0.11" errorplus="0.11">1.60</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.90</radius>
+		<magV>7.970</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.738</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.177</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.705</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.554</magK>
-		<temperature>5048.0</temperature>
-		<metallicity>-0.04</metallicity>
-		<spectraltype>K0</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5048.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.300</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.040</metallicity>
+		<spectraltype>G8/K0 IV</spectraltype>
 		<planet>
 			<name>HD 18742 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.7</mass>
-			<period>772</period>
-			<semimajoraxis>1.92</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Msini">2.70000</mass>
+			<period errorminus="11.00000000" errorplus="11.00000000">772.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.920000</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.120000</eccentricity>
+			<periastron errorminus="50.0000" errorplus="50.0000">107.0000</periastron>
+			<periastrontime errorminus="110.000000" errorplus="110.000000">2455200.000000</periastrontime>
+			<maximumrvtime errorminus="110.000000" errorplus="110.000000">2455200.000000</maximumrvtime>
 			<temperature>354.4</temperature>
 			<description>The star HD 18742 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/08/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

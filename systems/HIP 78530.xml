@@ -2,34 +2,33 @@
 	<name>HIP 78530</name>
 	<rightascension>16 01 55</rightascension>
 	<declination>-21 58 49</declination>
-	<distance errorminus="13.0" errorplus="13.0">156.7</distance>
+	<distance errorminus="13.00" errorplus="13.00">156.70</distance>
 	<star>
 		<name>HIP 78530</name>
-		<mass>2.5</mass>
-		<magV>7.18</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.27</magB>
+		<mass errorminus="0.0" errorplus="0.0">2.50</mass>
+		<magV errorminus="0.011" errorplus="0.011">7.192</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.269</magB>
 		<magR errorminus="0.21" errorplus="0.21">7.87</magR>
-		<magJ errorminus="0.021" errorplus="0.021">6.925</magJ>
-		<magH errorminus="0.029" errorplus="0.029">6.931</magH>
-		<magK errorminus="0.020" errorplus="0.020">6.900</magK>
-		<temperature>10500</temperature>
-		<age errorminus="2" errorplus="2">11</age>
-		<spectraltype>B9V</spectraltype>
+		<magJ errorminus="0.021" errorplus="0.021">6.928</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.946</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.903</magK>
+		<temperature errorminus="0.0" errorplus="0.0">10500.00</temperature>
+		<age errorminus="0.002" errorplus="0.002">0.005</age>
+		<spectraltype>B9 V</spectraltype>
 		<planet>
 			<name>HIP 78530 b</name>
 			<list>Confirmed planets</list>
 			<spectraltype errorminus="0.5" errorplus="0.5">M7β</spectraltype>
-			<mass errorminus="2" errorplus="2">24</mass>
-			<separation errorminus="0.003" errorplus="0.003" unit="arcsec">4.527</separation>
-			<separation errorminus="60" errorplus="60" unit="AU">740</separation>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Mass">23.00000</mass>
 			<positionangle errorminus="0.1" errorplus="0.1">140.30</positionangle>
 			<magJ errorminus="0.05" errorplus="0.05">15.21</magJ>
 			<magH errorminus="0.04" errorplus="0.04">14.55</magH>
 			<magK errorminus="0.04" errorplus="0.04">14.18</magK>
+			<semimajoraxis errorminus="60.000000" errorplus="60.000000">740.000000</semimajoraxis>
 			<temperature errorminus="100" errorplus="100">2700</temperature>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/06/10</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 			<image>HIP 78530</image>
 			<imagedescription>This image shows the star HIP 78530 with its companion in the lower left corner. The companion's mass is most likely too large to be a planet. Credit: David Lafreniere (University of Montreal).</imagedescription>
 		</planet>

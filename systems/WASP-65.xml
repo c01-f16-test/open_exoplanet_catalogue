@@ -1,38 +1,39 @@
 <system>
 	<name>WASP-65</name>
-	<rightascension>08 53 28</rightascension>
-	<declination>+08 31 23</declination>
-	<distance errorminus="50" errorplus="50">310</distance>
+	<rightascension>08 53 17</rightascension>
+	<declination>+08 31 22</declination>
+	<distance errorminus="50.00" errorplus="50.00">310.00</distance>
 	<star>
 		<name>WASP-65</name>
 		<name>1SWASP J085317.82+083122.8</name>
 		<mass errorminus="0.14" errorplus="0.14">0.93</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.01</radius>
-		<magV errorminus="0.04" errorplus="0.04">11.90</magV>
-		<magB errorminus="0.01" errorplus="0.01">12.57</magB>
-		<magJ errorminus="0.02" errorplus="0.02">10.67</magJ>
-		<magH errorminus="0.03" errorplus="0.03">10.44</magH>
-		<magK errorminus="0.02" errorplus="0.02">10.35</magK>
-		<temperature errorminus="100" errorplus="100">5600</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">-0.07</metallicity>
+		<magV errorminus="0.040" errorplus="0.040">11.900</magV>
+		<magB errorminus="0.010" errorplus="0.010">12.570</magB>
+		<magJ errorminus="0.019" errorplus="0.019">10.669</magJ>
+		<magH errorminus="0.031" errorplus="0.031">10.440</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.346</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5600.00</temperature>
+		<age>8.000</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.070</metallicity>
 		<spectraltype>G6</spectraltype>
 		<planet>
 			<name>WASP-65 b</name>
 			<name>1SWASP J085317.82+083122.8 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.16" errorplus="0.16">1.55</mass>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Mass">1.55000</mass>
 			<radius errorminus="0.059" errorplus="0.059">1.112</radius>
-			<period errorminus="0.0000015" errorplus="0.0000015">2.3114243</period>
-			<semimajoraxis errorminus="0.0017" errorplus="0.0016">0.0334</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.7" errorplus="0.8">88.8</inclination>
+			<period errorminus="0.00000150" errorplus="0.00000150">2.31142430</period>
+			<semimajoraxis errorminus="0.001700" errorplus="0.001600">0.033400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.700" errorplus="0.800">88.800</inclination>
 			<temperature errorminus="10" errorplus="10">1480</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. The scientific paper was published online in July 2013. The mean density of WASP-65 b is similar to that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000015" errorplus="0.000015">2456110.68772</transittime>
+			<transittime errorminus=".000150" errorplus="0.000150" unit="BJD-TDB">2456110.687720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/07/25</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

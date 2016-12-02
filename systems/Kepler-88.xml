@@ -1,0 +1,63 @@
+<system>
+	<name>Kepler-88</name>
+	<name>KOI-142</name>
+	<rightascension>19 24 35</rightascension>
+	<declination>+40 40 09</declination>
+	<distance errorminus="23.00" errorplus="25.00">339.00</distance>
+	<star>
+		<name>KOI-142</name>
+		<name>Kepler-88</name>
+		<name>KIC 5446285</name>
+		<mass errorminus="0.05" errorplus="0.04">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.03">0.88</radius>
+		<magV errorminus="0.160" errorplus="0.160">13.110</magV>
+		<magJ errorminus="0.020" errorplus="0.020">11.882</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.517</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.454</magK>
+		<temperature errorminus="50.00" errorplus="50.00">5471.00</temperature>
+		<age errorminus="2.000" errorplus="2.400">2.200</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.200</metallicity>
+		<spectraltype>G6 V</spectraltype>
+		<planet>
+			<name>KOI-142 b</name>
+			<name>KOI-142.01</name>
+			<name>Kepler-88 b</name>
+			<name>KIC 5446285 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00800" errorplus="0.00800" type="Mass">0.02700</mass>
+			<radius errorminus="0.032" errorplus="0.035">0.337</radius>
+			<period errorminus="0.00013000" errorplus="0.00011000">10.95416000</period>
+			<semimajoraxis>0.098</semimajoraxis>
+			<eccentricity errorminus="0.000310" errorplus="0.000470">0.055930</eccentricity>
+			<periastron errorminus="0.8100" errorplus="1.4500">90.5900</periastron>
+			<longitude>6.425</longitude>
+			<ascendingnode>270</ascendingnode>
+			<inclination errorminus="0.070" errorplus="0.074">89.055</inclination>
+			<temperature>791.0</temperature>
+			<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems. Note that the mass of the inner planet KOI-142 b is an upper limit.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0004700" errorplus="0.0004700" unit="BJD-UTC">2454954.627020</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-142 c</name>
+			<name>Kepler-88 c</name>
+			<name>KIC 5446285 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.03300" errorplus="0.02900" type="Mass">0.62600</mass>
+			<period errorminus="0.00170000" errorplus="0.00190000">22.33950000</period>
+			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.155250</semimajoraxis>
+			<eccentricity errorminus="0.002800" errorplus="0.001400">0.056280</eccentricity>
+			<periastron errorminus="0.9900" errorplus="1.8200">270.7600</periastron>
+			<longitude>253.0</longitude>
+			<ascendingnode>259</ascendingnode>
+			<inclination errorminus="1.600" errorplus="1.300">86.200</inclination>
+			<description>The planets in the KOI-142 have been confirmed using transit timing (TTV) and transit duration variations (TDV). The planets are just wide of the 2:1 mean motion resonance. It is often assumed that convergent migration locks planets in resonances. Then, multiple effects such as stochastic migration can move the planets slightly out of resonance. This is an important clue that might help scientists understand the formation of planetary systems.</description>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

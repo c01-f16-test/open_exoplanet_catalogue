@@ -1,0 +1,19 @@
+<system>
+	<name>TYC 9486-927-1</name>
+	<declination>-81 38 28</declination>
+	<star>
+		<name>TYC 9486-927-1</name>
+		<mass>0.4</mass>
+		<magV>9.0</magV>
+		<age errorminus="0.017" errorplus="0.017">0.027</age>
+		<spectraltype>M2</spectraltype>
+		<planet>
+			<name>2M J2126-81 b</name>
+			<mass errorminus="1.7" errorplus="1.7" type="Spectrum">13.3</mass>
+			<semimajoraxis>6900.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

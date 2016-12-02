@@ -1,0 +1,62 @@
+<system>
+	<name>OGLE 2006-BLG-109L</name>
+	<name>OGLE-06-109L</name>
+	<rightascension>17 52 34</rightascension>
+	<declination>-30 05 16</declination>
+	<distance errorminus="120.00" errorplus="110.00">1510.00</distance>
+	<star>
+		<name>OGLE-06-109L</name>
+		<mass>0.51</mass>
+		<temperature>5700.0</temperature>
+		<planet>
+			<name>OGLE-06-109L b</name>
+			<name>OGLE 2006-BLG-109L b</name>
+			<list>Confirmed planets</list>
+			<mass>0.727</mass>
+			<period>1790</period>
+			<semimajoraxis>2.3</semimajoraxis>
+			<inclination>64</inclination>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+		<planet>
+			<name>OGLE-06-109L c</name>
+			<name>OGLE 2006-BLG-109L c</name>
+			<list>Confirmed planets</list>
+			<mass>0.271</mass>
+			<period>4931</period>
+			<semimajoraxis>4.5</semimajoraxis>
+			<eccentricity>0.15</eccentricity>
+			<inclination>64</inclination>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>OGLE 2006-BLG-109L</name>
+		<mass errorminus="0.04" errorplus="0.05">0.51</mass>
+		<magH errorminus="0.050" errorplus="0.050">17.170</magH>
+		<planet>
+			<name>OGLE 2006-BLG-109L b</name>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Mass">0.73000</mass>
+			<period errorminus="547.50000000" errorplus="584.00000000">1788.50000000</period>
+			<semimajoraxis errorminus="0.500000" errorplus="0.500000">2.300000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+		<planet>
+			<name>OGLE 2006-BLG-109L c</name>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Mass">0.27000</mass>
+			<period errorminus="1752.00000000" errorplus="3540.50000000">4927.50000000</period>
+			<semimajoraxis errorminus="1.000000" errorplus="2.100000">4.500000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.170000">0.150000</eccentricity>
+			<inclination errorminus="7.000" errorplus="4.000">64.000</inclination>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

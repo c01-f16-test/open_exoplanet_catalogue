@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1158</name>
 	<rightascension>19 28 56</rightascension>
-	<declination>+41 34 31</declination>
+	<declination>+41 34 30</declination>
+	<distance errorminus="242.69" errorplus="238.25">1258.00</distance>
 	<star>
 		<name>Kepler-1158</name>
 		<mass errorminus="0.13" errorplus="0.13">1.41</mass>
 		<radius errorminus="0.38" errorplus="0.37">1.95</radius>
-		<temperature errorminus="81.1" errorplus="91.2">6203.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.18</metallicity>
+		<magV>13.628</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.548</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.352</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.271</magK>
+		<temperature errorminus="81.11" errorplus="91.16">6203.00</temperature>
+		<age errorminus="0.550" errorplus="0.550">2.880</age>
+		<metallicity errorminus="0.100" errorplus="0.096">0.180</metallicity>
 		<planet>
 			<name>Kepler-1158 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.041" errorplus="0.041">0.209</radius>
-			<period errorminus="0.000093290" errorplus="0.000093290">13.539629300</period>
+			<period errorminus="0.00009329" errorplus="0.00009329">13.53962930</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005170" errorplus="0.005170" unit="JD">2454976.151640</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,38 +1,40 @@
 <system>
 	<name>WASP-5</name>
-	<rightascension>23 57 24</rightascension>
-	<declination>-41 16 38</declination>
-	<distance>297</distance>
+	<rightascension>23 57 23</rightascension>
+	<declination>-41 16 37</declination>
+	<distance errorminus="50.00" errorplus="50.00">300.00</distance>
 	<star>
 		<name>WASP-5</name>
-		<mass>1</mass>
-		<radius>1.084</radius>
-		<magV>12.26</magV>
+		<mass errorminus="0.09" errorplus="0.13">0.96</mass>
+		<radius errorminus="0.07" errorplus="0.06">1.03</radius>
+		<magV>12.300</magV>
 		<magB errorminus="0.30" errorplus="0.30">12.71</magB>
 		<magR>11.82</magR>
 		<magI errorminus="0.03" errorplus="0.03">11.44</magI>
-		<magJ errorminus="0.022" errorplus="0.022">10.949</magJ>
+		<magJ errorminus="0.021" errorplus="0.021">10.949</magJ>
 		<magH errorminus="0.025" errorplus="0.025">10.650</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.598</magK>
-		<temperature>5700.0</temperature>
-		<metallicity>0.09</metallicity>
-		<spectraltype>G5</spectraltype>
+		<temperature errorminus="100.00" errorplus="100.00">5700.00</temperature>
+		<age errorminus="4.300" errorplus="4.400">5.400</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.090</metallicity>
+		<spectraltype>G4 V</spectraltype>
 		<planet>
 			<name>WASP-5 b</name>
 			<name>2MASS J23572375-4116377 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.637</mass>
-			<radius>1.171</radius>
-			<period>1.6284246</period>
-			<semimajoraxis>0.02729</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>85.8</inclination>
-			<temperature>1584.0</temperature>
+			<mass errorminus="0.10000" errorplus="0.13000" type="Mass">1.58000</mass>
+			<radius errorminus="0.071" errorplus="0.068">1.087</radius>
+			<period errorminus="0.00000490" errorplus="0.00000220">1.62842790</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.001200">0.026700</semimajoraxis>
+			<eccentricity errorminus="0.018000" errorplus="0.026000">0.038000</eccentricity>
+			<periastron errorminus="22.3500" errorplus="26.9300">34.3800</periastron>
+			<inclination errorminus="0.700" errorplus="2.800">86.900</inclination>
+			<temperature errorminus="48" errorplus="52">1706</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00019" errorplus="0.00019" unit="BJD">2454375.62510</transittime>
+			<transittime errorminus=".000190" errorplus="0.000250" unit="HJD">2454373.995980</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/11/29</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

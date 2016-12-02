@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1523</name>
-	<rightascension>19 44 13</rightascension>
+	<rightascension>19 44 12</rightascension>
 	<declination>+45 49 37</declination>
+	<distance errorminus="91.50" errorplus="157.55">918.00</distance>
 	<star>
 		<name>Kepler-1523</name>
 		<mass errorminus="0.06" errorplus="0.07">0.97</mass>
 		<radius errorminus="0.09" errorplus="0.16">0.96</radius>
-		<temperature errorminus="158.6" errorplus="150.0">5708.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.00</metallicity>
+		<magV>14.860</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.655</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.303</magH>
+		<magK errorminus="0.029" errorplus="0.029">13.182</magK>
+		<temperature errorminus="158.59" errorplus="150.00">5708.00</temperature>
+		<age errorminus="2.660" errorplus="3.800">4.370</age>
+		<metallicity errorminus="0.174" errorplus="0.142">0.000</metallicity>
 		<planet>
 			<name>Kepler-1523 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.024">0.141</radius>
-			<period errorminus="0.000001160" errorplus="0.000001160">0.938750770</period>
+			<period errorminus="0.00000116" errorplus="0.00000116">0.93875077</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001020" errorplus="0.001020" unit="JD">2454964.682140</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

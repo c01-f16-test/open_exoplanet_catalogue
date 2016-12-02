@@ -1,0 +1,21 @@
+<system>
+	<name>CD-35 2722</name>
+	<declination>-35 49 31</declination>
+	<star>
+		<name>CD-35 2722</name>
+		<mass errorminus="0.05" errorplus="0.05">0.4</mass>
+		<magV>10.98</magV>
+		<temperature errorminus="100.0" errorplus="100.0">3680.0</temperature>
+		<age errorminus="0.05" errorplus="0.05">0.1</age>
+		<metallicity errorminus="0.5" errorplus="0.5">0.04</metallicity>
+		<spectraltype>M1V</spectraltype>
+		<planet>
+			<name>CD-35 2722 b</name>
+			<mass errorminus="8.0" errorplus="8.0">31.0</mass>
+			<semimajoraxis errorminus="4.0" errorplus="4.0">67.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-514</name>
 	<rightascension>19 04 59</rightascension>
-	<declination>+50 14 33</declination>
+	<declination>+50 14 32</declination>
+	<distance errorminus="54.79" errorplus="75.02">489.00</distance>
 	<star>
 		<name>Kepler-514</name>
 		<mass errorminus="0.05" errorplus="0.07">1.28</mass>
 		<radius errorminus="0.16" errorplus="0.23">1.44</radius>
-		<temperature errorminus="68.2" errorplus="72.8">6106.0</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.36</metallicity>
+		<magV>12.182</magV>
+		<magJ errorminus="0.026" errorplus="0.026">11.202</magJ>
+		<magH errorminus="0.028" errorplus="0.028">10.906</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.875</magK>
+		<temperature errorminus="68.20" errorplus="72.75">6106.00</temperature>
+		<age errorminus="0.901" errorplus="0.500">2.690</age>
+		<metallicity errorminus="0.071" errorplus="0.067">0.360</metallicity>
 		<planet>
 			<name>Kepler-514 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.025">0.153</radius>
-			<period errorminus="0.000010870" errorplus="0.000010870">5.651796050</period>
+			<period errorminus="0.00001087" errorplus="0.00001087">5.65179605</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001440" errorplus="0.001440" unit="JD">2455005.278930</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,8 +1,8 @@
 <system>
 	<name>HD 139357</name>
-	<rightascension>15 35 16.19886</rightascension>
-	<declination>+53 55 29.7129</declination>
-	<distance errorminus="4.4" errorplus="4.4">118.2</distance>
+	<rightascension>15 35 16</rightascension>
+	<declination>+53 55 19</declination>
+	<distance errorminus="8.51" errorplus="7.46">121.36</distance>
 	<star>
 		<name>HD 139357</name>
 		<name>HIP 76311</name>
@@ -13,27 +13,28 @@
 		<name>2MASS J15351620+5355195</name>
 		<mass errorminus="0.24" errorplus="0.24">1.35</mass>
 		<radius errorminus="0.75" errorplus="0.75">11.47</radius>
-		<magV>5.98</magV>
-		<magB>7.168</magB>
+		<magV errorminus="0.010" errorplus="0.010">5.964</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.160</magB>
 		<magJ errorminus="0.260" errorplus="0.260">4.180</magJ>
 		<magH errorminus="0.216" errorplus="0.216">3.593</magH>
 		<magK errorminus="0.324" errorplus="0.324">3.406</magK>
-		<temperature errorminus="70" errorplus="70">4700</temperature>
-		<age errorminus="1.47" errorplus="1.47">3.07</age>
-		<metallicity errorminus="0.05" errorplus="0.05">-0.13</metallicity>
-		<spectraltype>K4III</spectraltype>
+		<temperature errorminus="70.00" errorplus="70.00">4700.00</temperature>
+		<age errorminus="1.470" errorplus="1.470">3.070</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.130</metallicity>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 139357 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="2.15" errorplus="2.15" type="msini">9.76</mass>
-			<period errorminus="9.0" errorplus="9.0">1125.7</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">2.36</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.10</eccentricity>
-			<periastron errorminus="10.6" errorplus="10.6">235.4</periastron>
-			<periastrontime errorminus="3.2" errorplus="3.2">2452466.7</periastrontime>
+			<mass errorminus="2.15000" errorplus="2.15000" type="Msini">9.76000</mass>
+			<period errorminus="9.00000000" errorplus="9.00000000">1125.70000000</period>
+			<semimajoraxis errorminus="0.200000" errorplus="0.200000">2.360000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.100000</eccentricity>
+			<periastron errorminus="10.6000" errorplus="10.6000">235.4000</periastron>
+			<periastrontime errorminus="3.200000" errorplus="3.200000">2452466.700000</periastrontime>
+			<maximumrvtime errorminus="3.200000" errorplus="3.200000">2452466.700000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/24</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

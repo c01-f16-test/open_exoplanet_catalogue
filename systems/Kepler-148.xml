@@ -10,11 +10,13 @@
 		<name>KOI-398</name>
 		<name>KIC 9946525</name>
 		<mass errorminus="0.0830" errorplus="0.0830">0.7770</mass>
-		<radius errorminus=".413" errorplus="0.413">0.851</radius>
+		<radius errorminus="0.41" errorplus="0.41">0.85</radius>
+		<magV>15.342</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.903</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.527</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.36</magK>
-		<temperature errorminus="200" errorplus="200">5272</temperature>
+		<magK errorminus="0.031" errorplus="0.031">13.359</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5272.00</temperature>
+		<metallicity>0.143</metallicity>
 		<planet>
 			<name>Kepler-148 c</name>
 			<name>KOI-398 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9946525 c</name>
 			<name>KIC 9946525.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06926" errorplus="0.16039">0.32807</radius>
-			<period errorminus=".000004" errorplus="0.000004">4.180043</period>
+			<radius errorminus="0.157" errorplus="0.157">0.321</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">4.18004300</period>
+			<semimajoraxis>0.050000</semimajoraxis>
 			<description>Kepler-148 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-148 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0005400" errorplus="0.0005400">2455006.7192800</transittime>
+			<transittime errorminus=".000540" errorplus="0.000540" unit="BJD">2455006.719280</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +41,27 @@
 			<name>KIC 9946525 b</name>
 			<name>KIC 9946525.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07928" errorplus="0.07928">0.16403</radius>
-			<period errorminus=".000004" errorplus="0.000004">1.729366</period>
+			<radius errorminus="0.078" errorplus="0.078">0.161</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">1.72936600</period>
+			<semimajoraxis>0.028000</semimajoraxis>
 			<description>Kepler-148 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-148 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013300" errorplus="0.0013300">2454966.8185300</transittime>
+			<transittime errorminus=".001330" errorplus="0.001330" unit="BJD">2454966.818530</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-148 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.037" errorplus="0.046">0.774</radius>
-			<period errorminus="0.000025700" errorplus="0.000025700">51.846885750</period>
+			<period errorminus="0.00002570" errorplus="0.00002570">51.84688575</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000399" errorplus="0.000399" unit="JD">2455003.081373</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

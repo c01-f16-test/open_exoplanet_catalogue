@@ -1,35 +1,37 @@
 <system>
 	<name>WTS-1</name>
-	<rightascension>19 35 56.41</rightascension>
-	<declination>+36 17 46.76</declination>
-	<distance>3200</distance>
+	<rightascension>19 35 58</rightascension>
+	<declination>+36 17 25</declination>
+	<distance errorminus="400.00" errorplus="900.00">3200.00</distance>
 	<star>
 		<name>WTS-1</name>
-		<mass>1.2</mass>
-		<radius>1.15</radius>
-		<magV>16.13</magV>
+		<mass errorminus="0.10" errorplus="0.10">1.20</mass>
+		<radius errorminus="0.12" errorplus="0.10">1.15</radius>
+		<magV errorminus="0.040" errorplus="0.040">16.130</magV>
 		<magB errorminus="0.1" errorplus="0.1">17.0</magB>
 		<magR errorminus="0.1" errorplus="0.1">16.1</magR>
-		<magJ errorminus="0.052" errorplus="0.052">15.375</magJ>
+		<magJ errorminus="0.051" errorplus="0.051">15.375</magJ>
 		<magH errorminus="0.081" errorplus="0.081">15.187</magH>
-		<magK errorminus="0.199" errorplus="0.199">15.271</magK>
-		<temperature>6250</temperature>
-		<spectraltype>F</spectraltype>
+		<magK errorminus="0.198" errorplus="0.198">15.271</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6250.00</temperature>
+		<age errorminus="1.950" errorplus="1.950">2.550</age>
+		<metallicity errorminus="0.500" errorplus="0.500">-0.500</metallicity>
+		<spectraltype>F6 V</spectraltype>
 		<planet>
 			<name>WTS-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.01</mass>
-			<radius>1.49</radius>
-			<period>3.35</period>
-			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>85.5</inclination>
-			<temperature>1362.3</temperature>
+			<mass errorminus="0.35000" errorplus="0.35000" type="Mass">4.01000</mass>
+			<radius errorminus="0.180" errorplus="0.160">1.490</radius>
+			<period errorminus="0.00001500" errorplus="0.00001300">3.35205700</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.047000</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.0">0.100000</eccentricity>
+			<inclination errorminus="0.700" errorplus="1.000">85.500</inclination>
+			<temperature errorminus="100" errorplus="100">1500</temperature>
 			<description>The Hot Jupiter WTS-1 b is the first extrasolar planet found by the WFCAM Transit Survey. The observations were made at the 3.8-m United Kingdom Infrared Telescope and the Hobby-Eberly Telescope. The planet has one of the largest radius anomalies among the known Hot Jupiters its mass range.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036" errorplus="0.0043" unit="BJD">2454318.7479</transittime>
+			<transittime errorminus=".003600" errorplus="0.004300" unit="HJD">2454318.747200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/10/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

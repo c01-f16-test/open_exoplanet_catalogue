@@ -1,31 +1,37 @@
 <system>
 	<name>WASP-124</name>
-	<rightascension>22 10 51.43</rightascension>
-	<declination>-30 44 58.8</declination>
-	<distance errorminus="11" errorplus="11">433</distance>
+	<rightascension>22 10 51</rightascension>
+	<declination>-30 44 58</declination>
+	<distance errorminus="11.00" errorplus="11.00">433.00</distance>
 	<star>
 		<name>WASP-124</name>
 		<name>2MASS J22105143-3044588</name>
 		<mass errorminus="0.05" errorplus="0.05">1.07</mass>
-		<magV errorminus="0.4" errorplus="0.4">12.7</magV>
-		<temperature errorminus="100" errorplus="100">6050</temperature>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.02</metallicity>
+		<radius errorminus="0.02" errorplus="0.02">1.02</radius>
+		<magV errorminus="0.400" errorplus="0.400">12.700</magV>
+		<magJ errorminus="0.019" errorplus="0.019">11.650</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.419</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.310</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6050.00</temperature>
+		<age errorminus="1.400" errorplus="1.400">2.100</age>
+		<metallicity errorminus="0.110" errorplus="0.110">-0.020</metallicity>
 		<spectraltype>F9</spectraltype>
 		<planet>
 			<name>WASP-124 b</name>
 			<name>2MASS J22105143-3044588 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07">0.6</mass>
-			<radius errorminus="0.03" errorplus="0.03">1.24</radius>
-			<period>3.372650</period>
-			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0449</semimajoraxis>
-			<inclination errorminus="0.2" errorplus="0.2">86.3</inclination>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Mass">0.60000</mass>
+			<radius errorminus="0.030" errorplus="0.030">1.240</radius>
+			<period errorminus="0.00000100" errorplus="0.00000100">3.37265000</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.044900</semimajoraxis>
+			<eccentricity errorminus="0.017" errorplus="0.0">0.017000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">86.300</inclination>
 			<temperature errorminus="30" errorplus="30">1400</temperature>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="HJD">2547028.5834</transittime>
+			<transittime errorminus=".000100" errorplus="0.000100" unit="HJD">2457028.583400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

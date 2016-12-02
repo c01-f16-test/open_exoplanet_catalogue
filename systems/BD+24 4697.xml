@@ -1,0 +1,24 @@
+<system>
+	<name>BD+24 4697</name>
+	<declination>+25 47 17</declination>
+	<star>
+		<name>BD+24 4697</name>
+		<mass errorminus="0.05" errorplus="0.05">0.75</mass>
+		<magV>9.74</magV>
+		<temperature errorminus="32.0" errorplus="32.0">5077.0</temperature>
+		<metallicity errorminus="0.02" errorplus="0.02">-0.11</metallicity>
+		<planet>
+			<name>BD+24 4697 b</name>
+			<mass errorminus="3.0" errorplus="3.0" type="Radial Velocity">53.0</mass>
+			<period errorminus="0.016" errorplus="0.016">145.081</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">0.5</semimajoraxis>
+			<eccentricity errorminus="0.00043" errorplus="0.00043">0.50048</eccentricity>
+			<periastron errorminus="0.09" errorplus="0.09">66.35</periastron>
+			<periastrontime errorminus="0.037" errorplus="0.037">2455986.042</periastrontime>
+			<maximumrvtime errorminus="0.037" errorplus="0.037">2455986.042</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

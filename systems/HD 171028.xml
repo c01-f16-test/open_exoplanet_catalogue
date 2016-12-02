@@ -1,30 +1,34 @@
 <system>
 	<name>HD 171028</name>
 	<rightascension>18 32 15</rightascension>
-	<declination>+06 56 45</declination>
-	<distance>90</distance>
+	<declination>+06 56 44</declination>
+	<distance>90.00</distance>
 	<star>
 		<name>HD 171028</name>
-		<mass>0.99</mass>
-		<radius>1.95</radius>
-		<magV>8.31</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.93</magB>
+		<mass errorminus="0.08" errorplus="0.08">0.99</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.95</radius>
+		<magV>8.310</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.934</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.990</magJ>
 		<magH errorminus="0.036" errorplus="0.036">6.663</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.604</magK>
-		<temperature>5663.0</temperature>
-		<metallicity>-0.49</metallicity>
+		<temperature errorminus="20.00" errorplus="20.00">5663.00</temperature>
+		<age errorminus="2.500" errorplus="2.500">8.500</age>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.490</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 171028 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.98</mass>
-			<period>550</period>
-			<semimajoraxis>1.32</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass type="Msini">1.98000</mass>
+			<period errorminus="3.00000000" errorplus="3.00000000">550.00000000</period>
+			<semimajoraxis>1.320000</semimajoraxis>
+			<eccentricity errorminus="0.010000" errorplus="0.010000">0.590000</eccentricity>
+			<periastron errorminus="1.0000" errorplus="1.0000">304.0000</periastron>
+			<periastrontime errorminus="1.000000" errorplus="1.000000">2454187.000000</periastrontime>
+			<maximumrvtime errorminus="1.000000" errorplus="1.000000">2454187.000000</maximumrvtime>
 			<temperature>296.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/11/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

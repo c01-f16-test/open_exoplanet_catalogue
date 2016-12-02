@@ -1,0 +1,89 @@
+<system>
+	<name>GJ 317</name>
+	<name>Gliese 317</name>
+	<rightascension>08 40 59</rightascension>
+	<declination>-23 27 22</declination>
+	<distance errorminus="0.22" errorplus="0.22">15.10</distance>
+	<star>
+		<name>Gliese 317</name>
+		<mass>0.42</mass>
+		<magV>12</magV>
+		<magB>13.2</magB>
+		<magR>10.84</magR>
+		<magI>9.37</magI>
+		<magJ errorminus="0.027" errorplus="0.027">7.934</magJ>
+		<magH errorminus="0.071" errorplus="0.071">7.321</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.028</magK>
+		<temperature>3510.0</temperature>
+		<metallicity>0.36</metallicity>
+		<spectraltype>M3.5</spectraltype>
+		<planet>
+			<name>Gliese 317 b</name>
+			<name>GJ 317 b</name>
+			<name>Gj 317 b</name>
+			<name>Gl 317 b</name>
+			<list>Confirmed planets</list>
+			<mass>1.8</mass>
+			<period>691.78</period>
+			<semimajoraxis>1.15</semimajoraxis>
+			<eccentricity>0.11</eccentricity>
+			<inclination>45</inclination>
+			<description>The star Gliese 317 is a red dwarf in the constellation Pyxis. So far only one planet is confirmed. There might be a second planet in the system, locked in a 4:1 mean motion resonance.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<planet>
+			<name>Gliese 317 c</name>
+			<name>GJ 317 c</name>
+			<name>Gj 317 c</name>
+			<name>Gl 317 c</name>
+			<list>Confirmed planets</list>
+			<mass>2</mass>
+			<period>10000</period>
+			<semimajoraxis>30</semimajoraxis>
+			<eccentricity>0.81</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 317</name>
+		<mass errorminus="0.05" errorplus="0.05">0.42</mass>
+		<magV errorminus="0.014" errorplus="0.014">11.970</magV>
+		<magB errorminus="0.044" errorplus="0.044">13.470</magB>
+		<magJ errorminus="0.027" errorplus="0.027">7.934</magJ>
+		<magH errorminus="0.071" errorplus="0.071">7.321</magH>
+		<magK errorminus="0.020" errorplus="0.020">7.028</magK>
+		<temperature errorminus="50.00" errorplus="50.00">3510.00</temperature>
+		<age>5.000</age>
+		<metallicity errorminus="0.200" errorplus="0.200">0.360</metallicity>
+		<spectraltype>M2.5 V</spectraltype>
+		<planet>
+			<name>GJ 317 b</name>
+			<mass errorminus="0.40000" errorplus="0.70000" type="Mass">2.50000</mass>
+			<period errorminus="2.00000000" errorplus="2.00000000">692.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.150000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.110000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">342.0000</periastron>
+			<periastrontime errorminus="35.000000" errorplus="35.000000">2451656.700000</periastrontime>
+			<maximumrvtime errorminus="35.000000" errorplus="35.000000">2451656.700000</maximumrvtime>
+			<inclination errorminus="10.000" errorplus="30.000">45.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 317 c</name>
+			<mass errorminus="0.0" errorplus="0.0" type="Radial Velocity">2.0</mass>
+			<period errorminus="nan" errorplus="inf">7300.0</period>
+			<semimajoraxis errorminus="20.0" errorplus="10.0">30.0</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.81</eccentricity>
+			<periastron>210.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

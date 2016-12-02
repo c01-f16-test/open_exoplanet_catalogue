@@ -1,8 +1,8 @@
 <system>
 	<name>HD 192699</name>
-	<rightascension>20 16 06.00508</rightascension>
-	<declination>+04 34 50.8537</declination>
-	<distance errorminus="2.5" errorplus="2.5">65.6</distance>
+	<rightascension>20 16 06</rightascension>
+	<declination>+04 34 50</declination>
+	<distance errorminus="4.40" errorplus="3.89">67.39</distance>
 	<star>
 		<name>HD 192699</name>
 		<name>HIP 99894</name>
@@ -10,27 +10,29 @@
 		<name>SAO 125628</name>
 		<name>BD+04 4395</name>
 		<name>2MASS J20160600+0434509</name>
-		<mass errorminus="0.12" errorplus="0.12">1.69</mass>
+		<mass errorminus="0.12" errorplus="0.12">1.68</mass>
 		<radius errorminus="0.06" errorplus="0.06">3.90</radius>
-		<magV>6.44</magV>
-		<magB>7.290</magB>
+		<magV>6.440</magV>
+		<magB>7.307</magB>
 		<magJ errorminus="0.262" errorplus="0.262">4.903</magJ>
 		<magH errorminus="0.260" errorplus="0.260">4.360</magH>
 		<magK errorminus="0.026" errorplus="0.026">4.366</magK>
-		<temperature>5220.0</temperature>
-		<metallicity>-0.15</metallicity>
-		<spectraltype>G8IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5220.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.800</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.150</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 192699 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.21" errorplus="0.15" type="msini">2.40</mass>
-			<period errorminus="1.63" errorplus="1.77">345.53</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.03">1.32</semimajoraxis>
-			<eccentricity errorminus="0.060" errorplus="0.029">0.129</eccentricity>
-			<periastron errorminus="25.9" errorplus="23.3">41.3</periastron>
-			<periastrontime errorminus="22.1" errorplus="21.0">2454036.6</periastrontime>
+			<mass errorminus="0.21000" errorplus="0.15000" type="Msini">2.40000</mass>
+			<period errorminus="1.63000000" errorplus="1.77000000">345.53000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.020000">1.150000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.029000">0.129000</eccentricity>
+			<periastron errorminus="25.9000" errorplus="23.3000">41.3000</periastron>
+			<periastrontime errorminus="22.100000" errorplus="21.000000">2454036.600000</periastrontime>
+			<maximumrvtime errorminus="22.100000" errorplus="21.000000">2454036.600000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

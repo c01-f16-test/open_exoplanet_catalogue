@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1267</name>
-	<rightascension>19 56 41</rightascension>
-	<declination>+43 26 28</declination>
+	<rightascension>19 56 40</rightascension>
+	<declination>+43 26 27</declination>
+	<distance errorminus="251.88" errorplus="503.13">1628.00</distance>
 	<star>
 		<name>Kepler-1267</name>
 		<mass errorminus="0.11" errorplus="0.11">1.15</mass>
 		<radius errorminus="0.17" errorplus="0.37">1.20</radius>
-		<temperature errorminus="215.9" errorplus="119.7">6096.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.15">0.07</metallicity>
+		<magV>15.829</magV>
+		<magJ errorminus="0.032" errorplus="0.032">14.411</magJ>
+		<magH errorminus="0.041" errorplus="0.041">14.092</magH>
+		<magK errorminus="0.039" errorplus="0.039">13.937</magK>
+		<temperature errorminus="215.90" errorplus="119.67">6096.00</temperature>
+		<age errorminus="1.510" errorplus="1.400">3.240</age>
+		<metallicity errorminus="0.139" errorplus="0.150">0.070</metallicity>
 		<planet>
 			<name>Kepler-1267 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.040" errorplus="0.085">0.269</radius>
-			<period errorminus="0.000110400" errorplus="0.000110400">13.031394500</period>
+			<period errorminus="0.00011040" errorplus="0.00011040">13.03139450</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006850" errorplus="0.006850" unit="JD">2454977.113870</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -9,12 +9,14 @@
 		<name>Kepler-301</name>
 		<name>KOI-1436</name>
 		<name>KIC 11389771</name>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9700</mass>
-		<radius errorminus=".481" errorplus="0.481">0.900</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">0.91</mass>
+		<radius errorminus="0.48" errorplus="0.48">0.90</radius>
+		<magV>14.271</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.146</magJ>
 		<magH errorminus="0.027" errorplus="0.027">12.824</magH>
 		<magK errorminus="0.027" errorplus="0.027">12.706</magK>
-		<temperature errorminus="200" errorplus="200">5815</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5815.00</temperature>
+		<metallicity>-0.178</metallicity>
 		<planet>
 			<name>Kepler-301 b</name>
 			<name>KOI-1436 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11389771 b</name>
 			<name>KIC 11389771.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06561" errorplus="0.06561">0.12303</radius>
-			<period errorminus=".000012" errorplus="0.000012">2.508553</period>
+			<radius errorminus="0.064" errorplus="0.064">0.120</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">2.50855300</period>
+			<semimajoraxis>0.036000</semimajoraxis>
 			<description>Kepler-301 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-301 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023200" errorplus="0.0023200">2454968.0101000</transittime>
+			<transittime errorminus=".002320" errorplus="0.002320" unit="BJD">2454968.010100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11389771 d</name>
 			<name>KIC 11389771.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08566" errorplus="0.08566">0.15948</radius>
-			<period errorminus=".000081" errorplus="0.000081">13.751243</period>
+			<radius errorminus="0.084" errorplus="0.084">0.156</radius>
+			<period errorminus="0.00008100" errorplus="0.00008100">13.75124300</period>
+			<semimajoraxis>0.112000</semimajoraxis>
 			<description>Kepler-301 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-301 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0034700" errorplus="0.0034700">2454977.6122700</transittime>
+			<transittime errorminus=".003470" errorplus="0.003470" unit="BJD">2454977.612270</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 11389771 c</name>
 			<name>KIC 11389771.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06561" errorplus="0.06561">0.12303</radius>
-			<period errorminus=".000032" errorplus="0.000032">5.419026</period>
+			<radius errorminus="0.064" errorplus="0.064">0.120</radius>
+			<period errorminus="0.00003200" errorplus="0.00003200">5.41902600</period>
+			<semimajoraxis>0.060000</semimajoraxis>
 			<description>Kepler-301 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-301 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037100" errorplus="0.0037100">2454964.6446700</transittime>
+			<transittime errorminus=".003710" errorplus="0.003710" unit="BJD">2454964.644670</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

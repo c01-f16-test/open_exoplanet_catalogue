@@ -10,11 +10,13 @@
 		<name>KOI-2768</name>
 		<name>KIC 9008737</name>
 		<mass errorminus="0.0640" errorplus="0.0640">0.9250</mass>
-		<radius errorminus=".331" errorplus="0.331">0.884</radius>
+		<radius errorminus="0.33" errorplus="0.33">0.88</radius>
+		<magV>15.228</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.908</magJ>
 		<magH errorminus="0.032" errorplus="0.032">13.527</magH>
 		<magK errorminus="0.041" errorplus="0.041">13.477</magK>
-		<temperature errorminus="200" errorplus="200">5654</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5654.00</temperature>
+		<metallicity>-0.009</metallicity>
 		<planet>
 			<name>Kepler-404 b</name>
 			<name>KOI-2768 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9008737 b</name>
 			<name>KIC 9008737.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.05012">0.11574</radius>
-			<period errorminus=".000209" errorplus="0.000209">11.829851</period>
+			<radius errorminus="0.049" errorplus="0.049">0.113</radius>
+			<period errorminus="0.00020900" errorplus="0.00020900">11.82985100</period>
+			<semimajoraxis>0.102000</semimajoraxis>
 			<description>Kepler-404 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-404 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0117900" errorplus="0.0117900">2454970.6176400</transittime>
+			<transittime errorminus=".011790" errorplus="0.011790" unit="BJD">2454970.617640</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9008737 c</name>
 			<name>KIC 9008737.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07746" errorplus="0.07746">0.15674</radius>
-			<period errorminus=".000261" errorplus="0.000261">14.751166</period>
+			<radius errorminus="0.076" errorplus="0.076">0.153</radius>
+			<period errorminus="0.00026100" errorplus="0.00026100">14.75116600</period>
+			<semimajoraxis>0.118000</semimajoraxis>
 			<description>Kepler-404 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-404 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0105900" errorplus="0.0105900">2454970.1376000</transittime>
+			<transittime errorminus=".010590" errorplus="0.010590" unit="BJD">2454970.137600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

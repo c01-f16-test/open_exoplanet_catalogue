@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1000</name>
-	<rightascension>19 06 45</rightascension>
-	<declination>+47 05 54</declination>
+	<rightascension>19 06 44</rightascension>
+	<declination>+47 05 53</declination>
+	<distance errorminus="50.08" errorplus="51.17">925.00</distance>
 	<star>
 		<name>Kepler-1000</name>
 		<mass errorminus="0.04" errorplus="0.04">1.40</mass>
 		<radius errorminus="0.07" errorplus="0.08">1.51</radius>
-		<temperature errorminus="73.4" errorplus="74.2">6453.0</temperature>
-		<metallicity errorminus="0.05" errorplus="0.06">0.35</metallicity>
+		<magV>13.256</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.319</magJ>
+		<magH errorminus="0.017" errorplus="0.017">12.137</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.094</magK>
+		<temperature errorminus="73.42" errorplus="74.15">6453.00</temperature>
+		<age errorminus="0.180" errorplus="0.330">1.260</age>
+		<metallicity errorminus="0.051" errorplus="0.055">0.350</metallicity>
 		<planet>
 			<name>Kepler-1000 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.028" errorplus="0.030">0.425</radius>
-			<period errorminus="0.000362800" errorplus="0.000362800">120.018127200</period>
+			<period errorminus="0.00036280" errorplus="0.00036280">120.01812720</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002680" errorplus="0.002680" unit="JD">2454967.189270</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

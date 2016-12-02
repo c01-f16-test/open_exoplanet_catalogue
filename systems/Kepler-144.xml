@@ -9,14 +9,15 @@
 		<name>Kepler-144</name>
 		<name>KOI-369</name>
 		<name>KIC 7175184</name>
-		<mass errorminus="0.0190" errorplus="0.0190">1.1540</mass>
-		<radius errorminus=".237" errorplus="0.237">1.235</radius>
-		<magV errorminus="0.19" errorplus="0.19">12.20</magV>
+		<mass errorminus="0.0190" errorplus="0.0190">1.03</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.24</radius>
+		<magV errorminus="0.19" errorplus="0.19">11.992</magV>
 		<magB errorminus="0.23" errorplus="0.23">12.69</magB>
 		<magJ errorminus="0.021" errorplus="0.021">11.050</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.830</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.792</magK>
-		<temperature errorminus="31" errorplus="131">6075</temperature>
+		<temperature errorminus="131.00" errorplus="131.00">6075.00</temperature>
+		<metallicity>-0.326</metallicity>
 		<planet>
 			<name>Kepler-144 b</name>
 			<name>KOI-369 b</name>
@@ -24,13 +25,14 @@
 			<name>KIC 7175184 b</name>
 			<name>KIC 7175184.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.12120</radius>
-			<period errorminus=".000020" errorplus="0.000020">5.885273</period>
+			<radius errorminus="0.023" errorplus="0.023">0.119</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">5.88527300</period>
+			<semimajoraxis>0.066000</semimajoraxis>
 			<description>Kepler-144 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-144 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019300" errorplus="0.0019300">2455007.4256500</transittime>
+			<transittime errorminus=".001930" errorplus="0.001930" unit="BJD">2455007.425650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -40,13 +42,14 @@
 			<name>KIC 7175184 c</name>
 			<name>KIC 7175184.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.12303</radius>
-			<period errorminus=".000043" errorplus="0.000043">10.104665</period>
+			<radius errorminus="0.023" errorplus="0.023">0.120</radius>
+			<period errorminus="0.00004300" errorplus="0.00004300">10.10466500</period>
+			<semimajoraxis>0.094000</semimajoraxis>
 			<description>Kepler-144 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-144 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025900" errorplus="0.0025900">2454968.5534400</transittime>
+			<transittime errorminus=".002590" errorplus="0.002590" unit="BJD">2454968.553440</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

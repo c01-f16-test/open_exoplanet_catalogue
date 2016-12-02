@@ -2,31 +2,37 @@
 	<name>HD 88133</name>
 	<rightascension>10 10 07</rightascension>
 	<declination>+18 11 12</declination>
-	<distance>74.5</distance>
+	<distance errorminus="7.04" errorplus="5.92">74.46</distance>
 	<star>
 		<name>HD 88133</name>
-		<mass>1.2</mass>
-		<radius>1.93</radius>
-		<magV>8.01</magV>
-		<magB>8.88</magB>
+		<mass errorminus="0.06" errorplus="0.06">1.18</mass>
+		<radius errorminus="0.06" errorplus="0.06">1.94</radius>
+		<magV>8.010</magV>
+		<magB>8.820</magB>
 		<magR>7.5</magR>
 		<magI>7.1</magI>
-		<magJ>6.60</magJ>
-		<magH>6.30</magH>
-		<magK>6.20</magK>
-		<temperature>5494.0</temperature>
-		<metallicity>0.34</metallicity>
+		<magJ errorminus="0.018" errorplus="0.018">6.599</magJ>
+		<magH errorminus="0.029" errorplus="0.029">6.296</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.199</magK>
+		<temperature errorminus="34.00" errorplus="34.00">5438.00</temperature>
+		<age>9.56</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.330</metallicity>
 		<spectraltype>G5 IV</spectraltype>
 		<planet>
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.22</mass>
-			<period>3.416</period>
-			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.133</eccentricity>
+			<mass errorminus="0.28000" errorplus="0.61000" type="Mass">1.02000</mass>
+			<radius>1.0</radius>
+			<period errorminus="0.00004730" errorplus="0.00004570">3.41486740</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.046910</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.050000</eccentricity>
+			<periastron errorminus="48.1100" errorplus="31.3900">7.2200</periastron>
+			<periastrontime errorminus="0.451000" errorplus="0.293000">2454641.984000</periastrontime>
+			<maximumrvtime errorminus="0.451000" errorplus="0.293000">2454641.984000</maximumrvtime>
+			<inclination errorminus="5.000" errorplus="6.000">15.000</inclination>
 			<temperature>1550.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 	</star>

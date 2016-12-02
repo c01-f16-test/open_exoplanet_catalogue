@@ -1,59 +1,69 @@
 <system>
 	<name>Kepler-758</name>
 	<rightascension>19 32 20</rightascension>
-	<declination>+41 08 08</declination>
+	<declination>+41 08 07</declination>
+	<distance errorminus="212.60" errorplus="292.62">1353.00</distance>
 	<star>
 		<name>Kepler-758</name>
 		<mass errorminus="0.08" errorplus="0.12">1.16</mass>
 		<radius errorminus="0.23" errorplus="0.31">1.42</radius>
-		<temperature errorminus="60.6" errorplus="72.2">6228.0</temperature>
-		<metallicity errorminus="0.13" errorplus="0.12">-0.10</metallicity>
+		<magV>14.348</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.370</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.146</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.110</magK>
+		<temperature errorminus="60.59" errorplus="72.21">6228.00</temperature>
+		<age errorminus="0.878" errorplus="0.950">3.800</age>
+		<metallicity errorminus="0.132" errorplus="0.120">-0.100</metallicity>
 		<planet>
 			<name>Kepler-758 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.036" errorplus="0.049">0.221</radius>
-			<period errorminus="0.000071420" errorplus="0.000071420">12.109710400</period>
+			<period errorminus="0.00007142" errorplus="0.00007142">12.10971040</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004360" errorplus="0.004360" unit="JD">2454973.212930</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-758 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.026" errorplus="0.033">0.151</radius>
-			<period errorminus="0.000038460" errorplus="0.000038460">4.757939860</period>
+			<period errorminus="0.00003846" errorplus="0.00003846">4.75793986</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007240" errorplus="0.007240" unit="JD">2454970.697020</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-758 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.029" errorplus="0.042">0.189</radius>
-			<period errorminus="0.000228200" errorplus="0.000228200">20.496619700</period>
+			<period errorminus="0.00022820" errorplus="0.00022820">20.49661970</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008800" errorplus="0.008800" unit="JD">2454980.453300</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-758 e</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.029">0.136</radius>
-			<period errorminus="0.000103600" errorplus="0.000103600">8.193471900</period>
+			<period errorminus="0.00010360" errorplus="0.00010360">8.19347190</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".010600" errorplus="0.010600" unit="JD">2454971.992100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

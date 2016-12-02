@@ -10,11 +10,12 @@
 		<name>KOI-719</name>
 		<name>KIC 9950612</name>
 		<mass errorminus="0.0240" errorplus="0.0240">0.7170</mass>
-		<radius errorminus=".034" errorplus="0.034">0.666</radius>
+		<radius errorminus="0.03" errorplus="0.03">0.67</radius>
+		<magV>13.177</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.206</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.672</magH>
 		<magK errorminus="0.014" errorplus="0.014">10.550</magK>
-		<temperature errorminus="100" errorplus="100">4632</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4632.00</temperature>
 		<planet>
 			<name>Kepler-220 c</name>
 			<name>KOI-719 c</name>
@@ -22,13 +23,14 @@
 			<name>KIC 9950612 c</name>
 			<name>KIC 9950612.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.14307</radius>
-			<period errorminus=".000009" errorplus="0.000009">9.034199</period>
+			<radius errorminus="0.008" errorplus="0.008">0.140</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">9.03419900</period>
+			<semimajoraxis>0.076000</semimajoraxis>
 			<description>Kepler-220 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0005300" errorplus="0.0005300">2455004.0142500</transittime>
+			<transittime errorminus=".000530" errorplus="0.000530" unit="BJD">2455004.014250</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +40,14 @@
 			<name>KIC 9950612 d</name>
 			<name>KIC 9950612.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00547" errorplus="0.00547">0.08931</radius>
-			<period errorminus=".000162" errorplus="0.000162">28.122397</period>
+			<radius errorminus="0.005" errorplus="0.005">0.087</radius>
+			<period errorminus="0.00016200" errorplus="0.00016200">28.12239700</period>
+			<semimajoraxis>0.163000</semimajoraxis>
 			<description>Kepler-220 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036600" errorplus="0.0036600">2454979.9188300</transittime>
+			<transittime errorminus=".003660" errorplus="0.003660" unit="BJD">2454979.918830</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +57,14 @@
 			<name>KIC 9950612 e</name>
 			<name>KIC 9950612.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01094" errorplus="0.01094">0.12120</radius>
-			<period errorminus=".000192" errorplus="0.000192">45.902733</period>
+			<radius errorminus="0.011" errorplus="0.011">0.119</radius>
+			<period errorminus="0.00019200" errorplus="0.00019200">45.90273300</period>
+			<semimajoraxis>0.226000</semimajoraxis>
 			<description>Kepler-220 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024800" errorplus="0.0024800">2454999.5625100</transittime>
+			<transittime errorminus=".002480" errorplus="0.002480" unit="BJD">2454999.562510</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +74,14 @@
 			<name>KIC 9950612 b</name>
 			<name>KIC 9950612.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00456" errorplus="0.00456">0.07382</radius>
-			<period errorminus=".000010" errorplus="0.000010">4.159807</period>
+			<radius errorminus="0.004" errorplus="0.004">0.072</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">4.15980700</period>
+			<semimajoraxis>0.046000</semimajoraxis>
 			<description>Kepler-220 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-220 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014500" errorplus="0.0014500">2454966.7864600</transittime>
+			<transittime errorminus=".001450" errorplus="0.001450" unit="BJD">2454966.786460</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

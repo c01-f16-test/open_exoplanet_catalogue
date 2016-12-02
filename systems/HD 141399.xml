@@ -1,69 +1,78 @@
 <system>
 	<name>HD 141399</name>
 	<rightascension>15 46 53</rightascension>
-	<declination>+46 59 11</declination>
-	<distance>36.17</distance>
+	<declination>+46 59 10</declination>
+	<distance errorminus="0.50" errorplus="0.50">36.20</distance>
 	<star>
 		<name>HD 141399</name>
-		<mass errorminus="0.08" errorplus="0.08">1.14</mass>
+		<mass errorminus="0.08" errorplus="0.08">1.07</mass>
 		<radius errorminus="0.15" errorplus="0.15">1.46</radius>
-		<magV>7.2</magV>
-		<magB>7.93</magB>
+		<magV errorminus="0.020" errorplus="0.020">7.200</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.952</magB>
 		<magJ errorminus="0.021" errorplus="0.021">5.890</magJ>
 		<magH errorminus="0.017" errorplus="0.017">5.598</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.499</magK>
-		<metallicity errorminus="0.16" errorplus="0.16">0.18</metallicity>
-		<spectraltype>K</spectraltype>
+		<temperature errorminus="40.00" errorplus="40.00">5600.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">0.350</metallicity>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 141399 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.025" errorplus="0.025">0.46</mass>
-			<period errorminus="0.059" errorplus="0.059">94.35</period>
-			<semimajoraxis errorminus="0.00018" errorplus="0.00018">0.4225</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.04</eccentricity>
-			<periastron errorminus="55.088" errorplus="55.088">191.37</periastron>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">0.45100</mass>
+			<period errorminus="0.05000000" errorplus="0.05000000">94.44000000</period>
+			<semimajoraxis errorminus="0.011000" errorplus="0.011000">0.415000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.040000</eccentricity>
+			<periastron errorminus="80.0000" errorplus="80.0000">-90.0000</periastron>
+			<periastrontime errorminus="15.000000" errorplus="15.000000">2456998.000000</periastrontime>
+			<maximumrvtime errorminus="15.000000" errorplus="15.000000">2456998.000000</maximumrvtime>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/04/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 141399 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.067" errorplus="0.067">1.36</mass>
-			<period errorminus="0.099" errorplus="0.099">202.08</period>
-			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.7023</semimajoraxis>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.05</eccentricity>
-			<periastron errorminus="14.457" errorplus="14.457">214.74</periastron>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Msini">1.33000</mass>
+			<period errorminus="0.08000000" errorplus="0.08000000">201.99000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.689000</semimajoraxis>
+			<eccentricity errorminus="0.009000" errorplus="0.009000">0.048000</eccentricity>
+			<periastron errorminus="40.0000" errorplus="40.0000">-140.0000</periastron>
+			<periastrontime errorminus="10.000000" errorplus="10.000000">2456838.000000</periastrontime>
+			<maximumrvtime errorminus="10.000000" errorplus="10.000000">2456838.000000</maximumrvtime>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/04/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 141399 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.067" errorplus="0.067">1.22</mass>
-			<period errorminus="8.178" errorplus="8.178">1070.35</period>
-			<semimajoraxis errorminus="0.01086" errorplus="0.01086">2.1348</semimajoraxis>
-			<eccentricity errorminus="0.029" errorplus="0.029">0.06</eccentricity>
-			<periastron errorminus="38.966" errorplus="38.966">249.16</periastron>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Msini">1.18000</mass>
+			<period errorminus="6.70000000" errorplus="6.70000000">1069.80000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.060000">2.090000</semimajoraxis>
+			<eccentricity errorminus="0.025000" errorplus="0.025000">0.074000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">-140.0000</periastron>
+			<periastrontime errorminus="65.000000" errorplus="65.000000">2456923.000000</periastrontime>
+			<maximumrvtime errorminus="65.000000" errorplus="65.000000">2456923.000000</maximumrvtime>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/04/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 141399 e</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.164" errorplus="0.164">0.69</mass>
-			<period errorminus="555.081" errorplus="555.081">3717.35</period>
-			<semimajoraxis errorminus="0.46122" errorplus="0.46122">4.8968</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">0.66000</mass>
+			<period errorminus="2000.00000000" errorplus="560.00000000">5000.00000000</period>
+			<semimajoraxis errorminus="1.500000" errorplus="1.500000">5.000000</semimajoraxis>
+			<eccentricity errorminus="0.220000" errorplus="0.220000">0.260000</eccentricity>
+			<periastron errorminus="20.0000" errorplus="20.0000">-10.0000</periastron>
+			<periastrontime errorminus="800.000000" errorplus="800.000000">2458900.000000</periastrontime>
+			<maximumrvtime errorminus="800.000000" errorplus="800.000000">2458900.000000</maximumrvtime>
 			<description>A four planet system. Found with the radial velocity datasets from Keck-HIRES and from Lick Observatory's new Automated Planet Finder Telescope and Levy Spectrometer on Mt. Hamilton.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/04/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

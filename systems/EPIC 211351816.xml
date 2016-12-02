@@ -1,0 +1,29 @@
+<system>
+	<name>EPIC 211351816</name>
+	<rightascension>08 31 03</rightascension>
+	<declination>+10 50 51</declination>
+	<distance errorminus="42.00" errorplus="42.00">763.00</distance>
+	<star>
+		<name>EPIC 211351816</name>
+		<mass errorminus="0.12" errorplus="0.12">1.16</mass>
+		<radius errorminus="0.14" errorplus="0.14">4.20</radius>
+		<magV errorminus="0.031" errorplus="0.031">12.611</magV>
+		<magB errorminus="0.020" errorplus="0.020">13.770</magB>
+		<magJ errorminus="0.023" errorplus="0.023">10.694</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.177</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.035</magK>
+		<temperature errorminus="90.00" errorplus="90.00">4790.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">7.800</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.420</metallicity>
+		<planet>
+			<name>EPIC 211351816 b</name>
+			<mass errorminus="0.11000" errorplus="0.11000" type="Mass">1.10000</mass>
+			<radius errorminus="0.110" errorplus="0.110">1.310</radius>
+			<period errorminus="0.00150000" errorplus="0.00150000">8.40610000</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007000" errorplus="0.007000" unit="BJD">2457142.072000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

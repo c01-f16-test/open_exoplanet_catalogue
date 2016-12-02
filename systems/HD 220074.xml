@@ -2,30 +2,34 @@
 	<name>HD 220074</name>
 	<rightascension>23 20 14</rightascension>
 	<declination>+61 58 12</declination>
-	<distance>290.2</distance>
+	<distance errorminus="60.63" errorplus="42.71">289.02</distance>
 	<star>
 		<name>HD 220074</name>
-		<mass>1.2</mass>
-		<radius>49.7</radius>
-		<magV>6.4</magV>
+		<mass errorminus="0.30" errorplus="0.30">1.20</mass>
+		<radius errorminus="9.50" errorplus="9.50">49.70</radius>
+		<magV>6.400</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.070</magB>
 		<magJ errorminus="0.200" errorplus="0.200">3.182</magJ>
 		<magH errorminus="0.164" errorplus="0.164">2.373</magH>
 		<magK errorminus="0.212" errorplus="0.212">2.006</magK>
-		<temperature>5080</temperature>
-		<metallicity>-0.25</metallicity>
-		<spectraltype>K1 V</spectraltype>
+		<temperature errorminus="110.00" errorplus="110.00">3935.00</temperature>
+		<age errorminus="2.800" errorplus="2.800">4.500</age>
+		<metallicity errorminus="0.250" errorplus="0.250">-0.250</metallicity>
+		<spectraltype>M2 III</spectraltype>
 		<planet>
 			<name>HD 220074 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.1</mass>
-			<period>672.1</period>
-			<semimajoraxis>1.6</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="1.80000" errorplus="1.80000" type="Msini">11.10000</mass>
+			<period errorminus="3.70000000" errorplus="3.70000000">672.10000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.600000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.140000</eccentricity>
+			<periastron errorminus="8.5000" errorplus="8.5000">323.0000</periastron>
+			<periastrontime errorminus="31.700000" errorplus="31.700000">2451158.200000</periastrontime>
+			<maximumrvtime errorminus="31.700000" errorplus="31.700000">2451158.200000</maximumrvtime>
 			<temperature>965.5</temperature>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

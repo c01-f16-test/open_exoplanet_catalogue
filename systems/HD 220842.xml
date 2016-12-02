@@ -1,0 +1,31 @@
+<system>
+	<name>HD 220842</name>
+	<rightascension>23 26 36</rightascension>
+	<declination>+56 53 11</declination>
+	<distance errorminus="2.80" errorplus="2.80">62.50</distance>
+	<star>
+		<name>HD 220842</name>
+		<mass errorminus="0.06" errorplus="0.06">1.13</mass>
+		<magV errorminus="0.010" errorplus="0.010">7.990</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.573</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.847</magJ>
+		<magH errorminus="0.020" errorplus="0.020">6.627</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.555</magK>
+		<temperature errorminus="20.00" errorplus="20.00">5960.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.170</metallicity>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>HD 220842 b</name>
+			<mass errorminus="0.15000" errorplus="0.15000" type="Msini">3.18000</mass>
+			<period errorminus="0.19000000" errorplus="0.19000000">218.47000000</period>
+			<semimajoraxis errorminus="0.018000" errorplus="0.018000">0.740000</semimajoraxis>
+			<eccentricity errorminus="0.009000" errorplus="0.009000">0.404000</eccentricity>
+			<periastron errorminus="1.7000" errorplus="1.7000">-134.9000</periastron>
+			<periastrontime errorminus="0.800000" errorplus="0.800000">2456624.800000</periastrontime>
+			<maximumrvtime errorminus="0.800000" errorplus="0.800000">2456624.800000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

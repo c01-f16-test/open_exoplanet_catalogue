@@ -9,11 +9,13 @@
 		<name>Kepler-401</name>
 		<name>KOI-2714</name>
 		<name>KIC 12206313</name>
-		<radius errorminus=".244" errorplus="0.244">1.333</radius>
+		<radius errorminus="0.24" errorplus="0.24">1.33</radius>
+		<magV>13.312</magV>
 		<magJ errorminus="0.027" errorplus="0.027">12.277</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.06</magH>
+		<magH errorminus="0.031" errorplus="0.031">12.065</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.987</magK>
-		<temperature errorminus="100" errorplus="100">6117</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">6117.00</temperature>
+		<metallicity>-0.297</metallicity>
 		<planet>
 			<name>Kepler-401 b</name>
 			<name>KOI-2714 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 12206313 b</name>
 			<name>KIC 12206313.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.03645">0.15583</radius>
-			<period errorminus=".000211" errorplus="0.000211">14.383035</period>
+			<radius errorminus="0.036" errorplus="0.036">0.153</radius>
+			<period errorminus="0.00021100" errorplus="0.00021100">14.38303500</period>
+			<semimajoraxis>0.122000</semimajoraxis>
 			<description>Kepler-401 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-401 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0100600" errorplus="0.0100600">2454973.5596800</transittime>
+			<transittime errorminus=".010060" errorplus="0.010060" unit="BJD">2454973.559680</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,25 +40,27 @@
 			<name>KIC 12206313 c</name>
 			<name>KIC 12206313.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.03645">0.19593</radius>
-			<period errorminus=".000695" errorplus="0.000695">47.318218</period>
+			<radius errorminus="0.036" errorplus="0.036">0.192</radius>
+			<period errorminus="0.00069500" errorplus="0.00069500">47.31821800</period>
+			<semimajoraxis>0.269000</semimajoraxis>
 			<description>Kepler-401 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-401 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0089700" errorplus="0.0089700">2455003.0604100</transittime>
+			<transittime errorminus=".008970" errorplus="0.008970" unit="BJD">2455003.060410</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-401 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.036">0.203</radius>
-			<period errorminus="0.003170000" errorplus="0.003170000">184.256405000</period>
+			<period errorminus="0.00317000" errorplus="0.00317000">184.25640500</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".013300" errorplus="0.013300" unit="JD">2455088.258100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

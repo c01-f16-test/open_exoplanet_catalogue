@@ -2,29 +2,33 @@
 	<name>HD 231701</name>
 	<rightascension>19 32 04</rightascension>
 	<declination>+16 28 27</declination>
-	<distance>108.4</distance>
+	<distance errorminus="15.30" errorplus="11.94">108.46</distance>
 	<star>
 		<name>HD 231701</name>
-		<mass>1.14</mass>
-		<radius>1.35</radius>
-		<magV>8.97</magV>
-		<magB errorminus="0.020" errorplus="0.020">9.486</magB>
+		<mass errorminus="0.03" errorplus="0.04">1.14</mass>
+		<radius errorminus="0.10" errorplus="0.10">1.35</radius>
+		<magV errorminus="0.015" errorplus="0.015">8.970</magV>
+		<magB errorminus="0.020" errorplus="0.020">9.487</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.952</magJ>
-		<magH errorminus="0.02" errorplus="0.02">7.719</magH>
+		<magH errorminus="0.020" errorplus="0.020">7.719</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.657</magK>
-		<temperature>6208.0</temperature>
-		<metallicity>0.07</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">6208.00</temperature>
+		<age errorminus="0.700" errorplus="0.700">4.900</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.070</metallicity>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 231701 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.08</mass>
-			<period>141.6</period>
-			<semimajoraxis>0.53</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass type="Msini">1.08000</mass>
+			<period errorminus="2.80000000" errorplus="2.80000000">141.60000000</period>
+			<semimajoraxis>0.530000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.100000</eccentricity>
+			<periastron errorminus="24.0000" errorplus="24.0000">46.0000</periastron>
+			<periastrontime errorminus="4.200000" errorplus="4.200000">2453180.000000</periastrontime>
+			<maximumrvtime errorminus="4.200000" errorplus="4.200000">2453180.000000</maximumrvtime>
 			<temperature>436.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

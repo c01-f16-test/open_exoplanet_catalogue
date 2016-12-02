@@ -1,8 +1,8 @@
 <system>
 	<name>18 Del</name>
-	<rightascension>20 58 25.93397</rightascension>
-	<declination>+10 50 21.4289</declination>
-	<distance errorminus="1.8" errorplus="1.8">75.3</distance>
+	<rightascension>20 58 25</rightascension>
+	<declination>+10 50 21</declination>
+	<distance errorminus="3.94" errorplus="3.56">73.10</distance>
 	<star>
 		<name>18 Del</name>
 		<name>18 Delphini</name>
@@ -13,30 +13,31 @@
 		<name>HR 8030</name>
 		<name>BD+10 4425</name>
 		<name>2MASS J20582594+1050214</name>
-		<mass>2.3</mass>
-		<radius>8.5</radius>
-		<magV>5.522</magV>
-		<magB>6.440</magB>
+		<mass>2.30</mass>
+		<radius>8.50</radius>
+		<magV>5.52</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.430</magB>
 		<magJ errorminus="0.236" errorplus="0.236">4.032</magJ>
 		<magH errorminus="0.186" errorplus="0.186">3.440</magH>
 		<magK errorminus="0.204" errorplus="0.204">3.366</magK>
-		<temperature errorminus="18" errorplus="18">4979</temperature>
+		<temperature errorminus="18.00" errorplus="18.00">4979.00</temperature>
 		<metallicity errorminus="0.023" errorplus="0.023">-0.052</metallicity>
-		<spectraltype>G6III</spectraltype>
+		<spectraltype>G6 III</spectraltype>
 		<planet>
 			<name>18 Del b</name>
 			<name>18 Delphini b</name>
 			<name>HD 199665 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">10.3</mass>
-			<period errorminus="3.2" errorplus="3.2">993.3</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity errorminus="0.01" errorplus="0.01">0.08</eccentricity>
-			<periastron errorminus="6.5" errorplus="6.5">166.1</periastron>
-			<periastrontime errorminus="18" errorplus="18">2451672</periastrontime>
+			<mass type="Msini">10.30000</mass>
+			<period errorminus="3.20000000" errorplus="3.20000000">993.30000000</period>
+			<semimajoraxis>2.600000</semimajoraxis>
+			<eccentricity errorminus="0.010000" errorplus="0.010000">0.080000</eccentricity>
+			<periastron errorminus="6.5000" errorplus="6.5000">166.1000</periastron>
+			<periastrontime errorminus="18.000000" errorplus="18.000000">2451672.000000</periastrontime>
+			<maximumrvtime errorminus="18.000000" errorplus="18.000000">2451672.000000</maximumrvtime>
 			<description>18 Delphini is a star in the constellation of Delphinus.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1021</name>
 	<rightascension>19 40 49</rightascension>
-	<declination>+42 33 35</declination>
+	<declination>+42 33 34</declination>
+	<distance errorminus="67.30" errorplus="88.53">837.00</distance>
 	<star>
 		<name>Kepler-1021</name>
 		<mass errorminus="0.05" errorplus="0.05">0.89</mass>
 		<radius errorminus="0.06" errorplus="0.09">0.86</radius>
-		<temperature errorminus="144.0" errorplus="143.1">5431.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.05</metallicity>
+		<magV>15.164</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.833</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.412</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.332</magK>
+		<temperature errorminus="143.99" errorplus="143.14">5431.00</temperature>
+		<age errorminus="2.970" errorplus="5.700">4.680</age>
+		<metallicity errorminus="0.170" errorplus="0.147">-0.050</metallicity>
 		<planet>
 			<name>Kepler-1021 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.016" errorplus="0.022">0.208</radius>
-			<period errorminus="0.000032100" errorplus="0.000032100">13.474695710</period>
+			<period errorminus="0.00003210" errorplus="0.00003210">13.47469571</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002090" errorplus="0.002090" unit="JD">2454966.492370</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

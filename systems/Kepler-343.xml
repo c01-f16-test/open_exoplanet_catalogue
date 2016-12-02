@@ -9,11 +9,14 @@
 		<name>Kepler-343</name>
 		<name>KOI-1960</name>
 		<name>KIC 6949061</name>
-		<radius errorminus=".261" errorplus="0.261">1.433</radius>
-		<magJ errorminus="0.023" errorplus="0.023">13.039</magJ>
+		<mass>1.04</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.43</radius>
+		<magV>14.128</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.039</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.722</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.683</magK>
-		<temperature errorminus="100" errorplus="100">5807</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5807.00</temperature>
+		<metallicity>-0.138</metallicity>
 		<planet>
 			<name>Kepler-343 b</name>
 			<name>KOI-1960 b</name>
@@ -21,13 +24,14 @@
 			<name>KIC 6949061 b</name>
 			<name>KIC 6949061.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04648" errorplus="0.04648">0.21962</radius>
-			<period errorminus=".000058" errorplus="0.000058">8.968550</period>
+			<radius errorminus="0.045" errorplus="0.045">0.215</radius>
+			<period errorminus="0.00005800" errorplus="0.00005800">8.96855000</period>
+			<semimajoraxis>0.088000</semimajoraxis>
 			<description>Kepler-343 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-343 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030800" errorplus="0.0030800">2454972.3899100</transittime>
+			<transittime errorminus=".003080" errorplus="0.003080" unit="BJD">2454972.389910</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +41,14 @@
 			<name>KIC 6949061 c</name>
 			<name>KIC 6949061.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03463" errorplus="0.03463">0.18408</radius>
-			<period errorminus=".000234" errorplus="0.000234">23.221820</period>
+			<radius errorminus="0.034" errorplus="0.034">0.180</radius>
+			<period errorminus="0.00023400" errorplus="0.00023400">23.22182000</period>
+			<semimajoraxis>0.167000</semimajoraxis>
 			<description>Kepler-343 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-343 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0052900" errorplus="0.0052900">2454984.0664000</transittime>
+			<transittime errorminus=".005290" errorplus="0.005290" unit="BJD">2454984.066400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,26 @@
+<system>
+	<name>KIC 7917485</name>
+	<rightascension>19 57 44</rightascension>
+	<declination>+43 37 57</declination>
+	<star>
+		<name>KIC 7917485</name>
+		<mass errorminus="0.12" errorplus="0.15">1.63</mass>
+		<magV>13.200</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.303</magJ>
+		<magH errorminus="0.032" errorplus="0.032">12.112</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.111</magK>
+		<temperature errorminus="192.00" errorplus="192.00">7067.00</temperature>
+		<metallicity errorminus="0.150" errorplus="0.150">-0.020</metallicity>
+		<spectraltype>A</spectraltype>
+		<planet>
+			<name>KIC 7917485 b</name>
+			<mass errorminus="0.60000" errorplus="0.80000" type="Msini">11.80000</mass>
+			<period errorminus="20.00000000" errorplus="22.00000000">840.00000000</period>
+			<semimajoraxis errorminus="0.22" errorplus="0.27">2.03</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.130000">0.150000</eccentricity>
+			<discoverymethod>Pulsation Timing Variations</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

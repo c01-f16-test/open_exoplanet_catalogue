@@ -2,22 +2,29 @@
 	<name>Kepler-1548</name>
 	<rightascension>19 09 53</rightascension>
 	<declination>+46 04 50</declination>
+	<distance errorminus="90.89" errorplus="228.49">1150.00</distance>
 	<star>
 		<name>Kepler-1548</name>
 		<mass errorminus="0.05" errorplus="0.04">0.99</mass>
 		<radius errorminus="0.07" errorplus="0.19">0.97</radius>
-		<temperature errorminus="77.2" errorplus="63.4">5706.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.05</metallicity>
+		<magV>15.259</magV>
+		<magJ errorminus="0.021" errorplus="0.021">14.057</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.735</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.700</magK>
+		<temperature errorminus="77.25" errorplus="63.43">5706.00</temperature>
+		<age errorminus="2.660" errorplus="3.800">4.370</age>
+		<metallicity errorminus="0.157" errorplus="0.138">0.050</metallicity>
 		<planet>
 			<name>Kepler-1548 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.019" errorplus="0.048">0.236</radius>
-			<period errorminus="0.001524000" errorplus="0.001524000">124.828679000</period>
+			<period errorminus="0.00152400" errorplus="0.00152400">124.82867900</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008740" errorplus="0.008740" unit="JD">2455041.784550</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-671</name>
-	<rightascension>19 37 04</rightascension>
-	<declination>+49 18 51</declination>
+	<rightascension>19 37 03</rightascension>
+	<declination>+49 18 50</declination>
+	<distance errorminus="87.05" errorplus="200.13">1139.00</distance>
 	<star>
 		<name>Kepler-671</name>
 		<mass errorminus="0.04" errorplus="0.05">0.97</mass>
 		<radius errorminus="0.07" errorplus="0.17">0.95</radius>
-		<temperature errorminus="91.4" errorplus="74.8">5624.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.14">0.08</metallicity>
+		<magV>15.356</magV>
+		<magJ errorminus="0.025" errorplus="0.025">14.121</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.756</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.769</magK>
+		<temperature errorminus="91.38" errorplus="74.83">5624.00</temperature>
+		<age errorminus="2.800" errorplus="4.890">4.470</age>
+		<metallicity errorminus="0.137" errorplus="0.145">0.080</metallicity>
 		<planet>
 			<name>Kepler-671 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.044">0.240</radius>
-			<period errorminus="0.000006480" errorplus="0.000006480">4.280958590</period>
+			<period errorminus="0.00000648" errorplus="0.00000648">4.28095859</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001210" errorplus="0.001210" unit="JD">2455004.897420</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

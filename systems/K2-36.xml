@@ -1,0 +1,42 @@
+<system>
+	<name>K2-36</name>
+	<rightascension>11 17 47</rightascension>
+	<declination>+03 51 59</declination>
+	<star>
+		<name>K2-36</name>
+		<mass errorminus="0.04" errorplus="0.04">0.80</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
+		<magV errorminus="0.030" errorplus="0.030">11.800</magV>
+		<magB errorminus="0.378" errorplus="0.378">12.569</magB>
+		<magJ errorminus="0.022" errorplus="0.022">10.034</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.549</magH>
+		<magK errorminus="0.025" errorplus="0.025">9.454</magK>
+		<temperature errorminus="60.00" errorplus="60.00">4924.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.030</metallicity>
+		<spectraltype>K2 V</spectraltype>
+		<planet>
+			<name>K2-36 b</name>
+			<radius errorminus="0.008" errorplus="0.008">0.118</radius>
+			<period errorminus="0.00005000" errorplus="0.00005000">1.42266000</period>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.023000</semimajoraxis>
+			<inclination errorminus="2.400" errorplus="1.620">87.750</inclination>
+			<temperature errorminus="36" errorplus="36">1232</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001700" errorplus="0.001700" unit="BJD-TDB">2456809.468400</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-36 c</name>
+			<radius errorminus="0.028" errorplus="0.038">0.250</radius>
+			<period errorminus="0.00010000" errorplus="0.00010000">5.34059000</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.055500</semimajoraxis>
+			<inclination errorminus="1.630" errorplus="1.190">88.330</inclination>
+			<temperature errorminus="23" errorplus="23">793</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000800" errorplus="0.000800" unit="BJD-TDB">2456812.842200</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

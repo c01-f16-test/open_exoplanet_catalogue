@@ -1,59 +1,58 @@
 <system>
 	<name>TRAPPIST-1</name>
-	<rightascension>23 06 30.34</rightascension>
-	<declination>-05 02 36.44</declination>
-	<distance errorminus="0.4" errorplus="0.4">12.1</distance>
+	<rightascension>23 06 29</rightascension>
+	<declination>-05 02 28</declination>
+	<distance errorminus="0.40" errorplus="0.40">12.10</distance>
 	<star>
 		<name>TRAPPIST-1</name>
 		<name>2MASS J23062928-0502285</name>
-		<mass errorminus="0.009" errorplus="0.009">0.080</mass>
-		<radius errorminus="0.006" errorplus="0.006">0.114</radius>
-		<magV>18.8</magV>
-		<temperature errorminus="55" errorplus="55">2550</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.04</metallicity>
+		<mass errorminus="0.01" errorplus="0.01">0.08</mass>
+		<radius errorminus="0.00" errorplus="0.00">0.12</radius>
+		<magV errorminus="0.080" errorplus="0.080">18.800</magV>
+		<magJ errorminus="0.018" errorplus="0.018">11.354</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.718</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.296</magK>
+		<temperature errorminus="55.00" errorplus="55.00">2550.00</temperature>
+		<age>0.500</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.040</metallicity>
 		<spectraltype>M8</spectraltype>
 		<planet>
-			<name>TRAPPIST-1b</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.004010" errorplus="0.004010">0.101428</radius>
-			<period errorminus="0.000019" errorplus="0.000019">1.510848</period>
-			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.01111</semimajoraxis>
-			<inclination errorminus="0.41" errorplus="0.41">89.41</inclination>
+			<name>TRAPPIST-1 b</name>
+			<radius errorminus="0.004" errorplus="0.004">0.099</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">1.51084800</period>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.011110</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.410" errorplus="0.410">89.410</inclination>
 			<temperature errorminus="9" errorplus="9">400</temperature>
-			<description>Astronomers using the TRAPPIST telescope at ESO's La Silla Observatory have discovered three planets orbiting an ultracool dwarf star just 40 light-years from Earth. These worlds have sizes and temperatures similar to those of Venus and Earth and are the best targets found so far for the search for life outside the Solar System. They are the first planets ever discovered around such a tiny and dim star.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00025" errorplus="0.00025">2457322.51765</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>16/05/01</lastupdate>
+			<transittime errorminus=".000250" errorplus="0.000250" unit="BJD-TDB">2457322.517650</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
-			<name>TRAPPIST-1c</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.004557" errorplus="0.004557">0.095596</radius>
-			<period errorminus="0.000028" errorplus="0.000028">2.421848</period>
-			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.01522</semimajoraxis>
-			<inclination errorminus="0.1" errorplus="0.1">89.5</inclination>
+			<name>TRAPPIST-1 c</name>
+			<radius errorminus="0.004" errorplus="0.004">0.094</radius>
+			<period errorminus="0.00002800" errorplus="0.00002800">2.42184800</period>
+			<semimajoraxis errorminus="0.000550" errorplus="0.000550">0.015220</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.310" errorplus="0.310">89.500</inclination>
 			<temperature errorminus="8" errorplus="8">342</temperature>
-			<description>Astronomers using the TRAPPIST telescope at ESO's La Silla Observatory have discovered three planets orbiting an ultracool dwarf star just 40 light-years from Earth. These worlds have sizes and temperatures similar to those of Venus and Earth and are the best targets found so far for the search for life outside the Solar System. They are the first planets ever discovered around such a tiny and dim star.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00033" errorplus="0.00033">2457362.80520</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>16/05/01</lastupdate>
+			<transittime errorminus=".000330" errorplus="0.000330" unit="BJD-TDB">2457362.726180</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
-			<name>TRAPPIST-1d</name>
-			<list>Confirmed planets</list>
-			<radius errorminus="0.005923" errorplus="0.005923">0.105985</radius>
-			<period>18.202</period>
-			<inclination errorminus="0.1" errorplus="0.1">89.90</inclination>
-			<temperature>200</temperature>
-			<description>Astronomers using the TRAPPIST telescope at ESO's La Silla Observatory have discovered three planets orbiting an ultracool dwarf star just 40 light-years from Earth. These worlds have sizes and temperatures similar to those of Venus and Earth and are the best targets found so far for the search for life outside the Solar System. They are the first planets ever discovered around such a tiny and dim star. The orbital periof the outer planet is not well constrained yet due to gaps in the observations.</description>
+			<name>TRAPPIST-1 d</name>
+			<radius errorminus="0.006" errorplus="0.006">0.104</radius>
+			<period errorminus="14.0" errorplus="54.0">18.20200000</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">0.08</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.100" errorplus="0.100">89.870</inclination>
+			<temperature>180.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015" errorplus="0.0015">2457294.7744</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>16/05/01</lastupdate>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="BJD-TDB">2457294.774100</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

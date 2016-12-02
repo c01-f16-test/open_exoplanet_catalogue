@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-450</name>
-	<rightascension>19 41 56.76</rightascension>
-	<declination>+51 00 48.6</declination>
+	<rightascension>19 41 56</rightascension>
+	<declination>+51 00 48</declination>
 	<binary>
 		<name>Kepler-450</name>
 		<name>KOI-279</name>
@@ -29,6 +29,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.000363" errorplus="0.000363" unit="BJD">2455009.705841</transittime>
 				<istransiting>1</istransiting>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -47,6 +48,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00165" errorplus="0.00165" unit="BJD">2454969.94232</transittime>
 				<istransiting>1</istransiting>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -64,6 +66,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.0114" errorplus="0.0114" unit="BJD">2454969.1745</transittime>
 				<istransiting>1</istransiting>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -72,4 +75,112 @@
 			<name>KOI-279 B</name>
 		</star>
 	</binary>
+	<star>
+		<name>Kepler-450 A</name>
+		<name>KOI-279 A</name>
+		<name>KIC 12314973 A</name>
+		<mass errorminus="0.084" errorplus="0.084">1.346</mass>
+		<radius errorminus="0.085" errorplus="0.085">1.570</radius>
+		<planet>
+			<name>Kepler-450 b</name>
+			<name>Kepler-450 A b</name>
+			<name>KOI-279.01</name>
+			<name>KOI-279 A b</name>
+			<name>KIC 12314973 A b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.029" errorplus="0.029">0.548</radius>
+			<period errorminus="0.000025" errorplus="0.000025">28.454851</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.201</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.14">0.02</eccentricity>
+			<description>Kepler-450 b is a planet orbiting the brighter member of the binary star KOI-279.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.000363" errorplus="0.000363" unit="BJD">2455009.705841</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-450 c</name>
+			<name>Kepler-450 A c</name>
+			<name>KOI-279.02</name>
+			<name>KOI-279 A c</name>
+			<name>KIC 12314973 A c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.012" errorplus="0.012">0.234</radius>
+			<period errorminus="0.000085" errorplus="0.000085">15.413135</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.134</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.17">0.02</eccentricity>
+			<description>Kepler-450 c is a planet orbiting the brighter member of the binary star KOI-279.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00165" errorplus="0.00165" unit="BJD">2454969.94232</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-450 d</name>
+			<name>Kepler-450 A d</name>
+			<name>KOI-279.03</name>
+			<name>KOI-279 A d</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.0061" errorplus="0.0061">0.0747</radius>
+			<period errorminus="0.00023" errorplus="0.00023">7.51464</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.083</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.24">0.14</eccentricity>
+			<description>Kepler-450 d is a planet orbiting the brighter member of the binary star KOI-279.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0114" errorplus="0.0114" unit="BJD">2454969.1745</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Kepler-450 B</name>
+		<name>KOI-279 B</name>
+	</star>
+	<star>
+		<name>Kepler-450</name>
+		<name>KOI-279</name>
+		<name>KIC 1231497</name>
+		<mass errorminus="0.08" errorplus="0.08">1.35</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.57</radius>
+		<magV>11.684</magV>
+		<magB>11.56</magB>
+		<magJ errorminus="0.019" errorplus="0.019">10.708</magJ>
+		<magH errorminus="0.018" errorplus="0.018">10.472</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.429</magK>
+		<temperature>6152.0</temperature>
+		<metallicity>-0.342</metallicity>
+		<planet>
+			<name>Kepler-450 b</name>
+			<radius errorminus="0.029" errorplus="0.029">0.548</radius>
+			<period errorminus="0.00002500" errorplus="0.00002500">28.45485100</period>
+			<eccentricity errorminus="0.020000" errorplus="0.140000">0.020000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-450 c</name>
+			<radius errorminus="0.012" errorplus="0.012">0.234</radius>
+			<period errorminus="0.00008500" errorplus="0.00008500">15.41313500</period>
+			<eccentricity errorminus="0.020000" errorplus="0.170000">0.020000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-450 d</name>
+			<radius errorminus="0.006" errorplus="0.006">0.075</radius>
+			<period errorminus="0.00023000" errorplus="0.00023000">7.51464000</period>
+			<eccentricity errorminus="0.140000" errorplus="0.240000">0.140000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
 </system>

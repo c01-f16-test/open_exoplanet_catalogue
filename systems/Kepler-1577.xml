@@ -2,22 +2,29 @@
 	<name>Kepler-1577</name>
 	<rightascension>19 31 49</rightascension>
 	<declination>+47 34 23</declination>
+	<distance errorminus="26.31" errorplus="23.93">543.00</distance>
 	<star>
 		<name>Kepler-1577</name>
 		<mass errorminus="0.04" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.74</radius>
-		<temperature errorminus="75.1" errorplus="84.3">4862.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.15">0.00</metallicity>
+		<magV>15.056</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.491</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.936</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.862</magK>
+		<temperature errorminus="75.08" errorplus="84.27">4862.00</temperature>
+		<age errorminus="2.430" errorplus="6.060">4.270</age>
+		<metallicity errorminus="0.164" errorplus="0.149">0.000</metallicity>
 		<planet>
 			<name>Kepler-1577 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.010" errorplus="0.004">0.101</radius>
-			<period errorminus="0.000036660" errorplus="0.000036660">6.305602470</period>
+			<period errorminus="0.00003666" errorplus="0.00003666">6.30560247</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004810" errorplus="0.004810" unit="JD">2454964.531130</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

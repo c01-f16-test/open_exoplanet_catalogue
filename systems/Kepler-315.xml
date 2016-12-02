@@ -9,11 +9,14 @@
 		<name>Kepler-315</name>
 		<name>KOI-1707</name>
 		<name>KIC 7703955</name>
-		<radius errorminus=".202" errorplus="0.202">1.037</radius>
+		<mass>0.78</mass>
+		<radius errorminus="0.20" errorplus="0.20">1.04</radius>
+		<magV>15.321</magV>
 		<magJ errorminus="0.028" errorplus="0.028">13.982</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.622</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.58</magK>
-		<temperature errorminus="08" errorplus="108">5796</temperature>
+		<magK errorminus="0.041" errorplus="0.041">13.581</magK>
+		<temperature errorminus="108.00" errorplus="108.00">5796.00</temperature>
+		<metallicity>-0.403</metallicity>
 		<planet>
 			<name>Kepler-315 b</name>
 			<name>KOI-1707 b</name>
@@ -21,13 +24,14 @@
 			<name>KIC 7703955 b</name>
 			<name>KIC 7703955.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07108" errorplus="0.07108">0.34356</radius>
-			<period errorminus=".000918" errorplus="0.000918">96.101141</period>
+			<radius errorminus="0.070" errorplus="0.070">0.336</radius>
+			<period errorminus="0.00091800" errorplus="0.00091800">96.10114100</period>
+			<semimajoraxis>0.402000</semimajoraxis>
 			<description>Kepler-315 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-315 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0051800" errorplus="0.0051800">2455020.7323200</transittime>
+			<transittime errorminus=".005180" errorplus="0.005180" unit="BJD">2455020.732320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +41,14 @@
 			<name>KIC 7703955 c</name>
 			<name>KIC 7703955.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08749" errorplus="0.08749">0.37819</radius>
-			<period errorminus=".006223" errorplus="0.006223">265.469335</period>
+			<radius errorminus="0.086" errorplus="0.086">0.370</radius>
+			<period errorminus="0.00622300" errorplus="0.00622300">265.46933500</period>
+			<semimajoraxis>0.791000</semimajoraxis>
 			<description>Kepler-315 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-315 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0100600" errorplus="0.0100600">2454984.0683800</transittime>
+			<transittime errorminus=".010060" errorplus="0.010060" unit="BJD">2454984.068380</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

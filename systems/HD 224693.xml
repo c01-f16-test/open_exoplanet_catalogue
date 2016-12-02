@@ -1,30 +1,34 @@
 <system>
 	<name>HD 224693</name>
-	<rightascension>23 59 54</rightascension>
+	<rightascension>23 59 53</rightascension>
 	<declination>-22 25 41</declination>
-	<distance>94</distance>
+	<distance errorminus="11.64" errorplus="9.33">94.07</distance>
 	<star>
 		<name>HD 224693</name>
-		<mass>1.33</mass>
-		<radius>1.7</radius>
-		<magV>8.23</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.87</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.33</mass>
+		<radius errorminus="0.30" errorplus="0.30">1.70</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.216</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.872</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.136</magJ>
 		<magH errorminus="0.047" errorplus="0.047">6.882</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.808</magK>
-		<temperature>6037.0</temperature>
-		<metallicity>0.343</metallicity>
-		<spectraltype>G2IV</spectraltype>
+		<temperature errorminus="50.00" errorplus="50.00">6037.00</temperature>
+		<age errorminus="0.5" errorplus="0.5">2.0</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.343</metallicity>
+		<spectraltype>G2 IV</spectraltype>
 		<planet>
 			<name>HD 224693 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.71</mass>
-			<period>26.73</period>
-			<semimajoraxis>0.233</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass type="Msini">0.71000</mass>
+			<period errorminus="0.02000000" errorplus="0.02000000">26.73000000</period>
+			<semimajoraxis>0.192000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.050000</eccentricity>
+			<periastron errorminus="200.0000" errorplus="200.0000">6.0000</periastron>
+			<periastrontime errorminus="3.000000" errorplus="3.000000">2453193.900000</periastrontime>
+			<maximumrvtime errorminus="3.000000" errorplus="3.000000">2453193.900000</maximumrvtime>
 			<temperature>718.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/04/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

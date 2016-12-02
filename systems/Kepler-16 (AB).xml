@@ -1,0 +1,27 @@
+<system>
+	<name>Kepler-16 (AB)</name>
+	<declination>+51 45 27</declination>
+	<star>
+		<name>Kepler-16 (AB)</name>
+		<mass errorminus="0.017" errorplus="0.017">0.8499</mass>
+		<radius errorminus="0.0" errorplus="0.0">0.65</radius>
+		<magV>12.0</magV>
+		<temperature errorminus="150.0" errorplus="150.0">4450.0</temperature>
+		<metallicity errorminus="0.2" errorplus="0.2">-0.3</metallicity>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>Kepler-16 (AB) b</name>
+			<mass errorminus="0.016" errorplus="0.016">0.333</mass>
+			<radius errorminus="0.0023" errorplus="0.0023">0.7538</radius>
+			<period errorminus="0.037" errorplus="0.037">228.776</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.7048</semimajoraxis>
+			<eccentricity errorminus="0.00146" errorplus="0.00146">0.00685</eccentricity>
+			<periastron errorminus="22.0" errorplus="22.0">318.0</periastron>
+			<inclination errorminus="0.0023" errorplus="0.0023">90.0322</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime>2455212.12316</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

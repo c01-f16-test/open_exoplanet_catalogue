@@ -1,0 +1,37 @@
+<system>
+	<name>KELT-1</name>
+	<rightascension>00 01 26</rightascension>
+	<declination>+39 23 01</declination>
+	<distance errorminus="14.00" errorplus="14.00">262.00</distance>
+	<star>
+		<name>KELT-1</name>
+		<mass errorminus="0.063" errorplus="0.03">1.32</mass>
+		<radius errorminus="0.045" errorplus="0.04">1.46</radius>
+		<magV errorminus="0.057" errorplus="0.057">10.701</magV>
+		<magB errorminus="0.065" errorplus="0.065">11.363</magB>
+		<magJ errorminus="0.022" errorplus="0.022">9.682</magJ>
+		<magH errorminus="0.029" errorplus="0.029">9.534</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.437</magK>
+		<temperature errorminus="49.0" errorplus="50.00">6518.00</temperature>
+		<age errorminus="0.25" errorplus="0.25">1.75</age>
+		<metallicity errorminus="0.079" errorplus="0.079">0.052</metallicity>
+		<spectraltype>F5</spectraltype>
+		<planet>
+			<name>KELT-1 b</name>
+			<mass errorminus="0.48000" errorplus="0.50000" type="Mass">27.23000</mass>
+			<radius errorminus="0.022" errorplus="0.032">1.110</radius>
+			<period errorminus="0.00001500" errorplus="0.00001500">1.21751400</period>
+			<semimajoraxis errorminus="0.000160" errorplus="0.000160">0.024660</semimajoraxis>
+			<eccentricity errorminus="0.006900" errorplus="0.010000">0.009900</eccentricity>
+			<periastron errorminus="79.0000" errorplus="71.0000">61.0000</periastron>
+			<periastrontime errorminus="0.260000" errorplus="0.240000">2455914.070000</periastrontime>
+			<maximumrvtime errorminus="0.260000" errorplus="0.240000">2455914.070000</maximumrvtime>
+			<inclination errorminus="1.900" errorplus="1.300">87.800</inclination>
+			<temperature>2423.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002200" errorplus="0.002300" unit="BJD-TDB">2455914.162800</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

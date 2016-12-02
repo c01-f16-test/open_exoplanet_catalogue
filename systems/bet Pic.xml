@@ -1,0 +1,55 @@
+<system>
+	<name>bet Pic</name>
+	<name>beta Pic</name>
+	<rightascension>05 47 17</rightascension>
+	<declination>-51 03 59</declination>
+	<distance errorminus="0.19" errorplus="0.19">19.28</distance>
+	<star>
+		<name>beta Pic</name>
+		<name>bet Pic</name>
+		<name>Beta Pictoris</name>
+		<name>HR 2020</name>
+		<name>HD 39060</name>
+		<name>HIP 27321</name>
+		<name>SAO 234134</name>
+		<name>TYC 8099-1392-1</name>
+		<name>CD-51 1620</name>
+		<name>2MASS J05471708-5103594</name>
+		<mass errorminus="0.17" errorplus="0.18">1.76</mass>
+		<magV>3.850</magV>
+		<magB>4.020</magB>
+		<magR>3.74</magR>
+		<magI>3.58</magI>
+		<magJ errorminus="0.236" errorplus="0.236">3.669</magJ>
+		<magH errorminus="0.200" errorplus="0.200">3.544</magH>
+		<magK errorminus="0.222" errorplus="0.222">3.526</magK>
+		<temperature>9790.0</temperature>
+		<age errorminus="0.004" errorplus="0.004">0.04</age>
+		<spectraltype>A5 V</spectraltype>
+		<planet>
+			<name>beta Pic b</name>
+			<name>bet Pic b</name>
+			<name>Beta Pictoris b</name>
+			<name>HR 2020 b</name>
+			<name>HD 39060 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="3.0" errorplus="4.0" type="Spectrum">7.0</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.65</radius>
+			<period errorminus="730.00000000" errorplus="7300.00000000">7665.00000000</period>
+			<semimajoraxis errorminus="0.500000" errorplus="5.300000">9.100000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.320000">0.080000</eccentricity>
+			<periastron errorminus="94.0000" errorplus="93.0000">-8.0000</periastron>
+			<periastrontime errorminus="1000" errorplus="1400">2454737</periastrontime>
+			<ascendingnode errorminus="0.15" errorplus="0.15">31.75</ascendingnode>
+			<inclination errorminus="0.700" errorplus="0.700">88.900</inclination>
+			<temperature errorminus="25" errorplus="50">1600</temperature>
+			<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours. The planet or material in orbit around it may have been responsible for a transit-like event observed in November 1981.</description>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<image>beta Pic</image>
+			<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>
+		</planet>
+	</star>
+	<videolink>http://youtu.be/rlGZhdXlBAM</videolink>
+</system>

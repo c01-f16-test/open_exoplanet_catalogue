@@ -1,0 +1,28 @@
+<system>
+	<name>GJ 758</name>
+	<declination>+33 13 18</declination>
+	<star>
+		<name>GJ 758</name>
+		<name>Gliese 758</name>
+		<name>HR 7368</name>
+		<name>HD 182488</name>
+		<mass>0.97</mass>
+		<radius>0.88</radius>
+		<magV>6.36</magV>
+		<temperature>5425.0</temperature>
+		<age errorminus="0.5" errorplus="0.5">8.2</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.18</metallicity>
+		<spectraltype>K0V</spectraltype>
+		<planet>
+			<name>GJ 758 b</name>
+			<mass errorminus="5.0" errorplus="5.0">35.0</mass>
+			<period errorminus="62000.0" errorplus="198000.0">109000.0</period>
+			<semimajoraxis errorminus="14.1" errorplus="44.4">44.8</semimajoraxis>
+			<eccentricity errorminus="0.148" errorplus="0.148">0.564</eccentricity>
+			<inclination errorminus="17.4" errorplus="13.1">43.6</inclination>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

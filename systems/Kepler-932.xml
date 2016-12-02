@@ -2,22 +2,29 @@
 	<name>Kepler-932</name>
 	<rightascension>19 47 48</rightascension>
 	<declination>+43 16 19</declination>
+	<distance errorminus="34.26" errorplus="47.04">478.00</distance>
 	<star>
 		<name>Kepler-932</name>
 		<mass errorminus="0.05" errorplus="0.06">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.84</radius>
-		<temperature errorminus="166.7" errorplus="194.8">5331.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<magV>14.131</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.732</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.271</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.210</magK>
+		<temperature errorminus="166.65" errorplus="194.78">5331.00</temperature>
+		<age errorminus="2.910" errorplus="5.600">4.680</age>
+		<metallicity errorminus="0.157" errorplus="0.142">-0.010</metallicity>
 		<planet>
 			<name>Kepler-932 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.012">0.122</radius>
-			<period errorminus="0.000002120" errorplus="0.000002120">1.921437400</period>
+			<period errorminus="0.00000212" errorplus="0.00000212">1.92143740</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000921" errorplus="0.000921" unit="JD">2454964.806131</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

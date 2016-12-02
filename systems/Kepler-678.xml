@@ -2,22 +2,29 @@
 	<name>Kepler-678</name>
 	<rightascension>19 41 49</rightascension>
 	<declination>+50 29 40</declination>
+	<distance errorminus="61.05" errorplus="112.58">875.00</distance>
 	<star>
 		<name>Kepler-678</name>
 		<mass errorminus="0.05" errorplus="0.04">0.94</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.91</radius>
-		<temperature errorminus="108.1" errorplus="73.0">5520.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.16">0.07</metallicity>
+		<magV>15.080</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.732</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.402</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.260</magK>
+		<temperature errorminus="108.11" errorplus="72.95">5520.00</temperature>
+		<age errorminus="2.810" errorplus="5.630">4.470</age>
+		<metallicity errorminus="0.150" errorplus="0.157">0.070</metallicity>
 		<planet>
 			<name>Kepler-678 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.031" errorplus="0.059">0.459</radius>
-			<period errorminus="0.000004270" errorplus="0.000004270">7.275037240</period>
+			<period errorminus="0.00000427" errorplus="0.00000427">7.27503724</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000456" errorplus="0.000456" unit="JD">2455002.994868</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

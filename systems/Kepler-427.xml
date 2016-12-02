@@ -1,0 +1,51 @@
+<system>
+	<name>Kepler-427</name>
+	<name>KOI-192</name>
+	<rightascension>19 13 01</rightascension>
+	<declination>+43 42 17</declination>
+	<distance errorminus="150.00" errorplus="150.00">1100.00</distance>
+	<star>
+		<name>KOI-192</name>
+		<name>Kepler-427</name>
+		<name>KOI-0192</name>
+		<name>2MASS 19130109+4342175</name>
+		<name>USNO-A2 1275-10946568</name>
+		<name>KIC 7950644</name>
+		<mass errorminus="0.06" errorplus="0.06">0.96</mass>
+		<radius errorminus="0.20" errorplus="0.20">1.35</radius>
+		<magV errorminus="0.020" errorplus="0.020">14.420</magV>
+		<magB errorminus="0.030" errorplus="0.030">15.130</magB>
+		<magR errorminus="0.07" errorplus="0.07">14.31</magR>
+		<magI errorminus="0.019" errorplus="0.019">14.013</magI>
+		<magJ errorminus="0.023" errorplus="0.023">13.161</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.814</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.777</magK>
+		<temperature errorminus="70.00" errorplus="70.00">5800.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">7.000</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.190</metallicity>
+		<spectraltype>G2 V</spectraltype>
+		<planet>
+			<name>KOI-192 b</name>
+			<name>Kepler-427 b</name>
+			<name>KOI-192.01</name>
+			<name>KOI-0192 b</name>
+			<name>2MASS 19130109+4342175 b</name>
+			<name>USNO-A2 1275-10946568 b</name>
+			<name>KIC 7950644 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.09000" errorplus="0.09000" type="Mass">0.29000</mass>
+			<radius errorminus="0.210" errorplus="0.210">1.230</radius>
+			<period errorminus="0.00000110" errorplus="0.00000110">10.29099400</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.091000</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.57">0.570000</eccentricity>
+			<inclination errorminus="0.450" errorplus="0.450">89.500</inclination>
+			<temperature errorminus="70" errorplus="70">1100</temperature>
+			<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000090" errorplus="0.000090" unit="BJD">2454970.022070</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

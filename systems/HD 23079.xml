@@ -2,29 +2,33 @@
 	<name>HD 23079</name>
 	<rightascension>03 39 43</rightascension>
 	<declination>-52 54 57</declination>
-	<distance>34.8</distance>
+	<distance errorminus="0.68" errorplus="0.66">34.60</distance>
 	<star>
 		<name>HD 23079</name>
-		<mass>1.1</mass>
+		<mass errorminus="0.15" errorplus="0.15">1.01</mass>
 		<radius>1.13</radius>
-		<magV>7.1</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.68</magB>
-		<magJ errorminus="0.018" errorplus="0.018">6.03</magJ>
+		<magV>7.120</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.685</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.030</magJ>
 		<magH errorminus="0.018" errorplus="0.018">5.814</magH>
-		<magK errorminus="0.02" errorplus="0.02">5.705</magK>
-		<temperature>5848.0</temperature>
-		<metallicity>-0.24</metallicity>
+		<magK errorminus="0.020" errorplus="0.020">5.705</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5927.00</temperature>
+		<age>6.53</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.150</metallicity>
 		<spectraltype>F8/G0 V</spectraltype>
 		<planet>
 			<name>HD 23079 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.5</mass>
-			<period>626</period>
-			<semimajoraxis>1.5</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<mass errorminus="0.21000" errorplus="0.21000" type="Msini">2.45000</mass>
+			<period errorminus="5.70000000" errorplus="5.70000000">730.60000000</period>
+			<semimajoraxis errorminus="0.093000" errorplus="0.093000">1.596000</semimajoraxis>
+			<eccentricity errorminus="0.031000" errorplus="0.031000">0.102000</eccentricity>
+			<periastron errorminus="17.0000" errorplus="17.0000">55.0000</periastron>
+			<periastrontime errorminus="37.000000" errorplus="37.000000">2450492.000000</periastrontime>
+			<maximumrvtime errorminus="37.000000" errorplus="37.000000">2450492.000000</maximumrvtime>
 			<temperature>223.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 		</planet>
 	</star>

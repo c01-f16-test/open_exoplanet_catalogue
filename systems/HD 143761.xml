@@ -1,0 +1,37 @@
+<system>
+	<name>HD 143761</name>
+	<declination>+33 18 13</declination>
+	<star>
+		<name>HD 143761</name>
+		<mass errorminus="0.03" errorplus="0.03">0.889</mass>
+		<radius errorminus="0.026" errorplus="0.026">1.362</radius>
+		<magV>5.4</magV>
+		<temperature errorminus="54.0" errorplus="54.0">5627.0</temperature>
+		<metallicity errorminus="0.05" errorplus="0.05">-0.31</metallicity>
+		<spectraltype>G0V</spectraltype>
+		<planet>
+			<name>HD 143761 b</name>
+			<mass errorminus="0.024" errorplus="0.024" type="Radial Velocity">1.045</mass>
+			<period errorminus="0.0015" errorplus="0.0015">39.8458</period>
+			<semimajoraxis errorminus="0.0025" errorplus="0.0025">0.2196</semimajoraxis>
+			<eccentricity errorminus="0.004" errorplus="0.004">0.037</eccentricity>
+			<periastron errorminus="5.9" errorplus="5.9">270.6</periastron>
+			<temperature>614.0</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 143761 c</name>
+			<mass errorminus="0.0063" errorplus="0.0063" type="Radial Velocity">0.079</mass>
+			<period errorminus="0.17" errorplus="0.17">102.54</period>
+			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.4123</semimajoraxis>
+			<eccentricity errorminus="0.037" errorplus="0.061">0.05</eccentricity>
+			<periastron errorminus="140.0" errorplus="110.0">190.0</periastron>
+			<temperature>448.1</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,23 +1,31 @@
 <system>
 	<name>Kepler-974</name>
 	<rightascension>19 00 03</rightascension>
-	<declination>+40 13 15</declination>
+	<declination>+40 13 14</declination>
+	<distance errorminus="6.49" errorplus="6.44">121.00</distance>
 	<star>
 		<name>Kepler-974</name>
 		<mass errorminus="0.02" errorplus="0.02">0.52</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.50</radius>
-		<temperature errorminus="37.0" errorplus="38.8">3687.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.07</metallicity>
+		<magV>14.404</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.951</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.279</magH>
+		<magK errorminus="0.017" errorplus="0.017">11.056</magK>
+		<temperature errorminus="36.96" errorplus="38.83">3687.00</temperature>
+		<age errorminus="2.620" errorplus="5.750">4.370</age>
+		<metallicity errorminus="0.080" errorplus="0.077">0.070</metallicity>
 		<planet>
 			<name>Kepler-974 b</name>
+			<name>KOI1843.01</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.026" errorplus="0.005">0.140</radius>
-			<period errorminus="0.000005030" errorplus="0.000005030">4.194496510</period>
+			<period errorminus="0.00000503" errorplus="0.00000503">4.19449651</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001010" errorplus="0.001010" unit="JD">2454967.134290</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

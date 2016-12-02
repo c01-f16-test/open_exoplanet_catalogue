@@ -10,11 +10,13 @@
 		<name>KOI-597</name>
 		<name>KIC 10600261</name>
 		<mass errorminus="0.0920" errorplus="0.0920">1.0530</mass>
-		<radius errorminus=".537" errorplus="0.537">1.025</radius>
+		<radius errorminus="0.54" errorplus="0.54">1.02</radius>
+		<magV>14.915</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.780</magJ>
 		<magH errorminus="0.028" errorplus="0.028">13.450</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.51</magK>
-		<temperature errorminus="200" errorplus="200">6089</temperature>
+		<magK errorminus="0.046" errorplus="0.046">13.512</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6089.00</temperature>
+		<metallicity>-0.298</metallicity>
 		<planet>
 			<name>Kepler-194 c</name>
 			<name>KOI-597 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10600261 c</name>
 			<name>KIC 10600261.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03281" errorplus="0.12394">0.23603</radius>
-			<period errorminus=".000079" errorplus="0.000079">17.308032</period>
+			<radius errorminus="0.121" errorplus="0.121">0.231</radius>
+			<period errorminus="0.00007900" errorplus="0.00007900">17.30803200</period>
+			<semimajoraxis>0.131000</semimajoraxis>
 			<description>Kepler-194 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-194 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025300" errorplus="0.0025300">2455009.9416900</transittime>
+			<transittime errorminus=".002530" errorplus="0.002530" unit="BJD">2455009.941690</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10600261 b</name>
 			<name>KIC 10600261.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07199" errorplus="0.07199">0.13761</radius>
-			<period errorminus=".000008" errorplus="0.000008">2.092281</period>
+			<radius errorminus="0.070" errorplus="0.070">0.135</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">2.09228100</period>
+			<semimajoraxis>0.032000</semimajoraxis>
 			<description>Kepler-194 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-194 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023200" errorplus="0.0023200">2454966.0596400</transittime>
+			<transittime errorminus=".002320" errorplus="0.002320" unit="BJD">2454966.059640</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10600261 d</name>
 			<name>KIC 10600261.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.11482">0.21871</radius>
-			<period errorminus=".000481" errorplus="0.000481">52.814973</period>
+			<radius errorminus="0.112" errorplus="0.112">0.214</radius>
+			<period errorminus="0.00048100" errorplus="0.00048100">52.81497300</period>
+			<semimajoraxis>0.275000</semimajoraxis>
 			<description>Kepler-194 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-194 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0055900" errorplus="0.0055900">2454997.9032400</transittime>
+			<transittime errorminus=".005590" errorplus="0.005590" unit="BJD">2454997.903240</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

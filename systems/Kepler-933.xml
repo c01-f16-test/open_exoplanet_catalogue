@@ -2,22 +2,29 @@
 	<name>Kepler-933</name>
 	<rightascension>19 18 16</rightascension>
 	<declination>+43 32 19</declination>
+	<distance errorminus="61.30" errorplus="78.43">922.00</distance>
 	<star>
 		<name>Kepler-933</name>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.84</radius>
-		<temperature errorminus="87.1" errorplus="65.9">5346.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.02</metallicity>
+		<magV>15.469</magV>
+		<magJ errorminus="0.025" errorplus="0.025">14.100</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.724</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.582</magK>
+		<temperature errorminus="87.13" errorplus="65.89">5346.00</temperature>
+		<age errorminus="2.930" errorplus="6.470">4.680</age>
+		<metallicity errorminus="0.166" errorplus="0.153">-0.020</metallicity>
 		<planet>
 			<name>Kepler-933 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.021">0.219</radius>
-			<period errorminus="0.000061850" errorplus="0.000061850">14.204430090</period>
+			<period errorminus="0.00006185" errorplus="0.00006185">14.20443009</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003410" errorplus="0.003410" unit="JD">2454975.733430</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

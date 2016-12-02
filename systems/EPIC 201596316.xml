@@ -1,34 +1,36 @@
 <system>
 	<name>EPIC 201596316</name>
 	<name>K2-11</name>
-	<rightascension>11 16 10.08</rightascension>
-	<declination>+01 59 12.62</declination>
-	<distance errorminus="1728" errorplus="71">2019</distance>
+	<rightascension>11 16 10</rightascension>
+	<declination>+01 59 12</declination>
+	<distance errorminus="1728.00" errorplus="71.00">2019.00</distance>
 	<star>
 		<name>EPIC 201596316</name>
 		<name>K2-11</name>
 		<name>2MASS J11161006+0159128</name>
 		<mass errorminus="0.56" errorplus="0.04">1.35</mass>
-		<radius errorminus="4.39" errorplus="0.2">5.15</radius>
-		<magJ errorminus="0.02" errorplus="0.02">11.87</magJ>
-		<magH errorminus="0.02" errorplus="0.02">11.46</magH>
-		<magK errorminus="0.02" errorplus="0.02">11.35</magK>
-		<temperature errorminus="144" errorplus="49">5433</temperature>
-		<metallicity errorminus="0.17" errorplus="0.01">-0.12</metallicity>
+		<radius errorminus="4.39" errorplus="0.20">5.15</radius>
+		<magV errorminus="0.090" errorplus="0.090">13.386</magV>
+		<magB errorminus="0.110" errorplus="0.110">14.214</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.865</magJ>
+		<magH errorminus="0.024" errorplus="0.024">11.458</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.347</magK>
+		<temperature errorminus="144.00" errorplus="49.00">5433.00</temperature>
+		<metallicity errorminus="0.170" errorplus="0.010">-0.120</metallicity>
 		<planet>
 			<name>EPIC 201596316 b</name>
 			<name>EPIC 201596316.01</name>
 			<name>K2-11 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.859" errorplus="0.859">0.695</radius>
-			<period errorminus="0.23229" errorplus="0.23229">39.93767</period>
-			<semimajoraxis errorminus="0.0143" errorplus="0.0143">0.2257</semimajoraxis>
+			<radius errorminus="0.832" errorplus="0.832">0.674</radius>
+			<period errorminus="0.23229000" errorplus="0.23229000">39.93767000</period>
+			<semimajoraxis errorminus="0.014300" errorplus="0.014300">0.225700</semimajoraxis>
 			<temperature errorminus="253" errorplus="253">734</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.1156" errorplus="0.1156" unit="BJD">2456829.829</transittime>
+			<transittime errorminus=".115600" errorplus="0.115600" unit="BJD">2456829.829000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

@@ -9,12 +9,14 @@
 		<name>Kepler-49</name>
 		<name>KOI-248</name>
 		<name>KIC 5364071</name>
-		<mass errorminus="0.0090" errorplus="0.0090">0.5490</mass>
-		<radius errorminus=".021" errorplus="0.021">0.559</radius>
+		<mass errorminus="0.0090" errorplus="0.0090">0.55</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.56</radius>
+		<magV>15.264</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.184</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.487</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.383</magK>
-		<temperature errorminus="100" errorplus="100">4252</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4252.00</temperature>
+		<metallicity>-0.151</metallicity>
 		<planet>
 			<name>Kepler-49 b</name>
 			<name>KOI-248 b</name>
@@ -22,14 +24,15 @@
 			<name>KIC 5364071 b</name>
 			<name>KIC 5364071.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.21416</radius>
-			<period errorminus=".000008" errorplus="0.000008">7.203871</period>
+			<mass type="Mass">0.98000</mass>
+			<radius errorminus="0.00820" errorplus="0.00820">0.243</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">7.20379450</period>
 			<description>Kepler-49 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-49 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006400" errorplus="0.0006400">2455003.2858700</transittime>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="BJD">2455003.287530</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-49 c</name>
@@ -38,14 +41,15 @@
 			<name>KIC 5364071 c</name>
 			<name>KIC 5364071.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.18773</radius>
-			<period errorminus=".000021" errorplus="0.000021">10.912732</period>
+			<mass type="Mass">0.72000</mass>
+			<radius errorminus="0.00820" errorplus="0.00820">0.227</radius>
+			<period errorminus="0.00006900" errorplus="0.00006900">10.91293430</period>
 			<description>Kepler-49 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-49 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010800" errorplus="0.0010800">2455002.8518300</transittime>
+			<transittime errorminus=".002200" errorplus="0.002200" unit="BJD">2455002.849190</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-49 d</name>
@@ -54,13 +58,14 @@
 			<name>KIC 5364071 d</name>
 			<name>KIC 5364071.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00638" errorplus="0.00638">0.14581</radius>
-			<period errorminus=".000003" errorplus="0.000003">2.576549</period>
+			<radius errorminus="0.006" errorplus="0.006">0.143</radius>
+			<period errorminus="0.00000300" errorplus="0.00000300">2.57654900</period>
+			<semimajoraxis>0.031000</semimajoraxis>
 			<description>Kepler-49 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-49 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006600" errorplus="0.0006600">2455005.1293200</transittime>
+			<transittime errorminus=".000660" errorplus="0.000660" unit="BJD">2455005.129320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 5364071 e</name>
 			<name>KIC 5364071.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.00729">0.14216</radius>
-			<period errorminus=".000079" errorplus="0.000079">18.596108</period>
+			<radius errorminus="0.007" errorplus="0.007">0.139</radius>
+			<period errorminus="0.00007900" errorplus="0.00007900">18.59610800</period>
+			<semimajoraxis>0.116000</semimajoraxis>
 			<description>Kepler-49 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-49 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024200" errorplus="0.0024200">2454974.2641500</transittime>
+			<transittime errorminus=".002420" errorplus="0.002420" unit="BJD">2454974.264150</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

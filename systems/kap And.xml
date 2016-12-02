@@ -1,0 +1,28 @@
+<system>
+	<name>kap And</name>
+	<rightascension>23 40 24</rightascension>
+	<declination>+44 20 02</declination>
+	<distance errorminus="1.82" errorplus="1.70">52.03</distance>
+	<star>
+		<name>kap And</name>
+		<mass errorminus="0.20" errorplus="0.20">2.60</mass>
+		<magV>4.140</magV>
+		<magB>4.060</magB>
+		<magJ errorminus="0.264" errorplus="0.264">4.624</magJ>
+		<magH errorminus="0.218" errorplus="0.218">4.595</magH>
+		<magK errorminus="0.354" errorplus="0.354">4.571</magK>
+		<temperature errorminus="300.00" errorplus="300.00">10900.00</temperature>
+		<age errorminus="0.010" errorplus="0.120">0.030</age>
+		<metallicity errorminus="0.090" errorplus="0.090">-0.360</metallicity>
+		<spectraltype>B9 IV</spectraltype>
+		<planet>
+			<name>kap And b</name>
+			<mass errorminus="1.04700" errorplus="23.04200" type="Mass">13.61600</mass>
+			<semimajoraxis errorminus="2.000000" errorplus="2.000000">55.000000</semimajoraxis>
+			<temperature errorminus="200" errorplus="100">1900</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -10,11 +10,13 @@
 		<name>KOI-584</name>
 		<name>KIC 9146018</name>
 		<mass errorminus="0.0350" errorplus="0.0350">0.9050</mass>
-		<radius errorminus=".164" errorplus="0.164">1.007</radius>
+		<radius errorminus="0.16" errorplus="0.16">1.01</radius>
+		<magV>14.129</magV>
 		<magJ errorminus="0.021" errorplus="0.021">12.892</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.512</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.427</magK>
-		<temperature errorminus="100" errorplus="100">5479</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5479.00</temperature>
+		<metallicity>-0.153</metallicity>
 		<planet>
 			<name>Kepler-192 b</name>
 			<name>KOI-584 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9146018 b</name>
 			<name>KIC 9146018.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04101" errorplus="0.04101">0.24970</radius>
-			<period errorminus=".000018" errorplus="0.000018">9.926746</period>
+			<radius errorminus="0.040" errorplus="0.040">0.244</radius>
+			<period errorminus="0.00001800" errorplus="0.00001800">9.92674600</period>
+			<semimajoraxis>0.090000</semimajoraxis>
 			<description>Kepler-192 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-192 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010200" errorplus="0.0010200">2455008.6850100</transittime>
+			<transittime errorminus=".001020" errorplus="0.001020" unit="BJD">2455008.685010</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +41,27 @@
 			<name>KIC 9146018 c</name>
 			<name>KIC 9146018.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04739" errorplus="0.04739">0.25425</radius>
-			<period errorminus=".000076" errorplus="0.000076">21.223400</period>
+			<radius errorminus="0.046" errorplus="0.046">0.249</radius>
+			<period errorminus="0.00007600" errorplus="0.00007600">21.22340000</period>
+			<semimajoraxis>0.150000</semimajoraxis>
 			<description>Kepler-192 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-192 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021800" errorplus="0.0021800">2455003.3746000</transittime>
+			<transittime errorminus=".002180" errorplus="0.002180" unit="BJD">2455003.374600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-192 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.009">0.091</radius>
-			<period errorminus="0.000043200" errorplus="0.000043200">6.470275790</period>
+			<period errorminus="0.00004320" errorplus="0.00004320">6.47027579</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005410" errorplus="0.005410" unit="JD">2454969.506620</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

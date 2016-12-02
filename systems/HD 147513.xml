@@ -2,7 +2,7 @@
 	<name>HD 147513</name>
 	<rightascension>16 24 01</rightascension>
 	<declination>-39 11 34</declination>
-	<distance>12.9</distance>
+	<distance errorminus="0.14" errorplus="0.14">12.87</distance>
 	<binary>
 		<separation unit="arcsec">345</separation>
 		<separation unit="AU">4451</separation>
@@ -35,7 +35,7 @@
 				<eccentricity>0.26</eccentricity>
 				<description>The star system HD 147513, also known as HR 6094, consists of a Sun-like star, a white dwarf stellar remnant and a Jupiter-mass planet. The planet was discovered on 18 June 2002.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2003</discoveryyear>
 			</planet>
 		</star>
@@ -47,4 +47,70 @@
 			<spectraltype>DA2</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 147513 A</name>
+		<name>62 G. Scorpii A</name>
+		<name>HR 6094 A</name>
+		<mass>0.92</mass>
+		<radius>1</radius>
+		<magV>5.37</magV>
+		<magB>5.973</magB>
+		<magR>5.4</magR>
+		<magJ errorminus="0.26" errorplus="0.26">4.41</magJ>
+		<magH errorminus="0.19" errorplus="0.19">4.03</magH>
+		<magK errorminus="0.04" errorplus="0.04">3.93</magK>
+		<metallicity>-0.03</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<planet>
+			<name>HD 147513 A b</name>
+			<name>62 G. Scorpii A b</name>
+			<name>HR 6094 A b</name>
+			<name>HD 147513 A</name>
+			<name>HD 147513 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.21</mass>
+			<period>528.4</period>
+			<semimajoraxis>1.32</semimajoraxis>
+			<eccentricity>0.26</eccentricity>
+			<description>The star system HD 147513, also known as HR 6094, consists of a Sun-like star, a white dwarf stellar remnant and a Jupiter-mass planet. The planet was discovered on 18 June 2002.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 147513 B</name>
+		<name>62 G. Scorpii B</name>
+		<name>HR 6094 B</name>
+		<mass>0.65</mass>
+		<spectraltype>DA2</spectraltype>
+	</star>
+	<star>
+		<name>HD 147513</name>
+		<mass>1.11</mass>
+		<radius>1.0</radius>
+		<magV>5.390</magV>
+		<magB>6.010</magB>
+		<magJ errorminus="0.258" errorplus="0.258">4.405</magJ>
+		<magH errorminus="0.190" errorplus="0.190">4.025</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.933</magK>
+		<temperature>5883.00</temperature>
+		<age>0.300</age>
+		<metallicity>0.060</metallicity>
+		<spectraltype>G3/5 V</spectraltype>
+		<planet>
+			<name>HD 147513 b</name>
+			<mass type="Msini">1.21000</mass>
+			<period errorminus="6.30000000" errorplus="6.30000000">528.40000000</period>
+			<semimajoraxis>1.320000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.260000</eccentricity>
+			<periastron errorminus="9.0000" errorplus="9.0000">282.0000</periastron>
+			<periastrontime errorminus="20.000000" errorplus="20.000000">2451123.000000</periastrontime>
+			<maximumrvtime errorminus="20.000000" errorplus="20.000000">2451123.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+	</star>
 </system>

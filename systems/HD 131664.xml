@@ -1,8 +1,8 @@
 <system>
 	<name>HD 131664</name>
-	<rightascension>15 00 06.08</rightascension>
-	<declination>-73 32 07.2</declination>
-	<distance errorminus="2.3" errorplus="2.3">55.43</distance>
+	<rightascension>15 00 06</rightascension>
+	<declination>-73 32 07</declination>
+	<distance errorminus="3.11" errorplus="2.80">57.21</distance>
 	<star>
 		<name>HD 131664</name>
 		<name>HIP 73408</name>
@@ -11,28 +11,31 @@
 		<name>CPD-73 1409</name>
 		<mass errorminus="0.03" errorplus="0.03">1.10</mass>
 		<radius>1.16</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.13</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.82</magB>
+		<magV errorminus="0.012" errorplus="0.012">8.128</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.818</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.973</magJ>
 		<magH errorminus="0.040" errorplus="0.040">6.727</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.647</magK>
-		<temperature errorminus="21" errorplus="21">5886</temperature>
-		<age errorminus="1.8" errorplus="1.8">2.4</age>
-		<metallicity errorminus="0.02" errorplus="0.02">0.32</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<temperature errorminus="21.00" errorplus="21.00">5886.00</temperature>
+		<age errorminus="1.800" errorplus="1.800">2.400</age>
+		<metallicity errorminus="0.020" errorplus="0.020">0.320</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 131664 b</name>
 			<list>Controversial</list>
-			<mass lowerlimit="36.3" upperlimit="139.7">85.2</mass>
-			<period errorminus="41" errorplus="41">1951</period>
-			<semimajoraxis errorminus="0.03" errorplus="0.03">3.17</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.638</eccentricity>
-			<periastron errorminus="1.0" errorplus="1.0">149.7</periastron>
+			<mass errorminus="0.35000" errorplus="0.35000" lowerlimit="36.3" type="Msini" upperlimit="139.7">18.15000</mass>
+			<period errorminus="41.00000000" errorplus="41.00000000">1951.00000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">3.170000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.638000</eccentricity>
+			<periastron errorminus="1.0000" errorplus="1.0000">149.7000</periastron>
+			<periastrontime errorminus="41.000000" errorplus="41.000000">2452060.000000</periastrontime>
 			<ascendingnode lowerlimit="276.4" upperlimit="10.0">320.8</ascendingnode>
+			<maximumrvtime errorminus="41.000000" errorplus="41.000000">2452060.000000</maximumrvtime>
 			<inclination lowerlimit="149.3" upperlimit="171.9">167.1</inclination>
 			<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/01/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

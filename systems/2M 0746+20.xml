@@ -2,28 +2,29 @@
 	<name>2M 0746+20</name>
 	<name>2MASS J07464256+2000321</name>
 	<rightascension>07 46 42.562</rightascension>
-	<declination>+20 00 32.18</declination>
+	<declination>+20 00 32</declination>
 	<distance>12.21</distance>
 	<star>
 		<name>2M 0746+20</name>
 		<name>2MASS J07464256+2000321 A</name>
-		<mass>0.12</mass>
-		<radius>0.089</radius>
+		<mass errorminus="0.09" errorplus="0.09">0.12</mass>
+		<radius errorminus="0.003" errorplus="0.003">0.089</radius>
 		<magV>17.7</magV>
-		<temperature>2205.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">2205.0</temperature>
 		<spectraltype>L0/L1.5</spectraltype>
 		<planet>
 			<name>2M 0746+20 b</name>
 			<name>2MASS J07464256+2000321 B</name>
 			<list>Confirmed planets</list>
-			<mass>30</mass>
-			<radius>0.97</radius>
-			<period>4640</period>
-			<semimajoraxis>2.897</semimajoraxis>
-			<eccentricity>0.487</eccentricity>
-			<inclination>138.2</inclination>
+			<mass errorminus="25.0" errorplus="25.0">30.0</mass>
+			<radius errorminus="0.06" errorplus="0.06">0.97</radius>
+			<period errorminus="25.0" errorplus="25.0">4640.0</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">2.897</semimajoraxis>
+			<eccentricity errorminus="0.003" errorplus="0.003">0.487</eccentricity>
+			<periastron errorminus="0.9" errorplus="0.9">354.4</periastron>
+			<inclination errorminus="0.5" errorplus="0.5">138.2</inclination>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>12/01/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

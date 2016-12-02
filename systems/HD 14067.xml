@@ -1,0 +1,33 @@
+<system>
+	<name>HD 14067</name>
+	<rightascension>02 17 10</rightascension>
+	<declination>+23 46 04</declination>
+	<distance errorminus="12.30" errorplus="12.30">163.40</distance>
+	<star>
+		<name>HD 14067</name>
+		<mass errorminus="0.20" errorplus="0.20">2.40</mass>
+		<radius errorminus="1.10" errorplus="1.10">12.40</radius>
+		<magV>6.530</magV>
+		<magB>7.555</magB>
+		<magJ errorminus="0.037" errorplus="0.037">4.718</magJ>
+		<magH errorminus="0.220" errorplus="0.220">4.448</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.097</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4815.00</temperature>
+		<age errorminus="0.200" errorplus="0.200">0.690</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.100</metallicity>
+		<spectraltype>G9 III</spectraltype>
+		<planet>
+			<name>HD 14067 b</name>
+			<mass errorminus="0.70000" errorplus="0.70000" type="Msini">7.80000</mass>
+			<period errorminus="12.00000000" errorplus="13.00000000">1455.00000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">3.400000</semimajoraxis>
+			<eccentricity errorminus="0.047000" errorplus="0.043000">0.533000</eccentricity>
+			<periastron errorminus="5.7000" errorplus="5.6000">109.9000</periastron>
+			<periastrontime errorminus="37.000000" errorplus="31.000000">2451443.000000</periastrontime>
+			<maximumrvtime errorminus="37.000000" errorplus="31.000000">2451443.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

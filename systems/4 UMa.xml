@@ -1,8 +1,8 @@
 <system>
 	<name>4 UMa</name>
-	<rightascension>08 40 12.81767</rightascension>
-	<declination>+64 19 40.5700</declination>
-	<distance>78.5</distance>
+	<rightascension>08 40 12</rightascension>
+	<declination>+64 19 40</declination>
+	<distance errorminus="4.50" errorplus="4.03">77.40</distance>
 	<star>
 		<name>4 UMa</name>
 		<name>4 Ursae Majoris</name>
@@ -16,19 +16,19 @@
 		<name>BD+64 698</name>
 		<name>HR 3404</name>
 		<name>2MASS J08401279+6419405</name>
-		<mass errorminus="0.15" errorplus="0.15">1.234</mass>
+		<mass errorminus="0.15" errorplus="0.15">1.23</mass>
 		<radius errorminus="1.47" errorplus="1.47">18.11</radius>
-		<magV errorminus="0.005" errorplus="0.005">5.787</magV>
-		<magB>5.787</magB>
+		<magV errorminus="0.005" errorplus="0.005">4.610</magV>
+		<magB>5.780</magB>
 		<magR>3.72</magR>
 		<magI>3.09</magI>
-		<magJ>2.48</magJ>
-		<magH>1.94</magH>
-		<magK>1.88</magK>
-		<temperature errorminus="70" errorplus="70">4415</temperature>
-		<age errorminus="2.0" errorplus="2.0">4.604</age>
-		<metallicity errorminus="0.04" errorplus="0.04">-0.25</metallicity>
-		<spectraltype>K1III</spectraltype>
+		<magJ errorminus="0.290" errorplus="0.290">2.619</magJ>
+		<magH errorminus="0.186" errorplus="0.186">2.021</magH>
+		<magK errorminus="0.218" errorplus="0.218">1.734</magK>
+		<temperature errorminus="70.00" errorplus="70.00">4415.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">4.604</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.250</metallicity>
+		<spectraltype>K1 III</spectraltype>
 		<planet>
 			<name>4 UMa b</name>
 			<name>4 Ursae Majoris b</name>
@@ -43,17 +43,18 @@
 			<name>HR 3404 b</name>
 			<name>2MASS J08401279+6419405 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.6" errorplus="1.6" type="msini">7.1</mass>
-			<period errorminus="1.96" errorplus="1.96">269.3</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">0.87</semimajoraxis>
-			<eccentricity errorminus="0.024" errorplus="0.024">0.432</eccentricity>
-			<periastron errorminus="4.42" errorplus="4.42">23.81</periastron>
-			<periastrontime errorminus="4.31" errorplus="4.31">2452987.3936</periastrontime>
+			<mass errorminus="1.60000" errorplus="1.60000" type="Msini">7.10000</mass>
+			<period errorminus="1.96000000" errorplus="1.96000000">269.30000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">0.870000</semimajoraxis>
+			<eccentricity errorminus="0.024000" errorplus="0.024000">0.432000</eccentricity>
+			<periastron errorminus="4.4200" errorplus="4.4200">23.8100</periastron>
+			<periastrontime errorminus="4.310000" errorplus="4.310000">2452987.393600</periastrontime>
+			<maximumrvtime errorminus="4.310000" errorplus="4.310000">2452987.393600</maximumrvtime>
 			<temperature>877.3</temperature>
 			<description>4 Ursae Majoris is also known as Muscida, a name that is shared with 3 Ursae Majoris and Omicron Ursae Majoris.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>
 </system>

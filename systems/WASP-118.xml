@@ -1,0 +1,35 @@
+<system>
+	<name>WASP-118</name>
+	<rightascension>01 18 12</rightascension>
+	<declination>+02 42 10</declination>
+	<distance errorminus="35.00" errorplus="35.00">250.00</distance>
+	<star>
+		<name>WASP-118</name>
+		<mass errorminus="0.04" errorplus="0.04">1.32</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.70</radius>
+		<magV>11.020</magV>
+		<magB errorminus="0.108" errorplus="0.108">11.621</magB>
+		<magJ errorminus="0.026" errorplus="0.026">10.087</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.847</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.788</magK>
+		<temperature errorminus="125.00" errorplus="125.00">6410.00</temperature>
+		<age errorminus="0.750" errorplus="5.720">1.170</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.160</metallicity>
+		<spectraltype>F6</spectraltype>
+		<planet>
+			<name>WASP-118 b</name>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Mass">0.51400</mass>
+			<radius errorminus="0.036" errorplus="0.036">1.440</radius>
+			<period errorminus="0.00000440" errorplus="0.00000440">4.04604350</period>
+			<semimajoraxis errorminus="0.000480" errorplus="0.000480">0.054530</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="0.900" errorplus="0.900">88.700</inclination>
+			<temperature errorminus="36" errorplus="36">1729</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000620" errorplus="0.000620" unit="HJD">2456787.814230</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,49 @@
+<system>
+	<name>GJ 3341</name>
+	<name>Gliese 3341</name>
+	<rightascension>05 15 46</rightascension>
+	<declination>-31 17 45</declination>
+	<distance errorminus="0.7" errorplus="0.7">23.2</distance>
+	<star>
+		<name>Gliese 3341</name>
+		<name>GJ 3341</name>
+		<name>LHS 1748</name>
+		<name>2MASS J05154667-3117456</name>
+		<name>PM 05138-3121</name>
+		<name>RAVE J051546.7-311746</name>
+		<mass>0.47</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.44</radius>
+		<magV>12.080</magV>
+		<magB>13.58</magB>
+		<magR>11.07</magR>
+		<magI>9.82</magI>
+		<magJ errorminus="0.020" errorplus="0.020">8.592</magJ>
+		<magH errorminus="0.049" errorplus="0.049">7.990</magH>
+		<magK errorminus="0.022" errorplus="0.022">7.733</magK>
+		<temperature errorminus="49.00" errorplus="49.00">3526.00</temperature>
+		<metallicity errorminus="0.090" errorplus="0.090">-0.090</metallicity>
+		<spectraltype>M2.5</spectraltype>
+		<planet>
+			<name>Gliese 3341 b</name>
+			<name>GJ 3341 b</name>
+			<name>LHS 1748 b</name>
+			<name>2MASS J05154667-3117456 b</name>
+			<name>PM 05138-3121 b</name>
+			<name>RAVE J051546.7-311746 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00030" errorplus="0.00030" type="Msini">0.02080</mass>
+			<period errorminus="0.00700000" errorplus="0.00700000">14.20700000</period>
+			<semimajoraxis>0.089000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.110000">0.310000</eccentricity>
+			<periastron errorminus="4.3000" errorplus="4.3000">42.3200</periastron>
+			<periastrontime errorminus="0.800000" errorplus="0.800000">2455622.700000</periastrontime>
+			<maximumrvtime errorminus="0.800000" errorplus="0.800000">2455622.700000</maximumrvtime>
+			<description>Gliese 3341 is a star with high proper motion and is orbited by a super-Earth planet.</description>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="0.8" errorplus="0.8">2455622.7</transittime>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

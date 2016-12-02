@@ -1,32 +1,35 @@
 <system>
 	<name>Kepler-431</name>
-	<rightascension>18 44 26.96</rightascension>
-	<declination>+43 13 40.0</declination>
+	<rightascension>18 44 26</rightascension>
+	<declination>+43 13 40</declination>
 	<star>
 		<name>Kepler-431</name>
 		<name>KOI-3097</name>
 		<name>KIC 7582689</name>
 		<name>2MASS J18442696+4313400</name>
-		<mass>1.071</mass>
-		<radius>1.092</radius>
+		<mass errorminus="0.04" errorplus="0.06">1.07</mass>
+		<radius errorminus="0.11" errorplus="0.19">1.09</radius>
+		<magV>11.973</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.945</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.678</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.649</magK>
-		<temperature>6004</temperature>
+		<temperature errorminus="75.00" errorplus="75.00">6004.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">0.070</metallicity>
 		<planet>
 			<name>Kepler-431 b</name>
 			<name>KOI-3097 b</name>
 			<name>KOI-3097.02</name>
 			<name>KIC 7582689 b</name>
 			<list>Confirmed planets</list>
-			<radius>0.0682</radius>
-			<period>6.803</period>
-			<semimajoraxis>0.0719</semimajoraxis>
+			<radius>0.068</radius>
+			<period>6.80300000</period>
+			<semimajoraxis>0.071900</semimajoraxis>
+			<temperature>1032</temperature>
 			<description>The planet Kepler-431 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00889" errorplus="0.00889">2454971.03562</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -35,14 +38,15 @@
 			<name>KOI-3097.03</name>
 			<name>KIC 7582689 c</name>
 			<list>Confirmed planets</list>
-			<radius>0.0596</radius>
-			<period>8.703</period>
-			<semimajoraxis>0.0847</semimajoraxis>
+			<radius>0.060</radius>
+			<period>8.70300000</period>
+			<semimajoraxis>0.084700</semimajoraxis>
+			<temperature>951</temperature>
 			<description>The planet Kepler-431 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0106" errorplus="0.0106">2454973.1707</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -51,14 +55,15 @@
 			<name>KOI-3097.01</name>
 			<name>KIC 7582689 d</name>
 			<list>Confirmed planets</list>
-			<radius>0.0990</radius>
-			<period>11.922</period>
-			<semimajoraxis>0.1045</semimajoraxis>
+			<radius>0.100</radius>
+			<period>11.92200000</period>
+			<semimajoraxis>0.104500</semimajoraxis>
+			<temperature>856</temperature>
 			<description>The planet Kepler-431 d was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00842" errorplus="0.00842">2454970.47509</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

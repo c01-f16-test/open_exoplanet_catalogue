@@ -1,32 +1,36 @@
 <system>
 	<name>HD 154345</name>
 	<rightascension>17 02 36</rightascension>
-	<declination>+47 04 55</declination>
-	<distance>18.06</distance>
+	<declination>+47 04 54</declination>
+	<distance errorminus="0.18" errorplus="0.18">18.06</distance>
 	<star>
 		<name>HD 154345</name>
 		<mass>0.88</mass>
-		<magV>6.74</magV>
-		<magB>7.50</magB>
+		<magV errorminus="0.000" errorplus="0.000">6.760</magV>
+		<magB errorminus="0.010" errorplus="0.010">7.490</magB>
 		<magR>6.3</magR>
 		<magI>6.0</magI>
 		<magJ errorminus="0.041" errorplus="0.041">5.411</magJ>
 		<magH errorminus="0.020" errorplus="0.020">5.098</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.003</magK>
-		<temperature>5468.0</temperature>
-		<metallicity>-0.105</metallicity>
-		<spectraltype>G8V</spectraltype>
+		<temperature errorminus="44.0" errorplus="44.0">5468.0</temperature>
+		<age errorminus="4.48" errorplus="4.48">4.92</age>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.105</metallicity>
+		<spectraltype>G8 V</spectraltype>
 		<planet>
 			<name>HD 154345 b</name>
 			<list>Confirmed planets</list>
-			<mass>1</mass>
-			<period>3538</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
-			<inclination>50</inclination>
+			<mass errorminus="0.09000" errorplus="0.09000" type="Msini">0.94700</mass>
+			<period errorminus="95.00000000" errorplus="95.00000000">3342.00000000</period>
+			<semimajoraxis errorminus="0.260000" errorplus="0.260000">4.190000</semimajoraxis>
+			<eccentricity errorminus="0.046000" errorplus="0.046000">0.044000</eccentricity>
+			<periastron errorminus="60.0" errorplus="60.0">68.0000</periastron>
+			<periastrontime errorminus="330.000000" errorplus="330.000000">2452830.000000</periastrontime>
+			<maximumrvtime errorminus="330.000000" errorplus="330.000000">2452830.000000</maximumrvtime>
+			<inclination errorminus="26.0" errorplus="26.0">50.0</inclination>
 			<temperature>106.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

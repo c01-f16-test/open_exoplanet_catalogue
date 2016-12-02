@@ -1,36 +1,39 @@
 <system>
 	<name>Kepler-436</name>
-	<rightascension>20 06 52.98</rightascension>
-	<declination>+44 24 43.4</declination>
-	<distance errorminus="30" errorplus="34">618</distance>
+	<rightascension>20 06 52</rightascension>
+	<declination>+44 24 43</declination>
+	<distance errorminus="30.00" errorplus="34.00">618.00</distance>
 	<star>
 		<name>Kepler-436</name>
 		<name>KOI-2529</name>
 		<name>KIC 8463346</name>
 		<name>2MASS J20065298+4424434</name>
-		<mass errorminus="0.029" errorplus="0.033">0.729</mass>
-		<radius errorminus="0.023" errorplus="0.028">0.697</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.73</mass>
+		<radius errorminus="0.02" errorplus="0.03">0.70</radius>
+		<magV>15.856</magV>
+		<magB>0.25</magB>
 		<magJ errorminus="0.028" errorplus="0.028">14.083</magJ>
 		<magH errorminus="0.032" errorplus="0.032">13.490</magH>
 		<magK errorminus="0.036" errorplus="0.036">13.333</magK>
-		<temperature errorminus="100" errorplus="100">4651</temperature>
-		<age errorminus="0.3" errorplus="7.7">3.0</age>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<temperature errorminus="100.00" errorplus="100.00">4651.00</temperature>
+		<age errorminus="0.300" errorplus="7.700">3.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.010</metallicity>
 		<planet>
 			<name>Kepler-436 b</name>
 			<name>KOI-2529.02</name>
 			<name>KOI-2529 b</name>
 			<name>KIC 8463346 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.021" errorplus="0.021">0.244</radius>
-			<period errorminus="0.00053" errorplus="0.00072">64.00205</period>
-			<semimajoraxis errorminus="0.053" errorplus="0.134">0.339</semimajoraxis>
-			<inclination errorminus="0.18" errorplus="0.07">89.93</inclination>
+			<radius errorminus="0.020" errorplus="0.020">0.240</radius>
+			<period errorminus="0.00072000" errorplus="0.00072000">64.00205000</period>
+			<semimajoraxis errorminus="0.053000" errorplus="0.134000">0.339000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.130000">0.190000</eccentricity>
+			<inclination errorminus="0.180" errorplus="0.070">89.930</inclination>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0049" errorplus="0.0042" unit="BJD">2455477.6307</transittime>
+			<transittime errorminus=".004900" errorplus="0.004200" unit="BJD-UTC">2455477.630700</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -38,12 +41,13 @@
 			<name>KOI-2529.01</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.017">0.208</radius>
-			<period errorminus="0.000085610" errorplus="0.000085610">16.797138740</period>
+			<period errorminus="0.00008561" errorplus="0.00008561">16.79713874</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004040" errorplus="0.004040" unit="JD">2454967.042210</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

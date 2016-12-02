@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1498</name>
-	<rightascension>18 59 07</rightascension>
+	<rightascension>18 59 06</rightascension>
 	<declination>+44 55 00</declination>
+	<distance errorminus="39.42" errorplus="46.60">740.00</distance>
 	<star>
 		<name>Kepler-1498</name>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.81</radius>
-		<temperature errorminus="58.2" errorplus="60.4">5256.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<magV>15.033</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.703</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.233</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.238</magK>
+		<temperature errorminus="58.16" errorplus="60.36">5256.00</temperature>
+		<age errorminus="2.440" errorplus="6.280">4.170</age>
+		<metallicity errorminus="0.156" errorplus="0.141">-0.010</metallicity>
 		<planet>
 			<name>Kepler-1498 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.008" errorplus="0.010">0.119</radius>
-			<period errorminus="0.000933100" errorplus="0.000933100">48.051405000</period>
+			<period errorminus="0.00093310" errorplus="0.00093310">48.05140500</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".015500" errorplus="0.015500" unit="JD">2454973.501000</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

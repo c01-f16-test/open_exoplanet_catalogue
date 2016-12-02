@@ -1,30 +1,34 @@
 <system>
 	<name>HD 181720</name>
-	<rightascension>19 22 53</rightascension>
-	<declination>-32 55 09</declination>
-	<distance>56</distance>
+	<rightascension>19 22 52</rightascension>
+	<declination>-32 55 08</declination>
+	<distance errorminus="4.42" errorplus="3.82">55.93</distance>
 	<star>
 		<name>HD 181720</name>
 		<mass>0.92</mass>
-		<magV>7.86</magV>
-		<magB>8.44</magB>
+		<radius>1.39</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.849</magV>
+		<magB errorminus="0.019" errorplus="0.019">8.434</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.652</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.346</magH>
 		<magK errorminus="0.034" errorplus="0.034">6.294</magK>
-		<temperature>5781.0</temperature>
-		<metallicity>-0.53</metallicity>
-		<spectraltype>G1V</spectraltype>
+		<temperature errorminus="18.00" errorplus="18.00">5781.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.530</metallicity>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HD 181720 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.37</mass>
-			<period>956</period>
-			<semimajoraxis>1.78</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
-			<inclination>1</inclination>
+			<mass errorminus="5.9" errorplus="200.0" type="Msini">0.37000</mass>
+			<period errorminus="14.00000000" errorplus="14.00000000">956.00000000</period>
+			<semimajoraxis>1.780000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.260000</eccentricity>
+			<periastron errorminus="12.0000" errorplus="12.0000">177.0000</periastron>
+			<periastrontime errorminus="30.000000" errorplus="30.000000">2453631.000000</periastrontime>
+			<maximumrvtime errorminus="30.000000" errorplus="30.000000">2453631.000000</maximumrvtime>
+			<inclination errorminus="1.65" errorplus="1.65">1.75</inclination>
 			<temperature>225.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

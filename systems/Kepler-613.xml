@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-613</name>
-	<rightascension>18 51 09</rightascension>
+	<rightascension>18 51 08</rightascension>
 	<declination>+46 14 42</declination>
+	<distance errorminus="69.42" errorplus="150.34">864.00</distance>
 	<star>
 		<name>Kepler-613</name>
 		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius errorminus="0.07" errorplus="0.17">0.96</radius>
-		<temperature errorminus="67.4" errorplus="68.7">5723.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.01</metallicity>
+		<magV>14.608</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.483</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.140</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.067</magK>
+		<temperature errorminus="67.42" errorplus="68.68">5723.00</temperature>
+		<age errorminus="2.540" errorplus="3.940">4.270</age>
+		<metallicity errorminus="0.183" errorplus="0.139">-0.010</metallicity>
 		<planet>
 			<name>Kepler-613 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.036">0.204</radius>
-			<period errorminus="0.000042580" errorplus="0.000042580">15.779796140</period>
+			<period errorminus="0.00004258" errorplus="0.00004258">15.77979614</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002150" errorplus="0.002150" unit="JD">2455008.970140</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

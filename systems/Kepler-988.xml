@@ -2,22 +2,29 @@
 	<name>Kepler-988</name>
 	<rightascension>19 22 50</rightascension>
 	<declination>+42 14 14</declination>
+	<distance errorminus="13.39" errorplus="14.06">248.00</distance>
 	<star>
 		<name>Kepler-988</name>
 		<mass errorminus="0.02" errorplus="0.02">0.55</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.53</radius>
-		<temperature errorminus="41.9" errorplus="43.6">4005.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.32</metallicity>
+		<magV>15.220</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.138</magJ>
+		<magH errorminus="0.018" errorplus="0.018">12.450</magH>
+		<magK errorminus="0.015" errorplus="0.015">12.290</magK>
+		<temperature errorminus="41.86" errorplus="43.58">4005.00</temperature>
+		<age errorminus="1.620" errorplus="4.320">3.160</age>
+		<metallicity errorminus="0.095" errorplus="0.103">-0.320</metallicity>
 		<planet>
 			<name>Kepler-988 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.042">0.185</radius>
-			<period errorminus="0.000027280" errorplus="0.000027280">17.760800530</period>
+			<period errorminus="0.00002728" errorplus="0.00002728">17.76080053</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001280" errorplus="0.001280" unit="JD">2454970.506280</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

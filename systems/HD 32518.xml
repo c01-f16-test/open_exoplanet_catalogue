@@ -1,8 +1,8 @@
 <system>
 	<name>HD 32518</name>
-	<rightascension>05 09 36.71904</rightascension>
-	<declination>+69 38 21.8510</declination>
-	<distance errorminus="8.4" errorplus="8.4">120.6</distance>
+	<rightascension>05 09 36</rightascension>
+	<declination>+69 38 21</declination>
+	<distance errorminus="11.83" errorplus="9.84">117.37</distance>
 	<star>
 		<name>HD 32518</name>
 		<name>HIP 24003</name>
@@ -13,25 +13,27 @@
 		<name>2MASS J05093674+6938219</name>
 		<mass errorminus="0.18" errorplus="0.18">1.13</mass>
 		<radius errorminus="0.87" errorplus="0.87">10.22</radius>
-		<magV>6.44</magV>
-		<magB errorminus="0.007" errorplus="0.007">7.530</magB>
+		<magV errorminus="0.010" errorplus="0.010">6.421</magV>
+		<magB errorminus="0.014" errorplus="0.014">7.530</magB>
 		<magJ errorminus="0.222" errorplus="0.222">4.531</magJ>
 		<magH errorminus="0.144" errorplus="0.144">3.992</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.911</magK>
-		<temperature errorminus="70" errorplus="70">4580</temperature>
-		<metallicity errorminus="0.04" errorplus="0.04">-0.15</metallicity>
-		<spectraltype>K1III</spectraltype>
+		<temperature errorminus="70.00" errorplus="70.00">4580.00</temperature>
+		<age errorminus="2.580" errorplus="2.580">5.830</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.150</metallicity>
+		<spectraltype>K1 III</spectraltype>
 		<planet>
 			<name>HD 32518 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.68" errorplus="0.68" type="msini">3.04</mass>
-			<period errorminus="0.38" errorplus="0.38">157.54</period>
-			<semimajoraxis errorminus="0.03" errorplus="0.03">0.59</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.01</eccentricity>
-			<periastron errorminus="126.71" errorplus="126.71">306.11</periastron>
-			<periastrontime errorminus="13.66" errorplus="13.66">2452950.29</periastrontime>
+			<mass errorminus="0.68000" errorplus="0.68000" type="Msini">3.04000</mass>
+			<period errorminus="0.38000000" errorplus="0.38000000">157.54000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">0.590000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.010000</eccentricity>
+			<periastron errorminus="126.7100" errorplus="126.7100">306.1100</periastron>
+			<periastrontime errorminus="13.660000" errorplus="13.660000">2452950.290000</periastrontime>
+			<maximumrvtime errorminus="13.660000" errorplus="13.660000">2452950.290000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,40 @@
+<system>
+	<name>HD 47366</name>
+	<declination>-12 59 06</declination>
+	<star>
+		<name>HD 47366</name>
+		<mass errorminus="0.13" errorplus="0.13">1.81</mass>
+		<radius errorminus="0.33" errorplus="0.33">7.3</radius>
+		<magV>6.11</magV>
+		<temperature errorminus="100.0" errorplus="100.0">4866.0</temperature>
+		<age errorminus="0.53" errorplus="0.53">1.61</age>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.02</metallicity>
+		<spectraltype>K1III</spectraltype>
+		<planet>
+			<name>HD 47366 b</name>
+			<mass errorminus="0.2" errorplus="0.2" type="Radial Velocity">1.75</mass>
+			<period errorminus="2.5" errorplus="2.5">363.3</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.214</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.079">0.089</eccentricity>
+			<periastron errorminus="71.0" errorplus="100.0">100.0</periastron>
+			<periastrontime errorminus="55.0" errorplus="71.0">2450122.0</periastrontime>
+			<maximumrvtime errorminus="55.0" errorplus="71.0">2450122.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 47366 c</name>
+			<mass errorminus="0.16" errorplus="0.16" type="Radial Velocity">1.86</mass>
+			<period errorminus="5.0" errorplus="5.0">684.7</period>
+			<semimajoraxis errorminus="0.045" errorplus="0.045">1.853</semimajoraxis>
+			<eccentricity errorminus="0.064" errorplus="0.067">0.278</eccentricity>
+			<periastron errorminus="20.0" errorplus="17.0">132.0</periastron>
+			<periastrontime errorminus="62.0" errorplus="55.0">2450445.0</periastrontime>
+			<maximumrvtime errorminus="62.0" errorplus="55.0">2450445.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

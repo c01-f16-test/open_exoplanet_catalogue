@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-139</name>
+	<declination>-41 18 08</declination>
+	<star>
+		<name>WASP-139</name>
+		<magV>12.4</magV>
+		<temperature errorminus="90.0" errorplus="90.0">5310.0</temperature>
+		<age>0.5</age>
+		<metallicity errorminus="0.09" errorplus="0.09">0.2</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>WASP-139 b</name>
+			<mass errorminus="0.017" errorplus="0.017" type="Radial Velocity">0.117</mass>
+			<radius errorminus="0.05" errorplus="0.05">0.8</radius>
+			<period errorminus="4e-06" errorplus="4e-06">5.924262</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.062</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.5">88.9</inclination>
+			<temperature>910.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0003" errorplus="0.0003">2457196.7933</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

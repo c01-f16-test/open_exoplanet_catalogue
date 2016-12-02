@@ -1,8 +1,8 @@
 <system>
 	<name>HD 219134</name>
-	<rightascension>23 13 16.97632</rightascension>
-	<declination>+57 10 06.0823</declination>
-	<distance errorminus="0.012" errorplus="0.012">6.546</distance>
+	<rightascension>23 13 16</rightascension>
+	<declination>+57 10 06</declination>
+	<distance errorminus="0.01" errorplus="0.01">6.55</distance>
 	<star>
 		<name>HD 219134</name>
 		<name>BD+56 2966</name>
@@ -12,20 +12,20 @@
 		<name>2MASS J23131692+5710059</name>
 		<name>PPM 41599</name>
 		<name>TYC 4006-1866-1</name>
-		<mass errorminus="0.022" errorplus="0.037">0.794</mass>
-		<radius errorminus="0.005" errorplus="0.005">0.778</radius>
+		<mass errorminus="0.02" errorplus="0.04">0.79</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.77</radius>
 		<magV errorminus="0.009" errorplus="0.009">5.570</magV>
 		<magU errorminus="0.010" errorplus="0.010">7.460</magU>
 		<magB errorminus="0.007" errorplus="0.007">6.560</magB>
 		<magR>4.76</magR>
 		<magI>4.23</magI>
-		<magJ>3.86</magJ>
-		<magH>3.40</magH>
-		<magK>3.40</magK>
-		<temperature errorminus="16" errorplus="16">4699</temperature>
-		<age>12.9</age>
-		<metallicity errorminus="0.04" errorplus="0.04">0.11</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<magJ errorminus="0.258" errorplus="0.258">3.981</magJ>
+		<magH errorminus="0.226" errorplus="0.226">3.469</magH>
+		<magK errorminus="0.304" errorplus="0.304">3.261</magK>
+		<temperature errorminus="16.0" errorplus="16.0">4913.00</temperature>
+		<age>12.460</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.080</metallicity>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 219134 b</name>
 			<name>BD+56 2966 b</name>
@@ -36,19 +36,21 @@
 			<name>PPM 41599 b</name>
 			<name>TYC 4006-1866-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001" errorplus="0.001" type="msini">0.012</mass>
+			<mass errorminus="0.00100" errorplus="0.00100" type="Msini">0.01200</mass>
 			<radius errorminus="0.0077" errorplus="0.0077">0.1433</radius>
-			<period errorminus="0.0001" errorplus="0.0001">3.0931</period>
-			<semimajoraxis errorminus="0.0000008" errorplus="0.0000008">0.0384740</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<period errorminus="0.00010000" errorplus="0.00010000">3.09310000</period>
+			<semimajoraxis errorminus="0.000001" errorplus="0.000001">0.038474</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.13">0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.200000" errorplus="0.200000">2449999.500000</periastrontime>
+			<maximumrvtime errorminus="0.200000" errorplus="0.200000">2449999.500000</maximumrvtime>
 			<meananomaly errorminus="20" errorplus="20">57</meananomaly>
-			<inclination errorminus="0.080" errorplus="0.080">85.058</inclination>
+			<inclination errorminus="0.08" errorplus="0.08">85.058</inclination>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. Spitzer observations allowed the discoverers to detect the transit of the innermost planet in front of the star making HD 219134 b the nearest known transiting planet to date.</description>
 			<discoverymethod>RV</discoverymethod>
-			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">245126.7001</transittime>
+			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2457126.7001</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -61,15 +63,17 @@
 			<name>PPM 41599 c</name>
 			<name>TYC 4006-1866-1 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.002" errorplus="0.002" type="msini">0.011</mass>
-			<period errorminus="0.0006" errorplus="0.0006">6.7635</period>
+			<mass errorminus="0.00200" errorplus="0.00200" type="Msini">0.01100</mass>
+			<period errorminus="0.00060000" errorplus="0.00060000">6.76350000</period>
 			<semimajoraxis errorminus="0.000004" errorplus="0.000004">0.064816</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<eccentricity errorminus="0.0" errorplus="0.26">0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.500000" errorplus="0.500000">2449998.500000</periastrontime>
+			<maximumrvtime errorminus="0.500000" errorplus="0.500000">2449998.500000</maximumrvtime>
 			<meananomaly errorminus="27" errorplus="27">78</meananomaly>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -82,15 +86,17 @@
 			<name>PPM 41599 d</name>
 			<name>TYC 4006-1866-1 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.003" errorplus="0.003" type="msini">0.028</mass>
-			<period errorminus="0.005" errorplus="0.005">22.805</period>
-			<semimajoraxis errorminus="0.00002" errorplus="0.00002">0.14574</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Msini">0.06700</mass>
+			<period errorminus="0.01000000" errorplus="0.01000000">46.71000000</period>
+			<semimajoraxis errorminus="0.000040" errorplus="0.000040">0.235080</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="1.000000" errorplus="1.000000">2449964.000000</periastrontime>
+			<maximumrvtime errorminus="1.000000" errorplus="1.000000">2449964.000000</maximumrvtime>
 			<meananomaly errorminus="20" errorplus="20">263</meananomaly>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -103,15 +109,15 @@
 			<name>PPM 41599 e</name>
 			<name>TYC 4006-1866-1 e</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.004" errorplus="0.004" type="msini">0.067</mass>
-			<period errorminus="0.01" errorplus="0.01">46.71</period>
-			<semimajoraxis errorminus="0.00005" errorplus="0.00005">0.23508</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<mass errorminus="0.006" errorplus="0.19" type="Radial Velocity">0.0117</mass>
+			<period errorminus="34.0" errorplus="379.0">1190.0</period>
+			<semimajoraxis errorminus="0.15" errorplus="3.41">2.56</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.34</eccentricity>
+			<periastron errorminus="36.83" errorplus="16.38">345.42</periastron>
 			<meananomaly errorminus="11" errorplus="11">277</meananomaly>
 			<description>HD 219134 with its four low-mass planets is the first result of the Rocky Planet Search program with HARPS-N on the Telescopio Nazionale Galileo in La Palma. This planet was designated HD 219134 d in the HARPS-N announcement.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -124,15 +130,17 @@
 			<name>PPM 41599 f</name>
 			<name>TYC 4006-1866-1 f</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.004" errorplus="0.004" type="msini">0.034</mass>
-			<period errorminus="0.2" errorplus="0.2">94.2</period>
-			<semimajoraxis errorminus="0.0004" errorplus="0.0004">0.3753</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
+			<mass errorminus="0.00300" errorplus="0.00300" type="Msini">0.02800</mass>
+			<period errorminus="0.00500000" errorplus="0.00500000">22.80500000</period>
+			<semimajoraxis errorminus="0.000020" errorplus="0.000020">0.145740</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="1.000000" errorplus="1.000000">2449983.000000</periastrontime>
+			<maximumrvtime errorminus="1.000000" errorplus="1.000000">2449983.000000</maximumrvtime>
 			<meananomaly errorminus="35" errorplus="35">107</meananomaly>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -145,15 +153,30 @@
 			<name>PPM 41599 g</name>
 			<name>TYC 4006-1866-1 g</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.02" errorplus="0.02" type="msini">0.34</mass>
-			<period errorminus="43" errorplus="43">2247</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.04">3.11</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.06</eccentricity>
-			<periastron errorminus="50" errorplus="50">215</periastron>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Msini">0.03400</mass>
+			<period errorminus="0.20000000" errorplus="0.20000000">94.20000000</period>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.375300</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.000000</eccentricity>
+			<periastron errorminus="50" errorplus="50">0.0000</periastron>
+			<periastrontime errorminus="9.000000" errorplus="9.000000">2449972.000000</periastrontime>
+			<maximumrvtime errorminus="9.000000" errorplus="9.000000">2449972.000000</maximumrvtime>
 			<meananomaly errorminus="56" errorplus="56">209</meananomaly>
 			<description>The planetary system around HD 219134 was discovered independently by teams using HARPS-N and APF, who announced four-planet and six-planet solutions respectively. In the HARPS-N solution, this planet was designated HD 219134 e and was assigned a shorter-period, more eccentric orbit.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 219134 h</name>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Msini">0.34000</mass>
+			<period errorminus="43.00000000" errorplus="43.00000000">2247.00000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">3.110000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.060000</eccentricity>
+			<periastron errorminus="50.0000" errorplus="50.0000">215.0000</periastron>
+			<periastrontime errorminus="356.000000" errorplus="356.000000">2448725.000000</periastrontime>
+			<maximumrvtime errorminus="356.000000" errorplus="356.000000">2448725.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

@@ -2,28 +2,32 @@
 	<name>HD 93083</name>
 	<rightascension>10 44 20</rightascension>
 	<declination>-33 34 37</declination>
-	<distance>28.9</distance>
+	<distance errorminus="0.86" errorplus="0.81">28.90</distance>
 	<star>
 		<name>HD 93083</name>
-		<mass>0.7</mass>
-		<magV>8.3</magV>
-		<magB>9.27</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.70</mass>
+		<magV errorminus="0.000" errorplus="0.000">8.300</magV>
+		<magB errorminus="0.000" errorplus="0.000">9.250</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.694</magJ>
-		<magH errorminus="0.03" errorplus="0.03">6.26</magH>
+		<magH errorminus="0.031" errorplus="0.031">6.259</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.132</magK>
-		<temperature>4995.0</temperature>
-		<metallicity>0.15</metallicity>
+		<temperature errorminus="50.00" errorplus="50.00">4995.00</temperature>
+		<age>6.0</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.150</metallicity>
 		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 93083 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.37</mass>
-			<period>143.58</period>
-			<semimajoraxis>0.477</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass type="Msini">0.37000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">143.58000000</period>
+			<semimajoraxis>0.477000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.140000</eccentricity>
+			<periastron errorminus="7.9000" errorplus="7.9000">333.5000</periastron>
+			<periastrontime errorminus="3.000000" errorplus="3.000000">2453181.700000</periastrontime>
+			<maximumrvtime errorminus="3.000000" errorplus="3.000000">2453181.700000</maximumrvtime>
 			<temperature>292.3</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

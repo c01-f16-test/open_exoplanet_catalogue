@@ -1,47 +1,47 @@
 <system>
 	<name>KOI-89</name>
-	<rightascension>19 59 17.084</rightascension>
-	<declination>+43 48 51.43</declination>
+	<name>Kepler-462</name>
+	<rightascension>19 59 17</rightascension>
+	<declination>+43 48 51</declination>
+	<distance errorminus="101.46" errorplus="121.85">733.00</distance>
 	<star>
 		<name>KOI-89</name>
-		<name>KIC 8056665</name>
-		<name>TYC 3149-1163-1</name>
-		<name>2MASS J19591707+4348513</name>
-		<mass errorminus="0.256" errorplus="0.256">1.965</mass>
-		<radius errorminus="0.2" errorplus="0.2">2.3</radius>
-		<magV>11.731</magV>
-		<magB errorminus="0.10" errorplus="0.10">11.95</magB>
+		<name>Kepler-462</name>
+		<mass errorminus="0.11" errorplus="0.11">1.59</mass>
+		<radius errorminus="0.28" errorplus="0.33">2.04</radius>
+		<magV>11.642</magV>
 		<magJ errorminus="0.027" errorplus="0.027">10.983</magJ>
 		<magH errorminus="0.029" errorplus="0.029">10.876</magH>
 		<magK errorminus="0.020" errorplus="0.020">10.851</magK>
-		<temperature errorminus="225" errorplus="225">7717</temperature>
+		<temperature errorminus="57.56" errorplus="58.86">7070.00</temperature>
+		<age errorminus="0.130" errorplus="0.180">1.450</age>
+		<metallicity errorminus="0.088" errorplus="0.082">-0.060</metallicity>
 		<planet>
-			<name>KOI-89.01</name>
+			<name>Kepler-462 b</name>
+			<name>KOI-89 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03" errorplus="0.03">0.45</radius>
-			<period>84.69</period>
-			<spinorbitalignment errorminus="11" errorplus="11">-32</spinorbitalignment>
-			<inclination errorminus="0.05" errorplus="0.05">89.340</inclination>
-			<description>KOI-89.01 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32° with respect to the stellar equator, while the derived true orbital obliquity is 72°.</description>
+			<radius errorminus="0.046" errorplus="0.055">0.336</radius>
+			<period errorminus="0.00020680" errorplus="0.00020680">84.68798080</period>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.056</eccentricity>
+			<inclination errorminus="0.05" errorplus="0.05">89.34</inclination>
+			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0046" errorplus="0.0046">2455237.6389</transittime>
+			<transittime errorminus=".002010" errorplus="0.002010" unit="JD">2454983.568970</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/10/30</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<new>1</new>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
-			<name>KOI-89.02</name>
-			<list>Confirmed planets</list>
+			<name>Kepler-462 c</name>
+			<name>KOI-89 c</name>
 			<radius errorminus="0.05" errorplus="0.05">0.43</radius>
 			<period>207.58</period>
-			<spinorbitalignment errorminus="40" errorplus="40">-32</spinorbitalignment>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.5</eccentricity>
 			<inclination errorminus="0.06" errorplus="0.06">90.64</inclination>
-			<description>KOI-89.02 orbits a rapidly-rotating, oblate star. The planet's orbit has a sky-projected misalignment of -32° with respect to the stellar equator, while the derived true orbital obliquity is 73°.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0081" errorplus="0.0081">2455122.8310</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>15/10/30</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

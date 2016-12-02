@@ -1,37 +1,39 @@
 <system>
 	<name>HAT-P-21</name>
-	<rightascension>11 25 06</rightascension>
-	<declination>+41 01 41</declination>
-	<distance>254</distance>
+	<rightascension>11 25 05</rightascension>
+	<declination>+41 01 40</declination>
+	<distance errorminus="19.00" errorplus="19.00">254.00</distance>
 	<star>
 		<name>HAT-P-21</name>
-		<mass>0.947</mass>
-		<radius>1.105</radius>
-		<magV errorminus="0.11" errorplus="0.11">11.46</magV>
+		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.10</radius>
+		<magV errorminus="0.11" errorplus="0.11">11.685</magV>
 		<magB errorminus="0.26" errorplus="0.26">12.56</magB>
 		<magR errorminus="0.04" errorplus="0.04">11.71</magR>
 		<magJ errorminus="0.022" errorplus="0.022">10.503</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.154</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.111</magK>
-		<temperature>5588.0</temperature>
-		<metallicity>0.01</metallicity>
+		<temperature errorminus="80.00" errorplus="80.00">5588.00</temperature>
+		<age errorminus="2.500" errorplus="2.500">10.200</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.010</metallicity>
 		<spectraltype>G3</spectraltype>
 		<planet>
 			<name>HAT-P-21 b</name>
 			<name>TYC 3013-01229-1 b</name>
 			<name>2MASS J11250598+4101406 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.063</mass>
-			<radius>1.024</radius>
-			<period>4.124461</period>
-			<semimajoraxis>0.0494</semimajoraxis>
-			<eccentricity>0.228</eccentricity>
-			<inclination>87.2</inclination>
-			<temperature>1161.5</temperature>
+			<mass errorminus="0.16100" errorplus="0.16100" type="Mass">4.06300</mass>
+			<radius errorminus="0.092" errorplus="0.092">1.024</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">4.12448100</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.049400</semimajoraxis>
+			<eccentricity errorminus="0.016000" errorplus="0.016000">0.228000</eccentricity>
+			<periastron errorminus="3.0000" errorplus="3.0000">309.0000</periastron>
+			<inclination errorminus="0.700" errorplus="0.700">87.200</inclination>
+			<temperature errorminus="50" errorplus="50">1283</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00069" errorplus="0.00069" unit="BJD">2454996.41312</transittime>
+			<transittime errorminus=".000690" errorplus="0.000690" unit="BJD-UTC">2454996.413120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

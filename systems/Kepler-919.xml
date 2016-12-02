@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-919</name>
-	<rightascension>19 52 28</rightascension>
-	<declination>+48 29 40</declination>
+	<rightascension>19 52 27</rightascension>
+	<declination>+48 29 39</declination>
+	<distance errorminus="159.10" errorplus="467.51">1219.00</distance>
 	<star>
 		<name>Kepler-919</name>
 		<mass errorminus="0.09" errorplus="0.15">1.15</mass>
 		<radius errorminus="0.15" errorplus="0.47">1.21</radius>
-		<temperature errorminus="172.0" errorplus="132.9">6113.0</temperature>
-		<metallicity errorminus="0.13" errorplus="0.14">0.07</metallicity>
+		<magV>14.681</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.575</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.257</magH>
+		<magK errorminus="0.043" errorplus="0.043">13.306</magK>
+		<temperature errorminus="172.00" errorplus="132.90">6113.00</temperature>
+		<age errorminus="1.310" errorplus="1.300">3.020</age>
+		<metallicity errorminus="0.133" errorplus="0.145">0.070</metallicity>
 		<planet>
 			<name>Kepler-919 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.026" errorplus="0.078">0.201</radius>
-			<period errorminus="0.000066000" errorplus="0.000066000">11.046033840</period>
+			<period errorminus="0.00006600" errorplus="0.00006600">11.04603384</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005580" errorplus="0.005580" unit="JD">2454969.440830</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

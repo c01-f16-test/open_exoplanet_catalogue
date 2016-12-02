@@ -9,86 +9,112 @@
 		<name>Kepler-102</name>
 		<name>KOI-82</name>
 		<name>KIC 10187017</name>
-		<mass errorminus="0.06" errorplus="0.06">0.80</mass>
-		<radius errorminus="0.02" errorplus="0.02">0.74</radius>
-		<magV errorminus="0.19" errorplus="0.19">12.07</magV>
-		<magB errorminus="0.24" errorplus="0.24">12.58</magB>
+		<mass errorminus="0.09" errorplus="0.04">0.81</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.76</radius>
+		<magV errorminus="0.19" errorplus="0.19">11.492</magV>
+		<magB errorminus="0.24" errorplus="0.24">11.15</magB>
 		<magJ errorminus="0.023" errorplus="0.023">9.984</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.446</magH>
 		<magK errorminus="0.011" errorplus="0.011">9.351</magK>
-		<temperature errorminus="74" errorplus="74">4903</temperature>
-		<age>1.41</age>
-		<metallicity errorminus="0.07" errorplus="0.07">0.08</metallicity>
+		<temperature errorminus="41.00" errorplus="41.00">4909.00</temperature>
+		<age>1.410</age>
+		<metallicity errorminus="0.470" errorplus="0.420">0.180</metallicity>
 		<planet>
 			<name>Kepler-102 e</name>
+			<name>KOI 82.01</name>
 			<name>KOI-82.01</name>
 			<name>KOI-82 e</name>
 			<name>KIC 10187017 e</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.006291" errorplus="0.006291">0.028091</mass>
-			<radius errorminus="0.006379" errorplus="0.006379">0.202309</radius>
-			<period>16.1457</period>
+			<mass errorminus="0.00600" errorplus="0.00600" type="Mass">0.02800</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.198</radius>
+			<period errorminus="3e-05" errorplus="3e-05">16.14570000</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.117</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.4">0.0</eccentricity>
+			<periastron errorminus="235.0" errorplus="0.0">360.0</periastron>
+			<inclination errorminus="0.64" errorplus="0.44">89.56</inclination>
+			<temperature>579.0</temperature>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454967.753840</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-102 d</name>
+			<name>KOI 82.02</name>
 			<name>KOI-82.02</name>
 			<name>KOI-82 d</name>
 			<name>KIC 10187017 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.005662" errorplus="0.005662">0.011954</mass>
-			<radius errorminus="0.003645" errorplus="0.003645">0.107534</radius>
-			<period>10.3117</period>
+			<mass errorminus="0.00600" errorplus="0.00600" type="Mass">0.01200</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.105</radius>
+			<period>10.31170000</period>
+			<periastrontime errorminus="0.0032" errorplus="0.0032">2454972.9875</periastrontime>
+			<maximumrvtime errorminus="0.0032" errorplus="0.0032">2454972.9875</maximumrvtime>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454967.079200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-102 f</name>
+			<name>KOI 82.03</name>
 			<name>KOI-82.03</name>
 			<name>KOI-82 f</name>
 			<name>KIC 10187017 f</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.002734" errorplus="0.002734">0.080195</radius>
-			<period>27.4536</period>
+			<mass errorminus="0.01" errorplus="0.01">0.002</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.079</radius>
+			<period>27.45360000</period>
+			<semimajoraxis>0.165</semimajoraxis>
+			<temperature>457.0</temperature>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454978.025650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-102 c</name>
+			<name>KOI 82.04</name>
 			<name>KOI-82.04</name>
 			<name>KOI-82 c</name>
 			<name>KIC 10187017 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.001823" errorplus="0.001823">0.052856</radius>
-			<period>7.07142</period>
+			<mass errorminus="inf" errorplus="nan" type="Radial Velocity">0.009</mass>
+			<radius errorminus="0.002" errorplus="0.002">0.052</radius>
+			<period>7.07142000</period>
+			<semimajoraxis>0.067</semimajoraxis>
+			<temperature>718.0</temperature>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454972.984860</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-102 b</name>
+			<name>KOI 82.05</name>
 			<name>KOI-82.05</name>
 			<name>KOI-82 b</name>
 			<name>KIC 10187017 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.001823" errorplus="0.001823">0.042831</radius>
-			<period>5.28696</period>
+			<mass errorminus="0.005" errorplus="0.005">0.0013</mass>
+			<radius errorminus="0.002" errorplus="0.002">0.042</radius>
+			<period>5.28696000</period>
+			<semimajoraxis>0.055</semimajoraxis>
+			<temperature>792.0</temperature>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454968.849200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

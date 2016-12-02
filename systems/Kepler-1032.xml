@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1032</name>
 	<rightascension>19 19 43</rightascension>
-	<declination>+40 05 52</declination>
+	<declination>+40 05 51</declination>
+	<distance errorminus="23.92" errorplus="20.92">607.00</distance>
 	<star>
 		<name>Kepler-1032</name>
 		<mass errorminus="0.03" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.71</radius>
-		<temperature errorminus="84.4" errorplus="57.1">4647.0</temperature>
-		<metallicity errorminus="0.21" errorplus="0.10">0.16</metallicity>
+		<magV>15.753</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.926</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.361</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.301</magK>
+		<temperature errorminus="84.37" errorplus="57.14">4647.00</temperature>
+		<age errorminus="0.565" errorplus="2.800">1.860</age>
+		<metallicity errorminus="0.211" errorplus="0.103">0.160</metallicity>
 		<planet>
 			<name>Kepler-1032 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.007" errorplus="0.009">0.167</radius>
-			<period errorminus="0.000005050" errorplus="0.000005050">3.290117950</period>
+			<period errorminus="0.00000505" errorplus="0.00000505">3.29011795</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001360" errorplus="0.001360" unit="JD">2454966.156660</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

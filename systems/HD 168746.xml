@@ -2,29 +2,33 @@
 	<name>HD 168746</name>
 	<rightascension>18 21 49</rightascension>
 	<declination>-11 55 21</declination>
-	<distance>43.12</distance>
+	<distance errorminus="1.86" errorplus="1.71">43.12</distance>
 	<star>
 		<name>HD 168746</name>
-		<mass>0.88</mass>
+		<mass errorminus="0.01" errorplus="0.01">0.93</mass>
 		<radius>1.12</radius>
-		<magV>7.95</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.66</magB>
+		<magV errorminus="0.013" errorplus="0.013">7.946</magV>
+		<magB errorminus="0.019" errorplus="0.019">8.664</magB>
 		<magJ errorminus="0.034" errorplus="0.034">6.679</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.329</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.253</magK>
-		<temperature>5610.0</temperature>
-		<metallicity>-0.06</metallicity>
+		<temperature errorminus="30.0" errorplus="30.0">5564.00</temperature>
+		<age>3.75</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.078</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 168746 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.23</mass>
-			<period>6.403</period>
-			<semimajoraxis>0.065</semimajoraxis>
-			<eccentricity>0.081</eccentricity>
+			<mass errorminus="0.02300" errorplus="0.02300" type="Msini">0.24800</mass>
+			<period errorminus="0.00140000" errorplus="0.00140000">6.40400000</period>
+			<semimajoraxis errorminus="0.003800" errorplus="0.003800">0.065900</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.107000</eccentricity>
+			<periastron errorminus="20.88" errorplus="20.88">17.0000</periastron>
+			<periastrontime errorminus="0.470000" errorplus="0.470000">2451757.830000</periastrontime>
+			<maximumrvtime errorminus="0.470000" errorplus="0.470000">2451757.830000</maximumrvtime>
 			<temperature>1026.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,36 @@
+<system>
+	<name>K2-84</name>
+	<rightascension>03 43 14</rightascension>
+	<declination>+16 38 04</declination>
+	<star>
+		<name>K2-84</name>
+		<mass errorminus="0.07" errorplus="0.07">0.95</mass>
+		<radius errorminus="0.12" errorplus="0.12">0.93</radius>
+		<magV errorminus="0.060" errorplus="0.060">13.443</magV>
+		<magB errorminus="0.050" errorplus="0.050">14.434</magB>
+		<magJ errorminus="0.022" errorplus="0.022">11.613</magJ>
+		<magH errorminus="0.018" errorplus="0.018">11.206</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.059</magK>
+		<temperature errorminus="154.00" errorplus="154.00">5652.00</temperature>
+		<planet>
+			<name>K2-84 b</name>
+			<radius errorminus="0.031" errorplus="0.031">0.215</radius>
+			<period errorminus="0.00056000" errorplus="0.00056000">6.42150000</period>
+			<semimajoraxis errorminus="0.001600" errorplus="0.001600">0.066500</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002700" errorplus="0.002700" unit="BJD_TDB">2457071.421200</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-84 c</name>
+			<radius errorminus="0.029" errorplus="0.029">0.181</radius>
+			<period errorminus="0.00520000" errorplus="0.00520000">27.86000000</period>
+			<semimajoraxis errorminus="0.004300" errorplus="0.004300">0.176800</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007800" errorplus="0.007800" unit="BJD_TDB">2457068.615000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

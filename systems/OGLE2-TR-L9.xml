@@ -5,31 +5,33 @@
 	<distance>900</distance>
 	<star>
 		<name>OGLE2-TR-L9</name>
-		<mass>1.52</mass>
-		<radius>1.53</radius>
+		<mass errorminus="0.08" errorplus="0.08">1.52</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.53</radius>
+		<magB>13.97</magB>
 		<magR>14.74</magR>
 		<magI errorminus="0.03" errorplus="0.03">14.00</magI>
-		<magJ errorminus="0.03" errorplus="0.03">13.51</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.25</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.12</magK>
-		<temperature>6933.0</temperature>
-		<metallicity>-0.05</metallicity>
+		<magJ errorminus="0.032" errorplus="0.032">13.508</magJ>
+		<magH errorminus="0.035" errorplus="0.035">13.246</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.117</magK>
+		<temperature errorminus="58.0" errorplus="58.00">6933.00</temperature>
+		<age>0.66</age>
+		<metallicity errorminus="0.2" errorplus="0.2">-0.05</metallicity>
 		<spectraltype>F3</spectraltype>
 		<planet>
 			<name>OGLE2-TR-L9 b</name>
 			<name>2MASS J11075518-6108465 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.34</mass>
-			<radius>1.614</radius>
-			<period>2.4855335</period>
-			<semimajoraxis>0.0308</semimajoraxis>
-			<inclination>79.8</inclination>
+			<mass errorminus="1.50000" errorplus="1.50000" type="Mass">4.50000</mass>
+			<radius errorminus="0.040" errorplus="0.040">1.610</radius>
+			<period errorminus="0.00000070" errorplus="0.00000070">2.48553350</period>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.030800</semimajoraxis>
+			<inclination errorminus="0.300" errorplus="0.300">79.800</inclination>
 			<temperature>2154.6</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00014" errorplus="0.00014" unit="HJD">2454492.80008</transittime>
+			<transittime errorminus=".000390" errorplus="0.000390" unit="HJD">2454492.797650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/12/06</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

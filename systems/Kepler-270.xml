@@ -10,11 +10,13 @@
 		<name>KOI-1148</name>
 		<name>KIC 8410727</name>
 		<mass errorminus="0.1400" errorplus="0.1400">1.1700</mass>
-		<radius errorminus=".284" errorplus="0.284">1.461</radius>
+		<radius errorminus="0.28" errorplus="0.28">1.46</radius>
+		<magV>13.908</magV>
 		<magJ errorminus="0.021" errorplus="0.021">12.938</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.614</magH>
 		<magK errorminus="0.019" errorplus="0.019">12.627</magK>
-		<temperature errorminus="100" errorplus="100">6067</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">6067.00</temperature>
+		<metallicity>-0.151</metallicity>
 		<planet>
 			<name>Kepler-270 b</name>
 			<name>KOI-1148 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8410727 b</name>
 			<name>KIC 8410727.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.03645">0.18317</radius>
-			<period errorminus=".000071" errorplus="0.000071">11.476094</period>
+			<radius errorminus="0.036" errorplus="0.036">0.179</radius>
+			<period errorminus="0.00007100" errorplus="0.00007100">11.47609400</period>
+			<semimajoraxis>0.107000</semimajoraxis>
 			<description>Kepler-270 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-270 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036800" errorplus="0.0036800">2454968.3951000</transittime>
+			<transittime errorminus=".003680" errorplus="0.003680" unit="BJD">2454968.395100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8410727 c</name>
 			<name>KIC 8410727.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03372" errorplus="0.03372">0.16130</radius>
-			<period errorminus=".000599" errorplus="0.000599">25.262887</period>
+			<radius errorminus="0.033" errorplus="0.033">0.158</radius>
+			<period errorminus="0.00059900" errorplus="0.00059900">25.26288700</period>
+			<semimajoraxis>0.180000</semimajoraxis>
 			<description>Kepler-270 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-270 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0178500" errorplus="0.0178500">2454967.2117600</transittime>
+			<transittime errorminus=".017850" errorplus="0.017850" unit="BJD">2454967.211760</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

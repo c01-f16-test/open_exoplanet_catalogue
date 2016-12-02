@@ -9,11 +9,14 @@
 		<name>Kepler-351</name>
 		<name>KOI-2028</name>
 		<name>KIC 7102316</name>
-		<radius errorminus=".414" errorplus="0.414">0.854</radius>
+		<mass>0.89</mass>
+		<radius errorminus="0.41" errorplus="0.41">0.85</radius>
+		<magV>15.990</magV>
 		<magJ errorminus="0.037" errorplus="0.037">14.669</magJ>
 		<magH errorminus="0.052" errorplus="0.052">14.205</magH>
 		<magK errorminus="0.063" errorplus="0.063">14.097</magK>
-		<temperature errorminus="200" errorplus="200">5643</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5643.00</temperature>
+		<metallicity>-0.134</metallicity>
 		<planet>
 			<name>Kepler-351 c</name>
 			<name>KOI-2028 c</name>
@@ -21,13 +24,14 @@
 			<name>KIC 7102316 c</name>
 			<name>KIC 7102316.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.14125">0.29071</radius>
-			<period errorminus=".000599" errorplus="0.000599">57.248090</period>
+			<radius errorminus="0.138" errorplus="0.138">0.285</radius>
+			<period errorminus="0.00059900" errorplus="0.00059900">57.24809000</period>
+			<semimajoraxis>0.287000</semimajoraxis>
 			<description>Kepler-351 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-351 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0049200" errorplus="0.0049200">2455017.6941700</transittime>
+			<transittime errorminus=".004920" errorplus="0.004920" unit="BJD">2455017.694170</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,25 +41,27 @@
 			<name>KIC 7102316 b</name>
 			<name>KIC 7102316.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.14125">0.27886</radius>
-			<period errorminus=".000484" errorplus="0.000484">37.054919</period>
+			<radius errorminus="0.138" errorplus="0.138">0.273</radius>
+			<period errorminus="0.00048400" errorplus="0.00048400">37.05491900</period>
+			<semimajoraxis>0.214000</semimajoraxis>
 			<description>Kepler-351 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-351 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0069800" errorplus="0.0069800">2455033.2003300</transittime>
+			<transittime errorminus=".006980" errorplus="0.006980" unit="BJD">2455033.200330</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-351 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.027" errorplus="0.017">0.243</radius>
-			<period errorminus="0.002303000" errorplus="0.002303000">142.544247000</period>
+			<period errorminus="0.00230300" errorplus="0.00230300">142.54424700</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".010000" errorplus="0.010000" unit="JD">2455035.885200</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

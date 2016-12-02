@@ -9,11 +9,13 @@
 		<name>Kepler-152</name>
 		<name>KOI-416</name>
 		<name>KIC 6508221</name>
-		<radius errorminus=".044" errorplus="0.044">0.724</radius>
+		<radius errorminus="0.04" errorplus="0.04">0.72</radius>
+		<magV>14.290</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.853</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.488</magH>
 		<magK errorminus="0.020" errorplus="0.020">12.301</magK>
-		<temperature errorminus="100" errorplus="100">5088</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5088.00</temperature>
+		<metallicity>-0.138</metallicity>
 		<planet>
 			<name>Kepler-152 b</name>
 			<name>KOI-416 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 6508221 b</name>
 			<name>KIC 6508221.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.25425</radius>
-			<period errorminus=".000023" errorplus="0.000023">18.207973</period>
+			<radius errorminus="0.015" errorplus="0.015">0.249</radius>
+			<period errorminus="0.00002300" errorplus="0.00002300">18.20797300</period>
+			<semimajoraxis>0.124000</semimajoraxis>
 			<description>Kepler-152 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-152 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006900" errorplus="0.0006900">2455018.8420200</transittime>
+			<transittime errorminus=".000690" errorplus="0.000690" unit="BJD">2455018.842020</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +40,14 @@
 			<name>KIC 6508221 c</name>
 			<name>KIC 6508221.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01458" errorplus="0.01458">0.21780</radius>
-			<period errorminus=".000309" errorplus="0.000309">88.255055</period>
+			<radius errorminus="0.014" errorplus="0.014">0.213</radius>
+			<period errorminus="0.00030900" errorplus="0.00030900">88.25505500</period>
+			<semimajoraxis>0.356000</semimajoraxis>
 			<description>Kepler-152 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-152 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019500" errorplus="0.0019500">2454986.7802700</transittime>
+			<transittime errorminus=".001950" errorplus="0.001950" unit="BJD">2454986.780270</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

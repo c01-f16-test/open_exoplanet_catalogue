@@ -1,31 +1,35 @@
 <system>
 	<name>HD 104067</name>
 	<rightascension>11 59 10</rightascension>
-	<declination>-20 21 14</declination>
-	<distance>20.8</distance>
+	<declination>-20 21 13</declination>
+	<distance errorminus="0.46" errorplus="0.44">20.82</distance>
 	<star>
 		<name>HD 104067</name>
-		<mass>0.791</mass>
-		<magV>7.93</magV>
-		<magB>8.897</magB>
+		<mass errorminus="0.02" errorplus="0.02">0.79</mass>
+		<magV>7.930</magV>
+		<magB errorminus="0.010" errorplus="0.010">8.900</magB>
 		<magR>7.369</magR>
 		<magI>6.913</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.212</magJ>
-		<magH errorminus="0.023" errorplus="0.023">5.754</magH>
+		<magH errorminus="0.022" errorplus="0.022">5.754</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.614</magK>
-		<temperature>4969.0</temperature>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>K2V</spectraltype>
+		<temperature errorminus="72.00" errorplus="72.00">4969.00</temperature>
+		<age errorminus="3.990" errorplus="3.990">4.330</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.060</metallicity>
+		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>HD 104067 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.186</mass>
-			<period>55.806</period>
-			<semimajoraxis>0.2643</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.01300" errorplus="0.01300" type="Msini">0.18600</mass>
+			<period errorminus="0.04900000" errorplus="0.04900000">55.80600000</period>
+			<semimajoraxis errorminus="0.004500" errorplus="0.004500">0.264300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.560000" errorplus="0.560000">2454043.150000</periastrontime>
+			<maximumrvtime errorminus="0.560000" errorplus="0.560000">2454043.150000</maximumrvtime>
 			<temperature>363.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

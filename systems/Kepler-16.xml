@@ -1,61 +1,31 @@
 <system>
 	<name>Kepler-16</name>
 	<rightascension>19 16 18</rightascension>
-	<declination>+51 45 27</declination>
-	<distance>60</distance>
-	<magJ errorminus="0.023" errorplus="0.023">9.815</magJ>
-	<magH errorminus="0.03" errorplus="0.03">9.14</magH>
-	<magK errorminus="0.022" errorplus="0.022">8.996</magK>
-	<binary>
+	<declination>+51 45 26</declination>
+	<distance>61.00</distance>
+	<star>
 		<name>Kepler-16</name>
-		<name>KOI-1611</name>
-		<name>KIC 12644769</name>
-		<magB>12.1</magB>
-		<magR errorminus="0.06" errorplus="0.06">11.90</magR>
-		<period>41</period>
-		<semimajoraxis>0.22</semimajoraxis>
-		<star>
-			<name>Kepler-16 A</name>
-			<name>KOI-1611 A</name>
-			<name>KIC 12644769 A</name>
-			<mass>0.6897</mass>
-			<radius>0.6489</radius>
-			<temperature>4450</temperature>
-			<metallicity>-0.3</metallicity>
-			<spectraltype>K</spectraltype>
-		</star>
-		<star>
-			<name>Kepler-16 B</name>
-			<name>KOI-1611 B</name>
-			<name>KOI-1611.01</name>
-			<name>KIC 12644769 B</name>
-			<mass>0.20255</mass>
-			<radius>0.22623</radius>
-			<spectraltype>M</spectraltype>
-		</star>
+		<mass errorminus="0.00" errorplus="0.00">0.69</mass>
+		<radius errorminus="0.00" errorplus="0.00">0.65</radius>
+		<magV>11.762</magV>
+		<magJ errorminus="0.022" errorplus="0.022">9.815</magJ>
+		<magH errorminus="0.031" errorplus="0.031">9.137</magH>
+		<magK errorminus="0.022" errorplus="0.022">8.996</magK>
+		<temperature errorminus="150.00" errorplus="150.00">4450.00</temperature>
+		<metallicity errorminus="0.200" errorplus="0.200">-0.300</metallicity>
 		<planet>
-			<name>Kepler-16 (AB) b</name>
 			<name>Kepler-16 b</name>
-			<name>KOI-1611.02</name>
-			<name>KOI-1611 (AB) b</name>
-			<name>KIC 12644769 (AB) b</name>
-			<list>Confirmed planets</list>
-			<list>Planets in binary systems, P-type</list>
-			<mass>0.333</mass>
-			<radius>0.7538</radius>
-			<period>228.776</period>
-			<semimajoraxis>0.7048</semimajoraxis>
-			<eccentricity>0.00685</eccentricity>
-			<inclination>90.0322</inclination>
-			<description>Kepler-16 (AB) b is a circum-binary planet. It is orbiting two stars. The orbit of the binary stars and the planet are perfectly alligned within half a degree. This suggests that the planet formed in a circumbinary disc.</description>
+			<mass errorminus="0.01600" errorplus="0.01600" type="Mass">0.33300</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.754</radius>
+			<period errorminus="0.03700000" errorplus="0.02000000">228.77600000</period>
+			<semimajoraxis errorminus="0.001100" errorplus="0.001100">0.704800</semimajoraxis>
+			<eccentricity errorminus="0.001500" errorplus="0.001000">0.006900</eccentricity>
+			<periastron errorminus="22.0000" errorplus="10.0000">318.0000</periastron>
+			<inclination errorminus="0.002" errorplus="0.002">90.032</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2455425.2038</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/11/27</lastupdate>
+			<transittime unit="BJD">2455212.123160</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<image>Kepler 16</image>
-			<imagedescription>This image shows an artist's illustration of the Kepler-16 (AB) b exo-planet orbiting two binary stars. Credit: NASA/JPL-Caltech/R. Hurt</imagedescription>
 		</planet>
-	</binary>
-	<videolink>http://youtu.be/qQpqOZ08888</videolink>
+	</star>
 </system>

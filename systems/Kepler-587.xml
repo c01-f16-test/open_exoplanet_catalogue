@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-587</name>
-	<rightascension>19 14 41</rightascension>
-	<declination>+47 23 57</declination>
+	<rightascension>19 14 40</rightascension>
+	<declination>+47 23 56</declination>
+	<distance errorminus="66.23" errorplus="118.20">852.00</distance>
 	<star>
 		<name>Kepler-587</name>
 		<mass errorminus="0.05" errorplus="0.04">0.92</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.89</radius>
-		<temperature errorminus="70.1" errorplus="77.0">5549.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.05</metallicity>
+		<magV>14.909</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.689</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.302</magH>
+		<magK errorminus="0.027" errorplus="0.027">13.250</magK>
+		<temperature errorminus="70.06" errorplus="77.03">5549.00</temperature>
+		<age errorminus="3.080" errorplus="5.830">4.790</age>
+		<metallicity errorminus="0.184" errorplus="0.144">-0.050</metallicity>
 		<planet>
 			<name>Kepler-587 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.057">0.199</radius>
-			<period errorminus="0.000029490" errorplus="0.000029490">10.940278410</period>
+			<period errorminus="0.00002949" errorplus="0.00002949">10.94027841</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002060" errorplus="0.002060" unit="JD">2455003.306520</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

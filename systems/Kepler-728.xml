@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-728</name>
 	<rightascension>19 24 22</rightascension>
-	<declination>+45 06 56</declination>
+	<declination>+45 06 55</declination>
+	<distance errorminus="102.09" errorplus="169.29">1236.00</distance>
 	<star>
 		<name>Kepler-728</name>
 		<mass errorminus="0.06" errorplus="0.06">0.95</mass>
 		<radius errorminus="0.07" errorplus="0.12">0.93</radius>
-		<temperature errorminus="108.4" errorplus="133.1">5660.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.14">-0.03</metallicity>
+		<magV>15.543</magV>
+		<magJ errorminus="0.038" errorplus="0.038">14.384</magJ>
+		<magH errorminus="0.046" errorplus="0.046">13.994</magH>
+		<magK errorminus="0.049" errorplus="0.049">13.937</magK>
+		<temperature errorminus="108.40" errorplus="133.10">5660.00</temperature>
+		<age errorminus="2.370" errorplus="3.960">4.070</age>
+		<metallicity errorminus="0.186" errorplus="0.143">-0.030</metallicity>
 		<planet>
 			<name>Kepler-728 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.040">0.298</radius>
-			<period errorminus="0.000007170" errorplus="0.000007170">5.743477270</period>
+			<period errorminus="0.00000717" errorplus="0.00000717">5.74347727</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="JD">2455007.898320</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

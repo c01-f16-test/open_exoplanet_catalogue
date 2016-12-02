@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2011-BLG-262L</name>
+	<rightascension>18 00 23</rightascension>
+	<declination>-31 14 42</declination>
+	<distance errorminus="1000.00" errorplus="900.00">7000.00</distance>
+	<star>
+		<name>MOA 2011-BLG-262L</name>
+		<mass errorminus="0.06" errorplus="0.19">0.12</mass>
+		<planet>
+			<name>MOA 2011-BLG-262L b</name>
+			<mass errorminus="0.03146" errorplus="0.08810" type="Mass">0.05663</mass>
+			<semimajoraxis errorminus="0.140000" errorplus="0.250000">0.840000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

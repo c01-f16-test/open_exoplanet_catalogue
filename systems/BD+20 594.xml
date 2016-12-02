@@ -1,0 +1,35 @@
+<system>
+	<name>BD+20 594</name>
+	<rightascension>03 34 36</rightascension>
+	<declination>+20 35 57</declination>
+	<distance errorminus="7.40" errorplus="9.70">152.10</distance>
+	<star>
+		<name>BD+20 594</name>
+		<name>2MASS 03343623+2035574</name>
+		<mass errorminus="0.03" errorplus="0.03">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.06">0.93</radius>
+		<magV errorminus="0.047" errorplus="0.047">11.038</magV>
+		<magB errorminus="0.044" errorplus="0.044">11.728</magB>
+		<magJ errorminus="0.022" errorplus="0.022">9.770</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.432</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.368</magK>
+		<temperature errorminus="99.00" errorplus="99.00">5766.00</temperature>
+		<age errorminus="1.490" errorplus="1.950">3.340</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.150</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>BD+20 594 b</name>
+			<mass errorminus="0.01919" errorplus="0.01888" type="Mass">0.05129</mass>
+			<radius errorminus="0.010" errorplus="0.012">0.199</radius>
+			<period errorminus="0.00310000" errorplus="0.00300000">41.68550000</period>
+			<semimajoraxis errorminus="0.017000" errorplus="0.019000">0.241000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.140" errorplus="0.170">89.550</inclination>
+			<temperature errorminus="18" errorplus="19">546</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004700" errorplus="0.004200" unit="BJD-TDB">2457151.902100</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

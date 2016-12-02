@@ -1,45 +1,51 @@
 <system>
 	<name>HD 9446</name>
 	<rightascension>01 33 20</rightascension>
-	<declination>+29 15 55</declination>
-	<distance>53</distance>
+	<declination>+29 15 54</declination>
+	<distance errorminus="3.14" errorplus="2.80">52.85</distance>
 	<star>
 		<name>HD 9446</name>
-		<mass>1</mass>
-		<radius>1</radius>
-		<magV>8.35</magV>
-		<magB>9.03</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.00</mass>
+		<radius>1.00</radius>
+		<magV errorminus="0.015" errorplus="0.015">8.369</magV>
+		<magB errorminus="0.019" errorplus="0.019">9.009</magB>
 		<magR>8.0</magR>
 		<magI>7.7</magI>
-		<magJ>7.21</magJ>
-		<magH>6.89</magH>
-		<magK>6.85</magK>
-		<temperature>5793.0</temperature>
-		<metallicity>0.09</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<magJ errorminus="0.030" errorplus="0.030">7.207</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.893</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.851</magK>
+		<temperature errorminus="22.00" errorplus="22.00">5793.00</temperature>
+		<metallicity errorminus="0.050" errorplus="0.050">0.090</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 9446 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.7</mass>
-			<period>30.052</period>
-			<semimajoraxis>0.189</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">0.70000</mass>
+			<period errorminus="0.02700000" errorplus="0.02700000">30.05200000</period>
+			<semimajoraxis errorminus="0.006000" errorplus="0.006000">0.189000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.200000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">215.0000</periastron>
+			<periastrontime errorminus="2.000000" errorplus="2.000000">2454854.400000</periastrontime>
+			<maximumrvtime errorminus="2.000000" errorplus="2.000000">2454854.400000</maximumrvtime>
 			<temperature>586.1</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 9446 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.82</mass>
-			<period>192.9</period>
-			<semimajoraxis>0.654</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<mass errorminus="0.17000" errorplus="0.17000" type="Msini">1.82000</mass>
+			<period errorminus="0.90000000" errorplus="0.90000000">192.90000000</period>
+			<semimajoraxis errorminus="0.022000" errorplus="0.022000">0.654000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.060000</eccentricity>
+			<periastron errorminus="130.0000" errorplus="130.0000">100.0000</periastron>
+			<periastrontime errorminus="70.000000" errorplus="70.000000">2454510.000000</periastrontime>
+			<maximumrvtime errorminus="70.000000" errorplus="70.000000">2454510.000000</maximumrvtime>
 			<temperature>315.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

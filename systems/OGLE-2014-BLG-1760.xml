@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE-2014-BLG-1760</name>
+	<rightascension>17 57 38</rightascension>
+	<declination>-28 57 47</declination>
+	<distance errorminus="1110.00" errorplus="1110.00">6860.00</distance>
+	<star>
+		<name>OGLE-2014-BLG-1760</name>
+		<mass errorminus="0.28" errorplus="0.44">0.51</mass>
+		<planet>
+			<name>OGLE-2014-BLG-1760 b</name>
+			<mass errorminus="0.26000" errorplus="0.34000" type="Mass">0.56000</mass>
+			<semimajoraxis errorminus="0.330000" errorplus="0.340000">1.750000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

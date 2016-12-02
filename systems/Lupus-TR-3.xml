@@ -1,0 +1,28 @@
+<system>
+	<name>Lupus-TR-3</name>
+	<rightascension>15 30 18</rightascension>
+	<declination>-42 58 47</declination>
+	<distance>2000.00</distance>
+	<star>
+		<name>Lupus-TR-3</name>
+		<mass errorplus="0.04">0.87</mass>
+		<radius errorplus="0.05">0.82</radius>
+		<magJ errorminus="0.091" errorplus="0.091">16.211</magJ>
+		<magH errorminus="0.169" errorplus="0.169">15.841</magH>
+		<magK errorminus="0.149" errorplus="0.149">15.068</magK>
+		<temperature errorplus="150.00">5000.00</temperature>
+		<planet>
+			<name>Lupus-TR-3 b</name>
+			<mass errorminus="0.18000" errorplus="0.18000" type="Mass">0.81000</mass>
+			<radius errorminus="0.070" errorplus="0.070">0.890</radius>
+			<period errorminus="0.00004000" errorplus="0.00004000">3.91405000</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.046400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.800" errorplus="1.300">88.300</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="HJD">2453887.081800</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

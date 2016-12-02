@@ -2,22 +2,29 @@
 	<name>Kepler-1314</name>
 	<rightascension>19 36 57</rightascension>
 	<declination>+45 11 50</declination>
+	<distance errorminus="26.25" errorplus="22.44">462.00</distance>
 	<star>
 		<name>Kepler-1314</name>
 		<mass errorminus="0.02" errorplus="0.02">0.60</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.59</radius>
-		<temperature errorminus="113.7" errorplus="92.3">4188.0</temperature>
-		<metallicity errorminus="0.07" errorplus="0.08">-0.22</metallicity>
+		<magV>16.406</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.101</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.510</magH>
+		<magK errorminus="0.032" errorplus="0.032">13.220</magK>
+		<temperature errorminus="113.71" errorplus="92.28">4188.00</temperature>
+		<age errorminus="3.530" errorplus="5.910">6.030</age>
+		<metallicity errorminus="0.068" errorplus="0.078">-0.220</metallicity>
 		<planet>
 			<name>Kepler-1314 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.017">0.456</radius>
-			<period errorminus="0.000003970" errorplus="0.000003970">5.424749280</period>
+			<period errorminus="0.00000397" errorplus="0.00000397">5.42474928</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000697" errorplus="0.000697" unit="JD">2454966.729098</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

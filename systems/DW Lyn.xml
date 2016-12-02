@@ -1,0 +1,17 @@
+<system>
+	<name>DW Lyn</name>
+	<declination>+60 38 50</declination>
+	<star>
+		<name>DW Lyn</name>
+		<magJ>15.45</magJ>
+		<spectraltype>SdB D</spectraltype>
+		<planet>
+			<name>DW Lyn b</name>
+			<mass errorminus="1.44" errorplus="1.44" type="Radial Velocity">5.58</mass>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1148.0</semimajoraxis>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

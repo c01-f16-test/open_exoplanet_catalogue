@@ -1,0 +1,40 @@
+<system>
+	<name>HD 111998</name>
+	<name>38 Vir</name>
+	<rightascension>12 53 11</rightascension>
+	<declination>-03 33 11</declination>
+	<distance errorminus="0.32" errorplus="0.32">32.73</distance>
+	<star>
+		<name>38 Vir</name>
+		<name>HD 111998</name>
+		<name>HIP 62875</name>
+		<name />
+		<mass errorminus="0.12" errorplus="0.12">1.18</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.45</radius>
+		<magV>6.110</magV>
+		<magB>6.610</magB>
+		<magJ errorminus="0.018" errorplus="0.018">5.300</magJ>
+		<magH errorminus="0.022" errorplus="0.022">5.082</magH>
+		<magK errorminus="0.022" errorplus="0.022">4.993</magK>
+		<temperature errorminus="96.00" errorplus="96.00">6557.00</temperature>
+		<age errorminus="0.700" errorplus="0.600">1.900</age>
+		<metallicity>0.070</metallicity>
+		<spectraltype>F5 V</spectraltype>
+		<planet>
+			<name>38 Vir b</name>
+			<name>HD 111998 b</name>
+			<mass errorminus="0.50000" errorplus="0.50000" type="Msini">4.51000</mass>
+			<radius errorminus="0.5" errorplus="0.5">4.51</radius>
+			<period errorminus="6.20000000" errorplus="6.20000000">825.90000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">1.820000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.030000</eccentricity>
+			<periastron errorminus="77.7000" errorplus="77.7000">-87.3000</periastron>
+			<periastrontime errorminus="177.300000" errorplus="177.300000">2455490.200000</periastrontime>
+			<maximumrvtime errorminus="177.300000" errorplus="177.300000">2455490.200000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="177.3" errorplus="177.3" unit="BJD">2455490.2</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

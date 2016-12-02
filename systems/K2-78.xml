@@ -1,0 +1,26 @@
+<system>
+	<name>K2-78</name>
+	<rightascension>03 48 54</rightascension>
+	<declination>+13 29 00</declination>
+	<star>
+		<name>K2-78</name>
+		<mass errorminus="0.09" errorplus="0.09">0.90</mass>
+		<radius errorminus="0.12" errorplus="0.12">0.88</radius>
+		<magV errorminus="0.020" errorplus="0.020">12.191</magV>
+		<magB errorminus="0.020" errorplus="0.020">13.087</magB>
+		<magJ errorminus="0.023" errorplus="0.023">10.463</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.001</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.890</magK>
+		<temperature errorminus="203.00" errorplus="203.00">5729.00</temperature>
+		<planet>
+			<name>K2-78 b</name>
+			<radius errorminus="0.020" errorplus="0.020">0.127</radius>
+			<period errorminus="0.00027000" errorplus="0.00027000">2.29016000</period>
+			<semimajoraxis errorminus="0.001100" errorplus="0.001100">0.032800</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004300" errorplus="0.004300" unit="BJD_TDB">2457065.144400</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

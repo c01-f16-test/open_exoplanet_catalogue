@@ -2,38 +2,42 @@
 	<name>CoRoT-10</name>
 	<rightascension>19 24 15</rightascension>
 	<declination>+00 44 46</declination>
-	<distance>345</distance>
+	<distance errorminus="70.00" errorplus="70.00">345.00</distance>
 	<star>
 		<name>CoRoT-10</name>
-		<mass>0.89</mass>
-		<radius>0.79</radius>
-		<magV>15.216</magV>
-		<magB>16.676</magB>
+		<mass errorminus="0.05" errorplus="0.05">0.89</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
+		<magV errorminus="0.050" errorplus="0.050">15.220</magV>
+		<magB errorminus="0.140" errorplus="0.140">16.680</magB>
 		<magR>15.48</magR>
 		<magI errorminus="0.03" errorplus="0.03">13.64</magI>
-		<magJ errorminus="0.025" errorplus="0.025">12.567</magJ>
+		<magJ errorminus="0.025" errorplus="0.025">12.527</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.929</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.782</magK>
-		<temperature>5075.0</temperature>
-		<metallicity>0.26</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<temperature errorminus="75.00" errorplus="75.00">5075.00</temperature>
+		<age errorminus="nan" errorplus="inf">3.000</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.260</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-10 b</name>
 			<name>CoRoT-Exo-10 b</name>
 			<name>2MASS J19241528+0044461 b</name>
 			<name>CoRoTID 100725706 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.75</mass>
-			<radius>0.97</radius>
-			<period>13.2406</period>
-			<semimajoraxis>0.1055</semimajoraxis>
-			<eccentricity>0.53</eccentricity>
-			<inclination>88.55</inclination>
-			<temperature>600.8</temperature>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Mass">2.75000</mass>
+			<radius errorminus="0.070" errorplus="0.070">0.970</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">13.24060000</period>
+			<semimajoraxis errorminus="0.002100" errorplus="0.002100">0.105500</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.530000</eccentricity>
+			<periastron errorminus="6.4000" errorplus="6.4000">218.9000</periastron>
+			<periastrontime errorminus="0.080000" errorplus="0.080000">2454990.850000</periastrontime>
+			<maximumrvtime errorminus="0.080000" errorplus="0.080000">2454990.850000</maximumrvtime>
+			<inclination errorminus="0.200" errorplus="0.200">88.550</inclination>
+			<temperature errorminus="23" errorplus="23">600</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
+			<transittime errorminus=".001200" errorplus="0.001200" unit="HJD">2454273.343600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

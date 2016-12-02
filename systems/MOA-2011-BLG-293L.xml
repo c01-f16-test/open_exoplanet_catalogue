@@ -1,7 +1,7 @@
 <system>
 	<name>MOA-2011-BLG-293L</name>
 	<rightascension>17 55 39</rightascension>
-	<declination>-28 28 37</declination>
+	<declination>-28 28 36</declination>
 	<distance errorminus="440" errorplus="440">7700</distance>
 	<star>
 		<name>MOA-2011-BLG-293L</name>
@@ -17,7 +17,7 @@
 			<temperature>112.1</temperature>
 			<description>MOA-2011-BLG-293L b is a planet discovered by gravitational microlensing. Using follow-up observations on Keck, astronomers have identified the planet to lie in or near the habitable zone. It could in principle have habitable moons. It is also the first planet to be identified as being in the Galactic bulge with good confidence.</description>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>13/10/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,53 @@
+<system>
+	<name>GJ 504</name>
+	<name>Gliese 504</name>
+	<rightascension>13 16 46</rightascension>
+	<declination>+09 25 27</declination>
+	<distance errorminus="0.28" errorplus="0.27">17.95</distance>
+	<star>
+		<name>GJ 504</name>
+		<name>e Virginis</name>
+		<name>HR 5011</name>
+		<name>59 Virginis</name>
+		<name>Gliese 504</name>
+		<name>HIP 64792</name>
+		<name>HD 115383</name>
+		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+		<magV>5.220</magV>
+		<magB>5.800</magB>
+		<magR>4.8</magR>
+		<magI>4.5</magI>
+		<magJ errorminus="0.284" errorplus="0.284">4.392</magJ>
+		<magH errorminus="0.208" errorplus="0.208">4.107</magH>
+		<magK errorminus="0.238" errorplus="0.238">4.033</magK>
+		<temperature errorminus="25.00" errorplus="25.00">6234.00</temperature>
+		<age errorminus="0.060" errorplus="0.350">0.160</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.280</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>GJ 504 b</name>
+			<name>59 Vir b</name>
+			<name>Gliese 504 b</name>
+			<name>HIP 64792 b</name>
+			<name>HD 115383 b</name>
+			<list>Confirmed planets</list>
+			<spectraltype>T-Y</spectraltype>
+			<mass errorminus="1.00000" errorplus="4.50000" type="Mass">4.00000</mass>
+			<radius errorminus="0.07" errorplus="0.07">0.96</radius>
+			<positionangle errorminus="0.19" errorplus="0.19">327.45</positionangle>
+			<magJ errorminus="0.15" errorplus="0.15">19.91</magJ>
+			<magH errorminus="0.14" errorplus="0.14">20.14</magH>
+			<magK errorminus="0.28" errorplus="0.28">19.19</magK>
+			<semimajoraxis>43.500000</semimajoraxis>
+			<temperature errorminus="20" errorplus="30">510</temperature>
+			<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<image>Gliese504</image>
+			<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
+			
+Credit: Kuzuhara et al. (2013).</imagedescription>
+		</planet>
+	</star>
+</system>

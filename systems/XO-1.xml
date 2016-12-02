@@ -1,36 +1,37 @@
 <system>
 	<name>XO-1</name>
-	<rightascension>16 02 12</rightascension>
-	<declination>+28 10 11</declination>
-	<distance>200</distance>
+	<rightascension>16 02 11</rightascension>
+	<declination>+28 10 10</declination>
+	<distance errorminus="12.00" errorplus="12.00">172.00</distance>
 	<star>
 		<name>XO-1</name>
-		<mass>1</mass>
-		<radius>0.928</radius>
-		<magV>11.3</magV>
-		<magB errorminus="0.08" errorplus="0.08">11.88</magB>
+		<mass errorminus="0.03" errorplus="0.06">1.03</mass>
+		<radius errorminus="0.03" errorplus="0.02">0.94</radius>
+		<magV errorminus="0.030" errorplus="0.030">11.190</magV>
+		<magB errorminus="0.040" errorplus="0.040">11.850</magB>
 		<magJ errorminus="0.022" errorplus="0.022">9.939</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.601</magH>
 		<magK errorminus="0.015" errorplus="0.015">9.527</magK>
-		<temperature>5940.0</temperature>
-		<spectraltype>G1V</spectraltype>
+		<temperature errorplus="75.00">5750.00</temperature>
+		<age errorminus="2.0" errorplus="2.0">4.5</age>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>XO-1 b</name>
 			<name>BD+28 2507 b</name>
 			<name>2MASS J16021184+2810105 b</name>
 			<name>TYC 2041-01657-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.9</mass>
-			<radius>1.184</radius>
-			<period>3.9415128</period>
-			<semimajoraxis>0.0488</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>89.31</inclination>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Mass">0.92000</mass>
+			<radius errorminus="0.030" errorplus="0.030">1.210</radius>
+			<period errorminus="0.00000202" errorplus="0.00000202">3.94150685</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.049000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">88.800</inclination>
 			<temperature>1168.0</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2453808.9177</transittime>
+			<transittime errorminus=".000250" errorplus="0.000250" unit="BJD-TT">2453887.747740</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/10/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

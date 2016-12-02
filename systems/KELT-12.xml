@@ -1,0 +1,26 @@
+<system>
+	<name>KELT-12</name>
+	<declination>+36 34 12</declination>
+	<star>
+		<name>KELT-12</name>
+		<name>TYC 2619-1057-1</name>
+		<name>2MASS J17503372+3634128</name>
+		<mass errorminus="0.091" errorplus="0.071">1.592</mass>
+		<radius errorminus="0.18" errorplus="0.18">2.37</radius>
+		<magV>10.585</magV>
+		<temperature errorminus="51.0" errorplus="51.0">6278.0</temperature>
+		<age errorminus="0.1" errorplus="0.1">2.2</age>
+		<metallicity errorminus="0.085" errorplus="0.083">0.19</metallicity>
+		<planet>
+			<name>KELT-12 b</name>
+			<mass errorminus="0.14" errorplus="0.14" type="Radial Velocity">0.95</mass>
+			<radius errorminus="0.17" errorplus="0.18">1.79</radius>
+			<period errorminus="4.5e-05" errorplus="4.5e-05">5.03145</period>
+			<semimajoraxis errorminus="0.0013" errorplus="0.00099">0.0671</semimajoraxis>
+			<inclination errorminus="0.98" errorplus="1.1">84.46</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

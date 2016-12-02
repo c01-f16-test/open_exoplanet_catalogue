@@ -1,0 +1,57 @@
+<system>
+	<name>NGC 4349 127</name>
+	<name>NGC 4349 No 127</name>
+	<name>NGC 4349 MMU 127</name>
+	<rightascension>12 24 35</rightascension>
+	<declination>-61 49 12</declination>
+	<distance>2200.00</distance>
+	<star>
+		<name>NGC 4349 No 127</name>
+		<name>NGC 4349 MMU 127</name>
+		<mass errorminus="0.3" errorplus="0.3">3.9</mass>
+		<magV>7.4</magV>
+		<temperature>5700.0</temperature>
+		<age>0.21</age>
+		<planet>
+			<name>NGC 4349 No 127 b</name>
+			<name>NGC 4349 127 b</name>
+			<name>NGC 4349 MMU 127 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in open clusters</list>
+			<mass>19.8</mass>
+			<period errorminus="6.2" errorplus="6.2">677.8</period>
+			<semimajoraxis>2.38</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.19</eccentricity>
+			<periastron errorminus="19.0" errorplus="19.0">61.0</periastron>
+			<periastrontime errorminus="34.0" errorplus="34.0">54114.0</periastrontime>
+			<maximumrvtime errorminus="34.0" errorplus="34.0">54114.0</maximumrvtime>
+			<temperature>599.9</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>NGC 4349 127</name>
+		<mass errorminus="0.30" errorplus="0.30">3.90</mass>
+		<magV>10.880</magV>
+		<magJ errorminus="0.015" errorplus="0.015">8.041</magJ>
+		<magH errorminus="0.023" errorplus="0.023">7.308</magH>
+		<magK errorminus="0.015" errorplus="0.015">7.109</magK>
+		<age errorminus="0.050" errorplus="0.050">0.200</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.120</metallicity>
+		<planet>
+			<name>NGC 4349 127 b</name>
+			<mass type="Msini">19.80000</mass>
+			<period errorminus="6.20000000" errorplus="6.20000000">677.80000000</period>
+			<semimajoraxis>2.380000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.190000</eccentricity>
+			<periastron errorminus="19.0000" errorplus="19.0000">61.0000</periastron>
+			<periastrontime errorminus="34.000000" errorplus="34.000000">2454114.000000</periastrontime>
+			<maximumrvtime errorminus="34.000000" errorplus="34.000000">2454114.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

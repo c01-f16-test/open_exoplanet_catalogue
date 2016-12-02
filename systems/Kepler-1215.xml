@@ -2,22 +2,29 @@
 	<name>Kepler-1215</name>
 	<rightascension>19 49 51</rightascension>
 	<declination>+48 10 53</declination>
+	<distance errorminus="57.11" errorplus="101.86">701.00</distance>
 	<star>
 		<name>Kepler-1215</name>
 		<mass errorminus="0.05" errorplus="0.04">0.95</mass>
 		<radius errorminus="0.07" errorplus="0.13">0.93</radius>
-		<temperature errorminus="130.1" errorplus="92.6">5616.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.01</metallicity>
+		<magV>14.431</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.162</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.807</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.714</magK>
+		<temperature errorminus="130.14" errorplus="92.62">5616.00</temperature>
+		<age errorminus="3.040" errorplus="5.000">4.790</age>
+		<metallicity errorminus="0.160" errorplus="0.139">0.010</metallicity>
 		<planet>
 			<name>Kepler-1215 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.011" errorplus="0.016">0.109</radius>
-			<period errorminus="0.000023000" errorplus="0.000023000">4.767039630</period>
+			<period errorminus="0.00002300" errorplus="0.00002300">4.76703963</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003930" errorplus="0.003930" unit="JD">2454965.690390</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

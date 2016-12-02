@@ -1,8 +1,8 @@
 <system>
 	<name>BD+20 1790</name>
-	<rightascension>07 23 43.592</rightascension>
-	<declination>+20 24 58.66</declination>
-	<distance errorminus="4" errorplus="4">25.4</distance>
+	<rightascension>07 23 43</rightascension>
+	<declination>+20 24 58</declination>
+	<distance errorminus="4.00" errorplus="4.00">25.40</distance>
 	<star>
 		<name>BD+20 1790</name>
 		<name>V429 Gem</name>
@@ -11,6 +11,7 @@
 		<name>TYC 1355-214-1</name>
 		<name>1SWASP J072343.59+202458.6</name>
 		<mass errorminus="0.09" errorplus="0.09">0.63</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.71</radius>
 		<magV errorminus="0.060" errorplus="0.060">10.001</magV>
 		<magB>11.08</magB>
 		<magR>9.43</magR>
@@ -18,9 +19,10 @@
 		<magJ errorminus="0.021" errorplus="0.021">7.643</magJ>
 		<magH errorminus="0.017" errorplus="0.017">7.032</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.879</magK>
-		<temperature>4410</temperature>
-		<metallicity errorminus="0.20" errorplus="0.20">0.30</metallicity>
-		<spectraltype>K5Ve</spectraltype>
+		<temperature>4410.00</temperature>
+		<age errorminus="0.023" errorplus="0.023">0.058</age>
+		<metallicity errorminus="0.200" errorplus="0.200">0.300</metallicity>
+		<spectraltype>K5 V</spectraltype>
 		<planet>
 			<name>BD+20 1790 b</name>
 			<name>V429 Gem b</name>
@@ -28,17 +30,17 @@
 			<name>2MASS J07234358+2024588 b</name>
 			<name>TYC 1355-214-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.35" errorplus="1.35" type="msini">6.37</mass>
-			<period errorminus="0.00076" errorplus="0.00077">7.78287</period>
-			<semimajoraxis errorminus="0.06" errorplus="0.05">0.066</semimajoraxis>
-			<eccentricity errorminus="0.09" errorplus="0.07">0.22</eccentricity>
-			<periastron errorminus="28" errorplus="22">262</periastron>
+			<mass errorminus="1.35000" errorplus="1.35000" type="Msini">6.37000</mass>
+			<period errorminus="0.00076000" errorplus="0.00077000">7.78287000</period>
+			<semimajoraxis errorminus="0.006000" errorplus="0.005000">0.066000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.070000">0.220000</eccentricity>
+			<periastron errorminus="28.0000" errorplus="22.0000">262.0000</periastron>
 			<inclination>50.41</inclination>
 			<description>The existance of planet BD+20 1790 b was proposed first in 2010. New Bayesian analysis supports the hypothesis of the planetary companion.</description>
 			<discoverymethod>RV</discoverymethod>
 			<istransiting>0</istransiting>
-			<lastupdate>15/11/23</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

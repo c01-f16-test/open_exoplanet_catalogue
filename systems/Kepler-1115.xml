@@ -1,23 +1,31 @@
 <system>
 	<name>Kepler-1115</name>
 	<rightascension>19 39 58</rightascension>
-	<declination>+40 08 40</declination>
+	<declination>+40 08 39</declination>
+	<distance errorminus="107.72" errorplus="156.71">935.00</distance>
 	<star>
 		<name>Kepler-1115</name>
 		<mass errorminus="0.10" errorplus="0.10">1.60</mass>
 		<radius errorminus="0.20" errorplus="0.29">1.73</radius>
-		<temperature errorminus="217.9" errorplus="296.0">8480.0</temperature>
-		<metallicity errorminus="0.12" errorplus="0.11">-0.51</metallicity>
+		<magV>11.980</magV>
+		<magJ errorminus="0.020" errorplus="0.020">11.566</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.555</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.512</magK>
+		<temperature errorminus="217.88" errorplus="295.98">8480.00</temperature>
+		<age errorminus="0.082" errorplus="0.130">1.120</age>
+		<metallicity errorminus="0.121" errorplus="0.106">-0.510</metallicity>
 		<planet>
 			<name>Kepler-1115 b</name>
+			<name>KOI-2138 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.026">0.152</radius>
-			<period errorminus="0.000135600" errorplus="0.000135600">23.554072500</period>
+			<period errorminus="0.00013560" errorplus="0.00013560">23.55407250</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004750" errorplus="0.004750" unit="JD">2454977.212450</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

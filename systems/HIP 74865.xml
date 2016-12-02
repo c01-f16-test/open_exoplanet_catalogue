@@ -1,0 +1,21 @@
+<system>
+	<name>HIP 74865</name>
+	<declination>-30 28 41</declination>
+	<star>
+		<name>HIP 74865</name>
+		<name>HD 135778</name>
+		<mass errorminus="0.05" errorplus="0.05">1.42</mass>
+		<magV>9.0</magV>
+		<temperature errorminus="10.0" errorplus="10.0">6640.0</temperature>
+		<age errorminus="0.005" errorplus="0.005">0.015</age>
+		<spectraltype>F3V</spectraltype>
+		<planet>
+			<name>HIP 74865 b</name>
+			<mass errorminus="10.0" errorplus="37.0" type="Spectrum">28.0</mass>
+			<semimajoraxis errorminus="6.0" errorplus="6.0">23.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

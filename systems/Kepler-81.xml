@@ -9,12 +9,14 @@
 		<name>Kepler-81</name>
 		<name>KOI-877</name>
 		<name>KIC 7287995</name>
-		<mass errorminus="0.0280" errorplus="0.0280">0.6480</mass>
-		<radius errorminus=".029" errorplus="0.029">0.595</radius>
+		<mass errorminus="0.23" errorplus="0.38">0.64</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.59</radius>
+		<magV>15.019</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.168</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.577</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.392</magK>
-		<temperature errorminus="16" errorplus="116">4500</temperature>
+		<temperature errorminus="116.00" errorplus="116.00">4500.00</temperature>
+		<metallicity>-0.524</metallicity>
 		<planet>
 			<name>Kepler-81 b</name>
 			<name>KOI-877 b</name>
@@ -22,14 +24,18 @@
 			<name>KIC 7287995 b</name>
 			<name>KIC 7287995.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01823" errorplus="0.01823">0.22874</radius>
-			<period errorminus=".000008" errorplus="0.000008">5.954880</period>
+			<radius errorminus="0.034" errorplus="0.034">0.216</radius>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">5.95500000</period>
+			<semimajoraxis>0.056</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>85.94</inclination>
+			<temperature>646.0</temperature>
 			<description>Kepler-81 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0007700" errorplus="0.0007700">2455003.9562800</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-81 c</name>
@@ -38,14 +44,18 @@
 			<name>KIC 7287995 c</name>
 			<name>KIC 7287995.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01002" errorplus="0.01002">0.18317</radius>
-			<period errorminus=".000025" errorplus="0.000025">12.039956</period>
+			<radius errorminus="0.033" errorplus="0.033">0.211</radius>
+			<period errorminus="3.5e-05" errorplus="3.5e-05">12.04000000</period>
+			<semimajoraxis>0.089</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>87.66</inclination>
+			<temperature>513.0</temperature>
 			<description>Kepler-81 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0011200" errorplus="0.0011200">2455014.2229200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-81 d</name>
@@ -54,13 +64,14 @@
 			<name>KIC 7287995 d</name>
 			<name>KIC 7287995.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02461" errorplus="0.02461">0.11027</radius>
-			<period errorminus=".000181" errorplus="0.000181">20.837846</period>
+			<radius errorminus="0.024" errorplus="0.024">0.108</radius>
+			<period errorminus="0.00018100" errorplus="0.00018100">20.83784600</period>
+			<semimajoraxis>0.128000</semimajoraxis>
 			<description>Kepler-81 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0053300" errorplus="0.0053300">2454965.0796300</transittime>
+			<transittime errorminus=".005330" errorplus="0.005330" unit="BJD">2454965.079630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

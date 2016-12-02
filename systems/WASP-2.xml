@@ -2,7 +2,7 @@
 	<name>WASP-2</name>
 	<rightascension>20 30 54</rightascension>
 	<declination>+06 25 46</declination>
-	<distance errorminus="37.0" errorplus="25.6">165.8</distance>
+	<distance errorminus="30.00" errorplus="30.00">166.00</distance>
 	<binary>
 		<name>WASP-2</name>
 		<separation errorminus="0.001" errorplus="0.001" unit="arcsec">0.757</separation>
@@ -37,7 +37,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455147.25721</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>13/01/27</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 			</planet>
 		</star>
@@ -51,4 +51,73 @@
 			<spectraltype>M0</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>WASP-2 A</name>
+		<mass errorminus="0.12" errorplus="0.12">0.89</mass>
+		<radius errorminus="0.065" errorplus="0.065">0.840</radius>
+		<magV>11.98</magV>
+		<magB>13</magB>
+		<magJ errorminus="0.027" errorplus="0.027">10.166</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.752</magH>
+		<magK errorminus="0.024" errorplus="0.024">9.632</magK>
+		<temperature errorminus="71" errorplus="71">5255</temperature>
+		<metallicity>-0.08</metallicity>
+		<spectraltype>K1V</spectraltype>
+		<planet>
+			<name>WASP-2 A b</name>
+			<name>WASP-2 b</name>
+			<name>2MASS J20305413+0625463 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.092" errorplus="0.092">0.914</mass>
+			<radius errorminus="0.082" errorplus="0.082">1.117</radius>
+			<period>2.15222144</period>
+			<semimajoraxis>0.03138</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>84.73</inclination>
+			<temperature>1170.7</temperature>
+			<description>WASP-2 is an orange dwarf star that hosts the exoplanet WASP-2 b. It was discovered with the SuperWASP survey in 2006.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00017" errorplus="0.00017" unit="BJD">2455147.25721</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>WASP-2 B</name>
+		<mass errorminus="0.028" errorplus="0.028">0.383</mass>
+		<magJ errorminus="0.010" errorplus="0.010">13.046</magJ>
+		<magH errorminus="0.0061" errorplus="0.0061">12.4863</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.503</magK>
+		<temperature errorminus="26" errorplus="26">3509</temperature>
+		<spectraltype>M0</spectraltype>
+	</star>
+	<star>
+		<name>WASP-2</name>
+		<mass errorminus="0.12" errorplus="0.12">0.89</mass>
+		<radius errorminus="0.07" errorplus="0.06">0.84</radius>
+		<magV errorminus="0.100" errorplus="0.100">11.880</magV>
+		<magJ errorminus="0.027" errorplus="0.027">10.166</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.752</magH>
+		<magK errorminus="0.024" errorplus="0.024">9.632</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5200.00</temperature>
+		<age errorminus="5.600" errorplus="8.400">5.600</age>
+		<metallicity errorminus="0.200" errorplus="0.200">0.100</metallicity>
+		<spectraltype>K1 V</spectraltype>
+		<planet>
+			<name>WASP-2 b</name>
+			<mass errorminus="0.09300" errorplus="0.09000" type="Mass">0.91500</mass>
+			<radius errorminus="0.083" errorplus="0.080">1.071</radius>
+			<period errorminus="4e-07" errorplus="4e-07">2.15222600</period>
+			<semimajoraxis errorminus="0.001540" errorplus="0.001300">0.031380</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.270" errorplus="0.350">84.810</inclination>
+			<temperature errorminus="54" errorplus="54">1304</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00017" errorplus="0.00017">2453991.5153</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
 </system>

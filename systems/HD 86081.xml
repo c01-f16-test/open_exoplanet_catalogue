@@ -1,30 +1,35 @@
 <system>
 	<name>HD 86081</name>
-	<rightascension>09 56 06</rightascension>
+	<rightascension>09 56 05</rightascension>
 	<declination>-03 48 30</declination>
-	<distance>91</distance>
+	<distance errorminus="11.30" errorplus="9.06">91.16</distance>
 	<star>
 		<name>HD 86081</name>
-		<mass>1.21</mass>
-		<radius>1.22</radius>
-		<magV>8.73</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.34</magB>
+		<mass errorminus="0.09" errorplus="0.09">1.21</mass>
+		<radius errorminus="0.10" errorplus="0.10">1.22</radius>
+		<magV>8.730</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.394</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.628</magJ>
 		<magH errorminus="0.040" errorplus="0.040">7.425</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.299</magK>
-		<temperature>6028.0</temperature>
-		<metallicity>0.257</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<temperature errorminus="44.0" errorplus="44.0">6028.0</temperature>
+		<age>6.21</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.257</metallicity>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 86081 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.5</mass>
-			<period>2.1375</period>
-			<semimajoraxis>0.039</semimajoraxis>
-			<eccentricity>0.008</eccentricity>
+			<mass type="Msini">1.50000</mass>
+			<radius>1.08</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">2.13750000</period>
+			<semimajoraxis>0.035000</semimajoraxis>
+			<eccentricity errorminus="0.004000" errorplus="0.004000">0.008000</eccentricity>
+			<periastron errorminus="40.0000" errorplus="40.0000">251.0000</periastron>
+			<periastrontime errorminus="0.300000" errorplus="0.300000">2453694.800000</periastrontime>
+			<maximumrvtime errorminus="0.300000" errorplus="0.300000">2453694.800000</maximumrvtime>
 			<temperature>1486.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

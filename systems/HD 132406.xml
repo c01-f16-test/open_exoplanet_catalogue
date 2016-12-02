@@ -1,31 +1,35 @@
 <system>
 	<name>HD 132406</name>
-	<rightascension>14 56 55</rightascension>
-	<declination>+53 22 56</declination>
-	<distance>71</distance>
+	<rightascension>14 56 54</rightascension>
+	<declination>+53 22 55</declination>
+	<distance errorminus="4.10" errorplus="3.68">70.97</distance>
 	<star>
 		<name>HD 132406</name>
-		<mass>1.09</mass>
-		<magV>8.45</magV>
-		<magB errorminus="0.007" errorplus="0.007">9.100</magB>
+		<mass errorminus="0.05" errorplus="0.05">1.09</mass>
+		<magV errorminus="0.013" errorplus="0.013">8.467</magV>
+		<magB errorminus="0.018" errorplus="0.018">9.098</magB>
 		<magR>8.1</magR>
 		<magI>7.8</magI>
 		<magJ errorminus="0.023" errorplus="0.023">7.250</magJ>
 		<magH errorminus="0.031" errorplus="0.031">6.985</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.870</magK>
-		<temperature>5885.0</temperature>
-		<metallicity>0.18</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<temperature errorminus="50.0" errorplus="50.0">5885.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">6.4</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.18</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 132406 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.61</mass>
-			<period>974</period>
-			<semimajoraxis>1.98</semimajoraxis>
-			<eccentricity>0.34</eccentricity>
+			<mass type="Msini">5.61000</mass>
+			<period errorminus="39.00000000" errorplus="39.00000000">974.00000000</period>
+			<semimajoraxis>1.980000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.090000">0.340000</eccentricity>
+			<periastron errorminus="19.0000" errorplus="19.0000">214.0000</periastron>
+			<periastrontime errorminus="44.000000" errorplus="44.000000">2453474.000000</periastrontime>
+			<maximumrvtime errorminus="44.000000" errorplus="44.000000">2453474.000000</maximumrvtime>
 			<temperature>209.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/10/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

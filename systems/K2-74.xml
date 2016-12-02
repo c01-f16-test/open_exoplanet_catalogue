@@ -1,0 +1,26 @@
+<system>
+	<name>K2-74</name>
+	<rightascension>22 39 40</rightascension>
+	<declination>-08 42 52</declination>
+	<star>
+		<name>K2-74</name>
+		<mass errorminus="0.03" errorplus="0.03">0.96</mass>
+		<radius errorminus="0.06" errorplus="0.06">0.98</radius>
+		<magV errorminus="0.031" errorplus="0.031">12.588</magV>
+		<magB errorminus="0.042" errorplus="0.042">13.139</magB>
+		<magJ errorminus="0.027" errorplus="0.027">11.427</magJ>
+		<magH errorminus="0.026" errorplus="0.026">11.177</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.068</magK>
+		<temperature errorminus="86.00" errorplus="86.00">6060.00</temperature>
+		<planet>
+			<name>K2-74 b</name>
+			<radius errorminus="0.017" errorplus="0.017">0.206</radius>
+			<period errorminus="0.00330000" errorplus="0.00330000">19.56660000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.140200</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004500" errorplus="0.004500" unit="BJD_TDB">2456997.999200</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

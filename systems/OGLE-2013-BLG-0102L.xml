@@ -1,19 +1,16 @@
 <system>
 	<name>OGLE-2013-BLG-0102L</name>
-	<rightascension>17 52 07.08</rightascension>
-	<declination>-31 41 26.1</declination>
-	<distance errorminus="310" errorplus="310">3040</distance>
+	<declination>-31 41 26</declination>
 	<star>
-		<name>OGLE-2013-BLG-0102LA</name>
-		<mass errorminus="0.013" errorplus="0.013">0.012</mass>
+		<name>OGLE-2013-BLG-0102L</name>
+		<mass errorminus="0.011" errorplus="0.011">0.097</mass>
+		<magV>17.0</magV>
 		<planet>
-			<name>OGLE-2013-BLG-0102LB</name>
-			<list>Controversial</list>
-			<mass errorminus="2" errorplus="2">13</mass>
-			<separation errorminus="0.08" errorplus="0.08" unit="AU">0.80</separation>
-			<description>OGLE-2013-BLG-0102 was a microlensing event observed towards the galactic bulge. The lens system is a low-mass binary consisting of a primary at the hydrogen-burning limit and a secondary at the deuterium-burning limit. Depending on the definitions used, the secondary may either be regarded as a giant planet or a low-mass brown dwarf.</description>
+			<name>OGLE-2013-BLG-0102L b</name>
+			<mass errorminus="3.0" errorplus="3.0">13.6</mass>
+			<semimajoraxis errorminus="0.04" errorplus="0.04">0.8</semimajoraxis>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>15/06/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,116 @@
+<system>
+	<name>PSR 1257 12</name>
+	<name>PSR 1257+12</name>
+	<name>PSR B1257+12</name>
+	<rightascension>13 00 03</rightascension>
+	<declination>+12 40 56</declination>
+	<distance errorminus="100.00" errorplus="100.00">600.00</distance>
+	<star>
+		<name>PSR 1257+12</name>
+		<name>PSR B1257+12</name>
+		<name>PSR J1300+1240</name>
+		<mass>1.4</mass>
+		<radius>0.000014</radius>
+		<age errorminus="3.000" errorplus="3.000">3.000</age>
+		<spectraltype>Pulsar</spectraltype>
+		<planet>
+			<name>PSR 1257+12 A</name>
+			<name>PSR B1257+12 A</name>
+			<name>PSR 1257+12 b</name>
+			<name>PSR B1257+12 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00001" errorplus="0.00001" type="Mass">0.00006</mass>
+			<period errorminus="0.00300000" errorplus="0.00300000">25.26200000</period>
+			<semimajoraxis>0.190000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.200000" errorplus="0.200000">2449765.600000</periastrontime>
+			<maximumrvtime errorminus="0.200000" errorplus="0.200000">2449765.600000</maximumrvtime>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1994</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR 1257+12 B</name>
+			<name>PSR B1257+12 B</name>
+			<name>PSR 1257+12 c</name>
+			<name>PSR B1257+12 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00063" errorplus="0.00063" type="Mass">0.01353</mass>
+			<period errorminus="0.00010000" errorplus="0.00010000">66.54190000</period>
+			<semimajoraxis>0.360000</semimajoraxis>
+			<eccentricity errorminus="0.000200" errorplus="0.000200">0.018600</eccentricity>
+			<periastron errorminus="0.6000" errorplus="0.6000">250.4000</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2449768.600000</periastrontime>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2449768.600000</maximumrvtime>
+			<inclination errorminus="4" errorplus="4">53</inclination>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR 1257+12 C</name>
+			<name>PSR B1257+12 C</name>
+			<name>PSR 1257 12 d</name>
+			<name>PSR B1257+12 d</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00063" errorplus="0.00063" type="Mass">0.01227</mass>
+			<period errorminus="0.00020000" errorplus="0.00020000">98.21140000</period>
+			<semimajoraxis>0.460000</semimajoraxis>
+			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0252</eccentricity>
+			<periastron errorminus="0.5000" errorplus="0.5000">108.3000</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2449767.000000</periastrontime>
+			<ascendingnode>3</ascendingnode>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2449767.000000</maximumrvtime>
+			<inclination errorminus="3" errorplus="3">47</inclination>
+			<discoverymethod>Pulsar Timing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>PSR 1257 12</name>
+		<age errorminus="0.0" errorplus="0.0">1.0</age>
+		<planet>
+			<name>PSR 1257 12 b</name>
+			<mass>7e-05</mass>
+			<period errorminus="0.003" errorplus="0.003">25.262</period>
+			<semimajoraxis>0.19</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<periastron>360.0</periastron>
+			<periastrontime errorminus="0.3" errorplus="0.3">2449765.1</periastrontime>
+			<maximumrvtime errorminus="0.3" errorplus="0.3">2449765.1</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR 1257 12 c</name>
+			<mass>0.013</mass>
+			<period errorminus="0.0001" errorplus="0.0001">66.5419</period>
+			<semimajoraxis>0.36</semimajoraxis>
+			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0186</eccentricity>
+			<periastron errorminus="6.0" errorplus="6.0">250.4</periastron>
+			<periastrontime errorminus="0.1" errorplus="0.1">2449768.1</periastrontime>
+			<maximumrvtime errorminus="0.1" errorplus="0.1">2449768.1</maximumrvtime>
+			<inclination errorminus="4.0" errorplus="4.0">53.0</inclination>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+		<planet>
+			<name>PSR 1257 12 d</name>
+			<mass errorminus="0.0006" errorplus="0.0006">0.012</mass>
+			<period errorminus="0.0002" errorplus="0.0002">98.2114</period>
+			<semimajoraxis>0.46</semimajoraxis>
+			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0252</eccentricity>
+			<periastron errorminus="5.0" errorplus="5.0">108.3</periastron>
+			<periastrontime errorminus="0.1" errorplus="0.1">2449765.5</periastrontime>
+			<maximumrvtime errorminus="0.1" errorplus="0.1">2449765.5</maximumrvtime>
+			<inclination errorminus="3.0" errorplus="3.0">47.0</inclination>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1992</discoveryyear>
+		</planet>
+	</star>
+</system>

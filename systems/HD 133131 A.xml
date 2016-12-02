@@ -1,0 +1,45 @@
+<system>
+	<name>HD 133131 A</name>
+	<rightascension>15 03 35</rightascension>
+	<declination>-27 50 33</declination>
+	<distance>47.00</distance>
+	<star>
+		<name>HD 133131 A</name>
+		<mass>0.95</mass>
+		<magV>8.400</magV>
+		<magB errorminus="0.022" errorplus="0.022">9.053</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.256</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.949</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.895</magK>
+		<temperature errorminus="19.00" errorplus="19.00">5799.00</temperature>
+		<age>9.700</age>
+		<metallicity errorminus="0.016" errorplus="0.016">-0.306</metallicity>
+		<spectraltype>G2 V</spectraltype>
+		<planet>
+			<name>HD 133131 A b</name>
+			<mass errorminus="0.04000" errorplus="0.04000" type="Msini">1.42000</mass>
+			<period errorminus="3.00000000" errorplus="3.00000000">649.00000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">1.440000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.330000</eccentricity>
+			<periastron errorminus="4.7000" errorplus="4.7000">16.0000</periastron>
+			<periastrontime errorminus="23.000000" errorplus="23.000000">2452327.000000</periastrontime>
+			<maximumrvtime errorminus="23.000000" errorplus="23.000000">2452327.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 133131 A c</name>
+			<mass errorminus="0.15000" errorplus="0.15000" type="Msini">0.42000</mass>
+			<period errorminus="1084.00000000" errorplus="1084.00000000">3568.00000000</period>
+			<semimajoraxis errorminus="0.920000" errorplus="0.920000">4.490000</semimajoraxis>
+			<eccentricity errorminus="0.220000" errorplus="0.220000">0.490000</eccentricity>
+			<periastron errorminus="37.0000" errorplus="37.0000">100.0000</periastron>
+			<periastrontime errorminus="21.000000" errorplus="21.000000">2452327.000000</periastrontime>
+			<maximumrvtime errorminus="21.000000" errorplus="21.000000">2452327.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

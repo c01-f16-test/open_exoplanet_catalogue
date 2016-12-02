@@ -2,7 +2,7 @@
 	<name>HD 46375</name>
 	<rightascension>06 33 12</rightascension>
 	<declination>+05 27 46</declination>
-	<distance>33.4</distance>
+	<distance errorminus="1.24" errorplus="1.15">33.41</distance>
 	<binary>
 		<separation unit="arcsec">9.4</separation>
 		<separation unit="AU">314</separation>
@@ -31,7 +31,7 @@
 				<temperature>1132.0</temperature>
 				<description>This star is on its way to becoming a red giant. It is considerably older than the sun. It has a stellar companion at a distance of 314 astronomical units.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/04</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 			</planet>
 		</star>
@@ -41,4 +41,65 @@
 			<spectraltype>K9.5-M1.5</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 46375 A</name>
+		<mass>0.91</mass>
+		<radius>1</radius>
+		<magV>7.94</magV>
+		<magB>8.70</magB>
+		<magJ>6.45</magJ>
+		<magH>6.07</magH>
+		<magK>6.00</magK>
+		<temperature>5199.0</temperature>
+		<metallicity>0.24</metallicity>
+		<spectraltype>K1 IV</spectraltype>
+		<planet>
+			<name>HD 46375 A b</name>
+			<name>HD 46375 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.249</mass>
+			<period>3.024</period>
+			<semimajoraxis>0.041</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<temperature>1132.0</temperature>
+			<description>This star is on its way to becoming a red giant. It is considerably older than the sun. It has a stellar companion at a distance of 314 astronomical units.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 46375 B</name>
+		<mass>0.58</mass>
+		<spectraltype>K9.5-M1.5</spectraltype>
+	</star>
+	<star>
+		<name>HD 46375</name>
+		<mass>0.92</mass>
+		<radius>1.0</radius>
+		<magV errorminus="0.015" errorplus="0.015">7.912</magV>
+		<magB errorminus="0.021" errorplus="0.021">8.796</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.452</magJ>
+		<magH errorminus="0.026" errorplus="0.026">6.072</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.000</magK>
+		<temperature>5285.00</temperature>
+		<age>4.96</age>
+		<metallicity>0.240</metallicity>
+		<spectraltype>K1 IV-V</spectraltype>
+		<planet>
+			<name>HD 46375 b</name>
+			<mass errorminus="0.01900" errorplus="0.01900" type="Msini">0.22600</mass>
+			<radius>1.02</radius>
+			<period errorminus="0.00006500" errorplus="0.00006500">3.02357300</period>
+			<semimajoraxis errorminus="0.002300" errorplus="0.002300">0.039800</semimajoraxis>
+			<eccentricity errorminus="0.026000" errorplus="0.026000">0.063000</eccentricity>
+			<periastron errorminus="24.0000" errorplus="24.0000">114.0000</periastron>
+			<periastrontime errorminus="0.190000" errorplus="0.190000">2451071.530000</periastrontime>
+			<maximumrvtime errorminus="0.190000" errorplus="0.190000">2451071.530000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
 </system>

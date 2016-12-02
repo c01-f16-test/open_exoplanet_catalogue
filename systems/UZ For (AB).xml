@@ -1,0 +1,20 @@
+<system>
+	<name>UZ For (AB)</name>
+	<declination>-25 44 21</declination>
+	<star>
+		<name>UZ For (AB)</name>
+		<mass>0.84</mass>
+		<magV>18.2</magV>
+		<spectraltype>Catac. var.</spectraltype>
+		<planet>
+			<name>UZ For (AB) d</name>
+			<mass errorminus="1.2" errorplus="1.2">7.7</mass>
+			<period errorminus="90.0" errorplus="90.0">1900.0</period>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">2.8</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.05</eccentricity>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

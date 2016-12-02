@@ -10,12 +10,13 @@
 		<name>KOI-1426</name>
 		<name>KIC 11122894</name>
 		<mass errorminus="0.12" errorplus="0.20">1.04</mass>
-		<radius errorminus="0.10" errorplus="0.48">1.04</radius>
+		<radius errorminus="0.17" errorplus="0.17">0.92</radius>
+		<magV>14.232</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.122</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.785</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.78</magK>
-		<temperature errorminus="193" errorplus="151">6150</temperature>
-		<metallicity errorminus="0.30" errorplus="0.22">-0.12</metallicity>
+		<magK errorminus="0.030" errorplus="0.030">12.780</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5619.00</temperature>
+		<metallicity errorminus="0.30" errorplus="0.22">-0.120</metallicity>
 		<planet>
 			<name>Kepler-297 b</name>
 			<name>KOI-1426 b</name>
@@ -23,13 +24,14 @@
 			<name>KIC 11122894 b</name>
 			<name>KIC 11122894.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04739" errorplus="0.04739">0.26154</radius>
-			<period errorminus=".000153" errorplus="0.000153">38.871826</period>
+			<radius errorminus="0.046" errorplus="0.046">0.256</radius>
+			<period errorminus="0.00015300" errorplus="0.00015300">38.87182600</period>
+			<semimajoraxis>0.217000</semimajoraxis>
 			<description>Kepler-297 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-297 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020900" errorplus="0.0020900">2455004.2871300</transittime>
+			<transittime errorminus=".002090" errorplus="0.002090" unit="BJD">2455004.287130</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -40,13 +42,14 @@
 			<name>KIC 11122894.02</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.03" errorplus="0.04">0.13</mass>
-			<radius errorminus="0.07" errorplus="0.30">0.66</radius>
-			<period errorminus=".000120" errorplus="0.000120">74.920137</period>
+			<radius errorminus="0.105" errorplus="0.105">0.583</radius>
+			<period errorminus="0.00012000" errorplus="0.00012000">74.92013700</period>
+			<semimajoraxis>0.336000</semimajoraxis>
 			<description>Kepler-297 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-297 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009800" errorplus="0.0009800">2454958.0377000</transittime>
+			<transittime errorminus=".000980" errorplus="0.000980" unit="BJD">2454958.037700</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

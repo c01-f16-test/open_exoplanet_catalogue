@@ -4,17 +4,20 @@
 	<name>KIC 3231341</name>
 	<rightascension>19 21 39</rightascension>
 	<declination>+38 20 37</declination>
-	<distance>1462.04</distance>
+	<distance>1200.00</distance>
 	<star>
 		<name>Kepler-24</name>
 		<name>KOI-1102</name>
 		<name>KIC 3231341</name>
-		<mass errorminus="0.1900" errorplus="0.1900">1.0200</mass>
-		<radius errorminus=".291" errorplus="0.291">1.289</radius>
+		<mass errorminus="0.14" errorplus="0.11">1.03</mass>
+		<radius errorminus="0.29" errorplus="0.29">1.29</radius>
+		<magV>14.925</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.763</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.45</magH>
+		<magH errorminus="0.030" errorplus="0.030">13.445</magH>
 		<magK errorminus="0.037" errorplus="0.037">13.372</magK>
-		<temperature errorminus="19" errorplus="219">5897</temperature>
+		<temperature errorminus="219.00" errorplus="219.00">5897.00</temperature>
+		<age>7.700</age>
+		<metallicity errorminus="0.400" errorplus="0.400">-0.240</metallicity>
 		<planet>
 			<name>Kepler-24 c</name>
 			<name>KOI-1102 c</name>
@@ -22,14 +25,16 @@
 			<name>KIC 3231341 c</name>
 			<name>KIC 3231341.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02461" errorplus="0.48026">0.36179</radius>
-			<period errorminus=".000119" errorplus="0.000119">12.333360</period>
+			<mass errorminus="inf" errorplus="nan" type="Mass">1.60000</mass>
+			<radius errorminus="0.02461" errorplus="0.48026">0.250</radius>
+			<period errorminus=".000119" errorplus="0.000119">12.33350000</period>
+			<semimajoraxis>0.106000</semimajoraxis>
 			<description>Kepler-24 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-24 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0054000" errorplus="0.0054000">2454970.5887800</transittime>
+			<transittime errorminus="0.0054000" errorplus="0.0054000" unit="BJD">2454970.586000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-24 b</name>
@@ -38,14 +43,16 @@
 			<name>KIC 3231341 b</name>
 			<name>KIC 3231341.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07746" errorplus="0.07746">0.31258</radius>
-			<period errorminus=".000059" errorplus="0.000059">8.145207</period>
+			<mass errorminus="inf" errorplus="nan" type="Mass">1.60000</mass>
+			<radius errorminus="0.07746" errorplus="0.07746">0.214</radius>
+			<period errorminus=".000059" errorplus="0.000059">8.14530000</period>
+			<semimajoraxis>0.080000</semimajoraxis>
 			<description>Kepler-24 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-24 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042500" errorplus="0.0042500">2454973.5633000</transittime>
+			<transittime errorminus="0.0042500" errorplus="0.0042500" unit="BJD">2454973.568900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-24 e</name>
@@ -54,13 +61,14 @@
 			<name>KIC 3231341 e</name>
 			<name>KIC 3231341.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05832" errorplus="0.05832">0.25334</radius>
-			<period errorminus=".000157" errorplus="0.000157">18.998355</period>
+			<radius errorminus="0.057" errorplus="0.057">0.248</radius>
+			<period errorminus="0.00015700" errorplus="0.00015700">18.99835500</period>
+			<semimajoraxis>0.138000</semimajoraxis>
 			<description>Kepler-24 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-24 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0055500" errorplus="0.0055500">2454977.7435700</transittime>
+			<transittime errorminus=".005550" errorplus="0.005550" unit="BJD">2454977.743570</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +78,14 @@
 			<name>KIC 3231341 d</name>
 			<name>KIC 3231341.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03554" errorplus="0.03554">0.15219</radius>
-			<period errorminus=".000053" errorplus="0.000053">4.244384</period>
+			<radius errorminus="0.035" errorplus="0.035">0.149</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">4.24438400</period>
+			<semimajoraxis>0.051000</semimajoraxis>
 			<description>Kepler-24 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-24 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0068000" errorplus="0.0068000">2454970.0641100</transittime>
+			<transittime errorminus=".006800" errorplus="0.006800" unit="BJD">2454970.064110</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

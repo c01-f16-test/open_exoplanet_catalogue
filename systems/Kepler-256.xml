@@ -9,12 +9,14 @@
 		<name>Kepler-256</name>
 		<name>KOI-939</name>
 		<name>KIC 9466668</name>
-		<mass errorminus="0.1100" errorplus="0.1100">1.0000</mass>
-		<radius errorminus=".316" errorplus="0.316">1.301</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">1.02</mass>
+		<radius errorminus="0.32" errorplus="0.32">1.30</radius>
+		<magV>15.065</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.824</magJ>
 		<magH errorminus="0.025" errorplus="0.025">13.496</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.42</magK>
-		<temperature errorminus="11" errorplus="111">5551</temperature>
+		<magK errorminus="0.043" errorplus="0.043">13.424</magK>
+		<temperature errorminus="111.00" errorplus="111.00">5551.00</temperature>
+		<metallicity>0.061</metallicity>
 		<planet>
 			<name>Kepler-256 c</name>
 			<name>KOI-939 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9466668 c</name>
 			<name>KIC 9466668.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04830" errorplus="0.04830">0.19593</radius>
-			<period errorminus=".000016" errorplus="0.000016">3.388020</period>
+			<radius errorminus="0.047" errorplus="0.047">0.192</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">3.38802000</period>
+			<semimajoraxis>0.045000</semimajoraxis>
 			<description>Kepler-256 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-256 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025200" errorplus="0.0025200">2455003.5322100</transittime>
+			<transittime errorminus=".002520" errorplus="0.002520" unit="BJD">2455003.532210</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9466668 d</name>
 			<name>KIC 9466668.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05741" errorplus="0.05741">0.22600</radius>
-			<period errorminus=".000031" errorplus="0.000031">5.839172</period>
+			<radius errorminus="0.056" errorplus="0.056">0.221</radius>
+			<period errorminus="0.00003100" errorplus="0.00003100">5.83917200</period>
+			<semimajoraxis>0.064000</semimajoraxis>
 			<description>Kepler-256 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-256 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0031800" errorplus="0.0031800">2454965.0884500</transittime>
+			<transittime errorminus=".003180" errorplus="0.003180" unit="BJD">2454965.088450</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 9466668 b</name>
 			<name>KIC 9466668.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03554" errorplus="0.03554">0.14490</radius>
-			<period errorminus=".000009" errorplus="0.000009">1.620493</period>
+			<radius errorminus="0.035" errorplus="0.035">0.142</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">1.62049300</period>
+			<semimajoraxis>0.027000</semimajoraxis>
 			<description>Kepler-256 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-256 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0033900" errorplus="0.0033900">2454965.0677600</transittime>
+			<transittime errorminus=".003390" errorplus="0.003390" unit="BJD">2454965.067760</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 9466668 e</name>
 			<name>KIC 9466668.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05286" errorplus="0.05286">0.21416</radius>
-			<period errorminus=".000066" errorplus="0.000066">10.681572</period>
+			<radius errorminus="0.052" errorplus="0.052">0.210</radius>
+			<period errorminus="0.00006600" errorplus="0.00006600">10.68157200</period>
+			<semimajoraxis>0.096000</semimajoraxis>
 			<description>Kepler-256 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-256 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0038100" errorplus="0.0038100">2454964.5549300</transittime>
+			<transittime errorminus=".003810" errorplus="0.003810" unit="BJD">2454964.554930</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

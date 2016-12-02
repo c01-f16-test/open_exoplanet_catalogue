@@ -9,12 +9,14 @@
 		<name>Kepler-334</name>
 		<name>KOI-1909</name>
 		<name>KIC 10130039</name>
-		<mass errorminus="0.1500" errorplus="0.1500">1.0600</mass>
-		<radius errorminus=".194" errorplus="0.194">1.068</radius>
+		<mass errorminus="0.1500" errorplus="0.1500">1.00</mass>
+		<radius errorminus="0.19" errorplus="0.19">1.07</radius>
+		<magV>12.776</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.710</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.448</magH>
 		<magK errorminus="0.013" errorplus="0.013">11.409</magK>
-		<temperature errorminus="100" errorplus="100">5828</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5828.00</temperature>
+		<metallicity>-0.074</metallicity>
 		<planet>
 			<name>Kepler-334 c</name>
 			<name>KOI-1909 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10130039 c</name>
 			<name>KIC 10130039.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.13032</radius>
-			<period errorminus=".000055" errorplus="0.000055">12.758005</period>
+			<radius errorminus="0.023" errorplus="0.023">0.128</radius>
+			<period errorminus="0.00005500" errorplus="0.00005500">12.75800500</period>
+			<semimajoraxis>0.107000</semimajoraxis>
 			<description>Kepler-334 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-334 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025600" errorplus="0.0025600">2454966.9579000</transittime>
+			<transittime errorminus=".002560" errorplus="0.002560" unit="BJD">2454966.957900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10130039 b</name>
 			<name>KIC 10130039.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.01914">0.10207</radius>
-			<period errorminus=".000021" errorplus="0.000021">5.470319</period>
+			<radius errorminus="0.019" errorplus="0.019">0.100</radius>
+			<period errorminus="0.00002100" errorplus="0.00002100">5.47031900</period>
+			<semimajoraxis>0.061000</semimajoraxis>
 			<description>Kepler-334 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-334 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021100" errorplus="0.0021100">2454964.4946700</transittime>
+			<transittime errorminus=".002110" errorplus="0.002110" unit="BJD">2454964.494670</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10130039 d</name>
 			<name>KIC 10130039.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.12849</radius>
-			<period errorminus=".000142" errorplus="0.000142">25.098490</period>
+			<radius errorminus="0.023" errorplus="0.023">0.126</radius>
+			<period errorminus="0.00014200" errorplus="0.00014200">25.09849000</period>
+			<semimajoraxis>0.168000</semimajoraxis>
 			<description>Kepler-334 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-334 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0034500" errorplus="0.0034500">2454978.5694500</transittime>
+			<transittime errorminus=".003450" errorplus="0.003450" unit="BJD">2454978.569450</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

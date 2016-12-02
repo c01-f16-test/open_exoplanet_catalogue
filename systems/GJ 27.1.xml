@@ -1,7 +1,7 @@
 <system>
 	<name>GJ 27.1</name>
 	<rightascension>00 39 58.82591</rightascension>
-	<declination>-44 15 11.5985</declination>
+	<declination>-43 44 48</declination>
 	<distance errorminus="1.5" errorplus="1.7">24.0</distance>
 	<star>
 		<name>GJ 27.1</name>
@@ -20,21 +20,21 @@
 		<magJ errorminus="0.027" errorplus="0.027">8.225</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.609</magH>
 		<magK errorminus="0.029" errorplus="0.029">7.394</magK>
-		<temperature>3542</temperature>
-		<spectraltype>M0.5 V</spectraltype>
+		<temperature>3542.0</temperature>
+		<spectraltype>M0.5V</spectraltype>
 		<planet>
 			<name>GJ 27.1 b</name>
 			<name>Gliese 27.1 b</name>
 			<list>Controversial</list>
-			<mass errorminus="0.0208" errorplus="0.0129" type="msini">0.0409</mass>
-			<period errorminus="0.026" errorplus="0.023">15.819</period>
+			<mass errorminus="0.020759747" errorplus="0.012896206" type="msini">0.0409023691911</mass>
+			<period errorminus="0.026" errorplus="0.049">15.819</period>
 			<semimajoraxis errorminus="0.013" errorplus="0.009">0.101</semimajoraxis>
-			<eccentricity errorminus="0.08" errorplus="0.18">0.08</eccentricity>
-			<periastron>150</periastron>
+			<eccentricity errorminus="0.08" errorplus="0.16">0.08</eccentricity>
+			<periastron>154.69</periastron>
 			<meananomaly>330</meananomaly>
 			<description>The planet candidate orbiting GJ 27.1 was identified by Bayesian analysis of 62 UVES and 50 HARPS radial velocity measurements.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -2,42 +2,42 @@
 	<name>HATS-3</name>
 	<name>2MASS 20494978-2425436</name>
 	<name>GSC 6926-00454</name>
-	<rightascension>20 49 59</rightascension>
-	<declination>-24 25 44</declination>
-	<distance errorminus="78" errorplus="78">556</distance>
+	<rightascension>20 49 49</rightascension>
+	<declination>-24 25 43</declination>
+	<distance errorminus="11.00" errorplus="11.00">453.00</distance>
 	<star>
 		<name>HATS-3</name>
 		<name>2MASS 20494978-2425436</name>
 		<name>GSC 6926-00454</name>
-		<mass errorminus="0.088" errorplus="0.088">1.300</mass>
-		<radius errorminus="0.242" errorplus="0.242">1.725</radius>
-		<magV errorminus="0.2" errorplus="0.2">12.44</magV>
-		<magB errorminus="0.18" errorplus="0.18">12.46</magB>
-		<magJ errorminus="0.021" errorplus="0.021">10.980</magJ>
-		<magH errorminus="0.024" errorplus="0.024">10.719</magH>
-		<magK errorminus="0.021" errorplus="0.021">10.694</magK>
-		<temperature errorminus="76" errorplus="76">6351</temperature>
-		<age errorminus="0.4" errorplus="0.8">3.1</age>
-		<metallicity errorminus="0.07" errorplus="0.07">-0.157</metallicity>
+		<mass errorminus="0.04" errorplus="0.04">1.21</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.40</radius>
+		<magV errorminus="0.200" errorplus="0.200">12.440</magV>
+		<magB errorminus="0.180" errorplus="0.180">12.460</magB>
+		<magJ errorminus="0.017" errorplus="0.017">10.980</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.719</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.694</magK>
+		<temperature errorminus="76.00" errorplus="76.00">6351.00</temperature>
+		<age errorminus="0.400" errorplus="0.600">3.200</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.157</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
 			<name>HATS-3 b</name>
 			<name>2MASS 20494978-2425436 b</name>
 			<name>GSC 6926-00454 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.152" errorplus="0.152">1.138</mass>
-			<radius errorminus="0.238" errorplus="0.238">1.697</radius>
-			<period errorminus="0.000005" errorplus="0.000005">3.547849</period>
-			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0497</semimajoraxis>
-			<eccentricity errorminus="0.110" errorplus="0.110">0.253</eccentricity>
+			<mass errorminus="0.13600" errorplus="0.13600" type="Mass">1.07100</mass>
+			<radius errorminus="0.035" errorplus="0.035">1.381</radius>
+			<period errorminus="0.00000500" errorplus="0.00000500">3.54785100</period>
+			<semimajoraxis errorminus="0.000600" errorplus="0.000400">0.048500</semimajoraxis>
+			<eccentricity errorminus="0.110" errorplus="0.110">0.000000</eccentricity>
 			<periastron errorminus="25" errorplus="25">134</periastron>
-			<inclination errorminus="2.0" errorplus="1.3">84.3</inclination>
-			<temperature errorminus="127" errorplus="127">1816</temperature>
+			<inclination errorminus="0.300" errorplus="0.300">86.200</inclination>
+			<temperature errorminus="24" errorplus="24">1648</temperature>
 			<description>HATS-3 b is a transiting exoplanet, discovered by HATSouth and confirmed with reconnaissance spectroscopy. HATSouth is a network of automated telescopes that is capable of year-round 24-hour monitoring of stars over the entire southern hemisphere of the sky. Because of the brightness of the host star, HATS-3 b is an interesting target for future observations to measure the Rossiter-McLaughlin effect and determine the spin-orbit alignment of the system.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00039" errorplus="0.00039">2456092.10547</transittime>
+			<transittime errorminus=".000140" errorplus="0.000140" unit="BJD-UTC">2456155.967340</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/06/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

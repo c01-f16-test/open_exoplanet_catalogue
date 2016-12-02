@@ -1,38 +1,40 @@
 <system>
 	<name>HAT-P-34</name>
-	<rightascension>20 12 46.885</rightascension>
-	<declination>+18 06 17.42</declination>
-	<distance>257</distance>
+	<rightascension>20 12 46</rightascension>
+	<declination>+18 06 17</declination>
+	<distance errorminus="17.00" errorplus="22.00">257.00</distance>
 	<star>
 		<name>HAT-P-34</name>
-		<mass>1.392</mass>
-		<radius>1.535</radius>
-		<magV errorminus="0.05" errorplus="0.05">10.40</magV>
+		<mass errorminus="0.01" errorplus="0.05">1.39</mass>
+		<radius errorminus="0.11" errorplus="0.14">1.53</radius>
+		<magV errorminus="0.05" errorplus="0.05">10.16</magV>
 		<magB errorminus="0.05" errorplus="0.05">10.81</magB>
 		<magR errorminus="0.029" errorplus="0.029">10.181</magR>
 		<magJ errorminus="0.022" errorplus="0.022">9.460</magJ>
-		<magH errorminus="0.03" errorplus="0.03">9.32</magH>
+		<magH errorminus="0.030" errorplus="0.030">9.322</magH>
 		<magK errorminus="0.023" errorplus="0.023">9.247</magK>
-		<temperature>6442.0</temperature>
-		<metallicity>0.22</metallicity>
+		<temperature errorminus="51.0" errorplus="88.00">6442.00</temperature>
+		<age errorminus="0.5" errorplus="0.5">1.7</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.08</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HAT-P-34 b</name>
 			<name>2MASS 20124688+1806175</name>
 			<list>Confirmed planets</list>
-			<mass>3.328</mass>
-			<radius>1.197</radius>
-			<period>5.4527</period>
-			<semimajoraxis>0.0677</semimajoraxis>
-			<eccentricity>0.441</eccentricity>
-			<inclination>87.1</inclination>
-			<temperature>1335.3</temperature>
+			<mass errorminus="0.21100" errorplus="0.21100" type="Mass">3.32800</mass>
+			<radius errorminus="0.092" errorplus="0.128">1.197</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">5.45265400</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.067700</semimajoraxis>
+			<eccentricity errorminus="0.032000" errorplus="0.032000">0.441000</eccentricity>
+			<periastron errorminus="14.0000" errorplus="14.0000">20.0000</periastron>
+			<inclination errorminus="1.200" errorplus="1.200">87.100</inclination>
+			<temperature errorminus="60" errorplus="60">1520</temperature>
 			<description>HAT-P-34 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00055" errorplus="0.00055" unit="BJD">2455431.59629</transittime>
+			<transittime errorminus=".000550" errorplus="0.000550" unit="BJD-UTC">2455431.596290</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

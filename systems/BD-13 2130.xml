@@ -1,0 +1,38 @@
+<system>
+	<name>BD-13 2130</name>
+	<name>NGC 2423 3</name>
+	<rightascension>07 37 09</rightascension>
+	<declination>-13 54 23</declination>
+	<distance>766.00</distance>
+	<star>
+		<name>NGC 2423 3</name>
+		<name>BD-13 2130</name>
+		<mass errorminus="0.20" errorplus="0.20">2.40</mass>
+		<magV>9.450</magV>
+		<magB errorminus="0.013" errorplus="0.013">10.981</magB>
+		<magJ errorminus="0.025" errorplus="0.025">7.940</magJ>
+		<magH errorminus="0.051" errorplus="0.051">7.371</magH>
+		<magK errorminus="0.022" errorplus="0.022">7.151</magK>
+		<temperature>5700.0</temperature>
+		<age errorminus="0.200" errorplus="0.200">0.740</age>
+		<metallicity errorminus="0.09" errorplus="0.09">0.14</metallicity>
+		<spectraltype>G5 IV/V</spectraltype>
+		<planet>
+			<name>NGC 2423 3 b</name>
+			<name>BD-13 2130 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in open clusters</list>
+			<mass type="Msini">10.60000</mass>
+			<period errorminus="5.30000000" errorplus="5.30000000">714.30000000</period>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.210000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">18.0000</periastron>
+			<periastrontime errorminus="21.000000" errorplus="21.000000">2453213.000000</periastrontime>
+			<maximumrvtime errorminus="21.000000" errorplus="21.000000">2453213.000000</maximumrvtime>
+			<temperature>417.4</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

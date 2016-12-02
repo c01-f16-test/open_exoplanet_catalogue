@@ -5,25 +5,28 @@
 	<distance>109</distance>
 	<star>
 		<name>HD 17092</name>
-		<mass>2.3</mass>
+		<mass errorminus="0.30" errorplus="0.30">2.30</mass>
 		<magV>7.73</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.00</magB>
+		<magB errorminus="0.019" errorplus="0.019">8.999</magB>
 		<magJ errorminus="0.020" errorplus="0.020">5.530</magJ>
 		<magH errorminus="0.018" errorplus="0.018">5.007</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.807</magK>
-		<temperature>4650.0</temperature>
-		<metallicity>0.18</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<temperature errorminus="35.00" errorplus="35.00">4650.00</temperature>
+		<metallicity errorminus="0.080" errorplus="0.080">0.220</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 17092 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.6</mass>
-			<period>359.9</period>
-			<semimajoraxis>1.29</semimajoraxis>
-			<eccentricity>0.166</eccentricity>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Msini">4.60000</mass>
+			<period errorminus="2.40000000" errorplus="2.40000000">359.90000000</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">1.29</semimajoraxis>
+			<eccentricity errorminus="0.052000" errorplus="0.052000">0.166000</eccentricity>
+			<periastron errorminus="13.4000" errorplus="13.4000">347.4000</periastron>
+			<periastrontime errorminus="12.300000" errorplus="12.300000">2452969.500000</periastrontime>
+			<maximumrvtime errorminus="12.300000" errorplus="12.300000">2452969.500000</maximumrvtime>
 			<temperature>513.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/05/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

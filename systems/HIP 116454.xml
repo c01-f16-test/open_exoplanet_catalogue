@@ -1,9 +1,9 @@
 <system>
 	<name>HIP 116454</name>
 	<name>K2-2</name>
-	<rightascension>23 35 49.281</rightascension>
-	<declination>+00 26 43.86</declination>
-	<distance errorminus="5.4" errorplus="5.4">55.2</distance>
+	<rightascension>23 35 49</rightascension>
+	<declination>+00 26 43</declination>
+	<distance errorminus="5.40" errorplus="5.40">55.20</distance>
 	<star>
 		<name>HIP 116454</name>
 		<name>K2-2</name>
@@ -13,18 +13,19 @@
 		<name>TYC 585-774-1</name>
 		<name>UCAC2 31966721</name>
 		<name>USNO-B1.0 0904-00582461</name>
-		<mass errorminus="0.027" errorplus="0.027">0.775</mass>
-		<radius errorminus="0.024" errorplus="0.024">0.716</radius>
-		<magV>10.19</magV>
-		<magB>11.10</magB>
+		<mass errorminus="0.03" errorplus="0.03">0.78</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.72</radius>
+		<magV errorminus="0.009" errorplus="0.009">10.190</magV>
+		<magB errorminus="0.010" errorplus="0.010">11.080</magB>
 		<magR>9.6</magR>
 		<magI>9.1</magI>
 		<magJ errorminus="0.021" errorplus="0.021">8.604</magJ>
 		<magH errorminus="0.033" errorplus="0.033">8.140</magH>
 		<magK errorminus="0.021" errorplus="0.021">8.029</magK>
-		<temperature errorminus="50" errorplus="50">5089</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">-0.16</metallicity>
-		<spectraltype>K0</spectraltype>
+		<temperature errorminus="50.00" errorplus="50.00">5089.00</temperature>
+		<age>2.000</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.160</metallicity>
+		<spectraltype>K1</spectraltype>
 		<planet>
 			<name>HIP 116454 b</name>
 			<name>K2-2 b</name>
@@ -35,18 +36,19 @@
 			<name>UCAC2 31966721 b</name>
 			<name>USNO-B1.0 0904-00582461 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.004184" errorplus="0.004184">0.037182</mass>
-			<radius errorminus="0.016403" errorplus="0.016403">0.230560</radius>
-			<period errorminus="0.0005" errorplus="0.0005">9.1205</period>
-			<eccentricity errorminus="0.072" errorplus="0.072">0.205</eccentricity>
-			<periastron errorminus="16.7" errorplus="16.7">-59.1</periastron>
-			<inclination errorminus="0.4" errorplus="0.4">88.43</inclination>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Mass">0.03700</mass>
+			<radius errorminus="0.016" errorplus="0.016">0.226</radius>
+			<period errorminus="0.00050000" errorplus="0.00050000">9.12050000</period>
+			<semimajoraxis errorminus="0.004900" errorplus="0.004900">0.090600</semimajoraxis>
+			<eccentricity errorminus="0.072000" errorplus="0.072000">0.205000</eccentricity>
+			<periastron errorminus="16.7000" errorplus="16.7000">-59.1000</periastron>
+			<inclination errorminus="0.400" errorplus="0.400">88.430</inclination>
 			<temperature errorminus="14" errorplus="14">690</temperature>
 			<description>HIP 116454 b is the first planet discovered by the Kepler spacecraft during its extended K2 mission. The planet is about two and a half times the size of Earth and only 55.2 parsec away. This makes it a top target for follow-up observations.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.03" errorplus="0.03" unit="BJD">2456907.89</transittime>
+			<transittime errorminus=".030000" errorplus="0.030000" unit="BJD">2456907.890000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/12/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

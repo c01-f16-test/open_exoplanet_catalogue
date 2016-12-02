@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE-2012-BLG-0724L</name>
+	<declination>-29 49 07</declination>
+	<star>
+		<name>OGLE-2012-BLG-0724L</name>
+		<mass errorminus="0.16" errorplus="0.33">0.29</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>OGLE-2012-BLG-0724L b</name>
+			<mass errorminus="0.26" errorplus="0.54" type="Microlensing">0.47</mass>
+			<semimajoraxis errorminus="0.3" errorplus="0.4">1.6</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

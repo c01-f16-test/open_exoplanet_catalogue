@@ -2,22 +2,29 @@
 	<name>Kepler-809</name>
 	<rightascension>19 16 20</rightascension>
 	<declination>+48 01 05</declination>
+	<distance errorminus="77.07" errorplus="171.15">933.00</distance>
 	<star>
 		<name>Kepler-809</name>
 		<mass errorminus="0.05" errorplus="0.04">0.99</mass>
 		<radius errorminus="0.08" errorplus="0.18">0.98</radius>
-		<temperature errorminus="78.2" errorplus="78.3">5734.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<magV>14.755</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.557</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.237</magH>
+		<magK errorminus="0.032" errorplus="0.032">13.195</magK>
+		<temperature errorminus="78.23" errorplus="78.27">5734.00</temperature>
+		<age errorminus="2.600" errorplus="3.540">4.370</age>
+		<metallicity errorminus="0.152" errorplus="0.135">0.040</metallicity>
 		<planet>
 			<name>Kepler-809 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.060">0.269</radius>
-			<period errorminus="0.000182500" errorplus="0.000182500">55.639340000</period>
+			<period errorminus="0.00018250" errorplus="0.00018250">55.63934000</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002510" errorplus="0.002510" unit="JD">2455020.550600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

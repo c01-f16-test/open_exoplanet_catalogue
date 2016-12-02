@@ -1,0 +1,20 @@
+<system>
+	<name>LKCA 15</name>
+	<declination>+22 21 02</declination>
+	<star>
+		<name>LKCA 15</name>
+		<mass errorminus="0.03" errorplus="0.03">0.97</mass>
+		<magV>11.91</magV>
+		<age>0.002</age>
+		<spectraltype>K5V</spectraltype>
+		<planet>
+			<name>LKCA 15 b</name>
+			<mass errorminus="1.0" errorplus="1.0">6.0</mass>
+			<period errorminus="0.0" errorplus="0.0">40000.0</period>
+			<semimajoraxis errorminus="2.1" errorplus="2.1">15.7</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

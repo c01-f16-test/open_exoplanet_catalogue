@@ -2,22 +2,29 @@
 	<name>Kepler-710</name>
 	<rightascension>19 27 51</rightascension>
 	<declination>+42 41 46</declination>
+	<distance errorminus="78.32" errorplus="122.11">919.00</distance>
 	<star>
 		<name>Kepler-710</name>
 		<mass errorminus="0.06" errorplus="0.06">0.94</mass>
 		<radius errorminus="0.07" errorplus="0.12">0.91</radius>
-		<temperature errorminus="127.0" errorplus="156.9">5611.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.14">-0.04</metallicity>
+		<magV>15.024</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.806</magJ>
+		<magH errorminus="0.033" errorplus="0.033">13.397</magH>
+		<magK errorminus="0.044" errorplus="0.044">13.378</magK>
+		<temperature errorminus="127.02" errorplus="156.89">5611.00</temperature>
+		<age errorminus="2.490" errorplus="4.620">4.170</age>
+		<metallicity errorminus="0.192" errorplus="0.144">-0.040</metallicity>
 		<planet>
 			<name>Kepler-710 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.021">0.168</radius>
-			<period errorminus="0.000008340" errorplus="0.000008340">4.347285530</period>
+			<period errorminus="0.00000834" errorplus="0.00000834">4.34728553</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001610" errorplus="0.001610" unit="JD">2455005.234040</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,30 +2,34 @@
 	<name>HD 4313</name>
 	<rightascension>00 45 40</rightascension>
 	<declination>+07 50 42</declination>
-	<distance>137</distance>
+	<distance errorminus="18.52" errorplus="14.45">131.41</distance>
 	<star>
 		<name>HD 4313</name>
-		<mass>1.72</mass>
-		<radius>4.9</radius>
-		<magV>7.83</magV>
+		<mass errorminus="0.12" errorplus="0.12">1.72</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.90</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.822</magV>
 		<magB errorminus="0.020" errorplus="0.020">8.788</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.159</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.774</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.595</magK>
-		<temperature>5035.0</temperature>
-		<metallicity>0.14</metallicity>
-		<spectraltype>G5 D</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5035.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.140</metallicity>
+		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 4313 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>356</period>
-			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.041</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000" type="Msini">2.30000</mass>
+			<period errorminus="2.60000000" errorplus="2.60000000">356.00000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.190000</semimajoraxis>
+			<eccentricity errorminus="0.037000" errorplus="0.037000">0.041000</eccentricity>
+			<periastron errorminus="80.0000" errorplus="80.0000">76.0000</periastron>
+			<periastrontime errorminus="80.000000" errorplus="80.000000">2454804.000000</periastrontime>
+			<maximumrvtime errorminus="80.000000" errorplus="80.000000">2454804.000000</maximumrvtime>
 			<temperature>450.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

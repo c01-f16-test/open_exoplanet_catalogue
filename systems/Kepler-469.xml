@@ -6,18 +6,21 @@
 		<name>Kepler-469</name>
 		<mass errorminus="0.08" errorplus="0.14">1.14</mass>
 		<radius errorminus="0.28" errorplus="0.31">1.53</radius>
-		<temperature errorminus="83.8" errorplus="95.5">5892.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.10">0.14</metallicity>
+		<magJ>11.977</magJ>
+		<magH>11.656</magH>
+		<magK>11.635</magK>
+		<temperature errorminus="83.85" errorplus="95.5">5892.0</temperature>
+		<metallicity errorminus="0.087" errorplus="0.095">0.14</metallicity>
 		<planet>
 			<name>Kepler-469 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.293" errorplus="0.328">1.597</radius>
-			<period errorminus="0.000058350" errorplus="0.000058350">33.803676280</period>
+			<period errorminus="5.835e-05" errorplus="5.835e-05">33.80367628</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

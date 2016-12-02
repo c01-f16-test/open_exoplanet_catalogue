@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-643</name>
-	<rightascension>19 21 19</rightascension>
-	<declination>+42 53 54</declination>
+	<rightascension>19 21 18</rightascension>
+	<declination>+42 53 53</declination>
+	<distance errorminus="26.94" errorplus="35.87">1029.00</distance>
 	<star>
 		<name>Kepler-643</name>
 		<mass errorminus="0.04" errorplus="0.07">1.00</mass>
 		<radius errorminus="0.07" errorplus="0.08">2.52</radius>
-		<temperature errorminus="47.8" errorplus="45.3">4908.0</temperature>
-		<metallicity errorminus="0.11" errorplus="0.08">0.13</metallicity>
+		<magV>13.781</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.212</magJ>
+		<magH errorminus="0.018" errorplus="0.018">11.672</magH>
+		<magK errorminus="0.011" errorplus="0.011">11.583</magK>
+		<temperature errorminus="47.77" errorplus="45.26">4908.00</temperature>
+		<age errorminus="2.300" errorplus="1.800">12.020</age>
+		<metallicity errorminus="0.111" errorplus="0.078">0.130</metallicity>
 		<planet>
 			<name>Kepler-643 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.031">0.906</radius>
-			<period errorminus="0.000018260" errorplus="0.000018260">16.338896260</period>
+			<period errorminus="0.00001826" errorplus="0.00001826">16.33889626</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000877" errorplus="0.000877" unit="JD">2455010.916757</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

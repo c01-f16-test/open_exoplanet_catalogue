@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE-2011-BLG-0251L</name>
+	<declination>-27 08 10</declination>
+	<star>
+		<name>OGLE-2011-BLG-0251L</name>
+		<mass errorminus="0.07" errorplus="0.07">0.47</mass>
+		<planet>
+			<name>OGLE-2011-BLG-0251L b</name>
+			<mass errorminus="0.14" errorplus="0.14">0.96</mass>
+			<semimajoraxis errorminus="0.64" errorplus="0.64">3.86</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

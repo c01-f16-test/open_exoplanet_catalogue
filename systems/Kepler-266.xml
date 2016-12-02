@@ -9,12 +9,14 @@
 		<name>Kepler-266</name>
 		<name>KOI-1070</name>
 		<name>KIC 8240904</name>
-		<mass errorminus="0.3000" errorplus="0.3000">1.0600</mass>
-		<radius errorminus=".498" errorplus="0.498">1.028</radius>
+		<mass errorminus="0.3000" errorplus="0.3000">0.99</mass>
+		<radius errorminus="0.50" errorplus="0.50">1.03</radius>
+		<magV>15.590</magV>
 		<magJ errorminus="0.027" errorplus="0.027">14.300</magJ>
 		<magH errorminus="0.028" errorplus="0.028">13.907</magH>
 		<magK errorminus="0.050" errorplus="0.050">13.811</magK>
-		<temperature errorminus="50" errorplus="250">5885</temperature>
+		<temperature errorminus="250.00" errorplus="250.00">5885.00</temperature>
+		<metallicity>0.106</metallicity>
 		<planet>
 			<name>Kepler-266 b</name>
 			<name>KOI-1070 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8240904 b</name>
 			<name>KIC 8240904.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01823" errorplus="0.10936">0.22600</radius>
-			<period errorminus=".000048" errorplus="0.000048">6.618330</period>
+			<radius errorminus="0.107" errorplus="0.107">0.221</radius>
+			<period errorminus="0.00004800" errorplus="0.00004800">6.61833000</period>
+			<semimajoraxis>0.071000</semimajoraxis>
 			<description>Kepler-266 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-266 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0032300" errorplus="0.0032300">2455193.3696000</transittime>
+			<transittime errorminus=".003230" errorplus="0.003230" unit="BJD">2455193.369600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8240904 c</name>
 			<name>KIC 8240904.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08111" errorplus="0.17224">0.35450</radius>
-			<period errorminus=".001643" errorplus="0.001643">107.723601</period>
+			<radius errorminus="0.169" errorplus="0.169">0.347</radius>
+			<period errorminus="0.00164300" errorplus="0.00164300">107.72360100</period>
+			<semimajoraxis>0.457000</semimajoraxis>
 			<description>Kepler-266 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-266 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0074400" errorplus="0.0074400">2455187.1834700</transittime>
+			<transittime errorminus=".007440" errorplus="0.007440" unit="BJD">2455187.183470</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

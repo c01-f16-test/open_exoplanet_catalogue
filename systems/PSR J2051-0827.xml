@@ -1,0 +1,21 @@
+<system>
+	<name>PSR J2051-0827</name>
+	<declination>-08 27 38</declination>
+	<star>
+		<name>PSR J2051-0827</name>
+		<mass>1.4</mass>
+		<age>5.61</age>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR J2051-0827 b</name>
+			<mass>28.3</mass>
+			<period errorminus="4e-09" errorplus="4e-09">0.099110266</period>
+			<eccentricity>0.0</eccentricity>
+			<periastrontime errorminus="4e-06" errorplus="4e-06">2449642.17303</periastrontime>
+			<maximumrvtime errorminus="4e-06" errorplus="4e-06">2449642.17303</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+	</star>
+</system>

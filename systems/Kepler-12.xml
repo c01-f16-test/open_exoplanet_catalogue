@@ -2,21 +2,22 @@
 	<name>Kepler-12</name>
 	<rightascension>19 04 58</rightascension>
 	<declination>+50 02 25</declination>
-	<distance>600</distance>
+	<distance>600.00</distance>
 	<star>
 		<name>Kepler-12</name>
 		<name>KOI-20</name>
 		<name>KIC 11804465</name>
-		<mass errorminus="0.09" errorplus="0.13">1.09</mass>
-		<radius errorminus="0.24" errorplus="0.30">1.42</radius>
-		<magV>13.4</magV>
+		<mass errorminus="0.05" errorplus="0.05">1.17</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.48</radius>
+		<magV>13.800</magV>
 		<magB errorminus="0.42" errorplus="0.42">13.96</magB>
 		<magR errorminus="0.10" errorplus="0.10">13.68</magR>
 		<magJ errorminus="0.026" errorplus="0.026">12.406</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.11</magH>
+		<magH errorminus="0.031" errorplus="0.031">12.107</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.066</magK>
-		<temperature errorminus="123" errorplus="105">5953</temperature>
-		<metallicity errorminus="0.14" errorplus="0.13">0.08</metallicity>
+		<temperature errorminus="100.00" errorplus="100.00">5947.00</temperature>
+		<age errorminus="0.4" errorplus="0.4">4.0</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.070</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>Kepler-12 b</name>
@@ -26,17 +27,18 @@
 			<name>2MASS J19045842+5002253 b</name>
 			<name>KIC 11804465 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05">0.43</mass>
-			<radius errorminus="0.04" errorplus="0.03">1.75</radius>
-			<period>4.4379637</period>
-			<semimajoraxis>0.0556</semimajoraxis>
+			<mass errorminus="0.05100" errorplus="0.05300" type="Mass">0.43200</mass>
+			<radius errorminus="0.036" errorplus="0.031">1.754</radius>
+			<period errorminus="0.00000060" errorplus="0.00000060">4.43796290</period>
+			<semimajoraxis errorminus="0.001200" errorplus="0.001000">0.055300</semimajoraxis>
 			<eccentricity>0.01</eccentricity>
-			<inclination>88.76</inclination>
-			<temperature>1354.2</temperature>
+			<periastron errorminus="98.0" errorplus="98.0">182.0</periastron>
+			<inclination errorminus="0.074" errorplus="0.088">88.796</inclination>
+			<temperature errorminus="30" errorplus="30">1480</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
+			<transittime errorminus=".000010" errorplus="0.000010" unit="BJD">2455004.009150</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

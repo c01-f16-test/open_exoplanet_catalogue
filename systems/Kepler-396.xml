@@ -1,0 +1,59 @@
+<system>
+	<name>Kepler-396</name>
+	<name>KOI-2672</name>
+	<rightascension>19 44 31</rightascension>
+	<declination>+48 58 38</declination>
+	<distance>263.40</distance>
+	<star>
+		<name>KOI-2672</name>
+		<name>Kepler-396</name>
+		<name>KIC 11253827</name>
+		<mass errorminus="0.06" errorplus="0.13">0.85</mass>
+		<radius errorminus="0.20" errorplus="0.39">1.06</radius>
+		<magV errorminus="0.17" errorplus="0.17">11.921</magV>
+		<magB errorminus="0.17" errorplus="0.17">12.44</magB>
+		<magJ errorminus="0.021" errorplus="0.021">10.672</magJ>
+		<magH errorminus="0.018" errorplus="0.018">10.356</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.285</magK>
+		<temperature>5384.00</temperature>
+		<metallicity>-0.129</metallicity>
+		<planet>
+			<name>KOI-2672.01</name>
+			<name>KOI-2672 c</name>
+			<name>Kepler-396 c</name>
+			<name>KIC 11253827 c</name>
+			<name>KIC 11253827.01</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00400" errorplus="0.00900" type="Mass">0.05600</mass>
+			<radius errorminus="0.088" errorplus="0.174">0.473</radius>
+			<period>88.50500000</period>
+			<semimajoraxis>0.22662</semimajoraxis>
+			<temperature>413</temperature>
+			<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime>2454995.51176</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-2672.02</name>
+			<name>KOI-2672 b</name>
+			<name>Kepler-396 b</name>
+			<name>KIC 11253827 b</name>
+			<name>KIC 11253827.02</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.01800" errorplus="0.03700" type="Mass">0.23800</mass>
+			<radius errorminus="0.058" errorplus="0.114">0.312</radius>
+			<period>42.99400000</period>
+			<semimajoraxis>0.36709</semimajoraxis>
+			<temperature>525</temperature>
+			<description>The system KOI-2672 was discovered using transit data from the Kepler telescope. The planetary nature of the system was confirmed using transit timing variations.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime>2455015.65259</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

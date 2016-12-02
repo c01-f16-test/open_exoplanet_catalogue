@@ -1,43 +1,50 @@
 <system>
 	<name>HD 155358</name>
-	<rightascension>17 09 35</rightascension>
+	<rightascension>17 09 34</rightascension>
 	<declination>+33 21 21</declination>
-	<distance>43</distance>
+	<distance errorminus="1.34" errorplus="1.26">43.40</distance>
 	<star>
 		<name>HD 155358</name>
 		<mass>0.92</mass>
-		<magV>7.27</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.79</magB>
+		<magV errorminus="0.010" errorplus="0.010">7.270</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.794</magB>
 		<magR>7.0</magR>
 		<magI>6.7</magI>
 		<magJ errorminus="0.024" errorplus="0.024">6.158</magJ>
-		<magH errorminus="0.023" errorplus="0.023">5.886</magH>
+		<magH errorminus="0.022" errorplus="0.022">5.886</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.808</magK>
-		<temperature>5900.0</temperature>
-		<metallicity>-0.51</metallicity>
+		<temperature errorminus="100.0" errorplus="100.0">5900.0</temperature>
+		<age>10.7</age>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.51</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 155358 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<period>194.3</period>
-			<semimajoraxis>0.64</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">0.85000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">194.30000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.640000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.170000</eccentricity>
+			<periastron errorminus="11.0000" errorplus="11.0000">143.0000</periastron>
+			<periastrontime errorminus="6.000000" errorplus="6.000000">2451224.800000</periastrontime>
+			<maximumrvtime errorminus="6.000000" errorplus="6.000000">2451224.800000</maximumrvtime>
 			<temperature>377.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 155358 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.82</mass>
-			<period>391.9</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">0.82000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">391.90000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">1.020000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.160000</eccentricity>
+			<periastron errorminus="26.0000" errorplus="26.0000">180.0000</periastron>
+			<periastrontime errorminus="28.000000" errorplus="28.000000">2455345.400000</periastrontime>
+			<maximumrvtime errorminus="28.000000" errorplus="28.000000">2455345.400000</maximumrvtime>
 			<temperature>299.1</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

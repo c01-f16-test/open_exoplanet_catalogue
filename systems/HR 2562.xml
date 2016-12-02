@@ -1,0 +1,28 @@
+<system>
+	<name>HR 2562</name>
+	<rightascension>06 50 01</rightascension>
+	<declination>-60 14 56</declination>
+	<distance errorminus="0.48" errorplus="0.48">33.63</distance>
+	<star>
+		<name>HR 2562</name>
+		<mass>1.30</mass>
+		<magV>6.110</magV>
+		<magB>6.570</magB>
+		<magJ errorminus="0.020" errorplus="0.020">5.305</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.128</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.020</magK>
+		<age errorminus="0.300" errorplus="0.300">0.600</age>
+		<metallicity errorminus="0.070" errorplus="0.060">0.020</metallicity>
+		<spectraltype>F5 V</spectraltype>
+		<planet>
+			<name>HR 2562 b</name>
+			<mass errorminus="15.00000" errorplus="15.00000" type="Mass">30.00000</mass>
+			<radius errorminus="0.110" errorplus="0.110">1.110</radius>
+			<semimajoraxis errorminus="0.300000" errorplus="0.300000">20.300000</semimajoraxis>
+			<temperature errorminus="100" errorplus="100">1200</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,40 +1,40 @@
 <system>
 	<name>WASP-84</name>
 	<name>2MASS 08442570+0151361</name>
-	<rightascension>08 44 26</rightascension>
+	<rightascension>08 44 25</rightascension>
 	<declination>+01 51 36</declination>
-	<distance errorminus="20" errorplus="20">125</distance>
+	<distance errorminus="20.00" errorplus="20.00">125.00</distance>
 	<star>
 		<name>WASP-84</name>
 		<name>2MASS 08442570+0151361</name>
-		<mass errorminus="0.057" errorplus="0.057">0.854</mass>
-		<radius errorminus="0.018" errorplus="0.018">0.768</radius>
-		<magV errorminus="0.10" errorplus="0.10">11.64</magV>
-		<magB errorminus="0.08" errorplus="0.08">10.83</magB>
-		<magJ errorminus="0.03" errorplus="0.03">9.35</magJ>
-		<magH errorminus="0.02" errorplus="0.02">8.96</magH>
-		<magK errorminus="0.02" errorplus="0.02">8.86</magK>
-		<temperature errorminus="80" errorplus="80">5280</temperature>
-		<age>1</age>
-		<metallicity errorminus="0.12" errorplus="0.12">0.09</metallicity>
+		<mass errorminus="0.04" errorplus="0.04">0.84</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.75</radius>
+		<magV errorminus="0.080" errorplus="0.080">10.830</magV>
+		<magB errorminus="0.100" errorplus="0.100">11.640</magB>
+		<magJ errorminus="0.023" errorplus="0.023">9.346</magJ>
+		<magH errorminus="0.022" errorplus="0.022">8.956</magH>
+		<magK errorminus="0.021" errorplus="0.021">8.855</magK>
+		<temperature errorminus="88.00" errorplus="88.00">5314.00</temperature>
+		<age>1.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.000</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>WASP-84 b</name>
 			<name>2MASS 08442570+0151361 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.037" errorplus="0.037">0.700</mass>
-			<radius errorminus="0.025" errorplus="0.025">0.975</radius>
-			<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
-			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0775</semimajoraxis>
-			<eccentricity errorminus="0.011" errorplus="0.011">0.018</eccentricity>
-			<inclination errorminus="0.037" errorplus="0.037">88.275</inclination>
-			<temperature errorminus="13" errorplus="13">832</temperature>
+			<mass errorminus="0.02800" errorplus="0.02800" type="Mass">0.69400</mass>
+			<radius errorminus="0.022" errorplus="0.022">0.942</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">8.52348650</period>
+			<semimajoraxis errorminus="0.001200" errorplus="0.001200">0.077100</semimajoraxis>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.000000</eccentricity>
+			<inclination errorminus="0.050" errorplus="0.050">88.368</inclination>
+			<temperature errorminus="16" errorplus="16">797</temperature>
 			<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
+			<transittime errorminus=".000090" errorplus="0.000090" unit="BJD-UTC">2454286.105830</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/09/22</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,22 +2,29 @@
 	<name>Kepler-1153</name>
 	<rightascension>19 16 35</rightascension>
 	<declination>+45 51 58</declination>
+	<distance errorminus="77.17" errorplus="131.56">1185.00</distance>
 	<star>
 		<name>Kepler-1153</name>
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
 		<radius errorminus="0.05" errorplus="0.10">0.88</radius>
-		<temperature errorminus="93.5" errorplus="75.2">5470.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.03</metallicity>
+		<magV>15.758</magV>
+		<magJ errorminus="0.037" errorplus="0.037">14.460</magJ>
+		<magH errorminus="0.038" errorplus="0.038">14.071</magH>
+		<magK errorminus="0.054" errorplus="0.054">14.029</magK>
+		<temperature errorminus="93.55" errorplus="75.20">5470.00</temperature>
+		<age errorminus="2.880" errorplus="6.170">4.570</age>
+		<metallicity errorminus="0.164" errorplus="0.126">0.030</metallicity>
 		<planet>
 			<name>Kepler-1153 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.010" errorplus="0.019">0.154</radius>
-			<period errorminus="0.000004390" errorplus="0.000004390">1.755835330</period>
+			<period errorminus="0.00000439" errorplus="0.00000439">1.75583533</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001950" errorplus="0.001950" unit="JD">2454966.157270</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

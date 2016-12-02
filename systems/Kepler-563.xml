@@ -2,22 +2,29 @@
 	<name>Kepler-563</name>
 	<rightascension>19 29 47</rightascension>
 	<declination>+46 17 23</declination>
+	<distance errorminus="36.83" errorplus="30.85">557.00</distance>
 	<star>
 		<name>Kepler-563</name>
 		<mass errorminus="0.05" errorplus="0.04">0.80</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.77</radius>
-		<temperature errorminus="62.0" errorplus="80.0">5066.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.08</metallicity>
+		<magV>14.767</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.358</magJ>
+		<magH errorminus="0.017" errorplus="0.017">12.831</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.773</magK>
+		<temperature errorminus="61.96" errorplus="80.00">5066.00</temperature>
+		<age errorminus="3.300" errorplus="5.930">5.370</age>
+		<metallicity errorminus="0.184" errorplus="0.146">-0.080</metallicity>
 		<planet>
 			<name>Kepler-563 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.015">0.276</radius>
-			<period errorminus="0.000025000" errorplus="0.000025000">22.184327080</period>
+			<period errorminus="0.00002500" errorplus="0.00002500">22.18432708</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000892" errorplus="0.000892" unit="JD">2455007.597478</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

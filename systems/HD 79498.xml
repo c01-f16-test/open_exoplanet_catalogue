@@ -2,32 +2,36 @@
 	<name>HD 79498</name>
 	<rightascension>09 15 09</rightascension>
 	<declination>+23 22 32</declination>
-	<distance>49</distance>
+	<distance errorminus="2.43" errorplus="2.21">48.64</distance>
 	<star>
 		<name>HD 79498</name>
 		<mass>1.06</mass>
-		<magV>8.03</magV>
-		<magB errorminus="0.018" errorplus="0.018">8.726</magB>
+		<magV errorminus="0.012" errorplus="0.012">8.020</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.727</magB>
 		<magR>7.6</magR>
 		<magI>7.2</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.851</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.574</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.530</magK>
-		<temperature>5740.0</temperature>
-		<metallicity>0.24</metallicity>
+		<temperature errorminus="100.0" errorplus="100.0">5740.0</temperature>
+		<age>2.7</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.24</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 79498 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.34</mass>
-			<period>1966</period>
-			<semimajoraxis>3.13</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">1.34000</mass>
+			<period errorminus="41.00000000" errorplus="41.00000000">1966.10000000</period>
+			<semimajoraxis errorminus="0.080000" errorplus="0.080000">3.130000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.590000</eccentricity>
+			<periastron errorminus="6.0000" errorplus="6.0000">221.0000</periastron>
+			<periastrontime errorminus="39.000000" errorplus="39.000000">2453210.900000</periastrontime>
+			<maximumrvtime errorminus="39.000000" errorplus="39.000000">2453210.900000</maximumrvtime>
 			<temperature>149.6</temperature>
 			<description>The planet HD 79498 b was found with 65 radial velocity observations over 7 years with the 2.7m Harlan J. Smith telescope.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

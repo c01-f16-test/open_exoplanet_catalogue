@@ -1,37 +1,40 @@
 <system>
 	<name>HATS-6</name>
-	<rightascension>05 52 35.231</rightascension>
-	<declination>-19 01 53.96</declination>
-	<distance errorminus="5.5" errorplus="5.5">172.6</distance>
+	<rightascension>05 52 35</rightascension>
+	<declination>-19 01 54</declination>
+	<distance errorminus="3.30" errorplus="3.30">148.40</distance>
 	<star>
 		<name>HATS-6</name>
+		<name>MASS 05523523-1901539</name>
 		<name>2MASS 05523523-1901539</name>
-		<mass errorminus="0.027" errorplus="0.020">0.574</mass>
-		<radius errorminus="0.011" errorplus="0.011">0.570</radius>
+		<mass errorminus="0.03" errorplus="0.02">0.57</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.57</radius>
 		<magV errorminus="0.024" errorplus="0.024">15.160</magV>
 		<magB errorminus="0.043" errorplus="0.043">16.664</magB>
-		<magJ errorminus="0.024" errorplus="0.024">12.046</magJ>
-		<magH errorminus="0.023" errorplus="0.023">11.397</magH>
-		<magK errorminus="0.023" errorplus="0.023">11.224</magK>
-		<temperature errorminus="18" errorplus="18">3724</temperature>
-		<age errorminus="4.3" errorplus="4.3">8.1</age>
-		<metallicity errorminus="0.091" errorplus="0.091">0.2</metallicity>
+		<magJ errorminus="0.021" errorplus="0.021">12.046</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.397</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.224</magK>
+		<temperature errorminus="18.00" errorplus="18.00">3724.00</temperature>
+		<age errorminus="4.300" errorplus="4.300">8.100</age>
+		<metallicity errorminus="0.091" errorplus="0.091">0.200</metallicity>
+		<spectraltype>M1 V</spectraltype>
 		<planet>
 			<name>HATS-6 b</name>
 			<name>2MASS 05523523-1901539 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.070" errorplus="0.070">0.319</mass>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Mass">0.31900</mass>
 			<radius errorminus="0.019" errorplus="0.019">0.998</radius>
-			<period errorminus="0.0000021" errorplus="0.0000021">3.3252725</period>
-			<semimajoraxis errorminus="0.00057" errorplus="0.00042">0.03623</semimajoraxis>
+			<period errorminus="0.00000210" errorplus="0.00000210">3.32527250</period>
+			<semimajoraxis errorminus="0.000570" errorplus="0.000420">0.036230</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
 			<inclination errorminus="0.084" errorplus="0.084">88.210</inclination>
-			<temperature errorminus="5.1" errorplus="5.1">712.8</temperature>
+			<temperature errorminus="5" errorplus="5">713</temperature>
 			<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000084" errorplus="0.000084" unit="BJD">2456643.740580</transittime>
+			<transittime errorminus=".000084" errorplus="0.000084" unit="BJD">2456643.740580</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/08/07</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

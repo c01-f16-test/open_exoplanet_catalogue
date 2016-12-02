@@ -1,34 +1,36 @@
 <system>
 	<name>HD 86226</name>
-	<rightascension>09 56 30</rightascension>
-	<declination>-24 05 58</declination>
-	<distance>42.48</distance>
+	<rightascension>09 56 29</rightascension>
+	<declination>-24 05 57</declination>
+	<distance errorminus="1.59" errorplus="1.48">42.48</distance>
 	<star>
 		<name>HD 86226</name>
-		<mass>1.06</mass>
-		<radius>1.02</radius>
-		<magV>7.93</magV>
-		<magB errorminus="0.019" errorplus="0.019">8.563</magB>
+		<mass errorminus="0.03" errorplus="0.03">1.06</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.02</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.932</magV>
+		<magB errorminus="0.019" errorplus="0.019">8.564</magB>
 		<magR errorminus="0.11" errorplus="0.11">7.71</magR>
 		<magJ errorminus="0.019" errorplus="0.019">6.839</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.577</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.463</magK>
-		<temperature>5940.0</temperature>
-		<age>1.5</age>
-		<metallicity>0.05</metallicity>
-		<spectraltype>G2V</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.463</magK>
+		<temperature errorminus="31.00" errorplus="31.00">5903.00</temperature>
+		<age errorminus="1.300" errorplus="1.300">1.500</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.050</metallicity>
+		<spectraltype>G2 V</spectraltype>
 		<planet>
 			<name>HD 86226 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.92</mass>
-			<period>1695</period>
-			<semimajoraxis>2.84</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<periastron>193</periastron>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">0.92000</mass>
+			<period errorminus="58.00000000" errorplus="58.00000000">1695.00000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.060000">2.840000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.090000">0.150000</eccentricity>
+			<periastron errorminus="61.0000" errorplus="61.0000">193.0000</periastron>
+			<periastrontime errorminus="288.000000" errorplus="288.000000">2454821.000000</periastrontime>
+			<maximumrvtime errorminus="288.000000" errorplus="288.000000">2454821.000000</maximumrvtime>
 			<temperature>154.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

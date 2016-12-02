@@ -1,0 +1,20 @@
+<system>
+	<name>TWA 5 A (AB)</name>
+	<declination>-34 36 27</declination>
+	<star>
+		<name>TWA 5 A (AB)</name>
+		<mass>0.4</mass>
+		<magV>12.12</magV>
+		<age errorminus="0.09" errorplus="0.09">0.1</age>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>TWA 5 A (AB) b</name>
+			<mass errorminus="20.0" errorplus="120.0" type="Spectrum">25.0</mass>
+			<semimajoraxis>86.0</semimajoraxis>
+			<eccentricity>0.45</eccentricity>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

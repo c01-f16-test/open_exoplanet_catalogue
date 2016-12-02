@@ -1,35 +1,37 @@
 <system>
 	<name>HAT-P-12</name>
-	<rightascension>13 57 34</rightascension>
-	<declination>+43 29 37</declination>
-	<distance>142.5</distance>
+	<rightascension>13 57 33</rightascension>
+	<declination>+43 29 36</declination>
+	<distance errorminus="3.30" errorplus="4.20">142.50</distance>
 	<star>
 		<name>HAT-P-12</name>
-		<mass>0.73</mass>
-		<radius>0.7</radius>
-		<magV>12.84</magV>
+		<mass errorminus="0.02" errorplus="0.02">0.73</mass>
+		<radius errorminus="0.01" errorplus="0.02">0.70</radius>
+		<magV>12.840</magV>
 		<magB>12.6</magB>
 		<magJ errorminus="0.023" errorplus="0.023">10.794</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.236</magH>
 		<magK errorminus="0.016" errorplus="0.016">10.108</magK>
-		<temperature>4650.0</temperature>
-		<metallicity>-0.29</metallicity>
-		<spectraltype>K5</spectraltype>
+		<temperature errorminus="60.00" errorplus="60.00">4650.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">2.500</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.290</metallicity>
+		<spectraltype>K4</spectraltype>
 		<planet>
 			<name>HAT-P-12 b</name>
 			<name>2MASS J13573347+4329367 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.211</mass>
-			<radius>0.959</radius>
-			<period>3.2130598</period>
-			<semimajoraxis>0.0384</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<temperature>875.4</temperature>
+			<mass errorminus="0.01200" errorplus="0.01200" type="Mass">0.21100</mass>
+			<radius errorminus="0.021" errorplus="0.029">0.959</radius>
+			<period errorminus="0.00000210" errorplus="0.00000210">3.21305980</period>
+			<semimajoraxis errorminus="0.000300" errorplus="0.000300">0.038400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.400" errorplus="0.400">89.000</inclination>
+			<temperature errorminus="16" errorplus="16">963</temperature>
 			<description>The planet hosting star HAT-P-12 is located in the constallation Canes Venatici.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454419.19556</transittime>
+			<transittime errorminus=".000200" errorplus="0.000200" unit="BJD">2454419.195560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>09/05/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

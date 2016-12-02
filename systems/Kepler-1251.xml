@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1251</name>
-	<rightascension>19 28 28</rightascension>
+	<rightascension>19 28 27</rightascension>
 	<declination>+49 15 23</declination>
+	<distance errorminus="63.80" errorplus="113.77">863.00</distance>
 	<star>
 		<name>Kepler-1251</name>
 		<mass errorminus="0.06" errorplus="0.05">0.92</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.89</radius>
-		<temperature errorminus="95.2" errorplus="85.5">5545.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.04</metallicity>
+		<magV>14.976</magV>
+		<magJ errorminus="0.028" errorplus="0.028">13.724</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.359</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.269</magK>
+		<temperature errorminus="95.15" errorplus="85.54">5545.00</temperature>
+		<age errorminus="3.060" errorplus="5.710">4.790</age>
+		<metallicity errorminus="0.177" errorplus="0.148">-0.040</metallicity>
 		<planet>
 			<name>Kepler-1251 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.023">0.164</radius>
-			<period errorminus="0.000463000" errorplus="0.000463000">45.090464300</period>
+			<period errorminus="0.00046300" errorplus="0.00046300">45.09046430</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007330" errorplus="0.007330" unit="JD">2454966.559600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

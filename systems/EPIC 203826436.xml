@@ -1,19 +1,20 @@
 <system>
 	<name>EPIC 203826436</name>
 	<rightascension>16 13 48.24</rightascension>
-	<declination>-24 47 13.4</declination>
+	<declination>-24 47 13</declination>
 	<star>
 		<name>EPIC 203826436</name>
 		<name>J16134824-2447132</name>
-		<mass errorminus="0.05" errorplus="0.05">0.90</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.9</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.85</radius>
-		<magV errorminus="0.030" errorplus="0.030">12.568</magV>
+		<magV errorminus="0.030" errorplus="0.030">12.52</magV>
 		<magB errorminus="0.010" errorplus="0.010">13.463</magB>
 		<magJ errorminus="0.022" errorplus="0.022">10.692</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.214</magH>
-		<magK errorminus="0.021" errorplus="0.021">10.142</magK>
-		<temperature errorminus="60" errorplus="60">5413</temperature>
+		<magK errorminus="0.021" errorplus="0.021">12.24</magK>
+		<temperature errorminus="60.0" errorplus="60.0">5413.0</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
+		<spectraltype>G3V</spectraltype>
 		<planet>
 			<name>EPIC 203826436 b</name>
 			<list>Confirmed planets</list>
@@ -23,9 +24,9 @@
 			<inclination errorminus="3.37" errorplus="1.95">87.28</inclination>
 			<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0080" errorplus="0.0080" unit="BJD">2456893.7013</transittime>
+			<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2456893.7013</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -39,7 +40,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2456898.8603</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -53,7 +54,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0031" errorplus="0.0031" unit="BJD">2456907.2315</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

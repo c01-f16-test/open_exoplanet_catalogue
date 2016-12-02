@@ -1,0 +1,36 @@
+<system>
+	<name>K2-75</name>
+	<rightascension>22 35 22</rightascension>
+	<declination>-07 28 11</declination>
+	<star>
+		<name>K2-75</name>
+		<mass errorminus="0.06" errorplus="0.06">1.16</mass>
+		<radius errorminus="0.15" errorplus="0.15">1.56</radius>
+		<magV errorminus="0.031" errorplus="0.031">12.701</magV>
+		<magB errorminus="0.042" errorplus="0.042">13.346</magB>
+		<magJ errorminus="0.029" errorplus="0.029">11.564</magJ>
+		<magH errorminus="0.026" errorplus="0.026">11.283</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.178</magK>
+		<temperature errorminus="94.00" errorplus="94.00">5995.00</temperature>
+		<planet>
+			<name>K2-75 b</name>
+			<radius errorminus="0.029" errorplus="0.029">0.238</radius>
+			<period errorminus="0.00210000" errorplus="0.00210000">7.81420000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.081000</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".010000" errorplus="0.010000" unit="BJD_TDB">2456983.451000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-75 c</name>
+			<radius errorminus="0.034" errorplus="0.034">0.247</radius>
+			<period errorminus="0.01400000" errorplus="0.01400000">18.31100000</period>
+			<semimajoraxis errorminus="0.002500" errorplus="0.002500">0.142900</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".027000" errorplus="0.027000" unit="BJD_TDB">2456992.715000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,37 +1,40 @@
 <system>
 	<name>HD 113337</name>
-	<rightascension>13 01 47</rightascension>
-	<declination>+63 36 37</declination>
-	<distance errorminus="0.4" errorplus="0.4">36.9</distance>
+	<rightascension>13 01 46</rightascension>
+	<declination>+63 36 36</declination>
+	<distance errorminus="0.76" errorplus="0.73">37.42</distance>
 	<star>
 		<name>HD 113337</name>
 		<name>HIP 63584</name>
 		<name>HR 4934</name>
-		<mass errorminus="0.14" errorplus="0.14">1.4</mass>
-		<radius errorminus="0.15" errorplus="0.15">1.5</radius>
-		<magV>6</magV>
-		<magB>6.397</magB>
+		<mass errorminus="0.14" errorplus="0.14">1.40</mass>
+		<radius errorminus="0.15" errorplus="0.15">1.50</radius>
+		<magV errorminus="0.009" errorplus="0.009">6.008</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.423</magB>
 		<magR>5.8</magR>
 		<magI>5.6</magI>
 		<magJ errorminus="0.019" errorplus="0.019">5.187</magJ>
 		<magH errorminus="0.018" errorplus="0.018">5.053</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.005</magK>
+		<temperature errorminus="149.70" errorplus="153.20">6576.60</temperature>
 		<age errorminus="0.050" errorplus="0.100">0.150</age>
-		<metallicity>0.07</metallicity>
-		<spectraltype>F6V</spectraltype>
+		<metallicity>0.070</metallicity>
+		<spectraltype>F6 V</spectraltype>
 		<planet>
 			<name>HD 113337 b</name>
 			<name>HIP 63584 b</name>
 			<name>HR 4934 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.24" errorplus="0.24">2.83</mass>
-			<period errorminus="3.3" errorplus="1.7">324</period>
-			<semimajoraxis errorminus="0.09" errorplus="0.09">0.92</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.46</eccentricity>
-			<periastron errorminus="3.7" errorplus="3.6">-140.8</periastron>
+			<mass errorminus="0.24000" errorplus="0.24000" type="Msini">2.83000</mass>
+			<period errorminus="3.30000000" errorplus="1.70000000">324.00000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">0.920000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.460000</eccentricity>
+			<periastron errorminus="3.7000" errorplus="3.6000">-140.8000</periastron>
+			<periastrontime errorminus="2.300000" errorplus="2.300000">2456074.500000</periastrontime>
+			<maximumrvtime errorminus="2.300000" errorplus="2.300000">2456074.500000</maximumrvtime>
 			<description>The planet HD 113337 b is orbiting a bright young F-type star. An IR excess has been attributed to a cold debris disk around the star. The planet has been found with the SOPHIE spectrograph on the 1.9m telescope at Observatoire de Haute-Provence.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/10/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

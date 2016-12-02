@@ -2,52 +2,32 @@
 	<name>Kepler-38</name>
 	<rightascension>19 07 19</rightascension>
 	<declination>+42 16 45</declination>
-	<distance>3500</distance>
-	<binary>
+	<distance>600.00</distance>
+	<star>
 		<name>Kepler-38</name>
-		<name>KOI-1740</name>
-		<name>KIC 6762829</name>
-		<magJ errorminus="0.023" errorplus="0.023">12.730</magJ>
-		<magH errorminus="0.022" errorplus="0.022">12.412</magH>
+		<mass errorminus="0.06" errorplus="0.06">0.94</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.75</radius>
+		<magV>13.941</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.730</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.412</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.342</magK>
-		<semimajoraxis>0.1460</semimajoraxis>
-		<eccentricity>0.1032</eccentricity>
-		<star>
-			<name>Kepler-38 A</name>
-			<name>KOI-1740 A</name>
-			<name>KIC 6762829 A</name>
-			<mass>0.949</mass>
-			<radius>1.757</radius>
-		</star>
-		<star>
-			<name>Kepler-38 B</name>
-			<name>KOI-1740 B</name>
-			<name>KOI-1740.01</name>
-			<name>KIC 6762829 B</name>
-			<mass>0.249</mass>
-			<radius>0.2724</radius>
-		</star>
+		<temperature errorminus="50.00" errorplus="50.00">5623.00</temperature>
+		<age errorminus="3.000" errorplus="3.000">10.000</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.110</metallicity>
+		<spectraltype>G4 V</spectraltype>
 		<planet>
-			<name>Kepler-38 (AB) b</name>
-			<name>KIC 6762829 (AB) b</name>
-			<name>KOI-1740.02</name>
-			<name>KOI-1740 (AB) b</name>
-			<name>2MASS J19071928+4216451</name>
 			<name>Kepler-38 b</name>
-			<list>Confirmed planets</list>
-			<list>Planets in binary systems, P-type</list>
-			<radius>0.39641678</radius>
-			<period>105.595</period>
-			<semimajoraxis>0.4644</semimajoraxis>
-			<eccentricity>0.032</eccentricity>
-			<inclination>90.182</inclination>
-			<description>Kepler-38 (AB) b is a Neptune-sized planet orbiting a binary star (therefore the name with AB). The planet is not sufficiently massive to alter the orbit of the binary. Therefore one can only place an upper limit on the mass of the planet of 122 Earth masses.</description>
+			<mass type="Mass">0.38400</mass>
+			<radius errorminus="0.010" errorplus="0.010">0.384</radius>
+			<period errorminus="0.05300000" errorplus="0.03800000">105.59900000</period>
+			<semimajoraxis errorminus="0.009200" errorplus="0.008200">0.463200</semimajoraxis>
+			<eccentricity>0.032000</eccentricity>
+			<inclination errorminus="0.026" errorplus="0.030">89.442</inclination>
+			<temperature>475</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000090" errorplus="0.000090" unit="BJD">2454952.872560</transittime>
-			<istransiting>1</istransiting>
-			<lastupdate>12/08/24</lastupdate>
+			<transittime errorminus=".022000" errorplus="0.044000" unit="BJD-TDB">2454932.104000</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-	</binary>
-	<videolink>http://youtu.be/4ivxxwksL04</videolink>
+	</star>
 </system>

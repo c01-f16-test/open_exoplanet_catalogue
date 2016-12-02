@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-693</name>
-	<rightascension>18 53 01</rightascension>
-	<declination>+40 21 30</declination>
+	<rightascension>18 53 00</rightascension>
+	<declination>+40 21 29</declination>
+	<distance errorminus="65.87" errorplus="54.76">1002.00</distance>
 	<star>
 		<name>Kepler-693</name>
 		<mass errorminus="0.05" errorplus="0.04">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.72</radius>
-		<temperature errorminus="77.4" errorplus="78.8">4881.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.17">-0.10</metallicity>
+		<magV>16.422</magV>
+		<magJ errorminus="0.038" errorplus="0.038">14.877</magJ>
+		<magH errorminus="0.046" errorplus="0.046">14.359</magH>
+		<magK errorminus="0.071" errorplus="0.071">14.178</magK>
+		<temperature errorminus="77.41" errorplus="78.78">4881.00</temperature>
+		<age errorminus="2.710" errorplus="6.050">4.470</age>
+		<metallicity errorminus="0.181" errorplus="0.167">-0.100</metallicity>
 		<planet>
 			<name>Kepler-693 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.069" errorplus="0.045">0.908</radius>
-			<period errorminus="0.000010720" errorplus="0.000010720">15.375633320</period>
+			<period errorminus="0.00001072" errorplus="0.00001072">15.37563332</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000650" errorplus="0.000650" unit="JD">2455006.613288</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

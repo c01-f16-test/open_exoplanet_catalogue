@@ -1,0 +1,26 @@
+<system>
+	<name>K2-49</name>
+	<rightascension>11 49 16</rightascension>
+	<declination>+03 28 32</declination>
+	<star>
+		<name>K2-49</name>
+		<mass errorminus="0.14" errorplus="0.14">0.51</mass>
+		<radius errorminus="0.12" errorplus="0.12">0.45</radius>
+		<magV errorminus="0.080" errorplus="0.080">15.668</magV>
+		<magB errorminus="0.150" errorplus="0.150">17.143</magB>
+		<magJ errorminus="0.026" errorplus="0.026">13.463</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.873</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.729</magK>
+		<temperature errorminus="97.00" errorplus="97.00">4175.00</temperature>
+		<planet>
+			<name>K2-49 b</name>
+			<radius errorminus="0.047" errorplus="0.047">0.172</radius>
+			<period errorminus="0.00015000" errorplus="0.00015000">2.77065000</period>
+			<semimajoraxis errorminus="0.002900" errorplus="0.002900">0.030900</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002600" errorplus="0.002600" unit="BJD_TDB">2456810.020300</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

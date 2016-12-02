@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1386</name>
-	<rightascension>18 43 18</rightascension>
-	<declination>+42 38 10</declination>
+	<rightascension>18 43 17</rightascension>
+	<declination>+42 38 09</declination>
+	<distance errorminus="86.08" errorplus="252.44">838.00</distance>
 	<star>
 		<name>Kepler-1386</name>
 		<mass errorminus="0.05" errorplus="0.06">1.02</mass>
 		<radius errorminus="0.10" errorplus="0.31">1.03</radius>
-		<temperature errorminus="88.0" errorplus="71.2">5733.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.15">0.11</metallicity>
+		<magV>14.455</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.211</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.919</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.870</magK>
+		<temperature errorminus="88.00" errorplus="71.22">5733.00</temperature>
+		<age errorminus="3.070" errorplus="3.270">5.010</age>
+		<metallicity errorminus="0.135" errorplus="0.155">0.110</metallicity>
 		<planet>
 			<name>Kepler-1386 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.034">0.111</radius>
-			<period errorminus="0.000070220" errorplus="0.000070220">6.739723810</period>
+			<period errorminus="0.00007022" errorplus="0.00007022">6.73972381</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007660" errorplus="0.007660" unit="JD">2454965.286500</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

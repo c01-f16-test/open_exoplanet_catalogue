@@ -1,36 +1,37 @@
 <system>
 	<name>WASP-64</name>
-	<rightascension>06 44 28</rightascension>
+	<rightascension>06 44 27</rightascension>
 	<declination>-32 51 30</declination>
-	<distance errorminus="90" errorplus="90">350</distance>
+	<distance errorminus="90.00" errorplus="90.00">350.00</distance>
 	<star>
 		<name>WASP-64</name>
-		<mass>0.98</mass>
-		<radius>1.03</radius>
-		<magV>12.29</magV>
-		<magJ errorminus="0.022" errorplus="0.022">11.368</magJ>
-		<magH errorminus="0.024" errorplus="0.024">11.079</magH>
-		<magK errorminus="0.019" errorplus="0.019">10.956</magK>
-		<temperature errorminus="100" errorplus="100">5400</temperature>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.08</metallicity>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.06</radius>
+		<magV>12.290</magV>
+		<magJ errorminus="0.018" errorplus="0.018">11.368</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.079</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.956</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5400.00</temperature>
+		<age errorminus="0.700" errorplus="1.200">1.200</age>
+		<metallicity errorminus="0.110" errorplus="0.110">-0.080</metallicity>
 		<spectraltype>G7</spectraltype>
 		<planet>
 			<name>WASP-64 b</name>
 			<name>1SWASPJ064427.63-325130.4</name>
 			<list>Confirmed planets</list>
-			<mass>1.271</mass>
-			<radius>1.271</radius>
-			<period>1.57329</period>
-			<semimajoraxis>0.02648</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination>86.57</inclination>
+			<mass errorminus="0.06800" errorplus="0.06800" type="Mass">1.27100</mass>
+			<radius errorminus="0.039" errorplus="0.039">1.271</radius>
+			<period errorminus="0.00000150" errorplus="0.00000150">1.57329180</period>
+			<semimajoraxis errorminus="0.000240" errorplus="0.000240">0.026480</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.600" errorplus="0.800">86.570</inclination>
 			<temperature errorminus="49" errorplus="49">1689</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00027" errorplus="0.00027" unit="HJD">2455582.60169</transittime>
+			<transittime errorminus=".000270" errorplus="0.000270" unit="HJD-TDB">2455582.601690</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/10/17</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,50 +1,30 @@
 <system>
 	<name>Kepler-413</name>
-	<name>KIC 12351927</name>
-	<rightascension>19 14 03</rightascension>
-	<declination>+51 09 45</declination>
-	<binary>
+	<rightascension>19 14 02</rightascension>
+	<declination>+51 09 44</declination>
+	<star>
+		<name>Kepler-413</name>
+		<mass errorminus="0.01" errorplus="0.01">0.82</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.78</radius>
+		<magV>15.520</magV>
 		<magJ errorminus="0.028" errorplus="0.028">13.987</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.51</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.41</magK>
-		<period errorminus="0.000001" errorplus="0.000001">10.116146</period>
-		<inclination errorminus="0.0987" errorplus="0.0987">87.3258</inclination>
-		<semimajoraxis errorminus="0.00057" errorplus="0.00057">0.10148</semimajoraxis>
-		<eccentricity errorminus="0.0017" errorplus="0.0017">0.0372</eccentricity>
-		<periastron errorminus="0.86" errorplus="0.86">279.54</periastron>
-		<star>
-			<name>Kepler-413 A</name>
-			<name>KIC 12351927 A</name>
-			<mass errorminus="0.015" errorplus="0.015">0.82</mass>
-			<radius errorminus="0.0088" errorplus="0.0088">0.7761</radius>
-			<temperature>4700</temperature>
-			<metallicity>-0.2</metallicity>
-		</star>
-		<star>
-			<name>Kepler-413 B</name>
-			<name>KIC 12351927 B</name>
-			<mass errorminus="0.0081" errorplus="0.0081">0.5423</mass>
-			<radius errorminus="0.027" errorplus="0.027">0.484</radius>
-			<temperature>3463</temperature>
-		</star>
+		<magH errorminus="0.039" errorplus="0.039">13.505</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.415</magK>
+		<temperature>4700.00</temperature>
+		<metallicity>-0.200</metallicity>
 		<planet>
 			<name>Kepler-413 b</name>
-			<name>Kepler-413 (AB) b</name>
-			<name>KIC 12351927 (AB) b</name>
-			<list>Confirmed planets</list>
-			<list>Planets in binary systems, P-type</list>
-			<mass errorminus="0.069205" errorplus="0.069205">0.210762</mass>
-			<radius errorminus="0.009022" errorplus="0.009022">0.396143</radius>
-			<period errorminus="0.024" errorplus="0.024">66.262</period>
-			<eccentricity errorminus="0.0018" errorplus="0.0018">0.118</eccentricity>
-			<periastron errorminus="2.2" errorplus="2.2">94.6</periastron>
-			<longitude errorminus="0.08" errorplus="0.08">3.139</longitude>
-			<inclination errorminus="0.113" errorplus="0.113">4.073</inclination>
-			<description>The planet Kepler-413 b is a circumbinary planet. Because of orbital precession, the inclination of the planet with respect to the sky plane changes and the planet often fails to transit. There are periods of hundreds of days with no transits. The next transit will not occur until 2020. The planet is at the inner edge of the extended habitable zone. Because of the complex orbital dynamics, the planet might undergo strong obliquity fluctuations with implications for seasonal cycles.</description>
+			<mass errorminus="0.06600" errorplus="0.06900" type="Mass">0.21100</mass>
+			<radius errorminus="0.009" errorplus="0.009">0.388</radius>
+			<period errorminus="0.02100000" errorplus="0.02400000">66.26200000</period>
+			<semimajoraxis errorminus="0.001800" errorplus="0.002000">0.355300</semimajoraxis>
+			<eccentricity errorminus="0.001700" errorplus="0.001800">0.118100</eccentricity>
+			<periastron errorminus="2.3000" errorplus="2.2000">94.6000</periastron>
+			<inclination errorminus="0.016" errorplus="0.024">89.929</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>14/01/29</lastupdate>
+			<transittime errorminus=".170000" errorplus="0.160000" unit="BJD">2455096.640000</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
-	</binary>
+	</star>
 </system>

@@ -9,11 +9,13 @@
 		<name>Kepler-274</name>
 		<name>KOI-1196</name>
 		<name>KIC 3348082</name>
-		<radius errorminus=".541" errorplus="0.541">1.007</radius>
+		<radius errorminus="0.54" errorplus="0.54">1.01</radius>
+		<magV>15.035</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.773</magJ>
 		<magH errorminus="0.025" errorplus="0.025">13.458</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.46</magK>
-		<temperature errorminus="200" errorplus="200">6023</temperature>
+		<magK errorminus="0.039" errorplus="0.039">13.456</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6023.00</temperature>
+		<metallicity>-0.188</metallicity>
 		<planet>
 			<name>Kepler-274 b</name>
 			<name>KOI-1196 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 3348082 b</name>
 			<name>KIC 3348082.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07655" errorplus="0.07655">0.14034</radius>
-			<period errorminus=".000134" errorplus="0.000134">11.634788</period>
+			<radius errorminus="0.075" errorplus="0.075">0.137</radius>
+			<period errorminus="0.00013400" errorplus="0.00013400">11.63478800</period>
+			<semimajoraxis>0.101000</semimajoraxis>
 			<description>Kepler-274 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-274 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0072000" errorplus="0.0072000">2454973.4969600</transittime>
+			<transittime errorminus=".007200" errorplus="0.007200" unit="BJD">2454973.496960</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +40,14 @@
 			<name>KIC 3348082 c</name>
 			<name>KIC 3348082.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.09113" errorplus="0.09113">0.16768</radius>
-			<period errorminus=".000894" errorplus="0.000894">33.197861</period>
+			<radius errorminus="0.089" errorplus="0.089">0.164</radius>
+			<period errorminus="0.00089400" errorplus="0.00089400">33.19786100</period>
+			<semimajoraxis>0.204000</semimajoraxis>
 			<description>Kepler-274 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-274 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0176900" errorplus="0.0176900">2454975.1004400</transittime>
+			<transittime errorminus=".017690" errorplus="0.017690" unit="BJD">2454975.100440</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

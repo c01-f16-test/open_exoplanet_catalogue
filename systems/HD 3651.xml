@@ -2,32 +2,36 @@
 	<name>HD 3651</name>
 	<rightascension>00 39 21</rightascension>
 	<declination>+21 15 01</declination>
-	<distance>11</distance>
+	<distance errorminus="0.10" errorplus="0.10">11.10</distance>
 	<star>
 		<name>HD 3651</name>
-		<mass>0.79</mass>
-		<radius>0.947</radius>
-		<magV>5.8</magV>
-		<magB>6.72</magB>
+		<mass errorminus="0.03" errorplus="0.03">0.88</mass>
+		<radius errorminus="0.032" errorplus="0.032">0.947</radius>
+		<magV>5.860</magV>
+		<magB>6.710</magB>
 		<magR>5.3</magR>
 		<magI>4.9</magI>
 		<magJ errorminus="0.206" errorplus="0.206">4.549</magJ>
 		<magH errorminus="0.240" errorplus="0.240">4.064</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.999</magK>
-		<temperature>5173.0</temperature>
-		<metallicity>0.05</metallicity>
+		<temperature errorminus="44.00" errorplus="44.00">5221.00</temperature>
+		<age>5.13</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.240</metallicity>
 		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>HD 3651 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.2</mass>
-			<period>62.23</period>
-			<semimajoraxis>0.284</semimajoraxis>
-			<eccentricity>0.63</eccentricity>
-			<inclination>83</inclination>
+			<mass errorminus="0.00800" errorplus="0.00800" type="Msini">0.22900</mass>
+			<period errorminus="0.01500000" errorplus="0.01500000">62.21800000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.295000</semimajoraxis>
+			<eccentricity errorminus="0.036000" errorplus="0.036000">0.596000</eccentricity>
+			<periastron errorminus="4.5000" errorplus="4.5000">242.5000</periastron>
+			<periastrontime errorminus="0.600000" errorplus="0.600000">2453932.600000</periastrontime>
+			<maximumrvtime errorminus="0.600000" errorplus="0.600000">2453932.600000</maximumrvtime>
+			<inclination errorminus="56.0" errorplus="56.0">83.0</inclination>
 			<temperature>405.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
@@ -41,7 +45,18 @@
 			<meananomaly errorminus="42" errorplus="42">318</meananomaly>
 			<description>The radial velocity data for HD 3651 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities in a 2:1 resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 3651 c</name>
+			<mass errorminus="0.03" errorplus="0.03">0.09</mass>
+			<period errorminus="0.02" errorplus="0.02">31.0</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.186</semimajoraxis>
+			<eccentricity errorminus="0.2" errorplus="0.2">0.04</eccentricity>
+			<periastron errorminus="66.0" errorplus="66.0">55.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

@@ -2,22 +2,29 @@
 	<name>Kepler-935</name>
 	<rightascension>19 40 05</rightascension>
 	<declination>+46 37 09</declination>
+	<distance errorminus="25.06" errorplus="22.99">482.00</distance>
 	<star>
 		<name>Kepler-935</name>
 		<mass errorminus="0.04" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.73</radius>
-		<temperature errorminus="87.2" errorplus="74.6">4830.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.01</metallicity>
+		<magV>14.925</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.292</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.774</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.620</magK>
+		<temperature errorminus="87.15" errorplus="74.56">4830.00</temperature>
+		<age errorminus="2.070" errorplus="6.040">3.800</age>
+		<metallicity errorminus="0.173" errorplus="0.159">-0.010</metallicity>
 		<planet>
 			<name>Kepler-935 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.007">0.120</radius>
-			<period errorminus="0.000014810" errorplus="0.000014810">4.880838520</period>
+			<period errorminus="0.00001481" errorplus="0.00001481">4.88083852</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002660" errorplus="0.002660" unit="JD">2454969.197780</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

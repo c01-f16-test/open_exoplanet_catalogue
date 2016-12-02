@@ -1,8 +1,8 @@
 <system>
 	<name>HD 12648</name>
-	<rightascension>02 18 59.654</rightascension>
-	<declination>+85 44 10.22</declination>
-	<distance errorminus="9.0" errorplus="9.0">158.4</distance>
+	<rightascension>02 18 59</rightascension>
+	<declination>+85 44 10</declination>
+	<distance errorminus="9.00" errorplus="9.00">158.40</distance>
 	<star>
 		<name>HD 12648</name>
 		<name>HIP 10800</name>
@@ -10,15 +10,16 @@
 		<name>BD+85 41</name>
 		<name>PPM 401</name>
 		<name>2MASS J02185973+8544102</name>
-		<mass errorminus="0.1" errorplus="0.1">1.2</mass>
-		<radius errorminus="0.6" errorplus="0.6">9.2</radius>
-		<magV errorminus="0.01" errorplus="0.01">6.98</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.90</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.20</mass>
+		<radius errorminus="0.60" errorplus="0.60">9.20</radius>
+		<magV errorminus="0.01" errorplus="0.01">6.980</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.897</magB>
 		<magJ errorminus="0.023" errorplus="0.023">5.302</magJ>
-		<magH errorminus="0.046" errorplus="0.046">4.820</magH>
+		<magH errorminus="0.045" errorplus="0.045">4.820</magH>
 		<magK errorminus="0.031" errorplus="0.031">4.743</magK>
-		<temperature errorminus="7.5" errorplus="7.5">4835.8</temperature>
-		<metallicity errorminus="0.02" errorplus="0.02">-0.57</metallicity>
+		<temperature errorminus="7.50" errorplus="7.50">4835.80</temperature>
+		<age errorminus="1.000" errorplus="1.000">4.500</age>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.570</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 12648 b</name>
@@ -28,14 +29,16 @@
 			<name>PPM 401 b</name>
 			<name>2MASS J02185973+8544102 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.4" errorplus="0.4" type="msini">2.9</mass>
-			<period errorminus="0.5" errorplus="0.5">133.6</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">0.54</semimajoraxis>
-			<eccentricity errorminus="0.16" errorplus="0.16">0.04</eccentricity>
-			<periastrontime errorminus="57.6" errorplus="57.6">2452324.7</periastrontime>
+			<mass errorminus="0.40000" errorplus="0.40000" type="Msini">2.90000</mass>
+			<period errorminus="0.50000000" errorplus="0.50000000">133.60000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.540000</semimajoraxis>
+			<eccentricity errorminus="0.160000" errorplus="0.160000">0.040000</eccentricity>
+			<periastron errorminus="140.7000" errorplus="140.7000">99.3000</periastron>
+			<periastrontime errorminus="57.600000" errorplus="57.600000">2452324.700000</periastrontime>
+			<maximumrvtime errorminus="57.600000" errorplus="57.600000">2452324.700000</maximumrvtime>
 			<description>This planet was detected by the Bohyunsan Optical Astronomy Observatory (BOAO) which searches for exoplanets at northern circumpolar stars.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

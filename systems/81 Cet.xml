@@ -1,8 +1,8 @@
 <system>
 	<name>81 Cet</name>
-	<rightascension>02 37 42.80105</rightascension>
-	<declination>-03 23 46.2201</declination>
-	<distance errorminus="3.9" errorplus="3.9">92.5</distance>
+	<rightascension>02 37 41</rightascension>
+	<declination>-03 23 46</declination>
+	<distance errorminus="10.11" errorplus="8.37">97.18</distance>
 	<star>
 		<name>81 Cet</name>
 		<name>81 Ceti</name>
@@ -13,30 +13,31 @@
 		<name>HR 771</name>
 		<name>BD-04 436</name>
 		<name>2MASS J02374179-0323462</name>
-		<mass>2.4</mass>
-		<radius>11</radius>
-		<magV>5.65</magV>
-		<magB>6.667</magB>
+		<mass errorminus="0.40" errorplus="0.10">2.40</mass>
+		<radius errorminus="1.00" errorplus="2.00">11.00</radius>
+		<magV>5.650</magV>
+		<magB>6.670</magB>
 		<magJ errorminus="0.266" errorplus="0.266">3.940</magJ>
 		<magH errorminus="0.234" errorplus="0.234">3.386</magH>
 		<magK errorminus="0.258" errorplus="0.258">3.266</magK>
-		<temperature>4790.0</temperature>
-		<metallicity>-0.06</metallicity>
-		<spectraltype>G5III</spectraltype>
+		<temperature errorminus="25.00" errorplus="25.00">4785.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.060</metallicity>
+		<spectraltype>G5 III</spectraltype>
 		<planet>
 			<name>81 Cet b</name>
 			<name>81 Ceti b</name>
 			<name>HD 16400 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">5.3</mass>
-			<period errorminus="8.8" errorplus="8.8">952.7</period>
-			<semimajoraxis>2.5</semimajoraxis>
-			<eccentricity errorminus="0.029" errorplus="0.029">0.206</eccentricity>
-			<periastron errorminus="6.9" errorplus="6.9">175.0</periastron>
-			<periastrontime errorminus="26" errorplus="26">2452486</periastrontime>
+			<mass type="Msini">5.30000</mass>
+			<period errorminus="8.80000000" errorplus="8.80000000">952.70000000</period>
+			<semimajoraxis>2.500000</semimajoraxis>
+			<eccentricity errorminus="0.029000" errorplus="0.029000">0.206000</eccentricity>
+			<periastron errorminus="6.9000" errorplus="6.9000">175.0000</periastron>
+			<periastrontime errorminus="26.000000" errorplus="26.000000">2452486.000000</periastrontime>
+			<maximumrvtime errorminus="26.000000" errorplus="26.000000">2452486.000000</maximumrvtime>
 			<description>The star 81 Ceti is a G-type giant in the constellation of Cetus.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

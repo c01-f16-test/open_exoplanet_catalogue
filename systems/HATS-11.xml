@@ -1,0 +1,34 @@
+<system>
+	<name>HATS-11</name>
+	<rightascension>19 17 36</rightascension>
+	<declination>-22 23 23</declination>
+	<distance errorminus="41.00" errorplus="41.00">906.00</distance>
+	<star>
+		<name>HATS-11</name>
+		<mass errorminus="0.06" errorplus="0.06">1.00</mass>
+		<radius errorminus="0.06" errorplus="0.06">1.44</radius>
+		<magV errorminus="0.081" errorplus="0.081">14.018</magV>
+		<magB errorminus="0.019" errorplus="0.019">14.657</magB>
+		<magJ errorminus="0.023" errorplus="0.023">12.647</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.315</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.243</magK>
+		<temperature errorminus="150.00" errorplus="150.00">6060.00</temperature>
+		<age errorminus="1.600" errorplus="2.200">7.700</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.390</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HATS-11 b</name>
+			<mass errorminus="0.12000" errorplus="0.12000" type="Mass">0.85000</mass>
+			<radius errorminus="0.078" errorplus="0.078">1.510</radius>
+			<period errorminus="0.00000990" errorplus="0.00000990">3.61916130</period>
+			<semimajoraxis errorminus="0.000930" errorplus="0.000930">0.046140</semimajoraxis>
+			<eccentricity errorminus="0.34" errorplus="0.0">0.340000</eccentricity>
+			<inclination errorminus="0.860" errorplus="0.860">88.310</inclination>
+			<temperature errorminus="48" errorplus="48">1637</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001300" errorplus="0.001300" unit="BJD">2456574.965700</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

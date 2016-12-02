@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2011-BLG-028L</name>
+	<rightascension>18 03 24</rightascension>
+	<declination>-29 12 48</declination>
+	<distance errorminus="620.00" errorplus="520.00">7380.00</distance>
+	<star>
+		<name>MOA 2011-BLG-028L</name>
+		<mass errorminus="0.30" errorplus="0.35">0.75</mass>
+		<planet>
+			<name>MOA 2011-BLG-028L b</name>
+			<mass errorminus="0.03776" errorplus="0.05034" type="Mass">0.09439</mass>
+			<semimajoraxis errorminus="0.640000" errorplus="0.640000">4.140000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

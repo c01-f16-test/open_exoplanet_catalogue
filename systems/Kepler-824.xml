@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-824</name>
-	<rightascension>19 21 55</rightascension>
+	<rightascension>19 21 54</rightascension>
 	<declination>+39 43 55</declination>
+	<distance errorminus="171.74" errorplus="508.56">1352.00</distance>
 	<star>
 		<name>Kepler-824</name>
 		<mass errorminus="0.08" errorplus="0.14">1.15</mass>
 		<radius errorminus="0.15" errorplus="0.46">1.22</radius>
-		<temperature errorminus="120.5" errorplus="85.6">6035.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.15">0.14</metallicity>
+		<magV>14.946</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.792</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.571</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.447</magK>
+		<temperature errorminus="120.47" errorplus="85.61">6035.00</temperature>
+		<age errorminus="1.510" errorplus="1.310">3.310</age>
+		<metallicity errorminus="0.141" errorplus="0.152">0.140</metallicity>
 		<planet>
 			<name>Kepler-824 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.063">0.167</radius>
-			<period errorminus="0.000013970" errorplus="0.000013970">4.514366330</period>
+			<period errorminus="0.00001397" errorplus="0.00001397">4.51436633</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002900" errorplus="0.002900" unit="JD">2454967.029040</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,8 +1,8 @@
 <system>
 	<name>nu Oph</name>
-	<rightascension>17 59 01.59191</rightascension>
-	<declination>-09 46 25.0798</declination>
-	<distance errorminus="0.56" errorplus="0.56">46.21</distance>
+	<rightascension>17 59 01</rightascension>
+	<declination>-09 46 25</declination>
+	<distance errorminus="1.80" errorplus="1.67">46.84</distance>
 	<star>
 		<name>nu Oph</name>
 		<name>nu. Oph</name>
@@ -18,45 +18,47 @@
 		<name>HR 6698</name>
 		<name>BD-09 6432</name>
 		<name>2MASS J17590160-0946249</name>
-		<mass lowerlimit="2.98" upperlimit="3.10">3.04</mass>
-		<radius lowerlimit="14.1" upperlimit="16.2">15.1</radius>
-		<magV>3.33</magV>
-		<magB errorminus="0.01" errorplus="0.01">4.31</magB>
+		<mass errorminus="0.06" errorplus="0.06" lowerlimit="2.98" upperlimit="3.10">3.04</mass>
+		<radius errorminus="1.0" errorplus="1.10" lowerlimit="14.1" upperlimit="16.2">15.10</radius>
+		<magV>3.340</magV>
+		<magB errorminus="0.01" errorplus="0.01">4.330</magB>
 		<magR>2.64</magR>
 		<magI>2.16</magI>
 		<magJ errorminus="0.290" errorplus="0.290">1.732</magJ>
 		<magH errorminus="0.284" errorplus="0.284">1.289</magH>
 		<magK errorminus="0.306" errorplus="0.306">1.225</magK>
-		<temperature errorminus="25" errorplus="25">4928</temperature>
+		<temperature errorminus="25.0" errorplus="25.00">4928.00</temperature>
 		<metallicity errorminus="0.05" errorplus="0.05">0.13</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<spectraltype>K1 III</spectraltype>
 		<planet>
 			<name>nu Oph b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">24</mass>
-			<period errorminus="0.35" errorplus="0.35">530.32</period>
-			<semimajoraxis>1.9</semimajoraxis>
-			<eccentricity errorminus="0.0065" errorplus="0.0065">0.1256</eccentricity>
-			<periastron errorminus="3.8" errorplus="3.8">9.6</periastron>
-			<periastrontime errorminus="6.6" errorplus="6.6">2452034.2</periastrontime>
+			<mass type="Msini">24.00000</mass>
+			<period errorminus="0.35000000" errorplus="0.35000000">530.32000000</period>
+			<semimajoraxis>1.900000</semimajoraxis>
+			<eccentricity errorminus="0.006500" errorplus="0.006500">0.125600</eccentricity>
+			<periastron errorminus="3.8000" errorplus="3.8000">9.6000</periastron>
+			<periastrontime errorminus="6.600000" errorplus="6.600000">2452034.200000</periastrontime>
+			<maximumrvtime errorminus="6.600000" errorplus="6.600000">2452034.200000</maximumrvtime>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>nu Oph c</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">27</mass>
-			<period errorminus="14" errorplus="14">3186</period>
-			<semimajoraxis>6.1</semimajoraxis>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.165</eccentricity>
-			<periastron errorminus="4.5" errorplus="4.5">4.6</periastron>
-			<periastrontime errorminus="38" errorplus="38">2453038</periastrontime>
+			<mass type="Msini">27.00000</mass>
+			<period errorminus="14.00000000" errorplus="14.00000000">3186.00000000</period>
+			<semimajoraxis>6.100000</semimajoraxis>
+			<eccentricity errorminus="0.013000" errorplus="0.013000">0.165000</eccentricity>
+			<periastron errorminus="4.5000" errorplus="4.5000">4.6000</periastron>
+			<periastrontime errorminus="38.000000" errorplus="38.000000">2453038.000000</periastrontime>
+			<maximumrvtime errorminus="38.000000" errorplus="38.000000">2453038.000000</maximumrvtime>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

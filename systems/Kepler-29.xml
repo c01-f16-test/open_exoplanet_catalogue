@@ -2,17 +2,19 @@
 	<name>Kepler-29</name>
 	<rightascension>19 53 23</rightascension>
 	<declination>+47 29 28</declination>
-	<distance>1246</distance>
+	<distance>1400.00</distance>
 	<star>
 		<name>Kepler-29</name>
 		<name>KOI-738</name>
 		<name>KIC 10358759</name>
-		<mass>1.0</mass>
-		<radius>0.96</radius>
-		<magJ errorminus="0.03" errorplus="0.03">14.13</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.67</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.66</magK>
-		<temperature>5750.0</temperature>
+		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
+		<radius errorminus="0.06" errorplus="0.06">0.93</radius>
+		<magV>15.282</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.131</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.673</magH>
+		<magK errorminus="0.045" errorplus="0.045">13.657</magK>
+		<temperature errorminus="102.00" errorplus="102.00">5701.00</temperature>
+		<metallicity errorminus="0.120" errorplus="0.120">-0.040</metallicity>
 		<spectraltype>G5V</spectraltype>
 		<planet>
 			<name>Kepler-29 b</name>
@@ -20,16 +22,16 @@
 			<name>KOI-738 b</name>
 			<name>KIC 10358759 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.004619" errorplus="0.004436">0.014184</mass>
-			<radius>0.328069</radius>
-			<period>10.33</period>
+			<mass errorminus="0.00463" errorplus="0.00444" type="Mass">0.01419</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.299</radius>
+			<period errorminus="0.00030000" errorplus="0.00030000">10.33840000</period>
 			<semimajoraxis>0.09</semimajoraxis>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454982.75</transittime>
+			<transittime errorminus=".001400" errorplus="0.001400" unit="BJD">2456465.754400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-29 c</name>
@@ -37,16 +39,16 @@
 			<name>KOI-738 c</name>
 			<name>KIC 10358759 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.004065" errorplus="0.003883">0.012579</mass>
-			<radius>0.26427</radius>
-			<period>13.2907</period>
+			<mass errorminus="0.00406" errorplus="0.00387" type="Mass">0.01259</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.280</radius>
+			<period errorminus="0.00050000" errorplus="0.00050000">13.28840000</period>
 			<semimajoraxis>0.11</semimajoraxis>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-29 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.016" errorplus="0.016" unit="BJD">2454978.471</transittime>
+			<transittime errorminus=".001900" errorplus="0.001900" unit="BJD">2456462.781800</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

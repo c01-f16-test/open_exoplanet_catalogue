@@ -1,0 +1,26 @@
+<system>
+	<name>K2-61</name>
+	<rightascension>22 38 41</rightascension>
+	<declination>-13 33 36</declination>
+	<star>
+		<name>K2-61</name>
+		<mass errorminus="0.22" errorplus="0.22">1.21</mass>
+		<radius errorminus="0.41" errorplus="0.41">1.36</radius>
+		<magV errorminus="0.020" errorplus="0.020">12.991</magV>
+		<magB errorminus="0.050" errorplus="0.050">13.689</magB>
+		<magJ errorminus="0.022" errorplus="0.022">11.758</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.423</magH>
+		<magK errorminus="0.024" errorplus="0.024">11.385</magK>
+		<temperature errorminus="338.00" errorplus="338.00">6293.00</temperature>
+		<planet>
+			<name>K2-61 b</name>
+			<radius errorminus="0.070" errorplus="0.070">0.221</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">2.57302000</period>
+			<semimajoraxis errorminus="0.002400" errorplus="0.002400">0.039200</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002700" errorplus="0.002700" unit="BJD_TDB">2456983.219600</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

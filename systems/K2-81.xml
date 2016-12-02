@@ -1,0 +1,26 @@
+<system>
+	<name>K2-81</name>
+	<rightascension>03 49 56</rightascension>
+	<declination>+14 30 07</declination>
+	<star>
+		<name>K2-81</name>
+		<mass errorminus="0.07" errorplus="0.07">0.70</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.63</radius>
+		<magV errorminus="0.040" errorplus="0.040">14.364</magV>
+		<magB errorminus="0.100" errorplus="0.100">15.560</magB>
+		<magJ errorminus="0.022" errorplus="0.022">12.048</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.419</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.316</magK>
+		<temperature errorminus="156.00" errorplus="156.00">4530.00</temperature>
+		<planet>
+			<name>K2-81 b</name>
+			<radius errorminus="0.022" errorplus="0.022">0.162</radius>
+			<period errorminus="0.00054000" errorplus="0.00054000">6.10224000</period>
+			<semimajoraxis errorminus="0.002100" errorplus="0.002100">0.057900</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003300" errorplus="0.003300" unit="BJD_TDB">2457070.442500</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

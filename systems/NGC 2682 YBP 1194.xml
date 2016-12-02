@@ -1,0 +1,27 @@
+<system>
+	<name>NGC 2682 YBP 1194</name>
+	<rightascension>08 51 00</rightascension>
+	<declination>+11 48 52</declination>
+	<star>
+		<name>NGC 2682 YBP 1194</name>
+		<mass errorminus="0.02" errorplus="0.02">1.01</mass>
+		<magV>14.600</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.366</magJ>
+		<magH errorminus="0.024" errorplus="0.024">13.041</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.965</magK>
+		<temperature errorminus="27.00" errorplus="27.00">5780.00</temperature>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>NGC 2682 YBP 1194 b</name>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">0.32000</mass>
+			<period errorminus="0.00100000" errorplus="0.00100000">6.95900000</period>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.300000</eccentricity>
+			<periastron errorminus="20.4700" errorplus="20.4700">99.3600</periastron>
+			<periastrontime errorminus="0.510000" errorplus="0.510000">2455289.980000</periastrontime>
+			<maximumrvtime errorminus="0.510000" errorplus="0.510000">2455289.980000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

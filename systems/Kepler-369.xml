@@ -9,12 +9,14 @@
 		<name>Kepler-369</name>
 		<name>KOI-2179</name>
 		<name>KIC 10670119</name>
-		<mass errorminus="0.3000" errorplus="0.3000">0.4700</mass>
-		<radius errorminus=".014" errorplus="0.014">0.471</radius>
+		<mass errorminus="0.3000" errorplus="0.3000">0.54</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.47</radius>
+		<magV>15.673</magV>
 		<magJ errorminus="0.022" errorplus="0.022">13.247</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.594</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.395</magK>
-		<temperature errorminus="100" errorplus="100">3591</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">3591.00</temperature>
+		<metallicity>0.207</metallicity>
 		<planet>
 			<name>Kepler-369 c</name>
 			<name>KOI-2179 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10670119 c</name>
 			<name>KIC 10670119.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00547" errorplus="0.00547">0.12849</radius>
-			<period errorminus=".000083" errorplus="0.000083">14.871572</period>
+			<radius errorminus="0.005" errorplus="0.005">0.126</radius>
+			<period errorminus="0.00008300" errorplus="0.00008300">14.87157200</period>
+			<semimajoraxis>0.094000</semimajoraxis>
 			<description>Kepler-369 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-369 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036700" errorplus="0.0036700">2454970.6911400</transittime>
+			<transittime errorminus=".003670" errorplus="0.003670" unit="BJD">2454970.691140</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10670119 b</name>
 			<name>KIC 10670119.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00547" errorplus="0.00547">0.10298</radius>
-			<period errorminus=".000009" errorplus="0.000009">2.732756</period>
+			<radius errorminus="0.005" errorplus="0.005">0.101</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">2.73275600</period>
+			<semimajoraxis>0.030000</semimajoraxis>
 			<description>Kepler-369 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-369 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015100" errorplus="0.0015100">2455187.0955500</transittime>
+			<transittime errorminus=".001510" errorplus="0.001510" unit="BJD">2455187.095550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,33 +1,35 @@
 <system>
 	<name>HD 196067</name>
 	<rightascension>20 41 44</rightascension>
-	<declination>-75 21 03</declination>
-	<distance>44.3</distance>
+	<declination>-75 21 02</declination>
+	<distance errorminus="4.39" errorplus="3.65">43.57</distance>
 	<star>
 		<name>HD 196067</name>
-		<mass>1.29</mass>
-		<radius>1.73</radius>
-		<magV>6.02</magV>
-		<magB>6.64</magB>
+		<mass errorminus="0.08" errorplus="0.08">1.29</mass>
+		<radius errorminus="0.21" errorplus="0.21">1.73</radius>
+		<magV>6.030</magV>
+		<magB>6.650</magB>
 		<magJ errorminus="0.021" errorplus="0.021">5.417</magJ>
 		<magH errorminus="0.024" errorplus="0.024">5.207</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.080</magK>
-		<temperature>5940.0</temperature>
-		<age>3.3</age>
-		<metallicity>0.18</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<temperature errorminus="46.00" errorplus="46.00">6017.00</temperature>
+		<age errorminus="0.600" errorplus="0.600">3.300</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.180</metallicity>
+		<spectraltype>G1 V</spectraltype>
 		<planet>
 			<name>HD 196067 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.9</mass>
-			<period>3638</period>
-			<semimajoraxis>5.02</semimajoraxis>
-			<eccentricity>0.66</eccentricity>
-			<periastron>148.2</periastron>
+			<mass errorminus="1.10000" errorplus="3.90000" type="Msini">6.90000</mass>
+			<period errorminus="185.00000000" errorplus="232.00000000">3638.00000000</period>
+			<semimajoraxis errorminus="0.190000" errorplus="0.190000">5.020000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.180000">0.660000</eccentricity>
+			<periastron errorminus="7.8000" errorplus="7.8000">148.2000</periastron>
+			<periastrontime errorminus="225.000000" errorplus="225.000000">2453375.000000</periastrontime>
+			<maximumrvtime errorminus="225.000000" errorplus="225.000000">2453375.000000</maximumrvtime>
 			<temperature>177.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,29 +2,34 @@
 	<name>HD 179949</name>
 	<rightascension>19 15 33</rightascension>
 	<declination>-24 10 45</declination>
-	<distance>27</distance>
+	<distance errorminus="0.60" errorplus="0.57">27.05</distance>
 	<star>
 		<name>HD 179949</name>
-		<mass>1.28</mass>
+		<mass>1.21</mass>
 		<radius>1.19</radius>
-		<magV>6.25</magV>
-		<magB>6.757</magB>
+		<magV>6.250</magV>
+		<magB>6.780</magB>
 		<magJ errorminus="0.027" errorplus="0.027">5.296</magJ>
-		<magH errorminus="0.04" errorplus="0.04">5.10</magH>
+		<magH errorminus="0.044" errorplus="0.044">5.101</magH>
 		<magK errorminus="0.018" errorplus="0.018">4.936</magK>
-		<temperature>6260.0</temperature>
-		<metallicity>0.22</metallicity>
+		<temperature errorminus="43.0" errorplus="43.0">6168.00</temperature>
+		<age>2.05</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.137</metallicity>
 		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 179949 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.95</mass>
-			<period>3.0925</period>
-			<semimajoraxis>0.045</semimajoraxis>
-			<eccentricity>0.022</eccentricity>
+			<mass errorminus="0.07600" errorplus="0.07600" type="Msini">0.91600</mass>
+			<radius>1.05</radius>
+			<period errorminus="0.00003200" errorplus="0.00003200">3.09251400</period>
+			<semimajoraxis errorminus="0.002600" errorplus="0.002600">0.044300</semimajoraxis>
+			<eccentricity errorminus="0.015000" errorplus="0.015000">0.022000</eccentricity>
+			<periastron errorminus="63.4" errorplus="63.4">192.0000</periastron>
+			<periastrontime errorminus="0.440000" errorplus="0.440000">2451002.360000</periastrontime>
+			<maximumrvtime errorminus="0.440000" errorplus="0.440000">2451002.360000</maximumrvtime>
 			<temperature>1419.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/09/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 		</planet>
 	</star>

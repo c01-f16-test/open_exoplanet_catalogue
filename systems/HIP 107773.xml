@@ -1,7 +1,7 @@
 <system>
 	<name>HIP 107773</name>
-	<rightascension>21 50 00.12563</rightascension>
-	<declination>-64 42 45.1275</declination>
+	<rightascension>21 50 00</rightascension>
+	<declination>-64 42 45</declination>
 	<distance errorminus="4" errorplus="4">104</distance>
 	<star>
 		<name>HIP 107773</name>
@@ -11,15 +11,15 @@
 		<name>PPM 365403</name>
 		<name>TYC 9119-2234-1</name>
 		<mass errorminus="0.27" errorplus="0.27">2.42</mass>
-		<radius errorminus="1.4" errorplus="1.4">11.6</radius>
-		<magV>5.628</magV>
-		<magB>6.632</magB>
+		<radius errorminus="1.40" errorplus="1.40">11.60</radius>
+		<magV>5.620</magV>
+		<magB>6.640</magB>
 		<magJ errorminus="0.232" errorplus="0.232">3.942</magJ>
 		<magH errorminus="0.218" errorplus="0.218">3.366</magH>
 		<magK errorminus="0.250" errorplus="0.250">3.292</magK>
-		<temperature errorminus="100" errorplus="100">4945</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.03</metallicity>
-		<spectraltype>K1III</spectraltype>
+		<temperature errorminus="100.00" errorplus="100.00">4945.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">0.030</metallicity>
+		<spectraltype>K1 III</spectraltype>
 		<planet>
 			<name>HIP 107773 b</name>
 			<name>HR 8331 b</name>
@@ -28,14 +28,16 @@
 			<name>PPM 365403 b</name>
 			<name>TYC 9119-2234-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.21" errorplus="0.21">1.98</mass>
-			<period errorminus="0.5" errorplus="0.5">144.3</period>
-			<semimajoraxis errorminus="0.03" errorplus="0.03">0.72</semimajoraxis>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
-			<periastrontime errorminus="12.8" errorplus="12.8">2456202.3</periastrontime>
+			<mass errorminus="0.21000" errorplus="0.21000" type="Msini">1.98000</mass>
+			<period errorminus="0.50000000" errorplus="0.50000000">144.30000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">0.720000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.090000</eccentricity>
+			<periastron errorminus="32.6000" errorplus="32.6000">166.0000</periastron>
+			<periastrontime errorminus="12.800000" errorplus="12.800000">2456202.300000</periastrontime>
+			<maximumrvtime errorminus="12.800000" errorplus="12.800000">2456202.300000</maximumrvtime>
 			<description>HIP 107773 is one of the most massive stars known to host a planetary system having a close-in planet.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

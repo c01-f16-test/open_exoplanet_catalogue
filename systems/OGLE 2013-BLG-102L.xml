@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2013-BLG-102L</name>
+	<rightascension>17 52 07</rightascension>
+	<declination>-31 41 26</declination>
+	<distance errorminus="310.00" errorplus="310.00">3040.00</distance>
+	<star>
+		<name>OGLE 2013-BLG-102L</name>
+		<mass errorminus="0.01" errorplus="0.01">0.10</mass>
+		<planet>
+			<name>OGLE 2013-BLG-102L b</name>
+			<mass errorminus="2.09500" errorplus="2.09500" type="Mass">12.56900</mass>
+			<semimajoraxis errorminus="0.080000" errorplus="0.080000">0.800000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

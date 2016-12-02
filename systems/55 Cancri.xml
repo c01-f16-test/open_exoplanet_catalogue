@@ -1,9 +1,9 @@
 <system>
 	<name>55 Cancri</name>
 	<name>55 Cnc</name>
-	<rightascension>08 52 35.81093</rightascension>
-	<declination>+28 19 50.9511</declination>
-	<distance errorminus="0.11" errorplus="0.11">12.34</distance>
+	<rightascension>08 52 35</rightascension>
+	<declination>+28 19 50</declination>
+	<distance errorminus="0.13" errorplus="0.13">12.53</distance>
 	<binary>
 		<name>55 Cancri</name>
 		<name>55 Cnc</name>
@@ -67,7 +67,7 @@
 				<longitude errorminus="0.22" errorplus="0.22">61.44</longitude>
 				<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/01/26</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>1996</discoveryyear>
 			</planet>
 			<planet>
@@ -88,7 +88,7 @@
 				<longitude errorminus="2.0" errorplus="2.0">228.4</longitude>
 				<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/01/26</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 			</planet>
 			<planet>
@@ -109,7 +109,7 @@
 				<longitude errorminus="0.81" errorplus="0.81">291.78</longitude>
 				<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/01/26</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 			</planet>
 			<planet>
@@ -134,7 +134,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.0018" errorplus="0.0017" unit="BJD">2455962.0697</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>15/06/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 			</planet>
 			<planet>
@@ -155,7 +155,7 @@
 				<longitude errorminus="5.1" errorplus="5.1">185.6</longitude>
 				<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/07</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 			</planet>
 		</star>
@@ -180,4 +180,250 @@
 			<spectraltype>M4</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>55 Cancri A</name>
+		<name>55 Cnc A</name>
+		<name>rho01 Cnc A</name>
+		<name>Rho-1 Cancri A</name>
+		<name>ρ1 Cnc A</name>
+		<name>ρ1 Cancri A</name>
+		<name>HD 75732</name>
+		<name>HIP 43587</name>
+		<name>TYC 1949-2012-1</name>
+		<name>SAO 80478</name>
+		<name>HR 3522</name>
+		<name>Gliese 324 A</name>
+		<name>GJ 324 A</name>
+		<name>BD+28 1660 A</name>
+		<name>2MASS J08523579+2819509</name>
+		<name>WDS J08526+2820 A</name>
+		<name>LDS 6219 A</name>
+		<mass errorminus="0.067" errorplus="0.067">0.960</mass>
+		<radius errorminus="0.018" errorplus="0.018">0.960</radius>
+		<magV errorminus="0.05" errorplus="0.05">5.95</magV>
+		<magB>6.82</magB>
+		<magR>5.4</magR>
+		<magI>5.0</magI>
+		<magJ errorminus="0.244" errorplus="0.244">4.768</magJ>
+		<magH errorminus="0.234" errorplus="0.234">4.265</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.015</magK>
+		<temperature errorminus="26" errorplus="26">5219</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+		<spectraltype>K0V</spectraltype>
+		<planet>
+			<name>55 Cnc b</name>
+			<name>rho01 Cnc b</name>
+			<name>ρ1 Cnc b</name>
+			<name>HR 3522 b</name>
+			<name>55 Cnc A b</name>
+			<name>rho01 Cnc A b</name>
+			<name>ρ1 Cnc A b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.0033" errorplus="0.0033" type="msini">0.8306</mass>
+			<period errorminus="0.00015" errorplus="0.00015">14.65152</period>
+			<semimajoraxis errorminus="0.00000079" errorplus="0.00000079">0.11522725</semimajoraxis>
+			<eccentricity errorminus="0.0032" errorplus="0.0032">0.0034</eccentricity>
+			<periastron errorminus="53" errorplus="53">98</periastron>
+			<longitude errorminus="0.22" errorplus="0.22">61.44</longitude>
+			<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc c</name>
+			<name>rho01 Cnc c</name>
+			<name>ρ1 Cnc c</name>
+			<name>HR 3522 c</name>
+			<name>55 Cnc A c</name>
+			<name>rho01 Cnc A c</name>
+			<name>ρ1 Cnc A c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.0055" errorplus="0.0055">0.1714</mass>
+			<period errorminus="0.000073" errorplus="0.000073">44.4175</period>
+			<semimajoraxis errorminus="0.000026" errorplus="0.000026">0.241376</semimajoraxis>
+			<eccentricity errorminus="0.031" errorplus="0.031">0.020</eccentricity>
+			<periastron errorminus="84" errorplus="84">51</periastron>
+			<longitude errorminus="2.0" errorplus="2.0">228.4</longitude>
+			<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc d</name>
+			<name>rho01 Cnc d</name>
+			<name>ρ1 Cnc d</name>
+			<name>HR 3522 d</name>
+			<name>55 Cnc A d</name>
+			<name>rho01 Cnc A d</name>
+			<name>ρ1 Cnc A d</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.068" errorplus="0.068">3.878</mass>
+			<period errorminus="39" errorplus="39">4825</period>
+			<semimajoraxis errorminus="0.30" errorplus="0.30">5.503</semimajoraxis>
+			<eccentricity errorminus="0.013" errorplus="0.013">0.019</eccentricity>
+			<periastron errorminus="31" errorplus="31">44</periastron>
+			<longitude errorminus="0.81" errorplus="0.81">291.78</longitude>
+			<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc e</name>
+			<name>rho01 Cnc e</name>
+			<name>ρ1 Cnc e</name>
+			<name>HR 3522 e</name>
+			<name>55 Cnc A e</name>
+			<name>rho01 Cnc A e</name>
+			<name>ρ1 Cnc A e</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.00098" errorplus="0.00098">0.0254</mass>
+			<radius errorminus="0.0073" errorplus="0.0073">0.1746</radius>
+			<period errorminus="0.0000015" errorplus="0.0000015">0.7365515</period>
+			<semimajoraxis errorminus="0.000000021" errorplus="0.000000021">0.015690907</semimajoraxis>
+			<eccentricity errorminus="0.027" errorplus="0.027">0.040</eccentricity>
+			<periastron errorminus="42" errorplus="42">72</periastron>
+			<longitude errorminus="1.6" errorplus="1.6">134.3</longitude>
+			<inclination>90</inclination>
+			<description>55 Cancri e is a super-Earth which appears to exhibit extreme variations in brightness temperature. The cause of these variations is unknown but may be due to large-scale volcanic activity on the planet. The latest estimates of the planetary radius are compatible with a rocky composition, but a thick water envelope or a carbon-rich composition cannot be ruled out.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0018" errorplus="0.0017" unit="BJD">2455962.0697</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc f</name>
+			<name>rho01 Cnc f</name>
+			<name>ρ1 Cnc f</name>
+			<name>HR 3522 f</name>
+			<name>55 Cnc A f</name>
+			<name>rho01 Cnc A f</name>
+			<name>ρ1 Cnc A f</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.012" errorplus="0.012">0.141</mass>
+			<period errorminus="0.51" errorplus="0.51">262.00</period>
+			<semimajoraxis errorminus="0.0010" errorplus="0.0010">0.7880</semimajoraxis>
+			<eccentricity errorminus="0.075" errorplus="0.075">0.305</eccentricity>
+			<periastron errorminus="15" errorplus="15">166</periastron>
+			<longitude errorminus="5.1" errorplus="5.1">185.6</longitude>
+			<description>55 Cancri is a binary system in the constellation Cancer. 55 Cnc b and c are in a near 1:3 resonance. A dynamical analysis shows that the system has to be almost coplanar in order to be stable for the age the system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>55 Cancri B</name>
+		<name>55 Cnc b</name>
+		<name>rho01 Cnc B</name>
+		<name>Rho-1 Cancri B</name>
+		<name>ρ1 Cnc B</name>
+		<name>ρ1 Cancri B</name>
+		<name>Gliese 324 B</name>
+		<name>GJ 324 B</name>
+		<name>BD+28 1660 B</name>
+		<name>2MASS J08524084+2818589</name>
+		<name>WDS J08526+2820 B</name>
+		<name>LDS 6219 B</name>
+		<mass>0.2</mass>
+		<magV>13</magV>
+		<magJ errorminus="0.027" errorplus="0.027">8.560</magJ>
+		<magH errorminus="0.040" errorplus="0.040">7.933</magH>
+		<magK errorminus="0.023" errorplus="0.023">7.666</magK>
+		<spectraltype>M4</spectraltype>
+	</star>
+	<star>
+		<name>55 Cnc</name>
+		<mass errorminus="0.01" errorplus="0.01">0.91</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.94</radius>
+		<magV errorminus="0.010" errorplus="0.010">5.960</magV>
+		<magB errorminus="0.010" errorplus="0.010">6.830</magB>
+		<magJ errorminus="0.244" errorplus="0.244">4.768</magJ>
+		<magH errorminus="0.234" errorplus="0.234">4.265</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.015</magK>
+		<temperature errorminus="24.00" errorplus="24.00">5196.00</temperature>
+		<age errorminus="2.500" errorplus="2.500">10.200</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.310</metallicity>
+		<spectraltype>G8 V</spectraltype>
+		<planet>
+			<name>55 Cnc b</name>
+			<mass errorminus="0.00330" errorplus="0.00330" type="Mass">0.83060</mass>
+			<period errorminus="0.00015000" errorplus="0.00015000">14.65152000</period>
+			<semimajoraxis errorminus="0.000001" errorplus="0.000001">0.115227</semimajoraxis>
+			<eccentricity errorminus="0.003200" errorplus="0.003200">0.003400</eccentricity>
+			<periastron errorminus="53.0000" errorplus="53.0000">98.0000</periastron>
+			<periastrontime errorminus="2.2" errorplus="2.2">2453035.0</periastrontime>
+			<maximumrvtime errorminus="2.2" errorplus="2.2">2453035.0</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc c</name>
+			<mass errorminus="0.00550" errorplus="0.00550" type="Mass">0.17140</mass>
+			<period errorminus="0.00730000" errorplus="0.00730000">44.41750000</period>
+			<semimajoraxis errorminus="0.000026" errorplus="0.000026">0.241376</semimajoraxis>
+			<eccentricity errorminus="0.031000" errorplus="0.031000">0.020000</eccentricity>
+			<periastron errorminus="84.0000" errorplus="84.0000">51.0000</periastron>
+			<periastrontime errorminus="3.3" errorplus="3.3">2449989.3385</periastrontime>
+			<maximumrvtime errorminus="3.3" errorplus="3.3">2449989.3385</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc d</name>
+			<mass errorminus="0.06800" errorplus="0.06800" type="Mass">3.87800</mass>
+			<period errorminus="39.00000000" errorplus="39.00000000">4825.00000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">5.503000</semimajoraxis>
+			<eccentricity errorminus="0.013000" errorplus="0.013000">0.019000</eccentricity>
+			<periastron errorminus="31.0000" errorplus="31.0000">44.0000</periastron>
+			<periastrontime errorminus="230.0" errorplus="230.0">2452500.6</periastrontime>
+			<maximumrvtime errorminus="230.0" errorplus="230.0">2452500.6</maximumrvtime>
+			<inclination errorminus="6.8" errorplus="6.8">90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc e</name>
+			<mass errorminus="0.00098" errorplus="0.00098" type="Mass">0.02542</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.170</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">0.73653900</period>
+			<semimajoraxis errorminus="0.000090" errorplus="0.000090">0.015440</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
+			<periastron errorminus="130.0" errorplus="130.0">170.0</periastron>
+			<periastrontime errorminus="0.0001" errorplus="0.0001">2449999.83643</periastrontime>
+			<maximumrvtime errorminus="0.0001" errorplus="0.0001">2449999.83643</maximumrvtime>
+			<inclination errorminus="0.800" errorplus="0.900">83.300</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus=".000007" errorplus="0.000007" unit="BJD-TDB">2455733.013000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+		<planet>
+			<name>55 Cnc f</name>
+			<mass errorminus="0.01200" errorplus="0.01200" type="Mass">0.14100</mass>
+			<period errorminus="0.51000000" errorplus="0.51000000">262.00000000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.788000</semimajoraxis>
+			<eccentricity errorminus="0.075000" errorplus="0.075000">0.305000</eccentricity>
+			<periastron errorminus="15.0000" errorplus="15.0000">166.0000</periastron>
+			<periastrontime errorminus="1.1" errorplus="1.1">2450080.9108</periastrontime>
+			<maximumrvtime errorminus="1.1" errorplus="1.1">2450080.9108</maximumrvtime>
+			<inclination>90.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
 </system>

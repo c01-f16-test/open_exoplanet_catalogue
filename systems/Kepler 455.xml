@@ -1,0 +1,54 @@
+<system>
+	<name>Kepler 455</name>
+	<name>KIC 3558849</name>
+	<name>KOI-4307</name>
+	<name>Kepler-455</name>
+	<rightascension>19 39 47</rightascension>
+	<declination>+38 36 18</declination>
+	<star>
+		<name>Kepler 455</name>
+		<name>KIC 3558849</name>
+		<name>WISE J193947.96+383618.7</name>
+		<name>2MASS J19394796+3836186</name>
+		<name>KOI-4307</name>
+		<name>Kepler-455</name>
+		<mass errorminus="0.11" errorplus="0.11">0.98</mass>
+		<radius errorminus="0.11" errorplus="0.11">1.01</radius>
+		<magV>14.218</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.093</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.819</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.767</magK>
+		<temperature errorminus="194.00" errorplus="168.00">6175.00</temperature>
+		<metallicity errorminus="0.300" errorplus="0.280">-0.420</metallicity>
+		<planet>
+			<name>Kepler-455 b</name>
+			<name>2MASS J19394796+3836186 b</name>
+			<name>WISE J193947.96+383618.7 b</name>
+			<name>KIC 3558849 b</name>
+			<name>KOI-4307 b</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.080" errorplus="0.089">0.616</radius>
+			<period errorminus="11.20000000" errorplus="386.10000000">1322.30000000</period>
+			<inclination errorminus="0.031" errorplus="0.023">89.973</inclination>
+			<description>The planet KIC 3558849 b was discovered and validated by the Planet Hunters project in 2015. Only one transit has been observed for this planet. The planet is validated with a confidence of 0.997.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".300000" errorplus="0.440000" unit="BJD">2455112.920000</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-4307.01</name>
+			<list>Controversial</list>
+			<radius errorminus="0.0232" errorplus="0.0803">0.2097</radius>
+			<period errorminus="0.003187" errorplus="0.003187">160.850816</period>
+			<inclination>89.38</inclination>
+			<description>KOI-4307.01 is an unconfirmed planet candidate observed orbiting KIC 3558849.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0134" errorplus="0.0134" unit="BJD">2454977.5</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

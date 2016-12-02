@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-490</name>
 	<rightascension>19 40 06</rightascension>
-	<declination>+46 57 22</declination>
+	<declination>+46 57 21</declination>
+	<distance errorminus="153.14" errorplus="353.01">1249.00</distance>
 	<star>
 		<name>Kepler-490</name>
 		<mass errorminus="0.07" errorplus="0.10">1.08</mass>
 		<radius errorminus="0.13" errorplus="0.32">1.12</radius>
-		<temperature errorminus="126.8" errorplus="142.4">6045.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.13">-0.02</metallicity>
+		<magV>14.879</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.819</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.502</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.469</magK>
+		<temperature errorminus="126.76" errorplus="142.42">6045.00</temperature>
+		<age errorminus="1.710" errorplus="1.800">3.470</age>
+		<metallicity errorminus="0.177" errorplus="0.132">-0.020</metallicity>
 		<planet>
 			<name>Kepler-490 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.123" errorplus="0.294">1.039</radius>
-			<period errorminus="0.000000230" errorplus="0.000000230">3.268695150</period>
+			<period errorminus="0.00000023" errorplus="0.00000023">3.26869515</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000057" errorplus="0.000057" unit="JD">2454970.481707</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

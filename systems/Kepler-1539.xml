@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1539</name>
-	<rightascension>18 56 53</rightascension>
-	<declination>+44 16 07</declination>
+	<rightascension>18 56 52</rightascension>
+	<declination>+44 16 06</declination>
+	<distance errorminus="45.67" errorplus="47.63">788.00</distance>
 	<star>
 		<name>Kepler-1539</name>
 		<mass errorminus="0.04" errorplus="0.04">0.84</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.80</radius>
-		<temperature errorminus="58.0" errorplus="55.5">5176.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.01</metallicity>
+		<magV>15.307</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.931</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.500</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.382</magK>
+		<temperature errorminus="57.95" errorplus="55.53">5176.00</temperature>
+		<age errorminus="2.870" errorplus="6.080">4.790</age>
+		<metallicity errorminus="0.171" errorplus="0.156">-0.010</metallicity>
 		<planet>
 			<name>Kepler-1539 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.017">0.241</radius>
-			<period errorminus="0.000884300" errorplus="0.000884300">133.303674100</period>
+			<period errorminus="0.00088430" errorplus="0.00088430">133.30367410</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005660" errorplus="0.005660" unit="JD">2455000.755900</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,32 @@
+<system>
+	<name>HD 221585</name>
+	<rightascension>23 32 54</rightascension>
+	<declination>+63 09 19</declination>
+	<distance errorminus="2.06" errorplus="1.91">53.59</distance>
+	<star>
+		<name>HD 221585</name>
+		<mass errorminus="0.12" errorplus="0.12">1.19</mass>
+		<magV errorminus="0.010" errorplus="0.010">7.465</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.228</magB>
+		<magJ errorminus="0.030" errorplus="0.030">6.157</magJ>
+		<magH errorminus="0.034" errorplus="0.034">5.841</magH>
+		<magK errorminus="0.029" errorplus="0.029">5.781</magK>
+		<temperature errorminus="27.00" errorplus="27.00">5620.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">6.200</age>
+		<metallicity errorminus="0.020" errorplus="0.020">0.290</metallicity>
+		<spectraltype>G8 IV</spectraltype>
+		<planet>
+			<name>HD 221585 b</name>
+			<mass errorminus="0.14000" errorplus="0.14000" type="Msini">1.61000</mass>
+			<period errorminus="16.00000000" errorplus="16.00000000">1173.00000000</period>
+			<semimajoraxis errorminus="0.081000" errorplus="0.081000">2.306000</semimajoraxis>
+			<eccentricity errorminus="0.069000" errorplus="0.069000">0.123000</eccentricity>
+			<periastron errorminus="28.0000" errorplus="28.0000">-6.8000</periastron>
+			<periastrontime errorminus="93.000000" errorplus="93.000000">2455050.000000</periastrontime>
+			<maximumrvtime errorminus="93.000000" errorplus="93.000000">2455050.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

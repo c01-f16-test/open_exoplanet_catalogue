@@ -2,30 +2,33 @@
 	<name>HD 8535</name>
 	<rightascension>01 23 37</rightascension>
 	<declination>-41 16 11</declination>
-	<distance>52.5</distance>
+	<distance errorminus="1.60" errorplus="1.70">52.50</distance>
 	<star>
 		<name>HD 8535</name>
 		<mass>1.13</mass>
-		<radius>1.19</radius>
-		<magV>7.7</magV>
-		<magB errorminus="0.01" errorplus="0.01">8.25</magB>
+		<radius errorminus="0.04" errorplus="0.04">1.19</radius>
+		<magV>7.700</magV>
+		<magB errorminus="0.01" errorplus="0.01">8.253</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.735</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.449</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.354</magK>
-		<temperature>6136.0</temperature>
-		<metallicity>0.02</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<temperature errorminus="18.00" errorplus="18.00">6136.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">0.060</metallicity>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 8535 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<period>1313</period>
-			<semimajoraxis>2.45</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.07000" type="Msini">0.68000</mass>
+			<period errorminus="28.00000000" errorplus="28.00000000">1313.00000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.040000">2.450000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.090000">0.150000</eccentricity>
+			<periastron errorminus="43.0000" errorplus="18.0000">61.0000</periastron>
+			<periastrontime errorminus="92.000000" errorplus="92.000000">2454537.000000</periastrontime>
+			<maximumrvtime errorminus="92.000000" errorplus="92.000000">2454537.000000</maximumrvtime>
 			<temperature>188.3</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

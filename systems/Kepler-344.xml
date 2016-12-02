@@ -9,12 +9,14 @@
 		<name>Kepler-344</name>
 		<name>KOI-1970</name>
 		<name>KIC 9650808</name>
-		<mass errorminus="0.2000" errorplus="0.2000">0.9300</mass>
-		<radius errorminus=".454" errorplus="0.454">0.976</radius>
+		<mass errorminus="0.2000" errorplus="0.2000">0.90</mass>
+		<radius errorminus="0.45" errorplus="0.45">0.98</radius>
+		<magV>15.378</magV>
 		<magJ errorminus="0.025" errorplus="0.025">14.082</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.71</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.66</magK>
-		<temperature errorminus="200" errorplus="200">5774</temperature>
+		<magH errorminus="0.031" errorplus="0.031">13.709</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.660</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5774.00</temperature>
+		<metallicity>-0.097</metallicity>
 		<planet>
 			<name>Kepler-344 b</name>
 			<name>KOI-1970 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9650808 b</name>
 			<name>KIC 9650808.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.11118">0.23785</radius>
-			<period errorminus=".000108" errorplus="0.000108">21.963945</period>
+			<radius errorminus="0.109" errorplus="0.109">0.233</radius>
+			<period errorminus="0.00010800" errorplus="0.00010800">21.96394500</period>
+			<semimajoraxis>0.153000</semimajoraxis>
 			<description>Kepler-344 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-344 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0028700" errorplus="0.0028700">2454966.0364800</transittime>
+			<transittime errorminus=".002870" errorplus="0.002870" unit="BJD">2454966.036480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9650808 c</name>
 			<name>KIC 9650808.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03463" errorplus="0.12576">0.26883</radius>
-			<period errorminus=".001728" errorplus="0.001728">125.596809</period>
+			<radius errorminus="0.123" errorplus="0.123">0.263</radius>
+			<period errorminus="0.00172800" errorplus="0.00172800">125.59680900</period>
+			<semimajoraxis>0.488000</semimajoraxis>
 			<description>Kepler-344 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-344 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0054600" errorplus="0.0054600">2455048.4416700</transittime>
+			<transittime errorminus=".005460" errorplus="0.005460" unit="BJD">2455048.441670</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

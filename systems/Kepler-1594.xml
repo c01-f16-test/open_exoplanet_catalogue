@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1594</name>
-	<rightascension>19 34 30</rightascension>
-	<declination>+47 57 43</declination>
+	<rightascension>19 34 29</rightascension>
+	<declination>+47 57 42</declination>
+	<distance errorminus="118.27" errorplus="267.41">1100.00</distance>
 	<star>
 		<name>Kepler-1594</name>
 		<mass errorminus="0.07" errorplus="0.07">1.06</mass>
 		<radius errorminus="0.11" errorplus="0.26">1.08</radius>
-		<temperature errorminus="125.4" errorplus="94.8">5946.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.03</metallicity>
+		<magV>14.801</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.649</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.344</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.322</magK>
+		<temperature errorminus="125.41" errorplus="94.80">5946.00</temperature>
+		<age errorminus="2.100" errorplus="2.010">3.890</age>
+		<metallicity errorminus="0.167" errorplus="0.140">0.030</metallicity>
 		<planet>
 			<name>Kepler-1594 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.011" errorplus="0.023">0.095</radius>
-			<period errorminus="0.000013550" errorplus="0.000013550">2.716038090</period>
+			<period errorminus="0.00001355" errorplus="0.00001355">2.71603809</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004330" errorplus="0.004330" unit="JD">2454965.359130</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

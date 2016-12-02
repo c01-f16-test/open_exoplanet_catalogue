@@ -2,36 +2,44 @@
 	<name>HD 65216</name>
 	<rightascension>07 53 41</rightascension>
 	<declination>-63 38 50</declination>
-	<distance>34.3</distance>
+	<distance errorminus="0.90" errorplus="0.85">35.59</distance>
 	<star>
 		<name>HD 65216</name>
 		<mass>0.92</mass>
-		<magV>7.98</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.65</magB>
-		<temperature>5666.0</temperature>
-		<metallicity>-0.12</metallicity>
+		<magV errorminus="0.011" errorplus="0.011">7.964</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.654</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.763</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.420</magH>
+		<magK errorminus="0.027" errorplus="0.027">6.329</magK>
+		<temperature>5666.00</temperature>
+		<metallicity>-0.120</metallicity>
 		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 65216 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.21</mass>
-			<period>613.1</period>
-			<semimajoraxis>1.37</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.04000" type="Msini">1.26000</mass>
+			<period errorminus="2.10000000" errorplus="2.10000000">572.40000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.300000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.000000</eccentricity>
+			<periastron errorminus="41.0000" errorplus="41.0000">0.0000</periastron>
+			<periastrontime errorminus="25.0" errorplus="25.0">50762.0</periastrontime>
+			<maximumrvtime errorminus="25.0" errorplus="25.0">50762.0</maximumrvtime>
 			<temperature>193.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 65216 c</name>
 			<list>Confirmed planets</list>
-			<mass>2.24</mass>
-			<period>5542</period>
-			<eccentricity>0.15</eccentricity>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">0.17000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">152.60000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.540000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.020000</eccentricity>
+			<periastron errorminus="54.0000" errorplus="54.0000">0.0000</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

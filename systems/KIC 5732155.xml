@@ -1,0 +1,24 @@
+<system>
+	<name>KIC 5732155</name>
+	<declination>+40 54 24</declination>
+	<star>
+		<name>KIC 5732155</name>
+		<mass errorminus="0.22" errorplus="0.14">1.13</mass>
+		<radius errorminus="0.44" errorplus="0.36">1.99</radius>
+		<magV>15.5</magV>
+		<temperature errorminus="155.0" errorplus="430.0">5755.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<planet>
+			<name>KIC 5732155 b</name>
+			<radius errorminus="0.23" errorplus="0.23">1.14</radius>
+			<period errorminus="0.014" errorplus="0.014">644.1685</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">1.52</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.08">89.76</inclination>
+			<temperature>301.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

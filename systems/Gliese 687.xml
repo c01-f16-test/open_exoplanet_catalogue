@@ -1,36 +1,39 @@
 <system>
 	<name>Gliese 687</name>
 	<name>GJ 687</name>
-	<rightascension>17 36 25.89973</rightascension>
-	<declination>+68 20 20.9108</declination>
-	<distance errorminus="0.115" errorplus="0.115">4.5</distance>
+	<rightascension>17 36 25</rightascension>
+	<declination>+68 20 20</declination>
+	<distance errorminus="0.02" errorplus="0.02">4.53</distance>
 	<star>
 		<name>Gliese 687</name>
 		<name>GJ 687</name>
 		<name>LHS 450</name>
 		<name>BD+68 946</name>
 		<name>HIP 86162</name>
-		<mass errorminus="0.041" errorplus="0.041">0.413</mass>
-		<radius errorminus="0.0070" errorplus="0.0070">0.4183</radius>
-		<magV>9.15</magV>
-		<magB>10.65</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.41</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.42</radius>
+		<magV>9.150</magV>
+		<magB errorminus="0.025" errorplus="0.025">10.640</magB>
 		<magR>8.3</magR>
 		<magI>7.5</magI>
-		<magJ>5.335</magJ>
-		<magH>4.77</magH>
-		<magK>4.548</magK>
-		<temperature errorminus="28" errorplus="28">3413</temperature>
-		<spectraltype>M3V</spectraltype>
+		<magJ errorminus="0.021" errorplus="0.021">5.335</magJ>
+		<magH errorminus="0.033" errorplus="0.033">4.766</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.548</magK>
+		<temperature errorminus="28.00" errorplus="28.00">3413.00</temperature>
+		<spectraltype>M3 V</spectraltype>
 		<planet>
 			<name>Gliese 687 b</name>
 			<name>GJ 687 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.007" errorplus="0.007">0.058</mass>
-			<period errorminus="0.015" errorplus="0.015">38.14</period>
-			<semimajoraxis errorminus="0.000043" errorplus="0.000043">0.16353</semimajoraxis>
-			<eccentricity errorminus="0.076" errorplus="0.076">0.04</eccentricity>
+			<mass errorminus="0.00700" errorplus="0.00700" type="Msini">0.05800</mass>
+			<period errorminus="0.01500000" errorplus="0.01500000">38.14000000</period>
+			<semimajoraxis errorminus="0.000043" errorplus="0.000043">0.163530</semimajoraxis>
+			<eccentricity errorminus="0.076000" errorplus="0.076000">0.040000</eccentricity>
+			<periastron errorminus="120.5430" errorplus="120.5430">359.4300</periastron>
+			<periastrontime errorminus="9.320000" errorplus="9.320000">2450579.110000</periastrontime>
+			<maximumrvtime errorminus="9.320000" errorplus="9.320000">2450579.110000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/05/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

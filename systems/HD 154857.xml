@@ -2,41 +2,49 @@
 	<name>HD 154857</name>
 	<rightascension>17 11 15</rightascension>
 	<declination>-56 40 50</declination>
-	<distance errorminus="3.1" errorplus="3.1">64.2</distance>
+	<distance errorminus="4.56" errorplus="4.02">68.54</distance>
 	<star>
 		<name>HD 154857</name>
-		<mass errorminus="0.022" errorplus="0.03">1.718</mass>
-		<radius errorminus="0.1" errorplus="0.17">2.31</radius>
-		<magV>7.25</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.93</magB>
-		<temperature>5508</temperature>
-		<metallicity>-0.31</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<mass errorminus="0.02" errorplus="0.03">1.72</mass>
+		<radius errorminus="0.06" errorplus="0.06">1.76</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.238</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.935</magB>
+		<magJ errorminus="0.018" errorplus="0.018">5.938</magJ>
+		<magH errorminus="0.038" errorplus="0.038">5.588</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.509</magK>
+		<temperature>5605.00</temperature>
+		<age>5.6</age>
+		<metallicity>-0.200</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 154857 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05">2.24</mass>
-			<period errorminus="0.5" errorplus="0.5">408.6</period>
-			<semimajoraxis errorminus="0.008" errorplus="0.008">1.291</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.46</eccentricity>
-			<periastron errorminus="4" errorplus="4">57</periastron>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">2.24000</mass>
+			<period errorminus="0.50000000" errorplus="0.50000000">408.60000000</period>
+			<semimajoraxis errorminus="0.008000" errorplus="0.008000">1.291000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.460000</eccentricity>
+			<periastron errorminus="4.0000" errorplus="4.0000">57.0000</periastron>
+			<periastrontime errorminus="2.400000" errorplus="2.400000">2453572.500000</periastrontime>
+			<maximumrvtime errorminus="2.400000" errorplus="2.400000">2453572.500000</maximumrvtime>
 			<temperature>336.0</temperature>
 			<description>HD 114613 b is a Jupiter-mass planet in a multiplanery system. A stability analysis shows that the system is stable for at least 100 million years. The planet was discovered by the Anglo-Australian Planet Search group.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 154857 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.16" errorplus="0.16">2.58</mass>
-			<period errorminus="105" errorplus="105">3452</period>
-			<semimajoraxis errorminus="0.09" errorplus="0.09">5.36</semimajoraxis>
-			<eccentricity errorminus="0.05" errorplus="0.05">0.06</eccentricity>
-			<periastron errorminus="37" errorplus="37">352</periastron>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Msini">2.58000</mass>
+			<period errorminus="105.00000000" errorplus="105.00000000">3452.00000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">5.360000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.060000</eccentricity>
+			<periastron errorminus="37.0000" errorplus="37.0000">352.0000</periastron>
+			<periastrontime errorminus="375.000000" errorplus="375.000000">2455219.000000</periastrontime>
+			<maximumrvtime errorminus="375.000000" errorplus="375.000000">2455219.000000</maximumrvtime>
 			<description>HD 154857 c is a Jupiter analogue with a period of 9.5 years. The planet is part of a multi-planetary system and was discovered by the Anglo-Australian Planet Search group.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

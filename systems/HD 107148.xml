@@ -2,29 +2,33 @@
 	<name>HD 107148</name>
 	<rightascension>12 19 13</rightascension>
 	<declination>-03 19 11</declination>
-	<distance>51.3</distance>
+	<distance errorminus="2.77" errorplus="2.50">51.26</distance>
 	<star>
 		<name>HD 107148</name>
 		<mass>1.12</mass>
-		<magV>8.01</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.72</magB>
+		<magV errorminus="0.012" errorplus="0.012">8.015</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.717</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.858</magJ>
-		<magH errorminus="0.046" errorplus="0.046">6.604</magH>
+		<magH errorminus="0.045" errorplus="0.045">6.604</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.474</magK>
-		<temperature>5797.0</temperature>
+		<temperature>5797.00</temperature>
+		<age>5.6</age>
 		<metallicity>0.314</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 107148 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.21</mass>
-			<period>48.056</period>
-			<semimajoraxis>0.269</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.03600" errorplus="0.03600" type="Msini">0.21000</mass>
+			<period errorminus="0.05700000" errorplus="0.05700000">48.05600000</period>
+			<semimajoraxis errorminus="0.016000" errorplus="0.016000">0.269000</semimajoraxis>
+			<eccentricity errorminus="0.170000" errorplus="0.170000">0.050000</eccentricity>
+			<periastron>75.0000</periastron>
+			<periastrontime errorminus="12.000000" errorplus="12.000000">2439969.000000</periastrontime>
+			<maximumrvtime errorminus="12.000000" errorplus="12.000000">2439969.000000</maximumrvtime>
 			<temperature>537.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>
 </system>

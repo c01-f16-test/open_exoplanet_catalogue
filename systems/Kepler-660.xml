@@ -2,22 +2,29 @@
 	<name>Kepler-660</name>
 	<rightascension>19 12 33</rightascension>
 	<declination>+47 43 28</declination>
+	<distance errorminus="36.50" errorplus="23.98">564.00</distance>
 	<star>
 		<name>Kepler-660</name>
 		<mass errorminus="0.05" errorplus="0.04">0.75</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.71</radius>
-		<temperature errorminus="49.2" errorplus="44.7">4779.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.07</metallicity>
+		<magV>15.302</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.672</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.120</magH>
+		<magK errorminus="0.023" errorplus="0.023">13.033</magK>
+		<temperature errorminus="49.24" errorplus="44.67">4779.00</temperature>
+		<age errorminus="2.720" errorplus="6.000">4.570</age>
+		<metallicity errorminus="0.182" errorplus="0.149">-0.070</metallicity>
 		<planet>
 			<name>Kepler-660 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.010">0.229</radius>
-			<period errorminus="0.000011780" errorplus="0.000011780">9.273581940</period>
+			<period errorminus="0.00001178" errorplus="0.00001178">9.27358194</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000997" errorplus="0.000997" unit="JD">2455006.258019</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 75289</name>
 	<rightascension>08 47 40</rightascension>
 	<declination>-41 44 12</declination>
-	<distance>28.94</distance>
+	<distance errorminus="0.48" errorplus="0.46">28.94</distance>
 	<binary>
 		<separation unit="arcsec">21.5</separation>
 		<separation unit="AU">622</separation>
@@ -29,7 +29,7 @@
 				<eccentricity>0.024</eccentricity>
 				<description>The Sun-like star HD 75289 is located in the constellation Velo. It is part of a binary system. The companion is a red dwarf. It also hosts a gas giant which was detected by Udry et al. in 1999.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>1999</discoveryyear>
 			</planet>
 		</star>
@@ -39,4 +39,63 @@
 			<spectraltype>M3.5V</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 75289 A</name>
+		<mass>1.05</mass>
+		<radius>1.25</radius>
+		<magV>6.35</magV>
+		<magB>6.94</magB>
+		<magJ>5.38</magJ>
+		<magH>5.13</magH>
+		<magK>5.06</magK>
+		<metallicity>0.29</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>HD 75289 A b</name>
+			<name>HD 75289 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.42</mass>
+			<period>3.5098</period>
+			<semimajoraxis>0.046</semimajoraxis>
+			<eccentricity>0.024</eccentricity>
+			<description>The Sun-like star HD 75289 is located in the constellation Velo. It is part of a binary system. The companion is a red dwarf. It also hosts a gas giant which was detected by Udry et al. in 1999.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 75289 B</name>
+		<mass>0.14</mass>
+		<spectraltype>M3.5V</spectraltype>
+	</star>
+	<star>
+		<name>HD 75289</name>
+		<mass>1.21</mass>
+		<radius>1.25</radius>
+		<magV>6.350</magV>
+		<magB>6.928</magB>
+		<magJ errorminus="0.019" errorplus="0.019">5.346</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.187</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.012</magK>
+		<temperature errorminus="45.0" errorplus="45.0">6095.00</temperature>
+		<age>4.96</age>
+		<metallicity>0.217</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 75289 b</name>
+			<mass errorminus="0.04100" errorplus="0.04100" type="Msini">0.46700</mass>
+			<radius>1.03</radius>
+			<period errorminus="0.00006400" errorplus="0.00006400">3.50926700</period>
+			<semimajoraxis errorminus="0.002800" errorplus="0.002800">0.048200</semimajoraxis>
+			<eccentricity errorminus="0.029000" errorplus="0.029000">0.034000</eccentricity>
+			<periastron errorminus="73.9" errorplus="73.9">141.0000</periastron>
+			<periastrontime errorminus="0.480000" errorplus="0.480000">2450830.340000</periastrontime>
+			<maximumrvtime errorminus="0.480000" errorplus="0.480000">2450830.340000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+	</star>
 </system>

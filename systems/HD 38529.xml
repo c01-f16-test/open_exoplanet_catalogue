@@ -2,7 +2,7 @@
 	<name>HD 38529</name>
 	<rightascension>05 46 34</rightascension>
 	<declination>+01 10 05</declination>
-	<distance>39.28</distance>
+	<distance errorminus="1.70" errorplus="1.70">42.40</distance>
 	<binary>
 		<separation unit="arcsec">284</separation>
 		<separation unit="AU">11200</separation>
@@ -34,7 +34,7 @@
 				<inclination>57</inclination>
 				<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 			</planet>
 			<planet>
@@ -50,7 +50,7 @@
 				<inclination>48.3</inclination>
 				<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 			</planet>
 		</star>
@@ -60,4 +60,98 @@
 			<spectraltype>M3.0V</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 38529 A</name>
+		<name>138 G. Orionis A</name>
+		<mass>1.48</mass>
+		<radius>2.44</radius>
+		<magV>5.94</magV>
+		<magB>6.684</magB>
+		<magR>5.4</magR>
+		<magI>5.1</magI>
+		<magJ>4.91</magJ>
+		<magH>4.38</magH>
+		<magK>4.21</magK>
+		<metallicity>0.27</metallicity>
+		<spectraltype>G4 IV</spectraltype>
+		<planet>
+			<name>HD 38529 A b</name>
+			<name>138 G. Orionis A b</name>
+			<name>HD 38529 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.78</mass>
+			<period>14.3104</period>
+			<semimajoraxis>0.131</semimajoraxis>
+			<eccentricity>0.248</eccentricity>
+			<inclination>57</inclination>
+			<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 38529 A c</name>
+			<name>138 G. Orionis A c</name>
+			<name>HD 38529 c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>17.7</mass>
+			<period>2134.76</period>
+			<semimajoraxis>3.695</semimajoraxis>
+			<eccentricity>0.36</eccentricity>
+			<inclination>48.3</inclination>
+			<description>The star system HD 38529 contains a yellow subgiant (the planet hosting star) and a red dwarf. The binary separation is 12000 astronomical units. A debris disc has been detected around the planet hosting star beyond 86 astronomical units.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 38529 B</name>
+		<mass>0.5</mass>
+		<spectraltype>M3.0V</spectraltype>
+	</star>
+	<star>
+		<name>HD 38529</name>
+		<mass errorminus="0.05" errorplus="0.05">1.48</mass>
+		<radius errorminus="0.22" errorplus="0.22">2.44</radius>
+		<magV>5.950</magV>
+		<magB>6.730</magB>
+		<magJ errorminus="0.228" errorplus="0.228">4.905</magJ>
+		<magH errorminus="0.076" errorplus="0.076">4.384</magH>
+		<magK errorminus="0.036" errorplus="0.036">4.211</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5697.00</temperature>
+		<age errorminus="0.3" errorplus="0.3">3.28</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.510</metallicity>
+		<spectraltype>G4 IV</spectraltype>
+		<planet>
+			<name>HD 38529 b</name>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">0.83900</mass>
+			<period errorminus="0.00050000" errorplus="0.00050000">14.30980000</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.131000</semimajoraxis>
+			<eccentricity errorminus="0.015000" errorplus="0.015000">0.257000</eccentricity>
+			<periastron errorminus="3.9000" errorplus="3.9000">92.5000</periastron>
+			<periastrontime errorminus="0.160000" errorplus="0.160000">2454012.640000</periastrontime>
+			<maximumrvtime errorminus="0.160000" errorplus="0.160000">2454012.640000</maximumrvtime>
+			<inclination errorminus="14.0" errorplus="14.0">57.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 38529 c</name>
+			<mass errorminus="0.39000" errorplus="0.39000" type="Msini">13.38000</mass>
+			<period errorminus="5.70000000" errorplus="5.70000000">2140.20000000</period>
+			<semimajoraxis errorminus="0.048000" errorplus="0.048000">3.712000</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.005000">0.341000</eccentricity>
+			<periastron errorminus="1.2000" errorplus="1.2000">17.8000</periastron>
+			<periastrontime errorminus="6.400000" errorplus="6.400000">2452256.400000</periastrontime>
+			<maximumrvtime errorminus="6.400000" errorplus="6.400000">2452256.400000</maximumrvtime>
+			<inclination errorminus="4.0" errorplus="4.0">48.3</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
 </system>

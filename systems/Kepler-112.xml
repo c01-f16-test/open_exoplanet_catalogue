@@ -10,11 +10,13 @@
 		<name>KOI-150</name>
 		<name>KIC 7626506</name>
 		<mass errorminus="0.0940" errorplus="0.0940">0.9460</mass>
-		<radius errorminus=".203" errorplus="0.203">0.841</radius>
+		<radius errorminus="0.20" errorplus="0.20">0.84</radius>
+		<magV>13.771</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.583</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.226</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.155</magK>
-		<temperature errorminus="48" errorplus="148">5544</temperature>
+		<temperature errorminus="148.00" errorplus="148.00">5544.00</temperature>
+		<metallicity>-0.588</metallicity>
 		<planet>
 			<name>Kepler-112 b</name>
 			<name>KOI-150 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7626506 b</name>
 			<name>KIC 7626506.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05194" errorplus="0.05194">0.21507</radius>
-			<period errorminus=".000010" errorplus="0.000010">8.408878</period>
+			<radius errorminus="0.051" errorplus="0.051">0.211</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">8.40887800</period>
+			<semimajoraxis>0.076000</semimajoraxis>
 			<description>Kepler-112 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-112 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006900" errorplus="0.0006900">2454967.0062000</transittime>
+			<transittime errorminus=".000690" errorplus="0.000690" unit="BJD">2454967.006200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7626506 c</name>
 			<name>KIC 7626506.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05286" errorplus="0.05286">0.21871</radius>
-			<period errorminus=".000060" errorplus="0.000060">28.574263</period>
+			<radius errorminus="0.052" errorplus="0.052">0.214</radius>
+			<period errorminus="0.00006000" errorplus="0.00006000">28.57426300</period>
+			<semimajoraxis>0.172000</semimajoraxis>
 			<description>Kepler-112 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-112 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012200" errorplus="0.0012200">2454976.8308000</transittime>
+			<transittime errorminus=".001220" errorplus="0.001220" unit="BJD">2454976.830800</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

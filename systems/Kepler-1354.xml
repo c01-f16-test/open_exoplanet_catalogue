@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1354</name>
-	<rightascension>19 24 59</rightascension>
-	<declination>+37 45 33</declination>
+	<rightascension>19 24 58</rightascension>
+	<declination>+37 45 32</declination>
+	<distance errorminus="171.28" errorplus="409.26">1057.00</distance>
 	<star>
 		<name>Kepler-1354</name>
 		<mass errorminus="0.11" errorplus="0.16">1.16</mass>
 		<radius errorminus="0.19" errorplus="0.49">1.24</radius>
-		<temperature errorminus="202.4" errorplus="136.7">6168.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.03</metallicity>
+		<magV>14.357</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.252</magJ>
+		<magH errorminus="0.026" errorplus="0.026">12.965</magH>
+		<magK errorminus="0.033" errorplus="0.033">12.858</magK>
+		<temperature errorminus="202.44" errorplus="136.72">6168.00</temperature>
+		<age errorminus="1.200" errorplus="1.290">2.950</age>
+		<metallicity errorminus="0.156" errorplus="0.133">0.030</metallicity>
 		<planet>
 			<name>Kepler-1354 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.045" errorplus="0.109">0.265</radius>
-			<period errorminus="0.000777300" errorplus="0.000777300">76.613377000</period>
+			<period errorminus="0.00077730" errorplus="0.00077730">76.61337700</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".010300" errorplus="0.010300" unit="JD">2454986.799900</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -9,12 +9,13 @@
 		<name>KOI-1658</name>
 		<mass errorminus="0.20" errorplus="0.20">1.20</mass>
 		<radius errorminus="0.08" errorplus="0.08">1.32</radius>
+		<magV>13.308</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.343</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.134</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.092</magK>
-		<temperature errorminus="95" errorplus="95">6409</temperature>
-		<metallicity errorminus="0.20" errorplus="0.20">-0.10</metallicity>
-		<spectraltype>G2V</spectraltype>
+		<temperature errorminus="95.00" errorplus="95.00">6409.00</temperature>
+		<metallicity errorminus="0.200" errorplus="0.200">-0.100</metallicity>
+		<spectraltype>F</spectraltype>
 		<planet>
 			<name>Kepler-76 b</name>
 			<name>KOI-1658.01</name>
@@ -22,15 +23,17 @@
 			<name>KIC 4570949 b</name>
 			<name>Einstein's Planet</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.35" errorplus="0.37">2.01</mass>
-			<radius errorminus="0.12" errorplus="0.12">1.36</radius>
-			<period errorminus="0.00000027" errorplus="0.00000027">1.54492875</period>
-			<inclination errorminus="0.2" errorplus="0.2">78</inclination>
+			<mass errorminus="0.35000" errorplus="0.37000" type="Mass">2.01000</mass>
+			<radius errorminus="0.120" errorplus="0.120">1.360</radius>
+			<period errorminus="0.00000040" errorplus="0.00000040">1.54492980</period>
+			<semimajoraxis errorminus="0.001900" errorplus="0.002000">0.027400</semimajoraxis>
+			<inclination errorminus="0.170" errorplus="0.200">77.550</inclination>
+			<temperature errorminus="40" errorplus="40">2140</temperature>
 			<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
-			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00007" errorplus="0.00007" unit="BJD">2454966.54811</transittime>
+			<discoverymethod>Orbital Brightness Modulation</discoverymethod>
+			<transittime errorminus=".000020" errorplus="0.000010" unit="BJD">2454966.548410</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-848</name>
 	<rightascension>19 33 09</rightascension>
-	<declination>+48 48 42</declination>
+	<declination>+48 48 41</declination>
+	<distance errorminus="115.25" errorplus="123.48">797.00</distance>
 	<star>
 		<name>Kepler-848</name>
 		<mass errorminus="0.04" errorplus="0.04">1.01</mass>
 		<radius errorminus="0.17" errorplus="0.18">1.20</radius>
-		<temperature errorminus="79.0" errorplus="70.3">5695.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
+		<magV>14.056</magV>
+		<magJ errorminus="0.019" errorplus="0.019">12.840</magJ>
+		<magH errorminus="0.018" errorplus="0.018">12.484</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.431</magK>
+		<temperature errorminus="79.05" errorplus="70.35">5695.00</temperature>
+		<age errorminus="2.860" errorplus="1.700">8.320</age>
+		<metallicity errorminus="0.084" errorplus="0.079">0.150</metallicity>
 		<planet>
 			<name>Kepler-848 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.028">0.152</radius>
-			<period errorminus="0.000024610" errorplus="0.000024610">6.911344160</period>
+			<period errorminus="0.00002461" errorplus="0.00002461">6.91134416</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002780" errorplus="0.002780" unit="JD">2454969.648100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,22 +2,29 @@
 	<name>Kepler-480</name>
 	<rightascension>19 37 51</rightascension>
 	<declination>+49 45 54</declination>
+	<distance errorminus="61.43" errorplus="83.12">806.00</distance>
 	<star>
 		<name>Kepler-480</name>
 		<mass errorminus="0.04" errorplus="0.05">1.25</mass>
 		<radius errorminus="0.10" errorplus="0.14">1.34</radius>
-		<temperature errorminus="65.0" errorplus="71.6">6322.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.09">0.11</metallicity>
+		<magV>13.273</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.332</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.110</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.065</magK>
+		<temperature errorminus="65.00" errorplus="71.60">6322.00</temperature>
+		<age errorminus="0.774" errorplus="0.669">2.340</age>
+		<metallicity errorminus="0.091" errorplus="0.094">0.110</metallicity>
 		<planet>
 			<name>Kepler-480 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.019" errorplus="0.026">0.248</radius>
-			<period errorminus="0.000004900" errorplus="0.000004900">4.919583800</period>
+			<period errorminus="0.00000490" errorplus="0.00000490">4.91958380</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000799" errorplus="0.000799" unit="JD">2454967.602759</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

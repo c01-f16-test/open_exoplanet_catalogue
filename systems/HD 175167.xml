@@ -1,13 +1,13 @@
 <system>
 	<name>HD 175167</name>
-	<rightascension>19 00 01</rightascension>
+	<rightascension>19 00 00</rightascension>
 	<declination>-69 56 39</declination>
-	<distance>67.02</distance>
+	<distance errorminus="4.35" errorplus="3.85">67.02</distance>
 	<star>
 		<name>HD 175167</name>
 		<mass>1.102</mass>
-		<magV>9.18</magV>
-		<magB errorminus="0.01" errorplus="0.01">8.78</magB>
+		<magV errorminus="0.010" errorplus="0.010">8.000</magV>
+		<magB errorminus="0.015" errorplus="0.015">8.780</magB>
 		<magR>7.89</magR>
 		<magI errorminus="0.03" errorplus="0.03">8.86</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.713</magJ>
@@ -19,14 +19,17 @@
 		<planet>
 			<name>HD 175167 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.8</mass>
-			<period>1290</period>
-			<semimajoraxis>2.4</semimajoraxis>
-			<eccentricity>0.54</eccentricity>
+			<mass errorminus="3.50000" errorplus="3.50000" type="Msini">7.80000</mass>
+			<period errorminus="22.00000000" errorplus="22.00000000">1290.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">2.400000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.090000">0.540000</eccentricity>
+			<periastron errorminus="9.0000" errorplus="9.0000">342.0000</periastron>
+			<periastrontime errorminus="48.000000" errorplus="48.000000">2453598.000000</periastrontime>
+			<maximumrvtime errorminus="48.000000" errorplus="48.000000">2453598.000000</maximumrvtime>
 			<temperature>154.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/26</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

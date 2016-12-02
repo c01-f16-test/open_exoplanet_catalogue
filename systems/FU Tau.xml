@@ -1,31 +1,25 @@
 <system>
 	<name>FU Tau</name>
-	<rightascension>04 23 35.386</rightascension>
-	<declination>+25 03 03.05</declination>
-	<distance>140</distance>
+	<rightascension>04 23 35</rightascension>
+	<declination>+25 02 59</declination>
+	<distance>140.00</distance>
 	<star>
-		<name>FU Tau A</name>
 		<name>FU Tau</name>
 		<mass>0.05</mass>
-		<magB>15.1</magB>
-		<magJ errorminus="0.026" errorplus="0.026">10.781</magJ>
-		<magH errorminus="0.027" errorplus="0.027">9.945</magH>
-		<magK errorminus="0.024" errorplus="0.024">9.324</magK>
-		<temperature>2838.0</temperature>
+		<magJ errorminus="0.115" errorplus="0.115">15.037</magJ>
+		<magH errorminus="0.083" errorplus="0.083">13.913</magH>
+		<magK errorminus="0.098" errorplus="0.098">13.329</magK>
+		<temperature>2838.00</temperature>
+		<age>0.001</age>
 		<spectraltype>M7.25</spectraltype>
 		<planet>
-			<name>FU Tau B</name>
-			<list>Confirmed planets</list>
-			<spectraltype>M9.25</spectraltype>
-			<mass>15</mass>
-			<separation errorminus="0.1" errorplus="0.1" unit="arcsec">5.72</separation>
-			<separation unit="AU">800</separation>
-			<positionangle errorminus="1" errorplus="1">123.2</positionangle>
-			<magK errorminus="0.02" errorplus="0.02">13.20</magK>
+			<name>FU Tau b</name>
+			<mass type="Mass">16.00000</mass>
+			<semimajoraxis>800.000000</semimajoraxis>
 			<temperature>2375</temperature>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/09/19</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,32 +2,46 @@
 	<name>HD 164922</name>
 	<rightascension>18 02 30</rightascension>
 	<declination>+26 18 46</declination>
-	<distance>21.93</distance>
+	<distance errorminus="0.27" errorplus="0.27">22.13</distance>
 	<star>
 		<name>HD 164922</name>
-		<mass>0.94</mass>
-		<radius>0.9</radius>
-		<magV>7.01</magV>
-		<magB>7.79</magB>
+		<mass errorminus="0.01" errorplus="0.01">0.87</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.00</radius>
+		<magV>6.990</magV>
+		<magB errorminus="0.010" errorplus="0.010">7.810</magB>
 		<magR>6.5</magR>
 		<magI>6.1</magI>
-		<magJ errorminus="0.026" errorplus="0.026">5.553</magJ>
+		<magJ errorminus="0.025" errorplus="0.025">5.553</magJ>
 		<magH errorminus="0.017" errorplus="0.017">5.203</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.113</magK>
-		<temperature>5385.0</temperature>
-		<metallicity>0.17</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<temperature errorminus="32.00" errorplus="32.00">5293.00</temperature>
+		<age>13.4</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.160</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 164922 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.36</mass>
-			<period>1155</period>
-			<semimajoraxis>2.11</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
-			<temperature>155.0</temperature>
+			<mass errorminus="0.01510" errorplus="0.01542" type="Msini">0.33855</mass>
+			<period errorminus="5.50000000" errorplus="5.60000000">1201.10000000</period>
+			<semimajoraxis errorminus="0.012000" errorplus="0.012000">2.115000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.049000">0.126000</eccentricity>
+			<periastron errorminus="20.0000" errorplus="24.0000">129.0000</periastron>
+			<temperature errorminus="2" errorplus="2">159</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 164922 c</name>
+			<mass errorminus="0.00503" errorplus="0.00503" type="Msini">0.04059</mass>
+			<period errorminus="0.05600000" errorplus="0.05800000">75.76500000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.335100</semimajoraxis>
+			<eccentricity errorminus="0.130000" errorplus="0.130000">0.220000</eccentricity>
+			<periastron errorminus="49.0000" errorplus="45.0000">81.0000</periastron>
+			<temperature errorminus="4" errorplus="4">401</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,0 +1,31 @@
+<system>
+	<name>K2-95</name>
+	<rightascension>08 37 27</rightascension>
+	<declination>+18 58 36</declination>
+	<distance errorminus="14.00" errorplus="14.00">172.00</distance>
+	<star>
+		<name>K2-95</name>
+		<mass errorminus="0.07" errorplus="0.07">0.36</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.40</radius>
+		<magV>15.498</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.312</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.738</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.474</magK>
+		<temperature errorminus="124.00" errorplus="124.00">3471.00</temperature>
+		<age>0.800</age>
+		<metallicity errorminus="0.170" errorplus="0.170">0.110</metallicity>
+		<spectraltype>M3.0</spectraltype>
+		<planet>
+			<name>K2-95 b</name>
+			<mass errorminus="0.00859" errorplus="0.00859" type="Mass">0.03458</mass>
+			<radius errorminus="0.047" errorplus="0.070">0.310</radius>
+			<period errorminus="0.00077000" errorplus="0.00068000">10.13389000</period>
+			<semimajoraxis errorminus="0.004500" errorplus="0.003900">0.065300</semimajoraxis>
+			<inclination errorminus="1.590" errorplus="0.860">88.770</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001900" errorplus="0.001800" unit="BJD-TDB">2457171.147700</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

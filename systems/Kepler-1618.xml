@@ -2,22 +2,29 @@
 	<name>Kepler-1618</name>
 	<rightascension>19 40 42</rightascension>
 	<declination>+45 55 51</declination>
+	<distance errorminus="219.48" errorplus="494.15">1238.00</distance>
 	<star>
 		<name>Kepler-1618</name>
 		<mass errorminus="0.15" errorplus="0.22">1.41</mass>
 		<radius errorminus="0.29" errorplus="0.68">1.65</radius>
-		<temperature errorminus="143.9" errorplus="213.8">6620.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.04</metallicity>
+		<magV>13.606</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.779</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.539</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.473</magK>
+		<temperature errorminus="143.89" errorplus="213.78">6620.00</temperature>
+		<age errorminus="0.400" errorplus="0.534">1.780</age>
+		<metallicity errorminus="0.161" errorplus="0.130">0.040</metallicity>
 		<planet>
 			<name>Kepler-1618 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.046">0.112</radius>
-			<period errorminus="0.000089910" errorplus="0.000089910">6.108260190</period>
+			<period errorminus="0.00008991" errorplus="0.00008991">6.10826019</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".014000" errorplus="0.014000" unit="JD">2454964.880300</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

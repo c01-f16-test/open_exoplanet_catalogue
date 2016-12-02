@@ -10,11 +10,13 @@
 		<name>KOI-1486</name>
 		<name>KIC 7898352</name>
 		<mass errorminus="0.0850" errorplus="0.0850">1.0210</mass>
-		<radius errorminus=".249" errorplus="0.249">1.220</radius>
+		<radius errorminus="0.25" errorplus="0.25">1.22</radius>
+		<magV>15.505</magV>
 		<magJ errorminus="0.026" errorplus="0.026">14.259</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.91</magH>
-		<magK errorminus="0.06" errorplus="0.06">13.90</magK>
-		<temperature errorminus="07" errorplus="107">5740</temperature>
+		<magH errorminus="0.035" errorplus="0.035">13.913</magH>
+		<magK errorminus="0.055" errorplus="0.055">13.900</magK>
+		<temperature errorminus="107.00" errorplus="107.00">5740.00</temperature>
+		<metallicity>-0.238</metallicity>
 		<planet>
 			<name>Kepler-302 c</name>
 			<name>KOI-1486 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7898352 c</name>
 			<name>KIC 7898352.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04921" errorplus="0.23147">1.13457</radius>
-			<period errorminus=".000427" errorplus="0.000427">127.282184</period>
+			<radius errorminus="0.227" errorplus="0.227">1.111</radius>
+			<period errorminus="0.00042700" errorplus="0.00042700">127.28218400</period>
+			<semimajoraxis>0.503000</semimajoraxis>
 			<description>Kepler-302 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-302 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021300" errorplus="0.0021300">2454996.8893700</transittime>
+			<transittime errorminus=".002130" errorplus="0.002130" unit="BJD">2454996.889370</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7898352 b</name>
 			<name>KIC 7898352.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07746" errorplus="0.07746">0.36999</radius>
-			<period errorminus=".000203" errorplus="0.000203">30.184104</period>
+			<radius errorminus="0.076" errorplus="0.076">0.362</radius>
+			<period errorminus="0.00020300" errorplus="0.00020300">30.18410400</period>
+			<semimajoraxis>0.193000</semimajoraxis>
 			<description>Kepler-302 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-302 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037300" errorplus="0.0037300">2454979.6400600</transittime>
+			<transittime errorminus=".003730" errorplus="0.003730" unit="BJD">2454979.640060</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

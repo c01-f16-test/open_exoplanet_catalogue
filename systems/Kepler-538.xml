@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-538</name>
-	<rightascension>19 49 57</rightascension>
+	<rightascension>19 49 56</rightascension>
 	<declination>+49 37 24</declination>
+	<distance errorminus="7.27" errorplus="7.72">165.00</distance>
 	<star>
 		<name>Kepler-538</name>
 		<mass errorminus="0.04" errorplus="0.03">0.96</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.90</radius>
-		<temperature errorminus="58.6" errorplus="69.8">5650.0</temperature>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.05</metallicity>
+		<magV>11.195</magV>
+		<magJ errorminus="0.024" errorplus="0.024">10.026</magJ>
+		<magH errorminus="0.017" errorplus="0.017">9.670</magH>
+		<magK errorminus="0.013" errorplus="0.013">9.645</magK>
+		<temperature errorminus="58.60" errorplus="69.81">5650.00</temperature>
+		<age errorminus="1.390" errorplus="2.310">2.950</age>
+		<metallicity errorminus="0.107" errorplus="0.104">-0.050</metallicity>
 		<planet>
 			<name>Kepler-538 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.008" errorplus="0.009">0.202</radius>
-			<period errorminus="0.000093260" errorplus="0.000093260">81.737806990</period>
+			<period errorminus="0.00009326" errorplus="0.00009326">81.73780699</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000863" errorplus="0.000863" unit="JD">2455044.678814</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

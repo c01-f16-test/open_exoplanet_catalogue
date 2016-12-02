@@ -9,12 +9,14 @@
 		<name>Kepler-272</name>
 		<name>KOI-1161</name>
 		<name>KIC 10426656</name>
-		<mass errorminus="0.1700" errorplus="0.1700">0.7900</mass>
-		<radius errorminus=".497" errorplus="0.497">0.929</radius>
+		<mass errorminus="0.1700" errorplus="0.1700">0.79</mass>
+		<radius errorminus="0.50" errorplus="0.50">0.93</radius>
+		<magV>14.678</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.159</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.83</magH>
+		<magH errorminus="0.031" errorplus="0.031">12.833</magH>
 		<magK errorminus="0.025" errorplus="0.025">12.708</magK>
-		<temperature errorminus="200" errorplus="200">5297</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5297.00</temperature>
+		<metallicity>-0.161</metallicity>
 		<planet>
 			<name>Kepler-272 c</name>
 			<name>KOI-1161 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10426656 c</name>
 			<name>KIC 10426656.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08749" errorplus="0.08749">0.16312</radius>
-			<period errorminus=".000037" errorplus="0.000037">6.057342</period>
+			<radius errorminus="0.086" errorplus="0.086">0.160</radius>
+			<period errorminus="0.00003700" errorplus="0.00003700">6.05734200</period>
+			<semimajoraxis>0.061000</semimajoraxis>
 			<description>Kepler-272 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-272 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030900" errorplus="0.0030900">2454968.9254900</transittime>
+			<transittime errorminus=".003090" errorplus="0.003090" unit="BJD">2454968.925490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10426656 d</name>
 			<name>KIC 10426656.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.11118">0.20504</radius>
-			<period errorminus=".000073" errorplus="0.000073">10.937304</period>
+			<radius errorminus="0.109" errorplus="0.109">0.201</radius>
+			<period errorminus="0.00007300" errorplus="0.00007300">10.93730400</period>
+			<semimajoraxis>0.091000</semimajoraxis>
 			<description>Kepler-272 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-272 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037200" errorplus="0.0037200">2454969.9850300</transittime>
+			<transittime errorminus=".003720" errorplus="0.003720" unit="BJD">2454969.985030</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10426656 b</name>
 			<name>KIC 10426656.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07017" errorplus="0.07017">0.13032</radius>
-			<period errorminus=".000017" errorplus="0.000017">2.971353</period>
+			<radius errorminus="0.069" errorplus="0.069">0.128</radius>
+			<period errorminus="0.00001700" errorplus="0.00001700">2.97135300</period>
+			<semimajoraxis>0.038000</semimajoraxis>
 			<description>Kepler-272 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-272 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030500" errorplus="0.0030500">2454967.3867500</transittime>
+			<transittime errorminus=".003050" errorplus="0.003050" unit="BJD">2454967.386750</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

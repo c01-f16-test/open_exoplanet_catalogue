@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-608</name>
-	<rightascension>19 35 32</rightascension>
+	<rightascension>19 35 31</rightascension>
 	<declination>+44 38 17</declination>
+	<distance errorminus="111.78" errorplus="188.21">926.00</distance>
 	<star>
 		<name>Kepler-608</name>
 		<mass errorminus="0.07" errorplus="0.09">1.00</mass>
 		<radius errorminus="0.11" errorplus="0.20">1.01</radius>
-		<temperature errorminus="187.9" errorplus="226.6">5820.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.02</metallicity>
+		<magV>14.684</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.526</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.182</magH>
+		<magK errorminus="0.029" errorplus="0.029">13.077</magK>
+		<temperature errorminus="187.94" errorplus="226.58">5820.00</temperature>
+		<age errorminus="2.030" errorplus="3.260">3.800</age>
+		<metallicity errorminus="0.172" errorplus="0.142">-0.020</metallicity>
 		<planet>
 			<name>Kepler-608 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.039" errorplus="0.064">0.325</radius>
-			<period errorminus="0.000005420" errorplus="0.000005420">6.412515040</period>
+			<period errorminus="0.00000542" errorplus="0.00000542">6.41251504</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000670" errorplus="0.000670" unit="JD">2455002.879590</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,31 @@
+<system>
+	<name>HD 128356</name>
+	<rightascension>14 37 04</rightascension>
+	<declination>-25 48 09</declination>
+	<distance errorminus="0.52" errorplus="0.52">26.03</distance>
+	<star>
+		<name>HD 128356</name>
+		<mass errorminus="0.05" errorplus="0.05">0.65</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.85</radius>
+		<magV>8.290</magV>
+		<magB errorminus="0.040" errorplus="0.040">8.960</magB>
+		<magJ errorminus="0.024" errorplus="0.024">6.549</magJ>
+		<magH errorminus="0.033" errorplus="0.033">6.106</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.997</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4875.00</temperature>
+		<age errorminus="5.000" errorplus="5.000">10.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.170</metallicity>
+		<spectraltype>K3 V</spectraltype>
+		<planet>
+			<name>HD 128356 b</name>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">0.89000</mass>
+			<period errorminus="1.60000000" errorplus="1.60000000">298.20000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">0.870000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.570000</eccentricity>
+			<periastron errorminus="4.5800" errorplus="4.5800">84.2200</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

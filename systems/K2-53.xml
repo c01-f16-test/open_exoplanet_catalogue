@@ -1,0 +1,25 @@
+<system>
+	<name>K2-53</name>
+	<rightascension>16 16 34</rightascension>
+	<declination>-20 24 01</declination>
+	<star>
+		<name>K2-53</name>
+		<mass errorminus="0.03" errorplus="0.03">0.83</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.85</radius>
+		<magV>11.888</magV>
+		<magJ errorminus="0.024" errorplus="0.024">10.306</magJ>
+		<magH errorminus="0.024" errorplus="0.024">9.826</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.664</magK>
+		<temperature errorminus="79.00" errorplus="79.00">5269.00</temperature>
+		<planet>
+			<name>K2-53 b</name>
+			<radius errorminus="0.023" errorplus="0.023">0.223</radius>
+			<period errorminus="0.00180000" errorplus="0.00180000">12.20540000</period>
+			<semimajoraxis errorminus="0.001200" errorplus="0.001200">0.097500</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006700" errorplus="0.006700" unit="BJD_TDB">2456896.391100</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

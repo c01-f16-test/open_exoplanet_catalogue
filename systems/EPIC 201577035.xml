@@ -1,35 +1,38 @@
 <system>
 	<name>EPIC 201577035</name>
 	<name>K2-10</name>
-	<rightascension>11 28 29.27</rightascension>
-	<declination>+01 41 26.29</declination>
-	<distance errorminus="21" errorplus="48">271</distance>
+	<rightascension>11 28 29</rightascension>
+	<declination>+01 41 26</declination>
+	<distance errorminus="21.00" errorplus="48.00">271.00</distance>
 	<star>
 		<name>EPIC 201577035</name>
 		<name>K2-10</name>
 		<name>2MASS J11282927+0141264</name>
 		<mass errorminus="0.05" errorplus="0.05">0.92</mass>
 		<radius errorminus="0.08" errorplus="0.08">0.98</radius>
-		<magJ errorminus="0.02" errorplus="0.02">11.06</magJ>
-		<magH errorminus="0.02" errorplus="0.02">10.75</magH>
-		<magK errorminus="0.02" errorplus="0.02">10.64</magK>
-		<temperature errorminus="70" errorplus="70">5620</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">-0.07</metallicity>
+		<magV errorminus="0.020" errorplus="0.020">12.418</magV>
+		<magB errorminus="0.110" errorplus="0.110">13.138</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.059</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.750</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.645</magK>
+		<temperature errorminus="70.00" errorplus="70.00">5620.00</temperature>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.070</metallicity>
 		<planet>
 			<name>EPIC 201577035 b</name>
 			<name>EPIC 201577035.01</name>
 			<name>K2-10 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0503" errorplus="0.0535">0.0850</mass>
-			<radius errorminus="0.0303" errorplus="0.0312">0.3426</radius>
+			<mass errorminus="0.05034" errorplus="0.05349" type="Mass">0.08495</mass>
+			<radius errorminus="0.030" errorplus="0.031">0.343</radius>
 			<impactparameter errorminus="0.27" errorplus="0.27">0.40</impactparameter>
-			<period errorminus="0.0012" errorplus="0.0012">19.3044</period>
-			<eccentricity errorminus="0.18" errorplus="0.16">0.31</eccentricity>
+			<period errorminus="0.00120000" errorplus="0.00120000">19.30440000</period>
+			<eccentricity errorminus="0.180000" errorplus="0.160000">0.310000</eccentricity>
+			<inclination>88.5</inclination>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021" errorplus="0.0021" unit="BJD">2456819.5814</transittime>
+			<transittime errorminus=".002100" errorplus="0.002100" unit="BJD">2456819.581400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/03/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

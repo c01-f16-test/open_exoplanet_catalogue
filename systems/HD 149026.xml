@@ -2,33 +2,36 @@
 	<name>HD 149026</name>
 	<rightascension>16 30 29</rightascension>
 	<declination>+38 20 50</declination>
-	<distance>78.9</distance>
+	<distance errorminus="5.24" errorplus="4.62">78.86</distance>
 	<star>
 		<name>HD 149026</name>
-		<mass>1.3</mass>
-		<radius>1.497</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.14</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.75</magB>
-		<magJ errorminus="0.017" errorplus="0.017">7.118</magJ>
-		<magH errorminus="0.011" errorplus="0.011">6.899</magH>
-		<magK errorminus="0.009" errorplus="0.009">6.819</magK>
-		<temperature>6147.0</temperature>
-		<metallicity>0.36</metallicity>
-		<spectraltype>G0IV</spectraltype>
+		<mass errorminus="0.02" errorplus="0.02">1.34</mass>
+		<radius errorminus="0.04" errorplus="0.05">1.54</radius>
+		<magV errorminus="0.01" errorplus="0.01">8.150</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.761</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.118</magJ>
+		<magH errorminus="0.018" errorplus="0.018">6.899</magH>
+		<magK errorminus="0.017" errorplus="0.017">6.819</magK>
+		<temperature errorminus="50.00" errorplus="50.00">6160.00</temperature>
+		<age errorminus="0.200" errorplus="0.300">2.600</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.360</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 149026 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.356</mass>
-			<radius>0.718</radius>
-			<period>2.8758916</period>
-			<semimajoraxis>0.04288</semimajoraxis>
+			<mass errorminus="0.01400" errorplus="0.01300" type="Mass">0.36800</mass>
+			<radius errorminus="0.025" errorplus="0.027">0.813</radius>
+			<period errorminus="0.00000250" errorplus="0.00000250">2.87589110</period>
+			<semimajoraxis errorminus="0.00033" errorplus="0.00033">0.04288</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>85.3</inclination>
+			<periastrontime errorminus="0.003" errorplus="0.003">2453317.838</periastrontime>
+			<maximumrvtime errorminus="0.003" errorplus="0.003">2453317.838</maximumrvtime>
+			<inclination errorminus="0.810" errorplus="0.350">84.550</inclination>
 			<temperature>1601.5</temperature>
-			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2453317.836</transittime>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus=".000140" errorplus="0.000140" unit="HJD">2454456.787610</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,62 @@
+<system>
+	<name>TYC 3550-458-1</name>
+	<name>Kepler-63</name>
+	<rightascension>19 16 54</rightascension>
+	<declination>+49 32 53</declination>
+	<distance errorminus="15.00" errorplus="15.00">200.00</distance>
+	<star>
+		<name>Kepler-63</name>
+		<name>KIC 11554435</name>
+		<name>KOI-63</name>
+		<mass errorminus="0.04" errorplus="0.04">0.98</mass>
+		<radius errorminus="0.02" errorplus="0.03">0.90</radius>
+		<magV errorminus="0.18" errorplus="0.18">12.020</magV>
+		<magB errorminus="0.18" errorplus="0.18">12.36</magB>
+		<magJ errorminus="0.022" errorplus="0.022">10.399</magJ>
+		<magH errorminus="0.027" errorplus="0.027">10.096</magH>
+		<magK errorminus="0.022" errorplus="0.022">9.997</magK>
+		<temperature errorminus="50.00" errorplus="50.00">5576.00</temperature>
+		<age errorminus="0.045" errorplus="0.045">0.210</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.050</metallicity>
+		<planet>
+			<name>Kepler-63 b</name>
+			<name>KIC 11554435 b</name>
+			<name>KOI-63 b</name>
+			<name>KOI-63.01</name>
+			<name>KOI-63 b</name>
+			<name>KOI-63.01</name>
+			<list>Confirmed planets</list>
+			<mass type="Mass">0.37800</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.545</radius>
+			<period errorminus="0.00000100" errorplus="0.00000100">9.43415050</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.080000</semimajoraxis>
+			<eccentricity>0.450000</eccentricity>
+			<spinorbitalignment errorminus="14" errorplus="22">-110</spinorbitalignment>
+			<inclination errorminus="0.019" errorplus="0.018">87.806</inclination>
+			<description>Kepler-63 b orbits a Sun-like star every 9.43 days. The host star has a large and persistent polar starspot and a high sky-projected obliquity of 104 degrees. Polar star spots have been predicted in simulations of magnetic activity of young Sun-like stars.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000050" errorplus="0.000050" unit="BJD-TDB">2455010.843070</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>TYC 3550-458-1</name>
+		<mass errorminus="0.04" errorplus="0.035">0.984</mass>
+		<radius errorminus="0.022" errorplus="0.027">0.901</radius>
+		<magV>12.02</magV>
+		<temperature errorminus="50.0" errorplus="50.0">5576.0</temperature>
+		<metallicity errorminus="0.08" errorplus="0.08">0.05</metallicity>
+		<planet>
+			<name>Kepler-63 b</name>
+			<radius errorminus="0.02" errorplus="0.02">0.545</radius>
+			<period errorminus="1e-06" errorplus="1e-06">9.4341505</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.08</semimajoraxis>
+			<inclination errorminus="0.019" errorplus="0.018">87.806</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

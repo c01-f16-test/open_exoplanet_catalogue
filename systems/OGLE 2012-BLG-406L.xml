@@ -1,0 +1,34 @@
+<system>
+	<name>OGLE 2012-BLG-406L</name>
+	<name>OGLE-2012-BLG-0406L</name>
+	<rightascension>17 53 18</rightascension>
+	<declination>-30 28 16</declination>
+	<distance errorminus="290.00" errorplus="290.00">4970.00</distance>
+	<star>
+		<name>OGLE-2012-BLG-0406L</name>
+		<mass errorminus="0.07" errorplus="0.07">0.44</mass>
+		<planet>
+			<name>OGLE-2012-BLG-0406L b</name>
+			<name>OGLE 2012-BLG-406L b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.43" errorplus="0.43">2.73</mass>
+			<semimajoraxis errorminus="0.26" errorplus="0.26">3.45</semimajoraxis>
+			<description>This planetary system was discovered during a high-magnification gravitational microlensing event. It is the first microlensing planet found by analyzing data from only a single telescope. The planet is located beyond the snow-line. Some core accretion theories favor the formation of massive planets inside the snow-line. However, planetary migration in the protoplanetary disk might explain why the planet has moved outwards.</description>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>OGLE 2012-BLG-406L</name>
+		<mass errorminus="0.07" errorplus="0.07">0.44</mass>
+		<planet>
+			<name>OGLE 2012-BLG-406L b</name>
+			<mass errorminus="0.43000" errorplus="0.43000" type="Mass">2.73000</mass>
+			<semimajoraxis errorminus="0.260000" errorplus="0.260000">3.450000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

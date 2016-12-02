@@ -1,0 +1,28 @@
+<system>
+	<name>HATS-22</name>
+	<declination>-29 36 02</declination>
+	<star>
+		<name>HATS-22</name>
+		<mass errorminus="0.019" errorplus="0.019">0.759</mass>
+		<radius errorminus="0.018" errorplus="0.028">0.689</radius>
+		<magV>13.46</magV>
+		<temperature errorminus="55.0" errorplus="55.0">4803.0</temperature>
+		<age errorminus="5.8" errorplus="4.0">4.6</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.0</metallicity>
+		<planet>
+			<name>HATS-22 b</name>
+			<mass errorminus="0.11" errorplus="0.11" type="Radial Velocity">2.74</mass>
+			<radius errorminus="0.029" errorplus="0.048">0.953</radius>
+			<period errorminus="5.2e-06" errorplus="5.2e-06">4.7228124</period>
+			<semimajoraxis errorminus="0.00042" errorplus="0.00042">0.05025</semimajoraxis>
+			<eccentricity errorminus="0.026" errorplus="0.026">0.079</eccentricity>
+			<periastron errorminus="73.0" errorplus="73.0">56.0</periastron>
+			<inclination errorminus="0.21" errorplus="0.21">87.96</inclination>
+			<temperature>858.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00022" errorplus="0.00022">2457070.5803</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

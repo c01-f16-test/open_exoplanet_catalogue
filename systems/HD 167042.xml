@@ -1,8 +1,8 @@
 <system>
 	<name>HD 167042</name>
-	<rightascension>18 10 31.64008</rightascension>
-	<declination>+54 17 11.5922</declination>
-	<distance errorminus="0.66" errorplus="0.66">50.23</distance>
+	<rightascension>18 10 31</rightascension>
+	<declination>+54 17 11</declination>
+	<distance errorminus="1.31" errorplus="1.24">50.00</distance>
 	<star>
 		<name>HD 167042</name>
 		<name>HIP 89047</name>
@@ -11,30 +11,32 @@
 		<name>HR 6817</name>
 		<name>BD+54 1950</name>
 		<name>2MASS J18103166+5417114</name>
-		<mass errorminus="0.12" errorplus="0.12">1.72</mass>
-		<radius errorminus="0.07" errorplus="0.07">4.30</radius>
-		<magV>5.97</magV>
-		<magB>6.89</magB>
+		<mass errorminus="0.20" errorplus="0.20">1.50</mass>
+		<radius errorminus="0.20" errorplus="0.20">4.50</radius>
+		<magV>5.940</magV>
+		<magB>6.880</magB>
 		<magR>5.4</magR>
 		<magI>5.0</magI>
 		<magJ errorminus="0.230" errorplus="0.230">3.933</magJ>
 		<magH errorminus="0.198" errorplus="0.198">3.557</magH>
 		<magK errorminus="0.238" errorplus="0.238">3.550</magK>
-		<temperature>5020.0</temperature>
-		<metallicity>0.05</metallicity>
+		<temperature errorminus="12.00" errorplus="12.00">4943.00</temperature>
+		<age errorminus="1.0" errorplus="1.0">2.2</age>
+		<metallicity errorminus="0.020" errorplus="0.020">0.000</metallicity>
 		<spectraltype>K1 IV</spectraltype>
 		<planet>
 			<name>HD 167042 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.09" type="msini">1.70</mass>
-			<period errorminus="3.11" errorplus="3.48">420.77</period>
-			<semimajoraxis errorminus="0.04" errorplus="0.03">1.32</semimajoraxis>
-			<eccentricity errorminus="0.065" errorplus="0.028">0.089</eccentricity>
-			<periastron errorminus="35.8" errorplus="35.4">85.7</periastron>
-			<periastrontime errorminus="41.6" errorplus="40.6">2454230.1</periastrontime>
+			<mass errorminus="0.12000" errorplus="0.09000" type="Msini">1.70000</mass>
+			<period errorminus="3.11000000" errorplus="3.48000000">420.77000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.030000">1.320000</semimajoraxis>
+			<eccentricity errorminus="0.065000" errorplus="0.028000">0.089000</eccentricity>
+			<periastron errorminus="35.8000" errorplus="35.4000">85.7000</periastron>
+			<periastrontime errorminus="41.600000" errorplus="40.600000">2454230.100000</periastrontime>
+			<maximumrvtime errorminus="41.600000" errorplus="40.600000">2454230.100000</maximumrvtime>
 			<description>HD 167042 b is a giant planet orbiting a subgiant star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

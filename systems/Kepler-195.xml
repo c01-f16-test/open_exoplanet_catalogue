@@ -10,11 +10,13 @@
 		<name>KOI-598</name>
 		<name>KIC 10656823</name>
 		<mass errorminus="0.0460" errorplus="0.0460">0.8430</mass>
-		<radius errorminus=".284" errorplus="0.284">0.775</radius>
-		<magJ errorminus="0.03" errorplus="0.03">13.53</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.05</magH>
+		<radius errorminus="0.28" errorplus="0.28">0.78</radius>
+		<magV>14.813</magV>
+		<magJ errorminus="0.034" errorplus="0.034">13.531</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.055</magH>
 		<magK errorminus="0.029" errorplus="0.029">12.959</magK>
-		<temperature errorminus="200" errorplus="200">5329</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5329.00</temperature>
+		<metallicity>-0.052</metallicity>
 		<planet>
 			<name>Kepler-195 b</name>
 			<name>KOI-598 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10656823 b</name>
 			<name>KIC 10656823.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06744" errorplus="0.06744">0.18499</radius>
-			<period errorminus=".000020" errorplus="0.000020">8.307872</period>
+			<radius errorminus="0.066" errorplus="0.066">0.181</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">8.30787200</period>
+			<semimajoraxis>0.077000</semimajoraxis>
 			<description>Kepler-195 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-195 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013300" errorplus="0.0013300">2455004.1712000</transittime>
+			<transittime errorminus=".001330" errorplus="0.001330" unit="BJD">2455004.171200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10656823 c</name>
 			<name>KIC 10656823.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05194" errorplus="0.05194">0.14125</radius>
-			<period errorminus=".000371" errorplus="0.000371">34.096863</period>
+			<radius errorminus="0.051" errorplus="0.051">0.138</radius>
+			<period errorminus="0.00037100" errorplus="0.00037100">34.09686300</period>
+			<semimajoraxis>0.197000</semimajoraxis>
 			<description>Kepler-195 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-195 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0055100" errorplus="0.0055100">2454986.8171200</transittime>
+			<transittime errorminus=".005510" errorplus="0.005510" unit="BJD">2454986.817120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

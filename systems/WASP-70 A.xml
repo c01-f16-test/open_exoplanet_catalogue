@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-70 A</name>
+	<declination>-13 26 00</declination>
+	<star>
+		<name>WASP-70 A</name>
+		<mass errorminus="0.042" errorplus="0.042">1.106</mass>
+		<radius errorminus="0.064" errorplus="0.089">1.215</radius>
+		<magV>10.79</magV>
+		<temperature errorminus="79.0" errorplus="79.0">5763.0</temperature>
+		<age errorminus="0.5" errorplus="0.5">9.5</age>
+		<metallicity errorminus="0.063" errorplus="0.063">-0.006</metallicity>
+		<spectraltype>G4</spectraltype>
+		<planet>
+			<name>WASP-70A b</name>
+			<mass errorminus="0.022" errorplus="0.023" type="Radial Velocity">0.59</mass>
+			<radius errorminus="0.073" errorplus="0.102">1.164</radius>
+			<period errorminus="4.7e-06" errorplus="4.7e-06">3.7130203</period>
+			<semimajoraxis errorminus="0.00062" errorplus="0.00062">0.04853</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.24" errorplus="0.65">87.12</inclination>
+			<temperature>1387.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00027" errorplus="0.00027">2455736.50348</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

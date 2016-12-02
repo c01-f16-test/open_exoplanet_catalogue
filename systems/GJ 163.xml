@@ -1,0 +1,89 @@
+<system>
+	<name>GJ 163</name>
+	<name>Gliese 163</name>
+	<rightascension>04 09 15</rightascension>
+	<declination>-53 22 25</declination>
+	<distance errorminus="0.46" errorplus="0.44">14.97</distance>
+	<star>
+		<name>Gliese 163</name>
+		<name>GJ 163</name>
+		<name>HIP 19394</name>
+		<name>LHS 188</name>
+		<name>TYC 8502-1934-1</name>
+		<name>2MASS J04091567-5322254</name>
+		<mass errorminus="0.02" errorplus="0.02">0.40</mass>
+		<magV errorminus="0.014" errorplus="0.014">11.810</magV>
+		<magB errorminus="0.044" errorplus="0.044">13.290</magB>
+		<magR>10.734</magR>
+		<magI>9.32</magI>
+		<magJ errorminus="0.025" errorplus="0.025">7.948</magJ>
+		<magH errorminus="0.040" errorplus="0.040">7.428</magH>
+		<magK errorminus="0.021" errorplus="0.021">7.135</magK>
+		<temperature errorminus="100.00" errorplus="100.00">3500.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">6.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.100</metallicity>
+		<spectraltype>M3.5 V</spectraltype>
+		<planet>
+			<name>Gliese 163 b</name>
+			<name>GJ 163 b</name>
+			<name>HIP 19394 b</name>
+			<name>LHS 188 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.0019" errorplus="0.0019" type="Msini">0.03500</mass>
+			<period errorminus="0.00100000" errorplus="0.00100000">8.63100000</period>
+			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.061000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.110000</eccentricity>
+			<periastron errorminus="22.0000" errorplus="22.0000">97.0000</periastron>
+			<periastrontime errorminus="0.010000" errorplus="0.010000">2455042.553000</periastrontime>
+			<longitude errorminus="15.699044" errorplus="15.699044">6.359832</longitude>
+			<maximumrvtime errorminus="0.010000" errorplus="0.010000">2455042.553000</maximumrvtime>
+			<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. The outer planet lies within the habitable zone.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>Gliese 163 c</name>
+			<name>GJ 163 c</name>
+			<name>HIP 19394 c</name>
+			<name>LHS 188 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.0028" errorplus="0.0028" type="Msini">0.02400</mass>
+			<period errorminus="0.02000000" errorplus="0.02000000">25.60000000</period>
+			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.130000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.080000</eccentricity>
+			<periastron errorminus="68.0000" errorplus="68.0000">-145.0000</periastron>
+			<periastrontime errorminus="4.800000" errorplus="4.800000">2455057.700000</periastrontime>
+			<longitude errorminus="30.022988" errorplus="30.022988">24.522594</longitude>
+			<maximumrvtime errorminus="4.800000" errorplus="4.800000">2455057.700000</maximumrvtime>
+			<temperature errorminus="10" errorplus="10">302</temperature>
+			<description>The HARPS team announced the discovery of a planetary system around the star Gliese 163 at this year's IAU conference. Gliese 163 c lies within the habitable zone for a wide range of albedo values and has an equilibrium temperature of 60C (140F).</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<image>Gliese163c</image>
+			<imagedescription>Artist's impression of the exoplanet Gliese 163 showing a thick water vapour atmosphere.
+			
+Credit: Joe Gallagher.</imagedescription>
+		</planet>
+		<planet>
+			<name>Gliese 163 d</name>
+			<name>GJ 163 d</name>
+			<name>HIP 19394 d</name>
+			<name>LHS 188 d</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.0092" errorplus="0.0092" type="Msini">0.07900</mass>
+			<period errorminus="12.00000000" errorplus="12.00000000">603.00000000</period>
+			<semimajoraxis errorminus="0.0086" errorplus="0.0086">1.000000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.410000</eccentricity>
+			<periastron errorminus="17.0000" errorplus="17.0000">88.0000</periastron>
+			<periastrontime errorminus="24.000000" errorplus="24.000000">2455275.000000</periastrontime>
+			<longitude errorminus="17.246030" errorplus="17.246030">144.958322</longitude>
+			<maximumrvtime errorminus="24.000000" errorplus="24.000000">2455275.000000</maximumrvtime>
+			<description>The HARPS team announced the discovery of the third planet arounf the M dwarf GJ 163 in a paper posted on June 4th 2013. The systems contains further periodic signals which could me caused by additional planets. However, more data is required to confirm the planetary nature of the signal.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

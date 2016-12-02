@@ -1,29 +1,37 @@
 <system>
 	<name>HD 192263</name>
-	<rightascension>20 14 00</rightascension>
-	<declination>-00 52 01</declination>
-	<distance>19.9</distance>
+	<rightascension>20 13 59</rightascension>
+	<declination>-00 52 00</declination>
+	<distance errorminus="0.46" errorplus="0.44">19.89</distance>
 	<star>
 		<name>HD 192263</name>
-		<mass>0.81</mass>
-		<radius>0.75</radius>
-		<magV>7.79</magV>
-		<magB>8.724</magB>
+		<mass errorminus="0.01" errorplus="0.01">0.81</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.73</radius>
+		<magV>7.790</magV>
+		<magB>8.728</magB>
 		<magR>7.231</magR>
 		<magI>6.771</magI>
-		<temperature>4965.0</temperature>
-		<metallicity>-0.2</metallicity>
+		<magJ errorminus="0.018" errorplus="0.018">6.115</magJ>
+		<magH errorminus="0.029" errorplus="0.029">5.685</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.537</magK>
+		<temperature errorminus="44.00" errorplus="44.00">4996.00</temperature>
+		<age errorminus="2.540" errorplus="2.540">2.090</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.054</metallicity>
 		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>HD 192263 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.733</mass>
-			<period>24.3587</period>
-			<semimajoraxis>0.15312</semimajoraxis>
-			<eccentricity>0.008</eccentricity>
+			<mass errorminus="0.01500" errorplus="0.01500" type="Msini">0.73300</mass>
+			<period errorminus="0.00220000" errorplus="0.00220000">24.35870000</period>
+			<semimajoraxis errorminus="0.000950" errorplus="0.000950">0.153120</semimajoraxis>
+			<eccentricity errorminus="0.014000" errorplus="0.014000">0.008000</eccentricity>
+			<periastron errorminus="90.0000" errorplus="90.0000">184.0000</periastron>
+			<periastrontime errorminus="6.800000" errorplus="6.800000">2451796.900000</periastrontime>
+			<maximumrvtime errorminus="6.800000" errorplus="6.800000">2451796.900000</maximumrvtime>
 			<temperature>484.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/06/12</lastupdate>
+			<transittime errorminus="21.0" errorplus="21.0">2450986.74</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 		</planet>
 	</star>

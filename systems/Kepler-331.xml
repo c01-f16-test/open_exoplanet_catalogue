@@ -9,12 +9,14 @@
 		<name>Kepler-331</name>
 		<name>KOI-1895</name>
 		<name>KIC 4263293</name>
-		<mass errorminus="0.0140" errorplus="0.0140">0.6530</mass>
-		<radius errorminus=".047" errorplus="0.047">0.492</radius>
-		<magJ errorminus="0.03" errorplus="0.03">14.08</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.51</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.34</magK>
-		<temperature errorminus="200" errorplus="200">4347</temperature>
+		<mass errorminus="0.0140" errorplus="0.0140">0.51</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.49</radius>
+		<magV>15.862</magV>
+		<magJ errorminus="0.030" errorplus="0.030">14.082</magJ>
+		<magH errorminus="0.033" errorplus="0.033">13.512</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.343</magK>
+		<temperature errorminus="200.00" errorplus="200.00">4347.00</temperature>
+		<metallicity>-0.850</metallicity>
 		<planet>
 			<name>Kepler-331 b</name>
 			<name>KOI-1895 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 4263293 b</name>
 			<name>KIC 4263293.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01731" errorplus="0.01731">0.16586</radius>
-			<period errorminus=".000024" errorplus="0.000024">8.457496</period>
+			<radius errorminus="0.017" errorplus="0.017">0.162</radius>
+			<period errorminus="0.00002400" errorplus="0.00002400">8.45749600</period>
+			<semimajoraxis>0.065000</semimajoraxis>
 			<description>Kepler-331 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-331 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018500" errorplus="0.0018500">2454966.8695400</transittime>
+			<transittime errorminus=".001850" errorplus="0.001850" unit="BJD">2454966.869540</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 4263293 c</name>
 			<name>KIC 4263293.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01731" errorplus="0.01731">0.16768</radius>
-			<period errorminus=".000064" errorplus="0.000064">17.281110</period>
+			<radius errorminus="0.017" errorplus="0.017">0.164</radius>
+			<period errorminus="0.00006400" errorplus="0.00006400">17.28111000</period>
+			<semimajoraxis>0.105000</semimajoraxis>
 			<description>Kepler-331 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-331 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021600" errorplus="0.0021600">2454969.0079800</transittime>
+			<transittime errorminus=".002160" errorplus="0.002160" unit="BJD">2454969.007980</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 4263293 d</name>
 			<name>KIC 4263293.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.14945</radius>
-			<period errorminus=".000216" errorplus="0.000216">32.134328</period>
+			<radius errorminus="0.015" errorplus="0.015">0.146</radius>
+			<period errorminus="0.00021600" errorplus="0.00021600">32.13432800</period>
+			<semimajoraxis>0.159000</semimajoraxis>
 			<description>Kepler-331 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-331 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037500" errorplus="0.0037500">2454975.2682300</transittime>
+			<transittime errorminus=".003750" errorplus="0.003750" unit="BJD">2454975.268230</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

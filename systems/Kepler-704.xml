@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-704</name>
-	<rightascension>18 53 16</rightascension>
-	<declination>+41 50 14</declination>
+	<rightascension>18 53 15</rightascension>
+	<declination>+41 50 13</declination>
+	<distance errorminus="91.31" errorplus="239.57">1054.00</distance>
 	<star>
 		<name>Kepler-704</name>
 		<mass errorminus="0.05" errorplus="0.04">0.97</mass>
 		<radius errorminus="0.08" errorplus="0.22">0.96</radius>
-		<temperature errorminus="102.8" errorplus="77.9">5616.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.14">0.09</metallicity>
+		<magV>15.257</magV>
+		<magJ errorminus="0.030" errorplus="0.030">13.955</magJ>
+		<magH errorminus="0.038" errorplus="0.038">13.626</magH>
+		<magK errorminus="0.050" errorplus="0.050">13.557</magK>
+		<temperature errorminus="102.76" errorplus="77.94">5616.00</temperature>
+		<age errorminus="3.360" errorplus="4.600">5.130</age>
+		<metallicity errorminus="0.135" errorplus="0.142">0.090</metallicity>
 		<planet>
 			<name>Kepler-704 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.038" errorplus="0.054">0.233</radius>
-			<period errorminus="0.000011610" errorplus="0.000011610">3.761821150</period>
+			<period errorminus="0.00001161" errorplus="0.00001161">3.76182115</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002060" errorplus="0.002060" unit="JD">2455004.903710</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

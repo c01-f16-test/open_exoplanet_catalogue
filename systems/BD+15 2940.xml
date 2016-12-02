@@ -1,39 +1,40 @@
 <system>
 	<name>BD+15 2940</name>
 	<name>HIP 78407</name>
-	<rightascension>16 00 22.93827</rightascension>
-	<declination>+15 32 48.9291</declination>
-	<distance errorminus="312" errorplus="312">508</distance>
+	<rightascension>16 00 22</rightascension>
+	<declination>+15 32 48</declination>
+	<distance errorminus="312" errorplus="312">175.44</distance>
 	<star>
 		<name>BD+15 2940</name>
 		<name>HIP 78407</name>
 		<name>TYC 1503-1050-1</name>
 		<name>SAO 101867</name>
 		<name>2MASS J16002294+1532491</name>
-		<mass errorminus="0.2" errorplus="0.2">1.1</mass>
-		<radius errorminus="2.8" errorplus="2.8">14.7</radius>
-		<magV errorminus="0.02" errorplus="0.02">9.05</magV>
-		<magB errorminus="0.04" errorplus="0.04">10.12</magB>
+		<mass errorminus="0.20" errorplus="0.20">1.10</mass>
+		<radius errorminus="2.80" errorplus="2.80">14.70</radius>
+		<magV errorminus="0.021" errorplus="0.021">9.046</magV>
+		<magB errorminus="0.038" errorplus="0.038">10.121</magB>
 		<magJ errorminus="0.020" errorplus="0.020">7.154</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.664</magH>
 		<magK errorminus="0.016" errorplus="0.016">6.525</magK>
-		<temperature errorminus="117" errorplus="117">4796</temperature>
-		<age errorminus="4.2" errorplus="4.2">7.1</age>
-		<metallicity errorminus="0.07" errorplus="0.07">0.28</metallicity>
+		<temperature errorminus="117.00" errorplus="117.00">4796.00</temperature>
+		<age errorminus="4.200" errorplus="4.200">7.100</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.280</metallicity>
 		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>BD+15 2940 b</name>
 			<name>HIC 78407 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">1.11</mass>
-			<period errorminus="0.34" errorplus="0.34">137.48</period>
-			<semimajoraxis>0.539</semimajoraxis>
-			<eccentricity errorminus="0.10" errorplus="0.10">0.26</eccentricity>
-			<periastron errorminus="33" errorplus="33">302</periastron>
-			<periastrontime errorminus="16" errorplus="16" unit="MJD">2453464</periastrontime>
+			<mass type="Msini">1.11000</mass>
+			<period errorminus="0.34000000" errorplus="0.34000000">137.48000000</period>
+			<semimajoraxis>0.539000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.260000</eccentricity>
+			<periastron errorminus="33.0000" errorplus="33.0000">302.0000</periastron>
+			<periastrontime errorminus="16.000000" errorplus="16.000000" unit="MJD">2453464.000000</periastrontime>
+			<maximumrvtime errorminus="16.000000" errorplus="16.000000">2453464.000000</maximumrvtime>
 			<description>The planet BD+15 2940 b was discovered by the Penn State - Torun Planet Search (PTPS) using ground based spectrometer. It is the closest-in planet around a giant star. It might soon be swallowed by the star as a consequence of stellar evolution.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

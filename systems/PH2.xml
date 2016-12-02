@@ -1,0 +1,55 @@
+<system>
+	<name>PH2</name>
+	<name>Kepler-86</name>
+	<name>PH-2</name>
+	<name>KIC 12735740</name>
+	<rightascension>19 19 03</rightascension>
+	<declination>+51 57 45</declination>
+	<distance>369.8</distance>
+	<star>
+		<name>Kepler-86</name>
+		<name>KIC 12735740</name>
+		<name>PH2</name>
+		<name>PH-2</name>
+		<name>KOI-3663</name>
+		<name>2MASS 19190326+5157453</name>
+		<mass errorminus="0.02" errorplus="0.02">0.94</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.00</radius>
+		<magV>12.620</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.501</magJ>
+		<magH errorminus="0.030" errorplus="0.030">11.182</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.116</magK>
+		<temperature errorminus="45.00" errorplus="42.00">5629.00</temperature>
+		<metallicity errorminus="0.028" errorplus="0.032">-0.078</metallicity>
+		<planet>
+			<name>Kepler-86 b</name>
+			<name>PH2 b</name>
+			<name>KIC-12735740 b</name>
+			<name>PH-2 b</name>
+			<name>KOI-3663.01</name>
+			<name>KOI-3663 b</name>
+			<name>KIC 12735740 b</name>
+			<name>2MASS 19190326+5157453 b</name>
+			<name>Planet Hunters 2 b</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.050" errorplus="0.050">0.903</radius>
+			<period errorminus="0.00100000" errorplus="0.00100000">282.52550000</period>
+			<semimajoraxis errorminus="0.009000" errorplus="0.009000">0.828000</semimajoraxis>
+			<eccentricity errorminus="0.290000" errorplus="0.080000">0.410000</eccentricity>
+			<periastron errorminus="3.4400" errorplus="53.8600">3.4400</periastron>
+			<inclination errorminus="0.020" errorplus="0.030">89.830</inclination>
+			<temperature errorminus="7" errorplus="7">281</temperature>
+			<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime unit="JD">2455196.070900</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+			<image>PH2</image>
+			<imagedescription>Artistic rendition of a sunset view from the perspective of an imagined Earth-like moon orbiting the giant planet, PH2 b. 
+			
+Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
+		</planet>
+	</star>
+	<videolink>http://youtu.be/qHvb9mewXJo</videolink>
+</system>

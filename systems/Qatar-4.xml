@@ -1,0 +1,26 @@
+<system>
+	<name>Qatar-4</name>
+	<declination>+44 01 39</declination>
+	<star>
+		<name>Qatar-4</name>
+		<name>UCAC3 269-003518</name>
+		<mass errorminus="0.048" errorplus="0.048">0.954</mass>
+		<radius errorminus="0.037" errorplus="0.037">1.115</radius>
+		<temperature errorminus="50.0" errorplus="50.0">5219.0</temperature>
+		<age errorminus="0.95" errorplus="0.95">12.9</age>
+		<metallicity errorminus="0.081" errorplus="0.081">0.166</metallicity>
+		<planet>
+			<name>Qatar-4 b</name>
+			<mass errorminus="0.47" errorplus="0.47" type="Radial Velocity">5.85</mass>
+			<radius errorminus="0.057" errorplus="0.057">1.552</radius>
+			<period errorminus="9.9e-06" errorplus="9.9e-06">1.8053949</period>
+			<semimajoraxis errorminus="0.00048" errorplus="0.00048">0.02861</semimajoraxis>
+			<inclination errorminus="1.2" errorplus="1.2">88.82</inclination>
+			<temperature>1570.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00098" errorplus="0.00098">2457323.65441</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

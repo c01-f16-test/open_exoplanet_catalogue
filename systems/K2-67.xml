@@ -1,0 +1,26 @@
+<system>
+	<name>K2-67</name>
+	<rightascension>22 14 25</rightascension>
+	<declination>-10 39 10</declination>
+	<star>
+		<name>K2-67</name>
+		<mass errorminus="0.10" errorplus="0.10">0.94</mass>
+		<radius errorminus="0.22" errorplus="0.22">1.12</radius>
+		<magV errorminus="0.042" errorplus="0.042">14.713</magV>
+		<magB errorminus="0.060" errorplus="0.060">15.326</magB>
+		<magJ errorminus="0.027" errorplus="0.027">13.609</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.304</magH>
+		<magK errorminus="0.041" errorplus="0.041">13.277</magK>
+		<temperature errorminus="119.00" errorplus="119.00">5984.00</temperature>
+		<planet>
+			<name>K2-67 b</name>
+			<radius errorminus="0.303" errorplus="0.303">1.552</radius>
+			<period errorminus="0.00028000" errorplus="0.00028000">24.38724000</period>
+			<semimajoraxis errorminus="0.005600" errorplus="0.005600">0.161100</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000380" errorplus="0.000380" unit="BJD_TDB">2456985.884030</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-983</name>
-	<rightascension>19 00 25</rightascension>
+	<rightascension>19 00 24</rightascension>
 	<declination>+45 00 29</declination>
+	<distance errorminus="23.32" errorplus="23.02">655.00</distance>
 	<star>
 		<name>Kepler-983</name>
 		<mass errorminus="0.02" errorplus="0.03">1.13</mass>
 		<radius errorminus="0.03" errorplus="0.03">1.08</radius>
-		<temperature errorminus="47.7" errorplus="51.0">6052.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.07">0.12</metallicity>
+		<magV>13.430</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.456</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.156</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.169</magK>
+		<temperature errorminus="47.66" errorplus="50.95">6052.00</temperature>
+		<age errorminus="0.250" errorplus="0.403">1.410</age>
+		<metallicity errorminus="0.081" errorplus="0.072">0.120</metallicity>
 		<planet>
 			<name>Kepler-983 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.016" errorplus="0.006">0.211</radius>
-			<period errorminus="0.000261100" errorplus="0.000261100">60.085508200</period>
+			<period errorminus="0.00026110" errorplus="0.00026110">60.08550820</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003310" errorplus="0.003310" unit="JD">2454986.254860</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

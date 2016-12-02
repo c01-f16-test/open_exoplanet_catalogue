@@ -9,12 +9,14 @@
 		<name>Kepler-345</name>
 		<name>KOI-1977</name>
 		<name>KIC 9412760</name>
-		<mass errorminus="0.0140" errorplus="0.0140">0.6100</mass>
-		<radius errorminus=".029" errorplus="0.029">0.623</radius>
+		<mass errorminus="0.0140" errorplus="0.0140">0.59</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.62</radius>
+		<magV>14.028</magV>
 		<magJ errorminus="0.025" errorplus="0.025">12.309</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.665</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.551</magK>
-		<temperature errorminus="100" errorplus="100">4504</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4504.00</temperature>
+		<metallicity>-0.266</metallicity>
 		<planet>
 			<name>Kepler-345 c</name>
 			<name>KOI-1977 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9412760 c</name>
 			<name>KIC 9412760.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00638" errorplus="0.00638">0.10936</radius>
-			<period errorminus=".000028" errorplus="0.000028">9.387427</period>
+			<radius errorminus="0.006" errorplus="0.006">0.107</radius>
+			<period errorminus="0.00002800" errorplus="0.00002800">9.38742700</period>
+			<semimajoraxis>0.077000</semimajoraxis>
 			<description>Kepler-345 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-345 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0017100" errorplus="0.0017100">2454970.3808400</transittime>
+			<transittime errorminus=".001710" errorplus="0.001710" unit="BJD">2454970.380840</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9412760 b</name>
 			<name>KIC 9412760.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00547" errorplus="0.00547">0.06744</radius>
-			<period errorminus=".000054" errorplus="0.000054">7.415563</period>
+			<radius errorminus="0.005" errorplus="0.005">0.066</radius>
+			<period errorminus="0.00005400" errorplus="0.00005400">7.41556300</period>
+			<semimajoraxis>0.066000</semimajoraxis>
 			<description>Kepler-345 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-345 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040900" errorplus="0.0040900">2454970.8150800</transittime>
+			<transittime errorminus=".004090" errorplus="0.004090" unit="BJD">2454970.815080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -10,11 +10,13 @@
 		<name>KOI-459</name>
 		<name>KIC 7977197</name>
 		<mass errorminus="0.0910" errorplus="0.0910">0.9530</mass>
-		<radius errorminus=".509" errorplus="0.509">0.958</radius>
+		<radius errorminus="0.51" errorplus="0.51">0.96</radius>
+		<magV>14.248</magV>
 		<magJ errorminus="0.022" errorplus="0.022">13.041</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.708</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.658</magK>
-		<temperature errorminus="200" errorplus="200">5816</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5816.00</temperature>
+		<metallicity>-0.301</metallicity>
 		<planet>
 			<name>Kepler-162 c</name>
 			<name>KOI-459 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7977197 c</name>
 			<name>KIC 7977197.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05741" errorplus="0.14854">0.27612</radius>
-			<period errorminus=".000045" errorplus="0.000045">19.446355</period>
+			<radius errorminus="0.145" errorplus="0.145">0.270</radius>
+			<period errorminus="0.00004500" errorplus="0.00004500">19.44635500</period>
+			<semimajoraxis>0.137000</semimajoraxis>
 			<description>Kepler-162 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-162 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013100" errorplus="0.0013100">2455003.1019400</transittime>
+			<transittime errorminus=".001310" errorplus="0.001310" unit="BJD">2455003.101940</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7977197 b</name>
 			<name>KIC 7977197.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06106" errorplus="0.06106">0.11482</radius>
-			<period errorminus=".000052" errorplus="0.000052">6.919798</period>
+			<radius errorminus="0.060" errorplus="0.060">0.112</radius>
+			<period errorminus="0.00005200" errorplus="0.00005200">6.91979800</period>
+			<semimajoraxis>0.069000</semimajoraxis>
 			<description>Kepler-162 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-162 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040300" errorplus="0.0040300">2454967.1191400</transittime>
+			<transittime errorminus=".004030" errorplus="0.004030" unit="BJD">2454967.119140</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

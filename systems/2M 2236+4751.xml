@@ -1,0 +1,19 @@
+<system>
+	<name>2M 2236+4751</name>
+	<declination>+47 51 43</declination>
+	<star>
+		<name>2M 2236+4751</name>
+		<mass errorminus="0.05" errorplus="0.05">0.6</mass>
+		<magV>12.5</magV>
+		<age errorminus="0.01" errorplus="0.01">0.12</age>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>2M 2236+4751 b</name>
+			<mass errorminus="1.5" errorplus="1.5" type="Spectrum">12.5</mass>
+			<semimajoraxis errorminus="20.0" errorplus="20.0">230.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

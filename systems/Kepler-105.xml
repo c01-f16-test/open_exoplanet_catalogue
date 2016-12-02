@@ -9,12 +9,14 @@
 		<name>Kepler-105</name>
 		<name>KOI-115</name>
 		<name>KIC 9579641</name>
-		<mass errorminus="0.0930" errorplus="0.0930">1.1800</mass>
-		<radius errorminus="0.245" errorplus="0.245">1.160</radius>
+		<mass errorminus="0.05" errorplus="0.05">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.89</radius>
+		<magV>12.791</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.811</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.555</magH>
 		<magK errorminus="0.013" errorplus="0.013">11.503</magK>
-		<temperature errorminus="100" errorplus="100">5873</temperature>
+		<temperature errorminus="94.00" errorplus="94.00">5827.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.190</metallicity>
 		<planet>
 			<name>Kepler-105 b</name>
 			<name>KOI-115 b</name>
@@ -22,14 +24,19 @@
 			<name>KIC 9579641 b</name>
 			<name>KIC 9579641.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05468" errorplus="0.05468">0.25972</radius>
-			<period errorminus="0.000004" errorplus="0.000004">5.412200</period>
+			<radius errorminus="0.136" errorplus="0.136">0.429</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">5.41220000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.066000</semimajoraxis>
+			<eccentricity errorminus="0.470000" errorplus="0.050000">0.470000</eccentricity>
+			<periastron errorminus="272.1600" errorplus="16.0400">272.1600</periastron>
+			<inclination errorminus="3.880" errorplus="1.870">85.940</inclination>
+			<temperature errorminus="228" errorplus="228">1418</temperature>
 			<description>Kepler-105 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0004200" errorplus="0.0004200">2454966.1424900</transittime>
+			<transittime errorminus="0.0004200" errorplus="0.0004200" unit="BJD">2454966.142400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-105 c</name>
@@ -38,14 +45,15 @@
 			<name>KIC 9579641 c</name>
 			<name>KIC 9579641.02</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.002781" errorplus="0.002904">0.014483</mass>
-			<radius errorminus="0.03098" errorplus="0.03098">0.14672</radius>
-			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
+			<mass errorminus="0.00267" errorplus="0.00289" type="Mass">0.01447</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.117</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">7.12620000</period>
+			<semimajoraxis>0.072</semimajoraxis>
 			<description>Kepler-105 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 c are still unknown, the object is highly unlikely to be a false positive. TTV measurements indicate it is likely to be rocky.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014100" errorplus="0.0014100">2454972.0042100</transittime>
+			<transittime errorminus=".000600" errorplus="0.000600" unit="BJD">2456464.599200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -58,7 +66,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00896" errorplus="0.00896" unit="BJD">2454965.66285</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,30 @@
+<system>
+	<name>Kepler-47 (AB)</name>
+	<declination>+46 55 12</declination>
+	<star>
+		<name>Kepler-47 (AB)</name>
+		<mass errorminus="0.055" errorplus="0.055">1.043</mass>
+		<radius errorminus="0.017" errorplus="0.017">0.964</radius>
+		<temperature errorminus="100.0" errorplus="100.0">5636.0</temperature>
+		<planet>
+			<name>Kepler-47 (AB) b</name>
+			<radius errorminus="0.011" errorplus="0.011">0.27</radius>
+			<period errorminus="0.04" errorplus="0.04">49.514</period>
+			<semimajoraxis errorminus="0.0047" errorplus="0.0047">0.2956</semimajoraxis>
+			<inclination errorminus="0.5" errorplus="0.5">89.59</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-47 (AB) c</name>
+			<radius errorminus="0.018" errorplus="0.018">0.41</radius>
+			<period errorminus="0.072" errorplus="0.072">303.148</period>
+			<semimajoraxis errorminus="0.016" errorplus="0.016">0.989</semimajoraxis>
+			<inclination>89.826</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

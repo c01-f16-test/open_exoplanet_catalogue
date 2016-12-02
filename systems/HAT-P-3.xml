@@ -1,37 +1,38 @@
 <system>
 	<name>HAT-P-3</name>
-	<rightascension>13 44 23</rightascension>
+	<rightascension>13 44 22</rightascension>
 	<declination>+48 01 43</declination>
-	<distance>130</distance>
+	<distance errorminus="10.00" errorplus="10.00">138.00</distance>
 	<star>
 		<name>HAT-P-3</name>
-		<mass>0.917</mass>
-		<radius>0.799</radius>
-		<magV errorminus="0.15" errorplus="0.15">11.86</magV>
-		<magB errorminus="0.20" errorplus="0.20">12.53</magB>
+		<mass errorminus="0.03" errorplus="0.03">0.92</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.80</radius>
+		<magV errorminus="0.034" errorplus="0.034">11.577</magV>
+		<magB errorminus="0.200" errorplus="0.200">12.526</magB>
 		<magJ errorminus="0.022" errorplus="0.022">9.936</magJ>
 		<magH errorminus="0.028" errorplus="0.028">9.542</magH>
 		<magK errorminus="0.025" errorplus="0.025">9.448</magK>
-		<temperature>5224.0</temperature>
-		<metallicity>0.27</metallicity>
+		<temperature errorminus="80.00" errorplus="80.00">5185.00</temperature>
+		<age errorminus="1.300" errorplus="2.900">1.600</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.270</metallicity>
 		<spectraltype>K</spectraltype>
 		<planet>
 			<name>HAT-P-3 b</name>
 			<name>TYC 3466-00819-1 b</name>
 			<name>2MASS J13442258+4801432 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.591</mass>
-			<radius>0.827</radius>
-			<period>2.899703</period>
-			<semimajoraxis>0.03866</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>87.07</inclination>
+			<mass errorminus="0.01800" errorplus="0.01800" type="Mass">0.59100</mass>
+			<radius errorminus="0.055" errorplus="0.055">0.827</radius>
+			<period errorminus="0.00000200" errorplus="0.00000200">2.89973600</period>
+			<semimajoraxis errorminus="0.000410" errorplus="0.000410">0.038660</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.000000</eccentricity>
+			<inclination errorminus="0.550" errorplus="0.550">87.070</inclination>
 			<temperature>1047.2</temperature>
 			<description>The young and metal rich star HAT-P-3 is located in the constellation Ursa Major. The planet HAT-P-3 b has about 75 Earth masses worth of heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454856.70195</transittime>
+			<transittime errorminus=".000100" errorplus="0.000100" unit="HJD-UTC">2454856.701180</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

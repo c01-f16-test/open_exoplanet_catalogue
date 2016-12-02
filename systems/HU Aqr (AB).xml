@@ -1,0 +1,23 @@
+<system>
+	<name>HU Aqr (AB)</name>
+	<declination>-05 17 40</declination>
+	<star>
+		<name>HU Aqr (AB)</name>
+		<mass>1.0</mass>
+		<magV>15.0</magV>
+		<spectraltype>Catac. var.</spectraltype>
+		<planet>
+			<name>HU Aqr (AB) c</name>
+			<mass errorminus="0.1" errorplus="0.1">5.9</mass>
+			<period errorminus="8.0" errorplus="8.0">5646.0</period>
+			<semimajoraxis>6.18</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.29</eccentricity>
+			<periastron errorminus="1.0" errorplus="1.0">351.0</periastron>
+			<periastrontime errorminus="7.0" errorplus="7.0">2450050.0</periastrontime>
+			<maximumrvtime errorminus="7.0" errorplus="7.0">2450050.0</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

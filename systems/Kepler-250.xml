@@ -9,12 +9,14 @@
 		<name>Kepler-250</name>
 		<name>KOI-906</name>
 		<name>KIC 8226994</name>
-		<mass errorminus="0.0850" errorplus="0.0850">0.7530</mass>
-		<radius errorminus=".462" errorplus="0.462">0.805</radius>
+		<mass errorminus="0.0850" errorplus="0.0850">0.80</mass>
+		<radius errorminus="0.46" errorplus="0.46">0.81</radius>
+		<magV>15.460</magV>
 		<magJ errorminus="0.025" errorplus="0.025">14.000</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.50</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.48</magK>
-		<temperature errorminus="200" errorplus="200">5160</temperature>
+		<magH errorminus="0.030" errorplus="0.030">13.504</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.483</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5160.00</temperature>
+		<metallicity>0.063</metallicity>
 		<planet>
 			<name>Kepler-250 c</name>
 			<name>KOI-906 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8226994 c</name>
 			<name>KIC 8226994.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02825" errorplus="0.11938">0.20778</radius>
-			<period errorminus=".000022" errorplus="0.000022">7.156804</period>
+			<radius errorminus="0.117" errorplus="0.117">0.203</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">7.15680400</period>
+			<semimajoraxis>0.069000</semimajoraxis>
 			<description>Kepler-250 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-250 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016700" errorplus="0.0016700">2455007.1362800</transittime>
+			<transittime errorminus=".001670" errorplus="0.001670" unit="BJD">2455007.136280</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8226994 d</name>
 			<name>KIC 8226994.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02278" errorplus="0.11391">0.19866</radius>
-			<period errorminus=".000081" errorplus="0.000081">17.648312</period>
+			<radius errorminus="0.112" errorplus="0.112">0.194</radius>
+			<period errorminus="0.00008100" errorplus="0.00008100">17.64831200</period>
+			<semimajoraxis>0.127000</semimajoraxis>
 			<description>Kepler-250 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-250 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029700" errorplus="0.0029700">2454966.5450000</transittime>
+			<transittime errorminus=".002970" errorplus="0.002970" unit="BJD">2454966.545000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 8226994 b</name>
 			<name>KIC 8226994.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06197" errorplus="0.06197">0.10298</radius>
-			<period errorminus=".000046" errorplus="0.000046">4.148141</period>
+			<radius errorminus="0.061" errorplus="0.061">0.101</radius>
+			<period errorminus="0.00004600" errorplus="0.00004600">4.14814100</period>
+			<semimajoraxis>0.048000</semimajoraxis>
 			<description>Kepler-250 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-250 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0067200" errorplus="0.0067200">2454966.3909500</transittime>
+			<transittime errorminus=".006720" errorplus="0.006720" unit="BJD">2454966.390950</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

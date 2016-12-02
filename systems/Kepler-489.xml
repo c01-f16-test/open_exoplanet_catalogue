@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-489</name>
-	<rightascension>19 23 20</rightascension>
-	<declination>+38 11 04</declination>
+	<rightascension>19 23 19</rightascension>
+	<declination>+38 11 03</declination>
+	<distance errorminus="11.20" errorplus="10.70">379.00</distance>
 	<star>
 		<name>Kepler-489</name>
 		<mass errorminus="0.03" errorplus="0.03">0.82</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.76</radius>
-		<temperature errorminus="58.3" errorplus="70.5">5014.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.00</metallicity>
+		<magV>14.018</magV>
+		<magJ errorminus="0.020" errorplus="0.020">12.536</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.058</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.959</magK>
+		<temperature errorminus="58.34" errorplus="70.48">5014.00</temperature>
+		<age errorminus="1.560" errorplus="2.620">3.310</age>
+		<metallicity errorminus="0.100" errorplus="0.105">0.000</metallicity>
 		<planet>
 			<name>Kepler-489 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.015">0.689</radius>
-			<period errorminus="0.000002450" errorplus="0.000002450">17.276296120</period>
+			<period errorminus="0.00000245" errorplus="0.00000245">17.27629612</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000116" errorplus="0.000116" unit="JD">2454966.839246</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

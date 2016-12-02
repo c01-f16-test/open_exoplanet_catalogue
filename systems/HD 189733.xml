@@ -2,7 +2,7 @@
 	<name>HD 189733</name>
 	<rightascension>20 00 43</rightascension>
 	<declination>+22 42 39</declination>
-	<distance>19.3</distance>
+	<distance errorminus="0.33" errorplus="0.32">19.25</distance>
 	<binary>
 		<separation unit="arcsec">11.2</separation>
 		<separation unit="AU">216</separation>
@@ -39,7 +39,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2453629.3928</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>13/08/18</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 				<image>HD189733</image>
 				<imagedescription>This illustration shows HD 189733b, a huge gas giant that orbits very close to its host star HD 189733. The planet's atmosphere is scorching with a temperature of over 1000 degrees Celsius, and it rains glass, sideways, in howling 7000 kilometre-per-hour winds.
@@ -56,4 +56,82 @@
 			<spectraltype>M4</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 189733 A</name>
+		<name>V452 Vulpeculae A</name>
+		<mass>0.8</mass>
+		<radius>0.788</radius>
+		<magV errorminus="0.05" errorplus="0.05">7.68</magV>
+		<magB>8.578</magB>
+		<magR>7.126</magR>
+		<magI>6.68</magI>
+		<magJ errorminus="0.027" errorplus="0.027">6.073</magJ>
+		<magH errorminus="0.027" errorplus="0.027">5.587</magH>
+		<magK errorminus="0.02" errorplus="0.02">5.54</magK>
+		<temperature>4980.0</temperature>
+		<metallicity>-0.03</metallicity>
+		<spectraltype>K2V</spectraltype>
+		<planet>
+			<name>HD 189733 A b</name>
+			<name>HD 189733 b</name>
+			<name>V452 Vulpeculae A b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.138</mass>
+			<radius>1.138</radius>
+			<period>2.21857312</period>
+			<semimajoraxis>0.03142</semimajoraxis>
+			<eccentricity>0.0041</eccentricity>
+			<inclination>85.51</inclination>
+			<temperature>1099.7</temperature>
+			<description>The planet HD 189733 b is a transiting hot Jupiter on a 2 day orbit. Astronomers have observed the secondary eclipse with the Hubble Space Telescope. They found evidence for optically thick reflective clouds on the dayside hemisphere. According to the best-fit albedo values, the planet would appear deep blue at visible wavelengths.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2453629.3928</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+			<image>HD189733</image>
+			<imagedescription>This illustration shows HD 189733b, a huge gas giant that orbits very close to its host star HD 189733. The planet's atmosphere is scorching with a temperature of over 1000 degrees Celsius, and it rains glass, sideways, in howling 7000 kilometre-per-hour winds.
+				
+	At a distance of 63 light-years from us, this turbulent alien world is one of the nearest exoplanets to Earth that can be seen crossing the face of its star. By observing this planet before, during, and after it disappeared behind its host star during orbit, astronomers were able to deduce that HD 189733b is a deep, azure blue - reminiscent of Earth's colour as seen from space.
+				
+	Credit: NASA, ESA, M. Kornmesser</imagedescription>
+		</planet>
+	</star>
+	<star>
+		<name>HD 189733 B</name>
+		<name>V452 Vulpeculae B</name>
+		<mass>0.4</mass>
+		<spectraltype>M4</spectraltype>
+	</star>
+	<star>
+		<name>HD 189733</name>
+		<mass errorminus="0.05" errorplus="0.05">0.85</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.81</radius>
+		<magV errorminus="0.030" errorplus="0.030">7.670</magV>
+		<magB errorminus="0.010" errorplus="0.010">8.580</magB>
+		<magJ errorminus="0.032" errorplus="0.032">6.073</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.587</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.541</magK>
+		<temperature errorminus="43.00" errorplus="43.00">4875.00</temperature>
+		<age>0.6</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.030</metallicity>
+		<spectraltype>K2 V</spectraltype>
+		<planet>
+			<name>HD 189733 b</name>
+			<mass errorminus="0.02515" errorplus="0.02516" type="Radial Velocity">1.142</mass>
+			<radius errorminus="0.077" errorplus="0.077">1.138</radius>
+			<period errorminus="0.00000008" errorplus="0.00000008">2.21857520</period>
+			<semimajoraxis errorminus="0.00052" errorplus="0.00052">0.03142</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.0041</eccentricity>
+			<periastron>90.0</periastron>
+			<periastrontime>2454037.612</periastrontime>
+			<maximumrvtime>2454037.612</maximumrvtime>
+			<inclination errorminus="0.05" errorplus="0.05">85.51</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus=".000009" errorplus="0.000009" unit="BJD-TDB">2453955.525551</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
 </system>

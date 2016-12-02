@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1303</name>
-	<rightascension>18 57 09</rightascension>
+	<rightascension>18 57 08</rightascension>
 	<declination>+42 21 20</declination>
+	<distance errorminus="86.28" errorplus="211.91">905.00</distance>
 	<star>
 		<name>Kepler-1303</name>
 		<mass errorminus="0.05" errorplus="0.05">1.01</mass>
 		<radius errorminus="0.09" errorplus="0.24">1.00</radius>
-		<temperature errorminus="110.6" errorplus="85.7">5771.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.04</metallicity>
+		<magV>14.640</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.451</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.119</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.086</magK>
+		<temperature errorminus="110.62" errorplus="85.68">5771.00</temperature>
+		<age errorminus="2.660" errorplus="3.420">4.470</age>
+		<metallicity errorminus="0.156" errorplus="0.133">0.040</metallicity>
 		<planet>
 			<name>Kepler-1303 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.031">0.127</radius>
-			<period errorminus="0.000041200" errorplus="0.000041200">7.561272240</period>
+			<period errorminus="0.00004120" errorplus="0.00004120">7.56127224</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005250" errorplus="0.005250" unit="JD">2454968.635990</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

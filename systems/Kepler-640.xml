@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-640</name>
-	<rightascension>19 44 08</rightascension>
+	<rightascension>19 44 07</rightascension>
 	<declination>+42 07 54</declination>
+	<distance errorminus="16.46" errorplus="19.13">538.00</distance>
 	<star>
 		<name>Kepler-640</name>
 		<mass errorminus="0.03" errorplus="0.03">1.01</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.94</radius>
-		<temperature errorminus="62.8" errorplus="72.4">5653.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
+		<magV>13.721</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.507</magJ>
+		<magH errorminus="0.019" errorplus="0.019">12.180</magH>
+		<magK errorminus="0.016" errorplus="0.016">12.113</magK>
+		<temperature errorminus="62.83" errorplus="72.44">5653.00</temperature>
+		<age errorminus="0.759" errorplus="1.450">2.090</age>
+		<metallicity errorminus="0.084" errorplus="0.078">0.150</metallicity>
 		<planet>
 			<name>Kepler-640 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.020" errorplus="0.007">0.228</radius>
-			<period errorminus="0.000035150" errorplus="0.000035150">22.248139670</period>
+			<period errorminus="0.00003515" errorplus="0.00003515">22.24813967</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001240" errorplus="0.001240" unit="JD">2455007.136640</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

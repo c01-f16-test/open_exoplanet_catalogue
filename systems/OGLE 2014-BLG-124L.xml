@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2014-BLG-124L</name>
+	<rightascension>18 02 29</rightascension>
+	<declination>-28 23 46</declination>
+	<distance errorminus="590.00" errorplus="590.00">4100.00</distance>
+	<star>
+		<name>OGLE 2014-BLG-124L</name>
+		<mass errorminus="0.22" errorplus="0.22">0.71</mass>
+		<planet>
+			<name>OGLE 2014-BLG-124L b</name>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Mass">0.51000</mass>
+			<semimajoraxis errorminus="0.490000" errorplus="0.490000">3.110000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

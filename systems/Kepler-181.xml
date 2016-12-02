@@ -10,11 +10,13 @@
 		<name>KOI-543</name>
 		<name>KIC 11823054</name>
 		<mass errorminus="0.0320" errorplus="0.0320">0.8530</mass>
-		<radius errorminus=".367" errorplus="0.367">0.749</radius>
+		<radius errorminus="0.37" errorplus="0.37">0.75</radius>
+		<magV>14.707</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.364</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.948</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.88</magK>
-		<temperature errorminus="200" errorplus="200">5333</temperature>
+		<magK errorminus="0.029" errorplus="0.029">12.876</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5333.00</temperature>
+		<metallicity>-0.162</metallicity>
 		<planet>
 			<name>Kepler-181 c</name>
 			<name>KOI-543 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11823054 c</name>
 			<name>KIC 11823054.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08931" errorplus="0.08931">0.18135</radius>
-			<period errorminus=".000008" errorplus="0.000008">4.302149</period>
+			<radius errorminus="0.087" errorplus="0.087">0.178</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">4.30214900</period>
+			<semimajoraxis>0.049000</semimajoraxis>
 			<description>Kepler-181 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-181 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010200" errorplus="0.0010200">2455006.4371700</transittime>
+			<transittime errorminus=".001020" errorplus="0.001020" unit="BJD">2455006.437170</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11823054 b</name>
 			<name>KIC 11823054.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05650" errorplus="0.05650">0.11574</radius>
-			<period errorminus=".000013" errorplus="0.000013">3.137873</period>
+			<radius errorminus="0.055" errorplus="0.055">0.113</radius>
+			<period errorminus="0.00001300" errorplus="0.00001300">3.13787300</period>
+			<semimajoraxis>0.040000</semimajoraxis>
 			<description>Kepler-181 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-181 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024000" errorplus="0.0024000">2454966.5556200</transittime>
+			<transittime errorminus=".002400" errorplus="0.002400" unit="BJD">2454966.555620</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

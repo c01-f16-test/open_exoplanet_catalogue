@@ -1,33 +1,37 @@
 <system>
 	<name>HD 220773</name>
 	<rightascension>23 26 27</rightascension>
-	<declination>+08 38 38</declination>
-	<distance>49</distance>
+	<declination>+08 38 37</declination>
+	<distance errorminus="2.57" errorplus="2.32">48.43</distance>
 	<star>
 		<name>HD 220773</name>
 		<mass>1.16</mass>
-		<magV>7.09</magV>
-		<magB errorminus="0.016" errorplus="0.016">7.708</magB>
+		<magV errorminus="0.011" errorplus="0.011">7.096</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.709</magB>
 		<magR>6.97</magR>
 		<magI>6.4</magI>
 		<magJ errorminus="0.020" errorplus="0.020">6.001</magJ>
 		<magH errorminus="0.033" errorplus="0.033">5.712</magH>
 		<magK errorminus="0.017" errorplus="0.017">5.651</magK>
-		<temperature>5940.0</temperature>
-		<metallicity>0.09</metallicity>
-		<spectraltype>F9</spectraltype>
+		<temperature errorminus="100.0" errorplus="100.0">5940.0</temperature>
+		<age>4.4</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.09</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 220773 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.45</mass>
-			<period>3724.7</period>
-			<semimajoraxis>4.94</semimajoraxis>
-			<eccentricity>0.51</eccentricity>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Msini">1.45000</mass>
+			<period errorminus="463.00000000" errorplus="463.00000000">3724.70000000</period>
+			<semimajoraxis errorminus="0.200000" errorplus="0.200000">4.940000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.510000</eccentricity>
+			<periastron errorminus="13.0000" errorplus="13.0000">226.0000</periastron>
+			<periastrontime errorminus="95.000000" errorplus="95.000000">2453866.400000</periastrontime>
+			<maximumrvtime errorminus="95.000000" errorplus="95.000000">2453866.400000</maximumrvtime>
 			<temperature>145.8</temperature>
 			<description>The Jovian planet HD 220773b is orbiting an F9-type star. It has a predicted displacement of 0.242mas and might be an interesting target for astrometry.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

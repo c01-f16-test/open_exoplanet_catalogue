@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-807</name>
-	<rightascension>19 16 05</rightascension>
+	<rightascension>19 16 04</rightascension>
 	<declination>+48 07 11</declination>
+	<distance errorminus="138.23" errorplus="248.77">1312.00</distance>
 	<star>
 		<name>Kepler-807</name>
 		<mass errorminus="0.07" errorplus="0.07">1.04</mass>
 		<radius errorminus="0.11" errorplus="0.20">1.06</radius>
-		<temperature errorminus="92.1" errorplus="92.3">5965.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.15">-0.04</metallicity>
+		<magV>15.128</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.079</magJ>
+		<magH errorminus="0.039" errorplus="0.039">13.765</magH>
+		<magK errorminus="0.046" errorplus="0.046">13.688</magK>
+		<temperature errorminus="92.14" errorplus="92.34">5965.00</temperature>
+		<age errorminus="2.020" errorplus="2.150">3.720</age>
+		<metallicity errorminus="0.187" errorplus="0.149">-0.040</metallicity>
 		<planet>
 			<name>Kepler-807 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.095" errorplus="0.178">0.930</radius>
-			<period errorminus="0.000086030" errorplus="0.000086030">117.931087810</period>
+			<period errorminus="0.00008603" errorplus="0.00008603">117.93108781</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000543" errorplus="0.000543" unit="JD">2455052.704459</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

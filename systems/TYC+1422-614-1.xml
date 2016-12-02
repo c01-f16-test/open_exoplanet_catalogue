@@ -1,0 +1,38 @@
+<system>
+	<name>TYC+1422-614-1</name>
+	<declination>+19 33 30</declination>
+	<star>
+		<name>TYC+1422-614-1</name>
+		<mass errorminus="0.18" errorplus="0.18">1.15</mass>
+		<radius errorminus="1.38" errorplus="1.38">6.85</radius>
+		<magV>10.21</magV>
+		<temperature errorminus="45.0" errorplus="45.0">4806.0</temperature>
+		<metallicity errorminus="0.08" errorplus="0.08">-0.2</metallicity>
+		<planet>
+			<name>TYC+1422-614-1 b</name>
+			<mass errorminus="0.12" errorplus="0.12" type="Radial Velocity">2.51</mass>
+			<period errorminus="0.64" errorplus="0.64">198.44</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.6879</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.07</eccentricity>
+			<periastron errorminus="46.0" errorplus="46.0">62.0</periastron>
+			<periastrontime errorminus="40.0" errorplus="40.0">2452842.5</periastrontime>
+			<maximumrvtime errorminus="40.0" errorplus="40.0">2452842.5</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>TYC+1422-614-1 c</name>
+			<mass errorminus="0.14" errorplus="0.14" type="Radial Velocity">10.1</mass>
+			<period errorminus="2.1" errorplus="2.1">569.2</period>
+			<semimajoraxis errorminus="0.0033" errorplus="0.0033">1.3916</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.049</eccentricity>
+			<periastron errorminus="20.0" errorplus="20.0">124.0</periastron>
+			<periastrontime errorminus="30.0" errorplus="30.0">2452616.5</periastrontime>
+			<maximumrvtime errorminus="30.0" errorplus="30.0">2452616.5</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

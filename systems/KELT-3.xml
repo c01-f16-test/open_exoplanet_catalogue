@@ -1,8 +1,8 @@
 <system>
 	<name>KELT-3</name>
-	<rightascension>09 54 34.3880</rightascension>
-	<declination>+40 23 16.981</declination>
-	<distance>178</distance>
+	<rightascension>09 54 34</rightascension>
+	<declination>+40 23 17</declination>
+	<distance errorminus="16.00" errorplus="16.00">178.00</distance>
 	<star>
 		<name>KELT-3</name>
 		<name>BD+41 2024</name>
@@ -11,16 +11,17 @@
 		<name>GSC 02996-00683</name>
 		<name>SAO 43097</name>
 		<name>PPM 51568</name>
-		<mass>1.282</mass>
-		<radius>1.482</radius>
-		<magV errorminus="0.03" errorplus="0.03">9.82</magV>
-		<magB errorminus="0.03" errorplus="0.03">10.30</magB>
-		<magJ errorminus="0.019" errorplus="0.019">8.963</magJ>
-		<magH errorminus="0.019" errorplus="0.019">8.728</magH>
-		<magK errorminus="0.019" errorplus="0.019">8.662</magK>
-		<temperature>6304</temperature>
-		<metallicity>0.047</metallicity>
-		<spectraltype>F2</spectraltype>
+		<mass errorminus="0.06" errorplus="0.06">1.28</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.47</radius>
+		<magV errorminus="0.029" errorplus="0.029">9.873</magV>
+		<magB errorminus="0.032" errorplus="0.032">10.397</magB>
+		<magJ errorminus="0.015" errorplus="0.015">8.963</magJ>
+		<magH errorminus="0.017" errorplus="0.017">8.728</magH>
+		<magK errorminus="0.017" errorplus="0.017">8.662</magK>
+		<temperature errorminus="49.00" errorplus="50.00">6306.00</temperature>
+		<age errorminus="0.200" errorplus="0.200">3.000</age>
+		<metallicity errorminus="0.082" errorplus="0.080">0.044</metallicity>
+		<spectraltype>F</spectraltype>
 		<planet>
 			<name>KELT-3 b</name>
 			<name>BD+41 2024 b</name>
@@ -30,18 +31,20 @@
 			<name>SAO 43097 b</name>
 			<name>PPM 51568 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.462</mass>
-			<radius>1.358</radius>
-			<period>2.703390</period>
-			<semimajoraxis>0.04126</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination>84.14</inclination>
-			<temperature>1667.7</temperature>
+			<mass errorminus="0.06400" errorplus="0.06600" type="Mass">1.47700</mass>
+			<radius errorminus="0.072" errorplus="0.072">1.345</radius>
+			<period errorminus="0.00001000" errorplus="0.00000990">2.70339040</period>
+			<semimajoraxis errorminus="0.000670" errorplus="0.000660">0.041220</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>90.0000</periastron>
+			<inclination errorminus="0.580" errorplus="0.650">84.230</inclination>
+			<temperature errorminus="39" errorplus="37">1816</temperature>
 			<description>KELT-3 b is a moderately inflated transiting hot Jupiter. It is orbiting a late F-type start which is among the 20 brightest known transiting planet host stars. It was discovered by the Kilodegree Extremely Little Telescope-North (KELT-North) survey.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000380" errorplus="0.000380" unit="BJD-TDB">2456034.295370</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/11/07</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

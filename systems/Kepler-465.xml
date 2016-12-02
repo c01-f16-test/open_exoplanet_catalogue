@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-465</name>
 	<rightascension>18 58 13</rightascension>
-	<declination>+46 03 50</declination>
+	<declination>+46 03 49</declination>
+	<distance errorminus="34.38" errorplus="49.90">587.00</distance>
 	<star>
 		<name>Kepler-465</name>
 		<mass errorminus="0.03" errorplus="0.04">1.23</mass>
 		<radius errorminus="0.07" errorplus="0.11">1.29</radius>
-		<temperature errorminus="60.4" errorplus="63.4">6310.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.09</metallicity>
+		<magV>12.663</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.735</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.516</magH>
+		<magK errorminus="0.017" errorplus="0.017">11.456</magK>
+		<temperature errorminus="60.38" errorplus="63.38">6310.00</temperature>
+		<age errorminus="0.678" errorplus="0.757">2.190</age>
+		<metallicity errorminus="0.082" errorplus="0.082">0.090</metallicity>
 		<planet>
 			<name>Kepler-465 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.022">0.263</radius>
-			<period errorminus="0.000006550" errorplus="0.000006550">9.940672470</period>
+			<period errorminus="0.00000655" errorplus="0.00000655">9.94067247</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000544" errorplus="0.000544" unit="JD">2454968.215073</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

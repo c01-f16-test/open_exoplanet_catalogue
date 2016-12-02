@@ -1,0 +1,26 @@
+<system>
+	<name>HAT-47</name>
+	<declination>+30 21 38</declination>
+	<star>
+		<name>HAT-47</name>
+		<mass errorminus="0.038" errorplus="0.038">1.387</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.515</radius>
+		<magV>10.6</magV>
+		<temperature errorminus="50.0" errorplus="50.0">6703.0</temperature>
+		<age errorminus="0.3" errorplus="0.3">1.5</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.0</metallicity>
+		<planet>
+			<name>HAT-47 b</name>
+			<mass errorminus="0.039" errorplus="0.039" type="Radial Velocity">0.206</mass>
+			<radius errorminus="0.045" errorplus="0.045">1.313</radius>
+			<period errorminus="1.3e-05" errorplus="1.3e-05">4.732182</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0615</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">84.8</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00041" errorplus="0.00041">2455661.63669</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

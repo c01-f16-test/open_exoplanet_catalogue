@@ -1,0 +1,26 @@
+<system>
+	<name>K2-50</name>
+	<rightascension>11 17 56</rightascension>
+	<declination>+05 59 18</declination>
+	<star>
+		<name>K2-50</name>
+		<mass errorminus="0.06" errorplus="0.06">0.61</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.55</radius>
+		<magV errorminus="0.050" errorplus="0.050">14.717</magV>
+		<magB errorminus="0.060" errorplus="0.060">15.981</magB>
+		<magJ errorminus="0.027" errorplus="0.027">12.410</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.765</magH>
+		<magK errorminus="0.023" errorplus="0.023">11.664</magK>
+		<temperature errorminus="128.00" errorplus="128.00">4326.00</temperature>
+		<planet>
+			<name>K2-50 b</name>
+			<radius errorminus="0.021" errorplus="0.021">0.142</radius>
+			<period errorminus="0.00130000" errorplus="0.00130000">8.75290000</period>
+			<semimajoraxis errorminus="0.002200" errorplus="0.002200">0.070500</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007400" errorplus="0.007400" unit="BJD_TDB">2456810.331100</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

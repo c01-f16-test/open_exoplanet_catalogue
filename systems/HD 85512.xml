@@ -2,31 +2,36 @@
 	<name>HD 85512</name>
 	<rightascension>09 51 07</rightascension>
 	<declination>-43 30 10</declination>
-	<distance>11.15</distance>
+	<distance errorminus="0.10" errorplus="0.10">11.15</distance>
 	<star>
 		<name>HD 85512</name>
 		<mass>0.69</mass>
-		<magV>7.67</magV>
-		<magB>8.83</magB>
+		<magV>7.670</magV>
+		<magB>8.826</magB>
 		<magR>6.934</magR>
 		<magI>6.319</magI>
 		<magJ errorminus="0.018" errorplus="0.018">5.451</magJ>
-		<magH>4.998</magH>
+		<magH errorminus="0.026" errorplus="0.026">4.998</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.717</magK>
-		<temperature>4715.0</temperature>
-		<metallicity>-0.33</metallicity>
-		<spectraltype>K5V</spectraltype>
+		<temperature errorminus="102.00" errorplus="102.00">4715.00</temperature>
+		<age errorminus="0.610" errorplus="0.610">5.610</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.330</metallicity>
+		<spectraltype>K5 V</spectraltype>
 		<planet>
 			<name>HD 85512 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.011</mass>
-			<period>58.43</period>
-			<semimajoraxis>0.26</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
-			<temperature>297.4</temperature>
+			<mass errorminus="0.00200" errorplus="0.00200" type="Msin(i)/sin(i)">0.01100</mass>
+			<period errorminus="0.13000000" errorplus="0.13000000">58.43000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.260000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.110000</eccentricity>
+			<periastron errorminus="0.5800" errorplus="0.5800">178.0000</periastron>
+			<periastrontime>2455239.708887</periastrontime>
+			<maximumrvtime>2455239.708887</maximumrvtime>
+			<inclination>90.000</inclination>
+			<temperature>298</temperature>
 			<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

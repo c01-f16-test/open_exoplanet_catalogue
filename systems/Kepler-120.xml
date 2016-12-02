@@ -2,7 +2,7 @@
 	<name>Kepler-120</name>
 	<name>KOI-222</name>
 	<name>KIC 4249725</name>
-	<rightascension>19 11 34</rightascension>
+	<rightascension>19 11 33</rightascension>
 	<declination>+39 20 20</declination>
 	<distance>267.74</distance>
 	<star>
@@ -10,11 +10,13 @@
 		<name>KOI-222</name>
 		<name>KIC 4249725</name>
 		<mass errorminus="0.0140" errorplus="0.0140">0.6540</mass>
-		<radius errorminus=".028" errorplus="0.028">0.534</radius>
+		<radius errorminus="0.03" errorplus="0.03">0.53</radius>
+		<magV>14.735</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.019</magJ>
-		<magH errorminus="0.026" errorplus="0.026">12.418</magH>
+		<magH errorminus="0.025" errorplus="0.025">12.418</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.307</magK>
-		<temperature errorminus="50" errorplus="150">4096</temperature>
+		<temperature errorminus="150.00" errorplus="150.00">4096.00</temperature>
+		<metallicity>-0.449</metallicity>
 		<planet>
 			<name>Kepler-120 b</name>
 			<name>KOI-222 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 4249725 b</name>
 			<name>KIC 4249725.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.19593</radius>
-			<period errorminus=".000008" errorplus="0.000008">6.312501</period>
+			<radius errorminus="0.015" errorplus="0.015">0.192</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">6.31250100</period>
+			<semimajoraxis>0.055000</semimajoraxis>
 			<description>Kepler-120 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-120 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0008400" errorplus="0.0008400">2454965.6541900</transittime>
+			<transittime errorminus=".000840" errorplus="0.000840" unit="BJD">2454965.654190</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 4249725 c</name>
 			<name>KIC 4249725.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.13943</radius>
-			<period errorminus=".000044" errorplus="0.000044">12.794585</period>
+			<radius errorminus="0.008" errorplus="0.008">0.136</radius>
+			<period errorminus="0.00004400" errorplus="0.00004400">12.79458500</period>
+			<semimajoraxis>0.088000</semimajoraxis>
 			<description>Kepler-120 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-120 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020900" errorplus="0.0020900">2454963.7646400</transittime>
+			<transittime errorminus=".002090" errorplus="0.002090" unit="BJD">2454963.764640</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -5,17 +5,17 @@
 	<distance>3040</distance>
 	<star>
 		<name>MOA-2009-BLG-266L</name>
-		<mass>0.56</mass>
+		<mass errorminus="0.09" errorplus="0.09">0.56</mass>
 		<temperature>5700.0</temperature>
 		<planet>
 			<name>MOA-2009-BLG-266L b</name>
 			<name>MOA 2009-BLG-266 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0327</mass>
-			<period>2780</period>
-			<semimajoraxis>3.2</semimajoraxis>
+			<mass errorminus="0.005" errorplus="0.005">0.0327</mass>
+			<period errorminus="500.0" errorplus="500.0">2780.0</period>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">3.2</semimajoraxis>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>11/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

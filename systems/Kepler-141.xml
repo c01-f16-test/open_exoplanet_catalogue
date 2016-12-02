@@ -9,12 +9,14 @@
 		<name>Kepler-141</name>
 		<name>KOI-338</name>
 		<name>KIC 10552611</name>
-		<mass errorminus="0.0240" errorplus="0.0240">1.0010</mass>
-		<radius errorminus=".044" errorplus="0.044">0.787</radius>
+		<mass errorminus="0.0240" errorplus="0.0240">1.00</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
+		<magV>13.448</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.955</magJ>
 		<magH errorminus="0.017" errorplus="0.017">11.485</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.393</magK>
-		<temperature errorminus="100" errorplus="100">4910</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4910.00</temperature>
+		<metallicity>0.538</metallicity>
 		<planet>
 			<name>Kepler-141 c</name>
 			<name>KOI-338 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10552611 c</name>
 			<name>KIC 10552611.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.12849</radius>
-			<period errorminus=".000020" errorplus="0.000020">7.010606</period>
+			<radius errorminus="0.008" errorplus="0.008">0.126</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">7.01060600</period>
+			<semimajoraxis>0.067000</semimajoraxis>
 			<description>Kepler-141 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-141 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014200" errorplus="0.0014200">2455007.5759900</transittime>
+			<transittime errorminus=".001420" errorplus="0.001420" unit="BJD">2455007.575990</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10552611 b</name>
 			<name>KIC 10552611.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00456" errorplus="0.00456">0.06288</radius>
-			<period errorminus=".000022" errorplus="0.000022">3.107675</period>
+			<radius errorminus="0.004" errorplus="0.004">0.062</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">3.10767500</period>
+			<semimajoraxis>0.039000</semimajoraxis>
 			<description>Kepler-141 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-141 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037400" errorplus="0.0037400">2454965.6305800</transittime>
+			<transittime errorminus=".003740" errorplus="0.003740" unit="BJD">2454965.630580</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

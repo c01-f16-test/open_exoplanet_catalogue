@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1635</name>
-	<rightascension>19 01 24</rightascension>
+	<rightascension>19 01 23</rightascension>
 	<declination>+45 33 22</declination>
+	<distance errorminus="62.41" errorplus="97.27">1084.00</distance>
 	<star>
 		<name>Kepler-1635</name>
 		<mass errorminus="0.04" errorplus="0.04">0.89</mass>
 		<radius errorminus="0.04" errorplus="0.08">0.85</radius>
-		<temperature errorminus="54.0" errorplus="51.1">5347.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.16">0.06</metallicity>
+		<magV>15.696</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.345</magJ>
+		<magH errorminus="0.035" errorplus="0.035">13.997</magH>
+		<magK errorminus="0.061" errorplus="0.061">13.895</magK>
+		<temperature errorminus="53.97" errorplus="51.14">5347.00</temperature>
+		<age errorminus="3.160" errorplus="6.250">4.900</age>
+		<metallicity errorminus="0.158" errorplus="0.161">0.060</metallicity>
 		<planet>
 			<name>Kepler-1635 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.060" errorplus="0.029">0.325</radius>
-			<period errorminus="0.012460000" errorplus="0.012460000">469.631110000</period>
+			<period errorminus="0.01246000" errorplus="0.01246000">469.63111000</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".013700" errorplus="0.013700" unit="JD">2455255.495400</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,22 +2,29 @@
 	<name>Kepler-785</name>
 	<rightascension>19 28 16</rightascension>
 	<declination>+38 50 32</declination>
+	<distance errorminus="30.11" errorplus="28.64">666.00</distance>
 	<star>
 		<name>Kepler-785</name>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.71</radius>
-		<temperature errorminus="70.0" errorplus="115.5">4739.0</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">-0.02</metallicity>
+		<magV>15.715</magV>
+		<magJ errorminus="0.025" errorplus="0.025">14.079</magJ>
+		<magH errorminus="0.030" errorplus="0.030">13.550</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.381</magK>
+		<temperature errorminus="69.98" errorplus="115.49">4739.00</temperature>
+		<age errorminus="1.290" errorplus="4.700">2.820</age>
+		<metallicity errorminus="0.133" errorplus="0.131">-0.020</metallicity>
 		<planet>
 			<name>Kepler-785 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.047" errorplus="0.039">1.162</radius>
-			<period errorminus="0.000000100" errorplus="0.000000100">1.973760930</period>
+			<period errorminus="0.00000010" errorplus="0.00000010">1.97376093</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000040" errorplus="0.000040" unit="JD">2455011.689372</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

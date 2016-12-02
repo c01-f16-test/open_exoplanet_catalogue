@@ -9,12 +9,14 @@
 		<name>Kepler-245</name>
 		<name>KOI-869</name>
 		<name>KIC 6948054</name>
-		<mass errorminus="0.0640" errorplus="0.0640">0.7770</mass>
-		<radius errorminus=".053" errorplus="0.053">0.795</radius>
+		<mass errorminus="0.0640" errorplus="0.0640">0.80</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
+		<magV>15.599</magV>
 		<magJ errorminus="0.028" errorplus="0.028">14.121</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.69</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.64</magK>
-		<temperature errorminus="100" errorplus="100">5100</temperature>
+		<magH errorminus="0.033" errorplus="0.033">13.688</magH>
+		<magK errorminus="0.053" errorplus="0.053">13.639</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5100.00</temperature>
+		<metallicity>-0.028</metallicity>
 		<planet>
 			<name>Kepler-245 b</name>
 			<name>KOI-869 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6948054 b</name>
 			<name>KIC 6948054.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01640" errorplus="0.01640">0.23420</radius>
-			<period errorminus=".000019" errorplus="0.000019">7.490190</period>
+			<radius errorminus="0.016" errorplus="0.016">0.229</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">7.49019000</period>
+			<semimajoraxis>0.071000</semimajoraxis>
 			<description>Kepler-245 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013200" errorplus="0.0013200">2455007.9491900</transittime>
+			<transittime errorminus=".001320" errorplus="0.001320" unit="BJD">2455007.949190</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6948054 d</name>
 			<name>KIC 6948054.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.01914">0.27612</radius>
-			<period errorminus=".000173" errorplus="0.000173">36.277108</period>
+			<radius errorminus="0.019" errorplus="0.019">0.270</radius>
+			<period errorminus="0.00017300" errorplus="0.00017300">36.27710800</period>
+			<semimajoraxis>0.202000</semimajoraxis>
 			<description>Kepler-245 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0026400" errorplus="0.0026400">2455034.2779700</transittime>
+			<transittime errorminus=".002640" errorplus="0.002640" unit="BJD">2455034.277970</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,25 +58,27 @@
 			<name>KIC 6948054 c</name>
 			<name>KIC 6948054.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.19866</radius>
-			<period errorminus=".000076" errorplus="0.000076">17.460812</period>
+			<radius errorminus="0.015" errorplus="0.015">0.194</radius>
+			<period errorminus="0.00007600" errorplus="0.00007600">17.46081200</period>
+			<semimajoraxis>0.124000</semimajoraxis>
 			<description>Kepler-245 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-245 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025600" errorplus="0.0025600">2454970.2644100</transittime>
+			<transittime errorminus=".002560" errorplus="0.002560" unit="BJD">2454970.264410</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-245 e</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.005" errorplus="0.007">0.156</radius>
-			<period errorminus="0.000004740" errorplus="0.000004740">3.219821060</period>
+			<period errorminus="0.00000474" errorplus="0.00000474">3.21982106</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001190" errorplus="0.001190" unit="JD">2454966.003100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

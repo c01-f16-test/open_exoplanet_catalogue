@@ -1,0 +1,89 @@
+<system>
+	<name>GJ 433</name>
+	<name>Gliese 433</name>
+	<rightascension>11 35 26</rightascension>
+	<declination>-32 32 23</declination>
+	<distance errorminus="0.15" errorplus="0.14">9.04</distance>
+	<star>
+		<name>Gliese 433</name>
+		<mass>0.48</mass>
+		<magV>9.79</magV>
+		<magB>11.322</magB>
+		<magR>8.821</magR>
+		<magI>7.664</magI>
+		<magJ errorminus="0.018" errorplus="0.018">6.471</magJ>
+		<magH errorminus="0.036" errorplus="0.036">5.856</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.623</magK>
+		<temperature>3600.0</temperature>
+		<metallicity>-0.22</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>Gliese 433 b</name>
+			<name>GJ 433 b</name>
+			<name>Gj 433 b</name>
+			<name>Gl 433 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.006" errorplus="0.0063">0.0167</mass>
+			<period errorminus="0.36" errorplus="0.34">7.3697</period>
+			<semimajoraxis errorminus="0.08" errorplus="0.04">0.060</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.16">0.05</eccentricity>
+			<temperature>416.2</temperature>
+			<description>The star Gliese 433 is a red dwarf in the constellation Hydro. The radial velocity data shows an additional signal with a period of 10 years. However, due to a strong correlation with various activity indicators of the star, it is most likely due to a magnetic cycle and not a planet. The cycle is similar to the Sun's 11 year cycle.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>Gliese 433 c</name>
+			<name>GJ 433 c</name>
+			<name>Gj 433 c</name>
+			<name>Gl 433 c</name>
+			<list>Controversial</list>
+			<mass errorminus="0.1385" errorplus="0.1385">0.1416</mass>
+			<period errorminus="1500" errorplus="1500">3400</period>
+			<semimajoraxis errorminus="1.4" errorplus="1.4">3.6</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.16">0.08</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 433</name>
+		<mass>0.48</mass>
+		<magV errorminus="0.015" errorplus="0.015">9.806</magV>
+		<magB errorminus="0.021" errorplus="0.021">11.320</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.471</magJ>
+		<magH errorminus="0.036" errorplus="0.036">5.856</magH>
+		<magK errorminus="0.021" errorplus="0.021">5.623</magK>
+		<temperature>3600.00</temperature>
+		<metallicity>-0.220</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>GJ 433 b</name>
+			<mass errorminus="0.00597" errorplus="0.00629" type="Msini">0.01800</mass>
+			<period errorminus="0.00080000" errorplus="0.00080000">7.37090000</period>
+			<semimajoraxis errorminus="0.008" errorplus="0.004">0.058000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.080000</eccentricity>
+			<periastron errorminus="54.0000" errorplus="54.0000">-156.0000</periastron>
+			<periastrontime errorminus="1.000000" errorplus="1.000000">2454287.000000</periastrontime>
+			<maximumrvtime errorminus="1.000000" errorplus="1.000000">2454287.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 433 c</name>
+			<mass>0.14</mass>
+			<period errorminus="253.0" errorplus="253.0">3693.0</period>
+			<semimajoraxis>3.6</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.17</eccentricity>
+			<periastron errorminus="36.0" errorplus="36.0">206.0</periastron>
+			<periastrontime errorminus="462.0" errorplus="462.0">2456740.0</periastrontime>
+			<maximumrvtime errorminus="462.0" errorplus="462.0">2456740.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

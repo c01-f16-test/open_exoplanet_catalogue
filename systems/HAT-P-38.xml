@@ -1,34 +1,36 @@
 <system>
 	<name>HAT-P-38</name>
-	<rightascension>02 21 32</rightascension>
-	<declination>+32 14 47</declination>
-	<distance>249</distance>
+	<rightascension>02 21 31</rightascension>
+	<declination>+32 14 46</declination>
+	<distance errorminus="19.00" errorplus="26.00">249.00</distance>
 	<star>
 		<name>HAT-P-38</name>
-		<mass>0.886</mass>
-		<radius>0.923</radius>
+		<mass errorminus="0.044" errorplus="0.04">0.89</mass>
+		<radius errorminus="0.067" errorplus="0.10">0.92</radius>
 		<magV errorminus="0.094" errorplus="0.094">12.557</magV>
 		<magB>12.2</magB>
-		<magJ errorminus="0.022" errorplus="0.022">10.989</magJ>
-		<magH errorminus="0.021" errorplus="0.021">10.593</magH>
-		<magK errorminus="0.017" errorplus="0.017">10.501</magK>
-		<temperature>5330.0</temperature>
-		<metallicity>0.06</metallicity>
+		<magJ errorminus="0.018" errorplus="0.018">10.989</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.593</magH>
+		<magK errorminus="0.014" errorplus="0.014">10.501</magK>
+		<temperature errorminus="100.0" errorplus="100.00">5330.00</temperature>
+		<age errorminus="4.8" errorplus="4.8">10.1</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.06</metallicity>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>HAT-P-38 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.267</mass>
-			<radius>0.825</radius>
-			<period>4.640382</period>
-			<semimajoraxis>0.0523</semimajoraxis>
-			<eccentricity>0.067</eccentricity>
-			<inclination>88.3</inclination>
-			<temperature>987.0</temperature>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Mass">0.26700</mass>
+			<radius errorminus="0.063" errorplus="0.092">0.825</radius>
+			<period errorminus="0.00003200" errorplus="0.00003200">4.64038200</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.052300</semimajoraxis>
+			<eccentricity errorminus="0.047000" errorplus="0.047000">0.067000</eccentricity>
+			<periastron errorminus="104.0000" errorplus="104.0000">240.0000</periastron>
+			<inclination errorminus="0.700" errorplus="0.700">88.300</inclination>
+			<temperature errorminus="55" errorplus="55">1082</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455863.11957</transittime>
+			<transittime errorminus=".000350" errorplus="0.000350" unit="BJD-UTC">2455863.119570</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

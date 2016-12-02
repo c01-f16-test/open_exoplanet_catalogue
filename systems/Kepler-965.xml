@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-965</name>
-	<rightascension>19 54 04</rightascension>
+	<rightascension>19 54 03</rightascension>
 	<declination>+41 53 28</declination>
+	<distance errorminus="69.26" errorplus="102.01">618.00</distance>
 	<star>
 		<name>Kepler-965</name>
 		<mass errorminus="0.04" errorplus="0.04">1.05</mass>
 		<radius errorminus="0.13" errorplus="0.19">1.15</radius>
-		<temperature errorminus="64.8" errorplus="79.4">5886.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.09">0.03</metallicity>
+		<magV>13.350</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.298</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.979</magH>
+		<magK errorminus="0.019" errorplus="0.019">11.910</magK>
+		<temperature errorminus="64.81" errorplus="79.36">5886.00</temperature>
+		<age errorminus="2.540" errorplus="1.600">5.500</age>
+		<metallicity errorminus="0.095" errorplus="0.092">0.030</metallicity>
 		<planet>
 			<name>Kepler-965 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.035" errorplus="0.049">0.302</radius>
-			<period errorminus="0.000566100" errorplus="0.000566100">134.252729800</period>
+			<period errorminus="0.00056610" errorplus="0.00056610">134.25272980</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003080" errorplus="0.003080" unit="JD">2455015.704100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

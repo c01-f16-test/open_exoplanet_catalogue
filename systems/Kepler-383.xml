@@ -9,12 +9,14 @@
 		<name>Kepler-383</name>
 		<name>KOI-2413</name>
 		<name>KIC 3234598</name>
-		<mass errorminus="0.0170" errorplus="0.0170">0.6690</mass>
-		<radius errorminus=".265" errorplus="0.265">0.672</radius>
+		<mass errorminus="0.0170" errorplus="0.0170">0.67</mass>
+		<radius errorminus="0.27" errorplus="0.27">0.67</radius>
+		<magV>15.070</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.367</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.807</magH>
 		<magK errorminus="0.030" errorplus="0.030">12.674</magK>
-		<temperature errorminus="200" errorplus="200">4710</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">4710.00</temperature>
+		<metallicity>-0.157</metallicity>
 		<planet>
 			<name>Kepler-383 b</name>
 			<name>KOI-2413 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3234598 b</name>
 			<name>KIC 3234598.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04739" errorplus="0.04739">0.12029</radius>
-			<period errorminus=".000121" errorplus="0.000121">12.904532</period>
+			<radius errorminus="0.046" errorplus="0.046">0.118</radius>
+			<period errorminus="0.00012100" errorplus="0.00012100">12.90453200</period>
+			<semimajoraxis>0.095000</semimajoraxis>
 			<description>Kepler-383 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-383 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0055700" errorplus="0.0055700">2454977.3198500</transittime>
+			<transittime errorminus=".005570" errorplus="0.005570" unit="BJD">2454977.319850</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 3234598 c</name>
 			<name>KIC 3234598.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04465" errorplus="0.04465">0.11300</radius>
-			<period errorminus=".000354" errorplus="0.000354">31.200751</period>
+			<radius errorminus="0.044" errorplus="0.044">0.111</radius>
+			<period errorminus="0.00035400" errorplus="0.00035400">31.20075100</period>
+			<semimajoraxis>0.172000</semimajoraxis>
 			<description>Kepler-383 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-383 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0071000" errorplus="0.0071000">2454973.0756800</transittime>
+			<transittime errorminus=".007100" errorplus="0.007100" unit="BJD">2454973.075680</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

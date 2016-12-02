@@ -1,0 +1,23 @@
+<system>
+	<name>KIC 5010054</name>
+	<declination>+40 10 58</declination>
+	<star>
+		<name>KIC 5010054</name>
+		<mass errorminus="0.21" errorplus="0.15">1.05</mass>
+		<radius errorminus="0.45" errorplus="0.4">2.17</radius>
+		<magV>14.5</magV>
+		<temperature>5550.0</temperature>
+		<planet>
+			<name>KIC 5010054 b</name>
+			<radius errorminus="0.14" errorplus="0.14">0.62</radius>
+			<period errorminus="0.0113" errorplus="0.0146">904.24</period>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">1.86</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.05" errorplus="0.2">89.79</inclination>
+			<temperature>251.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,8 +1,8 @@
 <system>
 	<name>14 Her</name>
-	<rightascension>16 10 23</rightascension>
-	<declination>+43 49 18</declination>
-	<distance>18.1</distance>
+	<rightascension>16 10 24</rightascension>
+	<declination>+43 49 03</declination>
+	<distance errorminus="0.20" errorplus="0.19">18.15</distance>
 	<star>
 		<name>14 Her</name>
 		<name>HD 145675</name>
@@ -13,32 +13,35 @@
 		<name>GJ 614</name>
 		<name>BD+44 2549</name>
 		<name>2MASS J16102432+4349037</name>
-		<mass>1.0</mass>
-		<radius>0.708</radius>
-		<magV>6.67</magV>
-		<magB>7.57</magB>
+		<mass errorminus="0.05" errorplus="0.05">0.90</mass>
+		<radius errorminus="0.085" errorplus="0.085">0.708</radius>
+		<magV errorminus="0.020" errorplus="0.020">6.610</magV>
+		<magB errorminus="0.020" errorplus="0.020">7.490</magB>
 		<magR>6.1</magR>
 		<magI>5.6</magI>
 		<magJ errorminus="0.029" errorplus="0.029">5.158</magJ>
 		<magH errorminus="0.016" errorplus="0.016">4.803</magH>
 		<magK errorminus="0.016" errorplus="0.016">4.714</magK>
-		<temperature>5311.0</temperature>
-		<metallicity>0.43</metallicity>
+		<temperature errorminus="87.00" errorplus="87.00">5311.00</temperature>
+		<age>5.1</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.430</metallicity>
 		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>14 Her b</name>
 			<name>HD 145675 b</name>
 			<name>GJ 614 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.975</mass>
-			<period>1766</period>
-			<semimajoraxis>2.864</semimajoraxis>
-			<eccentricity>0.359</eccentricity>
-			<periastron>22.230</periastron>
+			<mass errorminus="0.19000" errorplus="0.19000" type="Msini">4.64000</mass>
+			<period errorminus="2.50000000" errorplus="2.50000000">1773.40000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">2.770000</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.005000">0.369000</eccentricity>
+			<periastron errorminus="0.9000" errorplus="0.9000">22.6000</periastron>
+			<periastrontime errorminus="3.600000" errorplus="3.600000">2451372.700000</periastrontime>
+			<maximumrvtime errorminus="3.600000" errorplus="3.600000">2451372.700000</maximumrvtime>
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>
@@ -54,7 +57,7 @@
 			<meananomaly>81.976</meananomaly>
 			<description>14 Her c is the second companion in the system. Its properties are not yet well-constrained, though both radial velocity and direct imaging results give some constraints on its properties.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

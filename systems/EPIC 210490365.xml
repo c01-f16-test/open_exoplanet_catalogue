@@ -1,24 +1,24 @@
 <system>
 	<name>EPIC 210490365</name>
 	<name>K2-25</name>
-	<rightascension>04 13 05.61</rightascension>
-	<declination>+15 14 52.00</declination>
-	<distance errorminus="3.3" errorplus="3.3">45.7</distance>
+	<rightascension>04 13 05</rightascension>
+	<declination>+15 14 51</declination>
+	<distance errorminus="3.30" errorplus="3.30">45.70</distance>
 	<star>
 		<name>EPIC 210490365</name>
 		<name>K2-25</name>
 		<name>2MASS J04130560+1514520</name>
 		<name>Melotte 25 VA 50</name>
 		<name>Melotte 25 HAN 87</name>
-		<mass errorminus="0.021" errorplus="0.021">0.294</mass>
-		<radius errorminus="0.020" errorplus="0.020">0.295</radius>
+		<mass errorminus="0.02" errorplus="0.02">0.29</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.29</radius>
 		<magV errorminus="0.030" errorplus="0.030">15.881</magV>
 		<magB errorminus="0.289" errorplus="0.289">17.760</magB>
 		<magJ errorminus="0.021" errorplus="0.021">11.303</magJ>
 		<magH errorminus="0.020" errorplus="0.020">10.732</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.444</magK>
-		<temperature errorminus="60" errorplus="60">3180</temperature>
-		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
+		<temperature errorminus="60.00" errorplus="60.00">3180.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">0.150</metallicity>
 		<spectraltype errorminus="0.3">M4.5</spectraltype>
 		<planet>
 			<name>EPIC 210490365 b</name>
@@ -26,15 +26,15 @@
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
 			<radius errorminus="0.028" errorplus="0.085">0.306</radius>
-			<period errorminus="0.000037" errorplus="0.000031">3.484552</period>
-			<eccentricity errorminus="0.21" errorplus="0.16">0.27</eccentricity>
-			<periastron errorminus="39.28" errorplus="44.46">62.10</periastron>
-			<inclination errorminus="0.70" errorplus="1.16">88.32</inclination>
+			<period errorminus="0.00003700" errorplus="0.00003100">3.48455200</period>
+			<eccentricity errorminus="0.210000" errorplus="0.160000">0.270000</eccentricity>
+			<periastron errorminus="39.0000" errorplus="44.0000">62.0000</periastron>
+			<inclination errorminus="0.700" errorplus="1.200">88.300</inclination>
 			<description>EPIC 210490365 b is a Neptune-sized planet orbiting a red dwarf star in the Hyades cluster.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00024" errorplus="0.00049" unit="BJD">2457062.57935</transittime>
+			<transittime errorminus=".000240" errorplus="0.000490" unit="BJD">2457062.079350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

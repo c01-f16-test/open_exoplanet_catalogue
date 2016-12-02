@@ -1,40 +1,44 @@
 <system>
 	<name>CoRoT-9</name>
-	<rightascension>18 43 09</rightascension>
+	<rightascension>18 43 08</rightascension>
 	<declination>+06 12 15</declination>
-	<distance>460</distance>
+	<distance>460.00</distance>
 	<star>
 		<name>CoRoT-9</name>
-		<mass>0.99</mass>
-		<radius>0.94</radius>
-		<magV errorminus="0.31" errorplus="0.31">13.46</magV>
-		<magB errorminus="0.43" errorplus="0.43">14.57</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.99</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.94</radius>
+		<magV errorminus="0.31" errorplus="0.31">13.690</magV>
+		<magB errorminus="0.43" errorplus="0.43">14.550</magB>
 		<magR errorminus="0.12" errorplus="0.12">13.75</magR>
 		<magJ errorminus="0.028" errorplus="0.028">12.175</magJ>
 		<magH errorminus="0.021" errorplus="0.021">11.813</magH>
 		<magK errorminus="0.023" errorplus="0.023">11.688</magK>
-		<temperature>5625.0</temperature>
-		<metallicity>-0.01</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<temperature errorminus="80.00" errorplus="80.00">5625.00</temperature>
+		<age errorminus="3.0" errorplus="3.0">4.0</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.010</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>CoRoT-9 b</name>
 			<name>CoRoT-Exo-9 b</name>
 			<name>2MASS J18430881+0612150 b</name>
 			<name>CoRoTID 105891283 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.84</mass>
-			<radius>1.05</radius>
-			<period>95.2738</period>
-			<semimajoraxis>0.407</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
-			<inclination>89.9</inclination>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Mass">0.84000</mass>
+			<radius errorminus="0.040" errorplus="0.040">1.050</radius>
+			<period errorminus="0.00140000" errorplus="0.00140000">95.27380000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.407000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.110000</eccentricity>
+			<periastron errorminus="37.0000" errorplus="9.0000">37.0000</periastron>
+			<periastrontime errorminus="0.000100" errorplus="0.000100">2454603.344700</periastrontime>
+			<maximumrvtime errorminus="0.000100" errorplus="0.000100">2454603.344700</maximumrvtime>
+			<inclination errorminus="0.040" errorplus="0.010">89.990</inclination>
 			<temperature>376.6</temperature>
 			<description>The star CoRoT 9 is located in the constellation Serpens. The density of the planet is approximately that of water.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454603.3454</transittime>
+			<transittime errorminus=".000100" errorplus="0.000100" unit="HJD">2454603.344700</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/03/17</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-733</name>
 	<rightascension>19 32 04</rightascension>
-	<declination>+45 54 53</declination>
+	<declination>+45 54 52</declination>
+	<distance errorminus="63.68" errorplus="89.42">980.00</distance>
 	<star>
 		<name>Kepler-733</name>
 		<mass errorminus="0.05" errorplus="0.04">0.90</mass>
 		<radius errorminus="0.05" errorplus="0.08">0.86</radius>
-		<temperature errorminus="94.3" errorplus="89.8">5418.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.01</metallicity>
+		<magV>15.412</magV>
+		<magJ errorminus="0.032" errorplus="0.032">14.141</magJ>
+		<magH errorminus="0.038" errorplus="0.038">13.726</magH>
+		<magK errorminus="0.043" errorplus="0.043">13.648</magK>
+		<temperature errorminus="94.34" errorplus="89.83">5418.00</temperature>
+		<age errorminus="2.600" errorplus="6.040">4.270</age>
+		<metallicity errorminus="0.160" errorplus="0.140">0.010</metallicity>
 		<planet>
 			<name>Kepler-733 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.041">0.252</radius>
-			<period errorminus="0.000056820" errorplus="0.000056820">20.834247260</period>
+			<period errorminus="0.00005682" errorplus="0.00005682">20.83424726</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002150" errorplus="0.002150" unit="JD">2455009.585690</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

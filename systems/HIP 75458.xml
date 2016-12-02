@@ -2,37 +2,40 @@
 	<name>HIP 75458</name>
 	<rightascension>15 24 55</rightascension>
 	<declination>+58 57 57</declination>
-	<distance>31.5</distance>
+	<distance errorminus="0.51" errorplus="0.49">31.33</distance>
 	<star>
 		<name>iota Draconis</name>
 		<name>HIP 75458</name>
 		<name>HD 137759</name>
-		<mass>1.4</mass>
-		<radius>12.8</radius>
-		<magV>3.31</magV>
-		<magB>4.493</magB>
+		<mass errorminus="0.2" errorplus="0.2">1.05</mass>
+		<radius errorminus="0.17" errorplus="0.17">12.8</radius>
+		<magV>3.290</magV>
+		<magB>4.450</magB>
 		<magR>2.51</magR>
 		<magI>1.91</magI>
-		<magJ>1.38</magJ>
+		<magJ errorminus="0.220" errorplus="0.220">1.293</magJ>
 		<magH errorminus="0.146" errorplus="0.146">0.724</magH>
-		<magK>0.68</magK>
-		<temperature>4445.0</temperature>
-		<metallicity>0.15</metallicity>
+		<magK errorminus="0.200" errorplus="0.200">0.671</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4530.00</temperature>
+		<metallicity errorminus="0.200" errorplus="0.200">0.290</metallicity>
 		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>iota Draconis b</name>
 			<name>HIP 75458 b</name>
 			<name>HD 137759 b</name>
 			<list>Confirmed planets</list>
-			<mass>8.82</mass>
-			<period>510.702</period>
-			<semimajoraxis>1.275</semimajoraxis>
-			<eccentricity>0.713</eccentricity>
-			<inclination>69.9</inclination>
+			<mass errorminus="0.72000" errorplus="0.72000" type="Msini">8.82000</mass>
+			<period errorminus="0.08900000" errorplus="0.08900000">511.09800000</period>
+			<semimajoraxis errorminus="0.074000" errorplus="0.074000">1.275000</semimajoraxis>
+			<eccentricity errorminus="0.003900" errorplus="0.003900">0.712400</eccentricity>
+			<periastron errorminus="0.8100" errorplus="0.8100">91.5800</periastron>
+			<periastrontime errorminus="0.300000" errorplus="0.300000">2452014.590000</periastrontime>
+			<maximumrvtime errorminus="0.300000" errorplus="0.300000">2452014.590000</maximumrvtime>
+			<inclination errorminus="43.3" errorplus="43.3">69.9</inclination>
 			<temperature>598.2</temperature>
 			<description>The planet iota Droconis b has a very eccentric orbit. Kanet et al (2010) report a transit probability that is higher than that of a typical Hot Jupiter in a 5 day orbit. However, the weakness of the transit signal requires space-based observations to achieve an unambiguous transit detection.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/01/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

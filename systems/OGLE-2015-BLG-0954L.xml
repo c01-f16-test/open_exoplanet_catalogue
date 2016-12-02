@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE-2015-BLG-0954L</name>
+	<declination>-28 39 39</declination>
+	<star>
+		<name>OGLE-2015-BLG-0954L</name>
+		<mass errorminus="0.14" errorplus="0.14">0.37</mass>
+		<planet>
+			<name>OGLE-2015-BLG-0954L b</name>
+			<mass errorminus="1.6" errorplus="1.6" type="Microlensing">4.4</mass>
+			<semimajoraxis>1.2</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

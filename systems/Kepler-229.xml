@@ -10,11 +10,13 @@
 		<name>KOI-757</name>
 		<name>KIC 10910878</name>
 		<mass errorminus="0.0880" errorplus="0.0880">0.7940</mass>
-		<radius errorminus=".257" errorplus="0.257">0.728</radius>
-		<magJ errorminus="0.04" errorplus="0.04">14.36</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.87</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.79</magK>
-		<temperature errorminus="200" errorplus="200">5120</temperature>
+		<radius errorminus="0.26" errorplus="0.26">0.73</radius>
+		<magV>15.841</magV>
+		<magJ errorminus="0.036" errorplus="0.036">14.363</magJ>
+		<magH errorminus="0.044" errorplus="0.044">13.868</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.785</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5120.00</temperature>
+		<metallicity>-0.109</metallicity>
 		<planet>
 			<name>Kepler-229 c</name>
 			<name>KOI-757 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10910878 c</name>
 			<name>KIC 10910878.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06744" errorplus="0.15857">0.44836</radius>
-			<period errorminus=".000019" errorplus="0.000019">16.068638</period>
+			<radius errorminus="0.155" errorplus="0.155">0.439</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">16.06863800</period>
+			<semimajoraxis>0.117000</semimajoraxis>
 			<description>Kepler-229 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-229 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006200" errorplus="0.0006200">2455006.6216500</transittime>
+			<transittime errorminus=".000620" errorplus="0.000620" unit="BJD">2455006.621650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10910878 d</name>
 			<name>KIC 10910878.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03463" errorplus="0.12576">0.35085</radius>
-			<period errorminus=".000248" errorplus="0.000248">41.194912</period>
+			<radius errorminus="0.123" errorplus="0.123">0.343</radius>
+			<period errorminus="0.00024800" errorplus="0.00024800">41.19491200</period>
+			<semimajoraxis>0.220000</semimajoraxis>
 			<description>Kepler-229 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-229 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0031600" errorplus="0.0031600">2454998.0236500</transittime>
+			<transittime errorminus=".003160" errorplus="0.003160" unit="BJD">2454998.023650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10910878 b</name>
 			<name>KIC 10910878.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07108" errorplus="0.07108">0.20049</radius>
-			<period errorminus=".000021" errorplus="0.000021">6.252972</period>
+			<radius errorminus="0.070" errorplus="0.070">0.196</radius>
+			<period errorminus="0.00002100" errorplus="0.00002100">6.25297200</period>
+			<semimajoraxis>0.062000</semimajoraxis>
 			<description>Kepler-229 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-229 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018000" errorplus="0.0018000">2455004.2988400</transittime>
+			<transittime errorminus=".001800" errorplus="0.001800" unit="BJD">2455004.298840</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

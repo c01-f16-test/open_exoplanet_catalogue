@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE-2014-BLG-0124L</name>
+	<declination>-28 23 47</declination>
+	<star>
+		<name>OGLE-2014-BLG-0124L</name>
+		<mass errorminus="0.22" errorplus="0.22">0.71</mass>
+		<planet>
+			<name>OGLE-2014-BLG-0124L b</name>
+			<mass type="Microlensing">0.5</mass>
+			<semimajoraxis>3.1</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

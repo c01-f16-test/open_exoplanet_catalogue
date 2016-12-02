@@ -9,12 +9,14 @@
 		<name>Kepler-298</name>
 		<name>KOI-1430</name>
 		<name>KIC 11176127</name>
-		<mass errorminus="0.0150" errorplus="0.0150">0.6600</mass>
-		<radius errorminus=".025" errorplus="0.025">0.582</radius>
+		<mass errorminus="0.0150" errorplus="0.0150">0.65</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.58</radius>
+		<magV>15.415</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.718</magJ>
 		<magH errorminus="0.022" errorplus="0.022">13.139</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.07</magK>
-		<temperature errorminus="100" errorplus="100">4465</temperature>
+		<magK errorminus="0.031" errorplus="0.031">13.075</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4465.00</temperature>
+		<metallicity>-0.121</metallicity>
 		<planet>
 			<name>Kepler-298 b</name>
 			<name>KOI-1430 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11176127 b</name>
 			<name>KIC 11176127.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.17862</radius>
-			<period errorminus=".000027" errorplus="0.000027">10.475464</period>
+			<radius errorminus="0.009" errorplus="0.009">0.175</radius>
+			<period errorminus="0.00002700" errorplus="0.00002700">10.47546400</period>
+			<semimajoraxis>0.080000</semimajoraxis>
 			<description>Kepler-298 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-298 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015000" errorplus="0.0015000">2454985.6415600</transittime>
+			<transittime errorminus=".001500" errorplus="0.001500" unit="BJD">2454985.641560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11176127 c</name>
 			<name>KIC 11176127.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.02005">0.17588</radius>
-			<period errorminus=".000380" errorplus="0.000380">22.928810</period>
+			<radius errorminus="0.020" errorplus="0.020">0.172</radius>
+			<period errorminus="0.00038000" errorplus="0.00038000">22.92881000</period>
+			<semimajoraxis>0.136000</semimajoraxis>
 			<description>Kepler-298 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-298 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0113400" errorplus="0.0113400">2455156.0337200</transittime>
+			<transittime errorminus=".011340" errorplus="0.011340" unit="BJD">2455156.033720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 11176127 d</name>
 			<name>KIC 11176127.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01823" errorplus="0.01823">0.22783</radius>
-			<period errorminus=".000615" errorplus="0.000615">77.473633</period>
+			<radius errorminus="0.018" errorplus="0.018">0.223</radius>
+			<period errorminus="0.00061500" errorplus="0.00061500">77.47363300</period>
+			<semimajoraxis>0.305000</semimajoraxis>
 			<description>Kepler-298 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-298 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0049000" errorplus="0.0049000">2455017.2473500</transittime>
+			<transittime errorminus=".004900" errorplus="0.004900" unit="BJD">2455017.247350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

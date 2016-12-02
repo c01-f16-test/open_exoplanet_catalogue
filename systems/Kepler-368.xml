@@ -9,12 +9,14 @@
 		<name>Kepler-368</name>
 		<name>KOI-2175</name>
 		<name>KIC 9022166</name>
-		<mass errorminus="0.3000" errorplus="0.3000">0.9700</mass>
-		<radius errorminus=".559" errorplus="0.559">2.019</radius>
+		<mass errorminus="0.3000" errorplus="0.3000">0.71</mass>
+		<radius errorminus="0.56" errorplus="0.56">2.02</radius>
+		<magV>12.848</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.600</magJ>
 		<magH errorminus="0.017" errorplus="0.017">11.229</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.175</magK>
-		<temperature errorminus="06" errorplus="206">5502</temperature>
+		<temperature errorminus="206.00" errorplus="206.00">5502.00</temperature>
+		<metallicity>-0.489</metallicity>
 		<planet>
 			<name>Kepler-368 b</name>
 			<name>KOI-2175 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9022166 b</name>
 			<name>KIC 9022166.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08293" errorplus="0.08293">0.29708</radius>
-			<period errorminus=".000326" errorplus="0.000326">26.847680</period>
+			<radius errorminus="0.081" errorplus="0.081">0.291</radius>
+			<period errorminus="0.00032600" errorplus="0.00032600">26.84768000</period>
+			<semimajoraxis>0.186000</semimajoraxis>
 			<description>Kepler-368 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-368 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0066800" errorplus="0.0066800">2454975.1677600</transittime>
+			<transittime errorminus=".006680" errorplus="0.006680" unit="BJD">2454975.167760</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9022166 c</name>
 			<name>KIC 9022166.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.09842">0.35359</radius>
-			<period errorminus=".001370" errorplus="0.001370">72.379334</period>
+			<radius errorminus="0.096" errorplus="0.096">0.346</radius>
+			<period errorminus="0.00137000" errorplus="0.00137000">72.37933400</period>
+			<semimajoraxis>0.360000</semimajoraxis>
 			<description>Kepler-368 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-368 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0127000" errorplus="0.0127000">2455012.5342000</transittime>
+			<transittime errorminus=".012700" errorplus="0.012700" unit="BJD">2455012.534200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -2,22 +2,29 @@
 	<name>Kepler-1175</name>
 	<rightascension>19 16 34</rightascension>
 	<declination>+46 48 46</declination>
+	<distance errorminus="90.11" errorplus="105.20">1244.00</distance>
 	<star>
 		<name>Kepler-1175</name>
 		<mass errorminus="0.05" errorplus="0.04">0.90</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.86</radius>
-		<temperature errorminus="80.4" errorplus="66.2">5453.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.04</metallicity>
+		<magV>15.939</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.628</magJ>
+		<magH errorminus="0.036" errorplus="0.036">14.279</magH>
+		<magK errorminus="0.055" errorplus="0.055">14.149</magK>
+		<temperature errorminus="80.38" errorplus="66.21">5453.00</temperature>
+		<age errorminus="2.500" errorplus="5.560">4.170</age>
+		<metallicity errorminus="0.178" errorplus="0.153">-0.040</metallicity>
 		<planet>
 			<name>Kepler-1175 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.024">0.267</radius>
-			<period errorminus="0.000173200" errorplus="0.000173200">37.945630000</period>
+			<period errorminus="0.00017320" errorplus="0.00017320">37.94563000</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003840" errorplus="0.003840" unit="JD">2454967.782670</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

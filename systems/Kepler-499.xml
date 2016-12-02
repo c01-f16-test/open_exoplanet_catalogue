@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-499</name>
 	<rightascension>19 40 26</rightascension>
-	<declination>+43 54 55</declination>
+	<declination>+43 54 54</declination>
+	<distance errorminus="34.59" errorplus="46.82">523.00</distance>
 	<star>
 		<name>Kepler-499</name>
 		<mass errorminus="0.05" errorplus="0.05">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.83</radius>
-		<temperature errorminus="145.3" errorplus="140.7">5312.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">0.00</metallicity>
+		<magV>14.353</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.946</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.511</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.405</magK>
+		<temperature errorminus="145.28" errorplus="140.65">5312.00</temperature>
+		<age errorminus="2.850" errorplus="6.340">4.570</age>
+		<metallicity errorminus="0.173" errorplus="0.148">0.000</metallicity>
 		<planet>
 			<name>Kepler-499 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.022">0.194</radius>
-			<period errorminus="0.000005750" errorplus="0.000005750">5.632528450</period>
+			<period errorminus="0.00000575" errorplus="0.00000575">5.63252845</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000827" errorplus="0.000827" unit="JD">2454966.817942</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

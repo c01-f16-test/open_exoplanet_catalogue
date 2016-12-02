@@ -1,0 +1,30 @@
+<system>
+	<name>EPIC 219388192</name>
+	<declination>-16 52 18</declination>
+	<star>
+		<name>EPIC 219388192</name>
+		<name>2MASS J19173402-1652177</name>
+		<mass errorminus="0.05" errorplus="0.05">0.99</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.01</radius>
+		<magV>12.5</magV>
+		<temperature errorminus="85.0" errorplus="85.0">5850.0</temperature>
+		<age errorminus="1.9" errorplus="1.9">3.9</age>
+		<metallicity errorminus="0.08" errorplus="0.08">0.03</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>EPIC 219388192 b</name>
+			<mass errorminus="0.09" errorplus="0.09" type="Radial Velocity">36.5</mass>
+			<radius errorminus="0.042" errorplus="0.042">0.937</radius>
+			<period errorminus="2.6e-05" errorplus="2.6e-05">5.292569</period>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.0593</semimajoraxis>
+			<eccentricity errorminus="0.0019" errorplus="0.0019">0.1929</eccentricity>
+			<periastron errorminus="1.0" errorplus="1.0">345.9</periastron>
+			<inclination errorminus="0.7" errorplus="0.0">90.0</inclination>
+			<temperature>1164.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00011" errorplus="0.00011">2457346.32942</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

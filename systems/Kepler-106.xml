@@ -11,27 +11,28 @@
 		<name>KIC 8395660</name>
 		<mass errorminus="0.06" errorplus="0.06">1.00</mass>
 		<radius errorminus="0.17" errorplus="0.17">1.04</radius>
-		<magV>12.98</magV>
-		<magB>13.68</magB>
+		<magV>12.882</magV>
+		<magB>12.706</magB>
 		<magJ errorminus="0.020" errorplus="0.020">11.752</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.494</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.431</magK>
-		<temperature errorminus="114" errorplus="114">5858</temperature>
-		<age>4.83</age>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.12</metallicity>
+		<temperature errorminus="114.00" errorplus="114.00">5858.00</temperature>
+		<age>4.830</age>
+		<metallicity errorminus="0.110" errorplus="0.110">-0.120</metallicity>
 		<planet>
 			<name>Kepler-106 c</name>
 			<name>KOI-116.01</name>
 			<name>KOI-116 c</name>
 			<name>KIC 8395660 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.010066" errorplus="0.010066">0.032841</mass>
-			<radius errorminus="0.029162" errorplus="0.029162">0.227826</radius>
-			<period>13.5708</period>
+			<mass errorminus="0.01000" errorplus="0.01000" type="Mass">0.03300</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.223</radius>
+			<period>13.57080000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454969.278370</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -40,13 +41,14 @@
 			<name>KOI-116 e</name>
 			<name>KIC 8395660 e</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.018245" errorplus="0.018245">0.035137</mass>
-			<radius errorminus="0.030073" errorplus="0.030073">0.233294</radius>
-			<period>43.8445</period>
+			<mass errorminus="0.01800" errorplus="0.01800" type="Mass">0.03500</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.228</radius>
+			<period>43.84450000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454984.933600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -55,12 +57,14 @@
 			<name>KOI-116 b</name>
 			<name>KIC 8395660 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.010024" errorplus="0.010024">0.074727</radius>
-			<period>6.16486</period>
+			<mass errorminus="0.0088" errorplus="0.0088" type="Radial Velocity">0.00047</mass>
+			<radius errorminus="0.010" errorplus="0.010">0.073</radius>
+			<period>6.16486000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454968.640350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -69,12 +73,14 @@
 			<name>KOI-116 d</name>
 			<name>KIC 8395660 d</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.011847" errorplus="0.011847">0.086574</radius>
-			<period>23.9802</period>
+			<mass errorminus="0.025" errorplus="0.0">0.025</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.085</radius>
+			<period>23.98020000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454980.532630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

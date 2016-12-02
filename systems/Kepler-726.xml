@@ -2,22 +2,29 @@
 	<name>Kepler-726</name>
 	<rightascension>19 26 52</rightascension>
 	<declination>+44 53 14</declination>
+	<distance errorminus="66.83" errorplus="85.17">838.00</distance>
 	<star>
 		<name>Kepler-726</name>
 		<mass errorminus="0.05" errorplus="0.05">0.88</mass>
 		<radius errorminus="0.07" errorplus="0.08">0.85</radius>
-		<temperature errorminus="94.3" errorplus="122.9">5452.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.09</metallicity>
+		<magV>15.067</magV>
+		<magJ errorminus="0.028" errorplus="0.028">13.810</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.381</magH>
+		<magK errorminus="0.043" errorplus="0.043">13.329</magK>
+		<temperature errorminus="94.31" errorplus="122.89">5452.00</temperature>
+		<age errorminus="2.780" errorplus="5.720">4.470</age>
+		<metallicity errorminus="0.170" errorplus="0.157">-0.090</metallicity>
 		<planet>
 			<name>Kepler-726 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.031" errorplus="0.029">0.291</radius>
-			<period errorminus="0.000045120" errorplus="0.000045120">21.804510880</period>
+			<period errorminus="0.00004512" errorplus="0.00004512">21.80451088</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001630" errorplus="0.001630" unit="JD">2455023.497750</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

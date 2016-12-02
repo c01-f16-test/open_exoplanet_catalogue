@@ -1,0 +1,21 @@
+<system>
+	<name>11 Oph</name>
+	<declination>-24 05 13</declination>
+	<star>
+		<name>11 Oph</name>
+		<mass errorminus="0.005" errorplus="0.005">0.0162</mass>
+		<magK>14.03</magK>
+		<temperature errorminus="175.0" errorplus="175.0">2375.0</temperature>
+		<age errorminus="0.002" errorplus="0.002">0.011</age>
+		<spectraltype>M9</spectraltype>
+		<planet>
+			<name>11 Oph b</name>
+			<mass errorminus="3.0" errorplus="3.0">21.0</mass>
+			<period errorminus="365000.0" errorplus="365000.0">730000.0</period>
+			<semimajoraxis errorminus="55.0" errorplus="55.0">243.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

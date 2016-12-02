@@ -1,32 +1,33 @@
 <system>
 	<name>HD 145377</name>
-	<rightascension>16 11 36.44543</rightascension>
-	<declination>-27 04 41.4286</declination>
-	<distance errorminus="2.8" errorplus="2.8">55.0</distance>
+	<rightascension>16 11 36</rightascension>
+	<declination>-27 04 41</declination>
+	<distance errorminus="3.57" errorplus="3.16">55.19</distance>
 	<star>
 		<name>HD 145377</name>
 		<mass errorminus="0.03" errorplus="0.03">1.12</mass>
 		<radius>1.14</radius>
-		<magV>8.12</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.73</magB>
+		<magV errorminus="0.013" errorplus="0.013">8.095</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.734</magB>
 		<magJ errorminus="0.018" errorplus="0.018">7.014</magJ>
 		<magH errorminus="0.040" errorplus="0.040">6.797</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.706</magK>
-		<temperature errorminus="15" errorplus="15">6046</temperature>
-		<age errorminus="1" errorplus="1">1.3</age>
-		<metallicity errorminus="0.01" errorplus="0.01">0.12</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<temperature errorminus="15.00" errorplus="15.00">6046.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.300</age>
+		<metallicity errorminus="0.010" errorplus="0.010">0.120</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 145377 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.10" errorplus="0.10" type="msini">5.76</mass>
-			<period errorminus="0.13" errorplus="0.13">103.95</period>
-			<semimajoraxis errorminus="0.004" errorplus="0.004">0.45</semimajoraxis>
-			<eccentricity errorminus="0.017" errorplus="0.017">0.307</eccentricity>
-			<periastron errorminus="2.8" errorplus="2.8">138.1</periastron>
-			<periastrontime errorminus="0.6" errorplus="0.6">2454635.4</periastrontime>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">5.76000</mass>
+			<period errorminus="0.13000000" errorplus="0.13000000">103.95000000</period>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.450000</semimajoraxis>
+			<eccentricity errorminus="0.017000" errorplus="0.017000">0.307000</eccentricity>
+			<periastron errorminus="2.8000" errorplus="2.8000">138.1000</periastron>
+			<periastrontime errorminus="0.600000" errorplus="0.600000">2454635.400000</periastrontime>
+			<maximumrvtime errorminus="0.600000" errorplus="0.600000">2454635.400000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

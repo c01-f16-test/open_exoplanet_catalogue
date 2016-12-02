@@ -1,40 +1,40 @@
 <system>
 	<name>CoRoT-22</name>
-	<rightascension>18 42 40.109</rightascension>
-	<declination>+06 13 08.97</declination>
-	<distance errorminus="42" errorplus="25">592.0</distance>
+	<rightascension>18 42 40</rightascension>
+	<declination>+06 13 08</declination>
+	<distance errorminus="42.00" errorplus="25.00">592.00</distance>
 	<star>
 		<name>CoRoT-22</name>
 		<name>2MASS 18424010+0613088</name>
-		<mass errorminus="0.049" errorplus="0.049">1.099</mass>
-		<radius errorminus="0.09" errorplus="0.038">1.136</radius>
+		<mass errorminus="0.05" errorplus="0.05">1.10</mass>
+		<radius errorminus="0.09" errorplus="0.04">1.14</radius>
 		<magV errorminus="0.083" errorplus="0.083">13.944</magV>
 		<magB errorminus="0.041" errorplus="0.041">14.740</magB>
 		<magR errorminus="0.10" errorplus="0.10">14.03</magR>
-		<magJ errorminus="0.027" errorplus="0.027">12.414</magJ>
-		<magH errorminus="0.027" errorplus="0.027">12.099</magH>
-		<magK errorminus="0.026" errorplus="0.026">11.988</magK>
-		<temperature errorminus="120" errorplus="54">5939</temperature>
-		<age errorminus="2" errorplus="2">3.3</age>
-		<metallicity errorminus="0.12" errorplus="0.07">0.17</metallicity>
-		<spectraltype>G0IV</spectraltype>
+		<magJ errorminus="0.024" errorplus="0.024">12.414</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.099</magH>
+		<magK errorminus="0.024" errorplus="0.024">11.988</magK>
+		<temperature errorminus="120.00" errorplus="54.00">5939.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">3.300</age>
+		<metallicity errorminus="0.120" errorplus="0.070">0.170</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>CoRoT-22 b</name>
 			<name>2MASS 18424010+0613088 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0276877576062675" errorplus="0.0440487052826983">0.0383853003178</mass>
-			<radius errorminus="0.0347935316148303" errorplus="0.0151664112167209">0.435365216104</radius>
-			<period errorminus="0.00011" errorplus="0.00011">9.75598</period>
-			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.092</semimajoraxis>
-			<eccentricity errorminus="0.042" errorplus="0.3">0.077</eccentricity>
-			<periastron errorminus="30.0" errorplus="70.0">210.0</periastron>
-			<inclination errorminus="0.9" errorplus="0.032">89.749</inclination>
-			<temperature errorminus="280" errorplus="54">885</temperature>
+			<mass errorminus="0.02800" errorplus="0.04400" type="Mass">0.03800</mass>
+			<radius errorminus="0.035" errorplus="0.015">0.435</radius>
+			<period errorminus="0.00011000" errorplus="0.00011000">9.75598000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.092000</semimajoraxis>
+			<eccentricity errorminus="0.042000" errorplus="0.300000">0.077000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="70.0000">210.0000</periastron>
+			<inclination errorminus="0.900" errorplus="0.032">89.749</inclination>
+			<temperature errorminus="280" errorplus="53">885</temperature>
 			<description>CoRoT-22 b is a transiting exoplanet discovered by the European CoRoT space mission. The planetary nature of this object has been validated by a full Bayesian analysis including observing constraints from radial-velocity spectroscopy, adaptive optics imaging and the CoRoT transit shape, as well as from priors on stellar populations, planet and multiple stellar systems frequency.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00051" errorplus="0.00099" unit="BJD">2454598.42014</transittime>
+			<transittime errorminus=".000510" errorplus="0.000990" unit="BJD">2454598.420140</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/08/28</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

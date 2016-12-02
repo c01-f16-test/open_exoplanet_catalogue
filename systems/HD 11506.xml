@@ -1,8 +1,8 @@
 <system>
 	<name>HD 11506</name>
-	<rightascension>01 52 50.535</rightascension>
-	<declination>-19 30 25.11</declination>
-	<distance errorminus="1.6" errorplus="1.6">51.7</distance>
+	<rightascension>01 52 50</rightascension>
+	<declination>-19 30 25</declination>
+	<distance errorminus="1.60" errorplus="1.60">51.70</distance>
 	<star>
 		<name>HD 11506</name>
 		<name>HIP 8770</name>
@@ -10,16 +10,17 @@
 		<name>PPM 210762</name>
 		<name>SAO 148079</name>
 		<name>TYC 5858-2028-1</name>
-		<mass>1.19</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.24</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.33</radius>
-		<magV>7.51</magV>
-		<magB errorminus="0.01" errorplus="0.01">8.11</magB>
+		<magV>7.510</magV>
+		<magB errorminus="0.01" errorplus="0.01">8.120</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.508</magJ>
 		<magH errorminus="0.031" errorplus="0.031">6.265</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.168</magK>
-		<temperature>6058.0</temperature>
-		<metallicity>0.31</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">6055.00</temperature>
+		<age errorminus="0.600" errorplus="0.600">2.400</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.290</metallicity>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 11506 b</name>
 			<name>HIP 8770 b</name>
@@ -28,14 +29,17 @@
 			<name>SAO 148079 b</name>
 			<name>TYC 5858-2028-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07">4.21</mass>
-			<period errorminus="5.9" errorplus="5.9">1627.5</period>
-			<semimajoraxis errorminus="0.007" errorplus="0.007">2.708</semimajoraxis>
-			<eccentricity errorminus="0.01" errorplus="0.01">0.37</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">4.21000</mass>
+			<period errorminus="5.90000000" errorplus="5.90000000">1627.50000000</period>
+			<semimajoraxis errorminus="0.007000" errorplus="0.007000">2.708000</semimajoraxis>
+			<eccentricity errorminus="0.010000" errorplus="0.010000">0.370000</eccentricity>
+			<periastron errorminus="1.6000" errorplus="1.6000">218.9000</periastron>
+			<periastrontime errorminus="7.600000" errorplus="7.600000">2456637.200000</periastrontime>
+			<maximumrvtime errorminus="7.600000" errorplus="7.600000">2456637.200000</maximumrvtime>
 			<temperature>200.7</temperature>
 			<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009). The N2K campaign improves the data in 2014 with some further years of observations since the discovery.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 		<planet>
@@ -46,15 +50,18 @@
 			<name>SAO 148079 c</name>
 			<name>TYC 5858-2028-1 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.02" errorplus="0.02">0.36</mass>
-			<period errorminus="0.6" errorplus="0.6">223.6</period>
-			<semimajoraxis errorminus="0.001" errorplus="0.001">0.721</semimajoraxis>
-			<eccentricity errorminus="0.05" errorplus="0.05">0.24</eccentricity>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Msini">0.36000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">223.60000000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.721000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.240000</eccentricity>
+			<periastron errorminus="15.0000" errorplus="15.0000">272.0000</periastron>
+			<periastrontime errorminus="9.000000" errorplus="9.000000">2454127.000000</periastrontime>
+			<maximumrvtime errorminus="9.000000" errorplus="9.000000">2454127.000000</maximumrvtime>
 			<temperature>388.0</temperature>
 			<description>The star HD 11506 is a yellow dwarf star in the constellation Cetus. The star hosts two planets. The inner planer was discovered by using Bayesian analysis (Tuomi et al 2009). The N2K campaign improves the data in 2014 with some further years of observations since the discovery.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,22 +2,29 @@
 	<name>Kepler-486</name>
 	<rightascension>18 59 31</rightascension>
 	<declination>+49 16 01</declination>
+	<distance errorminus="22.73" errorplus="17.45">428.00</distance>
 	<star>
 		<name>Kepler-486</name>
 		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.75</radius>
-		<temperature errorminus="45.2" errorplus="44.9">4926.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.04</metallicity>
+		<magV>14.388</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.895</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.377</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.288</magK>
+		<temperature errorminus="45.25" errorplus="44.94">4926.00</temperature>
+		<age errorminus="2.660" errorplus="6.150">4.470</age>
+		<metallicity errorminus="0.166" errorplus="0.150">-0.040</metallicity>
 		<planet>
 			<name>Kepler-486 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.050" errorplus="0.036">0.981</radius>
-			<period errorminus="0.000004240" errorplus="0.000004240">30.360446670</period>
+			<period errorminus="0.00000424" errorplus="0.00000424">30.36044667</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000111" errorplus="0.000111" unit="JD">2454981.091528</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

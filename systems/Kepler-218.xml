@@ -10,11 +10,13 @@
 		<name>KOI-711</name>
 		<name>KIC 9597345</name>
 		<mass errorminus="0.0210" errorplus="0.0210">1.0190</mass>
-		<radius errorminus=".083" errorplus="0.083">1.063</radius>
+		<radius errorminus="0.08" errorplus="0.08">1.06</radius>
+		<magV>13.967</magV>
 		<magJ errorminus="0.025" errorplus="0.025">12.732</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.386</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.311</magK>
-		<temperature errorminus="4" errorplus="74">5502</temperature>
+		<temperature errorminus="74.00" errorplus="74.00">5502.00</temperature>
+		<metallicity>0.194</metallicity>
 		<planet>
 			<name>Kepler-218 c</name>
 			<name>KOI-711 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9597345 c</name>
 			<name>KIC 9597345.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.28615</radius>
-			<period errorminus=".000167" errorplus="0.000167">44.699576</period>
+			<radius errorminus="0.023" errorplus="0.023">0.280</radius>
+			<period errorminus="0.00016700" errorplus="0.00016700">44.69957600</period>
+			<semimajoraxis>0.248000</semimajoraxis>
 			<description>Kepler-218 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-218 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021800" errorplus="0.0021800">2455007.8223500</transittime>
+			<transittime errorminus=".002180" errorplus="0.002180" unit="BJD">2455007.822350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +41,27 @@
 			<name>KIC 9597345 b</name>
 			<name>KIC 9597345.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01094" errorplus="0.01094">0.13487</radius>
-			<period errorminus=".000011" errorplus="0.000011">3.619337</period>
+			<radius errorminus="0.011" errorplus="0.011">0.132</radius>
+			<period errorminus="0.00001100" errorplus="0.00001100">3.61933700</period>
+			<semimajoraxis>0.046000</semimajoraxis>
 			<description>Kepler-218 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-218 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018300" errorplus="0.0018300">2454968.4380100</transittime>
+			<transittime errorminus=".001830" errorplus="0.001830" unit="BJD">2454968.438010</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-218 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.016" errorplus="0.025">0.237</radius>
-			<period errorminus="0.000582200" errorplus="0.000582200">124.524464700</period>
+			<period errorminus="0.00058220" errorplus="0.00058220">124.52446470</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003580" errorplus="0.003580" unit="JD">2455087.180100</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

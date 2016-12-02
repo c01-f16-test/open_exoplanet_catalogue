@@ -1,0 +1,27 @@
+<system>
+	<name>HATS-24</name>
+	<declination>-61 44 50</declination>
+	<star>
+		<name>HATS-24</name>
+		<mass errorminus="0.033" errorplus="0.033">1.212</mass>
+		<radius errorminus="0.033" errorplus="0.033">1.172</radius>
+		<magV>12.8</magV>
+		<temperature errorminus="81.0" errorplus="81.0">6346.0</temperature>
+		<age errorminus="0.067" errorplus="0.045">0.88</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.0</metallicity>
+		<planet>
+			<name>HATS-24 b</name>
+			<mass errorminus="0.18" errorplus="0.18" type="Radial Velocity">2.44</mass>
+			<radius errorminus="0.054" errorplus="0.078">1.487</radius>
+			<period errorminus="1.3e-06" errorplus="1.3e-06">1.3484954</period>
+			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.02547</semimajoraxis>
+			<eccentricity errorminus="0.24" errorplus="0.0">0.24</eccentricity>
+			<inclination errorminus="1.2" errorplus="1.2">86.6</inclination>
+			<temperature>2067.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00038" errorplus="0.00038">2457038.47327</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

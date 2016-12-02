@@ -1,0 +1,91 @@
+<system>
+	<name>Kepler-30</name>
+	<name>KOI-806</name>
+	<rightascension>19 01 08</rightascension>
+	<declination>+38 56 50</declination>
+	<distance>1400.00</distance>
+	<star>
+		<name>KOI-806</name>
+		<name>Kepler-30</name>
+		<name>KIC 3832474</name>
+		<mass errorminus="0.08" errorplus="0.08">0.99</mass>
+		<radius errorminus="0.12" errorplus="0.12">0.95</radius>
+		<magV>15.403</magV>
+		<magB errorminus="0.42" errorplus="0.42">16.50</magB>
+		<magR errorminus="0.25" errorplus="0.25">15.95</magR>
+		<magI errorminus="0.44" errorplus="0.44">14.55</magI>
+		<magJ errorminus="0.032" errorplus="0.032">13.997</magJ>
+		<magH errorminus="0.039" errorplus="0.039">13.618</magH>
+		<magK errorminus="0.048" errorplus="0.048">13.581</magK>
+		<temperature errorminus="54.00" errorplus="54.00">5498.00</temperature>
+		<age errorminus="0.800" errorplus="0.800">2.000</age>
+		<metallicity errorminus="0.270" errorplus="0.270">0.180</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>KOI-806.03</name>
+			<name>Kepler-30 b</name>
+			<name>KOI-806 b</name>
+			<name>KIC 3832474 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Mass">0.03600</mass>
+			<radius errorminus="0.018" errorplus="0.018">0.348</radius>
+			<period errorminus="0.00815000" errorplus="0.00815000">29.33434000</period>
+			<semimajoraxis>0.180000</semimajoraxis>
+			<eccentricity errorminus="0.003000" errorplus="0.003000">0.042000</eccentricity>
+			<periastron errorminus="7.0000" errorplus="7.0000">-31.0000</periastron>
+			<ascendingnode errorminus="0.17" errorplus="0.17">0.031</ascendingnode>
+			<inclination errorminus="0.167" errorplus="0.167">90.179</inclination>
+			<temperature>556.9</temperature>
+			<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".040100" errorplus="0.040100" unit="BJD">2455246.647600</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-806.02</name>
+			<name>Kepler-30 c</name>
+			<name>KOI-806 c</name>
+			<name>KIC 3832474 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Mass">2.01000</mass>
+			<radius errorminus="0.036" errorplus="0.036">1.097</radius>
+			<period errorminus="0.00024400" errorplus="0.00024400">60.32310500</period>
+			<semimajoraxis>0.300000</semimajoraxis>
+			<eccentricity errorminus="0.001000" errorplus="0.001000">0.011100</eccentricity>
+			<periastron errorminus="6.0000" errorplus="6.0000">-49.0000</periastron>
+			<ascendingnode>0</ascendingnode>
+			<inclination errorminus="0.030" errorplus="0.030">90.323</inclination>
+			<temperature>431.4</temperature>
+			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005200" errorplus="0.005200" unit="BJD">2455357.887042</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-806.01</name>
+			<name>Kepler-30 d</name>
+			<name>KOI-806 d</name>
+			<name>KIC 3832474 d</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00800" errorplus="0.00800" type="Mass">0.07300</mass>
+			<radius errorminus="0.045" errorplus="0.045">0.785</radius>
+			<period errorminus="0.00858000" errorplus="0.00858000">143.34394000</period>
+			<semimajoraxis>0.500000</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.005000">0.022000</eccentricity>
+			<periastron errorminus="7.0000" errorplus="7.0000">-163.0000</periastron>
+			<ascendingnode errorminus="0.5" errorplus="0.5">1.3</ascendingnode>
+			<inclination errorminus="0.020" errorplus="0.020">89.841</inclination>
+			<temperature>334.2</temperature>
+			<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".009690" errorplus="0.009690" unit="BJD">2455273.530200</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

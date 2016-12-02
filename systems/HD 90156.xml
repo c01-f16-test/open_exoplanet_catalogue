@@ -1,31 +1,33 @@
 <system>
 	<name>HD 90156</name>
 	<rightascension>10 23 55</rightascension>
-	<declination>-29 38 44</declination>
-	<distance>39.6</distance>
+	<declination>-29 38 43</declination>
+	<distance errorminus="0.37" errorplus="0.36">22.09</distance>
 	<star>
 		<name>HD 90156</name>
 		<mass>0.84</mass>
-		<magV>6.95</magV>
-		<magB>7.603</magB>
+		<magV errorminus="0.010" errorplus="0.010">6.920</magV>
+		<magB errorminus="0.010" errorplus="0.010">7.600</magB>
 		<magR>6.534</magR>
 		<magI>6.189</magI>
 		<magJ errorminus="0.023" errorplus="0.023">5.685</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.382</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.245</magK>
-		<temperature>5599.0</temperature>
-		<metallicity>-0.24</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<temperature errorminus="12.00" errorplus="12.00">5599.00</temperature>
+		<age>4.400</age>
+		<metallicity errorminus="0.010" errorplus="0.010">-0.240</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HD 90156 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.057</mass>
-			<period>49.77</period>
-			<semimajoraxis>0.25</semimajoraxis>
-			<eccentricity>0.31</eccentricity>
+			<mass errorminus="0.00500" errorplus="0.00500" type="Msini">0.05700</mass>
+			<period errorminus="0.07000000" errorplus="0.07000000">49.77000000</period>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.250000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.310000</eccentricity>
+			<periastron errorminus="18.0000" errorplus="18.0000">113.0000</periastron>
 			<temperature>621.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

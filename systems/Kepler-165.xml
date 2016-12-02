@@ -10,11 +10,13 @@
 		<name>KOI-475</name>
 		<name>KIC 10577994</name>
 		<mass errorminus="0.0320" errorplus="0.0320">0.7900</mass>
-		<radius errorminus=".467" errorplus="0.467">0.770</radius>
+		<radius errorminus="0.47" errorplus="0.47">0.77</radius>
+		<magV>14.802</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.430</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.926</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.843</magK>
-		<temperature errorminus="200" errorplus="200">5211</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5211.00</temperature>
+		<metallicity>-0.280</metallicity>
 		<planet>
 			<name>Kepler-165 b</name>
 			<name>KOI-475 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10577994 b</name>
 			<name>KIC 10577994.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03736" errorplus="0.12849">0.21142</radius>
-			<period errorminus=".000026" errorplus="0.000026">8.180848</period>
+			<radius errorminus="0.126" errorplus="0.126">0.207</radius>
+			<period errorminus="0.00002600" errorplus="0.00002600">8.18084800</period>
+			<semimajoraxis>0.072000</semimajoraxis>
 			<description>Kepler-165 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-165 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0017600" errorplus="0.0017600">2455009.7011300</transittime>
+			<transittime errorminus=".001760" errorplus="0.001760" unit="BJD">2455009.701130</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10577994 c</name>
 			<name>KIC 10577994.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03190" errorplus="0.12303">0.20322</radius>
-			<period errorminus=".000057" errorplus="0.000057">15.312990</period>
+			<radius errorminus="0.120" errorplus="0.120">0.199</radius>
+			<period errorminus="0.00005700" errorplus="0.00005700">15.31299000</period>
+			<semimajoraxis>0.110000</semimajoraxis>
 			<description>Kepler-165 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-165 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019200" errorplus="0.0019200">2455004.7919600</transittime>
+			<transittime errorminus=".001920" errorplus="0.001920" unit="BJD">2455004.791960</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

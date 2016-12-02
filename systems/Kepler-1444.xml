@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1444</name>
 	<rightascension>19 01 19</rightascension>
-	<declination>+42 02 26</declination>
+	<declination>+42 02 25</declination>
+	<distance errorminus="27.14" errorplus="39.28">340.00</distance>
 	<star>
 		<name>Kepler-1444</name>
 		<mass errorminus="0.04" errorplus="0.04">1.03</mass>
 		<radius errorminus="0.08" errorplus="0.12">1.05</radius>
-		<temperature errorminus="70.5" errorplus="85.5">5810.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.10">0.06</metallicity>
+		<magV>12.325</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.195</magJ>
+		<magH errorminus="0.016" errorplus="0.016">10.901</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.813</magK>
+		<temperature errorminus="70.49" errorplus="85.52">5810.00</temperature>
+		<age errorminus="2.640" errorplus="2.310">4.790</age>
+		<metallicity errorminus="0.087" errorplus="0.100">0.060</metallicity>
 		<planet>
 			<name>Kepler-1444 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.037">0.194</radius>
-			<period errorminus="0.000093050" errorplus="0.000093050">33.420350340</period>
+			<period errorminus="0.00009305" errorplus="0.00009305">33.42035034</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002040" errorplus="0.002040" unit="JD">2454992.137230</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

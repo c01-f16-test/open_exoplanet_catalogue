@@ -1,0 +1,15 @@
+<system>
+	<name>MOA-2011-BLG-274</name>
+	<declination>-28 54 59</declination>
+	<star>
+		<name>MOA-2011-BLG-274</name>
+		<planet>
+			<name>MOA-2011-BLG-274 b</name>
+			<mass errorminus="0.3" errorplus="0.3">0.8</mass>
+			<semimajoraxis>40.0</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

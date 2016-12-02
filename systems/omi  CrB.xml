@@ -1,0 +1,74 @@
+<system>
+	<name>omi  CrB</name>
+	<name>omi CrB</name>
+	<rightascension>15 20 08</rightascension>
+	<declination>+29 36 58</declination>
+	<distance errorminus="5.57" errorplus="4.92">84.03</distance>
+	<star>
+		<name>omi CrB</name>
+		<name>Omicron Coronae Borealis</name>
+		<name>ο CrB</name>
+		<name>ο Coronae Borealis</name>
+		<name>1 Coronae Borealis</name>
+		<name>1 CrB</name>
+		<name>HD 136512</name>
+		<name>HR 5709</name>
+		<name>HIP 75049</name>
+		<name>TYC 2031-1389-1</name>
+		<name>SAO 83768</name>
+		<name>BD+30 2647</name>
+		<name>2MASS J15200853+2936584</name>
+		<mass errorminus="0.23" errorplus="0.23">2.13</mass>
+		<radius errorminus="0.7" errorplus="0.70">10.50</radius>
+		<magV>5.510</magV>
+		<magB>6.530</magB>
+		<magJ errorminus="0.336" errorplus="0.336">3.651</magJ>
+		<magH errorminus="0.280" errorplus="0.280">3.169</magH>
+		<magK errorminus="0.322" errorplus="0.322">2.934</magK>
+		<temperature errorminus="20" errorplus="20.00">4749.00</temperature>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>omi CrB b</name>
+			<name>Omicron Coronae Borealis b</name>
+			<name>ο CrB b</name>
+			<name>HD 136512 b</name>
+			<name>HR 5709 b</name>
+			<name>HIP 75049 b</name>
+			<list>Confirmed planets</list>
+			<mass type="Msini">1.50000</mass>
+			<period errorminus="0.54000000" errorplus="0.54000000">187.83000000</period>
+			<semimajoraxis>0.830000</semimajoraxis>
+			<eccentricity errorminus="0.085000" errorplus="0.085000">0.191000</eccentricity>
+			<periastron errorminus="36.0000" errorplus="36.0000">79.0000</periastron>
+			<periastrontime errorminus="17.000000" errorplus="17.000000">2452211.000000</periastrontime>
+			<maximumrvtime errorminus="17.000000" errorplus="17.000000">2452211.000000</maximumrvtime>
+			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>omi  CrB</name>
+		<mass errorminus="0.01" errorplus="0.23">2.13</mass>
+		<radius errorminus="0.7" errorplus="0.7">10.4</radius>
+		<magV>5.51</magV>
+		<temperature errorminus="20.0" errorplus="20.0">4749.0</temperature>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
+		<spectraltype>K0III</spectraltype>
+		<planet>
+			<name>omi CrB b</name>
+			<mass>1.5</mass>
+			<period errorminus="54.0" errorplus="54.0">187.3</period>
+			<semimajoraxis>0.83</semimajoraxis>
+			<eccentricity errorminus="0.085" errorplus="0.085">0.191</eccentricity>
+			<periastron errorminus="36.0" errorplus="36.0">79.0</periastron>
+			<periastrontime errorminus="17.0" errorplus="17.0">2452211.0</periastrontime>
+			<maximumrvtime errorminus="17.0" errorplus="17.0">2452211.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

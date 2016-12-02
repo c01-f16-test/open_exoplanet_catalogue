@@ -1,0 +1,18 @@
+<system>
+	<name>HD 131399A</name>
+	<declination>-34 08 34</declination>
+	<star>
+		<name>HD 131399A</name>
+		<magV>7.07</magV>
+		<spectraltype>A1V</spectraltype>
+		<planet>
+			<name>HD 131399A b</name>
+			<mass errorminus="1.0" errorplus="1.0" type="Spectrum">4.0</mass>
+			<semimajoraxis errorminus="25.0" errorplus="25.0">80.0</semimajoraxis>
+			<eccentricity errorminus="0.25" errorplus="0.25">0.35</eccentricity>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

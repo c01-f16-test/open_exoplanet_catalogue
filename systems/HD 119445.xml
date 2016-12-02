@@ -1,0 +1,23 @@
+<system>
+	<name>HD 119445</name>
+	<declination>+41 40 27</declination>
+	<star>
+		<name>HD 119445</name>
+		<mass errorminus="0.4" errorplus="0.4">3.9</mass>
+		<radius errorminus="9.3" errorplus="9.3">20.5</radius>
+		<magV>6.304</magV>
+		<temperature errorminus="103.0" errorplus="103.0">5083.0</temperature>
+		<metallicity errorminus="0.18" errorplus="0.18">0.04</metallicity>
+		<spectraltype>G6</spectraltype>
+		<planet>
+			<name>HD 119445 b</name>
+			<mass errorminus="2.6" errorplus="2.6" type="Radial Velocity">37.6</mass>
+			<period errorminus="0.6" errorplus="0.6">410.2</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">1.71</semimajoraxis>
+			<eccentricity errorminus="0.007" errorplus="0.007">0.082</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -2,22 +2,29 @@
 	<name>Kepler-737</name>
 	<rightascension>19 27 27</rightascension>
 	<declination>+46 25 45</declination>
+	<distance errorminus="12.73" errorplus="14.08">195.00</distance>
 	<star>
 		<name>Kepler-737</name>
 		<mass errorminus="0.03" errorplus="0.03">0.51</mass>
 		<radius errorminus="0.02" errorplus="0.03">0.48</radius>
-		<temperature errorminus="38.5" errorplus="40.1">3813.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.09">-0.24</metallicity>
+		<magV>15.190</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.910</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.293</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.097</magK>
+		<temperature errorminus="38.49" errorplus="40.13">3813.00</temperature>
+		<age errorminus="2.200" errorplus="5.680">3.890</age>
+		<metallicity errorminus="0.081" errorplus="0.087">-0.240</metallicity>
 		<planet>
 			<name>Kepler-737 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.010" errorplus="0.010">0.175</radius>
-			<period errorminus="0.000056730" errorplus="0.000056730">28.599153990</period>
+			<period errorminus="0.00005673" errorplus="0.00005673">28.59915399</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001670" errorplus="0.001670" unit="JD">2455022.925790</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

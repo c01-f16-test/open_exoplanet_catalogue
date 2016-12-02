@@ -1,22 +1,22 @@
 <system>
 	<name>Kepler-45</name>
-	<rightascension>19 31 30</rightascension>
+	<rightascension>19 31 29</rightascension>
 	<declination>+41 03 51</declination>
-	<distance errorminus="33" errorplus="33">333</distance>
+	<distance errorminus="33.00" errorplus="33.00">333.00</distance>
 	<star>
 		<name>Kepler-45</name>
 		<name>KOI-254</name>
 		<name>KIC 5794240</name>
 		<mass errorminus="0.06" errorplus="0.06">0.59</mass>
 		<radius errorminus="0.11" errorplus="0.11">0.55</radius>
-		<magV errorminus="0.05" errorplus="0.05">16.88</magV>
+		<magV errorminus="0.050" errorplus="0.050">16.880</magV>
 		<magR>16.63</magR>
 		<magJ errorminus="0.024" errorplus="0.024">13.749</magJ>
 		<magH errorminus="0.025" errorplus="0.025">13.077</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.89</magK>
-		<temperature errorminus="90" errorplus="90">3820</temperature>
-		<age errorminus="3.6000" errorplus="3.6000">13.9000</age>
-		<metallicity errorminus="0.05" errorplus="0.05">0.08</metallicity>
+		<magK errorminus="0.029" errorplus="0.029">12.892</magK>
+		<temperature errorminus="90.00" errorplus="90.00">3820.00</temperature>
+		<age errorminus="3.6000" errorplus="3.6000">0.500</age>
+		<metallicity errorminus="0.140" errorplus="0.140">0.280</metallicity>
 		<spectraltype>M</spectraltype>
 		<planet>
 			<name>Kepler-45 b</name>
@@ -24,18 +24,19 @@
 			<name>KOI-254.01</name>
 			<name>KIC 5794240 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.09" errorplus="0.09">0.505</mass>
-			<radius errorminus="0.11" errorplus="0.11">0.96</radius>
-			<period errorminus="5e-06" errorplus="5e-06">2.455239</period>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.027</semimajoraxis>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.11</eccentricity>
-			<inclination errorminus="0.7" errorplus="0.7">87</inclination>
-			<temperature>774.0</temperature>
+			<mass errorminus="0.09000" errorplus="0.09000" type="Mass">0.50500</mass>
+			<radius errorminus="0.110" errorplus="0.110">0.960</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">2.45523900</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.030000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.100000">0.110000</eccentricity>
+			<periastron errorminus="68.0000" errorplus="68.0000">230.0000</periastron>
+			<inclination errorminus="0.700" errorplus="0.700">87.000</inclination>
+			<temperature errorminus="20" errorplus="20">1000</temperature>
 			<description>KOI-254 b was originally discovered by the Kepler spacecraft. It has now been confirmed to be a planet by radial velocity measurements, adaptive optics imaging and spectroscopy. The host star is an M-type dwarf star, just over half the size of our own sun. KOI-254 b is the first hot Jupiter that has been found around such a low mass star.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0000390" errorplus="0.0000390">2455003.8210080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/03/25</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

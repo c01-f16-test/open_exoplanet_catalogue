@@ -1,0 +1,62 @@
+<system>
+	<name>HD 178911 B</name>
+	<name>HD 178911</name>
+	<rightascension>19 09 03</rightascension>
+	<declination>+34 35 59</declination>
+	<distance errorminus="11.00" errorplus="11.00">47.00</distance>
+	<binary>
+		<separation unit="arcsec">16.1</separation>
+		<separation unit="AU">752</separation>
+		<positionangle>82</positionangle>
+		<star>
+			<name>HD 178911 B</name>
+			<name>HR 7272</name>
+			<name>ADS 12101</name>
+			<name>HIP 94075/6</name>
+			<mass errorminus="0.06" errorplus="0.06">1.01</mass>
+			<radius>1.14</radius>
+			<magV errorminus="0.012" errorplus="0.012">7.792</magV>
+			<magB errorminus="0.017" errorplus="0.017">8.546</magB>
+			<magR>6.3</magR>
+			<magI>6.0</magI>
+			<magJ errorminus="0.019" errorplus="0.019">6.749</magJ>
+			<magH errorminus="0.020" errorplus="0.020">6.458</magH>
+			<magK errorminus="0.022" errorplus="0.022">6.375</magK>
+			<temperature errorminus="44.00" errorplus="44.00">5668.00</temperature>
+			<age>5.2</age>
+			<metallicity errorminus="0.030" errorplus="0.030">0.340</metallicity>
+			<spectraltype>G5</spectraltype>
+			<planet>
+				<name>HD 178911 B b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.28000" errorplus="0.28000" type="Msini">7.03000</mass>
+				<period errorminus="0.00200000" errorplus="0.00200000">71.48400000</period>
+				<semimajoraxis errorminus="0.006000" errorplus="0.006000">0.339000</semimajoraxis>
+				<eccentricity errorminus="0.003000" errorplus="0.003000">0.114000</eccentricity>
+				<periastron errorminus="1.6000" errorplus="1.6000">168.2000</periastron>
+				<periastrontime errorminus="0.300000" errorplus="0.300000">2453808.100000</periastrontime>
+				<maximumrvtime errorminus="0.300000" errorplus="0.300000">2453808.100000</maximumrvtime>
+				<temperature>469.8</temperature>
+				<description>The planet HD 178911 B b is part of a stellar triple system. The wide binary separation is approximately 640 astronomical units. The planet was found using the HIRES and ELODIE spectrographs mounted on telescopes in Hawaii and France.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2001</discoveryyear>
+			</planet>
+		</star>
+		<binary>
+			<period>1296.6098</period>
+			<eccentricity>0.59</eccentricity>
+			<star>
+				<name>HD 178911 Aa</name>
+				<mass>1.1</mass>
+				<spectraltype>G1</spectraltype>
+			</star>
+			<star>
+				<name>HD 178911 Ab</name>
+				<mass>0.79</mass>
+				<spectraltype>K1</spectraltype>
+			</star>
+		</binary>
+	</binary>
+</system>

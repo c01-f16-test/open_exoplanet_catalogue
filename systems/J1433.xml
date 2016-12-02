@@ -1,0 +1,21 @@
+<system>
+	<name>J1433</name>
+	<declination>+10 11 23</declination>
+	<star>
+		<name>J1433</name>
+		<name>SDSS J143317.78+101123.</name>
+		<mass errorminus="0.07" errorplus="0.07">0.8</mass>
+		<temperature errorminus="200.0" errorplus="200.0">13200.0</temperature>
+		<spectraltype>WD</spectraltype>
+		<planet>
+			<name>J1433 b</name>
+			<mass errorminus="0.7" errorplus="0.7" type="Theoretical">57.1</mass>
+			<period>0.054</period>
+			<inclination>84.36</inclination>
+			<temperature>2370.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

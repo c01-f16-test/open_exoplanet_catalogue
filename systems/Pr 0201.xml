@@ -1,0 +1,24 @@
+<system>
+	<name>Pr 0201</name>
+	<declination>+20 13 36</declination>
+	<star>
+		<name>Pr 0201</name>
+		<mass errorminus="0.034" errorplus="0.034">1.234</mass>
+		<radius errorminus="0.121" errorplus="0.121">1.167</radius>
+		<magV>10.33</magV>
+		<temperature errorminus="50.0" errorplus="50.0">6174.0</temperature>
+		<age errorminus="0.049" errorplus="0.049">0.578</age>
+		<metallicity errorminus="0.038" errorplus="0.038">0.187</metallicity>
+		<spectraltype>F7</spectraltype>
+		<planet>
+			<name>Pr 0201 b</name>
+			<mass errorminus="0.039" errorplus="0.039">0.54</mass>
+			<period errorminus="0.007" errorplus="0.007">4.4264</period>
+			<periastrontime errorminus="0.053" errorplus="0.053">2455992.861</periastrontime>
+			<maximumrvtime errorminus="0.053" errorplus="0.053">2455992.861</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,21 @@
+<system>
+	<name>WISE J0720-0846</name>
+	<declination>-08 46 51</declination>
+	<star>
+		<name>WISE J0720-0846</name>
+		<mass errorminus="0.016" errorplus="0.028">0.081</mass>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>WISE J0720-0846</name>
+			<mass errorminus="0.11" errorplus="0.09" type="Spectrum">62.0</mass>
+			<period errorminus="475.0" errorplus="1096.0">1388.0</period>
+			<semimajoraxis errorminus="0.3" errorplus="0.6">1.3</semimajoraxis>
+			<eccentricity errorminus="0.6" errorplus="0.0">0.8</eccentricity>
+			<periastron>54.0</periastron>
+			<inclination errorminus="1.6" errorplus="2.0">93.5</inclination>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

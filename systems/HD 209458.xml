@@ -1,36 +1,39 @@
 <system>
 	<name>HD 209458</name>
 	<rightascension>22 03 10</rightascension>
-	<declination>+18 53 04</declination>
-	<distance>47</distance>
+	<declination>+18 53 03</declination>
+	<distance errorminus="2.33" errorplus="2.12">47.08</distance>
 	<star>
 		<name>HD 209458</name>
-		<mass errorminus="0.022" errorplus="0.022">1.148</mass>
-		<radius errorminus="0.059" errorplus="0.059">1.146</radius>
-		<magV errorminus="0.01" errorplus="0.01">7.63</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.21</magB>
+		<mass errorminus="0.06" errorplus="0.07">1.10</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.12</radius>
+		<magV errorminus="0.01" errorplus="0.01">7.65</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.211</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.591</magJ>
-		<magH errorminus="0.04" errorplus="0.04">6.37</magH>
+		<magH errorminus="0.038" errorplus="0.038">6.366</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.308</magK>
-		<temperature errorminus="33" errorplus="33">6075</temperature>
-		<age errorminus="2" errorplus="2">4</age>
+		<temperature errorminus="103.0" errorplus="103.0">6092.0</temperature>
+		<age errorminus="2.0" errorplus="2.0">4.0</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.02</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HD 209458 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.017" errorplus="0.017">0.714</mass>
-			<radius errorminus="0.018" errorplus="0.018">1.38</radius>
-			<period errorminus="3.8e-07" errorplus="3.8e-07">3.52474859</period>
+			<mass errorminus="0.017" errorplus="0.017" type="Radial Velocity">0.69</mass>
+			<radius errorminus="0.025" errorplus="0.024">1.320</radius>
+			<period errorminus="0.00000038" errorplus="0.00000038">3.52474859</period>
 			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.04747</semimajoraxis>
-			<eccentricity errorminus="0.003" errorplus="0.003">0.0004</eccentricity>
-			<inclination errorminus="0.046" errorplus="0.046">86.59</inclination>
+			<eccentricity errorminus="0.0082" errorplus="0.0078">0.0082</eccentricity>
+			<periastron errorminus="68.0" errorplus="68.0">43.8</periastron>
+			<periastrontime>2452968.399</periastrontime>
+			<maximumrvtime>2452968.399</maximumrvtime>
+			<inclination errorminus="0.010" errorplus="0.009">86.929</inclination>
 			<temperature>1316.1</temperature>
 			<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
-			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.014" errorplus="0.014" unit="HJD">2451370.048</transittime>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus=".000087" errorplus="0.000087" unit="HJD">2452826.628521</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/04/18</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<image>HD209458</image>
 			<imagedescription>Astronomers have measured a superstorm for the first time in the atmosphere of the planet HD 209458 b. The very high-precision observations of carbon monoxide gas show that it is streaming at enormous speed from the extremely hot day side to the cooler night side of the planet.

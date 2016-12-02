@@ -1,9 +1,9 @@
 <system>
 	<name>HAT-P-56</name>
 	<name>K2-20</name>
-	<rightascension>06 43 23.52950</rightascension>
-	<declination>+27 15 08.2182</declination>
-	<distance errorminus="7.1" errorplus="7.1">310.5</distance>
+	<rightascension>06 43 23</rightascension>
+	<declination>+27 15 08</declination>
+	<distance errorminus="7.10" errorplus="7.10">310.50</distance>
 	<star>
 		<name>HAT-P-56</name>
 		<name>GSC 1901-00976</name>
@@ -11,16 +11,18 @@
 		<name>EPIC 202126852</name>
 		<name>HD 262389</name>
 		<name>K2-20</name>
-		<mass errorminus="0.036" errorplus="0.036">1.296</mass>
-		<radius errorminus="0.030" errorplus="0.030">1.428</radius>
+		<mass errorminus="0.04" errorplus="0.04">1.30</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.43</radius>
 		<magV errorminus="0.036" errorplus="0.036">10.908</magV>
 		<magB errorminus="0.040" errorplus="0.040">11.287</magB>
 		<magI errorminus="0.093" errorplus="0.093">9.919</magI>
 		<magJ errorminus="0.021" errorplus="0.021">10.068</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.881</magH>
 		<magK errorminus="0.016" errorplus="0.016">9.830</magK>
-		<temperature errorminus="50" errorplus="50">6566</temperature>
-		<age errorminus="0.35" errorplus="0.35">2.01</age>
+		<temperature errorminus="50.00" errorplus="50.00">6566.00</temperature>
+		<age errorminus="0.350" errorplus="0.350">2.010</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.077</metallicity>
+		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HAT-P-56 b</name>
 			<name>GSC 1901-00976 b</name>
@@ -29,17 +31,18 @@
 			<name>HD 262389 b</name>
 			<name>K2-20 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.25" errorplus="0.25">2.18</mass>
+			<mass errorminus="0.25000" errorplus="0.25000" type="Mass">2.18000</mass>
 			<radius errorminus="0.040" errorplus="0.040">1.466</radius>
-			<period errorminus="0.0000047" errorplus="0.0000047">2.7908327</period>
-			<semimajoraxis errorminus="0.00039" errorplus="0.00039">0.04230</semimajoraxis>
-			<inclination errorminus="0.18" errorplus="0.18">82.13</inclination>
+			<period errorminus="0.00000470" errorplus="0.00000470">2.79083270</period>
+			<semimajoraxis errorminus="0.000390" errorplus="0.000390">0.042300</semimajoraxis>
+			<eccentricity errorminus="0.246" errorplus="0.0">0.246000</eccentricity>
+			<inclination errorminus="0.180" errorplus="0.180">82.130</inclination>
 			<temperature errorminus="21" errorplus="21">1840</temperature>
 			<description>This planet was discovered by the HATNet transit survey. The star is located in field 0 of the NASA's K2 mission. The planet is a inflated hot Jupiter and transits its host star on a near-grazing orbit. The radius is among the largest known for a planet with a mass grater two Jupiter masses.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2456553.61645</transittime>
+			<transittime errorminus=".000420" errorplus="0.000420" unit="BJD">2456553.616450</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

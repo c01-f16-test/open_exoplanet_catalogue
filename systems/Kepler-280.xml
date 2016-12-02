@@ -9,12 +9,14 @@
 		<name>Kepler-280</name>
 		<name>KOI-1240</name>
 		<name>KIC 6690082</name>
-		<mass errorminus="0.0560" errorplus="0.0560">0.9570</mass>
-		<radius errorminus=".426" errorplus="0.426">0.886</radius>
-		<magJ errorminus="0.023" errorplus="0.023">13.289</magJ>
+		<mass errorminus="0.0560" errorplus="0.0560">0.91</mass>
+		<radius errorminus="0.43" errorplus="0.43">0.89</radius>
+		<magV>14.466</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.289</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.914</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.844</magK>
-		<temperature errorminus="200" errorplus="200">5744</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5744.00</temperature>
+		<metallicity>-0.169</metallicity>
 		<planet>
 			<name>Kepler-280 b</name>
 			<name>KOI-1240 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6690082 b</name>
 			<name>KIC 6690082.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06379" errorplus="0.06379">0.13214</radius>
-			<period errorminus=".000006" errorplus="0.000006">2.139542</period>
+			<radius errorminus="0.062" errorplus="0.062">0.129</radius>
+			<period errorminus="0.00000600" errorplus="0.00000600">2.13954200</period>
+			<semimajoraxis>0.032000</semimajoraxis>
 			<description>Kepler-280 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-280 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015000" errorplus="0.0015000">2454966.6526000</transittime>
+			<transittime errorminus=".001500" errorplus="0.001500" unit="BJD">2454966.652600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6690082 c</name>
 			<name>KIC 6690082.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08840" errorplus="0.08840">0.18317</radius>
-			<period errorminus=".000009" errorplus="0.000009">4.807091</period>
+			<radius errorminus="0.087" errorplus="0.087">0.179</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">4.80709100</period>
+			<semimajoraxis>0.056000</semimajoraxis>
 			<description>Kepler-280 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-280 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010400" errorplus="0.0010400">2454967.6424900</transittime>
+			<transittime errorminus=".001040" errorplus="0.001040" unit="BJD">2454967.642490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

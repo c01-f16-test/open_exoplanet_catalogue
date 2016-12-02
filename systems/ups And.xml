@@ -1,0 +1,275 @@
+<system>
+	<name>ups And</name>
+	<name>Upsilon Andromedae</name>
+	<rightascension>01 36 47</rightascension>
+	<declination>+41 24 19</declination>
+	<distance errorminus="0.13" errorplus="0.13">13.47</distance>
+	<binary>
+		<separation unit="arcsec">52</separation>
+		<separation unit="AU">700</separation>
+		<positionangle>150</positionangle>
+		<star>
+			<name>Upsilon Andromedae A</name>
+			<name>ups And A</name>
+			<mass>1.27</mass>
+			<radius>1.631</radius>
+			<magV>4.09</magV>
+			<magB>4.63</magB>
+			<magR>3.8</magR>
+			<magI>3.5</magI>
+			<magJ>3.17</magJ>
+			<magH>2.96</magH>
+			<magK errorminus="0.08" errorplus="0.08">2.86</magK>
+			<temperature>6212.0</temperature>
+			<age>3.1</age>
+			<metallicity>0.09</metallicity>
+			<spectraltype>F8 V</spectraltype>
+			<planet>
+				<name>Upsilon Andromedae A b</name>
+				<name>ups And A b</name>
+				<name>ups And b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>1.78</mass>
+				<period>4.61716</period>
+				<semimajoraxis>0.059408</semimajoraxis>
+				<eccentricity>0.011769</eccentricity>
+				<periastron>51.14</periastron>
+				<ascendingnode>7.28</ascendingnode>
+				<meananomaly>103.53</meananomaly>
+				<inclination>22.99</inclination>
+				<temperature>1440.1</temperature>
+				<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>1996</discoveryyear>
+			</planet>
+			<planet>
+				<name>Upsilon Andromedae A c</name>
+				<name>ups And A c</name>
+				<name>ups And c</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>10.78</mass>
+				<period>241.02</period>
+				<semimajoraxis>0.831580</semimajoraxis>
+				<eccentricity>0.247042</eccentricity>
+				<periastron>248.74</periastron>
+				<ascendingnode>256.34</ascendingnode>
+				<meananomaly>154.47</meananomaly>
+				<inclination>10.09</inclination>
+				<temperature>375.6</temperature>
+				<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>1999</discoveryyear>
+			</planet>
+			<planet>
+				<name>Upsilon Andromedae A d</name>
+				<name>ups And A d</name>
+				<name>ups And d</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>8.86</mass>
+				<period>1282.57</period>
+				<semimajoraxis>2.533539</semimajoraxis>
+				<eccentricity>0.249090</eccentricity>
+				<periastron>253.27</periastron>
+				<ascendingnode>9.97</ascendingnode>
+				<meananomaly>82.57</meananomaly>
+				<inclination>28.30</inclination>
+				<temperature>218.0</temperature>
+				<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>1999</discoveryyear>
+			</planet>
+			<planet>
+				<name>Upsilon Andromedae A e</name>
+				<name>ups And A e</name>
+				<name>ups And e</name>
+				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass>1.059</mass>
+				<period>3848.86</period>
+				<semimajoraxis>5.2456</semimajoraxis>
+				<eccentricity>0.00536</eccentricity>
+				<temperature>150.6</temperature>
+				<description>The detection of the fourth planet in the Upsilon Andromedae system has been questioned due to the presence of an unaccounted-for instrumental shift in earlier reductions of the radial velocity data from the Lick observatory.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2010</discoveryyear>
+			</planet>
+		</star>
+		<star>
+			<name>Upsilon Andromedae B</name>
+			<name>ups And B</name>
+			<mass>0.19</mass>
+		</star>
+	</binary>
+	<star>
+		<name>Upsilon Andromedae A</name>
+		<name>ups And A</name>
+		<mass>1.27</mass>
+		<radius>1.631</radius>
+		<magV>4.09</magV>
+		<magB>4.63</magB>
+		<magR>3.8</magR>
+		<magI>3.5</magI>
+		<magJ>3.17</magJ>
+		<magH>2.96</magH>
+		<magK errorminus="0.08" errorplus="0.08">2.86</magK>
+		<temperature>6212.0</temperature>
+		<age>3.1</age>
+		<metallicity>0.09</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>Upsilon Andromedae A b</name>
+			<name>ups And A b</name>
+			<name>ups And b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.78</mass>
+			<period>4.61716</period>
+			<semimajoraxis>0.059408</semimajoraxis>
+			<eccentricity>0.011769</eccentricity>
+			<periastron>51.14</periastron>
+			<ascendingnode>7.28</ascendingnode>
+			<meananomaly>103.53</meananomaly>
+			<inclination>22.99</inclination>
+			<temperature>1440.1</temperature>
+			<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>Upsilon Andromedae A c</name>
+			<name>ups And A c</name>
+			<name>ups And c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>10.78</mass>
+			<period>241.02</period>
+			<semimajoraxis>0.831580</semimajoraxis>
+			<eccentricity>0.247042</eccentricity>
+			<periastron>248.74</periastron>
+			<ascendingnode>256.34</ascendingnode>
+			<meananomaly>154.47</meananomaly>
+			<inclination>10.09</inclination>
+			<temperature>375.6</temperature>
+			<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>Upsilon Andromedae A d</name>
+			<name>ups And A d</name>
+			<name>ups And d</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>8.86</mass>
+			<period>1282.57</period>
+			<semimajoraxis>2.533539</semimajoraxis>
+			<eccentricity>0.249090</eccentricity>
+			<periastron>253.27</periastron>
+			<ascendingnode>9.97</ascendingnode>
+			<meananomaly>82.57</meananomaly>
+			<inclination>28.30</inclination>
+			<temperature>218.0</temperature>
+			<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>Upsilon Andromedae A e</name>
+			<name>ups And A e</name>
+			<name>ups And e</name>
+			<list>Controversial</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.059</mass>
+			<period>3848.86</period>
+			<semimajoraxis>5.2456</semimajoraxis>
+			<eccentricity>0.00536</eccentricity>
+			<temperature>150.6</temperature>
+			<description>The detection of the fourth planet in the Upsilon Andromedae system has been questioned due to the presence of an unaccounted-for instrumental shift in earlier reductions of the radial velocity data from the Lick observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Upsilon Andromedae B</name>
+		<name>ups And B</name>
+		<mass>0.19</mass>
+	</star>
+	<star>
+		<name>ups And</name>
+		<mass errorminus="0.06" errorplus="0.06">1.30</mass>
+		<radius errorminus="0.014" errorplus="0.014">1.56</radius>
+		<magV>4.100</magV>
+		<magB>4.640</magB>
+		<magJ errorminus="0.210" errorplus="0.210">3.175</magJ>
+		<magH errorminus="0.178" errorplus="0.178">2.957</magH>
+		<magK errorminus="0.274" errorplus="0.274">2.859</magK>
+		<temperature errorminus="80.0" errorplus="80.0">6212.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">5.000</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.09</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>ups And b</name>
+			<mass errorminus="0.00440" errorplus="0.00440" type="Msini">0.68760</mass>
+			<period errorminus="0.00002300" errorplus="0.00002300">4.61703300</period>
+			<semimajoraxis errorminus="0.000000" errorplus="0.000000">0.059222</semimajoraxis>
+			<eccentricity errorminus="0.000700" errorplus="0.000700">0.021500</eccentricity>
+			<periastron errorminus="3.8000" errorplus="3.8000">324.9000</periastron>
+			<periastrontime errorminus="0.049000" errorplus="0.049000">2450005.368000</periastrontime>
+			<maximumrvtime errorminus="0.049000" errorplus="0.049000">2450005.368000</maximumrvtime>
+			<inclination errorminus="0.0" errorplus="90.0">90.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1996</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And c</name>
+			<mass errorminus="0.01900" errorplus="0.01900" type="Msini">1.98100</mass>
+			<period errorminus="0.06400000" errorplus="0.06400000">241.25800000</period>
+			<semimajoraxis errorminus="0.000015" errorplus="0.000015">0.827774</semimajoraxis>
+			<eccentricity errorminus="0.007900" errorplus="0.007900">0.259600</eccentricity>
+			<periastron errorminus="1.6000" errorplus="1.6000">241.7000</periastron>
+			<periastrontime errorminus="0.840000" errorplus="0.840000">2450157.780000</periastrontime>
+			<maximumrvtime errorminus="0.840000" errorplus="0.840000">2450157.780000</maximumrvtime>
+			<inclination errorminus="3.0" errorplus="3.0">11.347</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And d</name>
+			<mass errorminus="0.02900" errorplus="0.02900" type="Msini">4.13200</mass>
+			<period errorminus="0.57000000" errorplus="0.57000000">1276.46000000</period>
+			<semimajoraxis errorminus="0.000750" errorplus="0.000750">2.513290</semimajoraxis>
+			<eccentricity errorminus="0.007200" errorplus="0.007200">0.298700</eccentricity>
+			<periastron errorminus="0.4300" errorplus="0.4300">258.8200</periastron>
+			<periastrontime errorminus="0.480000" errorplus="0.480000">2451347.480000</periastrontime>
+			<maximumrvtime errorminus="0.480000" errorplus="0.480000">2451347.480000</maximumrvtime>
+			<inclination errorminus="3.0" errorplus="3.0">25.609</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>ups And e</name>
+			<mass errorminus="0.028" errorplus="0.028">1.059</mass>
+			<period errorminus="0.74" errorplus="0.74">3848.86</period>
+			<semimajoraxis errorminus="0.00067" errorplus="0.00067">5.2456</semimajoraxis>
+			<eccentricity errorminus="0.00044" errorplus="0.00044">0.00536</eccentricity>
+			<periastron errorminus="2.3" errorplus="2.3">7.3</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

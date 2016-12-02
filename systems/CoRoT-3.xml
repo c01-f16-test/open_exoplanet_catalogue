@@ -1,39 +1,40 @@
 <system>
 	<name>CoRoT-3</name>
 	<rightascension>19 28 13</rightascension>
-	<declination>+00 07 19</declination>
-	<distance>680</distance>
+	<declination>+00 07 18</declination>
+	<distance errorminus="160.00" errorplus="160.00">680.00</distance>
 	<star>
 		<name>CoRoT-3</name>
 		<mass errorminus="0.09" errorplus="0.09">1.37</mass>
 		<radius errorminus="0.09" errorplus="0.09">1.56</radius>
-		<magV>13.292</magV>
-		<magB>14.199</magB>
+		<magV>13.3</magV>
+		<magB errorminus="0.040" errorplus="0.040">14.199</magB>
 		<magR>13.099</magR>
 		<magI errorminus="0.04" errorplus="0.04">12.54</magI>
-		<magJ errorminus="0.03" errorplus="0.03">11.94</magJ>
-		<magH errorminus="0.04" errorplus="0.04">11.71</magH>
-		<magK errorminus="0.03" errorplus="0.03">11.62</magK>
-		<temperature errorminus="140" errorplus="140">6740</temperature>
-		<metallicity errorminus="0.06" errorplus="0.06">-0.02</metallicity>
-		<spectraltype>F3V</spectraltype>
+		<magJ errorminus="0.030" errorplus="0.030">11.936</magJ>
+		<magH errorminus="0.042" errorplus="0.042">11.710</magH>
+		<magK errorminus="0.034" errorplus="0.034">11.618</magK>
+		<temperature errorminus="140.00" errorplus="140.00">6740.00</temperature>
+		<age errorminus="0.600" errorplus="0.600">2.200</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.14</metallicity>
+		<spectraltype>F3 V</spectraltype>
 		<planet>
 			<name>CoRoT-3 b</name>
 			<name>CoRoT-Exo-3 b</name>
 			<name>2MASS J19281326+0007185 b</name>
 			<name>CoRoTID 101368192 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.0" errorplus="1.0">21.66</mass>
-			<radius errorminus="0.07" errorplus="0.07">1.01</radius>
-			<period errorminus="0.000005" errorplus="0.000005">4.25680</period>
-			<semimajoraxis>0.057</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.8" errorplus="0.8">85.9</inclination>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Mass">21.66000</mass>
+			<radius errorminus="0.070" errorplus="0.070">1.010</radius>
+			<period errorminus="0.00000500" errorplus="0.00000500">4.25680000</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.057</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.800" errorplus="0.800">85.900</inclination>
 			<temperature>1554.7</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454283.1390</transittime>
+			<transittime errorminus=".000300" errorplus="0.000300" unit="HJD">2454283.138300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

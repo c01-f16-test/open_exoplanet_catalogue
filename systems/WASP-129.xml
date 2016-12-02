@@ -1,37 +1,40 @@
 <system>
 	<name>WASP-129</name>
-	<rightascension>11 45 11.75</rightascension>
-	<declination>-42 03 50.1</declination>
-	<distance errorminus="7" errorplus="7">246</distance>
+	<rightascension>11 45 11</rightascension>
+	<declination>-42 03 50</declination>
+	<distance errorminus="7.00" errorplus="7.00">246.00</distance>
 	<star>
 		<name>WASP-129</name>
 		<name>TYC 7749-508-1</name>
 		<name>2MASS J11451175-4203501</name>
 		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
-		<magV errorminus="0.16" errorplus="0.16">12.18</magV>
+		<radius errorminus="0.02" errorplus="0.02">0.90</radius>
+		<magV errorminus="0.600" errorplus="0.600">12.300</magV>
 		<magB errorminus="0.15" errorplus="0.15">12.32</magB>
-		<magJ errorminus="0.023" errorplus="0.023">10.725</magJ>
-		<magH errorminus="0.022" errorplus="0.022">10.471</magH>
-		<magK errorminus="0.023" errorplus="0.023">10.412</magK>
-		<temperature errorminus="100" errorplus="100">5900</temperature>
-		<metallicity errorminus="0.09" errorplus="0.09">0.15</metallicity>
+		<magJ errorminus="0.020" errorplus="0.020">10.725</magJ>
+		<magH errorminus="0.020" errorplus="0.020">10.471</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.412</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5900.00</temperature>
+		<age errorminus="0.900" errorplus="0.900">1.000</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.150</metallicity>
 		<spectraltype>G1</spectraltype>
 		<planet>
 			<name>WASP-129 b</name>
 			<name>TYC 7749-508-1 b</name>
 			<name>2MASS J11451175-4203501 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.1" errorplus="0.1">1</mass>
-			<radius errorminus="0.03" errorplus="0.03">0.93</radius>
-			<period>5.748145</period>
-			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0628</semimajoraxis>
-			<inclination errorminus="0.2" errorplus="0.2">87.7</inclination>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Mass">1.00000</mass>
+			<radius errorminus="0.030" errorplus="0.030">0.930</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">5.74814500</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.062800</semimajoraxis>
+			<eccentricity errorminus="0.096" errorplus="0.0">0.096000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">87.700</inclination>
 			<temperature errorminus="25" errorplus="25">1100</temperature>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime unit="HJD">2547027.4373</transittime>
+			<transittime errorminus=".000200" errorplus="0.000200" unit="HJD">2457027.437300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

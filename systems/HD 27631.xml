@@ -2,33 +2,35 @@
 	<name>HD 27631</name>
 	<rightascension>04 19 45</rightascension>
 	<declination>-41 57 37</declination>
-	<distance>45.5</distance>
+	<distance errorminus="1.60" errorplus="1.50">44.54</distance>
 	<star>
 		<name>HD 27631</name>
-		<mass>0.94</mass>
-		<radius>1.0</radius>
-		<magV>8.25</magV>
-		<magB errorminus="0.017" errorplus="0.017">8.914</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<radius>1.00</radius>
+		<magV errorminus="0.012" errorplus="0.012">8.243</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.915</magB>
 		<magR errorminus="0.38" errorplus="0.38">8.38</magR>
-		<magJ errorminus="0.026" errorplus="0.026">7.023</magJ>
+		<magJ errorminus="0.025" errorplus="0.025">7.023</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.719</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.646</magK>
-		<temperature>5737</temperature>
-		<age>4.4</age>
-		<metallicity>-0.12</metallicity>
-		<spectraltype>G3 IV/V</spectraltype>
+		<temperature errorminus="36.00" errorplus="36.00">5737.00</temperature>
+		<age errorminus="3.600" errorplus="3.600">4.400</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.120</metallicity>
+		<spectraltype>G3 IV-V</spectraltype>
 		<planet>
 			<name>HD 27631 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.45</mass>
-			<period>2208</period>
-			<semimajoraxis>3.25</semimajoraxis>
-			<eccentricity>0.12</eccentricity>
-			<periastron>134</periastron>
+			<mass errorminus="0.14000" errorplus="0.14000" type="Msini">1.45000</mass>
+			<period errorminus="66.00000000" errorplus="66.00000000">2208.00000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">3.250000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.120000</eccentricity>
+			<periastron errorminus="44.0000" errorplus="44.0000">134.0000</periastron>
+			<periastrontime errorminus="224.000000" errorplus="224.000000">2453867.000000</periastrontime>
+			<maximumrvtime errorminus="224.000000" errorplus="224.000000">2453867.000000</maximumrvtime>
 			<temperature>137.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

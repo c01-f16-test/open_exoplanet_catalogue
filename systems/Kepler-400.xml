@@ -10,11 +10,13 @@
 		<name>KOI-2711</name>
 		<name>KIC 5272233</name>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0300</mass>
-		<radius errorminus=".208" errorplus="0.208">1.145</radius>
+		<radius errorminus="0.21" errorplus="0.21">1.15</radius>
+		<magV>13.642</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.566</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.289</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.296</magK>
-		<temperature errorminus="100" errorplus="100">5886</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5886.00</temperature>
+		<metallicity>0.009</metallicity>
 		<planet>
 			<name>Kepler-400 b</name>
 			<name>KOI-2711 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5272233 b</name>
 			<name>KIC 5272233.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02734" errorplus="0.02734">0.15036</radius>
-			<period errorminus=".000034" errorplus="0.000034">9.024389</period>
+			<radius errorminus="0.027" errorplus="0.027">0.147</radius>
+			<period errorminus="0.00003400" errorplus="0.00003400">9.02438900</period>
+			<semimajoraxis>0.087000</semimajoraxis>
 			<description>Kepler-400 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-400 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023900" errorplus="0.0023900">2454966.5384800</transittime>
+			<transittime errorminus=".002390" errorplus="0.002390" unit="BJD">2454966.538480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5272233 c</name>
 			<name>KIC 5272233.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02552" errorplus="0.02552">0.13578</radius>
-			<period errorminus=".000100" errorplus="0.000100">17.340824</period>
+			<radius errorminus="0.025" errorplus="0.025">0.133</radius>
+			<period errorminus="0.00010000" errorplus="0.00010000">17.34082400</period>
+			<semimajoraxis>0.134000</semimajoraxis>
 			<description>Kepler-400 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-400 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0041900" errorplus="0.0041900">2454971.9665500</transittime>
+			<transittime errorminus=".004190" errorplus="0.004190" unit="BJD">2454971.966550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

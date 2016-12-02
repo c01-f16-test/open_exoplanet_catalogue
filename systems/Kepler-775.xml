@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-775</name>
-	<rightascension>19 25 44</rightascension>
+	<rightascension>19 25 43</rightascension>
 	<declination>+41 42 12</declination>
+	<distance errorminus="12.42" errorplus="11.51">400.00</distance>
 	<star>
 		<name>Kepler-775</name>
 		<mass errorminus="0.03" errorplus="0.03">0.92</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.84</radius>
-		<temperature errorminus="70.5" errorplus="68.0">5468.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.04</metallicity>
+		<magV>13.507</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.213</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.823</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.774</magK>
+		<temperature errorminus="70.49" errorplus="67.97">5468.00</temperature>
+		<age errorminus="0.568" errorplus="1.000">1.860</age>
+		<metallicity errorminus="0.100" errorplus="0.103">-0.040</metallicity>
 		<planet>
 			<name>Kepler-775 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.004" errorplus="0.004">0.106</radius>
-			<period errorminus="0.000000800" errorplus="0.000000800">0.974868930</period>
+			<period errorminus="0.00000080" errorplus="0.00000080">0.97486893</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000693" errorplus="0.000693" unit="JD">2454966.076177</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

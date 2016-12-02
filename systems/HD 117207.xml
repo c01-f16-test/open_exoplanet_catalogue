@@ -2,29 +2,33 @@
 	<name>HD 117207</name>
 	<rightascension>13 29 21</rightascension>
 	<declination>-35 34 15</declination>
-	<distance>33</distance>
+	<distance errorminus="1.03" errorplus="0.97">33.01</distance>
 	<star>
 		<name>HD 117207</name>
-		<mass>1.07</mass>
+		<mass>1.08</mass>
 		<radius>1.09</radius>
-		<magV>7.26</magV>
-		<magB errorminus="0.02" errorplus="0.02">7.98</magB>
+		<magV>7.260</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.985</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.034</magJ>
 		<magH errorminus="0.038" errorplus="0.038">5.749</magH>
-		<magK errorminus="0.02" errorplus="0.02">5.65</magK>
-		<temperature>5432.0</temperature>
-		<metallicity>0.27</metallicity>
-		<spectraltype>G8VI/V</spectraltype>
+		<magK errorminus="0.020" errorplus="0.020">5.650</magK>
+		<temperature>5724.00</temperature>
+		<age errorminus="2.2" errorplus="2.2">6.68</age>
+		<metallicity>0.266</metallicity>
+		<spectraltype>G8 IV/V</spectraltype>
 		<planet>
 			<name>HD 117207 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.06</mass>
-			<period>2627.08</period>
-			<semimajoraxis>3.78</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.17000" errorplus="0.17000" type="Msini">1.88000</mass>
+			<period errorminus="41.00000000" errorplus="41.00000000">2597.00000000</period>
+			<semimajoraxis errorminus="0.220000" errorplus="0.220000">3.790000</semimajoraxis>
+			<eccentricity errorminus="0.035000" errorplus="0.035000">0.144000</eccentricity>
+			<periastron errorminus="16.0000" errorplus="16.0000">73.0000</periastron>
+			<periastrontime errorminus="120.000000" errorplus="120.000000">2450630.000000</periastrontime>
+			<maximumrvtime errorminus="120.000000" errorplus="120.000000">2450630.000000</maximumrvtime>
 			<temperature>128.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 	</star>

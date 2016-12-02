@@ -2,22 +2,29 @@
 	<name>Kepler-896</name>
 	<rightascension>18 49 45</rightascension>
 	<declination>+43 44 04</declination>
+	<distance errorminus="65.23" errorplus="59.85">896.00</distance>
 	<star>
 		<name>Kepler-896</name>
 		<mass errorminus="0.05" errorplus="0.04">0.84</mass>
 		<radius errorminus="0.06" errorplus="0.05">0.81</radius>
-		<temperature errorminus="52.2" errorplus="56.7">5262.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.10</metallicity>
+		<magV>15.481</magV>
+		<magJ errorminus="0.021" errorplus="0.021">14.164</magJ>
+		<magH errorminus="0.032" errorplus="0.032">13.682</magH>
+		<magK errorminus="0.039" errorplus="0.039">13.659</magK>
+		<temperature errorminus="52.21" errorplus="56.73">5262.00</temperature>
+		<age errorminus="3.240" errorplus="6.230">5.010</age>
+		<metallicity errorminus="0.168" errorplus="0.148">-0.100</metallicity>
 		<planet>
 			<name>Kepler-896 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.016">0.226</radius>
-			<period errorminus="0.002274000" errorplus="0.002274000">144.547396000</period>
+			<period errorminus="0.00227400" errorplus="0.00227400">144.54739600</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".009230" errorplus="0.009230" unit="JD">2455098.952810</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

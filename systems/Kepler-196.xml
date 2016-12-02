@@ -9,11 +9,13 @@
 		<name>Kepler-196</name>
 		<name>KOI-612</name>
 		<name>KIC 6587002</name>
-		<radius errorminus=".056" errorplus="0.056">0.782</radius>
+		<radius errorminus="0.06" errorplus="0.06">0.78</radius>
+		<magV>14.157</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.752</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.300</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.235</magK>
-		<temperature errorminus="100" errorplus="100">5128</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5128.00</temperature>
+		<metallicity>0.071</metallicity>
 		<planet>
 			<name>Kepler-196 b</name>
 			<name>KOI-612 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 6587002 b</name>
 			<name>KIC 6587002.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.01367">0.17315</radius>
-			<period errorminus=".000066" errorplus="0.000066">20.739886</period>
+			<radius errorminus="0.013" errorplus="0.013">0.170</radius>
+			<period errorminus="0.00006600" errorplus="0.00006600">20.73988600</period>
+			<semimajoraxis>0.138000</semimajoraxis>
 			<description>Kepler-196 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-196 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019000" errorplus="0.0019000">2455006.2181700</transittime>
+			<transittime errorminus=".001900" errorplus="0.001900" unit="BJD">2455006.218170</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +40,14 @@
 			<name>KIC 6587002 c</name>
 			<name>KIC 6587002.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.20413</radius>
-			<period errorminus=".000223" errorplus="0.000223">47.427737</period>
+			<radius errorminus="0.015" errorplus="0.015">0.200</radius>
+			<period errorminus="0.00022300" errorplus="0.00022300">47.42773700</period>
+			<semimajoraxis>0.240000</semimajoraxis>
 			<description>Kepler-196 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-196 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0022300" errorplus="0.0022300">2455049.5542500</transittime>
+			<transittime errorminus=".002230" errorplus="0.002230" unit="BJD">2455049.554250</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

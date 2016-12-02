@@ -1,8 +1,8 @@
 <system>
 	<name>BD-11 4672</name>
-	<rightascension>18 33 28.83271</rightascension>
-	<declination>-11 38 09.7315</declination>
-	<distance errorminus="1.3" errorplus="1.3">27.3</distance>
+	<rightascension>18 33 28</rightascension>
+	<declination>-11 38 09</declination>
+	<distance errorminus="1.3" errorplus="1.3">27.30</distance>
 	<star>
 		<name>BD-11 4672</name>
 		<name>BD-114672</name>
@@ -12,31 +12,32 @@
 		<name>Gliese 717</name>
 		<name>GJ 717</name>
 		<name>2MASS J18332885-1138097</name>
-		<mass errorminus="0.014" errorplus="0.014">0.571</mass>
+		<mass errorminus="0.01" errorplus="0.01">0.57</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.52</radius>
-		<magV errorminus="0.05" errorplus="0.05">9.99</magV>
-		<magB errorminus="0.10" errorplus="0.10">11.21</magB>
+		<magV errorminus="0.05" errorplus="0.05">9.990</magV>
+		<magB errorminus="0.10" errorplus="0.10">11.210</magB>
 		<magR>9.60</magR>
 		<magI errorminus="0.05" errorplus="0.05">9.02</magI>
 		<magJ errorminus="0.023" errorplus="0.023">7.651</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.031</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.867</magK>
-		<temperature errorminus="100" errorplus="100">4475</temperature>
-		<age errorminus="4" errorplus="4">4.4</age>
-		<metallicity errorminus="0.05" errorplus="0.05">-0.48</metallicity>
+		<temperature errorminus="100.00" errorplus="100.00">4475.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">4.400</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.480</metallicity>
 		<spectraltype>K7 V</spectraltype>
 		<planet>
 			<name>BD-11 4672 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05" type="msini">0.53</mass>
-			<period errorminus="31" errorplus="33">1667</period>
-			<semimajoraxis errorminus="0.07" errorplus="0.07">2.28</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.06">0.05</eccentricity>
-			<periastron errorminus="143" errorplus="77">231</periastron>
-			<maximumrvtime errorminus="46" errorplus="38">2455899</maximumrvtime>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">0.53000</mass>
+			<period errorminus="31.00000000" errorplus="33.00000000">1667.00000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">2.280000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.060000">0.050000</eccentricity>
+			<periastron errorminus="143.0000" errorplus="77.0000">231.0000</periastron>
+			<periastrontime errorminus="46.000000" errorplus="38.000000">2455899.000000</periastrontime>
+			<maximumrvtime errorminus="46.000000" errorplus="38.000000">2455899.000000</maximumrvtime>
 			<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

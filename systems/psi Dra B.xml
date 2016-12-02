@@ -1,0 +1,32 @@
+<system>
+	<name>psi Dra B</name>
+	<rightascension>17 41 58</rightascension>
+	<declination>+72 09 24</declination>
+	<distance>22.16</distance>
+	<star>
+		<name>psi Dra B</name>
+		<mass errorminus="0.07" errorplus="0.07">1.19</mass>
+		<magV>5.699</magV>
+		<magB errorminus="0.000" errorplus="0.000">6.340</magB>
+		<magJ errorminus="0.250" errorplus="0.250">5.001</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.590</magH>
+		<magK errorminus="0.022" errorplus="0.022">4.527</magK>
+		<temperature errorminus="75.00" errorplus="75.00">6212.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">3.300</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.010</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>psi Dra B b</name>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">1.53000</mass>
+			<period errorminus="42.00000000" errorplus="42.00000000">3117.00000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">4.430000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.400000</eccentricity>
+			<periastron errorminus="9.0000" errorplus="9.0000">64.0000</periastron>
+			<periastrontime errorminus="76.000000" errorplus="76.000000">2449344.000000</periastrontime>
+			<maximumrvtime errorminus="76.000000" errorplus="76.000000">2449344.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

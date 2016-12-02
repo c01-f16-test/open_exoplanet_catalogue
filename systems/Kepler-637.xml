@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-637</name>
 	<rightascension>19 29 40</rightascension>
-	<declination>+41 25 01</declination>
+	<declination>+41 25 00</declination>
+	<distance errorminus="186.92" errorplus="164.18">1575.00</distance>
 	<star>
 		<name>Kepler-637</name>
 		<mass errorminus="0.10" errorplus="0.07">1.64</mass>
 		<radius errorminus="0.30" errorplus="0.27">2.56</radius>
-		<temperature errorminus="44.4" errorplus="47.0">6096.0</temperature>
-		<metallicity errorminus="0.05" errorplus="0.05">0.38</metallicity>
+		<magV>13.413</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.459</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.227</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.182</magK>
+		<temperature errorminus="44.44" errorplus="46.96">6096.00</temperature>
+		<age errorminus="0.250" errorplus="0.340">2.190</age>
+		<metallicity errorminus="0.053" errorplus="0.052">0.380</metallicity>
 		<planet>
 			<name>Kepler-637 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.050" errorplus="0.045">0.424</radius>
-			<period errorminus="0.000053680" errorplus="0.000053680">23.205846230</period>
+			<period errorminus="0.00005368" errorplus="0.00005368">23.20584623</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001740" errorplus="0.001740" unit="JD">2455013.761410</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

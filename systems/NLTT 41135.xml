@@ -1,0 +1,25 @@
+<system>
+	<name>NLTT 41135</name>
+	<declination>+04 41 30</declination>
+	<star>
+		<name>NLTT 41135</name>
+		<mass errorminus="0.022" errorplus="0.026">0.188</mass>
+		<radius errorminus="0.016" errorplus="0.016">0.21</radius>
+		<magV>18.0</magV>
+		<temperature errorminus="130.0" errorplus="130.0">3230.0</temperature>
+		<metallicity>0.0</metallicity>
+		<spectraltype>M5.1</spectraltype>
+		<planet>
+			<name>NLTT 41135</name>
+			<mass errorminus="2.81" errorplus="2.82" type="Radial Velocity">33.7</mass>
+			<radius errorminus="0.17" errorplus="0.27">1.13</radius>
+			<period errorminus="2.5e-05" errorplus="2.5e-05">2.889475</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.024</semimajoraxis>
+			<inclination errorminus="0.5" errorplus="0.5">87.42</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00022" errorplus="0.00022">2455002.80232</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

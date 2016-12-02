@@ -10,11 +10,13 @@
 		<name>KOI-837</name>
 		<name>KIC 5531576</name>
 		<mass errorminus="0.0220" errorplus="0.0220">0.7530</mass>
-		<radius errorminus=".299" errorplus="0.299">0.739</radius>
+		<radius errorminus="0.30" errorplus="0.30">0.74</radius>
+		<magV>15.660</magV>
 		<magJ errorminus="0.025" errorplus="0.025">14.113</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.606</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.46</magK>
-		<temperature errorminus="200" errorplus="200">4985</temperature>
+		<magK errorminus="0.033" errorplus="0.033">13.464</magK>
+		<temperature errorminus="200.00" errorplus="200.00">4985.00</temperature>
+		<metallicity>0.089</metallicity>
 		<planet>
 			<name>Kepler-240 c</name>
 			<name>KOI-837 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5531576 c</name>
 			<name>KIC 5531576.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08111" errorplus="0.08111">0.20049</radius>
-			<period errorminus=".000025" errorplus="0.000025">7.953528</period>
+			<radius errorminus="0.079" errorplus="0.079">0.196</radius>
+			<period errorminus="0.00002500" errorplus="0.00002500">7.95352800</period>
+			<semimajoraxis>0.074000</semimajoraxis>
 			<description>Kepler-240 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-240 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018400" errorplus="0.0018400">2455007.6615500</transittime>
+			<transittime errorminus=".001840" errorplus="0.001840" unit="BJD">2455007.661550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5531576 b</name>
 			<name>KIC 5531576.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05103" errorplus="0.05103">0.12485</radius>
-			<period errorminus=".000026" errorplus="0.000026">4.144495</period>
+			<radius errorminus="0.050" errorplus="0.050">0.122</radius>
+			<period errorminus="0.00002600" errorplus="0.00002600">4.14449500</period>
+			<semimajoraxis>0.048000</semimajoraxis>
 			<description>Kepler-240 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-240 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0033700" errorplus="0.0033700">2454968.9265800</transittime>
+			<transittime errorminus=".003370" errorplus="0.003370" unit="BJD">2454968.926580</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

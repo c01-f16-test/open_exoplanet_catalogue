@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-869</name>
-	<rightascension>19 17 42</rightascension>
-	<declination>+50 59 39</declination>
+	<rightascension>19 17 41</rightascension>
+	<declination>+50 59 38</declination>
+	<distance errorminus="79.00" errorplus="220.03">957.00</distance>
 	<star>
 		<name>Kepler-869</name>
 		<mass errorminus="0.05" errorplus="0.05">0.97</mass>
 		<radius errorminus="0.07" errorplus="0.22">0.95</radius>
-		<temperature errorminus="95.3" errorplus="72.3">5664.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.02</metallicity>
+		<magV>14.982</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.741</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.399</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.359</magK>
+		<temperature errorminus="95.26" errorplus="72.29">5664.00</temperature>
+		<age errorminus="3.060" errorplus="4.420">4.790</age>
+		<metallicity errorminus="0.159" errorplus="0.129">0.020</metallicity>
 		<planet>
 			<name>Kepler-869 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.055" errorplus="0.074">0.322</radius>
-			<period errorminus="0.000179900" errorplus="0.000179900">40.428775500</period>
+			<period errorminus="0.00017990" errorplus="0.00017990">40.42877550</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003520" errorplus="0.003520" unit="JD">2454972.502290</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

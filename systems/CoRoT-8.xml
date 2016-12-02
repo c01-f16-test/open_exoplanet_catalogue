@@ -1,39 +1,40 @@
 <system>
 	<name>CoRoT-8</name>
 	<rightascension>19 26 21</rightascension>
-	<declination>+01 25 36</declination>
-	<distance>380</distance>
+	<declination>+01 25 35</declination>
+	<distance errorminus="30.00" errorplus="30.00">380.00</distance>
 	<star>
 		<name>CoRoT-8</name>
-		<mass>0.88</mass>
-		<radius>0.77</radius>
-		<magV>14.797</magV>
-		<magB>16.096</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.88</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.77</radius>
+		<magV>14.800</magV>
+		<magB>16.100</magB>
 		<magR>14.267</magR>
 		<magI errorminus="0.07" errorplus="0.07">13.26</magI>
 		<magJ errorminus="0.023" errorplus="0.023">12.154</magJ>
 		<magH errorminus="0.024" errorplus="0.024">11.641</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.463</magK>
-		<temperature>5080.0</temperature>
-		<metallicity>0.3</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<temperature errorminus="80.00" errorplus="80.00">5080.00</temperature>
+		<age errorminus="nan" errorplus="inf">3.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.300</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-8 b</name>
 			<name>CoRoT-Exo-8 b</name>
 			<name>2MASS J19262124+0125352 b</name>
 			<name>CoRoTID 101086161 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.22</mass>
-			<radius>0.57</radius>
-			<period>6.21229</period>
-			<semimajoraxis>0.063</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.4</inclination>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Mass">0.22000</mass>
+			<radius errorminus="0.020" errorplus="0.020">0.570</radius>
+			<period errorminus="0.00003000" errorplus="0.00003000">6.21229000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.063000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.100" errorplus="0.100">88.400</inclination>
 			<temperature>783.1</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
+			<transittime errorminus=".000400" errorplus="0.000400" unit="HJD">2454238.974300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

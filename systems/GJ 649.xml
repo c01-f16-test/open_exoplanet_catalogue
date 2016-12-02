@@ -1,0 +1,87 @@
+<system>
+	<name>GJ 649</name>
+	<name>Gliese 649</name>
+	<rightascension>16 58 08</rightascension>
+	<declination>+25 44 39</declination>
+	<distance errorminus="0.16" errorplus="0.16">10.32</distance>
+	<star>
+		<name>Gliese 649</name>
+		<mass>0.54</mass>
+		<magV>9.7</magV>
+		<magB>11.139</magB>
+		<magR>8.685</magR>
+		<magI>7.602</magI>
+		<magJ errorminus="0.021" errorplus="0.021">6.448</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.865</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
+		<temperature>3700.0</temperature>
+		<metallicity>0.08</metallicity>
+		<spectraltype>M1.5</spectraltype>
+		<planet>
+			<name>Gliese 649 b</name>
+			<name>GJ 649 b</name>
+			<name>Gj 649 b</name>
+			<name>Gl 649 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.328</mass>
+			<period>598.3</period>
+			<semimajoraxis>1.135</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<temperature>102.2</temperature>
+			<description>Gliese 649 is a red dwarf with about half the mass and size of our Sun in the constellation Hercules.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 649.02</name>
+			<list>Controversial</list>
+			<mass errorminus="0.008" errorplus="0.008">0.030</mass>
+			<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.043</semimajoraxis>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.20</eccentricity>
+			<periastron errorminus="47" errorplus="47">334</periastron>
+			<meananomaly errorminus="68" errorplus="68">334</meananomaly>
+			<description>The radial velocity data for GJ 649 is compatible with either a single eccentric planet or a two-planet system with lower eccentricities.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 649</name>
+		<mass errorminus="0.05" errorplus="0.05">0.54</mass>
+		<magV errorminus="0.020" errorplus="0.020">9.690</magV>
+		<magB errorminus="0.025" errorplus="0.025">11.190</magB>
+		<magJ errorminus="0.021" errorplus="0.021">6.448</magJ>
+		<magH errorminus="0.020" errorplus="0.020">5.865</magH>
+		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
+		<temperature errorminus="60.00" errorplus="60.00">3700.00</temperature>
+		<metallicity errorminus="0.060" errorplus="0.060">0.080</metallicity>
+		<spectraltype>M0.5</spectraltype>
+		<planet>
+			<name>GJ 649 b</name>
+			<mass errorminus="0.03200" errorplus="0.03200" type="Msini">0.32800</mass>
+			<period errorminus="4.20000000" errorplus="4.20000000">598.30000000</period>
+			<semimajoraxis errorminus="0.035000" errorplus="0.035000">1.135000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.300000</eccentricity>
+			<periastron errorminus="15.0000" errorplus="15.0000">352.0000</periastron>
+			<periastrontime errorminus="22.000000" errorplus="22.000000">2412876.000000</periastrontime>
+			<maximumrvtime errorminus="22.000000" errorplus="22.000000">2412876.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 649 c</name>
+			<mass errorminus="0.008" errorplus="0.008">0.03</mass>
+			<period errorminus="0.0004" errorplus="0.0004">4.4762</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.043</semimajoraxis>
+			<eccentricity errorminus="0.15" errorplus="0.15">0.2</eccentricity>
+			<periastron errorminus="47.0" errorplus="47.0">334.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

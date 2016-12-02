@@ -1,0 +1,31 @@
+<system>
+	<name>HD 35759</name>
+	<rightascension>05 31 33</rightascension>
+	<declination>+64 19 07</declination>
+	<distance errorminus="4.00" errorplus="4.00">72.50</distance>
+	<star>
+		<name>HD 35759</name>
+		<mass errorminus="0.08" errorplus="0.08">1.15</mass>
+		<magV errorminus="0.010" errorplus="0.010">7.740</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.329</magB>
+		<magJ errorminus="0.023" errorplus="0.023">6.606</magJ>
+		<magH errorminus="0.040" errorplus="0.040">6.388</magH>
+		<magK errorminus="0.020" errorplus="0.020">6.319</magK>
+		<temperature errorminus="30.00" errorplus="30.00">6060.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">0.040</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>HD 35759 b</name>
+			<mass errorminus="0.17000" errorplus="0.17000" type="Msini">3.76000</mass>
+			<period errorminus="0.01900000" errorplus="0.01900000">82.46700000</period>
+			<semimajoraxis errorminus="0.009000" errorplus="0.009000">0.389000</semimajoraxis>
+			<eccentricity errorminus="0.006000" errorplus="0.006000">0.389000</eccentricity>
+			<periastron errorminus="1.3000" errorplus="1.3000">-104.0000</periastron>
+			<periastrontime errorminus="0.240000" errorplus="0.240000">2456469.720000</periastrontime>
+			<maximumrvtime errorminus="0.240000" errorplus="0.240000">2456469.720000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

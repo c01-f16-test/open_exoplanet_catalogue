@@ -1,29 +1,33 @@
 <system>
 	<name>HD 63765</name>
-	<rightascension>07 47 50</rightascension>
-	<declination>-54 15 51</declination>
-	<distance>32.6</distance>
+	<rightascension>07 47 49</rightascension>
+	<declination>-54 15 50</declination>
+	<distance errorminus="0.75" errorplus="0.72">32.62</distance>
 	<star>
 		<name>HD 63765</name>
-		<mass>0.865</mass>
-		<magV>8.1</magV>
-		<magB>8.85</magB>
+		<mass errorminus="0.029" errorplus="0.029">0.865</mass>
+		<magV errorminus="0.012" errorplus="0.012">8.104</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.848</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.768</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.442</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.316</magK>
-		<temperature>5432.0</temperature>
-		<metallicity>-0.16</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<temperature errorminus="19.0" errorplus="19.0">5432.0</temperature>
+		<age errorminus="4.07" errorplus="4.07">4.77</age>
+		<metallicity errorminus="0.01" errorplus="0.01">-0.16</metallicity>
+		<spectraltype>G6 IV/V</spectraltype>
 		<planet>
 			<name>HD 63765 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.64</mass>
-			<period>358</period>
-			<semimajoraxis>0.949</semimajoraxis>
-			<eccentricity>0.24</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">0.64000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">358.00000000</period>
+			<semimajoraxis errorminus="0.016000" errorplus="0.016000">0.940000</semimajoraxis>
+			<eccentricity errorminus="0.043000" errorplus="0.043000">0.240000</eccentricity>
+			<periastron errorminus="13.0000" errorplus="13.0000">122.0000</periastron>
+			<periastrontime errorminus="11.000000" errorplus="11.000000">2454404.000000</periastrontime>
+			<maximumrvtime errorminus="11.000000" errorplus="11.000000">2454404.000000</maximumrvtime>
 			<temperature>222.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

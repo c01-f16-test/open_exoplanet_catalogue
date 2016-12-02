@@ -1,35 +1,39 @@
 <system>
 	<name>GJ 1132</name>
-	<rightascension>10 14 51.846</rightascension>
-	<declination>-47 09 24.47</declination>
+	<rightascension>10 14 51</rightascension>
+	<declination>-47 09 24</declination>
 	<distance errorminus="0.24" errorplus="0.24">12.04</distance>
 	<star>
 		<name>GJ 1132</name>
 		<name>LHS 281</name>
 		<name>2MASS J10145184-4709244</name>
-		<mass errorminus="0.019" errorplus="0.019">0.181</mass>
-		<radius errorminus="0.016" errorplus="0.016">0.207</radius>
-		<magV>13.52</magV>
-		<magB>15.25</magB>
+		<mass errorminus="0.02" errorplus="0.02">0.18</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.21</radius>
+		<magV errorminus="0.030" errorplus="0.030">13.490</magV>
+		<magB errorminus="0.030" errorplus="0.030">15.170</magB>
 		<magJ errorminus="0.026" errorplus="0.026">9.245</magJ>
-		<magH errorminus="0.03" errorplus="0.03">8.67</magH>
+		<magH errorminus="0.031" errorplus="0.031">8.666</magH>
 		<magK errorminus="0.027" errorplus="0.027">8.322</magK>
-		<temperature errorminus="140" errorplus="140">3270</temperature>
-		<metallicity errorminus="0.15" errorplus="0.15">-0.12</metallicity>
-		<spectraltype>M3.5</spectraltype>
+		<temperature errorminus="140.00" errorplus="140.00">3270.00</temperature>
+		<age errorminus="10.0" errorplus="0.0">5.000</age>
+		<metallicity errorminus="0.150" errorplus="0.150">-0.120</metallicity>
+		<spectraltype>M4.5 V</spectraltype>
 		<planet>
 			<name>GJ 1132 b</name>
 			<name>LHS 281 b</name>
 			<name>2MASS J10145184-4709244 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001730" errorplus="0.001730">0.005096</mass>
-			<radius errorminus="0.010024" errorplus="0.010024">0.105711</radius>
-			<period errorminus="0.000031" errorplus="0.000031">1.628930</period>
+			<mass errorminus="0.00173" errorplus="0.00173" type="Mass">0.00510</mass>
+			<radius errorminus="0.010" errorplus="0.010">0.103</radius>
+			<period errorminus="0.00003100" errorplus="0.00003100">1.62893000</period>
+			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0154</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<temperature errorminus="11" errorplus="11">409</temperature>
 			<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to be cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00032" errorplus="0.00032" unit="BJD">2457184.55786</transittime>
+			<transittime errorminus=".000320" errorplus="0.000320" unit="BJD-TDB">2457184.557860</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/11/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

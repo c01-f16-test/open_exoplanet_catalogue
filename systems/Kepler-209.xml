@@ -10,11 +10,13 @@
 		<name>KOI-672</name>
 		<name>KIC 7115785</name>
 		<mass errorminus="0.0320" errorplus="0.0320">0.9310</mass>
-		<radius errorminus=".138" errorplus="0.138">0.935</radius>
+		<radius errorminus="0.14" errorplus="0.14">0.94</radius>
+		<magV>13.998</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.797</magJ>
 		<magH errorminus="0.017" errorplus="0.017">12.432</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.362</magK>
-		<temperature errorminus="100" errorplus="100">5513</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5513.00</temperature>
+		<metallicity>0.008</metallicity>
 		<planet>
 			<name>Kepler-209 b</name>
 			<name>KOI-672 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7115785 b</name>
 			<name>KIC 7115785.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03098" errorplus="0.03098">0.20595</radius>
-			<period errorminus=".000041" errorplus="0.000041">16.087845</period>
+			<radius errorminus="0.030" errorplus="0.030">0.202</radius>
+			<period errorminus="0.00004100" errorplus="0.00004100">16.08784500</period>
+			<semimajoraxis>0.122000</semimajoraxis>
 			<description>Kepler-209 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-209 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013700" errorplus="0.0013700">2455005.8133900</transittime>
+			<transittime errorminus=".001370" errorplus="0.001370" unit="BJD">2455005.813390</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7115785 c</name>
 			<name>KIC 7115785.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04648" errorplus="0.04648">0.28250</radius>
-			<period errorminus=".000106" errorplus="0.000106">41.749882</period>
+			<radius errorminus="0.045" errorplus="0.045">0.277</radius>
+			<period errorminus="0.00010600" errorplus="0.00010600">41.74988200</period>
+			<semimajoraxis>0.231000</semimajoraxis>
 			<description>Kepler-209 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-209 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014500" errorplus="0.0014500">2454986.8398600</transittime>
+			<transittime errorminus=".001450" errorplus="0.001450" unit="BJD">2454986.839860</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

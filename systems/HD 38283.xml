@@ -1,31 +1,34 @@
 <system>
 	<name>HD 38283</name>
 	<rightascension>05 37 02</rightascension>
-	<declination>-73 41 58</declination>
-	<distance>37.7</distance>
+	<declination>-73 41 57</declination>
+	<distance errorminus="0.82" errorplus="0.78">37.78</distance>
 	<star>
 		<name>HD 38283</name>
-		<mass>1.085</mass>
-		<magV>6.7</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.26</magB>
+		<mass errorminus="0.02" errorplus="0.02">1.08</mass>
+		<magV errorminus="0.010" errorplus="0.010">6.696</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.260</magB>
 		<magI errorminus="0.02" errorplus="0.02">8.35</magI>
 		<magJ errorminus="0.018" errorplus="0.018">5.645</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.339</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.267</magK>
-		<temperature>5945.0</temperature>
-		<metallicity>-0.24</metallicity>
-		<spectraltype>F9.5V</spectraltype>
+		<temperature errorminus="100.0" errorplus="100.0">5998.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">6.200</age>
+		<metallicity errorminus="0.07" errorplus="0.07">-0.120</metallicity>
+		<spectraltype>G0/1 V</spectraltype>
 		<planet>
 			<name>HD 38283 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.34</mass>
-			<period>363.2</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Msini">0.34000</mass>
+			<period errorminus="1.60000000" errorplus="1.60000000">363.20000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">1.020000</semimajoraxis>
+			<eccentricity errorminus="0.160000" errorplus="0.160000">0.410000</eccentricity>
+			<periastrontime errorminus="12.000000" errorplus="12.000000">2450802.600000</periastrontime>
+			<maximumrvtime errorminus="12.000000" errorplus="12.000000">2450802.600000</maximumrvtime>
 			<temperature>309.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/04/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

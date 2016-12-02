@@ -2,25 +2,33 @@
 	<name>HD 149143</name>
 	<rightascension>16 32 51</rightascension>
 	<declination>+02 05 05</declination>
-	<distance>63</distance>
+	<distance errorminus="4.63" errorplus="4.04">63.49</distance>
 	<star>
 		<name>HD 149143</name>
-		<mass>1.1</mass>
-		<magV>7.9</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.56</magB>
-		<temperature>5730.0</temperature>
-		<metallicity>0.26</metallicity>
-		<spectraltype>G0 IV</spectraltype>
+		<mass errorminus="0.10" errorplus="0.10">1.10</mass>
+		<magV errorminus="0.012" errorplus="0.012">7.893</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.561</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.759</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.535</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.434</magK>
+		<temperature errorminus="150.00" errorplus="150.00">5730.00</temperature>
+		<age errorminus="1.200" errorplus="1.200">7.600</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.200</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 149143 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.36</mass>
-			<period>4.088</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass type="Msini">1.36000</mass>
+			<radius>1.05</radius>
+			<period errorminus="0.00600000" errorplus="0.00600000">4.08800000</period>
+			<semimajoraxis>0.052000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.080000</eccentricity>
+			<periastron errorminus="35.0000" errorplus="35.0000">42.0000</periastron>
+			<periastrontime errorminus="0.400000" errorplus="0.400000">2453588.000000</periastrontime>
+			<maximumrvtime errorminus="0.400000" errorplus="0.400000">2453588.000000</maximumrvtime>
 			<temperature>1389.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

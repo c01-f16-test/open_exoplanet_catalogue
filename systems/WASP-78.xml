@@ -1,21 +1,21 @@
 <system>
 	<name>WASP-78</name>
-	<rightascension>04 15 02</rightascension>
+	<rightascension>04 15 01</rightascension>
 	<declination>-22 06 59</declination>
-	<distance>550</distance>
+	<distance errorminus="120.00" errorplus="120.00">550.00</distance>
 	<star>
 		<name>WASP-78</name>
-		<mass>2.02</mass>
-		<radius>2.31</radius>
-		<magV>12</magV>
+		<mass errorminus="0.09" errorplus="0.13">1.17</mass>
+		<radius errorminus="0.04" errorplus="0.41">1.60</radius>
+		<magV>12.000</magV>
 		<magB errorminus="0.21" errorplus="0.21">12.65</magB>
 		<magR errorminus="0.10" errorplus="0.10">12.43</magR>
 		<magI errorminus="0.02" errorplus="0.02">11.65</magI>
 		<magJ errorminus="0.027" errorplus="0.027">11.286</magJ>
 		<magH errorminus="0.027" errorplus="0.027">11.084</magH>
 		<magK errorminus="0.023" errorplus="0.023">11.008</magK>
-		<temperature>6100.0</temperature>
-		<metallicity>-0.35</metallicity>
+		<temperature errorminus="100.0" errorplus="150.00">6100.00</temperature>
+		<metallicity errorminus="0.14" errorplus="0.14">-0.35</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>WASP-78 b</name>
@@ -23,18 +23,18 @@
 			<name>TYC 5889-271-1 b</name>
 			<name>GSC 05889-00271 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.16</mass>
-			<radius>1.75</radius>
-			<period>2.17517656</period>
-			<semimajoraxis>0.0415</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>89</inclination>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Mass">0.89000</mass>
+			<radius errorminus="0.110" errorplus="0.110">1.700</radius>
+			<period errorminus="0.00000470" errorplus="0.00000470">2.17517632</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.036200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.600" errorplus="2.300">83.200</inclination>
 			<temperature>2006.7</temperature>
 			<description>WASP-78b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. It is one of the hottest known exoplanets with an equilibrium temperature of 2350 degrees Kelvin.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455882.35953</transittime>
+			<transittime errorminus=".000530" errorplus="0.000530" unit="HJD-UTC">2455882.358780</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/06/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

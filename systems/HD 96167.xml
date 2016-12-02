@@ -1,30 +1,34 @@
 <system>
 	<name>HD 96167</name>
 	<rightascension>11 05 15</rightascension>
-	<declination>-10 17 29</declination>
-	<distance>84</distance>
+	<declination>-10 17 28</declination>
+	<distance errorminus="10.22" errorplus="8.22">84.03</distance>
 	<star>
 		<name>HD 96167</name>
-		<mass>1.31</mass>
-		<radius>1.86</radius>
-		<magV>8.09</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.82</magB>
+		<mass errorminus="0.09" errorplus="0.09">1.31</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.86</radius>
+		<magV errorminus="0.014" errorplus="0.014">8.080</magV>
+		<magB errorminus="0.020" errorplus="0.020">8.819</magB>
 		<magJ errorminus="0.030" errorplus="0.030">6.926</magJ>
 		<magH errorminus="0.057" errorplus="0.057">6.621</magH>
 		<magK errorminus="0.036" errorplus="0.036">6.554</magK>
-		<temperature>5770.0</temperature>
-		<metallicity>0.34</metallicity>
-		<spectraltype>G5D</spectraltype>
+		<temperature errorminus="70.00" errorplus="70.00">5770.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">3.800</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.340</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 96167 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<period>498.9</period>
-			<semimajoraxis>1.3</semimajoraxis>
-			<eccentricity>0.71</eccentricity>
+			<mass errorminus="0.18000" errorplus="0.18000" type="Msini">0.68000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">498.90000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">1.300000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.710000</eccentricity>
+			<periastron errorminus="7.0000" errorplus="7.0000">285.0000</periastron>
+			<periastrontime errorminus="5.000000" errorplus="5.000000">2453057.000000</periastrontime>
+			<maximumrvtime errorminus="5.000000" errorplus="5.000000">2453057.000000</maximumrvtime>
 			<temperature>293.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

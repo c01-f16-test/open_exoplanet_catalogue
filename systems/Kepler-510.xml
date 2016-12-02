@@ -2,22 +2,29 @@
 	<name>Kepler-510</name>
 	<rightascension>19 10 37</rightascension>
 	<declination>+39 14 39</declination>
+	<distance errorminus="13.80" errorplus="16.19">378.00</distance>
 	<star>
 		<name>Kepler-510</name>
 		<mass errorminus="0.05" errorplus="0.06">0.91</mass>
 		<radius errorminus="0.05" errorplus="0.06">1.41</radius>
-		<temperature errorminus="58.8" errorplus="66.6">5746.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.10">-0.35</metallicity>
+		<magV>11.947</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.836</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.486</magH>
+		<magK errorminus="0.020" errorplus="0.020">10.446</magK>
+		<temperature errorminus="58.76" errorplus="66.60">5746.00</temperature>
+		<age errorminus="2.100" errorplus="2.300">10.470</age>
+		<metallicity errorminus="0.079" errorplus="0.095">-0.350</metallicity>
 		<planet>
 			<name>Kepler-510 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.011" errorplus="0.021">0.220</radius>
-			<period errorminus="0.000036060" errorplus="0.000036060">19.556594180</period>
+			<period errorminus="0.00003606" errorplus="0.00003606">19.55659418</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001410" errorplus="0.001410" unit="JD">2455022.043990</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

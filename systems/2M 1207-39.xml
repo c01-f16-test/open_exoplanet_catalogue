@@ -1,0 +1,21 @@
+<system>
+	<name>2M 1207-39</name>
+	<declination>-39 32 53</declination>
+	<star>
+		<name>2M 1207-39</name>
+		<mass>0.025</mass>
+		<magV>20.15</magV>
+		<magB>15.95</magB>
+		<magJ>13.0</magJ>
+		<age errorminus="0.003" errorplus="0.003">0.008</age>
+		<spectraltype>M8</spectraltype>
+		<planet>
+			<name>2M 1207-39 b</name>
+			<mass errorminus="1.0" errorplus="1.0">4.0</mass>
+			<semimajoraxis errorminus="5.0" errorplus="5.0">46.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+</system>

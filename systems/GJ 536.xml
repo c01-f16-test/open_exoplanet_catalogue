@@ -1,0 +1,30 @@
+<system>
+	<name>GJ 536</name>
+	<rightascension>14 01 03</rightascension>
+	<declination>-02 39 17</declination>
+	<distance>10.03</distance>
+	<star>
+		<name>GJ 536</name>
+		<mass errorminus="0.05" errorplus="0.05">0.52</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.50</radius>
+		<magV errorminus="0.009" errorplus="0.009">9.720</magV>
+		<magB errorminus="0.009" errorplus="0.009">11.190</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.516</magJ>
+		<magH errorminus="0.036" errorplus="0.036">5.935</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.683</magK>
+		<temperature errorminus="68.00" errorplus="68.00">3685.00</temperature>
+		<metallicity errorminus="0.090" errorplus="0.090">-0.080</metallicity>
+		<spectraltype>M1 V</spectraltype>
+		<planet>
+			<name>GJ 536 b</name>
+			<mass errorminus="0.00195" errorplus="0.00217" type="Msini">0.01686</mass>
+			<period errorminus="0.00250000" errorplus="0.00220000">8.70760000</period>
+			<semimajoraxis errorminus="0.000013" errorplus="0.000011">0.066610</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.090000">0.080000</eccentricity>
+			<periastron errorminus="50.6000" errorplus="42.5000">288.7000</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

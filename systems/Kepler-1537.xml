@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1537</name>
 	<rightascension>19 37 32</rightascension>
-	<declination>+43 49 32</declination>
+	<declination>+43 49 31</declination>
+	<distance errorminus="30.12" errorplus="30.79">503.00</distance>
 	<star>
 		<name>Kepler-1537</name>
 		<mass errorminus="0.05" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.77</radius>
-		<temperature errorminus="78.8" errorplus="106.9">5079.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.16">-0.08</metallicity>
+		<magV>14.536</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.126</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.622</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.519</magK>
+		<temperature errorminus="78.80" errorplus="106.90">5079.00</temperature>
+		<age errorminus="2.950" errorplus="5.880">5.010</age>
+		<metallicity errorminus="0.160" errorplus="0.159">-0.080</metallicity>
 		<planet>
 			<name>Kepler-1537 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.008" errorplus="0.005">0.105</radius>
-			<period errorminus="0.000002330" errorplus="0.000002330">1.444453800</period>
+			<period errorminus="0.00000233" errorplus="0.00000233">1.44445380</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001290" errorplus="0.001290" unit="JD">2454965.806470</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

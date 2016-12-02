@@ -1,0 +1,26 @@
+<system>
+	<name>WASP-86</name>
+	<declination>+36 34 12</declination>
+	<star>
+		<name>WASP-86</name>
+		<mass errorminus="0.028" errorplus="0.028">1.239</mass>
+		<radius errorminus="0.013" errorplus="0.014">1.291</radius>
+		<magV>10.66</magV>
+		<temperature errorminus="110.0" errorplus="110.0">6330.0</temperature>
+		<age errorminus="0.8" errorplus="0.4">0.8</age>
+		<metallicity errorminus="0.14" errorplus="0.14">0.23</metallicity>
+		<spectraltype>F7</spectraltype>
+		<planet>
+			<name>WASP-86 b</name>
+			<mass errorminus="0.056" errorplus="0.056" type="Radial Velocity">0.821</mass>
+			<radius errorminus="0.013" errorplus="0.014">0.632</radius>
+			<period errorminus="2e-06" errorplus="2e-06">5.031555</period>
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0617</semimajoraxis>
+			<inclination errorminus="0.2" errorplus="0.11">89.85</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0006" errorplus="0.0004">2457103.7527</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

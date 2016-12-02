@@ -1,21 +1,23 @@
 <system>
 	<name>WASP-120</name>
-	<rightascension>04 10 27.85</rightascension>
-	<declination>-45 53 53.5</declination>
+	<rightascension>04 10 27</rightascension>
+	<declination>-45 53 53</declination>
+	<distance errorminus="21.00" errorplus="21.00">437.00</distance>
 	<star>
 		<name>WASP-120</name>
 		<name>TYC 8068-01208-1</name>
 		<name>USNO-B 0441-0033568</name>
 		<name>PPM 308371</name>
-		<mass errorminus="0.11" errorplus="0.11">1.45</mass>
-		<radius errorminus="0.09" errorplus="0.09">1.93</radius>
-		<magV errorminus="0.06" errorplus="0.06">10.96</magV>
+		<mass errorminus="0.06" errorplus="0.06">1.39</mass>
+		<radius errorminus="0.11" errorplus="0.11">1.87</radius>
+		<magV errorminus="0.06" errorplus="0.06">11.000</magV>
 		<magB errorminus="0.06" errorplus="0.06">11.48</magB>
-		<magJ errorminus="0.024" errorplus="0.024">10.148</magJ>
-		<magH errorminus="0.034" errorplus="0.034">9.952</magH>
-		<magK errorminus="0.023" errorplus="0.023">9.877</magK>
-		<temperature errorminus="120" errorplus="120">6450</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">-0.05</metallicity>
+		<magJ errorminus="0.021" errorplus="0.021">10.148</magJ>
+		<magH errorminus="0.032" errorplus="0.032">9.982</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.877</magK>
+		<temperature errorminus="120.00" errorplus="120.00">6450.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.600</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.050</metallicity>
 		<spectraltype>F5</spectraltype>
 		<planet>
 			<name>WASP-120 b</name>
@@ -23,19 +25,20 @@
 			<name>USNO-B 0441-0033568 b</name>
 			<name>PPM 308371 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.26" errorplus="0.26">5.01</mass>
-			<radius errorminus="0.083" errorplus="0.083">1.515</radius>
-			<period errorminus="0.0000038" errorplus="0.0000038">3.6112706</period>
-			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0522</semimajoraxis>
-			<eccentricity errorminus="0.018" errorplus="0.025">0.059</eccentricity>
-			<inclination errorminus="0.48" errorplus="0.48">82.29</inclination>
-			<temperature errorminus="50" errorplus="50">1890</temperature>
+			<mass errorminus="0.21000" errorplus="0.21000" type="Mass">4.85000</mass>
+			<radius errorminus="0.096" errorplus="0.096">1.473</radius>
+			<period errorminus="0.00000430" errorplus="0.00000430">3.61127060</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.051400</semimajoraxis>
+			<eccentricity errorminus="0.018000" errorplus="0.022000">0.057000</eccentricity>
+			<periastron errorminus="28.0000" errorplus="48.0000">-27.0000</periastron>
+			<inclination errorminus="0.780" errorplus="0.780">82.540</inclination>
+			<temperature errorminus="70" errorplus="70">1880</temperature>
 			<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00044" errorplus="0.00044" unit="HJD">2456779.4352</transittime>
+			<transittime errorminus=".000510" errorplus="0.000510" unit="BJD">2456779.435560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/09/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

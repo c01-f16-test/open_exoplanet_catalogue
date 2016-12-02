@@ -2,29 +2,33 @@
 	<name>HD 216437</name>
 	<rightascension>22 54 39</rightascension>
 	<declination>-70 04 25</declination>
-	<distance>26.5</distance>
+	<distance errorminus="0.41" errorplus="0.40">26.52</distance>
 	<star>
 		<name>HD 216437</name>
-		<mass>1.06</mass>
+		<mass errorminus="0.10" errorplus="0.10">1.15</mass>
 		<radius>1.1</radius>
-		<magV>6.06</magV>
-		<magB>6.697</magB>
-		<magJ>5.01</magJ>
-		<magH>4.68</magH>
-		<magK>4.61</magK>
+		<magV>6.050</magV>
+		<magB>6.710</magB>
+		<magJ errorminus="0.037" errorplus="0.037">5.044</magJ>
+		<magH errorminus="0.076" errorplus="0.076">4.923</magH>
+		<magK errorminus="0.031" errorplus="0.031">4.518</magK>
 		<temperature>5636.0</temperature>
-		<metallicity>0.25</metallicity>
-		<spectraltype>G4 IV-V</spectraltype>
+		<age>12.96</age>
+		<metallicity>0.210</metallicity>
+		<spectraltype>G2/3 IV</spectraltype>
 		<planet>
 			<name>HD 216437 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.82</mass>
-			<period>1256</period>
-			<semimajoraxis>2.32</semimajoraxis>
-			<eccentricity>0.29</eccentricity>
+			<mass type="Msini">1.82000</mass>
+			<period errorminus="35.00000000" errorplus="35.00000000">1256.00000000</period>
+			<semimajoraxis>2.320000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.290000</eccentricity>
+			<periastron errorminus="22.0000" errorplus="22.0000">63.0000</periastron>
+			<periastrontime errorminus="130.000000" errorplus="130.000000">2450693.000000</periastrontime>
+			<maximumrvtime errorminus="130.000000" errorplus="130.000000">2450693.000000</maximumrvtime>
 			<temperature>170.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

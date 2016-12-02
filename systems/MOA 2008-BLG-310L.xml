@@ -1,0 +1,37 @@
+<system>
+	<name>MOA 2008-BLG-310L</name>
+	<name>MOA-2008-BLG-310-L</name>
+	<rightascension>17 54 14</rightascension>
+	<declination>-34 46 41</declination>
+	<distance>6000.00</distance>
+	<star>
+		<name>MOA-2008-BLG-310-L</name>
+		<mass errorminus="0.14" errorplus="0.14">0.67</mass>
+		<magH>23.38</magH>
+		<temperature>5700.0</temperature>
+		<spectraltype>GV</spectraltype>
+		<planet>
+			<name>MOA-2008-BLG-310-L b</name>
+			<name>MOA 2008-BLG-310L b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.05" errorplus="0.05">0.23</mass>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.25</semimajoraxis>
+			<temperature>152.7</temperature>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>MOA 2008-BLG-310L</name>
+		<mass errorminus="0.14" errorplus="0.14">0.67</mass>
+		<planet>
+			<name>MOA 2008-BLG-310L b</name>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Mass">0.23000</mass>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.250000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
+		</planet>
+	</star>
+</system>

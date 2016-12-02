@@ -2,22 +2,29 @@
 	<name>Kepler-543</name>
 	<rightascension>19 08 52</rightascension>
 	<declination>+38 51 45</declination>
+	<distance errorminus="9.23" errorplus="11.16">212.00</distance>
 	<star>
 		<name>Kepler-543</name>
 		<mass errorminus="0.04" errorplus="0.05">0.70</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.67</radius>
-		<temperature errorminus="76.7" errorplus="85.6">4671.0</temperature>
-		<metallicity errorminus="0.11" errorplus="0.15">-0.19</metallicity>
+		<magV>13.577</magV>
+		<magJ errorminus="0.020" errorplus="0.020">11.731</magJ>
+		<magH errorminus="0.022" errorplus="0.022">11.213</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.089</magK>
+		<temperature errorminus="76.72" errorplus="85.64">4671.00</temperature>
+		<age errorminus="4.270" errorplus="6.300">5.750</age>
+		<metallicity errorminus="0.109" errorplus="0.148">-0.190</metallicity>
 		<planet>
 			<name>Kepler-543 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.011">0.223</radius>
-			<period errorminus="0.000011020" errorplus="0.000011020">13.899619660</period>
+			<period errorminus="0.00001102" errorplus="0.00001102">13.89961966</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000626" errorplus="0.000626" unit="JD">2455015.865271</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

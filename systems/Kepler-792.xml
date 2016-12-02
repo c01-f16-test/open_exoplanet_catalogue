@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-792</name>
-	<rightascension>19 28 02</rightascension>
-	<declination>+38 49 15</declination>
+	<rightascension>19 28 01</rightascension>
+	<declination>+38 49 14</declination>
+	<distance errorminus="144.83" errorplus="298.31">1205.00</distance>
 	<star>
 		<name>Kepler-792</name>
 		<mass errorminus="0.07" errorplus="0.09">1.09</mass>
 		<radius errorminus="0.13" errorplus="0.28">1.12</radius>
-		<temperature errorminus="176.0" errorplus="136.2">5971.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.08</metallicity>
+		<magV>14.981</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.787</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.453</magH>
+		<magK errorminus="0.045" errorplus="0.045">13.478</magK>
+		<temperature errorminus="175.96" errorplus="136.24">5971.00</temperature>
+		<age errorminus="1.710" errorplus="2.040">3.390</age>
+		<metallicity errorminus="0.146" errorplus="0.144">0.080</metallicity>
 		<planet>
 			<name>Kepler-792 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.044">0.175</radius>
-			<period errorminus="0.000064910" errorplus="0.000064910">11.301192170</period>
+			<period errorminus="0.00006491" errorplus="0.00006491">11.30119217</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004480" errorplus="0.004480" unit="JD">2454967.920260</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

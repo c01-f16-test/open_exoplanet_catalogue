@@ -1,0 +1,21 @@
+<system>
+	<name>2M 0441+23</name>
+	<declination>+23 01 50</declination>
+	<star>
+		<name>2M 0441+23</name>
+		<mass>0.02</mass>
+		<magJ>14.2</magJ>
+		<magH>13.72</magH>
+		<magK>13.16</magK>
+		<age>0.001</age>
+		<spectraltype>M8.5</spectraltype>
+		<planet>
+			<name>2M 0441+23 b</name>
+			<mass errorminus="2.5" errorplus="2.5">7.5</mass>
+			<semimajoraxis errorminus="0.6" errorplus="0.6">15.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

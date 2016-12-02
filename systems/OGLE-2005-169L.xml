@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE-2005-169L</name>
+	<declination>-30 43 57</declination>
+	<star>
+		<name>OGLE-2005-169L</name>
+		<mass errorminus="0.02" errorplus="0.02">0.69</mass>
+		<magB>20.4</magB>
+		<spectraltype>K5</spectraltype>
+		<planet>
+			<name>OGLE-2005-169L b</name>
+			<mass errorminus="0.003" errorplus="0.003" type="Microlensing">0.0444</mass>
+			<semimajoraxis errorminus="0.6" errorplus="2.2">4.0</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+</system>

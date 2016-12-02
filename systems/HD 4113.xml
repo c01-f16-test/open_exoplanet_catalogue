@@ -1,29 +1,33 @@
 <system>
 	<name>HD 4113</name>
-	<rightascension>00 43 13</rightascension>
+	<rightascension>00 43 12</rightascension>
 	<declination>-37 58 57</declination>
-	<distance>44</distance>
+	<distance errorminus="2.01" errorplus="1.84">44.05</distance>
 	<star>
 		<name>HD 4113</name>
 		<mass>0.99</mass>
-		<magV>7.88</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.61</magB>
+		<magV errorminus="0.012" errorplus="0.012">7.881</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.607</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.672</magJ>
 		<magH errorminus="0.021" errorplus="0.021">6.345</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.289</magK>
-		<temperature>5688.0</temperature>
-		<metallicity>0.2</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<temperature errorminus="26.00" errorplus="26.00">5688.00</temperature>
+		<age errorminus="1.600" errorplus="1.600">6.400</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.200</metallicity>
+		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 4113 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.56</mass>
-			<period>526.62</period>
-			<semimajoraxis>1.28</semimajoraxis>
-			<eccentricity>0.903</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.04000" type="Msini">1.56000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">526.62000000</period>
+			<semimajoraxis>1.280000</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.005000">0.903000</eccentricity>
+			<periastron errorminus="1.9000" errorplus="1.9000">-42.3000</periastron>
+			<periastrontime errorminus="0.200000" errorplus="0.200000">2453778.000000</periastrontime>
+			<maximumrvtime errorminus="0.200000" errorplus="0.200000">2453778.000000</maximumrvtime>
 			<temperature>218.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

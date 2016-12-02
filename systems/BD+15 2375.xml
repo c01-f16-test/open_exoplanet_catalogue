@@ -1,0 +1,31 @@
+<system>
+	<name>BD+15 2375</name>
+	<rightascension>11 45 55</rightascension>
+	<declination>+14 36 59</declination>
+	<distance errorminus="165.00" errorplus="165.00">774.00</distance>
+	<star>
+		<name>BD+15 2375</name>
+		<mass errorminus="0.14" errorplus="0.14">1.08</mass>
+		<radius errorminus="1.45" errorplus="1.45">8.95</radius>
+		<magV errorminus="0.023" errorplus="0.023">10.310</magV>
+		<magJ errorminus="0.013" errorplus="0.013">8.372</magJ>
+		<magH errorminus="0.025" errorplus="0.025">7.862</magH>
+		<magK errorminus="0.009" errorplus="0.009">7.718</magK>
+		<temperature errorminus="30.00" errorplus="30.00">4649.00</temperature>
+		<age errorminus="2.520" errorplus="3.810">7.410</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.220</metallicity>
+		<planet>
+			<name>BD+15 2375 b</name>
+			<mass errorminus="0.27000" errorplus="0.27000" type="Msini">1.06100</mass>
+			<period errorminus="0.44000000" errorplus="0.44000000">153.22000000</period>
+			<semimajoraxis errorminus="0.027000" errorplus="0.027000">0.576000</semimajoraxis>
+			<eccentricity errorminus="0.001000" errorplus="0.250000">0.001000</eccentricity>
+			<periastron errorminus="17.0000" errorplus="240.0000">55.0000</periastron>
+			<periastrontime errorminus="630.000000" errorplus="700.000000">2457680.500000</periastrontime>
+			<maximumrvtime errorminus="630.000000" errorplus="700.000000">2457680.500000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

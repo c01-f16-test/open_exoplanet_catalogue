@@ -1,18 +1,19 @@
 <system>
 	<name>CoRoT-4</name>
-	<rightascension>06 48 47</rightascension>
+	<rightascension>06 48 46</rightascension>
 	<declination>-00 40 22</declination>
 	<star>
 		<name>CoRoT-4</name>
-		<mass>1.1</mass>
-		<radius>1.15</radius>
+		<mass errorminus="0.02" errorplus="0.03">1.16</mass>
+		<radius errorminus="0.03" errorplus="0.01">1.17</radius>
 		<magV>13.7</magV>
 		<magR>13.42</magR>
 		<magJ errorminus="0.026" errorplus="0.026">12.619</magJ>
 		<magH errorminus="0.029" errorplus="0.029">12.359</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.29</magK>
-		<temperature>6190.0</temperature>
-		<metallicity>0.05</metallicity>
+		<magK errorminus="0.030" errorplus="0.030">12.288</magK>
+		<temperature errorminus="60.00" errorplus="60.00">6190.00</temperature>
+		<age errorminus="0.300" errorplus="1.000">1.000</age>
+		<metallicity errorminus="0.07" errorplus="0.07">0.05</metallicity>
 		<spectraltype>F8V</spectraltype>
 		<planet>
 			<name>CoRoT-4 b</name>
@@ -20,17 +21,17 @@
 			<name>2MASS J06484671-0040219 b</name>
 			<name>CoRoTID 102912369 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.72</mass>
-			<radius>1.19</radius>
-			<period>9.20205</period>
-			<semimajoraxis>0.09</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>90</inclination>
-			<temperature>975.6</temperature>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Mass">0.72000</mass>
+			<radius errorminus="0.050" errorplus="0.060">1.190</radius>
+			<period errorminus="0.00037000" errorplus="0.00037000">9.20205000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.090000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.000000</eccentricity>
+			<inclination errorminus="0.085" errorplus="0.000">90.000</inclination>
+			<temperature errorminus="19" errorplus="19">1074</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00089" errorplus="0.00089" unit="BJD">2454141.36494</transittime>
+			<transittime errorminus=".000890" errorplus="0.000890" unit="BJD">2454141.364160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>08/11/27</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

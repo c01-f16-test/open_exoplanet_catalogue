@@ -1,37 +1,38 @@
 <system>
 	<name>HAT-P-5</name>
 	<rightascension>18 17 37</rightascension>
-	<declination>+36 37 18</declination>
-	<distance>340</distance>
+	<declination>+36 37 17</declination>
+	<distance errorminus="30.00" errorplus="30.00">340.00</distance>
 	<star>
 		<name>HAT-P-5</name>
-		<mass>1.163</mass>
-		<radius>1.137</radius>
-		<magV errorminus="0.16" errorplus="0.16">11.95</magV>
-		<magB errorminus="0.30" errorplus="0.30">12.92</magB>
+		<mass errorminus="0.06" errorplus="0.06">1.16</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.17</radius>
+		<magV errorminus="0.16" errorplus="0.16">12.000</magV>
+		<magB errorminus="0.30" errorplus="0.30">11.3</magB>
 		<magR>12.0</magR>
 		<magJ errorminus="0.021" errorplus="0.021">10.844</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.522</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.481</magK>
-		<temperature>5960.0</temperature>
-		<metallicity>0.24</metallicity>
+		<temperature errorminus="100.00" errorplus="100.00">5960.00</temperature>
+		<age errorminus="1.800" errorplus="1.800">2.600</age>
+		<metallicity errorminus="0.150" errorplus="0.150">0.240</metallicity>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>HAT-P-5 b</name>
 			<name>2MASS J18173731+3637170 b</name>
 			<name>TYC 2634-01087-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<radius>1.252</radius>
-			<period>2.788491</period>
-			<semimajoraxis>0.04079</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>86.75</inclination>
+			<mass errorminus="0.11000" errorplus="0.11000" type="Mass">1.06000</mass>
+			<radius errorminus="0.050" errorplus="0.050">1.260</radius>
+			<period errorminus="0.00002500" errorplus="0.00002500">2.78849100</period>
+			<semimajoraxis errorminus="0.000760" errorplus="0.000760">0.040750</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.440" errorplus="0.440">86.750</inclination>
 			<temperature>1387.4</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
+			<transittime errorminus=".000220" errorplus="0.000220" unit="HJD">2454241.776630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/05/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

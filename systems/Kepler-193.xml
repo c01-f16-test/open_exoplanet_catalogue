@@ -10,11 +10,13 @@
 		<name>KOI-590</name>
 		<name>KIC 9782691</name>
 		<mass errorminus="0.0860" errorplus="0.0860">1.1390</mass>
-		<radius errorminus=".515" errorplus="0.515">1.147</radius>
+		<radius errorminus="0.52" errorplus="0.52">1.15</radius>
+		<magV>14.615</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.539</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.242</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.22</magK>
-		<temperature errorminus="200" errorplus="200">6335</temperature>
+		<magK errorminus="0.030" errorplus="0.030">13.218</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6335.00</temperature>
+		<metallicity>-0.011</metallicity>
 		<planet>
 			<name>Kepler-193 b</name>
 			<name>KOI-590 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9782691 b</name>
 			<name>KIC 9782691.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.09842">0.21780</radius>
-			<period errorminus=".000054" errorplus="0.000054">11.388480</period>
+			<radius errorminus="0.096" errorplus="0.096">0.213</radius>
+			<period errorminus="0.00005400" errorplus="0.00005400">11.38848000</period>
+			<semimajoraxis>0.106000</semimajoraxis>
 			<description>Kepler-193 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-193 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025700" errorplus="0.0025700">2455007.5511700</transittime>
+			<transittime errorminus=".002570" errorplus="0.002570" unit="BJD">2455007.551170</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9782691 c</name>
 			<name>KIC 9782691.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02187" errorplus="0.11300">0.25061</radius>
-			<period errorminus=".000446" errorplus="0.000446">50.697494</period>
+			<radius errorminus="0.111" errorplus="0.111">0.245</radius>
+			<period errorminus="0.00044600" errorplus="0.00044600">50.69749400</period>
+			<semimajoraxis>0.286000</semimajoraxis>
 			<description>Kepler-193 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-193 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040000" errorplus="0.0040000">2454974.3228800</transittime>
+			<transittime errorminus=".004000" errorplus="0.004000" unit="BJD">2454974.322880</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

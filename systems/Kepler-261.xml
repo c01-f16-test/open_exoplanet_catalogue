@@ -9,12 +9,14 @@
 		<name>Kepler-261</name>
 		<name>KOI-988</name>
 		<name>KIC 2302548</name>
-		<mass errorminus="0.0300" errorplus="0.0300">0.8760</mass>
-		<radius errorminus=".050" errorplus="0.050">0.794</radius>
+		<mass errorminus="0.0300" errorplus="0.0300">0.87</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.79</radius>
+		<magV>13.562</magV>
 		<magJ errorminus="0.020" errorplus="0.020">12.127</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.672</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.585</magK>
-		<temperature errorminus="100" errorplus="100">5098</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5098.00</temperature>
+		<metallicity>0.140</metallicity>
 		<planet>
 			<name>Kepler-261 b</name>
 			<name>KOI-988 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 2302548 b</name>
 			<name>KIC 2302548.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.19866</radius>
-			<period errorminus=".000016" errorplus="0.000016">10.381227</period>
+			<radius errorminus="0.012" errorplus="0.012">0.194</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">10.38122700</period>
+			<semimajoraxis>0.088000</semimajoraxis>
 			<description>Kepler-261 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-261 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007500" errorplus="0.0007500">2455101.0236100</transittime>
+			<transittime errorminus=".000750" errorplus="0.000750" unit="BJD">2455101.023610</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 2302548 c</name>
 			<name>KIC 2302548.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.18226</radius>
-			<period errorminus=".000069" errorplus="0.000069">24.570858</period>
+			<radius errorminus="0.012" errorplus="0.012">0.178</radius>
+			<period errorminus="0.00006900" errorplus="0.00006900">24.57085800</period>
+			<semimajoraxis>0.156000</semimajoraxis>
 			<description>Kepler-261 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-261 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015900" errorplus="0.0015900">2454968.8740800</transittime>
+			<transittime errorminus=".001590" errorplus="0.001590" unit="BJD">2454968.874080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

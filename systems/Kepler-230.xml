@@ -10,11 +10,13 @@
 		<name>KOI-759</name>
 		<name>KIC 11018648</name>
 		<mass errorminus="0.0520" errorplus="0.0520">0.9180</mass>
-		<radius errorminus=".415" errorplus="0.415">0.817</radius>
+		<radius errorminus="0.41" errorplus="0.41">0.82</radius>
+		<magV>15.082</magV>
 		<magJ errorminus="0.026" errorplus="0.026">13.824</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.37</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.30</magK>
-		<temperature errorminus="200" errorplus="200">5588</temperature>
+		<magH errorminus="0.037" errorplus="0.037">13.370</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.299</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5588.00</temperature>
+		<metallicity>-0.291</metallicity>
 		<planet>
 			<name>Kepler-230 b</name>
 			<name>KOI-759 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11018648 b</name>
 			<name>KIC 11018648.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.19775">0.38822</radius>
-			<period errorminus=".000126" errorplus="0.000126">32.625555</period>
+			<radius errorminus="0.194" errorplus="0.194">0.380</radius>
+			<period errorminus="0.00012600" errorplus="0.00012600">32.62555500</period>
+			<semimajoraxis>0.191000</semimajoraxis>
 			<description>Kepler-230 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-230 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019800" errorplus="0.0019800">2455027.1374200</transittime>
+			<transittime errorminus=".001980" errorplus="0.001980" unit="BJD">2455027.137420</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11018648 c</name>
 			<name>KIC 11018648.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00365" errorplus="0.09478">0.18591</radius>
-			<period errorminus=".001618" errorplus="0.001618">91.773242</period>
+			<radius errorminus="0.093" errorplus="0.093">0.182</radius>
+			<period errorminus="0.00161800" errorplus="0.00161800">91.77324200</period>
+			<semimajoraxis>0.380000</semimajoraxis>
 			<description>Kepler-230 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-230 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0094100" errorplus="0.0094100">2455026.8307300</transittime>
+			<transittime errorminus=".009410" errorplus="0.009410" unit="BJD">2455026.830730</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

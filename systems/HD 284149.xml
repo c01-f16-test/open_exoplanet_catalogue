@@ -1,0 +1,20 @@
+<system>
+	<name>HD 284149</name>
+	<declination>+20 18 11</declination>
+	<star>
+		<name>HD 284149</name>
+		<mass errorminus="0.05" errorplus="0.05">1.14</mass>
+		<magV>9.63</magV>
+		<temperature errorminus="60.0" errorplus="60.0">6040.0</temperature>
+		<age errorminus="0.01" errorplus="0.025">0.025</age>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>HD 284149 b</name>
+			<mass errorminus="18.0" errorplus="14.0">32.0</mass>
+			<semimajoraxis>400.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

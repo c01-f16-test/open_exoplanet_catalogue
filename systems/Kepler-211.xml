@@ -9,12 +9,14 @@
 		<name>Kepler-211</name>
 		<name>KOI-678</name>
 		<name>KIC 7509886</name>
-		<mass errorminus="0.0570" errorplus="0.0570">0.9140</mass>
-		<radius errorminus=".054" errorplus="0.054">0.816</radius>
+		<mass errorminus="0.0570" errorplus="0.0570">0.97</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.82</radius>
+		<magV>13.283</magV>
 		<magJ errorminus="0.022" errorplus="0.022">11.927</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.488</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.447</magK>
-		<temperature errorminus="100" errorplus="100">5123</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5123.00</temperature>
+		<metallicity>0.106</metallicity>
 		<planet>
 			<name>Kepler-211 c</name>
 			<name>KOI-678 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7509886 c</name>
 			<name>KIC 7509886.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.11756</radius>
-			<period errorminus=".000016" errorplus="0.000016">6.040450</period>
+			<radius errorminus="0.008" errorplus="0.008">0.115</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">6.04045000</period>
+			<semimajoraxis>0.062000</semimajoraxis>
 			<description>Kepler-211 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-211 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012800" errorplus="0.0012800">2455005.5943500</transittime>
+			<transittime errorminus=".001280" errorplus="0.001280" unit="BJD">2455005.594350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7509886 b</name>
 			<name>KIC 7509886.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.11482</radius>
-			<period errorminus=".000010" errorplus="0.000010">4.138575</period>
+			<radius errorminus="0.008" errorplus="0.008">0.112</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">4.13857500</period>
+			<semimajoraxis>0.048000</semimajoraxis>
 			<description>Kepler-211 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-211 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013800" errorplus="0.0013800">2454965.0163200</transittime>
+			<transittime errorminus=".001380" errorplus="0.001380" unit="BJD">2454965.016320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

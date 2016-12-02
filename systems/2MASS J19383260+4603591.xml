@@ -1,0 +1,22 @@
+<system>
+	<name>2MASS J19383260+4603591</name>
+	<rightascension>19 38 32</rightascension>
+	<declination>+46 03 59</declination>
+	<star>
+		<name>2MASS J19383260+4603591</name>
+		<mass errorminus="0.03" errorplus="0.03">0.48</mass>
+		<magV>12.264</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.757</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.889</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.955</magK>
+		<planet>
+			<name>2MASS J19383260+4603591 b</name>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Mass">1.90000</mass>
+			<period errorminus="2.00000000" errorplus="2.00000000">416.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.920000</semimajoraxis>
+			<discoverymethod>Eclipse Timing Variations</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

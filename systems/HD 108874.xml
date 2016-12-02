@@ -2,43 +2,50 @@
 	<name>HD 108874</name>
 	<rightascension>12 30 26</rightascension>
 	<declination>+22 52 47</declination>
-	<distance>68.5</distance>
+	<distance errorminus="5.80" errorplus="5.80">68.50</distance>
 	<star>
 		<name>HD 108874</name>
-		<mass>1</mass>
+		<mass errorminus="0.04" errorplus="0.04">0.95</mass>
 		<radius>1.22</radius>
 		<magV>8.76</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.49</magB>
 		<magR>8.3</magR>
 		<magI>7.9</magI>
-		<magJ>7.48</magJ>
-		<magH>7.11</magH>
-		<magK>7.06</magK>
-		<temperature>5407.0</temperature>
-		<metallicity>0.14</metallicity>
+		<magJ errorminus="0.020" errorplus="0.020">7.479</magJ>
+		<magH errorminus="0.029" errorplus="0.029">7.110</magH>
+		<magK errorminus="0.024" errorplus="0.024">7.060</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5551.00</temperature>
+		<age>7.26</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.190</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 108874 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.36</mass>
-			<period>395.4</period>
-			<semimajoraxis>1.051</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">1.29000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">395.80000000</period>
+			<semimajoraxis errorminus="0.014000" errorplus="0.014000">1.038000</semimajoraxis>
+			<eccentricity errorminus="0.021000" errorplus="0.021000">0.082000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">232.0000</periastron>
+			<periastrontime errorminus="17.000000" errorplus="17.000000">2454069.000000</periastrontime>
+			<maximumrvtime errorminus="17.000000" errorplus="17.000000">2454069.000000</maximumrvtime>
 			<temperature>256.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
-			<discoveryyear>2003</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 108874 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.018</mass>
-			<period>1605.8</period>
-			<semimajoraxis>2.68</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">0.99000</mass>
+			<period errorminus="23.00000000" errorplus="23.00000000">1624.00000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.060000">2.659000</semimajoraxis>
+			<eccentricity errorminus="0.031000" errorplus="0.031000">0.239000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">27.0000</periastron>
+			<periastrontime errorminus="44.000000" errorplus="44.000000">2452839.000000</periastrontime>
+			<maximumrvtime errorminus="44.000000" errorplus="44.000000">2452839.000000</maximumrvtime>
 			<temperature>160.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

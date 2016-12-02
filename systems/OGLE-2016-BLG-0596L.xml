@@ -1,0 +1,14 @@
+<system>
+	<name>OGLE-2016-BLG-0596L</name>
+	<declination>-30 50 59</declination>
+	<star>
+		<name>OGLE-2016-BLG-0596L</name>
+		<planet>
+			<name>OGLE-2016-BLG-596L b</name>
+			<mass>12.2</mass>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

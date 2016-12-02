@@ -1,0 +1,60 @@
+<system>
+	<name>EPIC 211391664</name>
+	<name>EPIC 2011391664</name>
+	<rightascension>08 25 57</rightascension>
+	<declination>+11 30 40</declination>
+	<distance errorminus="15.00" errorplus="30.00">435.00</distance>
+	<star>
+		<name>EPIC 2011391664</name>
+		<name>2MASS 08255719+1130402</name>
+		<mass errorminus="0.042" errorplus="0.042">1.074</mass>
+		<radius errorminus="0.048" errorplus="0.083">1.311</radius>
+		<magV>12.166</magV>
+		<temperature errorminus="80.0" errorplus="80.0">6120.0</temperature>
+		<age errorminus="1.2" errorplus="1.0">5.2</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.2</metallicity>
+		<spectraltype>F8V</spectraltype>
+		<planet>
+			<name>EPIC 211391664 b</name>
+			<name>UCAC 508-047859 b</name>
+			<name>2MASS 08255719+1130402 b</name>
+			<mass errorminus="0.025" errorplus="0.025" type="Radial Velocity">0.101</mass>
+			<radius errorminus="0.018" errorplus="0.027">0.38</radius>
+			<period errorminus="0.00033" errorplus="0.00033">10.13675</period>
+			<semimajoraxis errorminus="0.0052" errorplus="0.0061">0.0943</semimajoraxis>
+			<inclination errorminus="0.7" errorplus="0.5">89.0</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0012" errorplus="0.0012">2457145.9807</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>EPIC 211391664</name>
+		<mass errorminus="0.04" errorplus="0.04">1.07</mass>
+		<radius errorminus="0.05" errorplus="0.08">1.31</radius>
+		<magV errorminus="0.030" errorplus="0.030">12.166</magV>
+		<magB errorminus="0.030" errorplus="0.030">12.646</magB>
+		<magJ errorminus="0.021" errorplus="0.021">11.124</magJ>
+		<magH errorminus="0.025" errorplus="0.025">10.905</magH>
+		<magK errorminus="0.028" errorplus="0.028">10.869</magK>
+		<temperature errorminus="80.00" errorplus="80.00">6120.00</temperature>
+		<age errorminus="1.000" errorplus="1.200">5.200</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.200</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>EPIC 211391664 b</name>
+			<mass errorminus="0.02549" errorplus="0.02549" type="Mass">0.10131</mass>
+			<radius errorminus="0.018" errorplus="0.027">0.384</radius>
+			<period errorminus="0.00033000" errorplus="0.00033000">10.13675000</period>
+			<semimajoraxis errorminus="0.005200" errorplus="0.006100">0.094300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.700" errorplus="0.500">89.000</inclination>
+			<temperature errorminus="20" errorplus="26">1102</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001200" errorplus="0.001200" unit="BJD-TDB">2457145.980700</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

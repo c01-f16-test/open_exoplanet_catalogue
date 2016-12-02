@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1391</name>
 	<rightascension>19 39 19</rightascension>
-	<declination>+46 39 35</declination>
+	<declination>+46 39 34</declination>
+	<distance errorminus="71.60" errorplus="110.01">721.00</distance>
 	<star>
 		<name>Kepler-1391</name>
 		<mass errorminus="0.04" errorplus="0.05">1.03</mass>
 		<radius errorminus="0.11" errorplus="0.17">1.10</radius>
-		<temperature errorminus="77.5" errorplus="90.4">5840.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.10">0.04</metallicity>
+		<magV>13.852</magV>
+		<magJ errorminus="0.021" errorplus="0.021">12.726</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.434</magH>
+		<magK errorminus="0.018" errorplus="0.018">12.366</magK>
+		<temperature errorminus="77.55" errorplus="90.40">5840.00</temperature>
+		<age errorminus="2.940" errorplus="2.100">5.500</age>
+		<metallicity errorminus="0.092" errorplus="0.095">0.040</metallicity>
 		<planet>
 			<name>Kepler-1391 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.016" errorplus="0.023">0.150</radius>
-			<period errorminus="0.000523600" errorplus="0.000523600">54.409233300</period>
+			<period errorminus="0.00052360" errorplus="0.00052360">54.40923330</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006210" errorplus="0.006210" unit="JD">2455008.402090</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

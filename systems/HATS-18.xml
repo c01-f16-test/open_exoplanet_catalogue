@@ -1,0 +1,34 @@
+<system>
+	<name>HATS-18</name>
+	<rightascension>11 35 49</rightascension>
+	<declination>-29 09 21</declination>
+	<distance errorminus="25.00" errorplus="36.00">645.00</distance>
+	<star>
+		<name>HATS-18</name>
+		<mass errorminus="0.05" errorplus="0.05">1.04</mass>
+		<radius errorminus="0.03" errorplus="0.06">1.02</radius>
+		<magV errorminus="0.040" errorplus="0.040">14.067</magV>
+		<magB errorminus="0.060" errorplus="0.060">14.870</magB>
+		<magJ errorminus="0.023" errorplus="0.023">12.736</magJ>
+		<magH errorminus="0.027" errorplus="0.027">12.382</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.289</magK>
+		<temperature errorminus="120.00" errorplus="120.00">5600.00</temperature>
+		<age errorminus="2.200" errorplus="2.200">4.200</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.280</metallicity>
+		<spectraltype>G V</spectraltype>
+		<planet>
+			<name>HATS-18 b</name>
+			<mass errorminus="0.07700" errorplus="0.07700" type="Mass">1.98000</mass>
+			<radius errorminus="0.049" errorplus="0.102">1.337</radius>
+			<period errorminus="0.00000047" errorplus="0.00000047">0.83784340</period>
+			<semimajoraxis errorminus="0.000270" errorplus="0.000270">0.017610</semimajoraxis>
+			<eccentricity errorminus="0.166" errorplus="0.0">0.166000</eccentricity>
+			<inclination errorminus="2.800" errorplus="1.900">85.500</inclination>
+			<temperature errorminus="59" errorplus="59">2060</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000260" errorplus="0.000260" unit="BJD">2457089.905980</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

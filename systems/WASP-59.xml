@@ -1,35 +1,38 @@
 <system>
 	<name>WASP-59</name>
-	<rightascension>23 18 29.54</rightascension>
-	<declination>+24 53 21.4</declination>
-	<distance errorminus="25" errorplus="25">125</distance>
+	<rightascension>23 18 29</rightascension>
+	<declination>+24 53 21</declination>
+	<distance errorminus="25.00" errorplus="25.00">125.00</distance>
 	<star>
 		<name>WASP-59</name>
-		<mass errorminus="0.035" errorplus="0.035">0.719</mass>
-		<radius errorminus="0.044" errorplus="0.044">0.613</radius>
-		<magV>13.00</magV>
-		<magB>13.92</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.72</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.61</radius>
+		<magV>13.000</magV>
+		<magB>13.920</magB>
 		<magJ errorminus="0.016" errorplus="0.016">10.440</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.878</magH>
 		<magK errorminus="0.016" errorplus="0.016">9.723</magK>
-		<temperature errorminus="150" errorplus="150">4650</temperature>
-		<metallicity errorminus="0.11" errorplus="0.11">-0.15</metallicity>
-		<spectraltype>K5V</spectraltype>
+		<temperature errorminus="150.00" errorplus="150.00">4650.00</temperature>
+		<age errorminus="0.400" errorplus="0.700">0.500</age>
+		<metallicity errorminus="0.110" errorplus="0.110">-0.150</metallicity>
+		<spectraltype>K5 V</spectraltype>
 		<planet>
 			<name>WASP-59 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.045" errorplus="0.045">0.863</mass>
+			<mass errorminus="0.04500" errorplus="0.04500" type="Mass">0.86300</mass>
 			<radius errorminus="0.068" errorplus="0.068">0.775</radius>
-			<period errorminus="0.0000010" errorplus="0.0000010">7.919585</period>
-			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0697</semimajoraxis>
-			<eccentricity errorminus="0.042" errorplus="0.042">0.100</eccentricity>
-			<inclination errorminus="0.52" errorplus="0.52">89.27</inclination>
+			<period errorminus="0.00001000" errorplus="0.00001000">7.91958500</period>
+			<semimajoraxis errorminus="0.001100" errorplus="0.001100">0.069700</semimajoraxis>
+			<eccentricity errorminus="0.042000" errorplus="0.042000">0.100000</eccentricity>
+			<periastron errorminus="15.0000" errorplus="15.0000">74.0000</periastron>
+			<inclination errorminus="0.520" errorplus="0.520">89.270</inclination>
+			<temperature errorminus="35" errorplus="35">670</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455830.95559</transittime>
+			<transittime errorminus=".000530" errorplus="0.000530" unit="HJD">2455830.955590</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

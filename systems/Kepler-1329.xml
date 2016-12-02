@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1329</name>
 	<rightascension>18 46 35</rightascension>
-	<declination>+48 16 16</declination>
+	<declination>+48 16 15</declination>
+	<distance errorminus="24.24" errorplus="20.04">624.00</distance>
 	<star>
 		<name>Kepler-1329</name>
 		<mass errorminus="0.02" errorplus="0.02">0.72</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.69</radius>
-		<temperature errorminus="38.8" errorplus="38.7">4500.0</temperature>
-		<metallicity errorminus="0.11" errorplus="0.12">0.02</metallicity>
+		<magV>15.911</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.168</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.499</magH>
+		<magK errorminus="0.044" errorplus="0.044">13.435</magK>
+		<temperature errorminus="38.83" errorplus="38.73">4500.00</temperature>
+		<age errorminus="3.160" errorplus="5.370">5.620</age>
+		<metallicity errorminus="0.107" errorplus="0.123">0.020</metallicity>
 		<planet>
 			<name>Kepler-1329 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.005">0.194</radius>
-			<period errorminus="0.000031060" errorplus="0.000031060">9.336465940</period>
+			<period errorminus="0.00003106" errorplus="0.00003106">9.33646594</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002800" errorplus="0.002800" unit="JD">2454973.680790</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,7 +2,7 @@
 	<name>HD 114762</name>
 	<rightascension>13 12 19</rightascension>
 	<declination>+17 31 01</declination>
-	<distance>39.46</distance>
+	<distance errorminus="2.52" errorplus="2.24">40.57</distance>
 	<binary>
 		<separation unit="arcsec">3.26</separation>
 		<separation unit="AU">129</separation>
@@ -10,31 +10,37 @@
 		<star>
 			<name>HD 114762 A</name>
 			<name>HD 114762</name>
-			<mass>0.84</mass>
-			<radius>1.24</radius>
-			<magV>7.3</magV>
-			<magB>7.85</magB>
+			<mass errorminus="0.01" errorplus="0.01">0.83</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.24</radius>
+			<magV errorminus="0.013" errorplus="0.013">7.301</magV>
+			<magB errorminus="0.018" errorplus="0.018">7.818</magB>
 			<magR>7.0</magR>
 			<magI>6.8</magI>
-			<magJ>6.14</magJ>
-			<magH>5.89</magH>
-			<magK>5.81</magK>
-			<temperature>5934.0</temperature>
-			<metallicity>-0.71</metallicity>
-			<spectraltype>F9V</spectraltype>
+			<magJ errorminus="0.025" errorplus="0.025">6.145</magJ>
+			<magH errorminus="0.017" errorplus="0.017">5.888</magH>
+			<magK errorminus="0.024" errorplus="0.024">5.813</magK>
+			<temperature errorminus="44.00" errorplus="44.00">5673.00</temperature>
+			<age errorminus="3.9" errorplus="3.9">11.8</age>
+			<metallicity errorminus="0.030" errorplus="0.030">-0.774</metallicity>
+			<spectraltype>F8</spectraltype>
 			<planet>
 				<name>HD 114762 b</name>
 				<name>HD 114762 A b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass>10.98</mass>
-				<period>83.9151</period>
-				<semimajoraxis>0.353</semimajoraxis>
-				<eccentricity>0.3354</eccentricity>
+				<mass errorminus="0.09000" errorplus="0.09000" type="Msini">10.98000</mass>
+				<radius>1.110</radius>
+				<period errorminus="0.00300000" errorplus="0.00300000">83.91510000</period>
+				<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.353000</semimajoraxis>
+				<eccentricity errorminus="0.004800" errorplus="0.004800">0.335400</eccentricity>
+				<periastron errorminus="1.0100" errorplus="1.0100">201.2800</periastron>
+				<periastrontime errorminus="0.186000" errorplus="0.186000">2449889.106000</periastrontime>
+				<maximumrvtime errorminus="0.186000" errorplus="0.186000">2449889.106000</maximumrvtime>
 				<temperature>486.8</temperature>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1992</discoveryyear>
+				<transittime errorminus=".242000" errorplus="0.242000">2455326.665000</transittime>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>1989</discoveryyear>
 			</planet>
 		</star>
 		<star>

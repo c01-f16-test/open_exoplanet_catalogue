@@ -1,55 +1,57 @@
 <system>
 	<name>CoRoT-24</name>
 	<rightascension>06 47 41</rightascension>
-	<declination>-03 43 10</declination>
-	<distance errorminus="70" errorplus="70">600</distance>
+	<declination>-03 43 09</declination>
+	<distance errorminus="70.00" errorplus="70.00">600.00</distance>
 	<star>
 		<name>CoRoT-24</name>
 		<name>2MASS 06474141-0343094</name>
 		<mass errorminus="0.09" errorplus="0.09">0.91</mass>
 		<radius errorminus="0.09" errorplus="0.09">0.86</radius>
+		<magB>14.3</magB>
 		<magR errorminus="0.22" errorplus="0.22">15.60</magR>
 		<magI errorminus="0.05" errorplus="0.05">14.30</magI>
 		<magJ errorminus="0.021" errorplus="0.021">13.595</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.05</magH>
-		<magK errorminus="0.024" errorplus="0.024">12.924</magK>
-		<temperature errorminus="150" errorplus="150">4950</temperature>
-		<age>11</age>
-		<metallicity errorminus="0.15" errorplus="0.15">0.3</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<magH errorminus="0.030" errorplus="0.030">13.046</magH>
+		<magK errorminus="0.023" errorplus="0.023">12.924</magK>
+		<temperature errorminus="150.00" errorplus="150.00">4950.00</temperature>
+		<age>11.000</age>
+		<metallicity errorminus="0.150" errorplus="0.150">0.300</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-24 b</name>
 			<name>2MASS 06474141-0343094 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04" errorplus="0.04">0.33</radius>
-			<period errorminus="0.0006" errorplus="0.0006">5.1134</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.056</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="2" errorplus="2">86.5</inclination>
+			<mass errorminus="inf" errorplus="nan" type="Mass">0.01800</mass>
+			<radius errorminus="0.040" errorplus="0.040">0.330</radius>
+			<period errorminus="0.00060000" errorplus="0.00060000">5.11340000</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.056000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="2.000" errorplus="2.000">86.500</inclination>
 			<temperature errorminus="140" errorplus="140">1070</temperature>
 			<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.006" errorplus="0.006" unit="HJD">2454789.611</transittime>
+			<transittime errorminus=".006000" errorplus="0.006000" unit="HJD">2454789.611000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>CoRoT-24 c</name>
 			<name>2MASS 06474141-0343094 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.035" errorplus="0.035">0.088</mass>
-			<radius errorminus="0.04" errorplus="0.04">0.44</radius>
-			<period errorminus="0.0063" errorplus="0.0063">11.759</period>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.098</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="1.6" errorplus="1">89</inclination>
+			<mass errorminus="0.03500" errorplus="0.03500" type="Mass">0.08800</mass>
+			<radius errorminus="0.040" errorplus="0.040">0.440</radius>
+			<period errorminus="0.00630000" errorplus="0.00630000">11.75900000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.098000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.600" errorplus="1.000">89.000</inclination>
 			<temperature errorminus="80" errorplus="80">850</temperature>
 			<description>CoRoT-24 is the first multiplanetary system discovered by the CoRoT mission. The probability that the observations are caused by transiting Neptune-sized planets is 26 times more likely than a blend scenario.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0265" errorplus="0.0265" unit="HJD">2454795.3803</transittime>
+			<transittime errorminus=".026500" errorplus="0.026500" unit="HJD">2454795.380300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

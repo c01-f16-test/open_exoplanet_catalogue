@@ -1,0 +1,196 @@
+<system>
+	<name>Kepler-432</name>
+	<name>KOI-1299</name>
+	<rightascension>19 33 07</rightascension>
+	<declination>+48 17 09</declination>
+	<distance errorminus="20.00" errorplus="20.00">870.00</distance>
+	<binary>
+		<name>KOI-1299</name>
+		<name>Kepler-432</name>
+		<name>KIC 10864656</name>
+		<name>2MASS J19330772+4817092</name>
+		<magJ errorminus="0.021" errorplus="0.021">10.684</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.221</magH>
+		<separation unit="arcsec">0.8730</separation>
+		<separation unit="AU">750</separation>
+		<positionangle errorminus="0.07" errorplus="0.07">20.86</positionangle>
+		<star>
+			<name>KOI-1299 A</name>
+			<name>Kepler-432 A</name>
+			<name>KIC 10864656 A</name>
+			<name>2MASS J19330772+4817092 A</name>
+			<mass errorminus="0.101" errorplus="0.101">1.353</mass>
+			<radius errorminus="0.120" errorplus="0.120">4.160</radius>
+			<magR>12.135</magR>
+			<magK>12.183</magK>
+			<temperature errorminus="100" errorplus="100">4850</temperature>
+			<age errorminus="1.3" errorplus="1.3">3.5</age>
+			<metallicity errorminus="0.1" errorplus="0.1">-0.07</metallicity>
+			<spectraltype>K</spectraltype>
+			<planet>
+				<name>KOI-1299 b</name>
+				<name>Kepler-432 b</name>
+				<name>KOI-1299.01</name>
+				<name>KOI-1299 A b</name>
+				<name>Kepler-432 A b</name>
+				<name>KIC 10864656 A b</name>
+				<name>2MASS J19330772+4817092 A b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.48" errorplus="0.48">4.87</mass>
+				<radius errorminus="0.036" errorplus="0.036">1.120</radius>
+				<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
+				<semimajoraxis errorminus="0.0089" errorplus="0.0089">0.3034</semimajoraxis>
+				<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
+				<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
+				<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
+				<discoverymethod>transit</discoverymethod>
+				<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455477.02906</transittime>
+				<istransiting>1</istransiting>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+			<planet>
+				<name>KOI-1299 c</name>
+				<name>Kepler-432 c</name>
+				<name>KOI-1299 A c</name>
+				<name>Kepler-432 A c</name>
+				<name>KIC 10864656 A c</name>
+				<name>2MASS J19330772+4817092 A c</name>
+				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.24" errorplus="0.22">2.43</mass>
+				<period errorminus="2.5" errorplus="3.9">406.2</period>
+				<eccentricity errorminus="0.059" errorplus="0.029">0.498</eccentricity>
+				<periastron errorminus="11.2" errorplus="7">60.8</periastron>
+				<description>This planet is listed as a planet candidate because of a possible correlation with stellar activity.</description>
+				<discoverymethod>RV</discoverymethod>
+				<transittime errorminus="2.9" errorplus="3.6" unit="BJD">2456139.3</transittime>
+				<istransiting>0</istransiting>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2014</discoveryyear>
+			</planet>
+		</star>
+		<star>
+			<name>KOI-1299 B</name>
+			<name>Kepler-432 B</name>
+			<name>KIC 10864656 B</name>
+			<mass>0.52</mass>
+			<temperature>3660</temperature>
+		</star>
+	</binary>
+	<star>
+		<name>KOI-1299 A</name>
+		<name>Kepler-432 A</name>
+		<name>KIC 10864656 A</name>
+		<name>2MASS J19330772+4817092 A</name>
+		<mass errorminus="0.101" errorplus="0.101">1.353</mass>
+		<radius errorminus="0.120" errorplus="0.120">4.160</radius>
+		<magR>12.135</magR>
+		<magK>12.183</magK>
+		<temperature errorminus="100" errorplus="100">4850</temperature>
+		<age errorminus="1.3" errorplus="1.3">3.5</age>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.07</metallicity>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>KOI-1299 b</name>
+			<name>Kepler-432 b</name>
+			<name>KOI-1299.01</name>
+			<name>KOI-1299 A b</name>
+			<name>Kepler-432 A b</name>
+			<name>KIC 10864656 A b</name>
+			<name>2MASS J19330772+4817092 A b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.48" errorplus="0.48">4.87</mass>
+			<radius errorminus="0.036" errorplus="0.036">1.120</radius>
+			<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
+			<semimajoraxis errorminus="0.0089" errorplus="0.0089">0.3034</semimajoraxis>
+			<eccentricity errorminus="0.030" errorplus="0.030">0.535</eccentricity>
+			<inclination errorminus="1.3" errorplus="1.3">88.9</inclination>
+			<description>This massive planet orbits a red giant star in a highly eccentric orbit. Together with Kepler-56 and Kepler-91 this system occupies an almost-desert region of parameter space.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455477.02906</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-1299 c</name>
+			<name>Kepler-432 c</name>
+			<name>KOI-1299 A c</name>
+			<name>Kepler-432 A c</name>
+			<name>KIC 10864656 A c</name>
+			<name>2MASS J19330772+4817092 A c</name>
+			<list>Controversial</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass errorminus="0.24" errorplus="0.22">2.43</mass>
+			<period errorminus="2.5" errorplus="3.9">406.2</period>
+			<eccentricity errorminus="0.059" errorplus="0.029">0.498</eccentricity>
+			<periastron errorminus="11.2" errorplus="7">60.8</periastron>
+			<description>This planet is listed as a planet candidate because of a possible correlation with stellar activity.</description>
+			<discoverymethod>RV</discoverymethod>
+			<transittime errorminus="2.9" errorplus="3.6" unit="BJD">2456139.3</transittime>
+			<istransiting>0</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>KOI-1299 B</name>
+		<name>Kepler-432 B</name>
+		<name>KIC 10864656 B</name>
+		<mass>0.52</mass>
+		<temperature>3660</temperature>
+	</star>
+	<star>
+		<name>Kepler-432</name>
+		<mass errorminus="0.07" errorplus="0.10">1.32</mass>
+		<radius errorminus="0.08" errorplus="0.12">4.06</radius>
+		<magV errorminus="0.060" errorplus="0.060">12.465</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.684</magJ>
+		<magH errorminus="0.019" errorplus="0.019">10.221</magH>
+		<magK errorminus="0.017" errorplus="0.017">10.121</magK>
+		<temperature errorminus="78.00" errorplus="78.00">4995.00</temperature>
+		<age errorminus="1.000" errorplus="0.800">4.200</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.070</metallicity>
+		<spectraltype>K2III</spectraltype>
+		<planet>
+			<name>KOI-1299 c</name>
+			<mass errorminus="0.4" errorplus="0.4" type="Radial Velocity">2.63</mass>
+			<period errorminus="0.9" errorplus="3.2">411.0</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.04">1.188</semimajoraxis>
+			<eccentricity errorminus="0.14" errorplus="0.14">0.64</eccentricity>
+			<periastron errorminus="9.0" errorplus="9.0">53.2</periastron>
+			<periastrontime errorminus="3.0" errorplus="2.0">2456134.9</periastrontime>
+			<maximumrvtime errorminus="3.0" errorplus="2.0">2456134.9</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-432 b</name>
+			<mass errorminus="0.18000" errorplus="0.32000" type="Mass">5.41000</mass>
+			<radius errorminus="0.039" errorplus="0.036">1.145</radius>
+			<period errorminus="0.00005300" errorplus="0.00006700">52.50112900</period>
+			<semimajoraxis errorminus="0.011000" errorplus="0.016000">0.301000</semimajoraxis>
+			<eccentricity errorminus="0.008900" errorplus="0.009800">0.513400</eccentricity>
+			<periastron errorminus="1.5000" errorplus="1.6000">64.1000</periastron>
+			<inclination errorminus="0.330" errorplus="0.610">88.170</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001200" errorplus="0.001100" unit="BJD">2455949.537400</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-432 c</name>
+			<mass errorminus="0.24000" errorplus="0.22000" type="Msini">2.43000</mass>
+			<period errorminus="2.50000000" errorplus="3.90000000">406.20000000</period>
+			<eccentricity errorminus="0.059000" errorplus="0.029000">0.498000</eccentricity>
+			<periastron errorminus="11.2000" errorplus="7.0000">60.8000</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,25 @@
+<system>
+	<name>VHS J125601.92-125723.9</name>
+	<rightascension>12 56 02</rightascension>
+	<declination>-12 57 21</declination>
+	<distance errorminus="1.00" errorplus="1.00">12.70</distance>
+	<star>
+		<name>VHS J125601.92-125723.9</name>
+		<mass errorminus="0.01" errorplus="0.02">0.07</mass>
+		<magV errorminus="0.059" errorplus="0.059">17.759</magV>
+		<magJ errorminus="0.019" errorplus="0.019">11.018</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.473</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.044</magK>
+		<temperature errorminus="140.00" errorplus="140.00">2620.00</temperature>
+		<age errorminus="0.075" errorplus="0.075">0.225</age>
+		<spectraltype>M7.5</spectraltype>
+		<planet>
+			<name>VHS J125601.92-125723.9 b</name>
+			<mass errorminus="1.80000" errorplus="9.70000" type="Mass">11.20000</mass>
+			<semimajoraxis errorminus="9.000000" errorplus="9.000000">102.000000</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

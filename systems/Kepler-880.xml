@@ -2,22 +2,29 @@
 	<name>Kepler-880</name>
 	<rightascension>18 47 53</rightascension>
 	<declination>+43 40 22</declination>
+	<distance errorminus="109.06" errorplus="265.15">673.00</distance>
 	<star>
 		<name>Kepler-880</name>
 		<mass errorminus="0.13" errorplus="0.23">1.46</mass>
 		<radius errorminus="0.29" errorplus="0.69">1.74</radius>
-		<temperature errorminus="97.7" errorplus="98.9">6761.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.12">0.03</metallicity>
+		<magV>12.082</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.250</magJ>
+		<magH errorminus="0.029" errorplus="0.029">11.065</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.039</magK>
+		<temperature errorminus="97.72" errorplus="98.88">6761.00</temperature>
+		<age errorminus="0.310" errorplus="0.400">1.660</age>
+		<metallicity errorminus="0.176" errorplus="0.123">0.030</metallicity>
 		<planet>
 			<name>Kepler-880 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.039" errorplus="0.094">0.237</radius>
-			<period errorminus="0.000019180" errorplus="0.000019180">7.714689750</period>
+			<period errorminus="0.00001918" errorplus="0.00001918">7.71468975</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002250" errorplus="0.002250" unit="JD">2454966.554780</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

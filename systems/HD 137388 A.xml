@@ -1,0 +1,67 @@
+<system>
+	<name>HD 137388 A</name>
+	<name>HD 137388</name>
+	<rightascension>15 35 39</rightascension>
+	<declination>-80 12 16</declination>
+	<distance errorminus="2.99" errorplus="2.59">38.45</distance>
+	<star>
+		<name>HD 137388</name>
+		<mass>0.86</mass>
+		<radius>0.82</radius>
+		<magV>8.71</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.59</magB>
+		<magR errorminus="0.05" errorplus="0.05">8.42</magR>
+		<magI errorminus="0.03" errorplus="0.03">8.37</magI>
+		<magJ errorminus="0.024" errorplus="0.024">7.230</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.867</magH>
+		<magK errorminus="0.023" errorplus="0.023">6.763</magK>
+		<temperature errorminus="53.0" errorplus="53.0">5240.0</temperature>
+		<age errorminus="0.74" errorplus="0.74">6.45</age>
+		<metallicity errorminus="0.03" errorplus="0.03">0.18</metallicity>
+		<spectraltype>K0/K1V</spectraltype>
+		<planet>
+			<name>HD 137388 b</name>
+			<name>HD 137388 A b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.029" errorplus="0.029">0.223</mass>
+			<period errorminus="4.0" errorplus="4.0">330.0</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.89</semimajoraxis>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.36</eccentricity>
+			<periastron errorminus="35.0" errorplus="35.0">86.0</periastron>
+			<periastrontime errorminus="28.0" errorplus="28.0">2455209.0</periastrontime>
+			<maximumrvtime errorminus="28.0" errorplus="28.0">2455209.0</maximumrvtime>
+			<temperature>219.9</temperature>
+			<description>HD 137388 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star. HD 137388 appears in the literature as a binary system. However, according to Roell et al. (2012) the A and B components of HD 137388 have very different proper motions and are unlikely to be a physical binary system.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 137388 A</name>
+		<mass>0.86</mass>
+		<radius>0.82</radius>
+		<magV errorminus="0.013" errorplus="0.013">8.696</magV>
+		<magB errorminus="0.020" errorplus="0.020">9.590</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.230</magJ>
+		<magH errorminus="0.024" errorplus="0.024">6.867</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.763</magK>
+		<temperature errorminus="53.00" errorplus="53.00">5240.00</temperature>
+		<age errorminus="0.740" errorplus="0.740">6.450</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.180</metallicity>
+		<spectraltype>K2 IV</spectraltype>
+		<planet>
+			<name>HD 137388 A b</name>
+			<mass errorminus="0.02900" errorplus="0.02900" type="Msini">0.22300</mass>
+			<period errorminus="4.00000000" errorplus="2.00000000">330.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.890000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.360000</eccentricity>
+			<periastron errorminus="35.0000" errorplus="23.0000">86.0000</periastron>
+			<periastrontime errorminus="28.000000" errorplus="23.000000">2455209.000000</periastrontime>
+			<maximumrvtime errorminus="28.000000" errorplus="23.000000">2455209.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

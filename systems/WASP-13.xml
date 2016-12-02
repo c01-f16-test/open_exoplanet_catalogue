@@ -1,36 +1,36 @@
 <system>
 	<name>WASP-13</name>
-	<rightascension>09 20 25</rightascension>
-	<declination>+33 52 57</declination>
-	<distance errorminus="18" errorplus="18">155</distance>
+	<rightascension>09 20 24</rightascension>
+	<declination>+33 52 56</declination>
+	<distance errorminus="18.00" errorplus="18.00">155.00</distance>
 	<star>
 		<name>WASP-13</name>
-		<mass errorminus="0.065" errorplus="0.065">1.187</mass>
-		<radius errorminus="0.041" errorplus="0.041">1.559</radius>
-		<magV>10.42</magV>
+		<mass errorminus="0.065" errorplus="0.05">1.09</mass>
+		<radius errorminus="0.041" errorplus="0.04">1.56</radius>
+		<magV>10.420</magV>
 		<magB errorminus="0.08" errorplus="0.08">11.21</magB>
 		<magJ errorminus="0.021" errorplus="0.021">9.442</magJ>
 		<magH errorminus="0.016" errorplus="0.016">9.182</magH>
 		<magK errorminus="0.016" errorplus="0.016">9.119</magK>
-		<temperature errorminus="48" errorplus="48">5989</temperature>
+		<temperature errorminus="100.0" errorplus="100.00">5826.00</temperature>
 		<metallicity errorminus="0.2" errorplus="0.2">0.0</metallicity>
 		<spectraltype>G1V</spectraltype>
 		<planet>
 			<name>WASP-13 b</name>
 			<name>2MASS J09202471+3352567 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.037" errorplus="0.037">0.500</mass>
-			<radius errorminus="0.052" errorplus="0.052">1.407</radius>
-			<period errorminus="0.0000027" errorplus="0.0000027">4.3530135</period>
-			<semimajoraxis errorminus="0.00059" errorplus="0.00059">0.05379</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.29" errorplus="0.29">85.43</inclination>
+			<mass errorminus="0.04900" errorplus="0.04400" type="Mass">0.47700</mass>
+			<radius errorminus="0.056" errorplus="0.045">1.389</radius>
+			<period errorminus="0.00001300" errorplus="0.00001300">4.35301100</period>
+			<semimajoraxis errorminus="0.000850" errorplus="0.000740">0.053620</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.260" errorplus="0.260">85.190</inclination>
 			<temperature errorminus="100" errorplus="100">1203.3</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455575.5143</transittime>
+			<transittime errorminus=".001600" errorplus="0.001600" unit="HJD">2455575.513600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/03/20</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

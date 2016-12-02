@@ -7,28 +7,33 @@
 	<distance>255.9</distance>
 	<star>
 		<name>Kepler-113</name>
-		<name>KOI-153</name>
+		<name>KOI-15</name>
 		<name>KIC 12252424</name>
+		<name>KOI-153</name>
 		<mass errorminus="0.06" errorplus="0.06">0.75</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.69</radius>
+		<magV>13.461</magV>
+		<magB>13.097</magB>
 		<magJ errorminus="0.027" errorplus="0.027">11.886</magJ>
-		<magH errorminus="0.03" errorplus="0.03">11.36</magH>
+		<magH errorminus="0.032" errorplus="0.032">11.360</magH>
 		<magK errorminus="0.023" errorplus="0.023">11.255</magK>
-		<temperature errorminus="74" errorplus="74">4725</temperature>
-		<age>6.89</age>
-		<metallicity errorminus="0.07" errorplus="0.07">0.05</metallicity>
+		<temperature errorminus="74.00" errorplus="74.00">4725.00</temperature>
+		<age>6.890</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.050</metallicity>
 		<planet>
 			<name>Kepler-113 c</name>
 			<name>KOI-153.01</name>
 			<name>KOI-153 c</name>
 			<name>KIC 12252424 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.005468" errorplus="0.005468">0.198664</radius>
-			<period>8.92507</period>
+			<mass errorminus="0.027" errorplus="0.0" type="Radial Velocity">0.027</mass>
+			<radius errorminus="0.005" errorplus="0.005">0.194</radius>
+			<period>8.92507000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454972.713740</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +42,14 @@
 			<name>KOI-153 b</name>
 			<name>KIC 12252424 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.013212" errorplus="0.013212">0.036805</mass>
-			<radius errorminus="0.004557" errorplus="0.004557">0.165857</radius>
-			<period>4.75400</period>
+			<mass errorminus="0.01300" errorplus="0.01300" type="Mass">0.03700</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.162</radius>
+			<period>4.75400000</period>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime unit="BJD">2454961.546300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

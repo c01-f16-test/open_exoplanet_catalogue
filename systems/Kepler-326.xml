@@ -9,12 +9,14 @@
 		<name>Kepler-326</name>
 		<name>KOI-1835</name>
 		<name>KIC 9471268</name>
-		<mass errorminus="0.0680" errorplus="0.0680">0.9140</mass>
-		<radius errorminus=".052" errorplus="0.052">0.801</radius>
+		<mass errorminus="0.0680" errorplus="0.0680">0.98</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
+		<magV>13.693</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.229</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.783</magH>
 		<magK errorminus="0.019" errorplus="0.019">11.673</magK>
-		<temperature errorminus="100" errorplus="100">5105</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5105.00</temperature>
+		<metallicity>0.133</metallicity>
 		<planet>
 			<name>Kepler-326 c</name>
 			<name>KOI-1835 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9471268 c</name>
 			<name>KIC 9471268.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.12758</radius>
-			<period errorminus=".000010" errorplus="0.000010">4.580358</period>
+			<radius errorminus="0.009" errorplus="0.009">0.125</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">4.58035800</period>
+			<semimajoraxis>0.051000</semimajoraxis>
 			<description>Kepler-326 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-326 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013400" errorplus="0.0013400">2454967.0760500</transittime>
+			<transittime errorminus=".001340" errorplus="0.001340" unit="BJD">2454967.076050</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9471268 b</name>
 			<name>KIC 9471268.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01458" errorplus="0.01458">0.13852</radius>
-			<period errorminus=".000004" errorplus="0.000004">2.248329</period>
+			<radius errorminus="0.014" errorplus="0.014">0.136</radius>
+			<period errorminus="0.00000400" errorplus="0.00000400">2.24832900</period>
+			<semimajoraxis>0.032000</semimajoraxis>
 			<description>Kepler-326 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-326 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011500" errorplus="0.0011500">2454966.4242100</transittime>
+			<transittime errorminus=".001150" errorplus="0.001150" unit="BJD">2454966.424210</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 9471268 d</name>
 			<name>KIC 9471268.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.11027</radius>
-			<period errorminus=".000023" errorplus="0.000023">6.766888</period>
+			<radius errorminus="0.008" errorplus="0.008">0.108</radius>
+			<period errorminus="0.00002300" errorplus="0.00002300">6.76688800</period>
+			<semimajoraxis>0.066000</semimajoraxis>
 			<description>Kepler-326 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-326 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021900" errorplus="0.0021900">2454969.6160500</transittime>
+			<transittime errorminus=".002190" errorplus="0.002190" unit="BJD">2454969.616050</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

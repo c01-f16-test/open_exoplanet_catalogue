@@ -9,11 +9,14 @@
 		<name>Kepler-154</name>
 		<name>KOI-435</name>
 		<name>KIC 11709124</name>
-		<radius errorminus=".190" errorplus="0.190">1.001</radius>
-		<magJ errorminus="0.026" errorplus="0.026">13.389</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.09</magH>
+		<mass>0.89</mass>
+		<radius errorminus="0.19" errorplus="0.19">1.00</radius>
+		<magV>14.534</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.389</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.089</magH>
 		<magK errorminus="0.029" errorplus="0.029">12.986</magK>
-		<temperature errorminus="08" errorplus="108">5690</temperature>
+		<temperature errorminus="108.00" errorplus="108.00">5690.00</temperature>
+		<metallicity>-0.391</metallicity>
 		<planet>
 			<name>Kepler-154 b</name>
 			<name>KOI-435 b</name>
@@ -21,13 +24,14 @@
 			<name>KIC 11709124 b</name>
 			<name>KIC 11709124.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04010" errorplus="0.04010">0.20595</radius>
-			<period errorminus=".000215" errorplus="0.000215">33.040532</period>
+			<radius errorminus="0.039" errorplus="0.039">0.202</radius>
+			<period errorminus="0.00021500" errorplus="0.00021500">33.04053200</period>
+			<semimajoraxis>0.198000</semimajoraxis>
 			<description>Kepler-154 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-154 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042900" errorplus="0.0042900">2454994.2208700</transittime>
+			<transittime errorminus=".004290" errorplus="0.004290" unit="BJD">2454994.220870</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,49 +41,53 @@
 			<name>KIC 11709124 c</name>
 			<name>KIC 11709124.05</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05650" errorplus="0.05650">0.26883</radius>
-			<period errorminus=".000406" errorplus="0.000406">62.303276</period>
+			<radius errorminus="0.055" errorplus="0.055">0.263</radius>
+			<period errorminus="0.00040600" errorplus="0.00040600">62.30327600</period>
+			<semimajoraxis>0.303000</semimajoraxis>
 			<description>Kepler-154 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-154 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0038500" errorplus="0.0038500">2455012.0942300</transittime>
+			<transittime errorminus=".003850" errorplus="0.003850" unit="BJD">2455012.094230</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-154 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.029">0.343</radius>
-			<period errorminus="0.000025720" errorplus="0.000025720">20.549818830</period>
+			<period errorminus="0.00002572" errorplus="0.00002572">20.54981883</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001020" errorplus="0.001020" unit="JD">2455011.946120</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-154 e</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.011" errorplus="0.012">0.134</radius>
-			<period errorminus="0.000012250" errorplus="0.000012250">3.932764650</period>
+			<period errorminus="0.00001225" errorplus="0.00001225">3.93276465</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002620" errorplus="0.002620" unit="JD">2454967.651230</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-154 f</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.019" errorplus="0.030">0.134</radius>
-			<period errorminus="0.000077880" errorplus="0.000077880">9.919356840</period>
+			<period errorminus="0.00007788" errorplus="0.00007788">9.91935684</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005930" errorplus="0.005930" unit="JD">2454969.876560</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

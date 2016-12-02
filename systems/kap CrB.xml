@@ -1,0 +1,54 @@
+<system>
+	<name>kap CrB</name>
+	<name>kappa CrB</name>
+	<rightascension>15 51 13</rightascension>
+	<declination>+35 39 26</declination>
+	<distance errorminus="0.20" errorplus="0.20">30.50</distance>
+	<star>
+		<name>kappa CrB</name>
+		<name>kap CrB</name>
+		<name>Kappa Coronae Borealis</name>
+		<name>κ CrB</name>
+		<name>κ Coronae Borealis</name>
+		<name>HD 142091</name>
+		<name>HIP 77655</name>
+		<name>TYC 2578-1609-1</name>
+		<name>SAO 64948</name>
+		<name>HR 5901</name>
+		<name>BD+36 2652</name>
+		<name>2MASS J15511394+3539264</name>
+		<mass errorminus="0.04" errorplus="0.04" lowerlimit="1.32" upperlimit="1.70">1.47</mass>
+		<radius errorminus="0.04" errorplus="0.04" lowerlimit="4.8" upperlimit="5.2">5.06</radius>
+		<magV>4.820</magV>
+		<magB errorminus="0.01" errorplus="0.01">5.820</magB>
+		<magR>4.2</magR>
+		<magI>3.7</magI>
+		<magJ errorminus="0.184" errorplus="0.184">3.035</magJ>
+		<magH errorminus="0.180" errorplus="0.180">2.575</magH>
+		<magK errorminus="0.242" errorplus="0.242">2.423</magK>
+		<temperature errorminus="17.00" errorplus="17.00">4788.00</temperature>
+		<age errorminus="0.250" errorplus="0.320">3.420</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.150</metallicity>
+		<spectraltype>K0 III-IV</spectraltype>
+		<planet>
+			<name>kappa CrB b</name>
+			<name>kap CrB b</name>
+			<name>Kappa Coronae Borealis b</name>
+			<name>κ CrB b</name>
+			<name>κ Coronae Borealis b</name>
+			<name>HD 142091 b</name>
+			<list>Confirmed planets</list>
+			<mass type="Mass">2.00000</mass>
+			<period errorminus="23.97000000" errorplus="28.91000000">1261.94000000</period>
+			<semimajoraxis errorminus="0.080000" errorplus="0.070000">2.800000</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.044000</eccentricity>
+			<periastron errorminus="40.0" errorplus="40.0">34.0</periastron>
+			<periastrontime errorminus="180.0" errorplus="180.0">2451860.0</periastrontime>
+			<maximumrvtime errorminus="180.0" errorplus="180.0">2451860.0</maximumrvtime>
+			<inclination>60.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

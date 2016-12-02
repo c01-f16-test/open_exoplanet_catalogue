@@ -1,0 +1,32 @@
+<system>
+	<name>K2-77</name>
+	<rightascension>03 40 54</rightascension>
+	<declination>+12 34 21</declination>
+	<distance errorminus="6.00" errorplus="6.00">141.00</distance>
+	<star>
+		<name>K2-77</name>
+		<mass errorminus="0.12" errorplus="0.12">0.80</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.76</radius>
+		<magV errorminus="0.093" errorplus="0.093">12.158</magV>
+		<magB errorminus="0.030" errorplus="0.030">13.229</magB>
+		<magJ errorminus="0.020" errorplus="0.020">10.384</magJ>
+		<magH errorminus="0.023" errorplus="0.023">9.910</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.799</magK>
+		<temperature errorminus="45.00" errorplus="45.00">4970.00</temperature>
+		<age errorminus="0.450" errorplus="0.450">0.850</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.290</metallicity>
+		<planet>
+			<name>K2-77 b</name>
+			<mass type="Mass">1.90000</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.205</radius>
+			<period errorminus="0.00071900" errorplus="0.00068300">8.19979600</period>
+			<eccentricity errorminus="0.090000" errorplus="0.220000">0.140000</eccentricity>
+			<periastron errorminus="114.0000" errorplus="106.0000">1.0000</periastron>
+			<inclination errorminus="0.800" errorplus="0.800">88.700</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001790" errorplus="0.001900" unit="BJD">2457070.805960</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

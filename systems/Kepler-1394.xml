@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1394</name>
-	<rightascension>18 53 49</rightascension>
-	<declination>+45 05 03</declination>
+	<rightascension>18 53 48</rightascension>
+	<declination>+45 05 02</declination>
+	<distance errorminus="126.02" errorplus="109.44">820.00</distance>
 	<star>
 		<name>Kepler-1394</name>
 		<mass errorminus="0.12" errorplus="0.09">1.64</mass>
 		<radius errorminus="0.39" errorplus="0.35">2.55</radius>
-		<temperature errorminus="62.2" errorplus="65.4">6481.0</temperature>
-		<metallicity errorminus="0.05" errorplus="0.08">0.06</metallicity>
+		<magV>11.801</magV>
+		<magJ errorminus="0.021" errorplus="0.021">10.948</magJ>
+		<magH errorminus="0.018" errorplus="0.018">10.724</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.679</magK>
+		<temperature errorminus="62.24" errorplus="65.36">6481.00</temperature>
+		<age errorminus="0.250" errorplus="0.340">1.910</age>
+		<metallicity errorminus="0.049" errorplus="0.082">0.060</metallicity>
 		<planet>
 			<name>Kepler-1394 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.020" errorplus="0.018">0.124</radius>
-			<period errorminus="0.000036570" errorplus="0.000036570">3.937663730</period>
+			<period errorminus="0.00003657" errorplus="0.00003657">3.93766373</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008110" errorplus="0.008110" unit="JD">2454968.278480</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

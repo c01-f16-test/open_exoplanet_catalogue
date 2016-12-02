@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1392</name>
 	<rightascension>19 15 04</rightascension>
-	<declination>+46 23 40</declination>
+	<declination>+46 23 39</declination>
+	<distance errorminus="91.40" errorplus="119.89">1117.00</distance>
 	<star>
 		<name>Kepler-1392</name>
 		<mass errorminus="0.06" errorplus="0.05">0.88</mass>
 		<radius errorminus="0.07" errorplus="0.09">0.85</radius>
-		<temperature errorminus="81.0" errorplus="80.6">5479.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.11</metallicity>
+		<magV>15.679</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.403</magJ>
+		<magH errorminus="0.031" errorplus="0.031">14.012</magH>
+		<magK errorminus="0.044" errorplus="0.044">13.939</magK>
+		<temperature errorminus="80.97" errorplus="80.63">5479.00</temperature>
+		<age errorminus="2.990" errorplus="5.890">4.680</age>
+		<metallicity errorminus="0.177" errorplus="0.159">-0.110</metallicity>
 		<planet>
 			<name>Kepler-1392 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.020">0.175</radius>
-			<period errorminus="0.000113500" errorplus="0.000113500">15.141039700</period>
+			<period errorminus="0.00011350" errorplus="0.00011350">15.14103970</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006490" errorplus="0.006490" unit="JD">2454976.738630</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

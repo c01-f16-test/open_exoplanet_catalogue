@@ -2,19 +2,21 @@
 	<name>Kepler-36</name>
 	<rightascension>19 25 00</rightascension>
 	<declination>+49 13 54</declination>
-	<distance>436.937</distance>
+	<distance>470.00</distance>
 	<star>
 		<name>Kepler-36</name>
 		<name>KIC 11401755</name>
 		<name>KOI-277</name>
-		<mass>1.071</mass>
-		<radius>1.619</radius>
-		<magV errorminus="0.17" errorplus="0.17">11.94</magV>
+		<mass errorminus="0.04" errorplus="0.04">1.07</mass>
+		<radius errorminus="0.02" errorplus="0.02">1.63</radius>
+		<magV errorminus="0.17" errorplus="0.17">11.866</magV>
 		<magB errorminus="0.24" errorplus="0.24">12.66</magB>
 		<magJ errorminus="0.023" errorplus="0.023">11.124</magJ>
 		<magH errorminus="0.029" errorplus="0.029">10.850</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
-		<temperature>5911.0</temperature>
+		<temperature errorminus="66.00" errorplus="66.00">5911.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">6.800</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.200</metallicity>
 		<planet>
 			<name>Kepler-36 b</name>
 			<name>KOI-277.02</name>
@@ -22,16 +24,18 @@
 			<name>KIC 11401755 b</name>
 			<name>2MASS 19250004+4913545 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.01346359</mass>
-			<radius>0.13778</radius>
-			<period>13.83988</period>
-			<semimajoraxis>0.1151</semimajoraxis>
-			<temperature>978.8</temperature>
+			<mass errorminus="0.00100" errorplus="0.00100" type="Mass">0.01400</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.133</radius>
+			<period errorminus="0.00060000" errorplus="0.00082000">13.83989000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.115300</semimajoraxis>
+			<eccentricity>0.039000</eccentricity>
+			<inclination errorminus="0.710" errorplus="0.690">90.010</inclination>
+			<temperature errorminus="11" errorplus="11">978</temperature>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
+			<transittime errorminus=".005800" errorplus="0.005500" unit="BJD">2454960.975300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>Kepler36</image>
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
@@ -45,16 +49,18 @@
 			<name>KIC 11401755 c</name>
 			<name>2MASS 19250004+4913545 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.02541726</mass>
-			<radius>0.33526835</radius>
-			<period>16.23855</period>
-			<semimajoraxis>0.1283</semimajoraxis>
-			<temperature>927.8</temperature>
+			<mass errorminus="0.00100" errorplus="0.00200" type="Mass">0.02500</mass>
+			<radius errorminus="0.005" errorplus="0.005">0.328</radius>
+			<period errorminus="0.00054000" errorplus="0.00038000">16.23855000</period>
+			<semimajoraxis errorminus="0.001600" errorplus="0.001600">0.128300</semimajoraxis>
+			<eccentricity>0.033000</eccentricity>
+			<inclination errorminus="0.530" errorplus="0.540">89.980</inclination>
+			<temperature errorminus="10" errorplus="10">928</temperature>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
+			<transittime errorminus=".001000" errorplus="0.001100" unit="BJD">2454955.913200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>Kepler36</image>
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 

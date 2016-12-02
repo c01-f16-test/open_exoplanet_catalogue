@@ -1,0 +1,56 @@
+<system>
+	<name>BD-06 1339</name>
+	<rightascension>05 53 00</rightascension>
+	<declination>-05 59 41</declination>
+	<distance errorminus="0.69" errorplus="0.65">20.10</distance>
+	<star>
+		<name>BD-06 1339</name>
+		<mass>0.70</mass>
+		<magV errorminus="0.009" errorplus="0.009">9.700</magV>
+		<magB errorminus="0.009" errorplus="0.009">11.030</magB>
+		<magJ errorminus="0.018" errorplus="0.018">7.128</magJ>
+		<magH errorminus="0.059" errorplus="0.059">6.517</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.305</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4324.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">4.400</age>
+		<metallicity errorminus="0.170" errorplus="0.170">-0.140</metallicity>
+		<spectraltype>K7/M0 V</spectraltype>
+		<planet>
+			<name>BD-06 1339 b</name>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Msini">0.02700</mass>
+			<period errorminus="0.00040000" errorplus="0.00040000">3.87280000</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.042800</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.100000" errorplus="0.100000">2455220.500000</periastrontime>
+			<maximumrvtime errorminus="0.100000" errorplus="0.100000">2455220.500000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>BD-06 1339 c</name>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">0.17000</mass>
+			<period errorminus="0.44000000" errorplus="0.44000000">125.94000000</period>
+			<semimajoraxis errorminus="0.007000" errorplus="0.007000">0.435000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.110000">0.310000</eccentricity>
+			<periastron errorminus="55.0000" errorplus="55.0000">41.0000</periastron>
+			<periastrontime errorminus="17.600000" errorplus="17.600000">2455265.200000</periastrontime>
+			<maximumrvtime errorminus="17.600000" errorplus="17.600000">2455265.200000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>GJ 221  BD-06 1339 d</name>
+			<mass errorminus="0.063" errorplus="0.057" type="Radial Velocity">0.091</mass>
+			<period errorminus="26.0" errorplus="32.0">500.0</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">1.06</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.25">0.04</eccentricity>
+			<periastron errorminus="85.0" errorplus="275.0">275.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,39 +1,40 @@
 <system>
 	<name>CoRoT-7</name>
 	<rightascension>06 43 49</rightascension>
-	<declination>-01 03 47</declination>
-	<distance errorminus="20" errorplus="20">150</distance>
+	<declination>-01 03 46</declination>
+	<distance errorminus="4.50" errorplus="4.50">153.70</distance>
 	<star>
 		<name>CoRoT-7</name>
-		<mass>0.93</mass>
-		<radius>0.87</radius>
-		<magV errorminus="0.15" errorplus="0.15">11.73</magV>
-		<magB errorminus="0.27" errorplus="0.27">12.78</magB>
+		<mass errorminus="0.02" errorplus="0.02">0.91</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.82</radius>
+		<magV errorminus="0.008" errorplus="0.008">11.668</magV>
+		<magB errorminus="0.018" errorplus="0.018">12.524</magB>
 		<magR>11.36</magR>
 		<magI errorminus="0.03" errorplus="0.03">10.87</magI>
-		<magJ errorminus="0.024" errorplus="0.024">10.301</magJ>
-		<magH errorminus="0.022" errorplus="0.022">9.880</magH>
-		<magK errorminus="0.021" errorplus="0.021">9.806</magK>
-		<temperature>5313.0</temperature>
-		<metallicity>0.03</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<magJ errorminus="0.021" errorplus="0.021">10.301</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.880</magH>
+		<magK errorminus="0.019" errorplus="0.019">9.806</magK>
+		<temperature errorminus="58.00" errorplus="58.00">5259.00</temperature>
+		<age errorminus="0.750" errorplus="0.750">1.320</age>
+		<metallicity errorminus="0.061" errorplus="0.061">0.138</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>CoRoT-7 b</name>
 			<name>CoRoT-Exo-7 b</name>
 			<name>CoRoTID 102708694 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0151</mass>
-			<radius>0.15</radius>
-			<period errorminus="0.000024" errorplus="0.000024">0.853585</period>
-			<semimajoraxis>0.0172</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>80.1</inclination>
-			<temperature>1666.1</temperature>
+			<mass errorminus="0.00300" errorplus="0.00300" type="Mass">0.01800</mass>
+			<radius errorminus="0.006" errorplus="0.006">0.141</radius>
+			<period errorminus="0.00000057" errorplus="0.00000057">0.85359159</period>
+			<semimajoraxis errorminus="0.000036" errorplus="0.000170">0.017016</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.230" errorplus="0.510">80.780</inclination>
+			<temperature errorminus="27" errorplus="27">1756</temperature>
 			<description>CoRoT 7 is a G-type star in the constellation Monoceros. The planet CoRoR 7b was the first rocky planet found. However, due to its high temperature the planet might be covered in lava.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2454446.737</transittime>
+			<transittime errorminus=".000740" errorplus="0.000450" unit="BJD">2454398.077560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/10/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
@@ -41,16 +42,20 @@
 			<name>CoRoT-Exo-7 c</name>
 			<name>CoRoTID 102708694 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.0264</mass>
-			<period errorminus="0.003" errorplus="0.003">3.698</period>
-			<semimajoraxis>0.046</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.00283" errorplus="0.00283" type="Mass">0.02643</mass>
+			<period errorminus="0.00300000" errorplus="0.00300000">3.69800000</period>
+			<semimajoraxis>0.046000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>180.0000</periastron>
+			<periastrontime errorminus="0.7" errorplus="0.7">2454445.0</periastrontime>
+			<maximumrvtime errorminus="0.7" errorplus="0.7">2454445.0</maximumrvtime>
+			<inclination>80.000</inclination>
 			<temperature>1018.8</temperature>
 			<description>The star CoRoT 7c is a G-type star in the constellation Monoceros. The planet is not transiting.</description>
 			<discoverymethod>RV</discoverymethod>
-			<transittime errorminus="0.7" errorplus="0.7" unit="JD">2454445.0</transittime>
+			<transittime errorminus=".700000" errorplus="0.700000" unit="JD">2454445.000000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/10/15</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

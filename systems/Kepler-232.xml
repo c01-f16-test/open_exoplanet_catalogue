@@ -10,11 +10,13 @@
 		<name>KOI-787</name>
 		<name>KIC 12366084</name>
 		<mass errorminus="0.1000" errorplus="0.1000">0.9640</mass>
-		<radius errorminus=".460" errorplus="0.460">0.968</radius>
+		<radius errorminus="0.46" errorplus="0.46">0.97</radius>
+		<magV>15.367</magV>
 		<magJ errorminus="0.026" errorplus="0.026">14.179</magJ>
 		<magH errorminus="0.027" errorplus="0.027">13.799</magH>
-		<magK errorminus="0.06" errorplus="0.06">13.77</magK>
-		<temperature errorminus="200" errorplus="200">5847</temperature>
+		<magK errorminus="0.056" errorplus="0.056">13.765</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5847.00</temperature>
+		<metallicity>0.083</metallicity>
 		<planet>
 			<name>Kepler-232 b</name>
 			<name>KOI-787 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 12366084 b</name>
 			<name>KIC 12366084.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04283" errorplus="0.13396">0.28068</radius>
-			<period errorminus=".000011" errorplus="0.000011">4.431222</period>
+			<radius errorminus="0.131" errorplus="0.131">0.275</radius>
+			<period errorminus="0.00001100" errorplus="0.00001100">4.43122200</period>
+			<semimajoraxis>0.054000</semimajoraxis>
 			<description>Kepler-232 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-232 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013900" errorplus="0.0013900">2455004.0155100</transittime>
+			<transittime errorminus=".001390" errorplus="0.001390" unit="BJD">2455004.015510</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 12366084 c</name>
 			<name>KIC 12366084.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07837" errorplus="0.16950">0.34903</radius>
-			<period errorminus=".000044" errorplus="0.000044">11.379349</period>
+			<radius errorminus="0.166" errorplus="0.166">0.342</radius>
+			<period errorminus="0.00004400" errorplus="0.00004400">11.37934900</period>
+			<semimajoraxis>0.101000</semimajoraxis>
 			<description>Kepler-232 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-232 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021900" errorplus="0.0021900">2454966.8501800</transittime>
+			<transittime errorminus=".002190" errorplus="0.002190" unit="BJD">2454966.850180</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

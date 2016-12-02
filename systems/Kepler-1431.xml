@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1431</name>
 	<rightascension>19 30 38</rightascension>
-	<declination>+49 51 55</declination>
+	<declination>+49 51 54</declination>
+	<distance errorminus="125.08" errorplus="358.35">1270.00</distance>
 	<star>
 		<name>Kepler-1431</name>
 		<mass errorminus="0.05" errorplus="0.06">1.03</mass>
 		<radius errorminus="0.10" errorplus="0.29">1.03</radius>
-		<temperature errorminus="100.3" errorplus="77.1">5806.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.14">0.07</metallicity>
+		<magV>15.273</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.098</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.787</magH>
+		<magK errorminus="0.060" errorplus="0.060">13.756</magK>
+		<temperature errorminus="100.35" errorplus="77.08">5806.00</temperature>
+		<age errorminus="2.500" errorplus="2.880">4.270</age>
+		<metallicity errorminus="0.141" errorplus="0.139">0.070</metallicity>
 		<planet>
 			<name>Kepler-1431 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.037">0.131</radius>
-			<period errorminus="0.000047240" errorplus="0.000047240">5.866015260</period>
+			<period errorminus="0.00004724" errorplus="0.00004724">5.86601526</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006030" errorplus="0.006030" unit="JD">2454969.355970</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,43 +1,43 @@
 <system>
 	<name>HAT-P-45</name>
 	<rightascension>18 17 29</rightascension>
-	<declination>-03 22 52</declination>
-	<distance errorminus="17" errorplus="35">305</distance>
+	<declination>-03 22 51</declination>
+	<distance errorminus="17.00" errorplus="35.00">305.00</distance>
 	<star>
 		<name>HAT-P-45</name>
 		<name>GSC 5102-00262</name>
 		<name>2MASS 18172957-0322517</name>
-		<mass errorminus="0.058" errorplus="0.058">1.259</mass>
-		<radius errorminus="0.072" errorplus="0.155">1.319</radius>
+		<mass errorminus="0.06" errorplus="0.06">1.26</mass>
+		<radius errorminus="0.07" errorplus="0.15">1.32</radius>
 		<magV>12.794</magV>
 		<magB>13.7</magB>
 		<magR>12.32</magR>
 		<magI>11.68</magI>
-		<magJ errorminus="0.027" errorplus="0.027">10.730</magJ>
-		<magH errorminus="0.026" errorplus="0.026">10.350</magH>
-		<magK errorminus="0.023" errorplus="0.023">10.201</magK>
-		<temperature errorminus="100" errorplus="100">6330</temperature>
-		<age errorminus="0.8" errorplus="0.8">2</age>
-		<metallicity errorminus="0.1" errorplus="0.1">0.07</metallicity>
+		<magJ errorminus="0.025" errorplus="0.025">10.730</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.350</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.201</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6330.00</temperature>
+		<age errorminus="0.800" errorplus="0.800">2.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.070</metallicity>
 		<planet>
 			<name>HAT-P-45 b</name>
 			<name>GSC 5102-00262 b</name>
 			<name>2MASS 18172957-0322517 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.099" errorplus="0.137">0.892</mass>
+			<mass errorminus="0.09900" errorplus="0.13700" type="Mass">0.89200</mass>
 			<radius errorminus="0.087" errorplus="0.175">1.426</radius>
-			<period errorminus="0.000021" errorplus="0.000021">3.128992</period>
-			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0452</semimajoraxis>
-			<eccentricity errorminus="0.063" errorplus="0.063">0.049</eccentricity>
-			<periastron errorminus="98" errorplus="98">146</periastron>
-			<inclination errorminus="0.9" errorplus="0.9">87.8</inclination>
+			<period errorminus="0.00002100" errorplus="0.00002100">3.12899200</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.045200</semimajoraxis>
+			<eccentricity errorminus="0.063000" errorplus="0.063000">0.049000</eccentricity>
+			<periastron errorminus="98.0000" errorplus="98.0000">146.0000</periastron>
+			<inclination errorminus="0.900" errorplus="0.900">87.800</inclination>
 			<temperature errorminus="52" errorplus="90">1652</temperature>
 			<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet in the system. However, the data currently preferres a single planet solution.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00041" errorplus="0.00041">2455729.98612</transittime>
+			<transittime errorminus=".000410" errorplus="0.000410" unit="BJD">2455729.986120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/08/16</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

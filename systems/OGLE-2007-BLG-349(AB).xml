@@ -1,0 +1,16 @@
+<system>
+	<name>OGLE-2007-BLG-349(AB)</name>
+	<declination>-26 25 19</declination>
+	<star>
+		<name>OGLE-2007-BLG-349(AB)</name>
+		<mass errorminus="0.12" errorplus="0.12">0.71</mass>
+		<planet>
+			<name>OGLE-2007-BLG-349(AB) b</name>
+			<mass errorminus="0.041" errorplus="0.041" type="Microlensing">0.25</mass>
+			<semimajoraxis errorminus="0.34" errorplus="0.43">2.59</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

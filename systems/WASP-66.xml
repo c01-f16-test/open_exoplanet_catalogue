@@ -1,36 +1,36 @@
 <system>
 	<name>WASP-66</name>
-	<rightascension>10 32 54</rightascension>
+	<rightascension>10 32 53</rightascension>
 	<declination>-34 59 23</declination>
-	<distance>380</distance>
+	<distance errorminus="100.00" errorplus="100.00">380.00</distance>
 	<star>
 		<name>WASP-66</name>
-		<mass>1.3</mass>
-		<radius>1.75</radius>
-		<magV>11.6</magV>
+		<mass errorminus="0.07" errorplus="0.07">1.30</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.75</radius>
+		<magV>11.600</magV>
 		<magB errorminus="0.10" errorplus="0.10">12.00</magB>
-		<magJ errorminus="0.018" errorplus="0.018">10.719</magJ>
-		<magH errorminus="0.022" errorplus="0.022">10.496</magH>
-		<magK errorminus="0.021" errorplus="0.021">10.452</magK>
-		<temperature errorminus="150" errorplus="150">6600.0</temperature>
-		<metallicity>-0.31</metallicity>
+		<magJ errorminus="0.022" errorplus="0.022">10.719</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.496</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.452</magK>
+		<temperature errorminus="150.0" errorplus="170.00">6580.00</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.31</metallicity>
 		<spectraltype>F4</spectraltype>
 		<planet>
 			<name>WASP-66 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.32</mass>
-			<radius>1.39</radius>
-			<period>4.086052</period>
-			<semimajoraxis>0.0546</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>85.9</inclination>
+			<mass errorminus="0.13000" errorplus="0.13000" type="Mass">2.32000</mass>
+			<radius errorminus="0.090" errorplus="0.090">1.390</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">4.08605200</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.054600</semimajoraxis>
+			<eccentricity>0.110000</eccentricity>
+			<inclination errorminus="0.900" errorplus="0.900">85.900</inclination>
 			<temperature>1647.5</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00035" errorplus="0.00035" unit="BJD">2455929.09693</transittime>
+			<transittime errorminus=".000350" errorplus="0.000350" unit="HJD-UTC">2455929.096150</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/24</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

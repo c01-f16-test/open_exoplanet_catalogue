@@ -1,0 +1,28 @@
+<system>
+	<name>HATS-20</name>
+	<declination>-45 35 26</declination>
+	<star>
+		<name>HATS-20</name>
+		<mass errorminus="0.026" errorplus="0.026">0.91</mass>
+		<radius errorminus="0.04" errorplus="0.057">0.892</radius>
+		<magV>13.77</magV>
+		<temperature errorminus="49.0" errorplus="49.0">5406.0</temperature>
+		<age errorminus="3.4" errorplus="3.4">6.4</age>
+		<metallicity errorminus="0.05" errorplus="0.05">0.03</metallicity>
+		<spectraltype>G9V</spectraltype>
+		<planet>
+			<name>HATS-20 b</name>
+			<mass errorminus="0.035" errorplus="0.035" type="Radial Velocity">0.273</mass>
+			<radius errorminus="0.055" errorplus="0.055">0.776</radius>
+			<period errorminus="7.9e-06" errorplus="7.9e-06">3.7992969</period>
+			<semimajoraxis errorminus="0.00044" errorplus="0.00044">0.04619</semimajoraxis>
+			<eccentricity errorminus="0.5" errorplus="0.0">0.5</eccentricity>
+			<inclination errorminus="0.54" errorplus="0.54">87.16</inclination>
+			<temperature>1147.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00055" errorplus="0.00055">2457121.16516</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

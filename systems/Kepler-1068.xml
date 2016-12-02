@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1068</name>
-	<rightascension>19 38 36</rightascension>
-	<declination>+46 23 33</declination>
+	<rightascension>19 38 35</rightascension>
+	<declination>+46 23 32</declination>
+	<distance errorminus="166.32" errorplus="378.14">1532.00</distance>
 	<star>
 		<name>Kepler-1068</name>
 		<mass errorminus="0.07" errorplus="0.07">1.01</mass>
 		<radius errorminus="0.10" errorplus="0.25">1.01</radius>
-		<temperature errorminus="170.0" errorplus="123.7">5806.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">0.03</metallicity>
+		<magV>15.818</magV>
+		<magJ errorminus="0.031" errorplus="0.031">14.638</magJ>
+		<magH errorminus="0.046" errorplus="0.046">14.319</magH>
+		<magK errorminus="0.065" errorplus="0.065">14.161</magK>
+		<temperature errorminus="169.98" errorplus="123.65">5806.00</temperature>
+		<age errorminus="2.410" errorplus="3.400">4.170</age>
+		<metallicity errorminus="0.176" errorplus="0.142">0.030</metallicity>
 		<planet>
 			<name>Kepler-1068 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.033" errorplus="0.079">0.324</radius>
-			<period errorminus="0.000054460" errorplus="0.000054460">16.923441130</period>
+			<period errorminus="0.00005446" errorplus="0.00005446">16.92344113</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002570" errorplus="0.002570" unit="JD">2454978.812110</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1504</name>
-	<rightascension>19 18 51</rightascension>
-	<declination>+50 07 42</declination>
+	<rightascension>19 18 50</rightascension>
+	<declination>+50 07 41</declination>
+	<distance errorminus="89.79" errorplus="102.29">1029.00</distance>
 	<star>
 		<name>Kepler-1504</name>
 		<mass errorminus="0.06" errorplus="0.06">0.85</mass>
 		<radius errorminus="0.07" errorplus="0.08">0.81</radius>
-		<temperature errorminus="78.9" errorplus="102.3">5393.0</temperature>
-		<metallicity errorminus="0.20" errorplus="0.18">-0.17</metallicity>
+		<magV>15.654</magV>
+		<magJ errorminus="0.030" errorplus="0.030">14.409</magJ>
+		<magH errorminus="0.041" errorplus="0.041">13.998</magH>
+		<magK errorminus="0.049" errorplus="0.049">13.834</magK>
+		<temperature errorminus="78.86" errorplus="102.27">5393.00</temperature>
+		<age errorminus="2.840" errorplus="6.050">4.470</age>
+		<metallicity errorminus="0.204" errorplus="0.180">-0.170</metallicity>
 		<planet>
 			<name>Kepler-1504 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.021">0.190</radius>
-			<period errorminus="0.001593000" errorplus="0.001593000">82.304003000</period>
+			<period errorminus="0.00159300" errorplus="0.00159300">82.30400300</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".018000" errorplus="0.018000" unit="JD">2454992.038000</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

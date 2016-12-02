@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1506</name>
-	<rightascension>19 20 36</rightascension>
-	<declination>+41 27 53</declination>
+	<rightascension>19 20 35</rightascension>
+	<declination>+41 27 52</declination>
+	<distance errorminus="104.37" errorplus="170.90">1318.00</distance>
 	<star>
 		<name>Kepler-1506</name>
 		<mass errorminus="0.06" errorplus="0.05">0.95</mass>
 		<radius errorminus="0.07" errorplus="0.12">0.93</radius>
-		<temperature errorminus="89.6" errorplus="104.5">5676.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.05</metallicity>
+		<magV>15.652</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.510</magJ>
+		<magH errorminus="0.039" errorplus="0.039">14.117</magH>
+		<magK errorminus="0.062" errorplus="0.062">14.082</magK>
+		<temperature errorminus="89.59" errorplus="104.55">5676.00</temperature>
+		<age errorminus="2.330" errorplus="4.090">3.980</age>
+		<metallicity errorminus="0.179" errorplus="0.153">-0.050</metallicity>
 		<planet>
 			<name>Kepler-1506 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.017">0.118</radius>
-			<period errorminus="0.000281100" errorplus="0.000281100">14.032915400</period>
+			<period errorminus="0.00028110" errorplus="0.00028110">14.03291540</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".018300" errorplus="0.018300" unit="JD">2454971.062600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

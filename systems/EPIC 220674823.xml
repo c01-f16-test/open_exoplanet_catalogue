@@ -1,0 +1,36 @@
+<system>
+	<name>EPIC 220674823</name>
+	<declination>+10 47 40</declination>
+	<star>
+		<name>EPIC 220674823</name>
+		<mass errorminus="0.01" errorplus="0.01">0.93</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.83</radius>
+		<magV>12.0</magV>
+		<temperature errorminus="18.0" errorplus="18.0">5814.0</temperature>
+		<metallicity errorminus="0.25" errorplus="0.25">-0.28</metallicity>
+		<planet>
+			<name>EPIC 220674823 b</name>
+			<radius errorminus="0.012" errorplus="0.012">0.13</radius>
+			<period errorminus="3e-05" errorplus="3e-05">0.571308</period>
+			<semimajoraxis>0.011</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="10.7" errorplus="7.0">80.2</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00085" errorplus="0.0008">2457437.42948</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>EPIC 220674823 c</name>
+			<radius errorminus="0.012" errorplus="0.012">0.226</radius>
+			<period errorminus="0.0001" errorplus="0.0001">13.341245</period>
+			<semimajoraxis>0.064</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="13.7" errorplus="0.5">87.2</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0039" errorplus="0.0027">2457405.73124</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

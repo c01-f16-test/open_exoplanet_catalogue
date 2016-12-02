@@ -1,36 +1,38 @@
 <system>
 	<name>CoRoT-23</name>
-	<rightascension>18 39 08</rightascension>
+	<rightascension>18 39 07</rightascension>
 	<declination>+04 21 28</declination>
-	<distance>600</distance>
+	<distance errorminus="50.00" errorplus="50.00">600.00</distance>
 	<star>
 		<name>CoRoT-23</name>
-		<mass>1.14</mass>
-		<radius>1.61</radius>
-		<magV>15.63</magV>
-		<magB>16.0</magB>
+		<mass errorminus="0.08" errorplus="0.08">1.14</mass>
+		<radius errorminus="0.18" errorplus="0.18">1.61</radius>
+		<magV errorminus="0.070" errorplus="0.070">15.630</magV>
+		<magB errorminus="0.230" errorplus="0.230">16.960</magB>
 		<magR errorminus="0.25" errorplus="0.25">15.70</magR>
 		<magJ errorminus="0.026" errorplus="0.026">12.944</magJ>
 		<magH errorminus="0.029" errorplus="0.029">12.450</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.36</magK>
-		<temperature>5900.0</temperature>
-		<metallicity>0.05</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<magK errorminus="0.032" errorplus="0.032">12.364</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5900.00</temperature>
+		<age errorminus="1.000" errorplus="1.500">7.200</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.050</metallicity>
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>CoRoT-23 b</name>
 			<name>2MASS J18390782+0421281 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.8</mass>
-			<radius>1.05</radius>
-			<period>3.6314</period>
-			<semimajoraxis>0.0477</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
-			<inclination>85.7</inclination>
-			<temperature>1508.9</temperature>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Mass">2.80000</mass>
+			<radius errorminus="0.130" errorplus="0.130">1.050</radius>
+			<period errorminus="0.00010000" errorplus="0.00010000">3.63130000</period>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.048000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.160000</eccentricity>
+			<periastron errorminus="9.0000" errorplus="9.0000">52.0000</periastron>
+			<inclination errorminus="1.500" errorplus="2.600">85.700</inclination>
+			<temperature>1660</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455308.939</transittime>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="HJD">2455308.939000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

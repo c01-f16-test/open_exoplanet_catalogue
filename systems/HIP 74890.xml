@@ -1,0 +1,32 @@
+<system>
+	<name>HIP 74890</name>
+	<rightascension>15 18 17</rightascension>
+	<declination>-41 25 14</declination>
+	<distance errorminus="5.27" errorplus="5.27">91.49</distance>
+	<star>
+		<name>HIP 74890</name>
+		<mass errorminus="0.21" errorplus="0.21">1.74</mass>
+		<radius errorminus="0.53" errorplus="0.53">5.77</radius>
+		<magV>7.050</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.099</magB>
+		<magJ errorminus="0.017" errorplus="0.017">5.286</magJ>
+		<magH errorminus="0.020" errorplus="0.020">4.808</magH>
+		<magK errorminus="0.016" errorplus="0.016">4.639</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4850.00</temperature>
+		<metallicity errorminus="0.130" errorplus="0.130">0.200</metallicity>
+		<spectraltype>K1 III</spectraltype>
+		<planet>
+			<name>HIP 74890 b</name>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Msini">2.40000</mass>
+			<period errorminus="16.80000000" errorplus="16.80000000">822.30000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">2.100000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.070000</eccentricity>
+			<periastron errorminus="93.9000" errorplus="93.9000">181.9000</periastron>
+			<periastrontime errorminus="379.800000" errorplus="379.800000">2459820.400000</periastrontime>
+			<maximumrvtime errorminus="379.800000" errorplus="379.800000">2459820.400000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

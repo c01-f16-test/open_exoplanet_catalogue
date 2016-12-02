@@ -1,0 +1,55 @@
+<system>
+	<name>Kepler-177</name>
+	<name>KOI-523</name>
+	<rightascension>19 04 11</rightascension>
+	<declination>+45 03 11</declination>
+	<distance>1387.37</distance>
+	<star>
+		<name>KOI-523</name>
+		<name>Kepler-177</name>
+		<name>KIC 8806123</name>
+		<mass errorminus="0.12" errorplus="0.25">1.07</mass>
+		<radius errorminus="0.11" errorplus="0.56">1.07</radius>
+		<magV>15.000</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.858</magJ>
+		<magH errorminus="0.033" errorplus="0.033">13.570</magH>
+		<magK errorminus="0.040" errorplus="0.040">13.421</magK>
+		<temperature errorminus="105.00" errorplus="105.00">5942.00</temperature>
+		<age errorminus="1.2000" errorplus="1.2000">1.8000</age>
+		<metallicity>-0.091</metallicity>
+		<planet>
+			<name>KOI-523.02</name>
+			<name>KOI-523 b</name>
+			<name>Kepler-177 b</name>
+			<name>KIC 8806123 b</name>
+			<name>KIC 8806123.02</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00100" errorplus="0.00200" type="Mass">0.00600</mass>
+			<radius errorminus="0.027" errorplus="0.136">0.259</radius>
+			<period>36.85500000</period>
+			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0038000" errorplus="0.0038000">2454971.9160800</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-523.01</name>
+			<name>KOI-523 c</name>
+			<name>Kepler-177 c</name>
+			<name>KIC 8806123 c</name>
+			<name>KIC 8806123.01</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.01000" errorplus="0.01100" type="Mass">0.02400</mass>
+			<radius errorminus="0.064" errorplus="0.331">0.633</radius>
+			<period>49.41200000</period>
+			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0010000" errorplus="0.0010000">2455031.2347700</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

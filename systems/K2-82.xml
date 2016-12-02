@@ -1,0 +1,26 @@
+<system>
+	<name>K2-82</name>
+	<rightascension>03 54 03</rightascension>
+	<declination>+15 08 13</declination>
+	<star>
+		<name>K2-82</name>
+		<mass errorminus="0.07" errorplus="0.07">0.15</mass>
+		<radius errorminus="0.08" errorplus="0.08">0.17</radius>
+		<magV errorminus="0.160" errorplus="0.160">14.012</magV>
+		<magB errorminus="0.080" errorplus="0.080">14.925</magB>
+		<magJ errorminus="0.026" errorplus="0.026">11.630</magJ>
+		<magH errorminus="0.028" errorplus="0.028">11.013</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.886</magK>
+		<temperature errorminus="612.00" errorplus="612.00">3415.00</temperature>
+		<planet>
+			<name>K2-82 b</name>
+			<radius errorminus="0.107" errorplus="0.107">0.232</radius>
+			<period errorminus="0.00009500" errorplus="0.00009500">7.19583400</period>
+			<semimajoraxis errorminus="0.006300" errorplus="0.006300">0.039200</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000550" errorplus="0.000550" unit="BJD_TDB">2457069.075980</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

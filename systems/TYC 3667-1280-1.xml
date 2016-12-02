@@ -1,34 +1,36 @@
 <system>
 	<name>TYC 3667-1280-1</name>
-	<rightascension>00 51 32.9649</rightascension>
-	<declination>+58 25 34.268</declination>
-	<distance errorminus="37" errorplus="37">481</distance>
+	<rightascension>00 51 32</rightascension>
+	<declination>+58 25 34</declination>
+	<distance errorminus="37.00" errorplus="37.00">481.00</distance>
 	<star>
 		<name>TYC 3667-1280-1</name>
 		<name>GSC 03667-01280</name>
 		<name>2MASS J00513296+5825342</name>
 		<mass errorminus="0.17" errorplus="0.17">1.87</mass>
 		<radius errorminus="0.86" errorplus="0.86">6.26</radius>
-		<magV errorminus="0.02" errorplus="0.02">9.86</magV>
+		<magV errorminus="0.020" errorplus="0.020">9.860</magV>
 		<magB errorminus="0.04" errorplus="0.04">10.86</magB>
-		<magJ errorminus="0.019" errorplus="0.019">7.734</magJ>
-		<magH errorminus="0.026" errorplus="0.026">7.246</magH>
-		<magK errorminus="0.017" errorplus="0.017">7.100</magK>
-		<temperature errorminus="24" errorplus="24">5130</temperature>
-		<age errorminus="0.3" errorplus="0.3">1.3</age>
-		<metallicity errorminus="0.05" errorplus="0.05">-0.08</metallicity>
+		<magJ errorminus="0.009" errorplus="0.009">7.734</magJ>
+		<magH errorminus="0.021" errorplus="0.021">7.246</magH>
+		<magK errorminus="0.009" errorplus="0.009">7.100</magK>
+		<temperature errorminus="24.00" errorplus="24.00">5130.00</temperature>
+		<age errorminus="0.280" errorplus="0.350">1.350</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.080</metallicity>
 		<planet>
 			<name>TYC 3667-1280-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.4" errorplus="0.4" type="msini">5.4</mass>
-			<period errorminus="0.005" errorplus="0.005">26.468</period>
-			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
-			<eccentricity errorminus="0.014" errorplus="0.043">0.036</eccentricity>
-			<periastron errorminus="50" errorplus="50">240</periastron>
-			<periastrontime errorminus="3.3" errorplus="3.7">2456320.1</periastrontime>
+			<mass errorminus="0.40000" errorplus="0.40000" type="Msini">5.40000</mass>
+			<period errorminus="0.00500000" errorplus="0.00500000">26.46800000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.210000</semimajoraxis>
+			<eccentricity errorminus="0.014000" errorplus="0.043000">0.036000</eccentricity>
+			<periastron errorminus="50.0000" errorplus="50.0000">240.0000</periastron>
+			<periastrontime errorminus="3.300000" errorplus="3.700000">2456320.100000</periastrontime>
+			<maximumrvtime errorminus="3.300000" errorplus="3.700000">2456320.100000</maximumrvtime>
+			<temperature errorminus="100" errorplus="100">1350</temperature>
 			<description>TYC 3667-1280-1 b is on the brink of engulfment by its host star, which is a former A-type star entering the red giant branch.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/04/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

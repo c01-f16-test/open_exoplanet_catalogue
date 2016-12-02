@@ -10,11 +10,13 @@
 		<name>KOI-481</name>
 		<name>KIC 11192998</name>
 		<mass errorminus="0.0780" errorplus="0.0780">0.8790</mass>
-		<radius errorminus=".382" errorplus="0.382">0.742</radius>
+		<radius errorminus="0.38" errorplus="0.38">0.74</radius>
+		<magV>14.701</magV>
 		<magJ errorminus="0.022" errorplus="0.022">13.346</magJ>
 		<magH errorminus="0.021" errorplus="0.021">12.941</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.88</magK>
-		<temperature errorminus="200" errorplus="200">5413</temperature>
+		<magK errorminus="0.032" errorplus="0.032">12.876</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5413.00</temperature>
+		<metallicity>-0.286</metallicity>
 		<planet>
 			<name>Kepler-166 b</name>
 			<name>KOI-481 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11192998 b</name>
 			<name>KIC 11192998.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.10662">0.20687</radius>
-			<period errorminus=".000012" errorplus="0.000012">7.650254</period>
+			<radius errorminus="0.104" errorplus="0.104">0.203</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">7.65025400</period>
+			<semimajoraxis>0.072000</semimajoraxis>
 			<description>Kepler-166 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-166 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0008800" errorplus="0.0008800">2455004.9714900</transittime>
+			<transittime errorminus=".000880" errorplus="0.000880" unit="BJD">2455004.971490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +41,27 @@
 			<name>KIC 11192998 c</name>
 			<name>KIC 11192998.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02096" errorplus="0.11209">0.21689</radius>
-			<period errorminus=".000124" errorplus="0.000124">34.260281</period>
+			<radius errorminus="0.110" errorplus="0.110">0.212</radius>
+			<period errorminus="0.00012400" errorplus="0.00012400">34.26028100</period>
+			<semimajoraxis>0.195000</semimajoraxis>
 			<description>Kepler-166 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-166 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020800" errorplus="0.0020800">2455016.2265300</transittime>
+			<transittime errorminus=".002080" errorplus="0.002080" unit="BJD">2455016.226530</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-166 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.013">0.154</radius>
-			<period errorminus="0.000001440" errorplus="0.000001440">1.554003930</period>
+			<period errorminus="0.00000144" errorplus="0.00000144">1.55400393</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000704" errorplus="0.000704" unit="JD">2455002.830478</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,24 @@
+<system>
+	<name>HD 211847</name>
+	<declination>-41 25 48</declination>
+	<star>
+		<name>HD 211847</name>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<magV>8.78</magV>
+		<temperature errorminus="50.0" errorplus="50.0">5715.0</temperature>
+		<age errorminus="2.9" errorplus="2.9">3.0</age>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.08</metallicity>
+		<spectraltype>G5V</spectraltype>
+		<planet>
+			<name>HD 211847 b</name>
+			<mass errorminus="1.2" errorplus="1.2">19.2</mass>
+			<period errorminus="2000.0" errorplus="2500.0">7930.0</period>
+			<semimajoraxis errorminus="1.4" errorplus="1.6">7.5</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.685</eccentricity>
+			<periastron errorminus="2.0" errorplus="2.0">159.2</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

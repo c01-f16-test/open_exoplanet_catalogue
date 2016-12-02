@@ -1,0 +1,22 @@
+<system>
+	<name>KOI-2700</name>
+	<declination>+44 46 30</declination>
+	<star>
+		<name>KOI-2700</name>
+		<mass errorminus="0.063" errorplus="0.063">0.632</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.574</radius>
+		<magV>15.9</magV>
+		<temperature errorminus="66.0" errorplus="66.0">4433.0</temperature>
+		<metallicity>-0.2</metallicity>
+		<planet>
+			<name>KOI-2700 b</name>
+			<mass errorminus="0.00270584903879432" errorplus="0.0">0.00270584903879</mass>
+			<radius errorminus="0.0945670346454" errorplus="0.0">0.0945670346454</radius>
+			<period errorminus="5e-06" errorplus="5e-06">0.910022</period>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.004" errorplus="0.004">2454900.358</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

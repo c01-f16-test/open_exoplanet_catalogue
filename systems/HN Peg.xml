@@ -2,35 +2,35 @@
 	<name>HN Peg</name>
 	<rightascension>21 44 31</rightascension>
 	<declination>+14 46 19</declination>
-	<distance errorminus="0.3" errorplus="0.3">18.4</distance>
+	<distance errorminus="0.29" errorplus="0.28">18.39</distance>
 	<star>
 		<name>HN Peg</name>
-		<mass>1</mass>
-		<magV>6</magV>
-		<magB errorminus="0.01" errorplus="0.01">6.53</magB>
+		<mass>1.0</mass>
+		<magV errorminus="0.020" errorplus="0.020">5.950</magV>
+		<magB errorminus="0.020" errorplus="0.020">6.540</magB>
 		<magR>6.16</magR>
 		<magI>5.3</magI>
-		<magJ>4.79</magJ>
-		<magH>4.60</magH>
-		<magK errorminus="0.04" errorplus="0.04">4.56</magK>
+		<magJ errorminus="0.035" errorplus="0.035">4.793</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.598</magH>
+		<magK errorminus="0.038" errorplus="0.038">4.559</magK>
 		<temperature>5940.0</temperature>
-		<spectraltype>G0V</spectraltype>
+		<age>0.2</age>
+		<spectraltype>G0 IV-V</spectraltype>
 		<planet>
 			<name>HN Peg b</name>
 			<list>Confirmed planets</list>
 			<spectraltype>T2.5</spectraltype>
-			<mass errorminus="9" errorplus="9">22</mass>
-			<radius errorminus="0.06" errorplus="0.14">1.05</radius>
-			<separation errorminus="0.4" errorplus="0.4" unit="arcsec">43.2</separation>
-			<separation errorminus="15" errorplus="15" unit="AU">795</separation>
+			<mass errorminus="9.42803" errorplus="9.42803" type="Mass">21.99870</mass>
+			<radius errorminus="0.058" errorplus="0.136">1.051</radius>
 			<positionangle errorminus="0.6" errorplus="0.6">254.4</positionangle>
 			<magJ errorminus="0.03" errorplus="0.03">15.86</magJ>
 			<magH errorminus="0.03" errorplus="0.03">15.40</magH>
 			<magK errorminus="0.03" errorplus="0.03">15.12</magK>
+			<semimajoraxis errorminus="13.000000" errorplus="13.000000">773.000000</semimajoraxis>
 			<temperature errorminus="70" errorplus="70">1130</temperature>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/04/23</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>
 </system>

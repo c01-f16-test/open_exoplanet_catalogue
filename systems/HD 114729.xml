@@ -2,7 +2,7 @@
 	<name>HD 114729</name>
 	<rightascension>13 12 44</rightascension>
 	<declination>-31 52 24</declination>
-	<distance>35</distance>
+	<distance errorminus="1.23" errorplus="1.15">35.00</distance>
 	<binary>
 		<separation unit="arcsec">8.05</separation>
 		<separation unit="AU">282</separation>
@@ -30,7 +30,7 @@
 				<eccentricity>0.32</eccentricity>
 				<description>The planet HD 114720 A b is orbiting a Sun-like star approximately 114 light years away. It has a mass similar to Jupiter and was discovered by the California and Carnegie Planet Search.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2002</discoveryyear>
 			</planet>
 		</star>
@@ -40,4 +40,62 @@
 			<spectraltype>M</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 114729 A</name>
+		<mass>0.93</mass>
+		<radius>1.46</radius>
+		<magV>6.69</magV>
+		<magB>7.31</magB>
+		<magJ errorminus="0.019" errorplus="0.019">5.559</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.29</magH>
+		<magK errorminus="0.023" errorplus="0.023">5.136</magK>
+		<age>6</age>
+		<metallicity>-0.22</metallicity>
+		<spectraltype>G3 V</spectraltype>
+		<planet>
+			<name>HD 114729 A b</name>
+			<name>HD 114729 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.84</mass>
+			<period>1135</period>
+			<semimajoraxis>2.08</semimajoraxis>
+			<eccentricity>0.32</eccentricity>
+			<description>The planet HD 114720 A b is orbiting a Sun-like star approximately 114 light years away. It has a mass similar to Jupiter and was discovered by the California and Carnegie Planet Search.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 114729 B</name>
+		<mass>0.253</mass>
+		<spectraltype>M</spectraltype>
+	</star>
+	<star>
+		<name>HD 114729</name>
+		<mass>1.00</mass>
+		<radius>1.46</radius>
+		<magV>6.680</magV>
+		<magJ errorminus="0.019" errorplus="0.019">5.559</magJ>
+		<magH errorminus="0.031" errorplus="0.031">5.290</magH>
+		<magK errorminus="0.022" errorplus="0.022">5.136</magK>
+		<temperature>5821.00</temperature>
+		<age>4.58</age>
+		<metallicity>-0.262</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>HD 114729 b</name>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">0.95000</mass>
+			<period errorminus="15.00000000" errorplus="15.00000000">1114.00000000</period>
+			<semimajoraxis errorminus="0.120000" errorplus="0.120000">2.110000</semimajoraxis>
+			<eccentricity errorminus="0.055000" errorplus="0.055000">0.167000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">93.0000</periastron>
+			<periastrontime errorminus="67.000000" errorplus="67.000000">2450520.000000</periastrontime>
+			<maximumrvtime errorminus="67.000000" errorplus="67.000000">2450520.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2002</discoveryyear>
+		</planet>
+	</star>
 </system>

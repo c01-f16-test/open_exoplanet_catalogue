@@ -1,7 +1,7 @@
 <system>
 	<name>HD 134060</name>
 	<rightascension>15 10 45</rightascension>
-	<declination>-61 25 20</declination>
+	<declination>-61 25 19</declination>
 	<distance>24.2</distance>
 	<star>
 		<name>HD 134060</name>
@@ -17,27 +17,27 @@
 		<planet>
 			<name>HD 134060 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0351</mass>
-			<period>3.27</period>
-			<semimajoraxis>0.0444</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<mass errorminus="0.0021" errorplus="0.0021">0.0351</mass>
+			<period errorminus="0.0002" errorplus="0.0002">3.27</period>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0444</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.4</eccentricity>
 			<temperature>1336.0</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 134060 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.1507</mass>
-			<period>1160.9</period>
-			<semimajoraxis>2.2263</semimajoraxis>
-			<eccentricity>0.75</eccentricity>
+			<mass errorminus="0.071" errorplus="0.071">0.1507</mass>
+			<period errorminus="27.046" errorplus="27.046">1160.9</period>
+			<semimajoraxis errorminus="0.0507" errorplus="0.0507">2.2263</semimajoraxis>
+			<eccentricity errorminus="0.19" errorplus="0.19">0.75</eccentricity>
 			<temperature>182.8</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

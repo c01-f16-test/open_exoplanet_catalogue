@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-870</name>
-	<rightascension>19 41 37</rightascension>
+	<rightascension>19 41 36</rightascension>
 	<declination>+50 28 43</declination>
+	<distance errorminus="132.72" errorplus="225.57">1231.00</distance>
 	<star>
 		<name>Kepler-870</name>
 		<mass errorminus="0.06" errorplus="0.07">1.01</mass>
 		<radius errorminus="0.10" errorplus="0.18">1.02</radius>
-		<temperature errorminus="151.0" errorplus="139.2">5857.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.01</metallicity>
+		<magV>15.259</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.072</magJ>
+		<magH errorminus="0.034" errorplus="0.034">13.707</magH>
+		<magK errorminus="0.051" errorplus="0.051">13.738</magK>
+		<temperature errorminus="150.97" errorplus="139.18">5857.00</temperature>
+		<age errorminus="2.070" errorplus="2.970">3.800</age>
+		<metallicity errorminus="0.167" errorplus="0.136">-0.010</metallicity>
 		<planet>
 			<name>Kepler-870 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.026" errorplus="0.045">0.248</radius>
-			<period errorminus="0.000118400" errorplus="0.000118400">21.358762100</period>
+			<period errorminus="0.00011840" errorplus="0.00011840">21.35876210</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004340" errorplus="0.004340" unit="JD">2454968.071130</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,29 +2,33 @@
 	<name>HD 108147</name>
 	<rightascension>12 25 46</rightascension>
 	<declination>-64 01 19</declination>
-	<distance>38.57</distance>
+	<distance errorminus="1.05" errorplus="1.00">38.56</distance>
 	<star>
 		<name>HD 108147</name>
-		<mass>1.19</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.27</mass>
 		<radius>1.22</radius>
-		<magV>6.99</magV>
-		<magB>7.501</magB>
+		<magV errorminus="0.010" errorplus="0.010">6.995</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.532</magB>
 		<magJ errorminus="0.029" errorplus="0.029">6.007</magJ>
 		<magH errorminus="0.027" errorplus="0.027">5.832</magH>
 		<magK errorminus="0.016" errorplus="0.016">5.721</magK>
-		<temperature>6067.0</temperature>
-		<metallicity>0.18</metallicity>
+		<temperature errorminus="40.00" errorplus="40.00">6265.00</temperature>
+		<age>1.98</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.200</metallicity>
 		<spectraltype>F8/G0 V</spectraltype>
 		<planet>
 			<name>HD 108147 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.261</mass>
-			<period>10.8985</period>
-			<semimajoraxis>0.102</semimajoraxis>
-			<eccentricity>0.53</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.04000" type="Msini">0.26100</mass>
+			<period errorminus="0.00450000" errorplus="0.00450000">10.89850000</period>
+			<semimajoraxis errorminus="0.005900" errorplus="0.005900">0.102000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.530000</eccentricity>
+			<periastron errorminus="24.0000" errorplus="24.0000">308.0000</periastron>
+			<periastrontime errorminus="0.710000" errorplus="0.710000">2450828.860000</periastrontime>
+			<maximumrvtime errorminus="0.710000" errorplus="0.710000">2450828.860000</maximumrvtime>
 			<temperature>907.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

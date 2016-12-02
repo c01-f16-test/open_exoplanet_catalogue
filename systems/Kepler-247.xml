@@ -9,12 +9,14 @@
 		<name>Kepler-247</name>
 		<name>KOI-884</name>
 		<name>KIC 7434875</name>
-		<mass errorminus="0.0430" errorplus="0.0430">0.7730</mass>
-		<radius errorminus=".214" errorplus="0.214">0.768</radius>
-		<magJ errorminus="0.023" errorplus="0.023">13.597</magJ>
+		<mass errorminus="0.089" errorplus="0.047">0.884</mass>
+		<radius errorminus="0.21" errorplus="0.21">0.77</radius>
+		<magV>15.067</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.597</magJ>
 		<magH errorminus="0.024" errorplus="0.024">13.178</magH>
 		<magK errorminus="0.026" errorplus="0.026">13.051</magK>
-		<temperature errorminus="200" errorplus="200">5100</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5100.00</temperature>
+		<metallicity errorminus="0.29" errorplus="0.19">0.169</metallicity>
 		<planet>
 			<name>Kepler-247 c</name>
 			<name>KOI-884 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7434875 c</name>
 			<name>KIC 7434875.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.10389">0.37272</radius>
-			<period errorminus=".000007" errorplus="0.000007">9.439452</period>
+			<radius errorminus="0.102" errorplus="0.102">0.365</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">9.43945200</period>
+			<semimajoraxis>0.084000</semimajoraxis>
 			<description>Kepler-247 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0004200" errorplus="0.0004200">2455010.1853600</transittime>
+			<transittime errorminus=".000420" errorplus="0.000420" unit="BJD">2455010.185360</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7434875 d</name>
 			<name>KIC 7434875.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.10024">0.35905</radius>
-			<period errorminus=".000026" errorplus="0.000026">20.477912</period>
+			<radius errorminus="0.098" errorplus="0.098">0.352</radius>
+			<period errorminus="0.00002600" errorplus="0.00002600">20.47791200</period>
+			<semimajoraxis>0.140000</semimajoraxis>
 			<description>Kepler-247 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006800" errorplus="0.0006800">2455011.6679800</transittime>
+			<transittime errorminus=".000680" errorplus="0.000680" unit="BJD">2455011.667980</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 7434875 b</name>
 			<name>KIC 7434875.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04192" errorplus="0.04192">0.14945</radius>
-			<period errorminus=".000007" errorplus="0.000007">3.336160</period>
+			<radius errorminus="0.041" errorplus="0.041">0.146</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">3.33616000</period>
+			<semimajoraxis>0.042000</semimajoraxis>
 			<description>Kepler-247 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011800" errorplus="0.0011800">2454968.3129000</transittime>
+			<transittime errorminus=".001180" errorplus="0.001180" unit="BJD">2454968.312900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

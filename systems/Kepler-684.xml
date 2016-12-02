@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-684</name>
-	<rightascension>19 23 29</rightascension>
+	<rightascension>19 23 28</rightascension>
 	<declination>+38 16 25</declination>
+	<distance errorminus="92.81" errorplus="97.73">1066.00</distance>
 	<star>
 		<name>Kepler-684</name>
 		<mass errorminus="0.06" errorplus="0.06">0.89</mass>
 		<radius errorminus="0.07" errorplus="0.08">0.86</radius>
-		<temperature errorminus="118.7" errorplus="123.7">5493.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.16">-0.11</metallicity>
+		<magV>15.591</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.318</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.910</magH>
+		<magK errorminus="0.049" errorplus="0.049">13.828</magK>
+		<temperature errorminus="118.74" errorplus="123.67">5493.00</temperature>
+		<age errorminus="2.730" errorplus="5.680">4.370</age>
+		<metallicity errorminus="0.194" errorplus="0.161">-0.110</metallicity>
 		<planet>
 			<name>Kepler-684 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.027" errorplus="0.027">0.300</radius>
-			<period errorminus="0.000008860" errorplus="0.000008860">6.770302010</period>
+			<period errorminus="0.00000886" errorplus="0.00000886">6.77030201</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001030" errorplus="0.001030" unit="JD">2455003.576970</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1360</name>
-	<rightascension>20 01 23</rightascension>
-	<declination>+45 37 24</declination>
+	<rightascension>20 01 22</rightascension>
+	<declination>+45 37 23</declination>
+	<distance errorminus="320.13" errorplus="468.74">1405.00</distance>
 	<star>
 		<name>Kepler-1360</name>
 		<mass errorminus="0.21" errorplus="0.23">1.51</mass>
 		<radius errorminus="0.41" errorplus="0.63">1.83</radius>
-		<temperature errorminus="343.5" errorplus="324.3">6778.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.06</metallicity>
+		<magV>13.913</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.854</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.636</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.547</magK>
+		<temperature errorminus="343.47" errorplus="324.31">6778.00</temperature>
+		<age errorminus="0.300" errorplus="0.674">1.550</age>
+		<metallicity errorminus="0.160" errorplus="0.141">0.060</metallicity>
 		<planet>
 			<name>Kepler-1360 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.068" errorplus="0.104">0.303</radius>
-			<period errorminus="0.000332800" errorplus="0.000332800">40.528641300</period>
+			<period errorminus="0.00033280" errorplus="0.00033280">40.52864130</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006510" errorplus="0.006510" unit="JD">2455001.028810</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

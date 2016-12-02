@@ -1,0 +1,26 @@
+<system>
+	<name>WISE 1217+16 A</name>
+	<declination>+16 26 40</declination>
+	<star>
+		<name>WISE 1217+16 A</name>
+		<mass errorminus="0.005" errorplus="0.005">0.03</mass>
+		<radius errorminus="0.004" errorplus="0.004">0.091</radius>
+		<magV>19.0</magV>
+		<magJ>18.0</magJ>
+		<temperature errorminus="25.0" errorplus="25.0">575.0</temperature>
+		<age errorminus="2.0" errorplus="2.0">6.0</age>
+		<spectraltype>T8.5</spectraltype>
+		<planet>
+			<name>WISE 1217+16A b</name>
+			<name>WISE J1217+1626B</name>
+			<name>WISEPC J121756.91+162640.2B</name>
+			<mass errorminus="2.0" errorplus="2.0">22.0</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.96</radius>
+			<period errorminus="11000.0" errorplus="80000.0">47400.0</period>
+			<semimajoraxis>7.6</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

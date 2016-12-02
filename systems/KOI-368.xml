@@ -1,39 +1,40 @@
 <system>
 	<name>KOI-368</name>
 	<rightascension>19 23 25</rightascension>
-	<declination>+42 05 12</declination>
+	<declination>+42 05 13</declination>
 	<distance errorminus="0.1" errorplus="0.1">1200</distance>
 	<star>
 		<name>KOI-368</name>
 		<name>KIC 6693943</name>
-		<mass errorminus="0.1" errorplus="0.1">2.3</mass>
-		<radius errorminus="0.1" errorplus="0.1">2.5</radius>
-		<magV errorminus="0.06" errorplus="0.06">11.02</magV>
+		<mass errorminus="0.57" errorplus="0.57">2.17</mass>
+		<radius errorminus="1.124" errorplus="1.124">2.043</radius>
+		<magV errorminus="0.06" errorplus="0.06">11.3</magV>
 		<magB errorminus="0.05" errorplus="0.05">11.30</magB>
 		<magJ errorminus="0.023" errorplus="0.023">11.109</magJ>
 		<magH errorminus="0.019" errorplus="0.019">11.089</magH>
 		<magK errorminus="0.011" errorplus="0.011">11.081</magK>
-		<temperature errorminus="200.00" errorplus="200.00">9257.00</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">9257.0</temperature>
 		<age errorminus="0.07" errorplus="0.07">0.25</age>
-		<metallicity errorminus="0.1" errorplus="0.1">0.4</metallicity>
+		<metallicity errorminus="0.14" errorplus="0.14">0.07</metallicity>
+		<spectraltype>F6</spectraltype>
 		<planet>
 			<name>KOI-368.01</name>
 			<name>KOI-368 B</name>
 			<name>KIC 6693943 B</name>
 			<list>Controversial</list>
-			<radius errorminus="0.2" errorplus="0.2">2.1</radius>
-			<period errorminus="0.000006" errorplus="0.000003">110.321611</period>
-			<semimajoraxis errorminus="0.2" errorplus="0.2">0.6</semimajoraxis>
+			<radius errorminus="0.02" errorplus="0.02">1.83</radius>
+			<period errorminus="5e-05" errorplus="5e-05">110.3216</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">0.581</semimajoraxis>
 			<eccentricity errorminus="0.07" errorplus="0.18">0.07</eccentricity>
 			<spinorbitalignment errorminus="2" errorplus="2">10</spinorbitalignment>
-			<inclination errorminus="0.007" errorplus="0.003">89.215</inclination>
-			<temperature errorminus="50" errorplus="50">3060</temperature>
+			<inclination errorminus="0.013" errorplus="0.013">89.221</inclination>
+			<temperature errorminus="50" errorplus="50">754.0</temperature>
 			<description>KOI-368.01 was flagged by the Kepler team as a planet candidate. The secondary eclipse measurement by Zhou and Huang (2013) indicates that this object has a temperature consistent with it being an M-dwarf star. Contrary to the Zhou and Huang result, Ahlers et al. (2014) find that the orbit is likely well-aligned with the stellar equator.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00001" errorplus="0.00001">24541030.36451</transittime>
+			<transittime errorminus="0.00046" errorplus="0.00046">2454987.0434028</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/07/10</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,0 +1,26 @@
+<system>
+	<name>K2-92</name>
+	<rightascension>04 00 16</rightascension>
+	<declination>+25 28 48</declination>
+	<star>
+		<name>K2-92</name>
+		<mass errorminus="0.04" errorplus="0.04">1.04</mass>
+		<radius errorminus="0.12" errorplus="0.12">1.38</radius>
+		<magV errorminus="0.070" errorplus="0.070">12.490</magV>
+		<magB errorminus="0.070" errorplus="0.070">13.358</magB>
+		<magJ errorminus="0.020" errorplus="0.020">10.666</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.325</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.237</magK>
+		<temperature errorminus="50.00" errorplus="50.00">6098.00</temperature>
+		<planet>
+			<name>K2-92 b</name>
+			<radius errorminus="0.027" errorplus="0.027">0.228</radius>
+			<period errorminus="0.00007100" errorplus="0.00007100">0.70181800</period>
+			<semimajoraxis errorminus="0.000200" errorplus="0.000200">0.015660</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002700" errorplus="0.002700" unit="BJD_TDB">2457065.580700</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

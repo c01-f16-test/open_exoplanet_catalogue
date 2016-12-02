@@ -9,12 +9,14 @@
 		<name>Kepler-363</name>
 		<name>KOI-2148</name>
 		<name>KIC 6021193</name>
-		<mass errorminus="0.1300" errorplus="0.1300">1.0700</mass>
-		<radius errorminus=".231" errorplus="0.231">1.485</radius>
+		<mass errorminus="0.1300" errorplus="0.1300">1.23</mass>
+		<radius errorminus="0.23" errorplus="0.23">1.49</radius>
+		<magV>13.353</magV>
 		<magJ errorminus="0.024" errorplus="0.024">12.111</magJ>
 		<magH errorminus="0.028" errorplus="0.028">11.755</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.697</magK>
-		<temperature errorminus="100" errorplus="100">5593</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5593.00</temperature>
+		<metallicity>0.299</metallicity>
 		<planet>
 			<name>Kepler-363 d</name>
 			<name>KOI-2148 d</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6021193 d</name>
 			<name>KIC 6021193.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.03645">0.18682</radius>
-			<period errorminus=".000093" errorplus="0.000093">11.932125</period>
+			<radius errorminus="0.036" errorplus="0.036">0.183</radius>
+			<period errorminus="0.00009300" errorplus="0.00009300">11.93212500</period>
+			<semimajoraxis>0.107000</semimajoraxis>
 			<description>Kepler-363 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0044300" errorplus="0.0044300">2454975.1053200</transittime>
+			<transittime errorminus=".004430" errorplus="0.004430" unit="BJD">2454975.105320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6021193 c</name>
 			<name>KIC 6021193.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02461" errorplus="0.02461">0.15401</radius>
-			<period errorminus=".000058" errorplus="0.000058">7.542427</period>
+			<radius errorminus="0.024" errorplus="0.024">0.151</radius>
+			<period errorminus="0.00005800" errorplus="0.00005800">7.54242700</period>
+			<semimajoraxis>0.079000</semimajoraxis>
 			<description>Kepler-363 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0049200" errorplus="0.0049200">2454965.9542200</transittime>
+			<transittime errorminus=".004920" errorplus="0.004920" unit="BJD">2454965.954220</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6021193 b</name>
 			<name>KIC 6021193.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01731" errorplus="0.01731">0.10571</radius>
-			<period errorminus=".000053" errorplus="0.000053">3.614568</period>
+			<radius errorminus="0.017" errorplus="0.017">0.103</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">3.61456800</period>
+			<semimajoraxis>0.048000</semimajoraxis>
 			<description>Kepler-363 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0085200" errorplus="0.0085200">2454967.6965600</transittime>
+			<transittime errorminus=".008520" errorplus="0.008520" unit="BJD">2454967.696560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

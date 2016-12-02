@@ -1,0 +1,73 @@
+<system>
+	<name>KIC 8552719</name>
+	<name>Kepler-953</name>
+	<rightascension>19 15 53</rightascension>
+	<declination>+44 37 28</declination>
+	<distance errorminus="17.50" errorplus="20.99">240.00</distance>
+	<star>
+		<name>Kepler-953</name>
+		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
+		<radius errorminus="0.07" errorplus="0.09">0.99</radius>
+		<magV>12.160</magV>
+		<magJ errorminus="0.028" errorplus="0.028">10.770</magJ>
+		<magH errorminus="0.022" errorplus="0.022">10.395</magH>
+		<magK errorminus="0.016" errorplus="0.016">10.295</magK>
+		<temperature errorminus="45.57" errorplus="40.78">5416.00</temperature>
+		<age errorminus="4.950" errorplus="3.260">8.710</age>
+		<metallicity errorminus="0.065" errorplus="0.068">0.260</metallicity>
+		<planet>
+			<name>Kepler-953 b</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.029" errorplus="0.033">0.376</radius>
+			<period errorminus="0.00008306" errorplus="0.00008306">88.40655258</period>
+			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000726" errorplus="0.000726" unit="JD">2455009.275572</transittime>
+			<istransiting>1</istransiting>
+			<new>1</new>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-953 c</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.008" errorplus="0.010">0.106</radius>
+			<period errorminus="0.00002528" errorplus="0.00002528">9.10967112</period>
+			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002360" errorplus="0.002360" unit="JD">2454966.067240</transittime>
+			<istransiting>1</istransiting>
+			<new>1</new>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>KIC 8552719</name>
+		<mass>0.94</mass>
+		<radius>0.822</radius>
+		<temperature>5114.0</temperature>
+		<metallicity>0.015</metallicity>
+		<planet>
+			<name>Kepler-953 b</name>
+			<name>KIC 8552719 b</name>
+			<radius>0.315</radius>
+			<period>88.4075</period>
+			<semimajoraxis>0.19757</semimajoraxis>
+			<inclination>89.53</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime>2455009.27199</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-953 c</name>
+			<name>KIC 8552719 c</name>
+			<radius errorminus="0.008" errorplus="0.01">0.106</radius>
+			<period errorminus="2.528e-05" errorplus="2.528e-05">9.10967112</period>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,27 @@
+<system>
+	<name>beta Umi</name>
+	<declination>+74 09 20</declination>
+	<star>
+		<name>beta Umi</name>
+		<mass errorminus="0.2" errorplus="0.2">1.4</mass>
+		<radius>42.06</radius>
+		<magV>2.08</magV>
+		<temperature errorminus="25.0" errorplus="25.0">4126.0</temperature>
+		<age>2.95</age>
+		<metallicity errorminus="0.07" errorplus="0.07">-0.27</metallicity>
+		<spectraltype>K4III</spectraltype>
+		<planet>
+			<name>beta Umi b</name>
+			<mass errorminus="1.0" errorplus="1.0">6.1</mass>
+			<period errorminus="2.7" errorplus="2.7">522.3</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.4</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.19</eccentricity>
+			<periastron errorminus="2.8" errorplus="2.8">307.4</periastron>
+			<periastrontime errorminus="4.6" errorplus="4.6">2453175.3</periastrontime>
+			<maximumrvtime errorminus="4.6" errorplus="4.6">2453175.3</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

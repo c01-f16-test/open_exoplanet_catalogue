@@ -9,12 +9,14 @@
 		<name>Kepler-291</name>
 		<name>KOI-1363</name>
 		<name>KIC 6936909</name>
-		<mass errorminus="0.1000" errorplus="0.1000">1.0100</mass>
-		<radius errorminus=".441" errorplus="0.441">1.016</radius>
-		<magJ errorminus="0.03" errorplus="0.03">14.69</magJ>
-		<magH errorminus="0.04" errorplus="0.04">14.34</magH>
-		<magK errorminus="0.06" errorplus="0.06">14.15</magK>
-		<temperature errorminus="200" errorplus="200">6002</temperature>
+		<mass errorminus="0.1000" errorplus="0.1000">1.03</mass>
+		<radius errorminus="0.44" errorplus="0.44">1.02</radius>
+		<magV>15.934</magV>
+		<magJ errorminus="0.033" errorplus="0.033">14.688</magJ>
+		<magH errorminus="0.036" errorplus="0.036">14.337</magH>
+		<magK errorminus="0.058" errorplus="0.058">14.150</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6002.00</temperature>
+		<metallicity>0.070</metallicity>
 		<planet>
 			<name>Kepler-291 b</name>
 			<name>KOI-1363 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6936909 b</name>
 			<name>KIC 6936909.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08566" errorplus="0.08566">0.19684</radius>
-			<period errorminus=".000016" errorplus="0.000016">3.546511</period>
+			<radius errorminus="0.084" errorplus="0.084">0.193</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">3.54651100</period>
+			<semimajoraxis>0.047000</semimajoraxis>
 			<description>Kepler-291 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-291 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0027400" errorplus="0.0027400">2454967.9011200</transittime>
+			<transittime errorminus=".002740" errorplus="0.002740" unit="BJD">2454967.901120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6936909 c</name>
 			<name>KIC 6936909.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07473" errorplus="0.07473">0.17132</radius>
-			<period errorminus=".000055" errorplus="0.000055">5.700786</period>
+			<radius errorminus="0.073" errorplus="0.073">0.168</radius>
+			<period errorminus="0.00005500" errorplus="0.00005500">5.70078600</period>
+			<semimajoraxis>0.065000</semimajoraxis>
 			<description>Kepler-291 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-291 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0048300" errorplus="0.0048300">2454965.6867400</transittime>
+			<transittime errorminus=".004830" errorplus="0.004830" unit="BJD">2454965.686740</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

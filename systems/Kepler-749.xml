@@ -2,22 +2,29 @@
 	<name>Kepler-749</name>
 	<rightascension>19 59 35</rightascension>
 	<declination>+43 54 14</declination>
+	<distance errorminus="61.74" errorplus="66.39">753.00</distance>
 	<star>
 		<name>Kepler-749</name>
 		<mass errorminus="0.05" errorplus="0.06">0.79</mass>
 		<radius errorminus="0.06" errorplus="0.06">0.75</radius>
-		<temperature errorminus="165.4" errorplus="218.0">5009.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.17">-0.11</metallicity>
+		<magV>15.759</magV>
+		<magJ errorminus="0.027" errorplus="0.027">14.169</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.629</magH>
+		<magK errorminus="0.030" errorplus="0.030">13.515</magK>
+		<temperature errorminus="165.40" errorplus="218.03">5009.00</temperature>
+		<age errorminus="2.810" errorplus="5.920">4.570</age>
+		<metallicity errorminus="0.190" errorplus="0.167">-0.110</metallicity>
 		<planet>
 			<name>Kepler-749 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.021">0.277</radius>
-			<period errorminus="0.000046020" errorplus="0.000046020">17.317165850</period>
+			<period errorminus="0.00004602" errorplus="0.00004602">17.31716585</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002000" errorplus="0.002000" unit="JD">2454975.357790</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

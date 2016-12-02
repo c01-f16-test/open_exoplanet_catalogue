@@ -1,0 +1,60 @@
+<system>
+	<name>GJ 3634</name>
+	<name>Gliese 3634</name>
+	<rightascension>10 58 35</rightascension>
+	<declination>-31 08 38</declination>
+	<distance errorminus="0.60" errorplus="0.60">19.80</distance>
+	<star>
+		<name>Gliese 3634</name>
+		<mass>0.45</mass>
+		<radius>0.43</radius>
+		<magV>11.95</magV>
+		<magB>14.4</magB>
+		<magJ errorminus="0.023" errorplus="0.023">8.361</magJ>
+		<magH errorminus="0.05" errorplus="0.05">7.76</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.470</magK>
+		<temperature>3314.0</temperature>
+		<spectraltype>M2.5</spectraltype>
+		<planet>
+			<name>Gliese 3634 b</name>
+			<name>GJ 3634 b</name>
+			<name>Gj 3634 b</name>
+			<name>Gl 3634 b</name>
+			<list>Confirmed planets</list>
+			<mass>0.022</mass>
+			<period>2.64561</period>
+			<semimajoraxis>0.0287</semimajoraxis>
+			<eccentricity>0.08</eccentricity>
+			<inclination>59</inclination>
+			<temperature>565.4</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>GJ 3634</name>
+		<mass errorminus="0.05" errorplus="0.05">0.45</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.43</radius>
+		<magV errorminus="0.010" errorplus="0.010">11.930</magV>
+		<magJ errorminus="0.023" errorplus="0.023">8.361</magJ>
+		<magH errorminus="0.049" errorplus="0.049">7.762</magH>
+		<magK errorminus="0.027" errorplus="0.027">7.470</magK>
+		<age>5.000</age>
+		<spectraltype>M2.5</spectraltype>
+		<planet>
+			<name>GJ 3634 b</name>
+			<mass errorminus="0.00500" errorplus="0.01300" type="Mass">0.02600</mass>
+			<period errorminus="0.00066000" errorplus="0.00066000">2.64561000</period>
+			<semimajoraxis errorminus="0.001100" errorplus="0.001000">0.028700</semimajoraxis>
+			<eccentricity errorminus="0.057000" errorplus="0.094000">0.080000</eccentricity>
+			<periastron errorminus="130.0000" errorplus="52.0000">84.0000</periastron>
+			<periastrontime errorminus="0.520000" errorplus="0.820000">2454917.040000</periastrontime>
+			<maximumrvtime errorminus="0.520000" errorplus="0.820000">2454917.040000</maximumrvtime>
+			<inclination errorminus="24.000" errorplus="18.000">59.000</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

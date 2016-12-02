@@ -1,37 +1,38 @@
 <system>
 	<name>WASP-106</name>
 	<rightascension>11 05 43</rightascension>
-	<declination>-05 04 46</declination>
-	<distance errorminus="21" errorplus="21">283</distance>
+	<declination>-05 04 45</declination>
+	<distance errorminus="21.00" errorplus="21.00">283.00</distance>
 	<star>
 		<name>WASP-106</name>
 		<name>TYC 4927-1063-1</name>
-		<mass errorminus="0.054" errorplus="0.054">1.192</mass>
-		<radius errorminus="0.028" errorplus="0.048">1.393</radius>
-		<magV errorminus="0.11" errorplus="0.11">11.21</magV>
+		<mass errorminus="0.05" errorplus="0.05">1.19</mass>
+		<radius errorminus="0.03" errorplus="0.05">1.39</radius>
+		<magV errorminus="0.110" errorplus="0.110">11.210</magV>
 		<magB errorminus="0.19" errorplus="0.19">12.04</magB>
-		<magJ errorminus="0.024" errorplus="0.024">10.472</magJ>
-		<magH errorminus="0.023" errorplus="0.023">10.234</magH>
-		<magK errorminus="0.027" errorplus="0.027">10.161</magK>
-		<temperature errorminus="136" errorplus="136">6055</temperature>
-		<age errorminus="2" errorplus="2">7</age>
-		<metallicity errorminus="0.09" errorplus="0.09">-0.09</metallicity>
+		<magJ errorminus="0.021" errorplus="0.021">10.472</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.234</magH>
+		<magK errorminus="0.025" errorplus="0.025">10.161</magK>
+		<temperature errorminus="136.00" errorplus="136.00">6055.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">7.000</age>
+		<metallicity errorminus="0.090" errorplus="0.090">-0.090</metallicity>
 		<spectraltype>F9</spectraltype>
 		<planet>
 			<name>WASP-106 b</name>
 			<name>TYC 4927-1063-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.076" errorplus="0.076">1.925</mass>
+			<mass errorminus="0.07600" errorplus="0.07600" type="Mass">1.92500</mass>
 			<radius errorminus="0.028" errorplus="0.046">1.085</radius>
-			<period errorminus="0.000010" errorplus="0.000010">9.289715</period>
-			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0917</semimajoraxis>
-			<inclination errorminus="0.64" errorplus="0.35">89.49</inclination>
+			<period errorminus="0.00001000" errorplus="0.00001000">9.28971500</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.091700</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.13">0.000000</eccentricity>
+			<inclination errorminus="0.640" errorplus="0.350">89.490</inclination>
 			<temperature errorminus="29" errorplus="29">1140</temperature>
 			<description>The transiting exoplanet WASP-106 b is just slightly larger than Jupiter. The orbital solution is consistent with zero eccentricity, which is interesting because many other similar planets are known to have eccentric orbits. The planet was discovered by the WASP survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00033" errorplus="0.00033">2456649.54972</transittime>
+			<transittime errorminus=".000330" errorplus="0.000330" unit="HJD-UTC">2456649.549720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/08/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

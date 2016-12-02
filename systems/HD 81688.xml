@@ -1,8 +1,8 @@
 <system>
 	<name>HD 81688</name>
-	<rightascension>09 28 39.98840</rightascension>
-	<declination>+45 36 05.3344</declination>
-	<distance errorminus="2.9" errorplus="2.9">85.8</distance>
+	<rightascension>09 28 39</rightascension>
+	<declination>+45 36 05</declination>
+	<distance errorminus="7.07" errorplus="6.09">88.26</distance>
 	<star>
 		<name>HD 81688</name>
 		<name>HIP 46471</name>
@@ -10,25 +10,29 @@
 		<name>SAO 42876</name>
 		<name>HR 3743</name>
 		<name>BD+46 1509</name>
-		<mass>2.1</mass>
-		<radius>13</radius>
-		<magV>5.413</magV>
-		<magB>6.396</magB>
-		<temperature errorminus="15" errorplus="15">4753</temperature>
+		<mass>2.10</mass>
+		<radius>13.00</radius>
+		<magV errorminus="0.009" errorplus="0.009">5.393</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.388</magB>
+		<magJ errorminus="0.294" errorplus="0.294">3.799</magJ>
+		<magH errorminus="0.218" errorplus="0.218">3.269</magH>
+		<magK errorminus="0.352" errorplus="0.352">3.056</magK>
+		<temperature errorminus="15.00" errorplus="15.00">4753.00</temperature>
 		<metallicity errorminus="0.020" errorplus="0.020">-0.359</metallicity>
-		<spectraltype>K0III-IV</spectraltype>
+		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HD 81688 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">2.7</mass>
-			<period errorminus="0.18" errorplus="0.18">184.02</period>
-			<semimajoraxis>0.81</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
-			<periastrontime errorminus="1.1" errorplus="1.1">2452335.4</periastrontime>
+			<mass errorminus="0.2" errorplus="0.3" type="Msini">2.70000</mass>
+			<period errorminus="0.18000000" errorplus="0.18000000">184.02000000</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">0.810000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="1.100000" errorplus="1.100000">2452335.400000</periastrontime>
+			<maximumrvtime errorminus="1.100000" errorplus="1.100000">2452335.400000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/23</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,35 +2,37 @@
 	<name>HAT-P-28</name>
 	<rightascension>00 52 00</rightascension>
 	<declination>+34 43 42</declination>
-	<distance>395</distance>
+	<distance errorminus="26.00" errorplus="34.00">395.00</distance>
 	<star>
 		<name>HAT-P-28</name>
-		<mass>1.025</mass>
-		<radius>1.103</radius>
-		<magV>13.03</magV>
+		<mass errorminus="0.05" errorplus="0.05">1.02</mass>
+		<radius errorminus="0.07" errorplus="0.09">1.10</radius>
+		<magV>13.030</magV>
 		<magB>13.4</magB>
 		<magR errorminus="0.13" errorplus="0.13">13.24</magR>
 		<magJ errorminus="0.020" errorplus="0.020">11.561</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.206</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.104</magK>
-		<temperature>5680.0</temperature>
-		<metallicity>0.12</metallicity>
+		<temperature errorminus="90.00" errorplus="90.00">5680.00</temperature>
+		<age errorminus="1.900" errorplus="2.600">6.100</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.120</metallicity>
 		<spectraltype>G3</spectraltype>
 		<planet>
 			<name>HAT-P-28 b</name>
 			<name>2MASS J00520018+3443422 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.626</mass>
-			<radius>1.212</radius>
-			<period>3.257215</period>
-			<semimajoraxis>0.0434</semimajoraxis>
-			<eccentricity>0.051</eccentricity>
-			<inclination>88</inclination>
-			<temperature>1262.4</temperature>
+			<mass errorminus="0.03700" errorplus="0.03700" type="Mass">0.62600</mass>
+			<radius errorminus="0.082" errorplus="0.113">1.212</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">3.25721500</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.043400</semimajoraxis>
+			<eccentricity errorminus="0.033000" errorplus="0.033000">0.051000</eccentricity>
+			<periastron errorminus="90.0000" errorplus="90.0000">233.0000</periastron>
+			<inclination errorminus="0.900" errorplus="0.900">88.000</inclination>
+			<temperature errorminus="52" errorplus="52">1384</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00053" errorplus="0.00053" unit="BJD">2455417.59832</transittime>
+			<transittime errorminus=".000530" errorplus="0.000530" unit="BJD-UTC">2455417.598320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/03/09</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,20 @@
+<system>
+	<name>OGLE-2015-BLG-0051</name>
+	<declination>-28 01 54</declination>
+	<star>
+		<name>OGLE-2015-BLG-0051</name>
+		<name>KMT-2015-BLG-0048</name>
+		<mass errorminus="0.01" errorplus="0.09">0.1</mass>
+		<magV>16.4</magV>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>OGLE-2015-BLG-0051L b</name>
+			<name>KMT-2015-BLG-0048Lb</name>
+			<mass errorminus="0.07" errorplus="0.65">0.72</mass>
+			<semimajoraxis errorminus="0.08" errorplus="0.08">0.73</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

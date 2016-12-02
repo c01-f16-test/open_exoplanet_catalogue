@@ -10,11 +10,13 @@
 		<name>KOI-1413</name>
 		<name>KIC 9006449</name>
 		<mass errorminus="0.0520" errorplus="0.0520">0.8850</mass>
-		<radius errorminus=".473" errorplus="0.473">0.898</radius>
+		<radius errorminus="0.47" errorplus="0.47">0.90</radius>
+		<magV>14.447</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.145</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.763</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.717</magK>
-		<temperature errorminus="200" errorplus="200">5603</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5603.00</temperature>
+		<metallicity>-0.332</metallicity>
 		<planet>
 			<name>Kepler-295 b</name>
 			<name>KOI-1413 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9006449 b</name>
 			<name>KIC 9006449.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05832" errorplus="0.05832">0.11118</radius>
-			<period errorminus=".000181" errorplus="0.000181">12.645164</period>
+			<radius errorminus="0.057" errorplus="0.057">0.109</radius>
+			<period errorminus="0.00018100" errorplus="0.00018100">12.64516400</period>
+			<semimajoraxis>0.099000</semimajoraxis>
 			<description>Kepler-295 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-295 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0081200" errorplus="0.0081200">2454971.6253600</transittime>
+			<transittime errorminus=".008120" errorplus="0.008120" unit="BJD">2454971.625360</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9006449 c</name>
 			<name>KIC 9006449.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05650" errorplus="0.05650">0.10662</radius>
-			<period errorminus=".000336" errorplus="0.000336">21.526258</period>
+			<radius errorminus="0.055" errorplus="0.055">0.104</radius>
+			<period errorminus="0.00033600" errorplus="0.00033600">21.52625800</period>
+			<semimajoraxis>0.142000</semimajoraxis>
 			<description>Kepler-295 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-295 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0096000" errorplus="0.0096000">2454965.2872000</transittime>
+			<transittime errorminus=".009600" errorplus="0.009600" unit="BJD">2454965.287200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 9006449 d</name>
 			<name>KIC 9006449.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06561" errorplus="0.06561">0.12394</radius>
-			<period errorminus=".000685" errorplus="0.000685">33.884054</period>
+			<radius errorminus="0.064" errorplus="0.064">0.121</radius>
+			<period errorminus="0.00068500" errorplus="0.00068500">33.88405400</period>
+			<semimajoraxis>0.192000</semimajoraxis>
 			<description>Kepler-295 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-295 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0091900" errorplus="0.0091900">2454993.0062500</transittime>
+			<transittime errorminus=".009190" errorplus="0.009190" unit="BJD">2454993.006250</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

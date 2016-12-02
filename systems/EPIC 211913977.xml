@@ -1,0 +1,23 @@
+<system>
+	<name>EPIC 211913977</name>
+	<declination>+18 56 01</declination>
+	<star>
+		<name>EPIC 211913977</name>
+		<mass errorminus="0.06" errorplus="0.06">0.8</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.73</radius>
+		<magJ>11.16</magJ>
+		<temperature errorminus="45.0" errorplus="45.0">4819.0</temperature>
+		<age>0.8</age>
+		<planet>
+			<name>EPIC 211913977 b</name>
+			<radius errorminus="0.0089" errorplus="0.0089">0.18</radius>
+			<period errorminus="0.000804" errorplus="0.000828">14.677286</period>
+			<eccentricity errorminus="0.08" errorplus="0.18">0.1</eccentricity>
+			<inclination errorminus="0.5" errorplus="0.4">89.4</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0023" errorplus="0.00223">2457152.68135</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

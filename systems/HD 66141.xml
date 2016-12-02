@@ -2,36 +2,40 @@
 	<name>HD 66141</name>
 	<name>HIP 39311</name>
 	<name>HR 3145</name>
-	<rightascension>08 02 16</rightascension>
+	<rightascension>08 02 15</rightascension>
 	<declination>+02 20 04</declination>
-	<distance>80.9</distance>
+	<distance errorminus="6.82" errorplus="5.82">80.06</distance>
 	<star>
 		<name>HD 66141</name>
-		<mass>1.1</mass>
-		<radius>22</radius>
-		<magV>4.39</magV>
-		<magB>5.669</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.10</mass>
+		<radius errorminus="0.60" errorplus="0.60">21.40</radius>
+		<magV>4.380</magV>
+		<magB>5.630</magB>
 		<magR>3.39</magR>
 		<magI>2.72</magI>
 		<magJ errorminus="0.282" errorplus="0.282">2.199</magJ>
 		<magH errorminus="0.268" errorplus="0.268">1.553</magH>
 		<magK errorminus="0.308" errorplus="0.308">1.447</magK>
-		<temperature>4305</temperature>
-		<metallicity>-0.36</metallicity>
+		<temperature errorminus="15.00" errorplus="15.00">4323.00</temperature>
+		<age errorminus="1.390" errorplus="1.390">6.840</age>
+		<metallicity errorminus="0.034" errorplus="0.034">-0.323</metallicity>
 		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>HD 66141 b</name>
 			<name>HIP 39311 b</name>
 			<name>HR 3145 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.0</mass>
-			<period>480.5</period>
-			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.30000" errorplus="0.30000" type="Msini">6.00000</mass>
+			<period errorminus="0.50000000" errorplus="0.50000000">480.50000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.200000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.070000</eccentricity>
+			<periastron errorminus="3.5000" errorplus="3.5000">22.1000</periastron>
+			<periastrontime errorminus="4.800000" errorplus="4.800000">2451320.800000</periastrontime>
+			<maximumrvtime errorminus="4.800000" errorplus="4.800000">2451320.800000</maximumrvtime>
 			<temperature>801.4</temperature>
 			<description>HD 66141 b is a massive planet orbiting an evolved K giant. The star is approximately as massive as our Sun but more than 20 times larger. It has exhausted its hydrogen supply and has begun fusing helium into oxygen and carbon in its core.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

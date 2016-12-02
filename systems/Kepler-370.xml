@@ -9,11 +9,14 @@
 		<name>Kepler-370</name>
 		<name>KOI-2183</name>
 		<name>KIC 5706595</name>
-		<radius errorminus=".416" errorplus="0.416">0.900</radius>
+		<mass>0.94</mass>
+		<radius errorminus="0.42" errorplus="0.42">0.90</radius>
+		<magV>15.198</magV>
 		<magJ errorminus="0.026" errorplus="0.026">13.977</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.65</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.55</magK>
-		<temperature errorminus="200" errorplus="200">5852</temperature>
+		<magH errorminus="0.031" errorplus="0.031">13.650</magH>
+		<magK errorminus="0.048" errorplus="0.048">13.550</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5852.00</temperature>
+		<metallicity>-0.124</metallicity>
 		<planet>
 			<name>Kepler-370 c</name>
 			<name>KOI-2183 c</name>
@@ -21,13 +24,14 @@
 			<name>KIC 5706595 c</name>
 			<name>KIC 5706595.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08111" errorplus="0.08111">0.17406</radius>
-			<period errorminus=".000177" errorplus="0.000177">19.022930</period>
+			<radius errorminus="0.079" errorplus="0.079">0.170</radius>
+			<period errorminus="0.00017700" errorplus="0.00017700">19.02293000</period>
+			<semimajoraxis>0.140000</semimajoraxis>
 			<description>Kepler-370 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-370 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0054000" errorplus="0.0054000">2454972.6616100</transittime>
+			<transittime errorminus=".005400" errorplus="0.005400" unit="BJD">2454972.661610</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +41,14 @@
 			<name>KIC 5706595 b</name>
 			<name>KIC 5706595.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07108" errorplus="0.07108">0.14490</radius>
-			<period errorminus=".000041" errorplus="0.000041">4.579530</period>
+			<radius errorminus="0.070" errorplus="0.070">0.142</radius>
+			<period errorminus="0.00004100" errorplus="0.00004100">4.57953000</period>
+			<semimajoraxis>0.054000</semimajoraxis>
 			<description>Kepler-370 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-370 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0056400" errorplus="0.0056400">2454968.0972800</transittime>
+			<transittime errorminus=".005640" errorplus="0.005640" unit="BJD">2454968.097280</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -9,11 +9,13 @@
 		<name>Kepler-402</name>
 		<name>KOI-2722</name>
 		<name>KIC 7673192</name>
-		<radius errorminus=".244" errorplus="0.244">1.264</radius>
+		<radius errorminus="0.24" errorplus="0.24">1.26</radius>
+		<magV>13.268</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.303</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.082</magH>
 		<magK errorminus="0.018" errorplus="0.018">11.993</magK>
-		<temperature errorminus="20" errorplus="120">6090</temperature>
+		<temperature errorminus="120.00" errorplus="120.00">6090.00</temperature>
+		<metallicity>-0.220</metallicity>
 		<planet>
 			<name>Kepler-402 c</name>
 			<name>KOI-2722 c</name>
@@ -21,13 +23,14 @@
 			<name>KIC 7673192 c</name>
 			<name>KIC 7673192.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03190" errorplus="0.03190">0.14216</radius>
-			<period errorminus=".000026" errorplus="0.000026">6.124821</period>
+			<radius errorminus="0.031" errorplus="0.031">0.139</radius>
+			<period errorminus="0.00002600" errorplus="0.00002600">6.12482100</period>
+			<semimajoraxis>0.068000</semimajoraxis>
 			<description>Kepler-402 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-402 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0028500" errorplus="0.0028500">2454967.9360000</transittime>
+			<transittime errorminus=".002850" errorplus="0.002850" unit="BJD">2454967.936000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,13 +40,14 @@
 			<name>KIC 7673192 e</name>
 			<name>KIC 7673192.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02643" errorplus="0.02643">0.13305</radius>
-			<period errorminus=".000059" errorplus="0.000059">11.242861</period>
+			<radius errorminus="0.026" errorplus="0.026">0.130</radius>
+			<period errorminus="0.00005900" errorplus="0.00005900">11.24286100</period>
+			<semimajoraxis>0.102000</semimajoraxis>
 			<description>Kepler-402 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-402 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0035500" errorplus="0.0035500">2454969.3165500</transittime>
+			<transittime errorminus=".003550" errorplus="0.003550" unit="BJD">2454969.316550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -53,13 +57,14 @@
 			<name>KIC 7673192 b</name>
 			<name>KIC 7673192.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02187" errorplus="0.02187">0.11118</radius>
-			<period errorminus=".000019" errorplus="0.000019">4.028751</period>
+			<radius errorminus="0.021" errorplus="0.021">0.109</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">4.02875100</period>
+			<semimajoraxis>0.051000</semimajoraxis>
 			<description>Kepler-402 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-402 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0031000" errorplus="0.0031000">2454966.7690200</transittime>
+			<transittime errorminus=".003100" errorplus="0.003100" unit="BJD">2454966.769020</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -69,13 +74,14 @@
 			<name>KIC 7673192 d</name>
 			<name>KIC 7673192.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02461" errorplus="0.02461">0.12576</radius>
-			<period errorminus=".000056" errorplus="0.000056">8.921099</period>
+			<radius errorminus="0.024" errorplus="0.024">0.123</radius>
+			<period errorminus="0.00005600" errorplus="0.00005600">8.92109900</period>
+			<semimajoraxis>0.087000</semimajoraxis>
 			<description>Kepler-402 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-402 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042300" errorplus="0.0042300">2454970.4909500</transittime>
+			<transittime errorminus=".004230" errorplus="0.004230" unit="BJD">2454970.490950</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

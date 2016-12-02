@@ -1,9 +1,9 @@
 <system>
 	<name>mu Leo</name>
 	<name>HD 85503</name>
-	<rightascension>09 52 45.81654</rightascension>
-	<declination>+26 00 25.0319</declination>
-	<distance errorminus="0.23" errorplus="0.23">38.05</distance>
+	<rightascension>09 52 45</rightascension>
+	<declination>+26 00 25</declination>
+	<distance errorminus="1.50" errorplus="1.40">40.78</distance>
 	<star>
 		<name>mu Leo</name>
 		<name>HD 85503</name>
@@ -21,19 +21,19 @@
 		<name>HR 3905</name>
 		<name>BD+26 2019</name>
 		<name>2MASS J09524585+2600248</name>
-		<mass errorminus="0.1" errorplus="0.1">1.5</mass>
-		<radius errorminus="0.2" errorplus="0.2">11.4</radius>
-		<magV>3.88</magV>
-		<magB>5.10</magB>
+		<mass errorminus="0.10" errorplus="0.10">1.50</mass>
+		<radius errorminus="0.20" errorplus="0.20">11.40</radius>
+		<magV>3.880</magV>
+		<magB>5.100</magB>
 		<magR>2.97</magR>
 		<magI>2.39</magI>
-		<magJ>1.93</magJ>
+		<magJ errorminus="0.238" errorplus="0.238">1.974</magJ>
 		<magH errorminus="0.174" errorplus="0.174">1.327</magH>
-		<magK>1.22</magK>
-		<temperature errorminus="27.5" errorplus="27.5">4538.2</temperature>
-		<age errorminus="0.7" errorplus="0.7">3.35</age>
-		<metallicity errorminus="0.05" errorplus="0.05">0.36</metallicity>
-		<spectraltype>K2III</spectraltype>
+		<magK errorminus="0.224" errorplus="0.224">1.364</magK>
+		<temperature errorminus="27.50" errorplus="27.50">4538.20</temperature>
+		<age errorminus="0.700" errorplus="0.700">3.350</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.360</metallicity>
+		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>mu Leo b</name>
 			<name>HD 85503 b</name>
@@ -41,15 +41,16 @@
 			<name>Rasalas b</name>
 			<name>Alshemali b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.4" errorplus="0.4" type="msini">2.4</mass>
-			<period errorminus="1.2" errorplus="1.2">357.8</period>
-			<semimajoraxis errorminus="0.1" errorplus="0.1">1.1</semimajoraxis>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.09</eccentricity>
-			<periastron errorminus="16" errorplus="16">227.1</periastron>
-			<periastrontime errorminus="17.3" errorplus="17.3">2452921.0</periastrontime>
+			<mass errorminus="0.40000" errorplus="0.40000" type="Msini">2.40000</mass>
+			<period errorminus="1.20000000" errorplus="1.20000000">357.80000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.100000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.090000</eccentricity>
+			<periastron errorminus="16.0000" errorplus="16.0000">227.1000</periastron>
+			<periastrontime errorminus="17.300000" errorplus="17.300000">2452921.000000</periastrontime>
+			<maximumrvtime errorminus="17.300000" errorplus="17.300000">2452921.000000</maximumrvtime>
 			<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

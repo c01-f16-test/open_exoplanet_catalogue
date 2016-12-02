@@ -1,32 +1,36 @@
 <system>
 	<name>HD 180902</name>
-	<rightascension>19 19 18</rightascension>
+	<rightascension>19 19 17</rightascension>
 	<declination>-23 33 29</declination>
-	<distance>110</distance>
+	<distance errorminus="14.82" errorplus="11.77">114.55</distance>
 	<star>
 		<name>HD 180902</name>
-		<mass>1.52</mass>
-		<radius>4.1</radius>
-		<magV>7.78</magV>
-		<magB errorminus="0.019" errorplus="0.019">8.714</magB>
+		<mass errorminus="0.11" errorplus="0.11">1.52</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.10</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.778</magV>
+		<magB errorminus="0.019" errorplus="0.019">8.713</magB>
 		<magI errorminus="0.05" errorplus="0.05">8.87</magI>
 		<magJ errorminus="0.018" errorplus="0.018">6.121</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.670</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.543</magK>
-		<temperature>5030.0</temperature>
-		<metallicity>0.04</metallicity>
-		<spectraltype>K0III/IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5030.00</temperature>
+		<age errorminus="0.700" errorplus="0.700">2.800</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.040</metallicity>
+		<spectraltype>K0 III/IV</spectraltype>
 		<planet>
 			<name>HD 180902 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.6</mass>
-			<period>479</period>
-			<semimajoraxis>1.39</semimajoraxis>
-			<eccentricity>0.09</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000" type="Msini">1.60000</mass>
+			<period errorminus="13.00000000" errorplus="13.00000000">479.00000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">1.390000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.110000">0.090000</eccentricity>
+			<periastron errorminus="100.0000" errorplus="100.0000">300.0000</periastron>
+			<periastrontime errorminus="130.000000" errorplus="130.000000">2454690.000000</periastrontime>
+			<maximumrvtime errorminus="130.000000" errorplus="130.000000">2454690.000000</maximumrvtime>
 			<temperature>380.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -9,12 +9,14 @@
 		<name>Kepler-151</name>
 		<name>KOI-413</name>
 		<name>KIC 5791986</name>
-		<mass errorminus="0.1100" errorplus="0.1100">0.8600</mass>
-		<radius errorminus=".411" errorplus="0.411">0.830</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">0.83</mass>
+		<radius errorminus="0.41" errorplus="0.41">0.83</radius>
+		<magV>14.769</magV>
 		<magJ errorminus="0.023" errorplus="0.023">13.383</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.998</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.86</magK>
-		<temperature errorminus="200" errorplus="200">5460</temperature>
+		<magK errorminus="0.030" errorplus="0.030">12.864</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5460.00</temperature>
+		<metallicity>-0.102</metallicity>
 		<planet>
 			<name>Kepler-151 b</name>
 			<name>KOI-413 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5791986 b</name>
 			<name>KIC 5791986.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04830" errorplus="0.13943">0.27886</radius>
-			<period errorminus=".000030" errorplus="0.000030">15.228958</period>
+			<radius errorminus="0.136" errorplus="0.136">0.273</radius>
+			<period errorminus="0.00003000" errorplus="0.00003000">15.22895800</period>
+			<semimajoraxis>0.116000</semimajoraxis>
 			<description>Kepler-151 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-151 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011000" errorplus="0.0011000">2455009.5597900</transittime>
+			<transittime errorminus=".001100" errorplus="0.001100" unit="BJD">2455009.559790</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5791986 c</name>
 			<name>KIC 5791986.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00365" errorplus="0.09478">0.19046</radius>
-			<period errorminus=".000106" errorplus="0.000106">24.674612</period>
+			<radius errorminus="0.093" errorplus="0.093">0.186</radius>
+			<period errorminus="0.00010600" errorplus="0.00010600">24.67461200</period>
+			<semimajoraxis>0.160000</semimajoraxis>
 			<description>Kepler-151 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-151 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0026000" errorplus="0.0026000">2454979.7707300</transittime>
+			<transittime errorminus=".002600" errorplus="0.002600" unit="BJD">2454979.770730</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1640</name>
-	<rightascension>19 38 14</rightascension>
-	<declination>+40 51 02</declination>
+	<rightascension>19 38 13</rightascension>
+	<declination>+40 51 01</declination>
+	<distance errorminus="209.88" errorplus="610.91">1379.00</distance>
 	<star>
 		<name>Kepler-1640</name>
 		<mass errorminus="0.10" errorplus="0.21">1.27</mass>
 		<radius errorminus="0.21" errorplus="0.65">1.43</radius>
-		<temperature errorminus="142.3" errorplus="102.0">6324.0</temperature>
-		<metallicity errorminus="0.13" errorplus="0.15">0.10</metallicity>
+		<magV>14.624</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.490</magJ>
+		<magH errorminus="0.035" errorplus="0.035">13.263</magH>
+		<magK errorminus="0.036" errorplus="0.036">13.079</magK>
+		<temperature errorminus="142.31" errorplus="102.05">6324.00</temperature>
+		<age errorminus="0.751" errorplus="0.734">2.400</age>
+		<metallicity errorminus="0.132" errorplus="0.152">0.100</metallicity>
 		<planet>
 			<name>Kepler-1640 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.071" errorplus="0.221">0.430</radius>
-			<period errorminus="0.000386600" errorplus="0.000386600">7.584412600</period>
+			<period errorminus="0.00038660" errorplus="0.00038660">7.58441260</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".067300" errorplus="0.067300" unit="JD">2454970.848600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

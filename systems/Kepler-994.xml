@@ -2,22 +2,29 @@
 	<name>Kepler-994</name>
 	<rightascension>19 16 17</rightascension>
 	<declination>+47 24 25</declination>
+	<distance errorminus="9.36" errorplus="9.38">170.00</distance>
 	<star>
 		<name>Kepler-994</name>
 		<mass errorminus="0.03" errorplus="0.03">0.56</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.54</radius>
-		<temperature errorminus="35.1" errorplus="38.9">3934.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.13</metallicity>
+		<magV>14.440</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.264</magJ>
+		<magH errorminus="0.018" errorplus="0.018">11.611</magH>
+		<magK errorminus="0.012" errorplus="0.012">11.453</magK>
+		<temperature errorminus="35.14" errorplus="38.91">3934.00</temperature>
+		<age errorminus="1.640" errorplus="4.300">3.240</age>
+		<metallicity errorminus="0.098" errorplus="0.098">-0.130</metallicity>
 		<planet>
 			<name>Kepler-994 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.006">0.143</radius>
-			<period errorminus="0.000000570" errorplus="0.000000570">1.151166510</period>
+			<period errorminus="0.00000057" errorplus="0.00000057">1.15116651</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000406" errorplus="0.000406" unit="JD">2454966.231885</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

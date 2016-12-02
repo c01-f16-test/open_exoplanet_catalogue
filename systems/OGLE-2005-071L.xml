@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE-2005-071L</name>
+	<declination>-34 40 23</declination>
+	<star>
+		<name>OGLE-2005-071L</name>
+		<mass errorminus="0.04" errorplus="0.04">0.46</mass>
+		<magB>19.5</magB>
+		<planet>
+			<name>OGLE-2005-071L b</name>
+			<mass errorminus="0.3" errorplus="0.3">3.5</mass>
+			<period errorminus="0.0" errorplus="0.0">3600.0</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">3.6</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+</system>

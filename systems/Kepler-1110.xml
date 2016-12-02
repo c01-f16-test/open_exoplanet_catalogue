@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1110</name>
-	<rightascension>19 27 14</rightascension>
-	<declination>+38 37 22</declination>
+	<rightascension>19 27 13</rightascension>
+	<declination>+38 37 21</declination>
+	<distance errorminus="56.02" errorplus="44.92">726.00</distance>
 	<star>
 		<name>Kepler-1110</name>
 		<mass errorminus="0.05" errorplus="0.05">0.73</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.70</radius>
-		<temperature errorminus="77.5" errorplus="88.0">4781.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.18">-0.16</metallicity>
+		<magV>15.914</magV>
+		<magJ errorminus="0.035" errorplus="0.035">14.319</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.748</magH>
+		<magK errorminus="0.044" errorplus="0.044">13.604</magK>
+		<temperature errorminus="77.50" errorplus="88.04">4781.00</temperature>
+		<age errorminus="2.860" errorplus="5.900">4.790</age>
+		<metallicity errorminus="0.188" errorplus="0.185">-0.160</metallicity>
 		<planet>
 			<name>Kepler-1110 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.034">0.237</radius>
-			<period errorminus="0.000030240" errorplus="0.000030240">9.693120320</period>
+			<period errorminus="0.00003024" errorplus="0.00003024">9.69312032</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002850" errorplus="0.002850" unit="JD">2454967.529640</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

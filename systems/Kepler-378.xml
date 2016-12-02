@@ -9,12 +9,14 @@
 		<name>Kepler-378</name>
 		<name>KOI-2287</name>
 		<name>KIC 9718066</name>
-		<mass errorminus="0.0950" errorplus="0.0950">0.6660</mass>
-		<radius errorminus=".035" errorplus="0.035">0.671</radius>
+		<mass errorminus="0.0950" errorplus="0.0950">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.67</radius>
+		<magV>12.485</magV>
 		<magJ errorminus="0.021" errorplus="0.021">10.846</magJ>
 		<magH errorminus="0.020" errorplus="0.020">10.317</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.201</magK>
-		<temperature errorminus="100" errorplus="100">4661</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4661.00</temperature>
+		<metallicity>0.553</metallicity>
 		<planet>
 			<name>Kepler-378 b</name>
 			<name>KOI-2287 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 9718066 b</name>
 			<name>KIC 9718066.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.01367">0.06835</radius>
-			<period errorminus=".000073" errorplus="0.000073">16.092361</period>
+			<radius errorminus="0.013" errorplus="0.013">0.067</radius>
+			<period errorminus="0.00007300" errorplus="0.00007300">16.09236100</period>
+			<semimajoraxis>0.112000</semimajoraxis>
 			<description>Kepler-378 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-378 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029600" errorplus="0.0029600">2454975.5134900</transittime>
+			<transittime errorminus=".002960" errorplus="0.002960" unit="BJD">2454975.513490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 9718066 c</name>
 			<name>KIC 9718066.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00456" errorplus="0.00456">0.06379</radius>
-			<period errorminus=".000216" errorplus="0.000216">28.906009</period>
+			<radius errorminus="0.004" errorplus="0.004">0.062</radius>
+			<period errorminus="0.00021600" errorplus="0.00021600">28.90600900</period>
+			<semimajoraxis>0.166000</semimajoraxis>
 			<description>Kepler-378 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-378 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0044400" errorplus="0.0044400">2454991.8217200</transittime>
+			<transittime errorminus=".004440" errorplus="0.004440" unit="BJD">2454991.821720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

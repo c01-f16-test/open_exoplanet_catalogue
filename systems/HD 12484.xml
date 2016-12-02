@@ -1,0 +1,31 @@
+<system>
+	<name>HD 12484</name>
+	<rightascension>02 02 26</rightascension>
+	<declination>+02 48 57</declination>
+	<distance errorminus="2.50" errorplus="2.50">51.10</distance>
+	<star>
+		<name>HD 12484</name>
+		<mass errorminus="0.03" errorplus="0.03">1.01</mass>
+		<magV errorminus="0.010" errorplus="0.010">8.170</magV>
+		<magB errorminus="0.020" errorplus="0.020">8.828</magB>
+		<magJ errorminus="0.025" errorplus="0.025">7.074</magJ>
+		<magH errorminus="0.031" errorplus="0.031">6.782</magH>
+		<magK errorminus="0.029" errorplus="0.029">6.706</magK>
+		<temperature errorminus="30.00" errorplus="30.00">5920.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">0.050</metallicity>
+		<spectraltype>F8</spectraltype>
+		<planet>
+			<name>HD 12484 b</name>
+			<mass errorminus="0.14000" errorplus="0.14000" type="Msini">2.98000</mass>
+			<period errorminus="0.08000000" errorplus="0.08000000">58.83000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.297000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.070000</eccentricity>
+			<periastron errorminus="40.0000" errorplus="40.0000">-35.0000</periastron>
+			<periastrontime errorminus="5.000000" errorplus="5.000000">2456699.000000</periastrontime>
+			<maximumrvtime errorminus="5.000000" errorplus="5.000000">2456699.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,26 @@
+<system>
+	<name>TYC-3667-1280-1</name>
+	<declination>+58 25 34</declination>
+	<star>
+		<name>TYC-3667-1280-1</name>
+		<mass errorminus="0.17" errorplus="0.17">1.87</mass>
+		<radius errorminus="0.86" errorplus="0.86">6.26</radius>
+		<magV>9.9</magV>
+		<temperature errorminus="24.0" errorplus="24.0">5130.0</temperature>
+		<metallicity errorminus="0.05" errorplus="0.05">-0.08</metallicity>
+		<planet>
+			<name>TYC-3667-1280-1 b</name>
+			<mass errorminus="0.4" errorplus="0.4" type="Radial Velocity">5.4</mass>
+			<period errorminus="0.005" errorplus="0.005">26.468</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="0.043">0.036</eccentricity>
+			<periastron errorminus="50.0" errorplus="50.0">240.0</periastron>
+			<periastrontime errorminus="3.3" errorplus="3.7">2456319.6</periastrontime>
+			<maximumrvtime errorminus="3.3" errorplus="3.7">2456319.6</maximumrvtime>
+			<temperature>1350.0</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

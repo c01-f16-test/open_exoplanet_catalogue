@@ -9,11 +9,13 @@
 		<name>Kepler-271</name>
 		<name>KOI-1151</name>
 		<name>KIC 8280511</name>
-		<radius errorminus=".158" errorplus="0.158">0.880</radius>
+		<radius errorminus="0.16" errorplus="0.16">0.88</radius>
+		<magV>13.404</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.198</magJ>
 		<magH errorminus="0.019" errorplus="0.019">11.819</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.745</magK>
-		<temperature errorminus="100" errorplus="100">5524</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5524.00</temperature>
+		<metallicity>-0.951</metallicity>
 		<planet>
 			<name>Kepler-271 b</name>
 			<name>KOI-1151 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 8280511 b</name>
 			<name>KIC 8280511.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01458" errorplus="0.01458">0.08111</radius>
-			<period errorminus=".000043" errorplus="0.000043">5.217738</period>
+			<radius errorminus="0.014" errorplus="0.014">0.079</radius>
+			<period errorminus="0.00004300" errorplus="0.00004300">5.21773800</period>
+			<semimajoraxis>0.056000</semimajoraxis>
 			<description>Kepler-271 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-271 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0046500" errorplus="0.0046500">2454967.8195000</transittime>
+			<transittime errorminus=".004650" errorplus="0.004650" unit="BJD">2454967.819500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,25 +40,27 @@
 			<name>KIC 8280511 c</name>
 			<name>KIC 8280511.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01640" errorplus="0.01640">0.09113</radius>
-			<period errorminus=".000049" errorplus="0.000049">7.410935</period>
+			<radius errorminus="0.016" errorplus="0.016">0.089</radius>
+			<period errorminus="0.00004900" errorplus="0.00004900">7.41093500</period>
+			<semimajoraxis>0.071000</semimajoraxis>
 			<description>Kepler-271 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-271 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040400" errorplus="0.0040400">2454968.7476400</transittime>
+			<transittime errorminus=".004040" errorplus="0.004040" unit="BJD">2454968.747640</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-271 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.004" errorplus="0.004">0.059</radius>
-			<period errorminus="0.000040620" errorplus="0.000040620">5.249725410</period>
+			<period errorminus="0.00004062" errorplus="0.00004062">5.24972541</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006110" errorplus="0.006110" unit="JD">2454968.465120</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

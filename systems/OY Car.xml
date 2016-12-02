@@ -1,0 +1,17 @@
+<system>
+	<name>OY Car</name>
+	<declination>-70 14 05</declination>
+	<star>
+		<name>OY Car</name>
+		<magV>12.2</magV>
+		<spectraltype>M5</spectraltype>
+		<planet>
+			<name>OY Car b</name>
+			<mass errorminus="0.02" errorplus="0.02">8.48</mass>
+			<semimajoraxis errorminus="0.45" errorplus="0.45">6.18</semimajoraxis>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,0 +1,31 @@
+<system>
+	<name>K2-39</name>
+	<rightascension>22 33 28</rightascension>
+	<declination>-09 01 22</declination>
+	<star>
+		<name>K2-39</name>
+		<mass errorminus="0.12" errorplus="0.13">1.53</mass>
+		<radius errorminus="0.42" errorplus="0.48">3.88</radius>
+		<magV errorminus="0.075" errorplus="0.075">10.832</magV>
+		<magB errorminus="0.223" errorplus="0.223">12.152</magB>
+		<magJ errorminus="0.024" errorplus="0.024">9.082</magJ>
+		<magH errorminus="0.042" errorplus="0.042">8.594</magH>
+		<magK errorminus="0.024" errorplus="0.024">8.516</magK>
+		<temperature errorminus="20.00" errorplus="20.00">4881.00</temperature>
+		<age errorminus="0.700" errorplus="0.920">3.090</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.320</metallicity>
+		<planet>
+			<name>K2-39 b</name>
+			<mass errorminus="0.02958" errorplus="0.03052" type="Mass">0.15826</mass>
+			<radius errorminus="0.098" errorplus="0.098">0.732</radius>
+			<period errorminus="0.00046000" errorplus="0.00046000">4.60543000</period>
+			<semimajoraxis errorminus="0.012000" errorplus="0.010000">0.062000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="4.390" errorplus="3.990">80.390</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003900" errorplus="0.003900" unit="BJD">2456980.823600</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

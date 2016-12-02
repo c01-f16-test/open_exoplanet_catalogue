@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1384</name>
-	<rightascension>19 44 52</rightascension>
+	<rightascension>19 44 51</rightascension>
 	<declination>+39 31 37</declination>
+	<distance errorminus="39.06" errorplus="39.97">618.00</distance>
 	<star>
 		<name>Kepler-1384</name>
 		<mass errorminus="0.05" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.74</radius>
-		<temperature errorminus="126.8" errorplus="158.7">4919.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.17">-0.06</metallicity>
+		<magV>15.384</magV>
+		<magJ errorminus="0.037" errorplus="0.037">13.786</magJ>
+		<magH errorminus="0.043" errorplus="0.043">13.276</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.074</magK>
+		<temperature errorminus="126.82" errorplus="158.66">4919.00</temperature>
+		<age errorminus="2.700" errorplus="6.240">4.570</age>
+		<metallicity errorminus="0.168" errorplus="0.173">-0.060</metallicity>
 		<planet>
 			<name>Kepler-1384 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.038">0.173</radius>
-			<period errorminus="0.000087650" errorplus="0.000087650">15.362627530</period>
+			<period errorminus="0.00008765" errorplus="0.00008765">15.36262753</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004900" errorplus="0.004900" unit="JD">2454978.572270</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

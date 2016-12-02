@@ -1,0 +1,28 @@
+<system>
+	<name>KELT-11</name>
+	<declination>-09 23 57</declination>
+	<star>
+		<name>KELT-11</name>
+		<name>HD 93396</name>
+		<mass errorminus="0.052" errorplus="0.061">1.438</mass>
+		<radius errorminus="0.17" errorplus="0.21">2.72</radius>
+		<magV>8.0</magV>
+		<temperature errorminus="51.0" errorplus="51.0">5370.0</temperature>
+		<metallicity errorminus="0.075" errorplus="0.075">0.18</metallicity>
+		<spectraltype>G8</spectraltype>
+		<planet>
+			<name>KELT-11 b</name>
+			<mass errorminus="0.019" errorplus="0.019" type="Radial Velocity">0.195</mass>
+			<radius errorminus="0.12" errorplus="0.18">1.37</radius>
+			<period errorminus="5.9e-05" errorplus="6.8e-05">4.736529</period>
+			<semimajoraxis errorminus="0.00076" errorplus="0.00088">0.06229</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.8" errorplus="2.4">85.8</inclination>
+			<temperature>1712.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.0036" errorplus="0.0042">2457440.8323</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -1,49 +1,53 @@
 <system>
 	<name>HAT-P-46</name>
-	<rightascension>18 01 47</rightascension>
+	<rightascension>18 01 46</rightascension>
 	<declination>-02 58 15</declination>
-	<distance errorminus="29" errorplus="61">296</distance>
+	<distance errorminus="29.00" errorplus="61.00">296.00</distance>
 	<star>
 		<name>HAT-P-46</name>
 		<name>GSC 5100-00045</name>
 		<name>2MASS 18014660-0258154</name>
-		<mass errorminus="0.060" errorplus="0.095">1.284</mass>
-		<radius errorminus="0.136" errorplus="0.293">1.396</radius>
+		<mass errorminus="0.06" errorplus="0.10">1.28</mass>
+		<radius errorminus="0.14" errorplus="0.29">1.40</radius>
 		<magV>11.936</magV>
 		<magB>12.9</magB>
 		<magR>11.62</magR>
 		<magI>11.07</magI>
-		<magJ errorminus="0.024" errorplus="0.024">10.330</magJ>
-		<magH errorminus="0.022" errorplus="0.022">9.972</magH>
-		<magK errorminus="0.023" errorplus="0.023">9.924</magK>
-		<temperature errorminus="100" errorplus="100">6120</temperature>
-		<age errorminus="1" errorplus="0.7">2.5</age>
-		<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+		<magJ errorminus="0.021" errorplus="0.021">10.330</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.972</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.924</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6120.00</temperature>
+		<age errorminus="1.000" errorplus="0.700">2.500</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.300</metallicity>
 		<planet>
 			<name>HAT-P-46 b</name>
 			<name>GSC 5100-00045 b</name>
 			<name>2MASS 18014660-0258154 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.052" errorplus="0.082">0.493</mass>
+			<mass errorminus="0.05200" errorplus="0.08200" type="Mass">0.49300</mass>
 			<radius errorminus="0.133" errorplus="0.271">1.284</radius>
-			<semimajoraxis errorminus="0.0009" errorplus="0.0014">0.0577</semimajoraxis>
-			<eccentricity errorminus="0.120" errorplus="0.120">0.123</eccentricity>
-			<periastron errorminus="87" errorplus="87">70</periastron>
-			<inclination errorminus="2.3" errorplus="0.8">85.5</inclination>
+			<period errorminus="0.00004800" errorplus="0.00004800">4.46312900</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.001400">0.057700</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.123000</eccentricity>
+			<periastron errorminus="87.0000" errorplus="87.0000">70.0000</periastron>
+			<inclination errorminus="2.300" errorplus="0.800">85.500</inclination>
 			<temperature errorminus="75" errorplus="140">1458</temperature>
 			<description>This planet was discovered by the HATNet transit survey. The RV data suggest there might be a second planet with an orbital period of 78 days in the system. However, more data is required to confirm its existance.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000470" errorplus="0.000470" unit="BJD">2455701.336460</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/08/16</lastupdate>
-			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>HAT-P-46 c</name>
 			<list>Controversial</list>
 			<mass errorminus="0.3" errorplus="0.3">2.0</mass>
-			<semimajoraxis errorminus="0.006" errorplus="0.009">0.383</semimajoraxis>
+			<period errorminus="0.6" errorplus="0.6">77.7</period>
+			<semimajoraxis errorminus="0.007" errorplus="0.01">0.387</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

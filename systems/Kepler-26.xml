@@ -9,12 +9,14 @@
 		<name>Kepler-26</name>
 		<name>KOI-250</name>
 		<name>KIC 9757613</name>
-		<mass errorminus="0.0270" errorplus="0.0270">0.6340</mass>
-		<radius errorminus=".027" errorplus="0.027">0.571</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.54</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.51</radius>
+		<magV>15.473</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.408</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.746</magH>
-		<magK errorminus="0.026" errorplus="0.026">12.630</magK>
-		<temperature errorminus="16" errorplus="116">4486</temperature>
+		<magK errorminus="0.025" errorplus="0.025">12.630</magK>
+		<temperature errorminus="119.00" errorplus="119.00">3914.00</temperature>
+		<metallicity errorminus="0.130" errorplus="0.130">-0.130</metallicity>
 		<planet>
 			<name>Kepler-26 b</name>
 			<name>KOI-250 b</name>
@@ -22,15 +24,16 @@
 			<name>KIC 9757613 b</name>
 			<name>KIC 9757613.01</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001916" errorplus="0.002054">0.016097</mass>
-			<radius errorminus="0.01276" errorplus="0.01276">0.26792</radius>
-			<period errorminus=".000013" errorplus="0.000013">12.282972</period>
+			<mass errorminus="0.00192" errorplus="0.00205" type="Mass">0.01611</mass>
+			<radius errorminus="0.010" errorplus="0.010">0.248</radius>
+			<period errorminus="0.00030000" errorplus="0.00030000">12.28000000</period>
+			<semimajoraxis>0.085</semimajoraxis>
 			<description>Kepler-26 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0006100" errorplus="0.0006100">2455003.3985400</transittime>
+			<transittime errorminus=".000600" errorplus="0.000600" unit="BJD">2456471.249700</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-26 c</name>
@@ -39,15 +42,16 @@
 			<name>KIC 9757613 c</name>
 			<name>KIC 9757613.02</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001949" errorplus="0.002055">0.019492</mass>
-			<radius errorminus="0.02825" errorplus="0.02825">0.26792</radius>
-			<period errorminus=".000034" errorplus="0.000034">17.251204</period>
+			<mass errorminus="0.00205" errorplus="0.00205" type="Mass">0.01951</mass>
+			<radius errorminus="0.011" errorplus="0.011">0.243</radius>
+			<period errorminus="0.00060000" errorplus="0.00060000">17.25590000</period>
+			<semimajoraxis>0.107</semimajoraxis>
 			<description>Kepler-26 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010900" errorplus="0.0010900">2454982.8863600</transittime>
+			<transittime errorminus=".000800" errorplus="0.000700" unit="BJD">2456470.183000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/01/13</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-26 d</name>
@@ -56,13 +60,14 @@
 			<name>KIC 9757613 d</name>
 			<name>KIC 9757613.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00547" errorplus="0.00547">0.09751</radius>
-			<period errorminus=".000015" errorplus="0.000015">3.543919</period>
+			<radius errorminus="0.005" errorplus="0.005">0.095</radius>
+			<period errorminus="0.00001500" errorplus="0.00001500">3.54391900</period>
+			<semimajoraxis>0.039000</semimajoraxis>
 			<description>Kepler-26 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0025300" errorplus="0.0025300">2454969.2590300</transittime>
+			<transittime errorminus=".002530" errorplus="0.002530" unit="BJD">2454969.259030</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -72,13 +77,14 @@
 			<name>KIC 9757613 e</name>
 			<name>KIC 9757613.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.01367">0.21962</radius>
-			<period errorminus=".000173" errorplus="0.000173">46.827915</period>
+			<radius errorminus="0.013" errorplus="0.013">0.215</radius>
+			<period errorminus="0.00017300" errorplus="0.00017300">46.82791500</period>
+			<semimajoraxis>0.220000</semimajoraxis>
 			<description>Kepler-26 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0022400" errorplus="0.0022400">2454969.7431800</transittime>
+			<transittime errorminus=".002240" errorplus="0.002240" unit="BJD">2454969.743180</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

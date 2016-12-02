@@ -2,22 +2,29 @@
 	<name>Kepler-748</name>
 	<rightascension>19 29 03</rightascension>
 	<declination>+37 14 13</declination>
+	<distance errorminus="148.18" errorplus="325.65">1271.00</distance>
 	<star>
 		<name>Kepler-748</name>
 		<mass errorminus="0.07" errorplus="0.09">1.07</mass>
 		<radius errorminus="0.12" errorplus="0.28">1.10</radius>
-		<temperature errorminus="141.9" errorplus="95.2">5934.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.08</metallicity>
+		<magV>15.242</magV>
+		<magJ errorminus="0.028" errorplus="0.028">13.990</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.685</magH>
+		<magK errorminus="0.047" errorplus="0.047">13.603</magK>
+		<temperature errorminus="141.93" errorplus="95.16">5934.00</temperature>
+		<age errorminus="2.000" errorplus="1.990">3.720</age>
+		<metallicity errorminus="0.165" errorplus="0.142">0.080</metallicity>
 		<planet>
 			<name>Kepler-748 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.026" errorplus="0.058">0.225</radius>
-			<period errorminus="0.000034340" errorplus="0.000034340">7.407427930</period>
+			<period errorminus="0.00003434" errorplus="0.00003434">7.40742793</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003200" errorplus="0.003200" unit="JD">2455188.495210</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

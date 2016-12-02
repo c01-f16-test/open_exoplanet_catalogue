@@ -1,0 +1,28 @@
+<system>
+	<name>HATS-21</name>
+	<declination>-58 27 33</declination>
+	<star>
+		<name>HATS-21</name>
+		<mass errorminus="0.026" errorplus="0.026">1.08</mass>
+		<radius errorminus="0.036" errorplus="0.089">1.021</radius>
+		<magV>12.2</magV>
+		<temperature errorminus="67.0" errorplus="67.0">5695.0</temperature>
+		<age errorminus="1.7" errorplus="1.7">2.3</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.3</metallicity>
+		<spectraltype>G4V</spectraltype>
+		<planet>
+			<name>HATS-21 b</name>
+			<mass errorminus="0.03" errorplus="0.04" type="Radial Velocity">0.332</mass>
+			<radius errorminus="0.054" errorplus="0.147">1.123</radius>
+			<period errorminus="5.8e-06" errorplus="5.8e-06">3.5543973</period>
+			<semimajoraxis errorminus="0.00038" errorplus="0.00038">0.04676</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.65" errorplus="0.23">85.04</inclination>
+			<temperature>1284.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00057" errorplus="0.00057">2457109.22538</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

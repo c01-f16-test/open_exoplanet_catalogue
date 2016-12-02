@@ -1,0 +1,23 @@
+<system>
+	<name>2MASS J04414489+2301513</name>
+	<rightascension>04 41 44</rightascension>
+	<declination>+23 01 51</declination>
+	<distance>140.00</distance>
+	<star>
+		<name>2MASS J04414489+2301513</name>
+		<mass>0.02</mass>
+		<magJ errorminus="0.025" errorplus="0.025">14.419</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.726</magH>
+		<magK errorminus="0.025" errorplus="0.025">13.161</magK>
+		<age>0.001</age>
+		<spectraltype>M8.5</spectraltype>
+		<planet>
+			<name>2MASS J04414489+2301513 b</name>
+			<mass errorminus="2.50000" errorplus="2.50000" type="Mass">7.50000</mass>
+			<semimajoraxis>15.000000</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

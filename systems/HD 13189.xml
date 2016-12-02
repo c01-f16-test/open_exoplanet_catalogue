@@ -2,25 +2,31 @@
 	<name>HD 13189</name>
 	<rightascension>02 09 40</rightascension>
 	<declination>+32 18 59</declination>
-	<distance>185</distance>
+	<distance>300.30</distance>
 	<star>
 		<name>HD 13189</name>
-		<mass>4.5</mass>
-		<radius>50.39</radius>
-		<magV>7.57</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.04</magB>
+		<mass errorminus="2.5" errorplus="2.5">4.5</mass>
+		<radius errorminus="20.51" errorplus="20.51">50.39</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.556</magV>
+		<magB errorminus="0.020" errorplus="0.020">9.039</magB>
+		<magJ errorminus="0.288" errorplus="0.288">5.190</magJ>
+		<magH errorminus="0.240" errorplus="0.240">4.323</magH>
+		<magK errorminus="0.026" errorplus="0.026">3.997</magK>
 		<temperature>5150.0</temperature>
-		<spectraltype>K2 II</spectraltype>
+		<spectraltype>K2</spectraltype>
 		<planet>
 			<name>HD 13189 b</name>
 			<list>Confirmed planets</list>
-			<mass>14</mass>
-			<period>471.6</period>
-			<semimajoraxis>1.85</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<mass errorminus="6.00000" errorplus="6.00000" type="Msini">14.00000</mass>
+			<period errorminus="6.00000000" errorplus="6.00000000">471.60000000</period>
+			<semimajoraxis errorminus="0.350000" errorplus="0.350000">1.850000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.270000</eccentricity>
+			<periastron errorminus="12.0000" errorplus="12.0000">160.7000</periastron>
+			<periastrontime errorminus="20.200000" errorplus="20.200000">2452327.900000</periastrontime>
+			<maximumrvtime errorminus="20.200000" errorplus="20.200000">2452327.900000</maximumrvtime>
 			<temperature>442.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

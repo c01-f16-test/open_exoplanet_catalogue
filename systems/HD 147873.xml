@@ -1,0 +1,42 @@
+<system>
+	<name>HD 147873</name>
+	<rightascension>16 25 45</rightascension>
+	<declination>-33 34 01</declination>
+	<distance errorminus="10.90" errorplus="10.90">104.93</distance>
+	<star>
+		<name>HD 147873</name>
+		<mass errorminus="0.05" errorplus="0.05">1.38</mass>
+		<radius errorminus="0.10" errorplus="0.10">2.29</radius>
+		<magV>7.960</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.557</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.908</magJ>
+		<magH errorminus="0.026" errorplus="0.026">6.698</magH>
+		<magK errorminus="0.029" errorplus="0.029">6.581</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5972.00</temperature>
+		<age errorminus="3.000" errorplus="3.000">4.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.030</metallicity>
+		<spectraltype>G1 V</spectraltype>
+		<planet>
+			<name>HD 147873 b</name>
+			<mass errorminus="0.34000" errorplus="0.34000" type="Msini">5.14000</mass>
+			<period errorminus="0.02300000" errorplus="0.02300000">116.59600000</period>
+			<semimajoraxis errorminus="0.018000" errorplus="0.018000">0.522000</semimajoraxis>
+			<eccentricity errorminus="0.013000" errorplus="0.013000">0.207000</eccentricity>
+			<periastron errorminus="2.8600" errorplus="2.8600">80.2100</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 147873 c</name>
+			<mass errorminus="0.18000" errorplus="0.18000" type="Msini">2.30000</mass>
+			<period errorminus="0.79000000" errorplus="0.79000000">491.54000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.360000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.230000</eccentricity>
+			<periastron errorminus="11.4600" errorplus="11.4600">41.8300</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

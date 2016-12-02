@@ -1,0 +1,18 @@
+<system>
+	<name>MOA 2010-BLG-353L</name>
+	<rightascension>18 05 12</rightascension>
+	<declination>-27 17 35</declination>
+	<distance errorminus="1150.00" errorplus="1090.00">6430.00</distance>
+	<star>
+		<name>MOA 2010-BLG-353L</name>
+		<mass errorminus="0.11" errorplus="0.32">0.18</mass>
+		<planet>
+			<name>MOA 2010-BLG-353L b</name>
+			<mass errorminus="0.16000" errorplus="0.48000" type="Mass">0.27000</mass>
+			<semimajoraxis errorminus="0.480000" errorplus="0.560000">1.720000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -9,12 +9,13 @@
 		<name>Kepler-53</name>
 		<name>KOI-829</name>
 		<name>KIC 5358241</name>
-		<mass errorminus="0.0930" errorplus="0.0930">1.0650</mass>
-		<radius errorminus=".466" errorplus="0.466">0.958</radius>
+		<mass errorminus="0.0930" errorplus="0.0930">0.98</mass>
+		<radius errorminus=".466" errorplus="0.466">0.89</radius>
+		<magV>15.386</magV>
 		<magJ errorminus="0.027" errorplus="0.027">14.252</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.91</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.81</magK>
-		<temperature errorminus="200" errorplus="200">6085</temperature>
+		<magH errorminus="0.032" errorplus="0.032">13.906</magH>
+		<magK errorminus="0.051" errorplus="0.051">13.807</magK>
+		<temperature errorminus="200" errorplus="200">5858.00</temperature>
 		<planet>
 			<name>Kepler-53 b</name>
 			<name>KOI-829 b</name>
@@ -22,14 +23,15 @@
 			<name>KIC 5358241 b</name>
 			<name>KIC 5358241.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03372" errorplus="0.12485">0.25608</radius>
-			<period errorminus=".000087" errorplus="0.000087">18.649113</period>
+			<mass errorminus="18.41" errorplus="0.0" type="Mass">18.41000</mass>
+			<radius errorminus="0.03372" errorplus="0.12485">0.258</radius>
+			<period errorminus="0.00016000" errorplus="0.00016000">18.64895250</period>
 			<description>Kepler-53 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024100" errorplus="0.0024100">2455007.7750500</transittime>
+			<transittime errorminus=".002900" errorplus="0.002900" unit="BJD">2455007.776080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-53 d</name>
@@ -38,13 +40,14 @@
 			<name>KIC 5358241 d</name>
 			<name>KIC 5358241.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00456" errorplus="0.09569">0.19320</radius>
-			<period errorminus=".000077" errorplus="0.000077">9.751962</period>
+			<radius errorminus="0.094" errorplus="0.094">0.189</radius>
+			<period errorminus="0.00007700" errorplus="0.00007700">9.75196200</period>
+			<semimajoraxis>0.091000</semimajoraxis>
 			<description>Kepler-53 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0043000" errorplus="0.0043000">2454971.7852000</transittime>
+			<transittime errorminus=".004300" errorplus="0.004300" unit="BJD">2454971.785200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,14 +57,15 @@
 			<name>KIC 5358241 c</name>
 			<name>KIC 5358241.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07655" errorplus="0.16768">0.33992</radius>
-			<period errorminus=".000249" errorplus="0.000249">38.558585</period>
+			<mass errorminus="15.74" errorplus="0.0" type="Mass">15.74000</mass>
+			<radius errorminus="0.07655" errorplus="0.16768">0.283</radius>
+			<period errorminus="0.00041000" errorplus="0.00041000">38.55830380</period>
 			<description>Kepler-53 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-53 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0046200" errorplus="0.0046200">2454996.8416700</transittime>
+			<transittime errorminus=".003800" errorplus="0.003800" unit="BJD">2454996.848160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

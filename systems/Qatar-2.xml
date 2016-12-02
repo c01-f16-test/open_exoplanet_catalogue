@@ -4,33 +4,35 @@
 	<declination>-06 48 14</declination>
 	<star>
 		<name>Qatar-2</name>
-		<mass>0.74</mass>
-		<radius>0.713</radius>
-		<magV>13.3</magV>
-		<magB>14.0</magB>
+		<mass errorminus="0.02" errorplus="0.02">0.74</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.78</radius>
+		<magV>13.300</magV>
+		<magB errorminus="0.020" errorplus="0.020">14.582</magB>
 		<magR errorminus="0.10" errorplus="0.10">13.45</magR>
 		<magJ errorminus="0.026" errorplus="0.026">11.350</magJ>
-		<magH errorminus="0.022" errorplus="0.022">10.794</magH>
+		<magH errorminus="0.021" errorplus="0.021">10.794</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.619</magK>
-		<temperature>4645.0</temperature>
+		<temperature errorminus="50.00" errorplus="50.00">4645.00</temperature>
+		<age>5.000</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.020</metallicity>
 		<spectraltype>K</spectraltype>
 		<planet>
 			<name>Qatar-2 b</name>
 			<name>GSC 04974-00112 b</name>
 			<name>2MASS J13503740-0648145 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.487</mass>
-			<radius>1.144</radius>
-			<period>1.3371182</period>
-			<semimajoraxis>0.02149</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.3</inclination>
-			<temperature>1179.7</temperature>
+			<mass errorminus="0.05400" errorplus="0.05400" type="Mass">2.49400</mass>
+			<radius errorminus="0.013" errorplus="0.013">1.254</radius>
+			<period errorminus="0.00000026" errorplus="0.00000026">1.33711647</period>
+			<semimajoraxis errorminus="0.000200" errorplus="0.000200">0.021530</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.080" errorplus="0.080">86.120</inclination>
+			<temperature errorminus="14" errorplus="14">1344</temperature>
 			<description>Qatar-2b is a transiting hot Jupiter orbiting a K dwarf and was found by the Qatar Exoplanet Survey (QES). The radial velocity data shows evidence for a second companion with a period of about one year and a mass several times that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00011" errorplus="0.00011" unit="BJD">2455624.26679</transittime>
+			<transittime errorminus=".000087" errorplus="0.000087" unit="BJD-TDB">2455624.267096</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/10/28</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

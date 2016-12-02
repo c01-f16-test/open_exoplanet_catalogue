@@ -1,9 +1,9 @@
 <system>
 	<name>75 Cet</name>
 	<name>75 Ceti</name>
-	<rightascension>02 32 09.42200</rightascension>
-	<declination>-01 02 05.6236</declination>
-	<distance errorminus="3.0" errorplus="3.0">81.4</distance>
+	<rightascension>02 32 09</rightascension>
+	<declination>-01 02 05</declination>
+	<distance errorminus="8.27" errorplus="6.87">81.50</distance>
 	<star>
 		<name>75 Cet</name>
 		<name>75 Ceti</name>
@@ -14,29 +14,30 @@
 		<name>HR 739</name>
 		<name>BD-01 353</name>
 		<name>2MASS J02320943-0102055</name>
-		<mass lowerlimit="2.22" upperlimit="2.51">2.49</mass>
-		<radius lowerlimit="9.5" upperlimit="11.5">10.5</radius>
-		<magV>5.364</magV>
-		<magB>6.373</magB>
+		<mass errorminus="0.27" errorplus="0.02" lowerlimit="2.22" upperlimit="2.51">2.49</mass>
+		<radius errorminus="1.00" errorplus="1.00" lowerlimit="9.5" upperlimit="11.5">10.50</radius>
+		<magV>5.350</magV>
+		<magB>6.370</magB>
 		<magR>10.0</magR>
-		<magJ errorminus="0.01" errorplus="0.01">3.685</magJ>
-		<magH errorminus="0.01" errorplus="0.01">3.186</magH>
-		<magK errorminus="0.01" errorplus="0.01">3.067</magK>
-		<temperature errorminus="18" errorplus="18">4846</temperature>
-		<metallicity errorminus="0.04" errorplus="0.04">0.00</metallicity>
-		<spectraltype>G3III:</spectraltype>
+		<magJ errorminus="0.262" errorplus="0.262">3.931</magJ>
+		<magH errorminus="0.214" errorplus="0.214">3.318</magH>
+		<magK errorminus="0.272" errorplus="0.272">3.207</magK>
+		<temperature errorminus="18.00" errorplus="18.00">4846.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">0.000</metallicity>
+		<spectraltype>G3 III</spectraltype>
 		<planet>
 			<name>75 Cet b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">3.0</mass>
-			<period errorminus="3.6" errorplus="3.6">691.9</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity errorminus="0.048" errorplus="0.048">0.117</eccentricity>
-			<periastron errorminus="28" errorplus="28">165</periastron>
-			<periastrontime errorminus="54" errorplus="54">2452213</periastrontime>
+			<mass type="Msini">3.00000</mass>
+			<period errorminus="3.60000000" errorplus="3.60000000">691.90000000</period>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<eccentricity errorminus="0.048000" errorplus="0.048000">0.117000</eccentricity>
+			<periastron errorminus="28.0000" errorplus="28.0000">165.0000</periastron>
+			<periastrontime errorminus="54.000000" errorplus="54.000000">2452213.000000</periastrontime>
+			<maximumrvtime errorminus="54.000000" errorplus="54.000000">2452213.000000</maximumrvtime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

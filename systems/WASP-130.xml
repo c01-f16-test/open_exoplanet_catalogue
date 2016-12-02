@@ -1,0 +1,28 @@
+<system>
+	<name>WASP-130</name>
+	<declination>-42 28 31</declination>
+	<star>
+		<name>WASP-130</name>
+		<mass errorminus="0.04" errorplus="0.04">1.04</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.96</radius>
+		<magV>11.1</magV>
+		<temperature errorminus="90.0" errorplus="90.0">5625.0</temperature>
+		<age>2.0</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.26</metallicity>
+		<spectraltype>G6</spectraltype>
+		<planet>
+			<name>WASP-130 b</name>
+			<mass errorminus="0.04" errorplus="0.04" type="Radial Velocity">1.23</mass>
+			<radius errorminus="0.03" errorplus="0.03">0.89</radius>
+			<period errorminus="1e-05" errorplus="1e-05">11.55098</period>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.1012</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.12" errorplus="0.12">88.66</inclination>
+			<temperature>833.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="2.5e-05" errorplus="2.5e-05">2456921.14307</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

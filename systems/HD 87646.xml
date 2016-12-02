@@ -1,0 +1,32 @@
+<system>
+	<name>HD 87646</name>
+	<rightascension>10 06 40</rightascension>
+	<declination>+17 53 42</declination>
+	<distance errorminus="9.68" errorplus="7.66">73.58</distance>
+	<star>
+		<name>HD 87646</name>
+		<mass errorminus="0.09" errorplus="0.09">1.12</mass>
+		<radius errorminus="0.22" errorplus="0.22">1.55</radius>
+		<magV>8.000</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.728</magB>
+		<magJ errorminus="0.021" errorplus="0.021">6.897</magJ>
+		<magH errorminus="0.021" errorplus="0.021">6.612</magH>
+		<magK errorminus="0.018" errorplus="0.018">6.536</magK>
+		<temperature errorminus="80.00" errorplus="80.00">5770.00</temperature>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.170</metallicity>
+		<spectraltype>G</spectraltype>
+		<planet>
+			<name>HD 87646 b</name>
+			<mass errorminus="0.70000" errorplus="0.70000" type="Msini">12.40000</mass>
+			<period errorminus="0.00100000" errorplus="0.00100000">13.48100000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.117000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.050000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">298.0000</periastron>
+			<periastrontime errorminus="1.100000" errorplus="1.100000">2454088.300000</periastrontime>
+			<maximumrvtime errorminus="1.100000" errorplus="1.100000">2454088.300000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

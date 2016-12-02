@@ -1,0 +1,53 @@
+<system>
+	<name>Kepler-414</name>
+	<name>KOI-341</name>
+	<rightascension>19 51 50</rightascension>
+	<declination>+48 14 39</declination>
+	<star>
+		<name>KOI-341</name>
+		<name>Kepler-414</name>
+		<name>KIC 10878263</name>
+		<name>2MASS J19515077+4814397</name>
+		<mass errorminus="0.042" errorplus="0.063">0.89</mass>
+		<radius errorminus="0.078" errorplus="0.171">0.95</radius>
+		<magV>13.338</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.087</magJ>
+		<magH errorminus="0.015" errorplus="0.015">11.750</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.698</magK>
+		<temperature errorminus="103" errorplus="103">5523</temperature>
+		<planet>
+			<name>KOI-341 b</name>
+			<name>Kepler-414 b</name>
+			<name>KOI-341.02</name>
+			<name>KIC 10878263 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.00900" errorplus="0.01100" type="Mass">0.01100</mass>
+			<radius errorminus="0.012" errorplus="0.028">0.153</radius>
+			<period>4.70000000</period>
+			<semimajoraxis>0.0529</semimajoraxis>
+			<description>The planet Kepler-414 b has been confirmed by transit timing variations.</description>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<transittime errorminus="0.00139" errorplus="0.00139">2455010.61335</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-341 c</name>
+			<name>Kepler-414 c</name>
+			<name>KOI-341.01</name>
+			<name>KIC 10878263 c</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.03300" errorplus="0.03900" type="Mass">0.09400</mass>
+			<radius errorminus="0.022" errorplus="0.048">0.269</radius>
+			<period>7.17100000</period>
+			<semimajoraxis>0.0701</semimajoraxis>
+			<description>The planet Kepler-414 c has been confirmed by transit timing variations.</description>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<transittime errorminus="0.00081" errorplus="0.00081">2455009.664892</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

@@ -3,18 +3,20 @@
 	<name>KOI-567</name>
 	<name>KIC 7445445</name>
 	<rightascension>19 27 48</rightascension>
-	<declination>+43 04 28</declination>
+	<declination>+43 04 29</declination>
 	<distance>727.97</distance>
 	<star>
 		<name>Kepler-184</name>
 		<name>KOI-567</name>
 		<name>KIC 7445445</name>
 		<mass errorminus="0.1200" errorplus="0.1200">0.9700</mass>
-		<radius errorminus=".490" errorplus="0.490">0.873</radius>
+		<radius errorminus="0.49" errorplus="0.49">0.87</radius>
+		<magV>14.338</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.100</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.752</magH>
 		<magK errorminus="0.029" errorplus="0.029">12.690</magK>
-		<temperature errorminus="200" errorplus="200">5788</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5788.00</temperature>
+		<metallicity>-0.338</metallicity>
 		<planet>
 			<name>Kepler-184 b</name>
 			<name>KOI-567 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7445445 b</name>
 			<name>KIC 7445445.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03007" errorplus="0.12120">0.21507</radius>
-			<period errorminus=".000025" errorplus="0.000025">10.687576</period>
+			<radius errorminus="0.119" errorplus="0.119">0.211</radius>
+			<period errorminus="0.00002500" errorplus="0.00002500">10.68757600</period>
+			<semimajoraxis>0.092000</semimajoraxis>
 			<description>Kepler-184 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-184 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012000" errorplus="0.0012000">2455002.9315400</transittime>
+			<transittime errorminus=".001200" errorplus="0.001200" unit="BJD">2455002.931540</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7445445 c</name>
 			<name>KIC 7445445.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01002" errorplus="0.10115">0.17953</radius>
-			<period errorminus=".000087" errorplus="0.000087">20.303005</period>
+			<radius errorminus="0.099" errorplus="0.099">0.176</radius>
+			<period errorminus="0.00008700" errorplus="0.00008700">20.30300500</period>
+			<semimajoraxis>0.141000</semimajoraxis>
 			<description>Kepler-184 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-184 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023400" errorplus="0.0023400">2455009.8016700</transittime>
+			<transittime errorminus=".002340" errorplus="0.002340" unit="BJD">2455009.801670</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 7445445 d</name>
 			<name>KIC 7445445.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03736" errorplus="0.12849">0.22691</radius>
-			<period errorminus=".000176" errorplus="0.000176">29.022358</period>
+			<radius errorminus="0.126" errorplus="0.126">0.222</radius>
+			<period errorminus="0.00017600" errorplus="0.00017600">29.02235800</period>
+			<semimajoraxis>0.179000</semimajoraxis>
 			<description>Kepler-184 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-184 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0030900" errorplus="0.0030900">2455031.3679000</transittime>
+			<transittime errorminus=".003090" errorplus="0.003090" unit="BJD">2455031.367900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

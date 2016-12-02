@@ -1,0 +1,25 @@
+<system>
+	<name>HD 4747</name>
+	<declination>-23 12 44</declination>
+	<star>
+		<name>HD 4747</name>
+		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.79</radius>
+		<magV>7.15</magV>
+		<temperature errorminus="40.0" errorplus="40.0">5340.0</temperature>
+		<age errorminus="2.3" errorplus="1.9">3.3</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.22</metallicity>
+		<spectraltype>G9V</spectraltype>
+		<planet>
+			<name>HD 4747 b</name>
+			<mass errorminus="3.3" errorplus="3.3" type="Radial Velocity">60.2</mass>
+			<period errorminus="285.0" errorplus="314.0">13835.67</period>
+			<semimajoraxis errorminus="3.3" errorplus="3.9">16.4</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.74</eccentricity>
+			<inclination errorminus="6.4" errorplus="4.7">66.8</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

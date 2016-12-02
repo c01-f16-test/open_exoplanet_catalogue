@@ -1,20 +1,21 @@
 <system>
 	<name>Kepler-15</name>
-	<rightascension>19 44 48.14</rightascension>
-	<declination>+49 08 24.43</declination>
+	<rightascension>19 44 48</rightascension>
+	<declination>+49 08 24</declination>
 	<star>
 		<name>Kepler-15</name>
 		<name>KOI-128</name>
 		<name>KIC 11359879</name>
-		<mass errorminus="0.06" errorplus="0.03">1.00</mass>
-		<radius errorminus="0.06" errorplus="0.16">0.98</radius>
-		<magV>13.8</magV>
+		<mass errorminus="0.05" errorplus="0.04">1.02</mass>
+		<radius errorminus="0.07" errorplus="0.06">0.99</radius>
+		<magV>13.758</magV>
 		<magR errorminus="0.14" errorplus="0.14">14.03</magR>
 		<magJ errorminus="0.027" errorplus="0.027">12.578</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.28</magH>
+		<magH errorminus="0.031" errorplus="0.031">12.282</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.216</magK>
-		<temperature errorminus="109" errorplus="89">5514</temperature>
-		<metallicity errorminus="0.15" errorplus="0.08">0.36</metallicity>
+		<temperature errorminus="130.00" errorplus="122.00">5515.00</temperature>
+		<age errorminus="3.600" errorplus="1.500">3.700</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.360</metallicity>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>Kepler-15 b</name>
@@ -23,17 +24,18 @@
 			<name>KOI-128 b</name>
 			<name>KIC 11359879 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.09" errorplus="0.08">0.66</mass>
-			<radius errorminus="0.07" errorplus="0.06">0.96</radius>
-			<period>4.942782</period>
-			<semimajoraxis>0.05714</semimajoraxis>
-			<inclination>87.44</inclination>
-			<temperature>1027.9</temperature>
+			<mass errorminus="0.09000" errorplus="0.08000" type="Mass">0.66000</mass>
+			<radius errorminus="0.070" errorplus="0.060">0.960</radius>
+			<period errorminus="0.00000130" errorplus="0.00000130">4.94278200</period>
+			<semimajoraxis errorminus="0.000930" errorplus="0.000860">0.057140</semimajoraxis>
+			<eccentricity>0.060000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.180">87.440</inclination>
+			<temperature>1225.0</temperature>
 			<description>Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000096" errorplus="0.000084" unit="BJD">2454969.328651</transittime>
+			<transittime errorminus=".000096" errorplus="0.000084" unit="BJD">2454969.328651</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

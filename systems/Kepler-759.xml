@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-759</name>
-	<rightascension>19 20 32</rightascension>
+	<rightascension>19 20 31</rightascension>
 	<declination>+41 22 53</declination>
+	<distance errorminus="87.30" errorplus="192.10">892.00</distance>
 	<star>
 		<name>Kepler-759</name>
 		<mass errorminus="0.06" errorplus="0.06">1.04</mass>
 		<radius errorminus="0.09" errorplus="0.22">1.04</radius>
-		<temperature errorminus="133.9" errorplus="94.6">5860.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.06</metallicity>
+		<magV>14.502</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.327</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.009</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.967</magK>
+		<temperature errorminus="133.91" errorplus="94.60">5860.00</temperature>
+		<age errorminus="2.160" errorplus="2.580">3.890</age>
+		<metallicity errorminus="0.161" errorplus="0.144">0.060</metallicity>
 		<planet>
 			<name>Kepler-759 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.021" errorplus="0.044">0.203</radius>
-			<period errorminus="0.000208200" errorplus="0.000208200">41.805985000</period>
+			<period errorminus="0.00020820" errorplus="0.00020820">41.80598500</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004060" errorplus="0.004060" unit="JD">2454975.818590</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

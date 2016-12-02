@@ -1,8 +1,8 @@
 <system>
 	<name>V830 Tau</name>
-	<rightascension>04 33 10.033</rightascension>
-	<declination>+24 33 43.38</declination>
-	<distance errorminus="3" errorplus="3">131</distance>
+	<rightascension>04 33 10</rightascension>
+	<declination>+24 33 43</declination>
+	<distance errorminus="3.00" errorplus="3.00">131.00</distance>
 	<star>
 		<name>V830 Tau</name>
 		<name>V830 Tauri</name>
@@ -10,27 +10,28 @@
 		<name>GSC 01833-00843</name>
 		<name>1SWASP J043310.02+243343.7</name>
 		<mass errorminus="0.05" errorplus="0.05">1.00</mass>
-		<radius errorminus="0.2" errorplus="0.2">2.0</radius>
-		<magV>12.08</magV>
+		<radius errorminus="0.20" errorplus="0.20">2.00</radius>
+		<magV>12.1</magV>
 		<magB>13.91</magB>
 		<magR>11.30</magR>
-		<magJ errorminus="0.021" errorplus="0.021">9.325</magJ>
-		<magH errorminus="0.016" errorplus="0.016">8.613</magH>
-		<magK errorminus="0.021" errorplus="0.021">8.422</magK>
-		<temperature errorminus="50" errorplus="50">4250</temperature>
-		<age>0.0022</age>
-		<spectraltype>M0–1</spectraltype>
+		<magJ errorminus="0.018" errorplus="0.018">9.325</magJ>
+		<magH errorminus="0.005" errorplus="0.005">8.613</magH>
+		<magK errorminus="0.020" errorplus="0.020">8.422</magK>
+		<temperature errorminus="50.00" errorplus="50.00">4250.00</temperature>
+		<age>0.002</age>
+		<spectraltype>M0</spectraltype>
 		<planet>
 			<name>V830 Tau b</name>
 			<list>Controversial</list>
-			<mass>1.4</mass>
-			<period errorminus="0.2" errorplus="0.2">6.0</period>
-			<semimajoraxis>0.065</semimajoraxis>
-			<inclination errorminus="10" errorplus="10">55</inclination>
+			<mass errorminus="0.15000" errorplus="0.15000" type="Mass">0.77000</mass>
+			<period errorminus="0.05000000" errorplus="0.05000000">4.93000000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.057000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="10" errorplus="10">55.0</inclination>
 			<description>V830 Tau is a weak-lined T Tauri star. Further observations are needed to determine whether the radial velocity variations are caused by a planet or some other phenomenon.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/02</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

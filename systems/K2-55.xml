@@ -1,0 +1,26 @@
+<system>
+	<name>K2-55</name>
+	<rightascension>22 15 00</rightascension>
+	<declination>-17 15 02</declination>
+	<star>
+		<name>K2-55</name>
+		<mass errorminus="0.05" errorplus="0.05">0.70</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.63</radius>
+		<magV errorminus="0.020" errorplus="0.020">13.546</magV>
+		<magB errorminus="0.050" errorplus="0.050">14.746</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.230</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.615</magH>
+		<magK errorminus="0.025" errorplus="0.025">10.471</magK>
+		<temperature errorminus="148.00" errorplus="148.00">4456.00</temperature>
+		<planet>
+			<name>K2-55 b</name>
+			<radius errorminus="0.029" errorplus="0.029">0.341</radius>
+			<period errorminus="0.00003300" errorplus="0.00003300">2.84925800</period>
+			<semimajoraxis errorminus="0.000780" errorplus="0.000780">0.034860</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000400" errorplus="0.000400" unit="BJD_TDB">2456983.422980</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

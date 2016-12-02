@@ -2,31 +2,35 @@
 	<name>HD 81040</name>
 	<rightascension>09 23 47</rightascension>
 	<declination>+20 21 52</declination>
-	<distance>32.56</distance>
+	<distance errorminus="1.37" errorplus="1.26">32.56</distance>
 	<star>
 		<name>HD 81040</name>
-		<mass>0.96</mass>
-		<radius>0.86</radius>
-		<magV>7.72</magV>
-		<magB errorminus="0.007" errorplus="0.007">8.370</magB>
+		<mass errorminus="0.04" errorplus="0.04">0.96</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.86</radius>
+		<magV>7.720</magV>
+		<magB errorminus="0.007" errorplus="0.007">8.400</magB>
 		<magR>7.3</magR>
 		<magI>7.0</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.505</magJ>
 		<magH errorminus="0.031" errorplus="0.031">6.268</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.159</magK>
-		<temperature>5700.0</temperature>
-		<metallicity>-0.16</metallicity>
+		<temperature errorminus="50.00" errorplus="50.00">5700.00</temperature>
+		<age errorminus="0.100" errorplus="0.100">0.730</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.160</metallicity>
 		<spectraltype>G2/G3</spectraltype>
 		<planet>
 			<name>HD 81040 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.86</mass>
-			<period>1001.7</period>
-			<semimajoraxis>1.94</semimajoraxis>
-			<eccentricity>0.526</eccentricity>
+			<mass errorminus="0.71000" errorplus="0.71000" type="Msini">6.86000</mass>
+			<period errorminus="7.00000000" errorplus="7.00000000">1001.70000000</period>
+			<semimajoraxis>1.940000</semimajoraxis>
+			<eccentricity errorminus="0.042000" errorplus="0.042000">0.526000</eccentricity>
+			<periastron errorminus="7.2000" errorplus="7.2000">81.3000</periastron>
+			<periastrontime errorminus="12.000000" errorplus="12.000000">2452504.000000</periastrontime>
+			<maximumrvtime errorminus="12.000000" errorplus="12.000000">2452504.000000</maximumrvtime>
 			<temperature>164.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

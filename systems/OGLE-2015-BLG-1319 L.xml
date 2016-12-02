@@ -1,0 +1,17 @@
+<system>
+	<name>OGLE-2015-BLG-1319 L</name>
+	<declination>-32 28 20</declination>
+	<star>
+		<name>OGLE-2015-BLG-1319 L</name>
+		<mass errorminus="0.05" errorplus="0.05">0.58</mass>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>OGLE-2015-BLG-1319 L</name>
+			<mass errorminus="8.0" errorplus="8.0" type="Microlensing">45.0</mass>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">0.245</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

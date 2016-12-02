@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-720</name>
-	<rightascension>19 54 33</rightascension>
+	<rightascension>19 54 32</rightascension>
 	<declination>+44 10 15</declination>
+	<distance errorminus="93.94" errorplus="191.51">880.00</distance>
 	<star>
 		<name>Kepler-720</name>
 		<mass errorminus="0.07" errorplus="0.11">0.95</mass>
 		<radius errorminus="0.09" errorplus="0.18">0.92</radius>
-		<temperature errorminus="250.5" errorplus="328.5">5618.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">0.00</metallicity>
+		<magV>15.113</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.785</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.390</magH>
+		<magK errorminus="0.029" errorplus="0.029">13.243</magK>
+		<temperature errorminus="250.53" errorplus="328.49">5618.00</temperature>
+		<age errorminus="1.940" errorplus="3.800">3.630</age>
+		<metallicity errorminus="0.177" errorplus="0.144">0.000</metallicity>
 		<planet>
 			<name>Kepler-720 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.071" errorplus="0.144">0.750</radius>
-			<period errorminus="0.000000730" errorplus="0.000000730">4.708326540</period>
+			<period errorminus="0.00000073" errorplus="0.00000073">4.70832654</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000125" errorplus="0.000125" unit="JD">2455004.446520</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

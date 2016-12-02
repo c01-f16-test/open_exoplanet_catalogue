@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1239</name>
-	<rightascension>19 32 31</rightascension>
+	<rightascension>19 32 30</rightascension>
 	<declination>+42 19 12</declination>
+	<distance errorminus="268.79" errorplus="304.71">2511.00</distance>
 	<star>
 		<name>Kepler-1239</name>
 		<mass errorminus="0.09" errorplus="0.08">1.40</mass>
 		<radius errorminus="0.16" errorplus="0.20">1.57</radius>
-		<temperature errorminus="198.4" errorplus="153.5">6564.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">0.22</metallicity>
+		<magV>15.438</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.340</magJ>
+		<magH errorminus="0.046" errorplus="0.046">14.122</magH>
+		<magK errorminus="0.116" errorplus="0.116">14.354</magK>
+		<temperature errorminus="198.42" errorplus="153.47">6564.00</temperature>
+		<age errorminus="0.420" errorplus="0.632">1.620</age>
+		<metallicity errorminus="0.172" errorplus="0.129">0.220</metallicity>
 		<planet>
 			<name>Kepler-1239 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.028" errorplus="0.033">0.259</radius>
-			<period errorminus="0.000026430" errorplus="0.000026430">5.191040160</period>
+			<period errorminus="0.00002643" errorplus="0.00002643">5.19104016</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004360" errorplus="0.004360" unit="JD">2454968.214660</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

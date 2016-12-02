@@ -2,32 +2,32 @@
 	<name>AB Pic</name>
 	<rightascension>06 19 12</rightascension>
 	<declination>-58 03 15</declination>
-	<distance errorminus="1.7" errorplus="1.8">45.5</distance>
+	<distance errorminus="1.76" errorplus="1.64">45.52</distance>
 	<star>
 		<name>AB Pic</name>
-		<magV>9.16</magV>
-		<magB errorminus="0.03" errorplus="0.03">10.01</magB>
+		<magV errorminus="0.019" errorplus="0.019">9.128</magV>
+		<magB errorminus="0.028" errorplus="0.028">10.011</magB>
 		<magR>9.1</magR>
 		<magI>8.23</magI>
 		<magJ errorminus="0.024" errorplus="0.024">7.576</magJ>
 		<magH errorminus="0.021" errorplus="0.021">7.088</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.981</magK>
 		<temperature>4875.0</temperature>
+		<age>0.030</age>
 		<metallicity>-0.64</metallicity>
 		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>AB Pic b</name>
 			<list>Confirmed planets</list>
 			<spectraltype>L0-1</spectraltype>
-			<mass lowerlimit="10" upperlimit="14">12</mass>
+			<mass errorminus="0.50000" errorplus="0.50000" lowerlimit="10" type="Mass" upperlimit="14">13.50000</mass>
 			<radius lowerlimit="1.5" upperlimit="1.6">1.55</radius>
-			<separation errorminus="0.014" errorplus="0.014" unit="arcsec">5.450</separation>
-			<separation unit="AU">260</separation>
 			<positionangle errorminus="0.20" errorplus="0.20">175.30</positionangle>
+			<semimajoraxis>260.000000</semimajoraxis>
 			<temperature errorminus="100" errorplus="100">1750</temperature>
 			<description>AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<image>AB Pic</image>
 			<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>

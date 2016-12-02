@@ -1,13 +1,13 @@
 <system>
 	<name>HIP 12961</name>
-	<rightascension>02 46 43</rightascension>
-	<declination>-23 05 12</declination>
-	<distance>23</distance>
+	<rightascension>02 46 42</rightascension>
+	<declination>-23 05 11</declination>
+	<distance errorminus="0.93" errorplus="0.86">23.80</distance>
 	<star>
 		<name>HIP 12961</name>
 		<mass>0.67</mass>
-		<magV>10.31</magV>
-		<magB>11.651</magB>
+		<magV errorminus="0.010" errorplus="0.010">10.240</magV>
+		<magB errorminus="0.010" errorplus="0.010">11.650</magB>
 		<magR>9.36</magR>
 		<magI>8.544</magI>
 		<magJ errorminus="0.021" errorplus="0.021">7.558</magJ>
@@ -15,18 +15,21 @@
 		<magK errorminus="0.018" errorplus="0.018">6.736</magK>
 		<temperature>3840.0</temperature>
 		<metallicity>-0.07</metallicity>
-		<spectraltype>M0V</spectraltype>
+		<spectraltype>M0</spectraltype>
 		<planet>
 			<name>HIP 12961 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.35</mass>
-			<period>57.435</period>
-			<semimajoraxis>0.13</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass type="Msini">0.35000</mass>
+			<period errorminus="0.04200000" errorplus="0.04200000">57.43500000</period>
+			<semimajoraxis>0.250000</semimajoraxis>
+			<eccentricity errorminus="0.034000" errorplus="0.034000">0.166000</eccentricity>
+			<periastron errorminus="13.0000" errorplus="13.0000">272.0000</periastron>
+			<periastrontime errorminus="2.0" errorplus="2.0">2454428.4</periastrontime>
+			<maximumrvtime errorminus="2.0" errorplus="2.0">2454428.4</maximumrvtime>
 			<temperature>393.0</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/23</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

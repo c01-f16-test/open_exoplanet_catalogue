@@ -1,8 +1,8 @@
 <system>
 	<name>WASP-74</name>
-	<rightascension>20 18 09.32</rightascension>
-	<declination>-01 04 32.6</declination>
-	<distance errorminus="20" errorplus="20">120</distance>
+	<rightascension>20 18 09</rightascension>
+	<declination>-01 04 32</declination>
+	<distance errorminus="20.00" errorplus="20.00">120.00</distance>
 	<star>
 		<name>WASP-74</name>
 		<name>1SWASP J201809.32-010432.6</name>
@@ -12,14 +12,14 @@
 		<name>TYC 5162-1142-1</name>
 		<mass errorminus="0.12" errorplus="0.12">1.48</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.64</radius>
-		<magV>9.75</magV>
+		<magV>9.700</magV>
 		<magB>10.39</magB>
-		<magJ>8.55</magJ>
-		<magH>8.29</magH>
-		<magK>8.22</magK>
-		<temperature errorminus="110" errorplus="110">5990</temperature>
-		<age errorminus="1.0" errorplus="1.6">2.0</age>
-		<metallicity errorminus="0.13" errorplus="0.13">0.39</metallicity>
+		<magJ errorminus="0.033" errorplus="0.033">8.548</magJ>
+		<magH errorminus="0.011" errorplus="0.011">8.286</magH>
+		<magK errorminus="0.021" errorplus="0.021">8.221</magK>
+		<temperature errorminus="110.00" errorplus="110.00">5970.00</temperature>
+		<age errorminus="1.000" errorplus="1.600">2.000</age>
+		<metallicity errorminus="0.130" errorplus="0.130">0.390</metallicity>
 		<spectraltype>F9</spectraltype>
 		<planet>
 			<name>WASP-74 b</name>
@@ -29,18 +29,19 @@
 			<name>PPM 180934 b</name>
 			<name>TYC 5162-1142-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.06" errorplus="0.06">0.95</mass>
-			<radius errorminus="0.06" errorplus="0.06">1.56</radius>
-			<period errorminus="0.000001" errorplus="0.000001">2.137750</period>
-			<semimajoraxis errorminus="0.001" errorplus="0.001">0.037</semimajoraxis>
-			<inclination errorminus="0.24" errorplus="0.24">79.81</inclination>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Mass">0.95000</mass>
+			<radius errorminus="0.060" errorplus="0.060">1.560</radius>
+			<period errorminus="0.00000100" errorplus="0.00000100">2.13775000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.037000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.240" errorplus="0.240">79.810</inclination>
 			<temperature errorminus="40" errorplus="40">1910</temperature>
 			<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
+			<transittime errorminus=".000200" errorplus="0.000200" unit="HJD-UTC">2456506.891800</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/10/24</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

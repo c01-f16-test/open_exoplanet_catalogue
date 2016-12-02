@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1148</name>
-	<rightascension>19 23 49</rightascension>
+	<rightascension>19 23 48</rightascension>
 	<declination>+45 43 10</declination>
+	<distance errorminus="38.56" errorplus="38.36">682.00</distance>
 	<star>
 		<name>Kepler-1148</name>
 		<mass errorminus="0.04" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.77</radius>
-		<temperature errorminus="98.3" errorplus="99.6">5054.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.02</metallicity>
+		<magV>15.277</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.800</magJ>
+		<magH errorminus="0.024" errorplus="0.024">13.301</magH>
+		<magK errorminus="0.027" errorplus="0.027">13.201</magK>
+		<temperature errorminus="98.31" errorplus="99.64">5054.00</temperature>
+		<age errorminus="2.700" errorplus="5.830">4.570</age>
+		<metallicity errorminus="0.160" errorplus="0.146">-0.020</metallicity>
 		<planet>
 			<name>Kepler-1148 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.008" errorplus="0.009">0.151</radius>
-			<period errorminus="0.000001290" errorplus="0.000001290">1.104463510</period>
+			<period errorminus="0.00000129" errorplus="0.00000129">1.10446351</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="JD">2454965.320760</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

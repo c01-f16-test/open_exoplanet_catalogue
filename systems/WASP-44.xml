@@ -1,38 +1,38 @@
 <system>
 	<name>WASP-44</name>
-	<rightascension>00 15 37</rightascension>
+	<rightascension>00 15 36</rightascension>
 	<declination>-11 56 17</declination>
 	<star>
 		<name>WASP-44</name>
-		<mass>0.917</mass>
-		<radius>0.865</radius>
-		<magV>12.9</magV>
+		<mass errorminus="0.034" errorplus="0.03">0.95</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.93</radius>
+		<magV>12.900</magV>
 		<magB>13.7</magB>
 		<magR errorminus="0.07" errorplus="0.07">13.17</magR>
 		<magI errorminus="0.04" errorplus="0.04">12.19</magI>
 		<magJ errorminus="0.023" errorplus="0.023">11.702</magJ>
 		<magH errorminus="0.025" errorplus="0.025">11.408</magH>
 		<magK errorminus="0.026" errorplus="0.026">11.341</magK>
-		<temperature>5410.0</temperature>
-		<age>4.1</age>
-		<metallicity>0.06</metallicity>
+		<temperature errorminus="150.0" errorplus="150.00">5410.00</temperature>
+		<age errorminus="0.6" errorplus="0.6">0.9</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.06</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<planet>
 			<name>WASP-44 b</name>
 			<name>2MASS J00153675-1156172 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.869</mass>
-			<radius>1.002</radius>
-			<period>2.4238133</period>
-			<semimajoraxis>0.03445</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>86.02</inclination>
+			<mass errorminus="0.06200" errorplus="0.06200" type="Mass">0.88900</mass>
+			<radius errorminus="0.110" errorplus="0.110">1.140</radius>
+			<period errorminus="0.00000870" errorplus="0.00000870">2.42380390</period>
+			<semimajoraxis errorminus="0.000410" errorplus="0.000410">0.034730</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.860" errorplus="1.110">86.020</inclination>
 			<temperature>1304</temperature>
 			<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2012).</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455434.37674</transittime>
+			<transittime errorminus=".000400" errorplus="0.000400" unit="HJD-UTC">2455434.376000</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

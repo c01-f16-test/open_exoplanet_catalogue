@@ -9,12 +9,14 @@
 		<name>Kepler-180</name>
 		<name>KOI-542</name>
 		<name>KIC 11669239</name>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9100</mass>
-		<radius errorminus=".471" errorplus="0.471">1.063</radius>
-		<magJ errorminus="0.023" errorplus="0.023">13.057</magJ>
+		<mass errorminus="0.1100" errorplus="0.1100">0.84</mass>
+		<radius errorminus="0.47" errorplus="0.47">1.06</radius>
+		<magV>14.350</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.057</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.696</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.685</magK>
-		<temperature errorminus="200" errorplus="200">5731</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5731.00</temperature>
+		<metallicity>-0.194</metallicity>
 		<planet>
 			<name>Kepler-180 c</name>
 			<name>KOI-542 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11669239 c</name>
 			<name>KIC 11669239.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03098" errorplus="0.12211">0.27430</radius>
-			<period errorminus=".000228" errorplus="0.000228">41.885775</period>
+			<radius errorminus="0.120" errorplus="0.120">0.269</radius>
+			<period errorminus="0.00022800" errorplus="0.00022800">41.88577500</period>
+			<semimajoraxis>0.229000</semimajoraxis>
 			<description>Kepler-180 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-180 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0028800" errorplus="0.0028800">2455011.6870300</transittime>
+			<transittime errorminus=".002880" errorplus="0.002880" unit="BJD">2455011.687030</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11669239 b</name>
 			<name>KIC 11669239.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06106" errorplus="0.06106">0.13670</radius>
-			<period errorminus=".000155" errorplus="0.000155">13.817124</period>
+			<radius errorminus="0.060" errorplus="0.060">0.134</radius>
+			<period errorminus="0.00015500" errorplus="0.00015500">13.81712400</period>
+			<semimajoraxis>0.109000</semimajoraxis>
 			<description>Kepler-180 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-180 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0070900" errorplus="0.0070900">2454968.0402800</transittime>
+			<transittime errorminus=".007090" errorplus="0.007090" unit="BJD">2454968.040280</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

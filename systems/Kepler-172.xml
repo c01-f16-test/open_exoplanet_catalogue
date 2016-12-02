@@ -9,12 +9,14 @@
 		<name>Kepler-172</name>
 		<name>KOI-510</name>
 		<name>KIC 6422155</name>
-		<mass errorminus="0.0760" errorplus="0.0760">0.8500</mass>
-		<radius errorminus=".191" errorplus="0.191">1.085</radius>
+		<mass errorminus="0.0760" errorplus="0.0760">0.86</mass>
+		<radius errorminus="0.19" errorplus="0.19">1.08</radius>
+		<magV>14.532</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.170</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.88</magH>
-		<magK errorminus="0.04" errorplus="0.04">12.79</magK>
-		<temperature errorminus="100" errorplus="100">5526</temperature>
+		<magH errorminus="0.034" errorplus="0.034">12.883</magH>
+		<magK errorminus="0.036" errorplus="0.036">12.793</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5526.00</temperature>
+		<metallicity>0.012</metallicity>
 		<planet>
 			<name>Kepler-172 b</name>
 			<name>KOI-510 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6422155 b</name>
 			<name>KIC 6422155.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03827" errorplus="0.03827">0.21416</radius>
-			<period errorminus=".000007" errorplus="0.000007">2.940309</period>
+			<radius errorminus="0.037" errorplus="0.037">0.210</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">2.94030900</period>
+			<semimajoraxis>0.040000</semimajoraxis>
 			<description>Kepler-172 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-172 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0011900" errorplus="0.0011900">2455002.9034000</transittime>
+			<transittime errorminus=".001190" errorplus="0.001190" unit="BJD">2455002.903400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6422155 c</name>
 			<name>KIC 6422155.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04830" errorplus="0.04830">0.26063</radius>
-			<period errorminus=".000020" errorplus="0.000020">6.388996</period>
+			<radius errorminus="0.047" errorplus="0.047">0.255</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">6.38899600</period>
+			<semimajoraxis>0.068000</semimajoraxis>
 			<description>Kepler-172 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-172 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018800" errorplus="0.0018800">2455008.4743400</transittime>
+			<transittime errorminus=".001880" errorplus="0.001880" unit="BJD">2455008.474340</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6422155 d</name>
 			<name>KIC 6422155.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03645" errorplus="0.03645">0.20504</radius>
-			<period errorminus=".000105" errorplus="0.000105">14.627119</period>
+			<radius errorminus="0.036" errorplus="0.036">0.201</radius>
+			<period errorminus="0.00010500" errorplus="0.00010500">14.62711900</period>
+			<semimajoraxis>0.118000</semimajoraxis>
 			<description>Kepler-172 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-172 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0035500" errorplus="0.0035500">2454969.2367200</transittime>
+			<transittime errorminus=".003550" errorplus="0.003550" unit="BJD">2454969.236720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 6422155 e</name>
 			<name>KIC 6422155.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05103" errorplus="0.05103">0.25152</radius>
-			<period errorminus=".000253" errorplus="0.000253">35.118736</period>
+			<radius errorminus="0.050" errorplus="0.050">0.246</radius>
+			<period errorminus="0.00025300" errorplus="0.00025300">35.11873600</period>
+			<semimajoraxis>0.211000</semimajoraxis>
 			<description>Kepler-172 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-172 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040800" errorplus="0.0040800">2454985.1193500</transittime>
+			<transittime errorminus=".004080" errorplus="0.004080" unit="BJD">2454985.119350</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

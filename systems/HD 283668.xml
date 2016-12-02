@@ -1,0 +1,24 @@
+<system>
+	<name>HD 283668</name>
+	<declination>+24 26 41</declination>
+	<star>
+		<name>HD 283668</name>
+		<mass errorminus="0.06" errorplus="0.06">0.68</mass>
+		<magV>9.44</magV>
+		<temperature errorminus="66.0" errorplus="66.0">4845.0</temperature>
+		<metallicity errorminus="0.12" errorplus="0.12">-0.75</metallicity>
+		<planet>
+			<name>HD 283668 b</name>
+			<mass errorminus="4.0" errorplus="4.0" type="Radial Velocity">53.4</mass>
+			<period errorminus="8.0" errorplus="8.0">2558.0</period>
+			<semimajoraxis errorminus="0.11" errorplus="0.11">3.3</semimajoraxis>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.577</eccentricity>
+			<periastron errorminus="1.2" errorplus="1.2">265.4</periastron>
+			<periastrontime errorminus="9.0" errorplus="9.0">2457401.0</periastrontime>
+			<maximumrvtime errorminus="9.0" errorplus="9.0">2457401.0</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

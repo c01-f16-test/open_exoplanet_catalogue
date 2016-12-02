@@ -1,30 +1,34 @@
 <system>
 	<name>HD 175541</name>
-	<rightascension>18 55 41</rightascension>
+	<rightascension>18 55 40</rightascension>
 	<declination>+04 15 55</declination>
-	<distance>128</distance>
+	<distance errorminus="21.48" errorplus="16.07">127.55</distance>
 	<star>
 		<name>HD 175541</name>
-		<mass>1.65</mass>
-		<radius>3.85</radius>
-		<magV>8.03</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.90</magB>
-		<magJ errorminus="0.026" errorplus="0.026">6.387</magJ>
+		<mass errorminus="0.12" errorplus="0.12">1.65</mass>
+		<radius errorminus="0.09" errorplus="0.09">3.80</radius>
+		<magV>8.030</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.910</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.387</magJ>
 		<magH errorminus="0.029" errorplus="0.029">5.952</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.829</magK>
-		<temperature>5060.0</temperature>
-		<metallicity>-0.07</metallicity>
-		<spectraltype>G8IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5060.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">1.900</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.070</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 175541 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.61</mass>
-			<period>297.3</period>
-			<semimajoraxis>1.03</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<mass type="Msini">0.61000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">297.30000000</period>
+			<semimajoraxis>1.030000</semimajoraxis>
+			<eccentricity errorminus="0.200000" errorplus="0.200000">0.330000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">183.0000</periastron>
+			<periastrontime errorminus="20.000000" errorplus="20.000000">2450213.000000</periastrontime>
+			<maximumrvtime errorminus="20.000000" errorplus="20.000000">2450213.000000</maximumrvtime>
 			<temperature>428.3</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

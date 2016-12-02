@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1220</name>
-	<rightascension>19 48 17</rightascension>
-	<declination>+42 58 40</declination>
+	<rightascension>19 48 16</rightascension>
+	<declination>+42 58 39</declination>
+	<distance errorminus="129.38" errorplus="217.61">958.00</distance>
 	<star>
 		<name>Kepler-1220</name>
 		<mass errorminus="0.08" errorplus="0.12">1.00</mass>
 		<radius errorminus="0.12" errorplus="0.21">0.99</radius>
-		<temperature errorminus="266.3" errorplus="246.4">5842.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.04</metallicity>
+		<magV>14.985</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.706</magJ>
+		<magH errorminus="0.023" errorplus="0.023">13.345</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.208</magK>
+		<temperature errorminus="266.34" errorplus="246.43">5842.00</temperature>
+		<age errorminus="2.000" errorplus="2.890">3.630</age>
+		<metallicity errorminus="0.182" errorplus="0.145">-0.040</metallicity>
 		<planet>
 			<name>Kepler-1220 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.029">0.136</radius>
-			<period errorminus="0.000041870" errorplus="0.000041870">7.426937410</period>
+			<period errorminus="0.00004187" errorplus="0.00004187">7.42693741</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004970" errorplus="0.004970" unit="JD">2454966.098710</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

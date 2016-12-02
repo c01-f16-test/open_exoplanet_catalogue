@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1029</name>
-	<rightascension>19 28 32</rightascension>
+	<rightascension>19 28 31</rightascension>
 	<declination>+41 32 51</declination>
+	<distance errorminus="22.95" errorplus="23.20">422.00</distance>
 	<star>
 		<name>Kepler-1029</name>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.77</radius>
-		<temperature errorminus="91.8" errorplus="68.4">5030.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.16">0.01</metallicity>
+		<magV>14.310</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.766</magJ>
+		<magH>12.301</magH>
+		<magK>12.169</magK>
+		<temperature errorminus="91.81" errorplus="68.38">5030.00</temperature>
+		<age errorminus="2.340" errorplus="6.070">4.070</age>
+		<metallicity errorminus="0.172" errorplus="0.163">0.010</metallicity>
 		<planet>
 			<name>Kepler-1029 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.007">0.112</radius>
-			<period errorminus="0.000008900" errorplus="0.000008900">4.417696480</period>
+			<period errorminus="0.00000890" errorplus="0.00000890">4.41769648</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001650" errorplus="0.001650" unit="JD">2454966.961170</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

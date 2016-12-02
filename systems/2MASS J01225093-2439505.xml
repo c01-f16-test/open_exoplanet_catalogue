@@ -1,0 +1,25 @@
+<system>
+	<name>2MASS J01225093-2439505</name>
+	<rightascension>01 22 50</rightascension>
+	<declination>-24 39 50</declination>
+	<distance errorminus="4.00" errorplus="4.00">36.00</distance>
+	<star>
+		<name>2MASS J01225093-2439505</name>
+		<mass errorminus="0.05" errorplus="0.05">0.40</mass>
+		<magV errorminus="0.070" errorplus="0.070">14.240</magV>
+		<magJ errorminus="0.026" errorplus="0.026">10.084</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.470</magH>
+		<magK errorminus="0.024" errorplus="0.024">9.198</magK>
+		<temperature errorminus="50.00" errorplus="50.00">3530.00</temperature>
+		<age errorminus="0.010" errorplus="0.010">0.120</age>
+		<spectraltype>M3.5 V</spectraltype>
+		<planet>
+			<name>2MASS J01225093-2439505 b</name>
+			<mass errorminus="2.50000" errorplus="2.50000" type="Mass">24.50000</mass>
+			<semimajoraxis errorminus="6.000000" errorplus="6.000000">52.000000</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

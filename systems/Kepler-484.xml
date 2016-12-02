@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-484</name>
-	<rightascension>18 57 35</rightascension>
-	<declination>+46 14 57</declination>
+	<rightascension>18 57 34</rightascension>
+	<declination>+46 14 56</declination>
+	<distance errorminus="9.77" errorplus="10.29">377.00</distance>
 	<star>
 		<name>Kepler-484</name>
 		<mass errorminus="0.03" errorplus="0.02">0.96</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.87</radius>
-		<temperature errorminus="48.7" errorplus="54.6">5668.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.09">-0.10</metallicity>
+		<magV>13.024</magV>
+		<magJ errorminus="0.022" errorplus="0.022">11.890</magJ>
+		<magH errorminus="0.017" errorplus="0.017">11.575</magH>
+		<magK errorminus="0.017" errorplus="0.017">11.482</magK>
+		<temperature errorminus="48.74" errorplus="54.61">5668.00</temperature>
+		<age errorminus="0.326" errorplus="0.654">1.480</age>
+		<metallicity errorminus="0.085" errorplus="0.090">-0.100</metallicity>
 		<planet>
 			<name>Kepler-484 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.004" errorplus="0.006">0.203</radius>
-			<period errorminus="0.000007200" errorplus="0.000007200">10.045569310</period>
+			<period errorminus="0.00000720" errorplus="0.00000720">10.04556931</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000597" errorplus="0.000597" unit="JD">2454962.093273</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

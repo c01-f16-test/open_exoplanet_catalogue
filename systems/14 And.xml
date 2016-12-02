@@ -1,8 +1,8 @@
 <system>
 	<name>14 And</name>
-	<rightascension>23 31 17.41346</rightascension>
-	<declination>+39 14 10.3092</declination>
-	<distance errorminus="1.7" errorplus="1.7">79.2</distance>
+	<rightascension>23 31 17</rightascension>
+	<declination>+39 14 10</declination>
+	<distance errorminus="4.38" errorplus="3.93">76.39</distance>
 	<star>
 		<name>14 And</name>
 		<name>14 Andromedae</name>
@@ -12,32 +12,33 @@
 		<name>HR 8930</name>
 		<name>BD+38 5023</name>
 		<name>2MASS J23311742+3914102</name>
-		<mass errorminus="0.2" errorplus="0.1">2.2</mass>
-		<radius errorminus="1" errorplus="1">11</radius>
+		<mass errorminus="0.20" errorplus="0.10">2.20</mass>
+		<radius errorminus="1.00" errorplus="1.00">11.00</radius>
 		<magV>5.22</magV>
-		<magB>6.24</magB>
+		<magB>6.240</magB>
 		<magR>4.6</magR>
 		<magI>4.1</magI>
 		<magJ errorminus="0.180" errorplus="0.180">3.019</magJ>
 		<magH errorminus="0.184" errorplus="0.184">2.608</magH>
 		<magK errorminus="0.240" errorplus="0.240">2.331</magK>
-		<temperature errorminus="20" errorplus="20">4813</temperature>
-		<metallicity errorminus="0.03" errorplus="0.03">-0.24</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<temperature errorminus="20.00" errorplus="20.00">4813.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.240</metallicity>
+		<spectraltype>G8 III</spectraltype>
 		<planet>
 			<name>14 And b</name>
 			<name>14 Andromedae b</name>
 			<name>HD 221345 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">4.8</mass>
-			<period errorminus="0.23" errorplus="0.23">185.84</period>
-			<semimajoraxis>0.83</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<periastron>0</periastron>
-			<periastrontime errorminus="1.5" errorplus="1.5">2452861.4</periastrontime>
+			<mass errorminus="0.57" errorplus="0.57" type="Msini">4.80000</mass>
+			<period errorminus="0.23000000" errorplus="0.23000000">185.84000000</period>
+			<semimajoraxis>0.830000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="1.500000" errorplus="1.500000">2452861.400000</periastrontime>
+			<maximumrvtime errorminus="1.500000" errorplus="1.500000">2452861.400000</maximumrvtime>
 			<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

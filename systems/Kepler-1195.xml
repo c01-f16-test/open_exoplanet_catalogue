@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1195</name>
 	<rightascension>18 57 24</rightascension>
-	<declination>+40 51 11</declination>
+	<declination>+40 51 10</declination>
+	<distance errorminus="68.99" errorplus="62.81">812.00</distance>
 	<star>
 		<name>Kepler-1195</name>
 		<mass errorminus="0.06" errorplus="0.05">0.74</mass>
 		<radius errorminus="0.06" errorplus="0.05">0.71</radius>
-		<temperature errorminus="80.2" errorplus="111.3">4965.0</temperature>
-		<metallicity errorminus="0.21" errorplus="0.19">-0.25</metallicity>
+		<magV>15.888</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.442</magJ>
+		<magH errorminus="0.032" errorplus="0.032">13.949</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.712</magK>
+		<temperature errorminus="80.25" errorplus="111.27">4965.00</temperature>
+		<age errorminus="2.690" errorplus="6.100">4.470</age>
+		<metallicity errorminus="0.212" errorplus="0.194">-0.250</metallicity>
 		<planet>
 			<name>Kepler-1195 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.017">0.186</radius>
-			<period errorminus="0.000028720" errorplus="0.000028720">8.496422410</period>
+			<period errorminus="0.00002872" errorplus="0.00002872">8.49642241</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002770" errorplus="0.002770" unit="JD">2454971.735170</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

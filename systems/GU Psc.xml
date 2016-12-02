@@ -1,35 +1,35 @@
 <system>
 	<name>GU Psc</name>
 	<rightascension>01 12 35</rightascension>
-	<declination>+17 03 56</declination>
-	<distance errorminus="5" errorplus="5">48</distance>
+	<declination>+17 03 55</declination>
+	<distance errorminus="5.00" errorplus="5.00">48.00</distance>
 	<star>
 		<name>GU Psc</name>
-		<mass errorminus="0.25" errorplus="0.25">0.325</mass>
-		<magV>13.55</magV>
-		<magB>15.30</magB>
+		<mass errorminus="0.03" errorplus="0.03">0.33</mass>
+		<magV>13.550</magV>
+		<magB>15.300</magB>
 		<magR>12.92</magR>
-		<magJ errorminus="0.022" errorplus="0.022">10.211</magJ>
-		<magH errorminus="0.022" errorplus="0.022">9.598</magH>
-		<magK errorminus="0.015" errorplus="0.015">9.345</magK>
-		<age errorminus="0.03" errorplus="0.03">0.1</age>
-		<metallicity errorminus="0.13" errorplus="0.13">0.1</metallicity>
+		<magJ errorminus="0.019" errorplus="0.019">10.211</magJ>
+		<magH errorminus="0.020" errorplus="0.020">9.598</magH>
+		<magK errorminus="0.013" errorplus="0.013">9.345</magK>
+		<age errorminus="0.030" errorplus="0.030">0.100</age>
+		<metallicity errorminus="0.130" errorplus="0.130">0.100</metallicity>
 		<spectraltype>M3</spectraltype>
 		<planet>
 			<name>GU Psc b</name>
 			<list>Confirmed planets</list>
 			<spectraltype>T3.5</spectraltype>
-			<mass errorminus="2" errorplus="2">11</mass>
-			<separation errorminus="0.03" errorplus="0.03" unit="arcsec">41.97</separation>
-			<separation errorminus="200" errorplus="200" unit="AU">2000</separation>
+			<mass errorminus="1.70000" errorplus="1.70000" type="Mass">11.30000</mass>
+			<radius errorminus="0.115" errorplus="0.115">1.265</radius>
 			<positionangle>29</positionangle>
 			<magJ errorminus="0.03" errorplus="0.03">18.12</magJ>
 			<magH errorminus="0.03" errorplus="0.03">17.70</magH>
 			<magK errorminus="0.03" errorplus="0.03">17.40</magK>
+			<semimajoraxis errorminus="200.000000" errorplus="200.000000">2000.000000</semimajoraxis>
 			<temperature errorminus="50" errorplus="50">1050</temperature>
 			<description>GU Psc b is a comoving companion of planetary mass to the young M3 star GU Psc. The system is only 100 million years old and the wide separation of the planetary companion raising interesting questions about the system's formation history.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>14/05/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

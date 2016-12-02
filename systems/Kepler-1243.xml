@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1243</name>
 	<rightascension>19 36 02</rightascension>
-	<declination>+42 52 51</declination>
+	<declination>+42 52 50</declination>
+	<distance errorminus="76.00" errorplus="140.74">877.00</distance>
 	<star>
 		<name>Kepler-1243</name>
 		<mass errorminus="0.06" errorplus="0.05">0.96</mass>
 		<radius errorminus="0.07" errorplus="0.15">0.94</radius>
-		<temperature errorminus="139.8" errorplus="113.9">5667.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<magV>14.834</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.603</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.245</magH>
+		<magK errorminus="0.031" errorplus="0.031">13.168</magK>
+		<temperature errorminus="139.83" errorplus="113.87">5667.00</temperature>
+		<age errorminus="2.620" errorplus="4.130">4.370</age>
+		<metallicity errorminus="0.168" errorplus="0.135">0.010</metallicity>
 		<planet>
 			<name>Kepler-1243 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.025">0.156</radius>
-			<period errorminus="0.000089230" errorplus="0.000089230">16.832072900</period>
+			<period errorminus="0.00008923" errorplus="0.00008923">16.83207290</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005030" errorplus="0.005030" unit="JD">2454973.528800</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

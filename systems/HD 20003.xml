@@ -1,7 +1,7 @@
 <system>
 	<name>HD 20003</name>
 	<rightascension>03 07 38</rightascension>
-	<declination>-72 19 19</declination>
+	<declination>-72 19 18</declination>
 	<distance>43.8</distance>
 	<star>
 		<name>HD 20003</name>
@@ -17,27 +17,27 @@
 		<planet>
 			<name>HD 20003 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0378</mass>
-			<period>11.849</period>
-			<semimajoraxis>0.0974</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<mass errorminus="0.0031" errorplus="0.0031">0.0378</mass>
+			<period errorminus="0.0028" errorplus="0.0028">11.849</period>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.0974</semimajoraxis>
+			<eccentricity errorminus="0.08" errorplus="0.08">0.4</eccentricity>
 			<temperature>751.7</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 20003 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.0422</mass>
-			<period>33.823</period>
-			<semimajoraxis>0.1961</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.004" errorplus="0.004">0.0422</mass>
+			<period errorminus="0.0654" errorplus="0.0654">33.823</period>
+			<semimajoraxis errorminus="0.0032" errorplus="0.0032">0.1961</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.16</eccentricity>
 			<temperature>534.5</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

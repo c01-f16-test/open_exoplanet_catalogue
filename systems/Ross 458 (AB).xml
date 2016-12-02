@@ -1,0 +1,27 @@
+<system>
+	<name>Ross 458 (AB)</name>
+	<declination>+12 22 32</declination>
+	<star>
+		<name>Ross 458 (AB)</name>
+		<name>DT Virginis</name>
+		<name>HIP 63510</name>
+		<name>GI 494</name>
+		<mass errorminus="0.08" errorplus="0.08">0.6</mass>
+		<magV>9.76</magV>
+		<age errorminus="0.325" errorplus="0.325">0.475</age>
+		<metallicity>0.0</metallicity>
+		<spectraltype>M0.5</spectraltype>
+		<planet>
+			<name>Ross 458 (AB) c</name>
+			<name>HIP 63510C</name>
+			<name>WISEPC J130041.65+122114.6</name>
+			<name>Ross 458C</name>
+			<mass errorminus="4.5" errorplus="4.5">11.3</mass>
+			<radius errorminus="0.07" errorplus="0.07">1.07</radius>
+			<semimajoraxis>1168.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

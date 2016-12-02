@@ -9,12 +9,14 @@
 		<name>Kepler-304</name>
 		<name>KOI-1557</name>
 		<name>KIC 5371776</name>
-		<mass errorminus="0.0450" errorplus="0.0450">0.6870</mass>
-		<radius errorminus=".037" errorplus="0.037">0.687</radius>
+		<mass errorminus="0.0450" errorplus="0.0450">0.80</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.69</radius>
+		<magV>14.840</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.243</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.75</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.63</magK>
-		<temperature errorminus="100" errorplus="100">4731</temperature>
+		<magH errorminus="0.033" errorplus="0.033">12.750</magH>
+		<magK errorminus="0.033" errorplus="0.033">12.626</magK>
+		<temperature errorminus="100.00" errorplus="100.00">4731.00</temperature>
+		<metallicity>0.523</metallicity>
 		<planet>
 			<name>Kepler-304 b</name>
 			<name>KOI-1557 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5371776 b</name>
 			<name>KIC 5371776.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.01914">0.26063</radius>
-			<period errorminus=".000002" errorplus="0.000002">3.295709</period>
+			<radius errorminus="0.019" errorplus="0.019">0.255</radius>
+			<period errorminus="0.00000200" errorplus="0.00000200">3.29570900</period>
+			<semimajoraxis>0.039000</semimajoraxis>
 			<description>Kepler-304 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0003700" errorplus="0.0003700">2454966.9648200</transittime>
+			<transittime errorminus=".000370" errorplus="0.000370" unit="BJD">2454966.964820</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5371776 d</name>
 			<name>KIC 5371776.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.01914">0.25061</radius>
-			<period errorminus=".000015" errorplus="0.000015">9.653471</period>
+			<radius errorminus="0.019" errorplus="0.019">0.245</radius>
+			<period errorminus="0.00001500" errorplus="0.00001500">9.65347100</period>
+			<semimajoraxis>0.080000</semimajoraxis>
 			<description>Kepler-304 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009100" errorplus="0.0009100">2454967.8558900</transittime>
+			<transittime errorminus=".000910" errorplus="0.000910" unit="BJD">2454967.855890</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,25 +58,27 @@
 			<name>KIC 5371776 c</name>
 			<name>KIC 5371776.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.01367">0.19775</radius>
-			<period errorminus=".000007" errorplus="0.000007">5.315946</period>
+			<radius errorminus="0.013" errorplus="0.013">0.194</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">5.31594600</period>
+			<semimajoraxis>0.054000</semimajoraxis>
 			<description>Kepler-304 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-304 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0008500" errorplus="0.0008500">2454965.4289200</transittime>
+			<transittime errorminus=".000850" errorplus="0.000850" unit="BJD">2454965.428920</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-304 e</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.003" errorplus="0.005">0.107</radius>
-			<period errorminus="0.000002800" errorplus="0.000002800">1.499146950</period>
+			<period errorminus="0.00000280" errorplus="0.00000280">1.49914695</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001500" errorplus="0.001500" unit="JD">2454966.068570</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

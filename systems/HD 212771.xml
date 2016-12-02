@@ -2,31 +2,35 @@
 	<name>HD 212771</name>
 	<rightascension>22 27 03</rightascension>
 	<declination>-17 15 49</declination>
-	<distance>131</distance>
+	<distance errorminus="18.06" errorplus="13.93">121.80</distance>
 	<star>
 		<name>HD 212771</name>
-		<mass>1.15</mass>
-		<radius>5</radius>
-		<magV>7.6</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.48</magB>
+		<mass errorminus="0.08" errorplus="0.08">1.15</mass>
+		<radius errorminus="0.10" errorplus="0.10">5.00</radius>
+		<magV errorminus="0.014" errorplus="0.014">7.595</magV>
+		<magB errorminus="0.021" errorplus="0.021">8.480</magB>
 		<magI errorminus="0.03" errorplus="0.03">8.66</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.025</magJ>
 		<magH errorminus="0.038" errorplus="0.038">5.578</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.496</magK>
-		<temperature>5121.0</temperature>
-		<metallicity>-0.21</metallicity>
-		<spectraltype>G8IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5121.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">6.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.210</metallicity>
+		<spectraltype>G8 IV</spectraltype>
 		<planet>
 			<name>HD 212771 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>373.3</period>
-			<semimajoraxis>1.22</semimajoraxis>
-			<eccentricity>0.111</eccentricity>
+			<mass errorminus="0.40000" errorplus="0.40000" type="Msini">2.30000</mass>
+			<period errorminus="3.40000000" errorplus="3.40000000">373.30000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.220000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.111000</eccentricity>
+			<periastron errorminus="40.0000" errorplus="40.0000">55.0000</periastron>
+			<periastrontime errorminus="40.000000" errorplus="40.000000">2454947.000000</periastrontime>
+			<maximumrvtime errorminus="40.000000" errorplus="40.000000">2454947.000000</maximumrvtime>
 			<temperature>456.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

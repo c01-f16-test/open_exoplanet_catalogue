@@ -1,8 +1,8 @@
 <system>
 	<name>EPIC 201546283</name>
 	<name>K2-27</name>
-	<rightascension>11 26 03.639</rightascension>
-	<declination>+01 13 50.66</declination>
+	<rightascension>11 26 03</rightascension>
+	<declination>+01 13 50</declination>
 	<distance errorminus="29" errorplus="2138">251</distance>
 	<star>
 		<name>EPIC 201546283</name>
@@ -10,27 +10,30 @@
 		<name>2MASS J11260363+0113505</name>
 		<mass errorminus="0.05" errorplus="0.05">0.89</mass>
 		<radius errorminus="0.06" errorplus="0.06">0.85</radius>
-		<magJ errorminus="0.02" errorplus="0.02">11.16</magJ>
-		<magH errorminus="0.03" errorplus="0.03">10.79</magH>
-		<magK errorminus="0.02" errorplus="0.02">10.7</magK>
-		<temperature errorminus="70" errorplus="70">5320</temperature>
-		<metallicity errorminus="0.07" errorplus="0.07">0.14</metallicity>
+		<magV errorminus="0.020" errorplus="0.020">12.644</magV>
+		<magB errorminus="0.070" errorplus="0.070">13.506</magB>
+		<magJ errorminus="0.024" errorplus="0.024">11.157</magJ>
+		<magH errorminus="0.029" errorplus="0.029">10.794</magH>
+		<magK errorminus="0.024" errorplus="0.024">10.704</magK>
+		<temperature errorminus="70.00" errorplus="70.00">5320.00</temperature>
+		<metallicity errorminus="0.070" errorplus="0.070">0.140</metallicity>
 		<planet>
 			<name>EPIC 201546283 b</name>
 			<name>EPIC 201546283.01</name>
 			<name>K2-27 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.02328" errorplus="0.02360">0.09156</mass>
-			<radius errorminus="0.0294" errorplus="0.0294">0.3970</radius>
+			<mass errorminus="0.02328" errorplus="0.02360" type="Mass">0.09156</mass>
+			<radius errorminus="0.029" errorplus="0.029">0.397</radius>
 			<impactparameter errorminus="0.20" errorplus="0.21">0.30</impactparameter>
-			<period errorminus="0.00013" errorplus="0.00013">6.77145</period>
-			<eccentricity errorminus="0.09" errorplus="0.10">0.16</eccentricity>
+			<period errorminus="0.00013000" errorplus="0.00013000">6.77145000</period>
+			<eccentricity errorminus="0.090000" errorplus="0.100000">0.160000</eccentricity>
+			<inclination>88.4</inclination>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010" errorplus="0.0010" unit="BJD">2456812.8451</transittime>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="BJD">2456812.845100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/03/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

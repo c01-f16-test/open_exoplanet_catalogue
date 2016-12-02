@@ -1,53 +1,62 @@
 <system>
 	<name>HD 181433</name>
-	<rightascension>19 25 10</rightascension>
-	<declination>-66 28 08</declination>
-	<distance>26.15</distance>
+	<rightascension>19 25 09</rightascension>
+	<declination>-66 28 07</declination>
+	<distance errorminus="0.81" errorplus="0.76">26.15</distance>
 	<star>
 		<name>HD 181433</name>
 		<mass>0.78</mass>
-		<magV>8.38</magV>
-		<magB>9.42</magB>
+		<magV>8.400</magV>
+		<magB>9.440</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.664</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.243</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.094</magK>
-		<temperature>4962.0</temperature>
-		<metallicity>0.33</metallicity>
-		<spectraltype>K3IV</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.094</magK>
+		<temperature errorminus="134.00" errorplus="134.00">4962.00</temperature>
+		<metallicity errorminus="0.130" errorplus="0.130">0.330</metallicity>
+		<spectraltype>K3 IV</spectraltype>
 		<planet>
 			<name>HD 181433 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0238</mass>
-			<period>9.3743</period>
-			<semimajoraxis>0.08</semimajoraxis>
-			<eccentricity>0.396</eccentricity>
+			<mass type="Msini">0.02400</mass>
+			<period errorminus="0.00190000" errorplus="0.00190000">9.37430000</period>
+			<semimajoraxis>0.080000</semimajoraxis>
+			<eccentricity errorminus="0.062000" errorplus="0.062000">0.396000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">202.0000</periastron>
+			<periastrontime errorminus="0.260000" errorplus="0.260000">2454542.000000</periastrontime>
+			<maximumrvtime errorminus="0.260000" errorplus="0.260000">2454542.000000</maximumrvtime>
 			<temperature>660.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 181433 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.64</mass>
-			<period>962</period>
-			<semimajoraxis>1.76</semimajoraxis>
-			<eccentricity>0.28</eccentricity>
+			<mass type="Msini">0.64000</mass>
+			<period errorminus="15.00000000" errorplus="15.00000000">962.00000000</period>
+			<semimajoraxis>1.760000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.280000</eccentricity>
+			<periastron errorminus="3.2000" errorplus="3.2000">21.4000</periastron>
+			<periastrontime errorminus="7.300000" errorplus="7.300000">2453235.000000</periastrontime>
+			<maximumrvtime errorminus="7.300000" errorplus="7.300000">2453235.000000</maximumrvtime>
 			<temperature>141.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 181433 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.54</mass>
-			<period>2172</period>
-			<semimajoraxis>3</semimajoraxis>
-			<eccentricity>0.48</eccentricity>
+			<mass type="Msini">0.54000</mass>
+			<period errorminus="158.00000000" errorplus="158.00000000">2172.00000000</period>
+			<semimajoraxis>3.000000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.480000</eccentricity>
+			<periastron errorminus="13.0000" errorplus="13.0000">-30.0000</periastron>
+			<periastrontime errorminus="194.000000" errorplus="194.000000">2452154.000000</periastrontime>
+			<maximumrvtime errorminus="194.000000" errorplus="194.000000">2452154.000000</maximumrvtime>
 			<temperature>107.3</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/01/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

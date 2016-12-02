@@ -1,35 +1,39 @@
 <system>
 	<name>XO-3</name>
-	<rightascension>04 21 53</rightascension>
+	<rightascension>04 21 52</rightascension>
 	<declination>+57 49 01</declination>
-	<distance>260</distance>
+	<distance errorminus="18.00" errorplus="18.00">174.00</distance>
 	<star>
 		<name>XO-3</name>
-		<mass>1.213</mass>
-		<radius>1.377</radius>
+		<mass errorminus="0.08" errorplus="0.07">1.21</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.38</radius>
 		<magV>9.8</magV>
-		<magB errorminus="0.03" errorplus="0.03">10.27</magB>
+		<magB errorminus="0.040" errorplus="0.040">10.250</magB>
 		<magJ errorminus="0.029" errorplus="0.029">9.013</magJ>
 		<magH errorminus="0.018" errorplus="0.018">8.845</magH>
 		<magK errorminus="0.019" errorplus="0.019">8.791</magK>
-		<temperature>6429.0</temperature>
-		<metallicity>-0.177</metallicity>
-		<spectraltype>F5V</spectraltype>
+		<temperature errorminus="44.0" errorplus="100.00">6429.00</temperature>
+		<age errorminus="0.82" errorplus="0.82">2.82</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.08</metallicity>
+		<spectraltype>F5 V</spectraltype>
 		<planet>
 			<name>XO-3 b</name>
 			<name>2MASS J04215269+5749018 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.79</mass>
-			<radius>1.217</radius>
-			<period>3.1915239</period>
-			<semimajoraxis>0.0454</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
-			<inclination>84.2</inclination>
+			<mass errorminus="0.59000" errorplus="0.59000" type="Mass">11.79000</mass>
+			<radius errorminus="0.073" errorplus="0.073">1.217</radius>
+			<period errorminus="0.00000680" errorplus="0.00000680">3.19152390</period>
+			<semimajoraxis errorminus="0.000820" errorplus="0.000820">0.045400</semimajoraxis>
+			<eccentricity errorminus="0.017000" errorplus="0.017000">0.260000</eccentricity>
+			<periastron errorminus="7.3000" errorplus="7.3000">345.8000</periastron>
+			<periastrontime errorminus="0.02" errorplus="0.02">2454024.84</periastrontime>
+			<maximumrvtime errorminus="0.02" errorplus="0.02">2454024.84</maximumrvtime>
+			<inclination errorminus="0.540" errorplus="0.540">84.200</inclination>
 			<temperature>1554.5</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2454864.76684</transittime>
+			<transittime errorminus=".000230" errorplus="0.000230" unit="HJD">2454449.868160</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

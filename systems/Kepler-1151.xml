@@ -2,22 +2,29 @@
 	<name>Kepler-1151</name>
 	<rightascension>19 28 59</rightascension>
 	<declination>+47 52 42</declination>
+	<distance errorminus="59.72" errorplus="76.61">763.00</distance>
 	<star>
 		<name>Kepler-1151</name>
 		<mass errorminus="0.06" errorplus="0.05">0.88</mass>
 		<radius errorminus="0.06" errorplus="0.08">0.85</radius>
-		<temperature errorminus="93.6" errorplus="97.2">5470.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.17">-0.11</metallicity>
+		<magV>14.872</magV>
+		<magJ errorminus="0.037" errorplus="0.037">13.610</magJ>
+		<magH errorminus="0.036" errorplus="0.036">13.207</magH>
+		<magK errorminus="0.040" errorplus="0.040">13.126</magK>
+		<temperature errorminus="93.64" errorplus="97.19">5470.00</temperature>
+		<age errorminus="2.710" errorplus="5.890">4.370</age>
+		<metallicity errorminus="0.187" errorplus="0.166">-0.110</metallicity>
 		<planet>
 			<name>Kepler-1151 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.021">0.198</radius>
-			<period errorminus="0.000401000" errorplus="0.000401000">65.647842400</period>
+			<period errorminus="0.00040100" errorplus="0.00040100">65.64784240</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004870" errorplus="0.004870" unit="JD">2455006.305170</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

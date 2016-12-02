@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1508</name>
-	<rightascension>19 52 29</rightascension>
+	<rightascension>19 52 28</rightascension>
 	<declination>+40 22 30</declination>
+	<distance errorminus="177.51" errorplus="365.17">892.00</distance>
 	<star>
 		<name>Kepler-1508</name>
 		<mass errorminus="0.12" errorplus="0.22">1.14</mass>
 		<radius errorminus="0.23" errorplus="0.48">1.22</radius>
-		<temperature errorminus="280.4" errorplus="294.8">6158.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.13">0.01</metallicity>
+		<magV>14.276</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.994</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.643</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.603</magK>
+		<temperature errorminus="280.41" errorplus="294.77">6158.00</temperature>
+		<age errorminus="1.090" errorplus="1.700">2.690</age>
+		<metallicity errorminus="0.176" errorplus="0.132">0.010</metallicity>
 		<planet>
 			<name>Kepler-1508 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.047">0.119</radius>
-			<period errorminus="0.000549900" errorplus="0.000549900">20.705650400</period>
+			<period errorminus="0.00054990" errorplus="0.00054990">20.70565040</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".019000" errorplus="0.019000" unit="JD">2454972.984600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

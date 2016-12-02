@@ -9,12 +9,14 @@
 		<name>Kepler-374</name>
 		<name>KOI-2220</name>
 		<name>KIC 6871071</name>
-		<mass errorminus="0.1100" errorplus="0.1100">1.0300</mass>
-		<radius errorminus=".474" errorplus="0.474">0.911</radius>
+		<mass errorminus="0.1100" errorplus="0.1100">0.84</mass>
+		<radius errorminus="0.47" errorplus="0.47">0.91</radius>
+		<magV>14.686</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.503</magJ>
-		<magH errorminus="0.026" errorplus="0.026">13.181</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.14</magK>
-		<temperature errorminus="200" errorplus="200">5977</temperature>
+		<magH errorminus="0.025" errorplus="0.025">13.181</magH>
+		<magK errorminus="0.032" errorplus="0.032">13.136</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5977.00</temperature>
+		<metallicity>-0.441</metallicity>
 		<planet>
 			<name>Kepler-374 c</name>
 			<name>KOI-2220 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6871071 c</name>
 			<name>KIC 6871071.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05194" errorplus="0.05194">0.10024</radius>
-			<period errorminus=".000020" errorplus="0.000020">3.282807</period>
+			<radius errorminus="0.051" errorplus="0.051">0.098</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">3.28280700</period>
+			<semimajoraxis>0.042000</semimajoraxis>
 			<description>Kepler-374 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-374 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037500" errorplus="0.0037500">2454964.8997200</transittime>
+			<transittime errorminus=".003750" errorplus="0.003750" unit="BJD">2454964.899720</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6871071 d</name>
 			<name>KIC 6871071.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06379" errorplus="0.06379">0.11938</radius>
-			<period errorminus=".000040" errorplus="0.000040">5.028219</period>
+			<radius errorminus="0.062" errorplus="0.062">0.117</radius>
+			<period errorminus="0.00004000" errorplus="0.00004000">5.02821900</period>
+			<semimajoraxis>0.056000</semimajoraxis>
 			<description>Kepler-374 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-374 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0044700" errorplus="0.0044700">2454967.1074100</transittime>
+			<transittime errorminus=".004470" errorplus="0.004470" unit="BJD">2454967.107410</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6871071 b</name>
 			<name>KIC 6871071.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04921" errorplus="0.04921">0.09386</radius>
-			<period errorminus=".000011" errorplus="0.000011">1.897806</period>
+			<radius errorminus="0.048" errorplus="0.048">0.092</radius>
+			<period errorminus="0.00001100" errorplus="0.00001100">1.89780600</period>
+			<semimajoraxis>0.029000</semimajoraxis>
 			<description>Kepler-374 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-374 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040700" errorplus="0.0040700">2454965.6785400</transittime>
+			<transittime errorminus=".004070" errorplus="0.004070" unit="BJD">2454965.678540</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

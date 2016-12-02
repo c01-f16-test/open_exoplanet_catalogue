@@ -2,28 +2,34 @@
 	<name>HD 63454</name>
 	<rightascension>07 39 21</rightascension>
 	<declination>-78 16 44</declination>
-	<distance>35.8</distance>
+	<distance errorminus="1.14" errorplus="1.07">35.80</distance>
 	<star>
 		<name>HD 63454</name>
-		<mass>0.8</mass>
-		<magV>9.37</magV>
-		<magB errorminus="0.04" errorplus="0.04">10.42</magB>
+		<mass>0.84</mass>
+		<radius>1.05</radius>
+		<magV>9.370</magV>
+		<magB errorminus="0.04" errorplus="0.04">10.376</magB>
 		<magJ errorminus="0.018" errorplus="0.018">7.596</magJ>
-		<magH errorminus="0.04" errorplus="0.04">7.18</magH>
+		<magH errorminus="0.044" errorplus="0.044">7.180</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.998</magK>
-		<temperature>4841.0</temperature>
-		<metallicity>0.11</metallicity>
+		<temperature errorminus="66.00" errorplus="66.00">4840.00</temperature>
+		<age>1.0</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.060</metallicity>
 		<spectraltype>K4 V</spectraltype>
 		<planet>
 			<name>HD 63454 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.38</mass>
-			<period>2.818049</period>
-			<semimajoraxis>0.036</semimajoraxis>
-			<eccentricity>0.00002</eccentricity>
+			<mass type="Msini">0.39800</mass>
+			<radius>1.098</radius>
+			<period errorminus="0.00007100" errorplus="0.00007100">2.81804900</period>
+			<semimajoraxis>0.036800</semimajoraxis>
+			<eccentricity errorminus="0.022000" errorplus="0.022000">0.000000</eccentricity>
+			<periastron errorminus="90.5000" errorplus="90.5000">87.3000</periastron>
+			<periastrontime errorminus="0.590000" errorplus="0.590000">2453342.870000</periastrontime>
+			<maximumrvtime errorminus="0.590000" errorplus="0.590000">2453342.870000</maximumrvtime>
 			<temperature>926.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/06/01</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

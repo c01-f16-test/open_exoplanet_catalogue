@@ -2,7 +2,7 @@
 	<name>TrES-2</name>
 	<rightascension>19 07 14</rightascension>
 	<declination>+49 18 59</declination>
-	<distance errorminus="11" errorplus="11">213</distance>
+	<distance errorminus="11.00" errorplus="11.00">213.00</distance>
 	<binary>
 		<name>TrES-2</name>
 		<separation errorminus="0.0015" errorplus="0.0015" unit="arcsec">1.1054</separation>
@@ -45,7 +45,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>13/01/27</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 			</planet>
 		</star>
@@ -58,4 +58,94 @@
 			<temperature errorminus="29" errorplus="29">3669</temperature>
 		</star>
 	</binary>
+	<star>
+		<name>TrES-2 A</name>
+		<name>TYC 3549-02811-1</name>
+		<name>2MASS J19071403+4918590</name>
+		<name>KIC 11446443</name>
+		<name>Kepler-1</name>
+		<name>KOI-1</name>
+		<mass errorminus="0.063" errorplus="0.063">0.983</mass>
+		<radius errorminus="0.033" errorplus="0.033">1.003</radius>
+		<magV errorminus="0.08" errorplus="0.08">11.25</magV>
+		<magB errorminus="0.10" errorplus="0.10">11.85</magB>
+		<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.920</magH>
+		<magK errorminus="0.022" errorplus="0.022">9.846</magK>
+		<temperature errorminus="50" errorplus="50">5850</temperature>
+		<metallicity>0.001</metallicity>
+		<spectraltype>G0</spectraltype>
+		<planet>
+			<name>TrES-2</name>
+			<name>TrES-2 A b</name>
+			<name>TrES-2 b</name>
+			<name>Kepler-1 b</name>
+			<name>KOI-1.01</name>
+			<name>KOI-1 b</name>
+			<name>KIC 11446443 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.253</mass>
+			<radius>1.169</radius>
+			<period>2.470613402</period>
+			<semimajoraxis>0.03556</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination>83.874</inclination>
+			<description>The planet TrES-2 b is a Hot Jupiter orbiting the star GSC 03549-02811. Kipping and Spiegel (2011) identified it as the darkest known exoplanet, reflecting less than 1% of the light that hits it.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2454502.56227</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>TrES-2 B</name>
+		<mass errorminus="0.013" errorplus="0.013">0.509</mass>
+		<magJ errorminus="0.020" errorplus="0.020">13.128</magJ>
+		<magH errorminus="0.0073" errorplus="0.0073">12.3715</magH>
+		<magK errorminus="0.019" errorplus="0.019">12.268</magK>
+		<temperature errorminus="29" errorplus="29">3669</temperature>
+	</star>
+	<star>
+		<name>TrES-2</name>
+		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
+		<radius errorminus="0.03" errorplus="0.04">1.00</radius>
+		<magV errorminus="0.005" errorplus="0.005">11.411</magV>
+		<magB errorminus="0.007" errorplus="0.007">12.030</magB>
+		<magJ errorminus="0.020" errorplus="0.020">10.232</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.920</magH>
+		<magK errorminus="0.022" errorplus="0.022">9.846</magK>
+		<temperature errorminus="50.00" errorplus="50.00">5850.00</temperature>
+		<age errorminus="2.7" errorplus="2.7">5.1</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.150</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>TrES-2</name>
+			<mass errorminus="0.052" errorplus="0.052">1.253</mass>
+			<radius errorminus="0.025" errorplus="0.025">1.189</radius>
+			<period errorminus="1.87e-08" errorplus="1.87e-08">2.4706133738</period>
+			<semimajoraxis errorminus="0.00075" errorplus="0.00075">0.03555</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.009" errorplus="0.009">83.908</inclination>
+			<temperature>1455.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="1.29e-05" errorplus="1.29e-05">2453957.6354991</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+		<planet>
+			<name>TrES-2 b</name>
+			<mass errorminus="0.06800" errorplus="0.06800" type="Mass">1.19700</mass>
+			<radius errorminus="0.045" errorplus="0.050">1.247</radius>
+			<period errorminus="0.00000009" errorplus="0.00000009">2.47061317</period>
+			<semimajoraxis errorminus="0.001300" errorplus="0.001400">0.036700</semimajoraxis>
+			<inclination errorminus="0.018" errorplus="0.020">83.872</inclination>
+			<temperature errorminus="10" errorplus="10">1470</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000002" errorplus="0.000003" unit="BJD">2454955.763360</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
+		</planet>
+	</star>
 </system>

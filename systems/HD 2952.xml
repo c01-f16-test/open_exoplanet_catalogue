@@ -3,32 +3,34 @@
 	<name>HR 135</name>
 	<rightascension>00 33 10</rightascension>
 	<declination>+54 53 41</declination>
-	<distance>115</distance>
+	<distance errorminus="10.26" errorplus="8.71">115.21</distance>
 	<star>
 		<name>HD 2952</name>
 		<name>HR 135</name>
-		<mass>2.5</mass>
-		<radius>12.02</radius>
-		<magV>5.930</magV>
-		<magB>6.961</magB>
+		<mass errorminus="0.09" errorplus="0.12">2.54</mass>
+		<radius errorminus="1.06" errorplus="1.16">12.02</radius>
+		<magV errorminus="0.009" errorplus="0.009">5.922</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.960</magB>
 		<magJ errorminus="0.270" errorplus="0.270">4.264</magJ>
 		<magH errorminus="0.210" errorplus="0.210">3.779</magH>
 		<magK errorminus="0.246" errorplus="0.246">3.629</magK>
-		<temperature>4844</temperature>
-		<metallicity>0.00</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<temperature errorminus="20.00" errorplus="20.00">4844.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">0.000</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 2952 b</name>
 			<name>HR 135 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.6</mass>
-			<period>311.6</period>
-			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity>0.129</eccentricity>
-			<periastron>64</periastron>
+			<mass type="Msini">1.60000</mass>
+			<period errorminus="1.90000000" errorplus="1.70000000">311.60000000</period>
+			<semimajoraxis>1.200000</semimajoraxis>
+			<eccentricity errorminus="0.085000" errorplus="0.099000">0.129000</eccentricity>
+			<periastron errorminus="48.0000" errorplus="56.0000">64.0000</periastron>
+			<periastrontime errorminus="54.000000" errorplus="64.000000">2450112.000000</periastrontime>
+			<maximumrvtime errorminus="54.000000" errorplus="64.000000">2450112.000000</maximumrvtime>
 			<description>The planet HD 2952 b is orbiting an evolved intermediate-mass star. The radial velocity measurements were taken at the Okaya Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/04/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

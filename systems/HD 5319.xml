@@ -1,8 +1,8 @@
 <system>
 	<name>HD 5319</name>
-	<rightascension>00 55 01.400</rightascension>
-	<declination>+00 47 22.40</declination>
-	<distance errorminus="11" errorplus="11">114</distance>
+	<rightascension>00 55 01</rightascension>
+	<declination>+00 47 22</declination>
+	<distance errorminus="11.00" errorplus="11.00">114.00</distance>
 	<star>
 		<name>HD 5319</name>
 		<name>HIP 4297</name>
@@ -12,15 +12,16 @@
 		<name>SAO 109532</name>
 		<name>TYC 12-104-1</name>
 		<mass errorminus="0.11" errorplus="0.11">1.51</mass>
-		<radius>3.26</radius>
-		<magV>8.05</magV>
-		<magB>9.03</magB>
+		<radius errorminus="0.40" errorplus="0.40">3.85</radius>
+		<magV>8.050</magV>
+		<magB>9.040</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.348</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.699</magK>
-		<temperature>5052.0</temperature>
-		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
-		<spectraltype>G5IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">4958.00</temperature>
+		<age errorminus="0.600" errorplus="0.600">3.100</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.150</metallicity>
+		<spectraltype>K3 IV</spectraltype>
 		<planet>
 			<name>HD 5319 b</name>
 			<name>HIP 4297 b</name>
@@ -30,14 +31,17 @@
 			<name>SAO 109532 b</name>
 			<name>TYC 12-104-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07">1.76</mass>
-			<period errorminus="2" errorplus="2">641</period>
-			<semimajoraxis errorminus="0.0036" errorplus="0.0036">1.6697</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000" type="Msini">1.76000</mass>
+			<period errorminus="2.00000000" errorplus="2.00000000">641.00000000</period>
+			<semimajoraxis errorminus="0.003600" errorplus="0.003600">1.669700</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.020000</eccentricity>
+			<periastron errorminus="90.0000" errorplus="90.0000">97.0000</periastron>
+			<periastrontime errorminus="790.000000" errorplus="790.000000">2456288.000000</periastrontime>
+			<maximumrvtime errorminus="790.000000" errorplus="790.000000">2456288.000000</maximumrvtime>
 			<temperature>303.8</temperature>
 			<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 		<planet>
@@ -49,13 +53,16 @@
 			<name>SAO 109532 c</name>
 			<name>TYC 12-104-1 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.08" errorplus="0.08">1.15</mass>
-			<period errorminus="8" errorplus="8">886</period>
-			<semimajoraxis errorminus="0.013" errorplus="0.013">2.071</semimajoraxis>
-			<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Msini">1.15000</mass>
+			<period errorminus="8.00000000" errorplus="8.00000000">886.00000000</period>
+			<semimajoraxis errorminus="0.013000" errorplus="0.013000">2.071000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.150000</eccentricity>
+			<periastron errorminus="34.0000" errorplus="34.0000">252.0000</periastron>
+			<periastrontime errorminus="92.000000" errorplus="92.000000">2453453.000000</periastrontime>
+			<maximumrvtime errorminus="92.000000" errorplus="92.000000">2453453.000000</maximumrvtime>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

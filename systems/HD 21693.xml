@@ -1,7 +1,7 @@
 <system>
 	<name>HD 21693</name>
 	<rightascension>03 27 12</rightascension>
-	<declination>-58 19 25</declination>
+	<declination>-58 19 24</declination>
 	<distance>32.4</distance>
 	<star>
 		<name>HD 21693</name>
@@ -17,27 +17,27 @@
 		<planet>
 			<name>HD 21693 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0322</mass>
-			<period>22.656</period>
-			<semimajoraxis>0.1484</semimajoraxis>
-			<eccentricity>0.26</eccentricity>
+			<mass errorminus="0.0046" errorplus="0.0046">0.0322</mass>
+			<period errorminus="0.0236" errorplus="0.0236">22.656</period>
+			<semimajoraxis errorminus="0.0024" errorplus="0.0024">0.1484</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.26</eccentricity>
 			<temperature>581.9</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 21693 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.06472</mass>
-			<period>53.881</period>
-			<semimajoraxis>0.2644</semimajoraxis>
-			<eccentricity>0.24</eccentricity>
+			<mass errorminus="0.0057" errorplus="0.0057">0.06472</mass>
+			<period errorminus="0.0704" errorplus="0.0704">53.881</period>
+			<semimajoraxis errorminus="0.0044" errorplus="0.0044">0.2644</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.24</eccentricity>
 			<temperature>436.2</temperature>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

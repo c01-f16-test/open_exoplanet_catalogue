@@ -1,0 +1,28 @@
+<system>
+	<name>KOI-205</name>
+	<declination>+42 32 16</declination>
+	<star>
+		<name>KOI-205</name>
+		<mass errorminus="0.033" errorplus="0.033">0.925</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.841</radius>
+		<magJ>13.095</magJ>
+		<temperature errorminus="60.0" errorplus="60.0">5237.0</temperature>
+		<age errorminus="3.95" errorplus="3.95">4.35</age>
+		<metallicity errorminus="0.12" errorplus="0.12">0.14</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>KOI-205 b</name>
+			<mass errorminus="1.0" errorplus="1.0" type="Radial Velocity">39.9</mass>
+			<radius errorminus="0.022" errorplus="0.022">0.807</radius>
+			<period errorminus="2.1e-06" errorplus="2.1e-06">11.7201248</period>
+			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0987</semimajoraxis>
+			<eccentricity errorminus="0.015" errorplus="0.015">0.016</eccentricity>
+			<periastron errorminus="230.0" errorplus="61.0">263.0</periastron>
+			<inclination errorminus="0.055" errorplus="0.055">88.456</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00012" errorplus="0.00012">2454975.17325</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

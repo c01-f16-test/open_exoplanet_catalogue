@@ -1,32 +1,35 @@
 <system>
 	<name>HD 28254</name>
-	<rightascension>04 24 51</rightascension>
-	<declination>-50 37 20</declination>
-	<distance>56.2</distance>
+	<rightascension>04 24 50</rightascension>
+	<declination>-50 37 19</declination>
+	<distance errorminus="1.50" errorplus="1.60">54.70</distance>
 	<star>
 		<name>HD 28254</name>
 		<mass>1.06</mass>
-		<radius>1.48</radius>
-		<magV>7.71</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.44</magB>
+		<radius errorminus="0.06" errorplus="0.06">1.48</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.684</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.440</magB>
 		<magR>7.7</magR>
-		<magJ errorminus="0.026" errorplus="0.026">6.395</magJ>
-		<magH errorminus="0.03" errorplus="0.03">6.13</magH>
+		<magJ errorminus="0.025" errorplus="0.025">6.395</magJ>
+		<magH errorminus="0.031" errorplus="0.031">6.133</magH>
 		<magK errorminus="0.029" errorplus="0.029">6.006</magK>
-		<temperature>5664.0</temperature>
-		<metallicity>0.36</metallicity>
-		<spectraltype>G1IV/V</spectraltype>
+		<temperature errorminus="35.00" errorplus="35.00">5664.00</temperature>
+		<metallicity errorminus="0.020" errorplus="0.020">0.060</metallicity>
+		<spectraltype>G1 IV/V</spectraltype>
 		<planet>
 			<name>HD 28254 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.16</mass>
-			<period>1116</period>
-			<semimajoraxis>2.15</semimajoraxis>
-			<eccentricity>0.81</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.10000" type="Msini">1.16000</mass>
+			<period errorminus="26.00000000" errorplus="26.00000000">1116.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.040000">2.150000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.050000">0.810000</eccentricity>
+			<periastron errorminus="4.0000" errorplus="3.0000">301.0000</periastron>
+			<periastrontime errorminus="55.000000" errorplus="43.000000">2454049.000000</periastrontime>
+			<maximumrvtime errorminus="55.000000" errorplus="43.000000">2454049.000000</maximumrvtime>
 			<temperature>196.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

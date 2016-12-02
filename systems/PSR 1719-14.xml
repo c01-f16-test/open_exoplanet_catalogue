@@ -1,0 +1,22 @@
+<system>
+	<name>PSR 1719-14</name>
+	<declination>-14 38 00</declination>
+	<star>
+		<name>PSR 1719-14</name>
+		<mass>1.4</mass>
+		<age errorminus="inf" errorplus="nan">12.5</age>
+		<planet>
+			<name>PSR 1719-14 b</name>
+			<mass errorminus="0.0" errorplus="0.0">1.0</mass>
+			<radius errorminus="0.0" errorplus="0.0">0.4</radius>
+			<period>0.090706293</period>
+			<semimajoraxis>0.0044</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.06</eccentricity>
+			<periastrontime>2455235.51652</periastrontime>
+			<maximumrvtime>2455235.51652</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

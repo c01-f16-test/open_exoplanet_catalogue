@@ -10,11 +10,13 @@
 		<name>KOI-497</name>
 		<name>KIC 4757437</name>
 		<mass errorminus="0.1100" errorplus="0.1100">1.1200</mass>
-		<radius errorminus=".496" errorplus="0.496">1.107</radius>
+		<radius errorminus="0.50" errorplus="0.50">1.11</radius>
+		<magV>14.606</magV>
 		<magJ errorminus="0.027" errorplus="0.027">13.490</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.26</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.21</magK>
-		<temperature errorminus="200" errorplus="200">6282</temperature>
+		<magH errorminus="0.038" errorplus="0.038">13.257</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.206</magK>
+		<temperature errorminus="200.00" errorplus="200.00">6282.00</temperature>
+		<metallicity>-0.012</metallicity>
 		<planet>
 			<name>Kepler-168 c</name>
 			<name>KOI-497 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 4757437 c</name>
 			<name>KIC 4757437.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.11027">0.24514</radius>
-			<period errorminus=".000049" errorplus="0.000049">13.193242</period>
+			<radius errorminus="0.108" errorplus="0.108">0.240</radius>
+			<period errorminus="0.00004900" errorplus="0.00004900">13.19324200</period>
+			<semimajoraxis>0.116000</semimajoraxis>
 			<description>Kepler-168 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-168 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021100" errorplus="0.0021100">2455008.6093400</transittime>
+			<transittime errorminus=".002110" errorplus="0.002110" unit="BJD">2455008.609340</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 4757437 b</name>
 			<name>KIC 4757437.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06015" errorplus="0.06015">0.13305</radius>
-			<period errorminus=".000033" errorplus="0.000033">4.425391</period>
+			<radius errorminus="0.059" errorplus="0.059">0.130</radius>
+			<period errorminus="0.00003300" errorplus="0.00003300">4.42539100</period>
+			<semimajoraxis>0.056000</semimajoraxis>
 			<description>Kepler-168 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-168 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037100" errorplus="0.0037100">2454967.5605500</transittime>
+			<transittime errorminus=".003710" errorplus="0.003710" unit="BJD">2454967.560550</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,29 @@
+<system>
+	<name>WISE 0458+6434 A</name>
+	<declination>+64 34 53</declination>
+	<star>
+		<name>WISE 0458+6434 A</name>
+		<name>WISEPC J045853.90+643451.9A</name>
+		<name>WISEP J045853.90+643452.6A</name>
+		<name>WISE J0458+6434A</name>
+		<mass errorminus="0.006" errorplus="0.008">0.019</mass>
+		<radius errorminus="0.003" errorplus="0.003">0.098</radius>
+		<magJ>17.5</magJ>
+		<magH>17.77</magH>
+		<temperature errorminus="130.0" errorplus="180.0">730.0</temperature>
+		<age>1.0</age>
+		<spectraltype>T 8.5</spectraltype>
+		<planet>
+			<name>WISE 0458+6434 b</name>
+			<name>WISE J0458+6434B</name>
+			<name>WISEP J045853.90+643451.9B</name>
+			<mass errorminus="7.0" errorplus="3.0">13.0</mass>
+			<radius errorminus="0.035" errorplus="0.011">1.009</radius>
+			<period>25800.0</period>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">5.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

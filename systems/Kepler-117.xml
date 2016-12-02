@@ -2,26 +2,27 @@
 	<name>Kepler-117</name>
 	<name>KOI-209</name>
 	<name>KIC 10723750</name>
-	<rightascension>19 15 10.326</rightascension>
-	<declination>+48 02 24.81</declination>
-	<distance errorminus="50" errorplus="50">1430</distance>
+	<rightascension>19 15 10</rightascension>
+	<declination>+48 02 24</declination>
+	<distance errorminus="50.00" errorplus="50.00">1430.00</distance>
 	<star>
 		<name>Kepler-117</name>
 		<name>KOI-209</name>
 		<name>KIC 10723750</name>
 		<name>UCAC3 277-144185</name>
-		<mass errorminus="0.023" errorplus="0.13">1.129</mass>
-		<radius errorminus="0.049" errorplus="0.049">1.606</radius>
-		<magV errorminus="0.018" errorplus="0.018">14.29</magV>
+		<mass errorminus="0.02" errorplus="0.13">1.13</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.61</radius>
+		<magV errorminus="0.018" errorplus="0.018">14.274</magV>
 		<magB errorminus="0.024" errorplus="0.024">14.93</magB>
 		<magR errorminus="0.021" errorplus="0.021">13.69</magR>
 		<magI errorminus="0.014" errorplus="0.014">14.58</magI>
 		<magJ errorminus="0.026" errorplus="0.026">13.324</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.99</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.01</magK>
-		<temperature errorminus="110" errorplus="110">6150</temperature>
-		<age errorminus="1.4" errorplus="1.4">5.3</age>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.04</metallicity>
+		<magH errorminus="0.031" errorplus="0.031">12.988</magH>
+		<magK errorminus="0.031" errorplus="0.031">13.011</magK>
+		<temperature errorminus="110.00" errorplus="110.00">6150.00</temperature>
+		<age errorminus="1.400" errorplus="1.400">5.300</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.040</metallicity>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>Kepler-117 c</name>
 			<name>KOI-209 c</name>
@@ -30,18 +31,19 @@
 			<name>KIC 10723750.01</name>
 			<name>UCAC3 277-144185 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.18" errorplus="0.18">1.84</mass>
+			<mass errorminus="0.18000" errorplus="0.18000" type="Mass">1.84000</mass>
 			<radius errorminus="0.035" errorplus="0.035">1.101</radius>
-			<period errorminus="0.000014" errorplus="0.000014">50.790391</period>
-			<semimajoraxis errorminus="0.0028" errorplus="0.0092">0.2804</semimajoraxis>
-			<eccentricity errorminus="0.0033" errorplus="0.0033">0.0323</eccentricity>
-			<inclination errorminus="0.1" errorplus="0.1">89.64</inclination>
+			<period errorminus="0.00001400" errorplus="0.00001400">50.79039100</period>
+			<semimajoraxis errorminus="0.002800" errorplus="0.009200">0.280400</semimajoraxis>
+			<eccentricity errorminus="0.003300" errorplus="0.003300">0.032300</eccentricity>
+			<periastron errorminus="7.5000" errorplus="7.5000">305.0000</periastron>
+			<inclination errorminus="0.100" errorplus="0.100">89.640</inclination>
 			<temperature errorminus="15" errorplus="15">704</temperature>
 			<description>Kepler-117 c has been discovered by the Kepler spacecraft and is the outermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0004600" errorplus="0.0004600">2454968.6309700</transittime>
+			<transittime errorminus=".000250" errorplus="0.000250" unit="BJD">2454968.632050</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -52,18 +54,19 @@
 			<name>KIC 10723750.02</name>
 			<name>UCAC3 277-144185 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.033" errorplus="0.033">0.094</mass>
+			<mass errorminus="0.03300" errorplus="0.03300" type="Mass">0.09400</mass>
 			<radius errorminus="0.024" errorplus="0.024">0.719</radius>
-			<period errorminus="0.000075" errorplus="0.000075">18.7959228</period>
-			<semimajoraxis errorminus="0.0014" errorplus="0.0047">0.1445</semimajoraxis>
-			<eccentricity errorminus="0.0062" errorplus="0.0062">0.0493</eccentricity>
-			<inclination errorminus="0.12" errorplus="0.12">88.74</inclination>
+			<period errorminus="0.00000750" errorplus="0.00000750">18.79592280</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.004700">0.144500</semimajoraxis>
+			<eccentricity errorminus="0.006200" errorplus="0.006200">0.049300</eccentricity>
+			<periastron errorminus="4.1000" errorplus="4.1000">254.3000</periastron>
+			<inclination errorminus="0.120" errorplus="0.120">88.740</inclination>
 			<temperature errorminus="18" errorplus="18">984</temperature>
 			<description>Kepler-117 b has been discovered by the Kepler spacecraft and is the innermost planet in the system. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0008900" errorplus="0.0008900">2454978.8202800</transittime>
+			<transittime errorminus=".000350" errorplus="0.000350" unit="BJD">2454978.822040</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

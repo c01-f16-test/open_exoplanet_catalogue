@@ -1,30 +1,26 @@
 <system>
 	<name>Oph 11</name>
-	<name>Oph J1622-2405</name>
 	<rightascension>16 22 25</rightascension>
-	<declination>-24 05 14</declination>
-	<distance>145</distance>
+	<declination>-24 05 13</declination>
+	<distance errorminus="25.00" errorplus="25.00">125.00</distance>
 	<star>
-		<name>Oph 11 A</name>
-		<name>Oph J1622-2405 A</name>
-		<name>WDS J16224-2405 A</name>
-		<mass errorminus="0.007" errorplus="0.009">0.051</mass>
-		<temperature>2838</temperature>
-		<spectraltype>M7.25</spectraltype>
+		<name>Oph 11</name>
+		<mass errorminus="0.01" errorplus="0.00">0.02</mass>
+		<magJ errorminus="0.039" errorplus="0.039">14.472</magJ>
+		<magH errorminus="0.049" errorplus="0.049">13.804</magH>
+		<magK errorminus="0.051" errorplus="0.051">13.423</magK>
+		<temperature errorminus="175.00" errorplus="175.00">2375.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">5.000</age>
+		<spectraltype>M9</spectraltype>
 		<planet>
-			<name>Oph 11 B</name>
-			<name>Oph J1622-2405 B</name>
-			<name>WDS J16224-2405 B</name>
-			<list>Confirmed planets</list>
-			<spectraltype>M8.75</spectraltype>
-			<mass errorminus="3" errorplus="3">21</mass>
-			<separation unit="arcsec">1.9</separation>
-			<separation unit="AU">275</separation>
-			<positionangle>182</positionangle>
-			<temperature>2478</temperature>
+			<name>Oph 11 b</name>
+			<mass errorminus="5.00000" errorplus="6.00000" type="Mass">14.00000</mass>
+			<period errorminus="3650000.00000000" errorplus="3650000.00000000">7300000.00000000</period>
+			<semimajoraxis errorminus="55.000000" errorplus="55.000000">243.000000</semimajoraxis>
+			<temperature errorminus="175" errorplus="175">2175</temperature>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/12/14</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>
 </system>

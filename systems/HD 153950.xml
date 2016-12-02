@@ -1,8 +1,8 @@
 <system>
 	<name>HD 153950</name>
-	<rightascension>17 04 30.86989</rightascension>
-	<declination>-43 18 35.1765</declination>
-	<distance errorminus="1.7" errorplus="1.7">49.5</distance>
+	<rightascension>17 04 30</rightascension>
+	<declination>-43 18 35</declination>
+	<distance errorminus="3.63" errorplus="3.18">51.87</distance>
 	<star>
 		<name>HD 153950</name>
 		<name>HIP 83547</name>
@@ -13,25 +13,27 @@
 		<name>2MASS J17043086-4318351</name>
 		<mass errorminus="0.03" errorplus="0.03">1.12</mass>
 		<radius>1.34</radius>
-		<magV>7.39</magV>
-		<magB>7.90</magB>
+		<magV errorminus="0.011" errorplus="0.011">7.390</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.942</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.313</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.078</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.006</magK>
-		<temperature errorminus="13" errorplus="13">6076</temperature>
-		<metallicity errorminus="0.01" errorplus="0.01">-0.01</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<temperature errorminus="13.00" errorplus="13.00">6076.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">4.300</age>
+		<metallicity errorminus="0.010" errorplus="0.010">-0.010</metallicity>
+		<spectraltype>F8 V</spectraltype>
 		<planet>
 			<name>HD 153950 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.05" errorplus="0.05" type="msini">2.73</mass>
-			<period errorminus="3.6" errorplus="3.6">499.4</period>
-			<semimajoraxis errorminus="0.01" errorplus="0.01">1.28</semimajoraxis>
-			<eccentricity errorminus="0.021" errorplus="0.021">0.34</eccentricity>
-			<periastron errorminus="2.4" errorplus="2.4">308.2</periastron>
-			<periastrontime errorminus="4.3" errorplus="4.3">2454502</periastrontime>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">2.73000</mass>
+			<period errorminus="3.60000000" errorplus="3.60000000">499.40000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">1.280000</semimajoraxis>
+			<eccentricity errorminus="0.021000" errorplus="0.021000">0.340000</eccentricity>
+			<periastron errorminus="2.4000" errorplus="2.4000">308.2000</periastron>
+			<periastrontime errorminus="4.100000" errorplus="4.100000">2454502.000000</periastrontime>
+			<maximumrvtime errorminus="4.100000" errorplus="4.100000">2454502.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

@@ -1,8 +1,8 @@
 <system>
 	<name>HD 66428</name>
-	<rightascension>08 03 28.7</rightascension>
-	<declination>-01 09 45.7</declination>
-	<distance errorminus="3.2" errorplus="3.2">54.9</distance>
+	<rightascension>08 03 28</rightascension>
+	<declination>-01 09 45</declination>
+	<distance errorminus="4.03" errorplus="3.52">55.04</distance>
 	<star>
 		<name>HD 66428</name>
 		<name>HIP 39417</name>
@@ -10,29 +10,31 @@
 		<name>TYC 4846-68-1</name>
 		<name>BD-00 1891</name>
 		<name>2MASS J08032866-0109455</name>
-		<mass errorminus="0.063" errorplus="0.063">1.061</mass>
+		<mass errorminus="0.063" errorplus="0.063">1.10</mass>
 		<radius errorminus="0.034" errorplus="0.034">0.980</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.26</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.97</magB>
+		<magV errorminus="0.013" errorplus="0.013">8.258</magV>
+		<magB errorminus="0.018" errorplus="0.018">8.967</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.044</magJ>
 		<magH errorminus="0.061" errorplus="0.061">6.768</magH>
-		<magK errorminus="0.021" errorplus="0.021">6.66</magK>
-		<temperature errorminus="44" errorplus="44">5752</temperature>
+		<magK errorminus="0.021" errorplus="0.021">6.660</magK>
+		<temperature errorminus="44" errorplus="44">5752.00</temperature>
+		<age>5.56</age>
 		<metallicity errorminus="0.030" errorplus="0.030">0.310</metallicity>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G8 IV (+ G)</spectraltype>
 		<planet>
 			<name>HD 66428 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.060" errorplus="0.060">3.194</mass>
-			<period errorminus="6.4" errorplus="6.4">2293</period>
-			<semimajoraxis errorminus="0.069" errorplus="0.069">3.471</semimajoraxis>
-			<eccentricity errorminus="0.013" errorplus="0.013">0.440</eccentricity>
-			<periastron errorminus="2.6" errorplus="2.6">180.4</periastron>
-			<periastrontime errorminus="16" errorplus="16" unit="BJD">2452278</periastrontime>
+			<mass errorminus="0.27000" errorplus="0.27000" type="Msini">2.82000</mass>
+			<period errorminus="31.00000000" errorplus="31.00000000">1973.00000000</period>
+			<semimajoraxis errorminus="0.190000" errorplus="0.190000">3.180000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.465000</eccentricity>
+			<periastron errorminus="3.9000" errorplus="3.9000">152.9000</periastron>
+			<periastrontime errorminus="16.000000" errorplus="16.000000" unit="BJD">2452139.000000</periastrontime>
+			<maximumrvtime errorminus="16.000000" errorplus="16.000000">2452139.000000</maximumrvtime>
 			<description>HD 66428 b is a long-period giant planaet in an eccentric orbit. The radial velocities for the star exhibit a linear trend, indicating the presence of an additional object in the system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/08/15</lastupdate>
-			<discoveryyear>2006</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>
 </system>

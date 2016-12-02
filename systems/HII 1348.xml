@@ -1,0 +1,17 @@
+<system>
+	<name>HII 1348</name>
+	<declination>+24 23 27</declination>
+	<star>
+		<name>HII 1348</name>
+		<magV>12.8</magV>
+		<spectraltype>K5V</spectraltype>
+		<planet>
+			<name>HII 1348 b</name>
+			<mass errorminus="6.0" errorplus="6.0" type="Spectrum">59.0</mass>
+			<semimajoraxis errorminus="7.0" errorplus="7.0">138.0</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

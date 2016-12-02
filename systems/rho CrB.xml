@@ -1,0 +1,64 @@
+<system>
+	<name>rho CrB</name>
+	<name>Rho Coronae Borealis</name>
+	<rightascension>16 01 02</rightascension>
+	<declination>+33 18 12</declination>
+	<distance errorminus="0.02" errorplus="0.02">17.24</distance>
+	<star>
+		<name>Rho Coronae Borealis</name>
+		<name>rho CrB</name>
+		<name>ρ CrB</name>
+		<name>HD 143761</name>
+		<name>HIP 78459</name>
+		<name>HR 5968</name>
+		<name>Gliese 606.2</name>
+		<name>GJ 9537</name>
+		<name>BD+33 2663</name>
+		<name>TYC 2576-2228-1</name>
+		<name>SAO 65024</name>
+		<name>LHS 3145</name>
+		<mass errorminus="0.03" errorplus="0.03">0.89</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.36</radius>
+		<magV errorminus="0.05" errorplus="0.05">5.410</magV>
+		<magB>6.000</magB>
+		<magR>5.0</magR>
+		<magI>4.8</magI>
+		<magJ errorminus="0.240" errorplus="0.240">4.088</magJ>
+		<magH errorminus="0.036" errorplus="0.036">3.989</magH>
+		<magK errorminus="0.036" errorplus="0.036">3.857</magK>
+		<temperature errorminus="54.00" errorplus="54.00">5627.00</temperature>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.310</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>Rho Coronae Borealis b</name>
+			<name>rho CrB b</name>
+			<name>ρ CrB b</name>
+			<list>Controversial</list>
+			<mass errorminus="0.02391" errorplus="0.02360" lowerlimit="100.1" type="Msini" upperlimit="199.6">1.04490</mass>
+			<period errorminus="0.00140000" errorplus="0.00150000">39.84580000</period>
+			<semimajoraxis errorminus="0.002500" errorplus="0.002400">0.219600</semimajoraxis>
+			<eccentricity errorminus="0.003900" errorplus="0.004000">0.037300</eccentricity>
+			<periastron errorminus="5.8000" errorplus="5.9000">270.6000</periastron>
+			<periastrontime errorminus="4.1" errorplus="4.1">2450563.2</periastrontime>
+			<ascendingnode lowerlimit="242.3" upperlimit="290.6">266.4</ascendingnode>
+			<inclination lowerlimit="0.4" upperlimit="0.7">0.4</inclination>
+			<temperature errorminus="9" errorplus="9">614</temperature>
+			<description>The planet candidate orbiting Rho Coronae Borealis was one of the first exoplanet discoveries, with a radial velocity minimum mass of 1.093 Jupiter masses. Subsequent analysis of the Hipparcos astrometric data indicates that the companion is actually a low-mass star in a nearly face-on orbit.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1997</discoveryyear>
+		</planet>
+		<planet>
+			<name>rho CrB c</name>
+			<mass errorminus="0.00629" errorplus="0.00629" type="Msini">0.07866</mass>
+			<period errorminus="0.17000000" errorplus="0.17000000">102.54000000</period>
+			<semimajoraxis errorminus="0.004700" errorplus="0.004600">0.412300</semimajoraxis>
+			<eccentricity errorminus="0.037000" errorplus="0.061000">0.052000</eccentricity>
+			<periastron errorminus="140.0000" errorplus="110.0000">190.0000</periastron>
+			<temperature errorminus="7" errorplus="7">448</temperature>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

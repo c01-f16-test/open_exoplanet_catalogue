@@ -10,11 +10,13 @@
 		<name>KOI-408</name>
 		<name>KIC 5351250</name>
 		<mass errorminus="0.0760" errorplus="0.0760">0.9700</mass>
-		<radius errorminus=".136" errorplus="0.136">0.939</radius>
+		<radius errorminus="0.14" errorplus="0.14">0.94</radius>
+		<magV>14.985</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.817</magJ>
 		<magH errorminus="0.027" errorplus="0.027">13.422</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.37</magK>
-		<temperature errorminus="100" errorplus="100">5560</temperature>
+		<magK errorminus="0.032" errorplus="0.032">13.367</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5560.00</temperature>
+		<metallicity>-0.136</metallicity>
 		<planet>
 			<name>Kepler-150 c</name>
 			<name>KOI-408 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 5351250 c</name>
 			<name>KIC 5351250.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05377" errorplus="0.05377">0.33627</radius>
-			<period errorminus=".000010" errorplus="0.000010">7.381998</period>
+			<radius errorminus="0.053" errorplus="0.053">0.329</radius>
+			<period errorminus="0.00001000" errorplus="0.00001000">7.38199800</period>
+			<semimajoraxis>0.073000</semimajoraxis>
 			<description>Kepler-150 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007000" errorplus="0.0007000">2455006.0712300</transittime>
+			<transittime errorminus=".000700" errorplus="0.000700" unit="BJD">2455006.071230</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 5351250 d</name>
 			<name>KIC 5351250.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03736" errorplus="0.03736">0.25425</radius>
-			<period errorminus=".000036" errorplus="0.000036">12.560930</period>
+			<radius errorminus="0.037" errorplus="0.037">0.249</radius>
+			<period errorminus="0.00003600" errorplus="0.00003600">12.56093000</period>
+			<semimajoraxis>0.104000</semimajoraxis>
 			<description>Kepler-150 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0015800" errorplus="0.0015800">2454999.7958800</transittime>
+			<transittime errorminus=".001580" errorplus="0.001580" unit="BJD">2454999.795880</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 5351250 e</name>
 			<name>KIC 5351250.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.05012">0.28433</radius>
-			<period errorminus=".000199" errorplus="0.000199">30.826557</period>
+			<radius errorminus="0.049" errorplus="0.049">0.278</radius>
+			<period errorminus="0.00019900" errorplus="0.00019900">30.82655700</period>
+			<semimajoraxis>0.189000</semimajoraxis>
 			<description>Kepler-150 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037300" errorplus="0.0037300">2454986.0104300</transittime>
+			<transittime errorminus=".003730" errorplus="0.003730" unit="BJD">2454986.010430</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -70,13 +75,14 @@
 			<name>KIC 5351250 b</name>
 			<name>KIC 5351250.04</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01731" errorplus="0.01731">0.11391</radius>
-			<period errorminus=".000026" errorplus="0.000026">3.428054</period>
+			<radius errorminus="0.017" errorplus="0.017">0.112</radius>
+			<period errorminus="0.00002600" errorplus="0.00002600">3.42805400</period>
+			<semimajoraxis>0.044000</semimajoraxis>
 			<description>Kepler-150 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-150 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0041600" errorplus="0.0041600">2454965.3679400</transittime>
+			<transittime errorminus=".004160" errorplus="0.004160" unit="BJD">2454965.367940</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

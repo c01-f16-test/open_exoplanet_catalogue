@@ -2,28 +2,32 @@
 	<name>HD 101930</name>
 	<rightascension>11 43 30</rightascension>
 	<declination>-58 00 24</declination>
-	<distance>30.49</distance>
+	<distance errorminus="0.92" errorplus="0.87">30.50</distance>
 	<star>
 		<name>HD 101930</name>
-		<mass>0.74</mass>
-		<magV>8.21</magV>
-		<magB>9.12</magB>
+		<mass errorminus="0.05" errorplus="0.05">0.74</mass>
+		<magV errorminus="0.000" errorplus="0.000">8.210</magV>
+		<magB errorminus="0.000" errorplus="0.000">9.120</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.645</magJ>
-		<magH errorminus="0.05" errorplus="0.05">6.26</magH>
+		<magH errorminus="0.047" errorplus="0.047">6.259</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.147</magK>
-		<temperature>5079.0</temperature>
-		<metallicity>0.17</metallicity>
+		<temperature errorminus="62.00" errorplus="62.00">5079.00</temperature>
+		<age>5.39</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.170</metallicity>
 		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>HD 101930 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.3</mass>
-			<period>70.46</period>
-			<semimajoraxis>0.302</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
+			<mass type="Msini">0.30000</mass>
+			<period errorminus="0.18000000" errorplus="0.18000000">70.46000000</period>
+			<semimajoraxis>0.302000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.110000</eccentricity>
+			<periastron errorminus="11.0000" errorplus="11.0000">251.0000</periastron>
+			<periastrontime errorminus="2.000000" errorplus="2.000000">2453145.000000</periastrontime>
+			<maximumrvtime errorminus="2.000000" errorplus="2.000000">2453145.000000</maximumrvtime>
 			<temperature>385.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>

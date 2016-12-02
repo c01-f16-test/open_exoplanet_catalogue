@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-449</name>
-	<rightascension>19 34 55.874</rightascension>
-	<declination>+41 54 02.98</declination>
+	<rightascension>19 34 55</rightascension>
+	<declination>+41 54 03</declination>
 	<binary>
 		<name>Kepler-449</name>
 		<name>KOI-270</name>
@@ -32,7 +32,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00168" errorplus="0.00168" unit="BJD">2455008.02202</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 			<planet>
@@ -50,7 +50,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<transittime errorminus="0.00229" errorplus="0.00229" unit="BJD">2454995.03824</transittime>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/28</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2015</discoveryyear>
 			</planet>
 		</star>
@@ -61,4 +61,86 @@
 			<magK>9.801</magK>
 		</star>
 	</binary>
+	<star>
+		<name>Kepler-449 A</name>
+		<name>KOI-270 A</name>
+		<name>KIC 6528464 A</name>
+		<mass errorminus="0.053" errorplus="0.053">0.969</mass>
+		<radius errorminus="0.085" errorplus="0.085">1.570</radius>
+		<magJ>10.088</magJ>
+		<magK>9.701</magK>
+		<temperature errorminus="99" errorplus="99">5588</temperature>
+		<planet>
+			<name>Kepler-449 b</name>
+			<name>KOI-270.01</name>
+			<name>KOI-270 b</name>
+			<name>KIC 6528464 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.0062" errorplus="0.0062">0.1834</radius>
+			<period errorminus="0.00027" errorplus="0.00027">12.58242</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.105</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
+			<description>Kepler-449 b is a planet orbiting one of the two components of the binary star KOI-270.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00168" errorplus="0.00168" unit="BJD">2455008.02202</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-449 c</name>
+			<name>KOI-270.02</name>
+			<name>KOI-270 c</name>
+			<name>KIC 6528464 c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<radius errorminus="0.0077" errorplus="0.0077">0.2466</radius>
+			<period errorminus="0.0010" errorplus="0.0010">33.6727</period>
+			<semimajoraxis errorminus="0.004" errorplus="0.004">0.202</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.24">0.05</eccentricity>
+			<description>Kepler-449 c is a planet orbiting one of the two components of the binary star KOI-270.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00229" errorplus="0.00229" unit="BJD">2454995.03824</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>Kepler-449 B</name>
+		<name>KOI-270 B</name>
+		<name>KIC 6528464 B</name>
+		<magK>9.801</magK>
+	</star>
+	<star>
+		<name>Kepler-449</name>
+		<name>KOI-270</name>
+		<name>KIC 6528464</name>
+		<mass errorminus="0.05" errorplus="0.05">0.97</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.47</radius>
+		<magV>11.411</magV>
+		<magJ errorminus="0.020" errorplus="0.020">10.088</magJ>
+		<magH errorminus="0.017" errorplus="0.017">9.770</magH>
+		<magK errorminus="0.014" errorplus="0.014">9.701</magK>
+		<temperature>5552.0</temperature>
+		<planet>
+			<name>Kepler-449 b</name>
+			<radius errorminus="0.006" errorplus="0.006">0.183</radius>
+			<period errorminus="0.00027000" errorplus="0.00027000">12.58242000</period>
+			<eccentricity errorminus="0.030000" errorplus="0.280000">0.030000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-449 c</name>
+			<radius errorminus="0.008" errorplus="0.008">0.247</radius>
+			<period errorminus="0.00100000" errorplus="0.00100000">33.67270000</period>
+			<eccentricity errorminus="0.050000" errorplus="0.240000">0.050000</eccentricity>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
 </system>

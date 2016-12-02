@@ -4,17 +4,21 @@
 	<name>KIC 3239945</name>
 	<rightascension>19 30 38</rightascension>
 	<declination>+38 20 43</declination>
-	<distance>344.68</distance>
+	<distance errorminus="10.00" errorplus="10.00">330.00</distance>
 	<star>
 		<name>Kepler-167</name>
 		<name>KOI-490</name>
 		<name>KIC 3239945</name>
-		<mass errorminus="0.0200" errorplus="0.0200">0.7130</mass>
-		<radius errorminus=".037" errorplus="0.037">0.696</radius>
+		<mass errorminus="0.03" errorplus="0.02">0.77</mass>
+		<radius errorminus="0.01" errorplus="0.02">0.73</radius>
+		<magV>14.023</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.446</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.974</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.832</magK>
-		<temperature errorminus="100" errorplus="100">4796</temperature>
+		<temperature errorminus="50.00" errorplus="50.00">4890.00</temperature>
+		<age errorminus="0.800" errorplus="5.800">3.300</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.030</metallicity>
+		<spectraltype>K4</spectraltype>
 		<planet>
 			<name>Kepler-167 b</name>
 			<name>KOI-490 b</name>
@@ -22,13 +26,17 @@
 			<name>KIC 3239945 b</name>
 			<name>KIC 3239945.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00820" errorplus="0.00820">0.13214</radius>
-			<period errorminus=".000010" errorplus="0.000010">4.393147</period>
+			<radius errorminus="0.004" errorplus="0.004">0.144</radius>
+			<period errorminus="0.00000450" errorplus="0.00000460">4.39316320</period>
+			<semimajoraxis errorminus="0.002500" errorplus="0.001700">0.048300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.800" errorplus="0.470">89.330</inclination>
+			<temperature errorminus="16" errorplus="26">914</temperature>
 			<description>Kepler-167 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012000" errorplus="0.0012000">2455005.8673200</transittime>
+			<transittime errorminus=".000360" errorplus="0.000340" unit="BJD-UTC">2455831.783170</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,14 +46,47 @@
 			<name>KIC 3239945 c</name>
 			<name>KIC 3239945.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.00729">0.12485</radius>
-			<period errorminus=".000026" errorplus="0.000026">7.406097</period>
+			<radius errorminus="0.004" errorplus="0.004">0.138</radius>
+			<period errorminus="0.00001100" errorplus="0.00001200">7.40611400</period>
+			<semimajoraxis errorminus="0.003500" errorplus="0.024000">0.068400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.430" errorplus="0.360">89.300</inclination>
+			<temperature errorminus="14" errorplus="21">768</temperature>
 			<description>Kepler-167 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-167 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0019800" errorplus="0.0019800">2454967.0739300</transittime>
+			<transittime errorminus=".000840" errorplus="0.001290" unit="BJD-UTC">2455552.157740</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-167 d</name>
+			<mass errorminus="0.003" errorplus="0.003" type="Theoretical">0.006</mass>
+			<radius errorminus="0.004" errorplus="0.004">0.107</radius>
+			<period errorminus="0.00011900" errorplus="0.00007800">21.80385500</period>
+			<semimajoraxis errorminus="0.007100" errorplus="0.005000">0.140500</semimajoraxis>
+			<eccentricity>0.120000</eccentricity>
+			<inclination errorminus="0.140" errorplus="0.090">89.352</inclination>
+			<temperature errorminus="10" errorplus="14">536</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001800" errorplus="0.001500" unit="BJD-UTC">2455669.793400</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>Kepler-167 e</name>
+			<mass errorminus="3.7" errorplus="46.0" type="Theoretical">4.0</mass>
+			<radius errorminus="0.021" errorplus="0.021">0.906</radius>
+			<period errorminus="0.00056000" errorplus="0.00056000">1071.23228000</period>
+			<semimajoraxis errorminus="0.067000" errorplus="0.058000">1.890000</semimajoraxis>
+			<eccentricity errorminus="0.043000" errorplus="0.104000">0.062000</eccentricity>
+			<periastron errorminus="166.0000" errorplus="149.0000">201.0000</periastron>
+			<inclination errorminus="0.005" errorplus="0.007">89.976</inclination>
+			<temperature errorminus="3" errorplus="2">131</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000400" errorplus="0.000390" unit="BJD-UTC">2455253.286990</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

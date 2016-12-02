@@ -1,35 +1,37 @@
 <system>
 	<name>CoRoT-12</name>
-	<rightascension>06 43 04</rightascension>
+	<rightascension>06 43 03</rightascension>
 	<declination>-01 17 47</declination>
-	<distance>1150</distance>
+	<distance errorminus="85.00" errorplus="85.00">1150.00</distance>
 	<star>
 		<name>CoRoT-12</name>
-		<mass>1.078</mass>
-		<radius>1.116</radius>
+		<mass errorminus="0.07" errorplus="0.08">1.08</mass>
+		<radius errorminus="0.09" errorplus="0.10">1.12</radius>
 		<magV errorminus="0.052" errorplus="0.052">15.515</magV>
 		<magB errorminus="0.080" errorplus="0.080">16.343</magB>
 		<magR>15.3</magR>
-		<magJ errorminus="0.03" errorplus="0.03">14.02</magJ>
-		<magH errorminus="0.003" errorplus="0.03">13.63</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.56</magK>
-		<temperature>5675.0</temperature>
-		<metallicity>0.16</metallicity>
+		<magJ errorminus="0.032" errorplus="0.032">14.024</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.630</magH>
+		<magK errorminus="0.042" errorplus="0.042">13.557</magK>
+		<temperature errorminus="80.00" errorplus="80.00">5675.00</temperature>
+		<age errorminus="3.100" errorplus="3.100">6.300</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.160</metallicity>
 		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>CoRoT-12 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.917</mass>
-			<radius>1.44</radius>
-			<period>2.828042</period>
-			<semimajoraxis>0.04016</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
-			<inclination>85.48</inclination>
-			<temperature>1318.7</temperature>
+			<mass errorminus="0.06500" errorplus="0.07000" type="Mass">0.91700</mass>
+			<radius errorminus="0.130" errorplus="0.130">1.440</radius>
+			<period errorminus="0.00001300" errorplus="0.00001300">2.82804200</period>
+			<semimajoraxis errorminus="0.000920" errorplus="0.000930">0.040160</semimajoraxis>
+			<eccentricity errorminus="0.042000" errorplus="0.063000">0.070000</eccentricity>
+			<periastron errorminus="27.0000" errorplus="90.0000">105.0000</periastron>
+			<inclination errorminus="0.770" errorplus="0.720">85.480</inclination>
+			<temperature errorminus="58" errorplus="58">1442</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00036" errorplus="0.00036" unit="BJD">2454398.62785</transittime>
+			<transittime errorminus=".000360" errorplus="0.000360" unit="HJD">2454398.627070</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

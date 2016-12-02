@@ -1,8 +1,8 @@
 <system>
 	<name>HD 30669</name>
-	<rightascension>04 48 28.48561</rightascension>
-	<declination>-28 25 09.4699</declination>
-	<distance errorminus="3.9" errorplus="3.9">57.1</distance>
+	<rightascension>04 48 28</rightascension>
+	<declination>-28 25 09</declination>
+	<distance errorminus="3.9" errorplus="3.9">57.10</distance>
 	<star>
 		<name>HD 30669</name>
 		<name>HIP 22320</name>
@@ -13,27 +13,28 @@
 		<name>2MASS J04482846-2825094</name>
 		<mass errorminus="0.03" errorplus="0.03">0.92</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.91</radius>
-		<magV errorminus="0.01" errorplus="0.01">9.11</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.93</magB>
+		<magV errorminus="0.01" errorplus="0.01">9.110</magV>
+		<magB errorminus="0.02" errorplus="0.02">9.930</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.754</magJ>
 		<magH errorminus="0.026" errorplus="0.026">7.390</magH>
 		<magK errorminus="0.029" errorplus="0.029">7.329</magK>
-		<temperature errorminus="74" errorplus="74">5400</temperature>
-		<age errorminus="4" errorplus="4">4.8</age>
-		<metallicity errorminus="0.06" errorplus="0.06">0.13</metallicity>
+		<temperature errorminus="74.00" errorplus="74.00">5400.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">4.800</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.130</metallicity>
 		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>HD 30669 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.06" errorplus="0.06" type="msini">0.47</mass>
-			<period errorminus="61" errorplus="61">1684</period>
-			<semimajoraxis errorminus="0.08" errorplus="0.08">2.69</semimajoraxis>
-			<eccentricity errorminus="0.15" errorplus="0.15">0.18</eccentricity>
-			<periastron errorminus="36" errorplus="43">82</periastron>
-			<maximumrvtime errorminus="1395" errorplus="101">2457181</maximumrvtime>
+			<mass errorminus="0.06000" errorplus="0.06000" type="Msini">0.47000</mass>
+			<period errorminus="61.00000000" errorplus="61.00000000">1684.00000000</period>
+			<semimajoraxis errorminus="0.080000" errorplus="0.080000">2.690000</semimajoraxis>
+			<eccentricity errorminus="0.150000" errorplus="0.150000">0.180000</eccentricity>
+			<periastron errorminus="36.0000" errorplus="43.0000">82.0000</periastron>
+			<periastrontime errorminus="1395.000000" errorplus="101.000000">2457181.000000</periastrontime>
+			<maximumrvtime errorminus="1395.000000" errorplus="101.000000">2457181.000000</maximumrvtime>
 			<description>This planet has been discovered by the HARPS team using radial-velocity data gathered over ten years.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

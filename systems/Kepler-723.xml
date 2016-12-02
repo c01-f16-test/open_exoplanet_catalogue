@@ -2,22 +2,29 @@
 	<name>Kepler-723</name>
 	<rightascension>18 59 19</rightascension>
 	<declination>+44 39 29</declination>
+	<distance errorminus="67.84" errorplus="125.65">965.00</distance>
 	<star>
 		<name>Kepler-723</name>
 		<mass errorminus="0.05" errorplus="0.04">0.92</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.89</radius>
-		<temperature errorminus="85.2" errorplus="75.5">5539.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">0.00</metallicity>
+		<magV>15.198</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.949</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.593</magH>
+		<magK errorminus="0.046" errorplus="0.046">13.499</magK>
+		<temperature errorminus="85.21" errorplus="75.49">5539.00</temperature>
+		<age errorminus="2.870" errorplus="5.700">4.570</age>
+		<metallicity errorminus="0.178" errorplus="0.136">0.000</metallicity>
 		<planet>
 			<name>Kepler-723 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.070" errorplus="0.141">1.088</radius>
-			<period errorminus="0.000000230" errorplus="0.000000230">4.082275070</period>
+			<period errorminus="0.00000023" errorplus="0.00000023">4.08227507</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000046" errorplus="0.000046" unit="JD">2455002.637529</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

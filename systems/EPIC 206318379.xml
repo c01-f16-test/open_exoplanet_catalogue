@@ -1,9 +1,9 @@
 <system>
 	<name>EPIC 206318379</name>
 	<name>K2-28</name>
-	<rightascension>22 22 29.85</rightascension>
-	<declination>-07 57 19.3</declination>
-	<distance errorminus="8" errorplus="8">53</distance>
+	<rightascension>22 22 29</rightascension>
+	<declination>-07 57 19</declination>
+	<distance errorminus="8.00" errorplus="8.00">53.00</distance>
 	<star>
 		<name>EPIC 206318379</name>
 		<name>2MASS J22222988-0757195</name>
@@ -28,8 +28,36 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00058" errorplus="0.00058">2457242.46140</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>16/03/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>K2-28</name>
+		<name>EPIC 20631837</name>
+		<mass errorminus="0.05" errorplus="0.05">0.26</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.29</radius>
+		<magV errorminus="0.067" errorplus="0.067">16.061</magV>
+		<magB errorminus="0.220" errorplus="0.220">17.876</magB>
+		<magJ errorminus="0.030" errorplus="0.030">11.695</magJ>
+		<magH errorminus="0.023" errorplus="0.023">11.028</magH>
+		<magK errorminus="0.023" errorplus="0.023">10.746</magK>
+		<temperature errorminus="60.00" errorplus="60.00">3214.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">0.260</metallicity>
+		<spectraltype>M4</spectraltype>
+		<planet>
+			<name>K2-28 b</name>
+			<name>EPIC 206318379</name>
+			<radius errorminus="0.021" errorplus="0.021">0.207</radius>
+			<period errorminus="0.00004100" errorplus="0.00004100">2.26045500</period>
+			<semimajoraxis errorminus="0.001300" errorplus="0.001300">0.021400</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.200" errorplus="0.800">88.900</inclination>
+			<temperature errorminus="35" errorplus="35">568</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000740" errorplus="0.000750" unit="BJD">2456977.990120</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>
 </system>

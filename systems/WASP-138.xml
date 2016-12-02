@@ -1,0 +1,25 @@
+<system>
+	<name>WASP-138</name>
+	<declination>-00 27 50</declination>
+	<star>
+		<name>WASP-138</name>
+		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.36</radius>
+		<magV>11.81</magV>
+		<temperature errorminus="96.0" errorplus="96.0">6272.0</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.09</metallicity>
+		<spectraltype>F9</spectraltype>
+		<planet>
+			<name>WASP-138 b</name>
+			<mass errorminus="0.08" errorplus="0.08" type="Radial Velocity">1.22</mass>
+			<period errorminus="5e-06" errorplus="5e-06">3.634433</period>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0494</semimajoraxis>
+			<periastrontime errorminus="0.000319" errorplus="0.000319">2457326.62183</periastrontime>
+			<maximumrvtime errorminus="0.000319" errorplus="0.000319">2457326.62183</maximumrvtime>
+			<inclination errorminus="1.2" errorplus="0.9">88.5</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

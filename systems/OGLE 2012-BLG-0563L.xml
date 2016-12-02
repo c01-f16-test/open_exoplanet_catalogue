@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2012-BLG-0563L</name>
+	<rightascension>18 05 57</rightascension>
+	<declination>-27 42 43</declination>
+	<distance errorminus="800.00" errorplus="600.00">1300.00</distance>
+	<star>
+		<name>OGLE 2012-BLG-0563L</name>
+		<mass errorminus="0.20" errorplus="0.12">0.34</mass>
+		<planet>
+			<name>OGLE 2012-BLG-0563L b</name>
+			<mass errorminus="0.23000" errorplus="0.14000" type="Mass">0.39000</mass>
+			<semimajoraxis errorminus="0.500000" errorplus="0.520000">0.900000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

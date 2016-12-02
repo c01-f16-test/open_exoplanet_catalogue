@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-973</name>
-	<rightascension>19 20 40</rightascension>
-	<declination>+49 55 26</declination>
+	<rightascension>19 20 39</rightascension>
+	<declination>+49 55 25</declination>
+	<distance errorminus="9.32" errorplus="8.54">297.00</distance>
 	<star>
 		<name>Kepler-973</name>
 		<mass errorminus="0.03" errorplus="0.03">0.86</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.78</radius>
-		<temperature errorminus="62.8" errorplus="65.9">5213.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.11">-0.06</metallicity>
+		<magV>13.218</magV>
+		<magJ errorminus="0.029" errorplus="0.029">11.845</magJ>
+		<magH errorminus="0.032" errorplus="0.032">11.430</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.303</magK>
+		<temperature errorminus="62.75" errorplus="65.87">5213.00</temperature>
+		<age errorminus="0.852" errorplus="1.640">2.290</age>
+		<metallicity errorminus="0.096" errorplus="0.113">-0.060</metallicity>
 		<planet>
 			<name>Kepler-973 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.007">0.175</radius>
-			<period errorminus="0.000120800" errorplus="0.000120800">49.607733100</period>
+			<period errorminus="0.00012080" errorplus="0.00012080">49.60773310</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001910" errorplus="0.001910" unit="JD">2454971.414150</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

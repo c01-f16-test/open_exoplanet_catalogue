@@ -1,0 +1,18 @@
+<system>
+	<name>PSR J0636</name>
+	<declination>+51 29 00</declination>
+	<star>
+		<name>PSR J0636</name>
+		<name>PSR J0636+5129</name>
+		<mass>1.4</mass>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR 0636 b</name>
+			<mass>8.0</mass>
+			<period>0.067</period>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

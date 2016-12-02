@@ -1,0 +1,57 @@
+<system>
+	<name>bet UMi</name>
+	<name>beta Ursae Minoris</name>
+	<name>HD 131873</name>
+	<rightascension>14 50 42</rightascension>
+	<declination>+74 09 19</declination>
+	<distance errorminus="0.80" errorplus="0.77">38.78</distance>
+	<star>
+		<name>beta Ursae Minoris</name>
+		<name>HD 131873</name>
+		<name>beta UMi</name>
+		<name>bet UMi</name>
+		<name>β Ursae Minoris</name>
+		<name>β UMi</name>
+		<name>7 Ursae Minoris</name>
+		<name>7 UMi</name>
+		<name>Kochab</name>
+		<name>HIP 72607</name>
+		<name>TYC 4416-1799-1</name>
+		<name>SAO 8102</name>
+		<name>HR 5563</name>
+		<name>BD+74 595</name>
+		<name>2MASS J14504235+7409199</name>
+		<mass errorminus="0.20" errorplus="0.20">1.40</mass>
+		<radius errorminus="1.10" errorplus="1.10">38.30</radius>
+		<magV>2.080</magV>
+		<magB>3.550</magB>
+		<magR>0.97</magR>
+		<magI>0.21</magI>
+		<magJ errorminus="0.194" errorplus="0.194">-0.495</magJ>
+		<magH errorminus="0.184" errorplus="0.184">-1.225</magH>
+		<magK errorminus="0.204" errorplus="0.204">-1.287</magK>
+		<temperature errorminus="25.00" errorplus="25.00">4126.00</temperature>
+		<age errorminus="1.030" errorplus="1.030">2.950</age>
+		<metallicity errorminus="0.070" errorplus="0.070">-0.270</metallicity>
+		<spectraltype>K4 III</spectraltype>
+		<planet>
+			<name>beta Ursae Minoris b</name>
+			<name>HD 131873 b</name>
+			<name>beta UMi b</name>
+			<name>bet UMi b</name>
+			<name>Kochab b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Msini">6.10000</mass>
+			<period errorminus="2.70000000" errorplus="2.70000000">522.30000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.400000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.190000</eccentricity>
+			<periastron errorminus="2.8000" errorplus="2.8000">307.4000</periastron>
+			<periastrontime errorminus="4.600000" errorplus="4.600000">2453175.300000</periastrontime>
+			<maximumrvtime errorminus="4.600000" errorplus="4.600000">2453175.300000</maximumrvtime>
+			<description>This planet is orbiting the brighest star in the bowl of the Little Dipper. The star is K giant, 130 times more luminous than the Sun and about 130 light years away. The planet was found using data collected from the Bohyunsan Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

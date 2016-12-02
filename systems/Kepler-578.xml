@@ -2,22 +2,29 @@
 	<name>Kepler-578</name>
 	<rightascension>19 15 01</rightascension>
 	<declination>+39 33 49</declination>
+	<distance errorminus="37.41" errorplus="48.98">568.00</distance>
 	<star>
 		<name>Kepler-578</name>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.83</radius>
-		<temperature errorminus="106.9" errorplus="117.1">5334.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.03</metallicity>
+		<magV>14.411</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.087</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.653</magH>
+		<magK errorminus="0.020" errorplus="0.020">12.561</magK>
+		<temperature errorminus="106.87" errorplus="117.14">5334.00</temperature>
+		<age errorminus="3.030" errorplus="5.890">4.680</age>
+		<metallicity errorminus="0.180" errorplus="0.151">-0.030</metallicity>
 		<planet>
 			<name>Kepler-578 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.020" errorplus="0.016">0.178</radius>
-			<period errorminus="0.000001230" errorplus="0.000001230">1.616883700</period>
+			<period errorminus="0.00000123" errorplus="0.00000123">1.61688370</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000615" errorplus="0.000615" unit="JD">2455002.803484</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

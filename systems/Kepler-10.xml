@@ -1,22 +1,22 @@
 <system>
 	<name>Kepler-10</name>
 	<rightascension>19 02 43</rightascension>
-	<declination>+50 14 29</declination>
-	<distance errorminus="27" errorplus="27">173</distance>
+	<declination>+50 14 28</declination>
+	<distance errorminus="27.00" errorplus="27.00">173.00</distance>
 	<star>
 		<name>Kepler-10</name>
 		<name>KOI-72</name>
 		<name>KIC 11904151</name>
-		<mass errorminus="0.021" errorplus="0.021">0.91</mass>
-		<radius errorminus="0.009" errorplus="0.009">1.065</radius>
-		<magV>10.96</magV>
+		<mass errorminus="0.02" errorplus="0.02">0.91</mass>
+		<radius errorminus="0.01" errorplus="0.01">1.06</radius>
+		<magV errorminus="0.345" errorplus="0.345">10.940</magV>
 		<magR errorminus="0.04" errorplus="0.04">11.00</magR>
 		<magJ errorminus="0.022" errorplus="0.022">9.889</magJ>
 		<magH errorminus="0.025" errorplus="0.025">9.563</magH>
 		<magK errorminus="0.021" errorplus="0.021">9.496</magK>
-		<temperature errorminus="75" errorplus="75">5643</temperature>
-		<age errorminus="1.3" errorplus="1.5">10.6</age>
-		<metallicity errorminus="0.04" errorplus="0.04">-0.15</metallicity>
+		<temperature errorminus="44.00" errorplus="44.00">5627.00</temperature>
+		<age errorminus="1.5" errorplus="1.5">10.6</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.150</metallicity>
 		<spectraltype>G</spectraltype>
 		<planet>
 			<name>Kepler-10 b</name>
@@ -25,17 +25,17 @@
 			<name>KIC 11904151 b</name>
 			<name>2MASS J19024305+5014286 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.001541" errorplus="0.001541">0.010475</mass>
-			<radius errorminus="0.001823" errorplus="0.002734">0.133962</radius>
-			<period errorminus="0.0000002" errorplus="0.0000002">0.8374907</period>
-			<semimajoraxis errorminus="0.00013" errorplus="0.00013">0.01685</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="3.9" errorplus="3.2">84.8</inclination>
-			<temperature errorminus="44" errorplus="96">2169</temperature>
+			<mass errorminus="0.00460" errorplus="0.00400" type="Mass">0.01450</mass>
+			<radius errorminus="0.003" errorplus="0.004">0.132</radius>
+			<period errorminus="0.00000200" errorplus="0.00000200">0.83749100</period>
+			<semimajoraxis errorminus="0.001680" errorplus="0.000810">0.017200</semimajoraxis>
+			<eccentricity errorminus="0.06" errorplus="0.16">0.06</eccentricity>
+			<inclination errorminus="4.300" errorplus="3.400">85.100</inclination>
+			<temperature errorminus="60" errorplus="120">2130</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455034.08687</transittime>
+			<transittime errorminus=".000050" errorplus="0.000050" unit="BJD">2454964.575130</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<planet>
@@ -45,18 +45,18 @@
 			<name>KIC 11904151 c</name>
 			<name>2MASS J19024305+5014286 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.005977" errorplus="0.005977">0.054106</mass>
-			<radius errorminus="0.003645" errorplus="0.008202">0.214156</radius>
-			<period errorminus="0.000048" errorplus="0.000048">45.294301</period>
-			<semimajoraxis errorminus="0.0019" errorplus="0.0019">0.2410</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.43" errorplus="0.25">89.59</inclination>
+			<mass errorminus="0.00600" errorplus="0.00600" type="Mass">0.05400</mass>
+			<radius errorminus="0.004" errorplus="0.008">0.210</radius>
+			<period errorminus="0.00004800" errorplus="0.00004800">45.29430100</period>
+			<semimajoraxis errorminus="0.0019" errorplus="0.0019">0.241</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.2">0.000000</eccentricity>
+			<inclination errorminus="0.430" errorplus="0.250">89.590</inclination>
 			<temperature errorminus="17" errorplus="50">584</temperature>
 			<description>This planet was confirmed using infrared observations from Spitzer. It is highly unlikely (0.002%) that Kepler-10 c is a false positive. The planet is so close to its host star that it can not sustain liquid water on its surface. It is therefore most likely not habitable and a scorched, molten Earth.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00081" errorplus="0.00081" unit="BJD">2455062.26648</transittime>
+			<transittime errorminus=".000810" errorplus="0.000810" unit="BJD-TDB">2455062.266480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

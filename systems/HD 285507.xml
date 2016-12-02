@@ -2,23 +2,23 @@
 	<name>HD 285507</name>
 	<rightascension>04 07 01</rightascension>
 	<declination>+15 20 06</declination>
-	<distance>41.339</distance>
+	<distance errorminus="4.50" errorplus="3.71">42.43</distance>
 	<star>
 		<name>HD 285507</name>
 		<name>HIP 19207</name>
 		<name>2MASS J04070122+1520062</name>
 		<name>BD+14 653</name>
-		<mass errorminus="0.034" errorplus="0.034">0.734</mass>
-		<radius errorminus="0.054" errorplus="0.054">0.656</radius>
-		<magV>10.5</magV>
-		<magB>11.8</magB>
-		<magJ errorminus="0.026" errorplus="0.026">8.365</magJ>
+		<mass errorminus="0.03" errorplus="0.03">0.73</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.66</radius>
+		<magV errorminus="0.060" errorplus="0.060">10.267</magV>
+		<magB errorminus="0.174" errorplus="0.174">11.682</magB>
+		<magJ errorminus="0.025" errorplus="0.025">8.365</magJ>
 		<magH errorminus="0.049" errorplus="0.049">7.811</magH>
 		<magK errorminus="0.026" errorplus="0.026">7.665</magK>
-		<temperature errorminus="61" errorplus="85">4503</temperature>
-		<age errorminus="0.05" errorplus="0.05">0.625</age>
-		<metallicity errorminus="0.01" errorplus="0.01">0.13</metallicity>
-		<spectraltype>K5 D</spectraltype>
+		<temperature errorminus="61.00" errorplus="85.00">4503.00</temperature>
+		<age errorminus="0.050" errorplus="0.050">0.625</age>
+		<metallicity errorminus="0.010" errorplus="0.010">0.130</metallicity>
+		<spectraltype>K4.5 V</spectraltype>
 		<planet>
 			<name>HD 285507 b</name>
 			<name>HIP 19207 b</name>
@@ -26,13 +26,16 @@
 			<name>BD+14 653 b</name>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
-			<mass errorminus="0.033" errorplus="0.033">0.917</mass>
-			<period errorminus="0.0018" errorplus="0.0018">6.0881</period>
-			<eccentricity errorminus="0.019" errorplus="0.019">0.086</eccentricity>
-			<periastron errorminus="11" errorplus="11">182</periastron>
+			<mass errorminus="0.03300" errorplus="0.03300" type="Msini">0.91700</mass>
+			<period errorminus="0.00180000" errorplus="0.00180000">6.08810000</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0729</semimajoraxis>
+			<eccentricity errorminus="0.019000" errorplus="0.019000">0.086000</eccentricity>
+			<periastron errorminus="11.0000" errorplus="11.0000">182.0000</periastron>
+			<periastrontime errorminus="0.029000" errorplus="0.029000">2456263.121000</periastrontime>
+			<maximumrvtime errorminus="0.029000" errorplus="0.029000">2456263.121000</maximumrvtime>
 			<description>HD 285507b is a Hot Jupiter that joins the small but growing list of planets in open clusters. HD 285507b orbits a star in the Hyades cluster.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/10/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1117</name>
 	<rightascension>19 28 20</rightascension>
-	<declination>+49 14 15</declination>
+	<declination>+49 14 14</declination>
+	<distance errorminus="45.31" errorplus="88.54">619.00</distance>
 	<star>
 		<name>Kepler-1117</name>
 		<mass errorminus="0.05" errorplus="0.04">0.95</mass>
 		<radius errorminus="0.06" errorplus="0.13">0.93</radius>
-		<temperature errorminus="101.6" errorplus="83.0">5612.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.03</metallicity>
+		<magV>14.102</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.867</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.512</magH>
+		<magK errorminus="0.025" errorplus="0.025">12.463</magK>
+		<temperature errorminus="101.57" errorplus="82.98">5612.00</temperature>
+		<age errorminus="2.660" errorplus="4.960">4.270</age>
+		<metallicity errorminus="0.152" errorplus="0.136">0.030</metallicity>
 		<planet>
 			<name>Kepler-1117 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.007" errorplus="0.015">0.099</radius>
-			<period errorminus="0.000018600" errorplus="0.000018600">4.790284590</period>
+			<period errorminus="0.00001860" errorplus="0.00001860">4.79028459</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003240" errorplus="0.003240" unit="JD">2454967.954340</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

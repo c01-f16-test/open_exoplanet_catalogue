@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-740</name>
-	<rightascension>19 05 56</rightascension>
-	<declination>+46 41 33</declination>
+	<rightascension>19 05 55</rightascension>
+	<declination>+46 41 32</declination>
+	<distance errorminus="79.76" errorplus="143.42">1262.00</distance>
 	<star>
 		<name>Kepler-740</name>
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
 		<radius errorminus="0.05" errorplus="0.10">0.87</radius>
-		<temperature errorminus="80.5" errorplus="62.5">5438.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">0.03</metallicity>
+		<magV>15.954</magV>
+		<magJ errorminus="0.031" errorplus="0.031">14.613</magJ>
+		<magH errorminus="0.046" errorplus="0.046">14.251</magH>
+		<magK errorminus="0.064" errorplus="0.064">14.177</magK>
+		<temperature errorminus="80.55" errorplus="62.55">5438.00</temperature>
+		<age errorminus="3.010" errorplus="6.590">4.790</age>
+		<metallicity errorminus="0.163" errorplus="0.135">0.030</metallicity>
 		<planet>
 			<name>Kepler-740 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.047">0.408</radius>
-			<period errorminus="0.000001990" errorplus="0.000001990">3.584101220</period>
+			<period errorminus="0.00000199" errorplus="0.00000199">3.58410122</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000444" errorplus="0.000444" unit="JD">2455003.427911</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

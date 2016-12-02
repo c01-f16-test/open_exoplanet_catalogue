@@ -9,12 +9,14 @@
 		<name>Kepler-236</name>
 		<name>KOI-817</name>
 		<name>KIC 4725681</name>
-		<mass errorminus="0.0370" errorplus="0.0370">0.5490</mass>
-		<radius errorminus=".019" errorplus="0.019">0.510</radius>
+		<mass errorminus="0.0370" errorplus="0.0370">0.56</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.51</radius>
+		<magV>15.414</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.224</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.537</magH>
 		<magK errorminus="0.022" errorplus="0.022">12.312</magK>
-		<temperature errorminus="50" errorplus="150">3750</temperature>
+		<temperature errorminus="150.00" errorplus="150.00">3750.00</temperature>
+		<metallicity>0.119</metallicity>
 		<planet>
 			<name>Kepler-236 c</name>
 			<name>KOI-817 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 4725681 c</name>
 			<name>KIC 4725681.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01549" errorplus="0.01549">0.18226</radius>
-			<period errorminus=".000174" errorplus="0.000174">23.968127</period>
+			<radius errorminus="0.015" errorplus="0.015">0.178</radius>
+			<period errorminus="0.00017400" errorplus="0.00017400">23.96812700</period>
+			<semimajoraxis>0.132000</semimajoraxis>
 			<description>Kepler-236 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-236 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0036200" errorplus="0.0036200">2455019.2169000</transittime>
+			<transittime errorminus=".003620" errorplus="0.003620" unit="BJD">2455019.216900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 4725681 b</name>
 			<name>KIC 4725681.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01094" errorplus="0.01094">0.14307</radius>
-			<period errorminus=".000032" errorplus="0.000032">8.295611</period>
+			<radius errorminus="0.011" errorplus="0.011">0.140</radius>
+			<period errorminus="0.00003200" errorplus="0.00003200">8.29561100</period>
+			<semimajoraxis>0.065000</semimajoraxis>
 			<description>Kepler-236 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-236 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023000" errorplus="0.0023000">2454968.7920700</transittime>
+			<transittime errorminus=".002300" errorplus="0.002300" unit="BJD">2454968.792070</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1422</name>
-	<rightascension>19 35 34</rightascension>
+	<rightascension>19 35 33</rightascension>
 	<declination>+48 20 10</declination>
+	<distance errorminus="275.56" errorplus="406.21">2081.00</distance>
 	<star>
 		<name>Kepler-1422</name>
 		<mass errorminus="0.08" errorplus="0.09">1.15</mass>
 		<radius errorminus="0.15" errorplus="0.24">1.23</radius>
-		<temperature errorminus="121.6" errorplus="143.2">6194.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.00</metallicity>
+		<magV>15.665</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.658</magJ>
+		<magH errorminus="0.041" errorplus="0.041">14.368</magH>
+		<magK errorminus="0.089" errorplus="0.089">14.352</magK>
+		<temperature errorminus="121.64" errorplus="143.17">6194.00</temperature>
+		<age errorminus="1.300" errorplus="1.180">3.020</age>
+		<metallicity errorminus="0.165" errorplus="0.136">0.000</metallicity>
 		<planet>
 			<name>Kepler-1422 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.037">0.180</radius>
-			<period errorminus="0.000324600" errorplus="0.000324600">18.605194200</period>
+			<period errorminus="0.00032460" errorplus="0.00032460">18.60519420</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".013500" errorplus="0.013500" unit="JD">2454982.032600</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

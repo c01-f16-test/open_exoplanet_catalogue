@@ -10,11 +10,13 @@
 		<name>KOI-442</name>
 		<name>KIC 3745690</name>
 		<mass errorminus="0.0970" errorplus="0.0970">1.0280</mass>
-		<radius errorminus=".200" errorplus="0.200">1.044</radius>
-		<magJ errorminus="0.03" errorplus="0.03">12.94</magJ>
+		<radius errorminus="0.20" errorplus="0.20">1.04</radius>
+		<magV>14.002</magV>
+		<magJ errorminus="0.031" errorplus="0.031">12.939</magJ>
 		<magH errorminus="0.026" errorplus="0.026">12.627</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.57</magK>
-		<temperature errorminus="25" errorplus="125">5774</temperature>
+		<magK errorminus="0.030" errorplus="0.030">12.573</magK>
+		<temperature errorminus="125.00" errorplus="125.00">5774.00</temperature>
+		<metallicity>-0.108</metallicity>
 		<planet>
 			<name>Kepler-157 c</name>
 			<name>KOI-442 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3745690 c</name>
 			<name>KIC 3745690.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03919" errorplus="0.03919">0.20413</radius>
-			<period errorminus=".000049" errorplus="0.000049">13.540500</period>
+			<radius errorminus="0.038" errorplus="0.038">0.200</radius>
+			<period errorminus="0.00004900" errorplus="0.00004900">13.54050000</period>
+			<semimajoraxis>0.110000</semimajoraxis>
 			<description>Kepler-157 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021900" errorplus="0.0021900">2455004.6803200</transittime>
+			<transittime errorminus=".002190" errorplus="0.002190" unit="BJD">2455004.680320</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +41,27 @@
 			<name>KIC 3745690 b</name>
 			<name>KIC 3745690.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02369" errorplus="0.02369">0.12029</radius>
-			<period errorminus=".000006" errorplus="0.000006">1.732342</period>
+			<radius errorminus="0.023" errorplus="0.023">0.118</radius>
+			<period errorminus="0.00000600" errorplus="0.00000600">1.73234200</period>
+			<semimajoraxis>0.028000</semimajoraxis>
 			<description>Kepler-157 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-157 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020500" errorplus="0.0020500">2454967.5302000</transittime>
+			<transittime errorminus=".002050" errorplus="0.002050" unit="BJD">2454967.530200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-157 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.014">0.130</radius>
-			<period errorminus="0.000023880" errorplus="0.000023880">7.025734740</period>
+			<period errorminus="0.00002388" errorplus="0.00002388">7.02573474</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002750" errorplus="0.002750" unit="JD">2454966.629720</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

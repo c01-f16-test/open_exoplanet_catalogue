@@ -9,11 +9,13 @@
 		<name>Kepler-403</name>
 		<name>KOI-2732</name>
 		<name>KIC 9886361</name>
-		<radius errorminus=".236" errorplus="0.236">1.329</radius>
+		<radius errorminus="0.24" errorplus="0.24">1.33</radius>
+		<magV>12.805</magV>
 		<magJ errorminus="0.020" errorplus="0.020">11.830</magJ>
 		<magH errorminus="0.018" errorplus="0.018">11.575</magH>
-		<magK errorminus="0.016" errorplus="0.016">11.537</magK>
-		<temperature errorminus="100" errorplus="100">6090</temperature>
+		<magK errorminus="0.015" errorplus="0.015">11.537</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6090.00</temperature>
+		<metallicity>-0.145</metallicity>
 		<planet>
 			<name>Kepler-403 b</name>
 			<name>KOI-2732 b</name>
@@ -21,13 +23,14 @@
 			<name>KIC 9886361 b</name>
 			<name>KIC 9886361.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.02005">0.11391</radius>
-			<period errorminus=".000051" errorplus="0.000051">7.031462</period>
+			<radius errorminus="0.020" errorplus="0.020">0.112</radius>
+			<period errorminus="0.00005100" errorplus="0.00005100">7.03146200</period>
+			<semimajoraxis>0.076000</semimajoraxis>
 			<description>Kepler-403 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0045300" errorplus="0.0045300">2454967.4516100</transittime>
+			<transittime errorminus=".004530" errorplus="0.004530" unit="BJD">2454967.451610</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -37,25 +40,27 @@
 			<name>KIC 9886361 c</name>
 			<name>KIC 9886361.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02916" errorplus="0.02916">0.15948</radius>
-			<period errorminus=".000562" errorplus="0.000562">54.280749</period>
+			<radius errorminus="0.029" errorplus="0.029">0.156</radius>
+			<period errorminus="0.00056200" errorplus="0.00056200">54.28074900</period>
+			<semimajoraxis>0.297000</semimajoraxis>
 			<description>Kepler-403 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-403 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0064800" errorplus="0.0064800">2454973.7172000</transittime>
+			<transittime errorminus=".006480" errorplus="0.006480" unit="BJD">2454973.717200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-403 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.017" errorplus="0.027">0.127</radius>
-			<period errorminus="0.000082880" errorplus="0.000082880">13.611591290</period>
+			<period errorminus="0.00008288" errorplus="0.00008288">13.61159129</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004480" errorplus="0.004480" unit="JD">2454977.172090</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

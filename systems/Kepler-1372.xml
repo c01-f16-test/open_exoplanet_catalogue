@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1372</name>
-	<rightascension>19 15 33</rightascension>
+	<rightascension>19 15 32</rightascension>
 	<declination>+44 50 22</declination>
+	<distance errorminus="106.84" errorplus="309.01">1161.00</distance>
 	<star>
 		<name>Kepler-1372</name>
 		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius errorminus="0.08" errorplus="0.26">0.97</radius>
-		<temperature errorminus="103.1" errorplus="76.2">5677.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.05</metallicity>
+		<magV>15.371</magV>
+		<magJ errorminus="0.026" errorplus="0.026">14.113</magJ>
+		<magH errorminus="0.033" errorplus="0.033">13.792</magH>
+		<magK errorminus="0.043" errorplus="0.043">13.718</magK>
+		<temperature errorminus="103.14" errorplus="76.20">5677.00</temperature>
+		<age errorminus="3.220" errorplus="4.240">5.010</age>
+		<metallicity errorminus="0.163" errorplus="0.126">0.050</metallicity>
 		<planet>
 			<name>Kepler-1372 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.039">0.113</radius>
-			<period errorminus="0.000005540" errorplus="0.000005540">1.311555570</period>
+			<period errorminus="0.00000554" errorplus="0.00000554">1.31155557</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003820" errorplus="0.003820" unit="JD">2454964.534930</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

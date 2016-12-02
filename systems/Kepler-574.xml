@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-574</name>
 	<rightascension>19 20 59</rightascension>
-	<declination>+52 08 57</declination>
+	<declination>+52 08 56</declination>
+	<distance errorminus="55.22" errorplus="99.38">747.00</distance>
 	<star>
 		<name>Kepler-574</name>
 		<mass errorminus="0.05" errorplus="0.05">0.95</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.91</radius>
-		<temperature errorminus="108.4" errorplus="116.0">5612.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<magV>14.528</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.326</magJ>
+		<magH errorminus="0.036" errorplus="0.036">12.921</magH>
+		<magK errorminus="0.035" errorplus="0.035">12.921</magK>
+		<temperature errorminus="108.40" errorplus="116.01">5612.00</temperature>
+		<age errorminus="2.530" errorplus="4.680">4.170</age>
+		<metallicity errorminus="0.164" errorplus="0.137">-0.010</metallicity>
 		<planet>
 			<name>Kepler-574 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.014" errorplus="0.029">0.213</radius>
-			<period errorminus="0.000013460" errorplus="0.000013460">7.658804140</period>
+			<period errorminus="0.00001346" errorplus="0.00001346">7.65880414</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001400" errorplus="0.001400" unit="JD">2455006.039020</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

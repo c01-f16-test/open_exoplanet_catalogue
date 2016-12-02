@@ -1,0 +1,19 @@
+<system>
+	<name>OGLE-2012-BLG-0950L</name>
+	<rightascension>18 08 04</rightascension>
+	<declination>-29 43 53</declination>
+	<distance errorminus="1100.00" errorplus="800.00">3000.00</distance>
+	<star>
+		<name>OGLE-2012-BLG-0950L</name>
+		<mass errorminus="0.16" errorplus="0.12">0.56</mass>
+		<spectraltype>M V</spectraltype>
+		<planet>
+			<name>OGLE-2012-BLG-0950L b</name>
+			<mass errorminus="0.02832" errorplus="0.05349" type="Mass">0.11012</mass>
+			<semimajoraxis errorminus="0.700000" errorplus="0.600000">2.700000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

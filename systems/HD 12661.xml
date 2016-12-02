@@ -2,43 +2,50 @@
 	<name>HD 12661</name>
 	<rightascension>02 04 34</rightascension>
 	<declination>+25 24 51</declination>
-	<distance>37.16</distance>
+	<distance errorminus="1.18" errorplus="1.11">37.16</distance>
 	<star>
 		<name>HD 12661</name>
-		<mass>1.07</mass>
-		<radius>1.12</radius>
-		<magV>7.44</magV>
-		<magB>8.16</magB>
+		<mass errorminus="0.02" errorplus="0.02">1.02</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.11</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.425</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.156</magB>
 		<magR>7.0</magR>
 		<magI>6.6</magI>
-		<magJ>6.18</magJ>
-		<magH>5.90</magH>
-		<magK>5.86</magK>
-		<temperature>5742.0</temperature>
-		<metallicity>0.29</metallicity>
-		<spectraltype>G6 V</spectraltype>
+		<magJ errorminus="0.019" errorplus="0.019">6.182</magJ>
+		<magH errorminus="0.021" errorplus="0.021">5.896</magH>
+		<magK errorminus="0.024" errorplus="0.024">5.861</magK>
+		<temperature errorminus="70.00" errorplus="70.00">5748.00</temperature>
+		<age errorminus="1.940" errorplus="1.940">6.390</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.360</metallicity>
+		<spectraltype>K0</spectraltype>
 		<planet>
 			<name>HD 12661 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.3</mass>
-			<period>263.6</period>
-			<semimajoraxis>0.83</semimajoraxis>
-			<eccentricity>0.377</eccentricity>
+			<mass errorminus="0.03700" errorplus="0.03700" type="Msini">2.17600</mass>
+			<period errorminus="0.08300000" errorplus="0.08300000">262.70900000</period>
+			<semimajoraxis errorminus="0.005200" errorplus="0.005200">0.807900</semimajoraxis>
+			<eccentricity errorminus="0.007700" errorplus="0.007700">0.376800</eccentricity>
+			<periastron errorminus="1.5" errorplus="1.5">296.0</periastron>
+			<periastrontime errorminus="0.87" errorplus="0.87">2454152.76</periastrontime>
+			<maximumrvtime errorminus="0.87" errorplus="0.87">2454152.76</maximumrvtime>
 			<temperature>291.4</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 12661 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.57</mass>
-			<period>1708</period>
-			<semimajoraxis>2.56</semimajoraxis>
-			<eccentricity>0.031</eccentricity>
+			<mass errorminus="0.04800" errorplus="0.04800" type="Msini">1.81200</mass>
+			<period errorminus="14.00000000" errorplus="14.00000000">1708.00000000</period>
+			<semimajoraxis errorminus="0.023800" errorplus="0.023800">2.814500</semimajoraxis>
+			<eccentricity errorminus="0.022000" errorplus="0.022000">0.031000</eccentricity>
+			<periastron>165.0</periastron>
+			<periastrontime errorminus="87.0" errorplus="87.0">2446153.76</periastrontime>
+			<maximumrvtime errorminus="87.0" errorplus="87.0">2446153.76</maximumrvtime>
 			<temperature>167.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

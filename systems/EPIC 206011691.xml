@@ -1,37 +1,39 @@
 <system>
 	<name>EPIC 206011691</name>
 	<name>K2-21</name>
-	<rightascension>22 41 12.89</rightascension>
-	<declination>-14 29 20.35</declination>
-	<distance errorminus="6" errorplus="6">65</distance>
+	<rightascension>22 41 12</rightascension>
+	<declination>-14 29 20</declination>
+	<distance errorminus="6.00" errorplus="6.00">65.00</distance>
 	<star>
 		<name>EPIC 206011691</name>
 		<name>K2-21</name>
 		<name>2MASS J22411288-1429202</name>
 		<mass errorminus="0.11" errorplus="0.11">0.64</mass>
 		<radius errorminus="0.10" errorplus="0.10">0.60</radius>
-		<magV errorminus="0.02" errorplus="0.02">12.85</magV>
-		<magB errorminus="0.06" errorplus="0.06">14.14</magB>
-		<magJ errorminus="0.02" errorplus="0.02">10.25</magJ>
-		<magH errorminus="0.02" errorplus="0.02">9.63</magH>
-		<magK errorminus="0.02" errorplus="0.02">9.42</magK>
-		<temperature errorminus="375" errorplus="375">4043</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">-0.11</metallicity>
-		<spectraltype errorminus="0.5" errorplus="0.5">M0V</spectraltype>
+		<magV errorminus="0.020" errorplus="0.020">12.850</magV>
+		<magB errorminus="0.060" errorplus="0.060">14.140</magB>
+		<magJ errorminus="0.021" errorplus="0.021">10.251</magJ>
+		<magH errorminus="0.021" errorplus="0.021">9.633</magH>
+		<magK errorminus="0.020" errorplus="0.020">9.417</magK>
+		<temperature errorminus="375.00" errorplus="375.00">4043.00</temperature>
+		<age>1.000</age>
+		<metallicity errorminus="0.130" errorplus="0.130">-0.110</metallicity>
+		<spectraltype errorminus="0.5" errorplus="0.5">M0.0</spectraltype>
 		<planet>
 			<name>EPIC 206011691 b</name>
 			<name>2MASS J22411288-1429202 b</name>
 			<name>K2-21 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.039" errorplus="0.037">0.142</radius>
-			<period errorminus="0.00063" errorplus="0.00059">9.32414</period>
-			<semimajoraxis errorminus="0.0067" errorplus="0.0057">0.0731</semimajoraxis>
-			<inclination errorminus="1.1" errorplus="1.3">88.3</inclination>
+			<period errorminus="0.00063000" errorplus="0.00059000">9.32414000</period>
+			<semimajoraxis errorminus="0.006700" errorplus="0.005700">0.073100</semimajoraxis>
+			<inclination errorminus="1.100" errorplus="1.300">88.300</inclination>
+			<temperature>500</temperature>
 			<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020" errorplus="0.0025" unit="BJD">2456989.4239</transittime>
+			<transittime errorminus=".002000" errorplus="0.002500" unit="BJD-TDB">2456989.423900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -40,14 +42,15 @@
 			<name>K2-21 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.046" errorplus="0.048">0.171</radius>
-			<period errorminus="0.00099" errorplus="0.00093">15.50120</period>
-			<semimajoraxis errorminus="0.0094" errorplus="0.0079">0.1026</semimajoraxis>
-			<inclination errorminus="0.75" errorplus="0.63">89.08</inclination>
+			<period errorminus="0.00099000" errorplus="0.00093000">15.50120000</period>
+			<semimajoraxis errorminus="0.009400" errorplus="0.007900">0.102600</semimajoraxis>
+			<inclination errorminus="0.750" errorplus="0.630">89.080</inclination>
+			<temperature>420</temperature>
 			<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0017" errorplus="0.0021" unit="BJD">2456988.4708</transittime>
+			<transittime errorminus=".001700" errorplus="0.002100" unit="BJD-TDB">2456988.470800</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/31</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

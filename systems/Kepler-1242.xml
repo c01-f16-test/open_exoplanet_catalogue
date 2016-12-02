@@ -2,22 +2,29 @@
 	<name>Kepler-1242</name>
 	<rightascension>18 58 25</rightascension>
 	<declination>+41 11 47</declination>
+	<distance errorminus="37.12" errorplus="29.42">682.00</distance>
 	<star>
 		<name>Kepler-1242</name>
 		<mass errorminus="0.04" errorplus="0.04">0.77</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<temperature errorminus="57.6" errorplus="84.6">4895.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">-0.05</metallicity>
+		<magV>15.462</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.975</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.383</magH>
+		<magK errorminus="0.030" errorplus="0.030">13.343</magK>
+		<temperature errorminus="57.56" errorplus="84.63">4895.00</temperature>
+		<age errorminus="3.220" errorplus="5.240">5.620</age>
+		<metallicity errorminus="0.169" errorplus="0.129">-0.050</metallicity>
 		<planet>
 			<name>Kepler-1242 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.012">0.202</radius>
-			<period errorminus="0.000057140" errorplus="0.000057140">13.627984320</period>
+			<period errorminus="0.00005714" errorplus="0.00005714">13.62798432</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003760" errorplus="0.003760" unit="JD">2454968.450490</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

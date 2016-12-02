@@ -1,37 +1,37 @@
 <system>
 	<name>CoRoT-18</name>
 	<rightascension>06 32 41</rightascension>
-	<declination>-00 01 54</declination>
-	<distance>870</distance>
+	<declination>-00 01 53</declination>
+	<distance errorminus="90.00" errorplus="90.00">870.00</distance>
 	<star>
 		<name>CoRoT-18</name>
-		<mass>0.95</mass>
-		<radius>1</radius>
-		<magV errorminus="0.1" errorplus="0.1">15.00</magV>
+		<mass errorminus="0.15" errorplus="0.15">0.95</mass>
+		<radius errorminus="0.13" errorplus="0.13">1.00</radius>
+		<magV errorminus="0.100" errorplus="0.100">15.000</magV>
 		<magB>15.8</magB>
 		<magR>14.9</magR>
 		<magI errorminus="0.03" errorplus="0.03">14.05</magI>
 		<magJ errorminus="0.024" errorplus="0.024">13.441</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.08</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.01</magK>
-		<temperature>5440.0</temperature>
-		<metallicity>-0.1</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<magH errorminus="0.031" errorplus="0.031">13.081</magH>
+		<magK errorminus="0.030" errorplus="0.030">13.014</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5440.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.100</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>CoRoT-18 b</name>
 			<name>2MASS J06324137-0001537 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.47</mass>
-			<radius>1.31</radius>
-			<period>1.9000693</period>
-			<semimajoraxis>0.0295</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
-			<inclination>86.5</inclination>
-			<temperature>1396.0</temperature>
+			<mass errorminus="0.38000" errorplus="0.38000" type="Mass">3.47000</mass>
+			<radius errorminus="0.180" errorplus="0.180">1.310</radius>
+			<period errorminus="0.00000280" errorplus="0.00000280">1.90006930</period>
+			<semimajoraxis errorminus="0.001600" errorplus="0.001600">0.029500</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.080000</eccentricity>
+			<inclination errorminus="0.900" errorplus="1.400">86.500</inclination>
+			<temperature errorminus="90" errorplus="90">1550</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455321.72490</transittime>
+			<transittime errorminus=".000180" errorplus="0.000180" unit="HJD">2455321.724120</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

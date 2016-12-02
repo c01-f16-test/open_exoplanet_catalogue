@@ -1,8 +1,8 @@
 <system>
 	<name>HD 218566</name>
-	<rightascension>23 09 10.72771</rightascension>
-	<declination>-02 15 38.6775</declination>
-	<distance errorminus="0.93" errorplus="0.93">28.55</distance>
+	<rightascension>23 09 10</rightascension>
+	<declination>-02 15 38</declination>
+	<distance errorminus="1.11" errorplus="1.03">29.94</distance>
 	<star>
 		<name>HD 218566</name>
 		<name>HIP 114322</name>
@@ -13,27 +13,28 @@
 		<name>2MASS J23091067-0215385</name>
 		<mass errorminus="0.03" errorplus="0.03">0.85</mass>
 		<radius errorminus="0.08" errorplus="0.08">0.86</radius>
-		<magV errorminus="0.016" errorplus="0.016">8.628</magV>
-		<magB errorminus="0.028" errorplus="0.028">9.641</magB>
+		<magV errorminus="0.030" errorplus="0.030">8.630</magV>
+		<magB errorminus="0.030" errorplus="0.030">9.640</magB>
 		<magI errorminus="0.02" errorplus="0.02">8.73</magI>
 		<magJ errorminus="0.020" errorplus="0.020">6.824</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.344</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.223</magK>
-		<temperature>4820.0</temperature>
-		<age>8.5</age>
-		<metallicity>0.38</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<temperature>4820.00</temperature>
+		<age>8.500</age>
+		<metallicity>0.380</metallicity>
+		<spectraltype>K3 V</spectraltype>
 		<planet>
 			<name>HD 218566 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.02" errorplus="0.02" type="msini">0.21</mass>
-			<period errorminus="0.4" errorplus="0.4">225.7</period>
-			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.6873</semimajoraxis>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
-			<periastron errorminus="24" errorplus="24">36</periastron>
-			<periastrontime errorminus="154" errorplus="154">2450360</periastrontime>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Msini">0.21000</mass>
+			<period errorminus="0.40000000" errorplus="0.40000000">225.70000000</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.687300</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.300000</eccentricity>
+			<periastron errorminus="24.0000" errorplus="24.0000">36.0000</periastron>
+			<periastrontime errorminus="154.000000" errorplus="154.000000">2450360.000000</periastrontime>
+			<maximumrvtime errorminus="154.000000" errorplus="154.000000">2450360.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/03</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

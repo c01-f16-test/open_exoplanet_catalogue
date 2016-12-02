@@ -1,0 +1,43 @@
+<system>
+	<name>MOA 2007-BLG-192L</name>
+	<name>MOA-2007-BLG-192-L</name>
+	<rightascension>18 08 03</rightascension>
+	<declination>-27 09 00</declination>
+	<distance errorminus="400.00" errorplus="400.00">1000.00</distance>
+	<star>
+		<name>MOA-2007-BLG-192-L</name>
+		<mass errorminus="0.012" errorplus="0.012">0.06</mass>
+		<magB>19.81</magB>
+		<magJ>19.6</magJ>
+		<temperature>3840.0</temperature>
+		<spectraltype>M</spectraltype>
+		<planet>
+			<name>MOA-2007-BLG-192-L b</name>
+			<name>MOA 2007-BLG-192L b</name>
+			<name>MOA-192 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.005" errorplus="0.015">0.01</mass>
+			<semimajoraxis errorminus="0.14" errorplus="0.14">0.66</semimajoraxis>
+			<description>The exoplanet MOA-2007-BLG-192-L b is orbiting a low mass brown dwarf, roughly 6% the mass of our Sun. This makes the primary too small to sustain fusion.</description>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+			<image>MOA192</image>
+			<imagedescription>Artist's impression of the extrasolar planet MOA-2007-BLG-192-L b. 
+			
+Credit: Joe Gallagher.</imagedescription>
+		</planet>
+	</star>
+	<star>
+		<name>MOA 2007-BLG-192L</name>
+		<mass errorminus="0.02" errorplus="0.03">0.06</mass>
+		<planet>
+			<name>MOA 2007-BLG-192L b</name>
+			<mass errorminus="0.00500" errorplus="0.01500" type="Mass">0.01000</mass>
+			<semimajoraxis errorminus="0.160000" errorplus="0.220000">0.620000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

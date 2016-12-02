@@ -1,31 +1,35 @@
 <system>
 	<name>HD 130322</name>
-	<rightascension>14 47 33</rightascension>
+	<rightascension>14 47 32</rightascension>
 	<declination>-00 16 53</declination>
-	<distance>30</distance>
+	<distance errorminus="1.40" errorplus="1.28">29.76</distance>
 	<star>
 		<name>HD 130322</name>
-		<mass>0.79</mass>
-		<radius>0.83</radius>
-		<magV>8.05</magV>
-		<magB>8.82</magB>
+		<mass errorminus="0.03" errorplus="0.03">0.92</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.85</radius>
+		<magV errorminus="0.016" errorplus="0.016">8.031</magV>
+		<magB errorminus="0.022" errorplus="0.022">8.827</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.712</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.315</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.234</magK>
-		<temperature>5330.0</temperature>
+		<magK errorminus="0.022" errorplus="0.022">6.234</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5387.00</temperature>
+		<age>0.35</age>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>K0 V</spectraltype>
 		<planet>
 			<name>HD 130322 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.02</mass>
-			<period>10.72</period>
-			<semimajoraxis>0.088</semimajoraxis>
-			<eccentricity>0.044</eccentricity>
-			<inclination>76</inclination>
+			<mass errorminus="0.0312" errorplus="0.773" type="Msini">1.15000</mass>
+			<period errorminus="0.00018000" errorplus="0.00018000">10.70871000</period>
+			<semimajoraxis>0.092500</semimajoraxis>
+			<eccentricity errorminus="0.016000" errorplus="0.016000">0.029000</eccentricity>
+			<periastron errorminus="36.0000" errorplus="36.0000">193.0000</periastron>
+			<periastrontime errorminus="1.100000" errorplus="1.100000">2453996.400000</periastrontime>
+			<maximumrvtime errorminus="1.100000" errorplus="1.100000">2453996.400000</maximumrvtime>
+			<inclination errorminus="42.0" errorplus="42.0">76.0</inclination>
 			<temperature>721.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 		</planet>
 	</star>

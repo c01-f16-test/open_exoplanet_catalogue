@@ -2,30 +2,34 @@
 	<name>HD 98219</name>
 	<rightascension>11 17 47</rightascension>
 	<declination>-23 58 31</declination>
-	<distance>134</distance>
+	<distance errorminus="24.75" errorplus="18.62">150.38</distance>
 	<star>
 		<name>HD 98219</name>
-		<mass>1.30</mass>
-		<radius>4.5</radius>
-		<magV>8.21</magV>
-		<magB errorminus="0.017" errorplus="0.017">8.992</magB>
+		<mass errorminus="0.09" errorplus="0.09">1.30</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.50</radius>
+		<magV>8.210</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.991</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.420</magJ>
 		<magH errorminus="0.031" errorplus="0.031">5.913</magH>
-		<magK errorminus="0.023" errorplus="0.023">5.813</magK>
-		<temperature>4992.0</temperature>
-		<metallicity>-0.02</metallicity>
-		<spectraltype>K0</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">5.813</magK>
+		<temperature errorminus="44.00" errorplus="44.00">4992.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">4.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.020</metallicity>
+		<spectraltype>K0 III/IV</spectraltype>
 		<planet>
 			<name>HD 98219 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.8</mass>
-			<period>436.9</period>
-			<semimajoraxis>1.23</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">1.80000</mass>
+			<period errorminus="4.50000000" errorplus="4.50000000">436.90000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.230000</semimajoraxis>
+			<eccentricity errorminus="inf" errorplus="nan">0.112000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">57.0000</periastron>
+			<periastrontime errorminus="40.000000" errorplus="40.000000">2455140.000000</periastrontime>
+			<maximumrvtime errorminus="40.000000" errorplus="40.000000">2455140.000000</maximumrvtime>
 			<temperature>419.8</temperature>
 			<description>The star HD 98219 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,44 @@
+<system>
+	<name>KELT-14</name>
+	<name>WASP-122</name>
+	<rightascension>07 13 12</rightascension>
+	<declination>-42 24 35</declination>
+	<distance errorminus="10.00" errorplus="10.00">266.00</distance>
+	<star>
+		<name>WASP-122</name>
+		<name>TYC 7638-00981-1</name>
+		<name>USNO-B 0475-0113097</name>
+		<name>KELT-14</name>
+		<mass errorminus="0.04" errorplus="0.04">1.24</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.52</radius>
+		<magV errorminus="0.07" errorplus="0.07">11.000</magV>
+		<magB errorminus="0.050" errorplus="0.050">11.640</magB>
+		<magJ errorminus="0.021" errorplus="0.021">9.808</magJ>
+		<magH errorminus="0.022" errorplus="0.022">9.487</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.424</magK>
+		<temperature errorminus="130.00" errorplus="130.00">5720.00</temperature>
+		<age errorminus="0.800" errorplus="0.800">5.110</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.320</metallicity>
+		<spectraltype>G4</spectraltype>
+		<planet>
+			<name>WASP-122 b</name>
+			<name>TYC 7638-00981-1 b</name>
+			<name>USNO-B 0475-0113097 b</name>
+			<name>KELT-14 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.03200" errorplus="0.03200" type="Mass">1.28400</mass>
+			<radius errorminus="0.047" errorplus="0.047">1.743</radius>
+			<period errorminus="0.00000260" errorplus="0.00000320">1.71005660</period>
+			<semimajoraxis errorminus="0.000310" errorplus="0.000310">0.030050</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.08">0.000000</eccentricity>
+			<inclination errorminus="0.300" errorplus="0.300">78.300</inclination>
+			<temperature errorminus="50" errorplus="50">1970</temperature>
+			<description>WASP-122 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter in a 1.7-day orbit around a G4 star. The planet was later discovered independently by the KELT-South survey where he was named KELT-14 b.</description>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000210" errorplus="0.000210" unit="BJD">2456665.224010</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

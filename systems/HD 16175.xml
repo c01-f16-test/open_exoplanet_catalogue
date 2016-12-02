@@ -1,31 +1,35 @@
 <system>
 	<name>HD 16175</name>
-	<rightascension>02 37 02</rightascension>
+	<rightascension>02 37 01</rightascension>
 	<declination>+42 03 45</declination>
-	<distance>59.8</distance>
+	<distance errorminus="3.69" errorplus="3.28">59.84</distance>
 	<star>
 		<name>HD 16175</name>
-		<mass>1.35</mass>
-		<radius>1.87</radius>
-		<magV>7.28</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.92</magB>
+		<mass errorminus="0.14" errorplus="0.14">1.34</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.87</radius>
+		<magV errorminus="0.010" errorplus="0.010">7.282</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.926</magB>
 		<magJ errorminus="0.039" errorplus="0.039">6.166</magJ>
 		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
-		<temperature>6000.0</temperature>
-		<metallicity>0.23</metallicity>
+		<temperature errorminus="34.00" errorplus="34.00">6022.00</temperature>
+		<age errorminus="0.500" errorplus="0.500">3.300</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.370</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.4</mass>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass errorminus="0.37000" errorplus="0.37000" type="Msini">4.77000</mass>
+			<period errorminus="2.80000000" errorplus="2.80000000">995.40000000</period>
+			<semimajoraxis errorminus="0.076000" errorplus="0.076000">2.148000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.637000</eccentricity>
+			<periastron errorminus="2.2000" errorplus="2.2000">221.5000</periastron>
+			<periastrontime errorminus="2.600000" errorplus="2.600000">2455801.400000</periastrontime>
+			<maximumrvtime errorminus="2.600000" errorplus="2.600000">2455801.400000</maximumrvtime>
 			<temperature>243.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
-			<discoveryyear>2007</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

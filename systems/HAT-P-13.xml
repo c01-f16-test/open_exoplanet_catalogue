@@ -1,38 +1,40 @@
 <system>
 	<name>HAT-P-13</name>
-	<rightascension>08 39 32</rightascension>
+	<rightascension>08 39 31</rightascension>
 	<declination>+47 21 07</declination>
-	<distance>214</distance>
+	<distance errorminus="12.00" errorplus="12.00">214.00</distance>
 	<star>
 		<name>HAT-P-13</name>
-		<mass>1.22</mass>
-		<radius>1.56</radius>
-		<magV errorminus="0.06" errorplus="0.06">10.42</magV>
+		<mass errorminus="0.10" errorplus="0.05">1.22</mass>
+		<radius errorminus="0.08" errorplus="0.08">1.56</radius>
+		<magV errorminus="0.06" errorplus="0.06">10.622</magV>
 		<magB errorminus="0.08" errorplus="0.08">11.15</magB>
 		<magR>10.40</magR>
 		<magJ errorminus="0.018" errorplus="0.018">9.328</magJ>
 		<magH errorminus="0.017" errorplus="0.017">9.058</magH>
 		<magK errorminus="0.017" errorplus="0.017">8.975</magK>
-		<temperature>5638.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.41</metallicity>
+		<temperature errorminus="90.00" errorplus="90.00">5653.00</temperature>
+		<age errorminus="0.700" errorplus="2.500">5.000</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.410</metallicity>
 		<spectraltype>G4</spectraltype>
 		<planet>
 			<name>HAT-P-13 b</name>
 			<name>TYC 3416-00543-1 b</name>
 			<name>2MASS J08393180+4721073 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<radius>1.28</radius>
-			<period>2.916243</period>
-			<semimajoraxis>0.0426</semimajoraxis>
-			<eccentricity>0.0142</eccentricity>
-			<inclination>83.3</inclination>
+			<mass errorminus="0.03800" errorplus="0.03800" type="Mass">0.85100</mass>
+			<radius errorminus="0.065" errorplus="0.065">1.272</radius>
+			<period errorminus="0.00001500" errorplus="0.00001500">2.91625000</period>
+			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0426</semimajoraxis>
+			<eccentricity errorminus="0.004100" errorplus="0.004100">0.013300</eccentricity>
+			<periastron errorminus="36.0000" errorplus="27.0000">210.0000</periastron>
+			<inclination errorminus="0.680" errorplus="0.680">83.400</inclination>
 			<temperature>1504.3</temperature>
 			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00038" errorplus="0.00038" unit="BJD">2454779.92979</transittime>
+			<transittime errorminus=".000750" errorplus="0.000750" unit="BJD">2454779.929760</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
@@ -40,16 +42,19 @@
 			<name>TYC 3416-00543-1 c</name>
 			<name>2MASS J08393180+4721073 c</name>
 			<list>Confirmed planets</list>
-			<mass>14.5</mass>
-			<period>448.2</period>
-			<semimajoraxis>1.186</semimajoraxis>
-			<eccentricity>0.666</eccentricity>
+			<mass errorminus="0.28000" errorplus="0.28000" type="Msini">14.28000</mass>
+			<period errorminus="0.22000000" errorplus="0.22000000">446.27000000</period>
+			<semimajoraxis errorminus="0.033" errorplus="0.033">1.186</semimajoraxis>
+			<eccentricity errorminus="0.005400" errorplus="0.005400">0.661600</eccentricity>
+			<periastron errorminus="0.3500" errorplus="0.3500">175.2900</periastron>
+			<periastrontime errorminus="0.740000" errorplus="0.740000">2455312.800000</periastrontime>
+			<maximumrvtime errorminus="0.740000" errorplus="0.740000">2455312.800000</maximumrvtime>
 			<temperature>276.2</temperature>
 			<description>The star HAT-P-13 is located in the constalltion Ursa Major and hosts at least two extrasolar planets. Only the inner planet is transiting. There might be an unconfirmed third planet in the system.</description>
 			<discoverymethod>RV</discoverymethod>
 			<transittime errorminus="1.8" errorplus="1.8" unit="BJD">2454870.4</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/02</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

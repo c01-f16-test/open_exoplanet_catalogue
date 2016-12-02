@@ -1,0 +1,52 @@
+<system>
+	<name>Kepler-417</name>
+	<name>KOI-2113</name>
+	<rightascension>19 35 17</rightascension>
+	<declination>+42 46 46</declination>
+	<star>
+		<name>KOI-2113</name>
+		<name>Kepler-417</name>
+		<name>KIC 7207061</name>
+		<name>2MASS J19351783+4246469</name>
+		<mass errorminus="0.089" errorplus="0.080">0.90</mass>
+		<radius errorminus="0.060" errorplus="0.299">0.81</radius>
+		<magV>15.886</magV>
+		<magJ errorminus="0.032" errorplus="0.032">14.426</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.958</magH>
+		<magK errorminus="0.058" errorplus="0.058">13.922</magK>
+		<temperature errorminus="162" errorplus="201">5376</temperature>
+		<planet>
+			<name>KOI-2113 b</name>
+			<name>Kepler-417 b</name>
+			<name>KOI-2113.02</name>
+			<name>KIC 7207061 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.02500" errorplus="0.02900" type="Mass">0.03500</mass>
+			<radius errorminus="0.015" errorplus="0.077">0.206</radius>
+			<period>12.33100000</period>
+			<semimajoraxis>0.1006</semimajoraxis>
+			<description>The planet Kepler-417 b has been confirmed by transit timing variations.</description>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<transittime errorminus="0.00255" errorplus="0.00255">2455194.97363</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+		<planet>
+			<name>KOI-2113 c</name>
+			<name>Kepler-417 c</name>
+			<name>KOI-2113.01</name>
+			<name>KIC 7207061 c</name>
+			<list>Confirmed planets</list>
+			<radius errorminus="0.018" errorplus="0.089">0.241</radius>
+			<period>15.94300000</period>
+			<semimajoraxis>0.1194</semimajoraxis>
+			<description>The planet Kepler-417 c has been confirmed by transit timing variations.</description>
+			<discoverymethod>Transit Timing Variations</discoverymethod>
+			<transittime errorminus="0.00297" errorplus="0.00297">2454979.33004</transittime>
+			<istransiting>1</istransiting>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

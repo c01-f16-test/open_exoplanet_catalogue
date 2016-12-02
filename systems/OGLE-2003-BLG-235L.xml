@@ -1,0 +1,38 @@
+<system>
+	<name>OGLE-2003-BLG-235L</name>
+	<name>OGLE235-MOA53</name>
+	<rightascension>18 05 16</rightascension>
+	<declination>-28 53 41</declination>
+	<distance>5200</distance>
+	<star>
+		<name>OGLE235-MOA53</name>
+		<mass>0.63</mass>
+		<temperature>5700.0</temperature>
+		<planet>
+			<name>OGLE235-MOA53 b</name>
+			<name>OGLE-2003-BLG-235 b</name>
+			<name>MOA-2003-BLG-53 b</name>
+			<list>Confirmed planets</list>
+			<mass>2.6</mass>
+			<semimajoraxis>5.1</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>OGLE-2003-BLG-235L</name>
+		<name>MOA-2003-BLG-53</name>
+		<mass errorminus="0.08" errorplus="0.08">0.63</mass>
+		<magB>19.7</magB>
+		<planet>
+			<name>OGLE-2003-BLG-235L b</name>
+			<name>MOA-2003-BLG-53 b</name>
+			<mass errorminus="0.8" errorplus="0.8">2.6</mass>
+			<semimajoraxis errorminus="1.6" errorplus="1.6">5.1</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2004</discoveryyear>
+		</planet>
+	</star>
+</system>

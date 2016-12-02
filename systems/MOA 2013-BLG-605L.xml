@@ -1,0 +1,17 @@
+<system>
+	<name>MOA 2013-BLG-605L</name>
+	<rightascension>17 58 42</rightascension>
+	<declination>-29 23 53</declination>
+	<star>
+		<name>MOA 2013-BLG-605L</name>
+		<mass errorminus="0.00" errorplus="0.01">0.03</mass>
+		<planet>
+			<name>MOA 2013-BLG-605L b</name>
+			<mass errorminus="0.00094" errorplus="0.00157" type="Mass">0.01007</mass>
+			<semimajoraxis errorminus="0.020000" errorplus="0.670000">0.940000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

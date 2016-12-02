@@ -2,32 +2,36 @@
 	<name>HD 106252</name>
 	<rightascension>12 13 29</rightascension>
 	<declination>+10 02 29</declination>
-	<distance>37.44</distance>
+	<distance errorminus="1.30" errorplus="1.30">37.40</distance>
 	<star>
 		<name>HD 106252</name>
-		<mass>0.96</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.01</mass>
 		<radius>1.09</radius>
-		<magV>7.36</magV>
-		<magB>8.00</magB>
+		<magV errorminus="0.011" errorplus="0.011">7.408</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.024</magB>
 		<magR>7.0</magR>
 		<magI>6.7</magI>
-		<magJ>6.30</magJ>
-		<magH>6.02</magH>
-		<magK>5.93</magK>
-		<temperature>5754.0</temperature>
-		<metallicity>-0.078</metallicity>
+		<magJ errorminus="0.024" errorplus="0.024">6.302</magJ>
+		<magH errorminus="0.047" errorplus="0.047">6.016</magH>
+		<magK errorminus="0.026" errorplus="0.026">5.929</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5870.00</temperature>
+		<age>5.02</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.070</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 106252 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.56</mass>
-			<period>1600</period>
-			<semimajoraxis>2.7</semimajoraxis>
-			<eccentricity>0.47</eccentricity>
-			<inclination>166.7</inclination>
+			<mass errorminus="0.16000" errorplus="0.16000" type="Msini">6.92000</mass>
+			<period errorminus="4.70000000" errorplus="4.70000000">1531.00000000</period>
+			<semimajoraxis errorminus="0.026000" errorplus="0.026000">2.611000</semimajoraxis>
+			<eccentricity errorminus="0.011000" errorplus="0.011000">0.482000</eccentricity>
+			<periastron errorminus="1.8000" errorplus="1.8000">292.8000</periastron>
+			<periastrontime errorminus="4.700000" errorplus="4.700000">2453397.500000</periastrontime>
+			<maximumrvtime errorminus="4.700000" errorplus="4.700000">2453397.500000</maximumrvtime>
+			<inclination errorminus="160.2" errorplus="7.3">166.7</inclination>
 			<temperature>158.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 	</star>

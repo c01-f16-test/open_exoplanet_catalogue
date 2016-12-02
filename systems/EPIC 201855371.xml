@@ -1,34 +1,36 @@
 <system>
 	<name>EPIC 201855371</name>
 	<name>K2-17</name>
-	<rightascension>11 53 19.146</rightascension>
-	<declination>+06 24 44.14</declination>
-	<distance errorminus="6" errorplus="5">134</distance>
+	<rightascension>11 53 19</rightascension>
+	<declination>+06 24 44</declination>
+	<distance errorminus="6.00" errorplus="5.00">134.00</distance>
 	<star>
 		<name>EPIC 201855371</name>
 		<name>K2-17</name>
 		<name>2MASS J11531915+0624439</name>
 		<mass errorminus="0.05" errorplus="0.02">0.71</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.66</radius>
-		<magJ errorminus="0.02" errorplus="0.02">11.08</magJ>
-		<magH errorminus="0.02" errorplus="0.02">10.44</magH>
-		<magK errorminus="0.02" errorplus="0.02">10.31</magK>
-		<temperature errorminus="47" errorplus="56">4320</temperature>
-		<metallicity errorminus="0.22" errorplus="0.09">0.15</metallicity>
+		<magV errorminus="0.040" errorplus="0.040">13.519</magV>
+		<magB errorminus="0.060" errorplus="0.060">14.819</magB>
+		<magJ errorminus="0.024" errorplus="0.024">11.076</magJ>
+		<magH errorminus="0.023" errorplus="0.023">10.436</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.308</magK>
+		<temperature errorminus="47.00" errorplus="56.00">4320.00</temperature>
+		<metallicity errorminus="0.220" errorplus="0.090">0.150</metallicity>
 		<planet>
 			<name>EPIC 201855371 b</name>
 			<name>EPIC 201855371.01</name>
 			<name>K2-17 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.018" errorplus="0.018">0.205</radius>
-			<period errorminus="0.00152" errorplus="0.00152">17.96753</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.119</semimajoraxis>
+			<radius errorminus="0.018" errorplus="0.018">0.199</radius>
+			<period errorminus="0.00152000" errorplus="0.00152000">17.96753000</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.119000</semimajoraxis>
 			<temperature errorminus="10" errorplus="10">487</temperature>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0035" errorplus="0.0035" unit="BJD">2456817.9462</transittime>
+			<transittime errorminus=".003500" errorplus="0.003500" unit="BJD">2456817.946200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

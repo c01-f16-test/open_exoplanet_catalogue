@@ -1,0 +1,36 @@
+<system>
+	<name>K2-90</name>
+	<rightascension>03 56 36</rightascension>
+	<declination>+22 28 21</declination>
+	<star>
+		<name>K2-90</name>
+		<mass errorminus="0.07" errorplus="0.07">0.56</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.49</radius>
+		<magV errorminus="0.040" errorplus="0.040">13.855</magV>
+		<magB errorminus="0.050" errorplus="0.050">15.180</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.168</magJ>
+		<magH errorminus="0.027" errorplus="0.027">10.495</magH>
+		<magK errorminus="0.020" errorplus="0.020">10.360</magK>
+		<temperature errorminus="164.00" errorplus="164.00">4136.00</temperature>
+		<planet>
+			<name>K2-90 b</name>
+			<radius errorminus="0.029" errorplus="0.029">0.182</radius>
+			<period errorminus="0.00140000" errorplus="0.00140000">13.73110000</period>
+			<semimajoraxis errorminus="0.003900" errorplus="0.003900">0.092600</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002500" errorplus="0.002500" unit="BJD_TDB">2457078.664800</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-90 c</name>
+			<radius errorminus="0.016" errorplus="0.016">0.091</radius>
+			<period errorminus="0.00038000" errorplus="0.00038000">2.90032000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.032800</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004600" errorplus="0.004600" unit="BJD_TDB">2457066.744300</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

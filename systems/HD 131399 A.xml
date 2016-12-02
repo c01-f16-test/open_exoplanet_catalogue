@@ -1,0 +1,31 @@
+<system>
+	<name>HD 131399 A</name>
+	<rightascension>14 54 25</rightascension>
+	<declination>-34 08 34</declination>
+	<distance errorminus="7.00" errorplus="7.00">98.00</distance>
+	<star>
+		<name>HD 131399 A</name>
+		<mass>1.82</mass>
+		<magV errorminus="0.011" errorplus="0.011">7.074</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.162</magB>
+		<magJ errorminus="0.018" errorplus="0.018">6.772</magJ>
+		<magH errorminus="0.034" errorplus="0.034">6.708</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.643</magK>
+		<temperature>9300.00</temperature>
+		<spectraltype>A1 V</spectraltype>
+		<planet>
+			<name>HD 131399 A b</name>
+			<mass errorminus="1.00000" errorplus="1.00000" type="Mass">4.00000</mass>
+			<period errorminus="54787.50000000" errorplus="54787.50000000">200887.50000000</period>
+			<semimajoraxis errorminus="27.000000" errorplus="23.000000">82.000000</semimajoraxis>
+			<eccentricity errorminus="0.250000" errorplus="0.250000">0.350000</eccentricity>
+			<periastrontime errorminus="63917.000000" errorplus="63917.000000">2369365.000000</periastrontime>
+			<maximumrvtime errorminus="63917.000000" errorplus="63917.000000">2369365.000000</maximumrvtime>
+			<inclination errorminus="20.000" errorplus="80.000">40.000</inclination>
+			<temperature errorminus="50" errorplus="50">850</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

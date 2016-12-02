@@ -10,11 +10,13 @@
 		<name>KOI-401</name>
 		<name>KIC 3217264</name>
 		<mass errorminus="0.0540" errorplus="0.0540">0.9090</mass>
-		<radius errorminus=".136" errorplus="0.136">0.953</radius>
+		<radius errorminus="0.14" errorplus="0.14">0.95</radius>
+		<magV>14.001</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.694</magJ>
 		<magH errorminus="0.025" errorplus="0.025">12.274</magH>
 		<magK errorminus="0.025" errorplus="0.025">12.184</magK>
-		<temperature errorminus="100" errorplus="100">5381</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5381.00</temperature>
+		<metallicity>0.147</metallicity>
 		<planet>
 			<name>Kepler-149 b</name>
 			<name>KOI-401 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3217264 b</name>
 			<name>KIC 3217264.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05468" errorplus="0.05468">0.38366</radius>
-			<period errorminus=".000041" errorplus="0.000041">29.198943</period>
+			<radius errorminus="0.054" errorplus="0.054">0.376</radius>
+			<period errorminus="0.00004100" errorplus="0.00004100">29.19894300</period>
+			<semimajoraxis>0.184000</semimajoraxis>
 			<description>Kepler-149 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-149 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007600" errorplus="0.0007600">2455018.4402200</transittime>
+			<transittime errorminus=".000760" errorplus="0.000760" unit="BJD">2455018.440220</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 3217264 d</name>
 			<name>KIC 3217264.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06197" errorplus="0.06197">0.36088</radius>
-			<period errorminus=".001096" errorplus="0.001096">160.018032</period>
+			<radius errorminus="0.061" errorplus="0.061">0.353</radius>
+			<period errorminus="0.00109600" errorplus="0.00109600">160.01803200</period>
+			<semimajoraxis>0.571000</semimajoraxis>
 			<description>Kepler-149 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-149 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0032400" errorplus="0.0032400">2455084.2834800</transittime>
+			<transittime errorminus=".003240" errorplus="0.003240" unit="BJD">2455084.283480</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 3217264 c</name>
 			<name>KIC 3217264.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02187" errorplus="0.02187">0.14672</radius>
-			<period errorminus=".001946" errorplus="0.001946">55.328328</period>
+			<radius errorminus="0.021" errorplus="0.021">0.144</radius>
+			<period errorminus="0.00194600" errorplus="0.00194600">55.32832800</period>
+			<semimajoraxis>0.281000</semimajoraxis>
 			<description>Kepler-149 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-149 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0175200" errorplus="0.0175200">2455019.3266500</transittime>
+			<transittime errorminus=".017520" errorplus="0.017520" unit="BJD">2455019.326650</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

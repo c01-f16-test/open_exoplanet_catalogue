@@ -1,30 +1,32 @@
 <system>
 	<name>KOI-285</name>
 	<name>Kepler-92</name>
-	<rightascension>19 16 21</rightascension>
-	<declination>+41 33 47</declination>
+	<rightascension>19 16 20</rightascension>
+	<declination>+41 33 46</declination>
 	<distance>367.56</distance>
 	<star>
 		<name>KOI-285</name>
 		<name>Kepler-92</name>
 		<name>KIC 6196457</name>
-		<mass errorminus="0.030" errorplus="0.020">1.209</mass>
-		<radius errorminus="0.013" errorplus="0.011">1.719</radius>
-		<magV errorminus="0.15" errorplus="0.15">11.67</magV>
+		<mass errorminus="0.08" errorplus="0.08">1.21</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.70</radius>
+		<magV errorminus="0.15" errorplus="0.15">11.565</magV>
 		<magB errorminus="0.23" errorplus="0.23">12.50</magB>
 		<magJ errorminus="0.023" errorplus="0.023">10.747</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.470</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.403</magK>
-		<temperature errorminus="50" errorplus="50">5883</temperature>
-		<age errorminus="1.1" errorplus="1.1">5.2</age>
+		<temperature errorminus="94.0" errorplus="94.0">5883.00</temperature>
+		<age errorminus="0.51" errorplus="0.48">5.52</age>
+		<metallicity errorminus="0.11" errorplus="0.11">0.17</metallicity>
 		<planet>
 			<name>KOI-285 b</name>
 			<name>KOI-285.01</name>
 			<name>Kepler-92 b</name>
 			<name>KIC 6196457 b</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.012" errorplus="0.012">0.326</radius>
-			<period errorminus="0.000075" errorplus="0.000075">13.748933</period>
+			<mass errorminus="0.04400" errorplus="0.04400" type="Mass">0.20200</mass>
+			<radius errorminus="0.009" errorplus="0.009">0.313</radius>
+			<period errorminus="7.5e-05" errorplus="7.5e-05">13.74900000</period>
 			<semimajoraxis>0.11800</semimajoraxis>
 			<eccentricity errorminus="0.17" errorplus="0.1">0.17</eccentricity>
 			<temperature>934</temperature>
@@ -32,7 +34,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0130786" errorplus="0.0130786" unit="BJD">2455008.9263306</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
@@ -41,8 +43,9 @@
 			<name>Kepler-92 c</name>
 			<name>KIC 6196457 c</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.0047" errorplus="0.0047">0.2190</radius>
-			<period errorminus="0.00019" errorplus="0.00019">26.72311</period>
+			<mass errorminus="0.00600" errorplus="0.00600" type="Mass">0.01900</mass>
+			<radius errorminus="0.007" errorplus="0.007">0.232</radius>
+			<period errorminus="0.00019" errorplus="0.00019">26.72300000</period>
 			<semimajoraxis>0.18400</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.22">0.04</eccentricity>
 			<temperature>748</temperature>
@@ -50,7 +53,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0184593" errorplus="0.0184593" unit="BJD">2454986.4408417</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
@@ -59,17 +62,17 @@
 			<name>Kepler-92 d</name>
 			<name>KIC 6196457 d</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.0050" errorplus="0.0050">0.1844</radius>
-			<period errorminus="0.0024" errorplus="0.0024">49.3568</period>
+			<radius errorminus="0.005" errorplus="0.005">0.184</radius>
+			<period errorminus="0.00240000" errorplus="0.00240000">49.35680000</period>
 			<semimajoraxis>0.2780000</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.34">0.07</eccentricity>
+			<eccentricity errorminus="0.040000" errorplus="0.340000">0.070000</eccentricity>
 			<temperature>608.0</temperature>
 			<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.0073" errorplus="0.0073" unit="BJD">2454967.2716</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
 </system>

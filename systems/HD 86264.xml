@@ -1,30 +1,34 @@
 <system>
 	<name>HD 86264</name>
-	<rightascension>09 56 58</rightascension>
+	<rightascension>09 56 57</rightascension>
 	<declination>-15 53 42</declination>
-	<distance>72.6</distance>
+	<distance errorminus="4.59" errorplus="4.08">72.57</distance>
 	<star>
 		<name>HD 86264</name>
-		<mass>1.42</mass>
-		<radius>1.88</radius>
-		<magV>7.42</magV>
-		<magB errorminus="0.02" errorplus="0.02">7.92</magB>
+		<mass errorminus="0.05" errorplus="0.05">1.42</mass>
+		<radius errorminus="0.12" errorplus="0.12">1.88</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.407</magV>
+		<magB errorminus="0.016" errorplus="0.016">7.918</magB>
 		<magJ errorminus="0.019" errorplus="0.019">6.505</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.344</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.224</magK>
-		<temperature>6210.0</temperature>
-		<metallicity>0.202</metallicity>
-		<spectraltype>F7V</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.224</magK>
+		<temperature errorminus="44.0" errorplus="44.0">6210.0</temperature>
+		<age>2.24</age>
+		<metallicity errorminus="0.04" errorplus="0.04">0.202</metallicity>
+		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 86264 b</name>
 			<list>Confirmed planets</list>
-			<mass>7</mass>
-			<period>1475</period>
-			<semimajoraxis>2.86</semimajoraxis>
-			<eccentricity>0.7</eccentricity>
+			<mass errorminus="1.60000" errorplus="1.60000" type="Msini">7.00000</mass>
+			<period errorminus="55.00000000" errorplus="55.00000000">1475.00000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">2.860000</semimajoraxis>
+			<eccentricity errorminus="0.200000" errorplus="0.200000">0.700000</eccentricity>
+			<periastron errorminus="10.0000" errorplus="10.0000">306.0000</periastron>
+			<periastrontime errorminus="114.000000" errorplus="114.000000">2455172.000000</periastrontime>
+			<maximumrvtime errorminus="114.000000" errorplus="114.000000">2455172.000000</maximumrvtime>
 			<temperature>214.2</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

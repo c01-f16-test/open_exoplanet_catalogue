@@ -10,11 +10,13 @@
 		<name>KOI-551</name>
 		<name>KIC 4270253</name>
 		<mass errorminus="0.0700" errorplus="0.0700">0.9900</mass>
-		<radius errorminus=".414" errorplus="0.414">0.958</radius>
+		<radius errorminus="0.41" errorplus="0.41">0.96</radius>
+		<magV>14.943</magV>
 		<magJ errorminus="0.026" errorplus="0.026">13.726</magJ>
 		<magH errorminus="0.024" errorplus="0.024">13.384</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.31</magK>
-		<temperature errorminus="200" errorplus="200">5888</temperature>
+		<magK errorminus="0.039" errorplus="0.039">13.308</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5888.00</temperature>
+		<metallicity>0.026</metallicity>
 		<planet>
 			<name>Kepler-183 c</name>
 			<name>KOI-551 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 4270253 c</name>
 			<name>KIC 4270253.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08931" errorplus="0.08931">0.20687</radius>
-			<period errorminus=".000055" errorplus="0.000055">11.637071</period>
+			<radius errorminus="0.087" errorplus="0.087">0.203</radius>
+			<period errorminus="0.00005500" errorplus="0.00005500">11.63707100</period>
+			<semimajoraxis>0.103000</semimajoraxis>
 			<description>Kepler-183 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-183 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0023600" errorplus="0.0023600">2455011.8430100</transittime>
+			<transittime errorminus=".002360" errorplus="0.002360" unit="BJD">2455011.843010</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 4270253 b</name>
 			<name>KIC 4270253.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08111" errorplus="0.08111">0.18773</radius>
-			<period errorminus=".000020" errorplus="0.000020">5.687945</period>
+			<radius errorminus="0.079" errorplus="0.079">0.184</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">5.68794500</period>
+			<semimajoraxis>0.064000</semimajoraxis>
 			<description>Kepler-183 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-183 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0021100" errorplus="0.0021100">2454966.9563400</transittime>
+			<transittime errorminus=".002110" errorplus="0.002110" unit="BJD">2454966.956340</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

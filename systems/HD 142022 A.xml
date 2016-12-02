@@ -1,0 +1,49 @@
+<system>
+	<name>HD 142022 A</name>
+	<name>HD 142022</name>
+	<rightascension>16 10 15</rightascension>
+	<declination>-84 13 53</declination>
+	<distance errorminus="0.90" errorplus="0.85">35.87</distance>
+	<binary>
+		<separation unit="arcsec">20.4</separation>
+		<separation unit="AU">732</separation>
+		<positionangle>130</positionangle>
+		<star>
+			<name>HD 142022 A</name>
+			<mass>0.99</mass>
+			<radius errorminus="0.135" errorplus="0.135">0.705</radius>
+			<magV>7.700</magV>
+			<magB>8.460</magB>
+			<magJ errorminus="0.021" errorplus="0.021">6.384</magJ>
+			<magH errorminus="0.034" errorplus="0.034">6.100</magH>
+			<magK errorminus="0.027" errorplus="0.027">5.964</magK>
+			<temperature errorminus="27.00" errorplus="27.00">5499.00</temperature>
+			<age errorminus="3.9" errorplus="3.9">13.3</age>
+			<metallicity errorminus="0.040" errorplus="0.040">0.190</metallicity>
+			<spectraltype>K0</spectraltype>
+			<planet>
+				<name>HD 142022 A b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="1.50000" errorplus="2.60000" type="Msini">5.10000</mass>
+				<period errorminus="39.00000000" errorplus="53.00000000">1928.00000000</period>
+				<semimajoraxis errorminus="0.050000" errorplus="0.050000">3.030000</semimajoraxis>
+				<eccentricity errorminus="0.180000" errorplus="0.230000">0.530000</eccentricity>
+				<periastron errorminus="10.0000" errorplus="8.0000">170.0000</periastron>
+				<periastrontime errorminus="91.000000" errorplus="60.000000">2450941.000000</periastrontime>
+				<maximumrvtime errorminus="91.000000" errorplus="60.000000">2450941.000000</maximumrvtime>
+				<inclination errorminus="6.0" errorplus="6.0">10.0</inclination>
+				<temperature>112.3</temperature>
+				<description>The binary star system HD 142022 is located in the southernmost constellation of Octans. A planet has been discovered in orbit around the primary star.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2005</discoveryyear>
+			</planet>
+		</star>
+		<star>
+			<name>HD 142022 B</name>
+			<mass>0.60</mass>
+			<spectraltype>K7V</spectraltype>
+		</star>
+	</binary>
+</system>

@@ -1,0 +1,33 @@
+<system>
+	<name>8 UMi</name>
+	<rightascension>14 56 48</rightascension>
+	<declination>+74 54 03</declination>
+	<distance errorminus="11.00" errorplus="11.00">159.10</distance>
+	<star>
+		<name>8 UMi</name>
+		<mass errorminus="0.10" errorplus="0.10">1.80</mass>
+		<radius errorminus="0.40" errorplus="0.40">9.90</radius>
+		<magV>6.830</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.834</magB>
+		<magJ errorminus="0.027" errorplus="0.027">5.069</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.749</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.515</magK>
+		<temperature errorminus="7.50" errorplus="7.50">4847.40</temperature>
+		<age errorminus="0.200" errorplus="0.200">1.700</age>
+		<metallicity errorminus="0.020" errorplus="0.020">-0.030</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>8 UMi b</name>
+			<mass errorminus="0.20000" errorplus="0.20000" type="Msini">1.50000</mass>
+			<period errorminus="4.50000000" errorplus="4.50000000">93.40000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">0.490000</semimajoraxis>
+			<eccentricity errorminus="0.180000" errorplus="0.180000">0.060000</eccentricity>
+			<periastron errorminus="84.6000" errorplus="84.6000">91.0000</periastron>
+			<periastrontime errorminus="22.800000" errorplus="22.800000">2454108.500000</periastrontime>
+			<maximumrvtime errorminus="22.800000" errorplus="22.800000">2454108.500000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

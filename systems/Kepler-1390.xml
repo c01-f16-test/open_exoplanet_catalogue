@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1390</name>
-	<rightascension>19 54 39</rightascension>
-	<declination>+48 14 56</declination>
+	<rightascension>19 54 38</rightascension>
+	<declination>+48 14 55</declination>
+	<distance errorminus="81.51" errorplus="155.84">760.00</distance>
 	<star>
 		<name>Kepler-1390</name>
 		<mass errorminus="0.07" errorplus="0.07">0.98</mass>
 		<radius errorminus="0.10" errorplus="0.20">0.98</radius>
-		<temperature errorminus="169.2" errorplus="141.6">5753.0</temperature>
-		<metallicity errorminus="0.19" errorplus="0.14">-0.01</metallicity>
+		<magV>14.421</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.178</magJ>
+		<magH errorminus="0.033" errorplus="0.033">12.820</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.764</magK>
+		<temperature errorminus="169.25" errorplus="141.59">5753.00</temperature>
+		<age errorminus="3.000" errorplus="3.900">4.470</age>
+		<metallicity errorminus="0.186" errorplus="0.137">-0.010</metallicity>
 		<planet>
 			<name>Kepler-1390 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.022">0.105</radius>
-			<period errorminus="0.000046300" errorplus="0.000046300">6.480216730</period>
+			<period errorminus="0.00004630" errorplus="0.00004630">6.48021673</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005560" errorplus="0.005560" unit="JD">2454965.859710</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

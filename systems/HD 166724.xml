@@ -1,33 +1,35 @@
 <system>
 	<name>HD 166724</name>
-	<rightascension>18 14 00</rightascension>
+	<rightascension>18 13 59</rightascension>
 	<declination>-42 34 31</declination>
-	<distance>42.3</distance>
+	<distance errorminus="2.88" errorplus="2.54">42.99</distance>
 	<star>
 		<name>HD 166724</name>
-		<mass>0.81</mass>
-		<magV>9.31</magV>
-		<magB errorminus="0.03" errorplus="0.03">10.20</magB>
+		<mass errorminus="0.02" errorplus="0.02">0.81</mass>
+		<magV errorminus="0.022" errorplus="0.022">9.344</magV>
+		<magB errorminus="0.034" errorplus="0.034">10.201</magB>
 		<magR errorminus="0.03" errorplus="0.03">8.96</magR>
 		<magI errorminus="0.05" errorplus="0.05">9.37</magI>
 		<magJ errorminus="0.021" errorplus="0.021">7.752</magJ>
 		<magH errorminus="0.055" errorplus="0.055">7.414</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.246</magK>
-		<temperature>5150.0</temperature>
-		<age>4.0</age>
-		<metallicity>-0.09</metallicity>
-		<spectraltype>K0IV</spectraltype>
+		<temperature errorminus="52.00" errorplus="52.00">5127.00</temperature>
+		<age errorminus="3.800" errorplus="3.800">4.000</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.090</metallicity>
+		<spectraltype>K0 IV-V</spectraltype>
 		<planet>
 			<name>HD 166724 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.53</mass>
-			<period>5144</period>
-			<semimajoraxis>5.42</semimajoraxis>
-			<eccentricity>0.734</eccentricity>
-			<periastron>202</periastron>
+			<mass errorminus="0.11000" errorplus="0.11000" type="Msini">3.53000</mass>
+			<period errorminus="467.00000000" errorplus="705.00000000">5144.00000000</period>
+			<semimajoraxis errorminus="0.430000" errorplus="0.430000">5.420000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.734000</eccentricity>
+			<periastron errorminus="3.6000" errorplus="3.6000">202.3000</periastron>
+			<periastrontime errorminus="556.000000" errorplus="556.000000">2453212.000000</periastrontime>
+			<maximumrvtime errorminus="556.000000" errorplus="556.000000">2453212.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -10,11 +10,13 @@
 		<name>KOI-220</name>
 		<name>KIC 7132798</name>
 		<mass errorminus="0.0340" errorplus="0.0340">0.9180</mass>
-		<radius errorminus=".319" errorplus="0.319">0.839</radius>
-		<magJ errorminus="0.023" errorplus="0.023">12.997</magJ>
+		<radius errorminus="0.32" errorplus="0.32">0.84</radius>
+		<magV>14.236</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.997</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.636</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.580</magK>
-		<temperature errorminus="200" errorplus="200">5595</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5595.00</temperature>
+		<metallicity>-0.083</metallicity>
 		<planet>
 			<name>Kepler-119 b</name>
 			<name>KOI-220 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 7132798 b</name>
 			<name>KIC 7132798.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03372" errorplus="0.12485">0.32807</radius>
-			<period errorminus=".000001" errorplus="0.000001">2.422082</period>
+			<radius errorminus="0.122" errorplus="0.122">0.321</radius>
+			<period errorminus="0.00000100" errorplus="0.00000100">2.42208200</period>
+			<semimajoraxis>0.035000</semimajoraxis>
 			<description>Kepler-119 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-119 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0001900" errorplus="0.0001900">2454965.9392800</transittime>
+			<transittime errorminus=".000190" errorplus="0.000190" unit="BJD">2454965.939280</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 7132798 c</name>
 			<name>KIC 7132798.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03190" errorplus="0.03190">0.08384</radius>
-			<period errorminus=".000028" errorplus="0.000028">4.125103</period>
+			<radius errorminus="0.031" errorplus="0.031">0.082</radius>
+			<period errorminus="0.00002800" errorplus="0.00002800">4.12510300</period>
+			<semimajoraxis>0.049000</semimajoraxis>
 			<description>Kepler-119 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-119 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0045200" errorplus="0.0045200">2454966.6413700</transittime>
+			<transittime errorminus=".004520" errorplus="0.004520" unit="BJD">2454966.641370</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -9,12 +9,14 @@
 		<name>Kepler-104</name>
 		<name>KOI-111</name>
 		<name>KIC 6678383</name>
-		<mass errorminus="0.0390" errorplus="0.0390">0.8070</mass>
-		<radius errorminus=".223" errorplus="0.223">1.349</radius>
+		<mass errorminus="0.0390" errorplus="0.0390">0.81</mass>
+		<radius errorminus="0.22" errorplus="0.22">1.35</radius>
+		<magV>12.596</magV>
 		<magJ errorminus="0.021" errorplus="0.021">11.558</magJ>
 		<magH errorminus="0.021" errorplus="0.021">11.251</magH>
 		<magK errorminus="0.011" errorplus="0.011">11.209</magK>
-		<temperature errorminus="4" errorplus="74">5711</temperature>
+		<temperature errorminus="74.00" errorplus="74.00">5711.00</temperature>
+		<metallicity>-0.777</metallicity>
 		<planet>
 			<name>Kepler-104 b</name>
 			<name>KOI-111 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6678383 b</name>
 			<name>KIC 6678383.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04830" errorplus="0.04830">0.28250</radius>
-			<period errorminus=".000015" errorplus="0.000015">11.427548</period>
+			<radius errorminus="0.047" errorplus="0.047">0.277</radius>
+			<period errorminus="0.00001500" errorplus="0.00001500">11.42754800</period>
+			<semimajoraxis>0.094000</semimajoraxis>
 			<description>Kepler-104 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-104 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0007700" errorplus="0.0007700">2454970.6130500</transittime>
+			<transittime errorminus=".000770" errorplus="0.000770" unit="BJD">2454970.613050</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6678383 c</name>
 			<name>KIC 6678383.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05012" errorplus="0.05012">0.28524</radius>
-			<period errorminus=".000056" errorplus="0.000056">23.668205</period>
+			<radius errorminus="0.049" errorplus="0.049">0.279</radius>
+			<period errorminus="0.00005600" errorplus="0.00005600">23.66820500</period>
+			<semimajoraxis>0.153000</semimajoraxis>
 			<description>Kepler-104 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-104 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013400" errorplus="0.0013400">2454965.7159700</transittime>
+			<transittime errorminus=".001340" errorplus="0.001340" unit="BJD">2454965.715970</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6678383 d</name>
 			<name>KIC 6678383.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05559" errorplus="0.05559">0.32625</radius>
-			<period errorminus=".000160" errorplus="0.000160">51.755394</period>
+			<radius errorminus="0.054" errorplus="0.054">0.319</radius>
+			<period errorminus="0.00016000" errorplus="0.00016000">51.75539400</period>
+			<semimajoraxis>0.257000</semimajoraxis>
 			<description>Kepler-104 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-104 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0016400" errorplus="0.0016400">2455104.0861100</transittime>
+			<transittime errorminus=".001640" errorplus="0.001640" unit="BJD">2455104.086110</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

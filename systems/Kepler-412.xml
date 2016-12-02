@@ -2,25 +2,25 @@
 	<name>Kepler-412</name>
 	<rightascension>19 04 26</rightascension>
 	<declination>+43 40 51</declination>
-	<distance errorminus="36" errorplus="36">1056</distance>
+	<distance errorminus="36.00" errorplus="36.00">1056.00</distance>
 	<star>
 		<name>Kepler-412</name>
 		<name>KOI-202</name>
 		<name>2MASS 19042647+4340514</name>
 		<name>KIC 7877496</name>
-		<mass errorminus="0.091" errorplus="0.091">1.167</mass>
-		<radius errorminus="0.035" errorplus="0.035">1.287</radius>
-		<magV errorminus="0.24" errorplus="0.24">13.73</magV>
+		<mass errorminus="0.09" errorplus="0.09">1.17</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.29</radius>
+		<magV errorminus="0.240" errorplus="0.240">13.730</magV>
 		<magB errorminus="0.33" errorplus="0.33">14.41</magB>
 		<magR errorminus="0.11" errorplus="0.11">14.67</magR>
 		<magI errorminus="0.43" errorplus="0.43">12.79</magI>
 		<magJ errorminus="0.027" errorplus="0.027">13.190</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.93</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.84</magK>
-		<temperature errorminus="90" errorplus="90">5750</temperature>
+		<magH errorminus="0.033" errorplus="0.033">12.932</magH>
+		<magK errorminus="0.031" errorplus="0.031">12.837</magK>
+		<temperature errorminus="90.00" errorplus="90.00">5750.00</temperature>
 		<age errorminus="1.7" errorplus="1.7">5.1</age>
-		<metallicity errorminus="0.12" errorplus="0.12">0.27</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<metallicity errorminus="0.120" errorplus="0.120">0.270</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>Kepler-412 b</name>
 			<name>KOI-202.01</name>
@@ -28,18 +28,19 @@
 			<name>KIC 7877496 b</name>
 			<name>2MASS 19042647+4340514 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.085" errorplus="0.085">0.939</mass>
-			<radius errorminus="0.043" errorplus="0.043">1.325</radius>
-			<period errorminus="0.000000047" errorplus="0.000000047">1.720861232</period>
-			<semimajoraxis errorminus="0.00078" errorplus="0.00078">0.02959</semimajoraxis>
+			<mass errorminus="0.01900" errorplus="0.12500" type="Mass">0.94100</mass>
+			<radius errorminus="0.046" errorplus="0.044">1.341</radius>
+			<period errorminus="0.00000030" errorplus="0.00000030">1.72086040</period>
+			<semimajoraxis errorminus="0.000920" errorplus="0.000930">0.028970</semimajoraxis>
 			<eccentricity errorminus="0.0032" errorplus="0.0087">0.0038</eccentricity>
-			<periastron errorminus="49" errorplus="150">125</periastron>
-			<inclination errorminus="0.2" errorplus="0.2">80.89</inclination>
+			<periastron errorminus="150.0" errorplus="49.0">125.0</periastron>
+			<inclination errorminus="0.079" errorplus="0.084">80.559</inclination>
+			<temperature errorminus="30" errorplus="30">1850</temperature>
 			<description>Kepler-412 b is an inflated Hot Jupiter. The transiting object was confirmed to be of planetary nature using SOPHIE velocimetry. Secondary eclipse observations suggest that the planet has a dayside temperature of 2380 K and a nightside temperature of 2154 K. The system is 5.1 Gyrs old.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000023" errorplus="0.000023" unit="BJD">2454966.021033</transittime>
+			<transittime errorminus=".000020" errorplus="0.000020" unit="BJD">2454966.021220</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/01/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

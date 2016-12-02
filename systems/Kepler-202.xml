@@ -10,11 +10,13 @@
 		<name>KOI-657</name>
 		<name>KIC 6020753</name>
 		<mass errorminus="0.0180" errorplus="0.0180">0.6830</mass>
-		<radius errorminus=".034" errorplus="0.034">0.667</radius>
+		<radius errorminus="0.03" errorplus="0.03">0.67</radius>
+		<magV>13.872</magV>
 		<magJ errorminus="0.029" errorplus="0.029">12.255</magJ>
-		<magH errorminus="0.03" errorplus="0.03">11.73</magH>
+		<magH errorminus="0.032" errorplus="0.032">11.733</magH>
 		<magK errorminus="0.023" errorplus="0.023">11.639</magK>
-		<temperature errorminus="100" errorplus="100">4668</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4668.00</temperature>
+		<metallicity>0.012</metallicity>
 		<planet>
 			<name>Kepler-202 b</name>
 			<name>KOI-657 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6020753 b</name>
 			<name>KIC 6020753.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.14854</radius>
-			<period errorminus=".000007" errorplus="0.000007">4.069427</period>
+			<radius errorminus="0.009" errorplus="0.009">0.145</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">4.06942700</period>
+			<semimajoraxis>0.045000</semimajoraxis>
 			<description>Kepler-202 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-202 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009800" errorplus="0.0009800">2455004.0157700</transittime>
+			<transittime errorminus=".000980" errorplus="0.000980" unit="BJD">2455004.015770</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6020753 c</name>
 			<name>KIC 6020753.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.16859</radius>
-			<period errorminus=".000038" errorplus="0.000038">16.282493</period>
+			<radius errorminus="0.009" errorplus="0.009">0.165</radius>
+			<period errorminus="0.00003800" errorplus="0.00003800">16.28249300</period>
+			<semimajoraxis>0.113000</semimajoraxis>
 			<description>Kepler-202 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-202 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014000" errorplus="0.0014000">2455013.7962300</transittime>
+			<transittime errorminus=".001400" errorplus="0.001400" unit="BJD">2455013.796230</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

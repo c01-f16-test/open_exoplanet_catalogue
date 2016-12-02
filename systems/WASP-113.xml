@@ -1,0 +1,34 @@
+<system>
+	<name>WASP-113</name>
+	<rightascension>14 59 29</rightascension>
+	<declination>+46 57 36</declination>
+	<distance errorminus="70.00" errorplus="70.00">360.00</distance>
+	<star>
+		<name>WASP-113</name>
+		<mass errorminus="0.07" errorplus="0.07">1.32</mass>
+		<radius errorminus="0.12" errorplus="0.09">1.61</radius>
+		<magV errorminus="0.045" errorplus="0.045">11.771</magV>
+		<magJ errorminus="0.018" errorplus="0.018">10.636</magJ>
+		<magH errorminus="0.024" errorplus="0.024">10.330</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.311</magK>
+		<temperature errorminus="140.00" errorplus="140.00">5890.00</temperature>
+		<age errorminus="3.800" errorplus="1.600">6.200</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.100</metallicity>
+		<spectraltype>G1</spectraltype>
+		<planet>
+			<name>WASP-113 b</name>
+			<mass errorminus="0.05200" errorplus="0.05400" type="Mass">0.47500</mass>
+			<radius errorminus="0.140" errorplus="0.096">1.409</radius>
+			<period errorminus="0.00000420" errorplus="0.00000420">4.54216875</period>
+			<semimajoraxis errorminus="0.000100" errorplus="0.000100">0.058850</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<inclination errorminus="0.640" errorplus="1.200">86.460</inclination>
+			<temperature errorminus="60" errorplus="60">1496</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000040" errorplus="0.000040" unit="HJD">2457197.097459</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

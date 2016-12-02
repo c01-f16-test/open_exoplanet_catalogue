@@ -1,0 +1,28 @@
+<system>
+	<name>KOI-415</name>
+	<declination>+41 36 22</declination>
+	<star>
+		<name>KOI-415</name>
+		<mass errorminus="0.06" errorplus="0.06">0.94</mass>
+		<radius errorminus="0.1" errorplus="0.15">1.25</radius>
+		<magJ>13.049</magJ>
+		<temperature errorminus="80.0" errorplus="80.0">5810.0</temperature>
+		<age errorminus="2.2" errorplus="2.2">10.5</age>
+		<metallicity errorminus="0.11" errorplus="0.11">-0.24</metallicity>
+		<spectraltype>G0IV</spectraltype>
+		<planet>
+			<name>KOI-415 b</name>
+			<mass errorminus="2.69" errorplus="2.69" type="Radial Velocity">62.14</mass>
+			<radius errorminus="0.07" errorplus="0.12">0.79</radius>
+			<period errorminus="0.00022" errorplus="0.00022">166.78805</period>
+			<semimajoraxis errorminus="0.013" errorplus="0.013">0.593</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.698</eccentricity>
+			<periastron errorminus="0.6" errorplus="0.6">44.9</periastron>
+			<inclination errorminus="0.38" errorplus="0.4">89.31</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus="0.00063" errorplus="0.00063">2455078.14187</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

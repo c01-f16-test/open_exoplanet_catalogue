@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1300</name>
-	<rightascension>19 16 08</rightascension>
-	<declination>+40 05 13</declination>
+	<rightascension>19 16 07</rightascension>
+	<declination>+40 05 12</declination>
+	<distance errorminus="171.32" errorplus="163.10">757.00</distance>
 	<star>
 		<name>Kepler-1300</name>
 		<mass errorminus="0.15" errorplus="0.16">1.29</mass>
 		<radius errorminus="0.41" errorplus="0.38">1.79</radius>
-		<temperature errorminus="108.9" errorplus="87.3">6130.0</temperature>
-		<metallicity errorminus="0.06" errorplus="0.10">0.05</metallicity>
+		<magV>12.816</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.678</magJ>
+		<magH errorminus="0.018" errorplus="0.018">11.438</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.383</magK>
+		<temperature errorminus="108.91" errorplus="87.31">6130.00</temperature>
+		<age errorminus="0.781" errorplus="1.480">3.550</age>
+		<metallicity errorminus="0.064" errorplus="0.102">0.050</metallicity>
 		<planet>
 			<name>Kepler-1300 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.028" errorplus="0.027">0.122</radius>
-			<period errorminus="0.000245400" errorplus="0.000245400">22.241909200</period>
+			<period errorminus="0.00024540" errorplus="0.00024540">22.24190920</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008480" errorplus="0.008480" unit="JD">2454977.725140</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

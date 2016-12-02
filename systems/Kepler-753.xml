@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-753</name>
-	<rightascension>19 27 37</rightascension>
+	<rightascension>19 27 36</rightascension>
 	<declination>+37 54 08</declination>
+	<distance errorminus="12.07" errorplus="10.04">278.00</distance>
 	<star>
 		<name>Kepler-753</name>
 		<mass errorminus="0.03" errorplus="0.03">0.68</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.65</radius>
-		<temperature errorminus="39.7" errorplus="51.4">4346.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.12">-0.03</metallicity>
+		<magV>14.496</magV>
+		<magJ errorminus="0.027" errorplus="0.027">12.608</magJ>
+		<magH errorminus="0.034" errorplus="0.034">11.966</magH>
+		<magK errorminus="0.022" errorplus="0.022">11.875</magK>
+		<temperature errorminus="39.68" errorplus="51.36">4346.00</temperature>
+		<age errorminus="2.020" errorplus="5.570">3.630</age>
+		<metallicity errorminus="0.093" errorplus="0.120">-0.030</metallicity>
 		<planet>
 			<name>Kepler-753 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.008" errorplus="0.022">0.170</radius>
-			<period errorminus="0.000008380" errorplus="0.000008380">5.747725010</period>
+			<period errorminus="0.00000838" errorplus="0.00000838">5.74772501</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001200" errorplus="0.001200" unit="JD">2454966.298180</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

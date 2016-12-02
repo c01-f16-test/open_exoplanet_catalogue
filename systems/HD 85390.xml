@@ -2,29 +2,42 @@
 	<name>HD 85390</name>
 	<rightascension>09 50 02</rightascension>
 	<declination>-49 47 25</declination>
-	<distance>33.96</distance>
+	<distance errorminus="1.00" errorplus="0.94">33.96</distance>
 	<star>
 		<name>HD 85390</name>
 		<mass>0.76</mass>
-		<magV>8.54</magV>
-		<magB>9.40</magB>
+		<magV errorminus="0.014" errorplus="0.014">8.526</magV>
+		<magB errorminus="0.021" errorplus="0.021">9.372</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.012</magJ>
 		<magH errorminus="0.033" errorplus="0.033">6.612</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.491</magK>
-		<temperature>5186.0</temperature>
-		<metallicity>-0.07</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.491</magK>
+		<temperature errorminus="54.00" errorplus="54.00">5186.00</temperature>
+		<age>7.200</age>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.070</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>HD 85390 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.132</mass>
-			<period>788</period>
-			<semimajoraxis>1.52</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
+			<mass errorminus="0.01100" errorplus="0.01100" type="Msini">0.13200</mass>
+			<period errorminus="25.00000000" errorplus="25.00000000">788.00000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">1.520000</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.120000">0.410000</eccentricity>
+			<periastron errorminus="23.0000" errorplus="23.0000">-94.0000</periastron>
 			<temperature>166.3</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 85390 c</name>
+			<mass errorminus="0.02" errorplus="0.02">0.2</mass>
+			<period errorminus="840.0" errorplus="840.0">3700.0</period>
+			<semimajoraxis errorminus="0.09" errorplus="0.09">4.23</semimajoraxis>
+			<eccentricity errorminus="0.07" errorplus="0.07">0.0</eccentricity>
+			<periastron errorminus="49.0" errorplus="49.0">360.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

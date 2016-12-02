@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-609</name>
-	<rightascension>19 28 53</rightascension>
+	<rightascension>19 28 52</rightascension>
 	<declination>+44 42 00</declination>
+	<distance errorminus="153.04" errorplus="346.08">1143.00</distance>
 	<star>
 		<name>Kepler-609</name>
 		<mass errorminus="0.08" errorplus="0.09">1.09</mass>
 		<radius errorminus="0.14" errorplus="0.35">1.14</radius>
-		<temperature errorminus="171.1" errorplus="125.1">5971.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.06</metallicity>
+		<magV>14.856</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.651</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.353</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.281</magK>
+		<temperature errorminus="171.10" errorplus="125.14">5971.00</temperature>
+		<age errorminus="1.930" errorplus="2.090">3.720</age>
+		<metallicity errorminus="0.155" errorplus="0.143">0.060</metallicity>
 		<planet>
 			<name>Kepler-609 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.039" errorplus="0.095">0.299</radius>
-			<period errorminus="0.000008640" errorplus="0.000008640">6.521210670</period>
+			<period errorminus="0.00000864" errorplus="0.00000864">6.52121067</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001090" errorplus="0.001090" unit="JD">2455008.710830</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

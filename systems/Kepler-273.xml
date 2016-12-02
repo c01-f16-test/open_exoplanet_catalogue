@@ -10,11 +10,13 @@
 		<name>KOI-1163</name>
 		<name>KIC 10468940</name>
 		<mass errorminus="0.0600" errorplus="0.0600">0.9160</mass>
-		<radius errorminus=".464" errorplus="0.464">0.815</radius>
+		<radius errorminus="0.46" errorplus="0.46">0.81</radius>
+		<magV>14.968</magV>
 		<magJ errorminus="0.024" errorplus="0.024">13.682</magJ>
 		<magH errorminus="0.024" errorplus="0.024">13.350</magH>
 		<magK errorminus="0.027" errorplus="0.027">13.217</magK>
-		<temperature errorminus="200" errorplus="200">5626</temperature>
+		<temperature errorminus="200.00" errorplus="200.00">5626.00</temperature>
+		<metallicity>-0.478</metallicity>
 		<planet>
 			<name>Kepler-273 b</name>
 			<name>KOI-1163 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10468940 b</name>
 			<name>KIC 10468940.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07837" errorplus="0.07837">0.13670</radius>
-			<period errorminus=".000009" errorplus="0.000009">2.936532</period>
+			<radius errorminus="0.077" errorplus="0.077">0.134</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">2.93653200</period>
+			<semimajoraxis>0.037000</semimajoraxis>
 			<description>Kepler-273 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-273 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0018800" errorplus="0.0018800">2454968.7148200</transittime>
+			<transittime errorminus=".001880" errorplus="0.001880" unit="BJD">2454968.714820</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10468940 c</name>
 			<name>KIC 10468940.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01367" errorplus="0.10480">0.18044</radius>
-			<period errorminus=".000052" errorplus="0.000052">8.014927</period>
+			<radius errorminus="0.103" errorplus="0.103">0.177</radius>
+			<period errorminus="0.00005200" errorplus="0.00005200">8.01492700</period>
+			<semimajoraxis>0.073000</semimajoraxis>
 			<description>Kepler-273 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-273 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037500" errorplus="0.0037500">2454967.8320200</transittime>
+			<transittime errorminus=".003750" errorplus="0.003750" unit="BJD">2454967.832020</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

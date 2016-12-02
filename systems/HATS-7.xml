@@ -1,7 +1,7 @@
 <system>
 	<name>HATS-7</name>
 	<rightascension>13 55 25.68</rightascension>
-	<declination>-21 12 27.7</declination>
+	<declination>-21 12 27</declination>
 	<distance errorminus="12" errorplus="15">257</distance>
 	<star>
 		<name>HATS-7</name>
@@ -11,14 +11,14 @@
 		<name>UCAC4 344-068641</name>
 		<mass errorminus="0.027" errorplus="0.027">0.849</mass>
 		<radius errorminus="0.035" errorplus="0.049">0.815</radius>
-		<magV errorminus="0.010" errorplus="0.010">13.340</magV>
+		<magV errorminus="0.010" errorplus="0.010">13.34</magV>
 		<magB errorminus="0.020" errorplus="0.020">14.359</magB>
 		<magJ errorminus="0.024" errorplus="0.024">11.528</magJ>
 		<magH errorminus="0.024" errorplus="0.024">11.085</magH>
 		<magK errorminus="0.026" errorplus="0.026">10.976</magK>
-		<temperature errorminus="50" errorplus="50">4985</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">4985.0</temperature>
 		<age errorminus="5.0" errorplus="5.0">7.8</age>
-		<metallicity errorminus="0.080" errorplus="0.080">0.250</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.25</metallicity>
 		<spectraltype>K2</spectraltype>
 		<planet>
 			<name>HATS-7 b</name>
@@ -27,16 +27,17 @@
 			<name>UCAC3 138-154618 b</name>
 			<name>UCAC4 344-068641 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.012" errorplus="0.012">0.120</mass>
+			<mass errorminus="0.012" errorplus="0.012" type="Radial Velocity">0.12</mass>
 			<radius errorminus="0.034" errorplus="0.046">0.563</radius>
-			<period errorminus="0.0000054" errorplus="0.0000054">3.1853150</period>
+			<period errorminus="5.4e-06" errorplus="5.4e-06">3.185315</period>
 			<semimajoraxis errorminus="0.00043" errorplus="0.00043">0.04012</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.17">0.0</eccentricity>
 			<inclination errorminus="0.75" errorplus="0.75">87.92</inclination>
 			<description>HATS-7b is a hot super-Neptune orbiting a metal-rich K-dwarf star. The inferred composition based on its observed properties suggests it is mainly composed of heavy elements, which makes it more similar to Uranus and Neptune than Saturn.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00058" errorplus="0.00058">2456528.29697</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/07</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

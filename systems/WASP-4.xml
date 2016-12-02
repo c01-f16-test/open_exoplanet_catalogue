@@ -2,35 +2,36 @@
 	<name>WASP-4</name>
 	<rightascension>23 34 15</rightascension>
 	<declination>-42 03 41</declination>
-	<distance>300</distance>
+	<distance errorminus="50.00" errorplus="50.00">300.00</distance>
 	<star>
 		<name>WASP-4</name>
-		<mass>0.93</mass>
-		<radius>1.15</radius>
-		<magV>12.6</magV>
+		<mass errorminus="0.01" errorplus="0.01">0.89</mass>
+		<radius errorminus="0.06" errorplus="0.06">0.92</radius>
+		<magV>12.500</magV>
 		<magB>13.0</magB>
 		<magR>11.9</magR>
 		<magJ errorminus="0.025" errorplus="0.025">11.179</magJ>
 		<magH errorminus="0.026" errorplus="0.026">10.842</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.746</magK>
-		<temperature>5500.0</temperature>
-		<metallicity>-0.03</metallicity>
-		<spectraltype>G8</spectraltype>
+		<temperature errorminus="34.00" errorplus="34.00">5436.00</temperature>
+		<age errorminus="2.900" errorplus="2.900">7.000</age>
+		<metallicity errorminus="0.040" errorplus="0.040">-0.050</metallicity>
+		<spectraltype>G7 V</spectraltype>
 		<planet>
 			<name>WASP-4 b</name>
 			<name>2MASS J23341508-4203411 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.1215</mass>
-			<radius>1.363</radius>
-			<period>1.33823187</period>
-			<semimajoraxis>0.02312</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.8</inclination>
-			<temperature>1710.4</temperature>
+			<mass errorminus="0.01300" errorplus="0.01300" type="Mass">1.21600</mass>
+			<radius errorminus="0.160" errorplus="0.160">1.330</radius>
+			<period errorminus="0.00000031" errorplus="0.00000031">1.33823251</period>
+			<semimajoraxis errorminus="0.00033" errorplus="0.00033">0.02312</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.760" errorplus="1.760">86.850</inclination>
+			<temperature errorminus="54" errorplus="54">1664</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.000048" errorplus="0.000048" unit="BJD">2454697.798226</transittime>
+			<transittime errorminus=".000076" errorplus="0.000076" unit="BJD-TDB">2454697.797973</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>11/04/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

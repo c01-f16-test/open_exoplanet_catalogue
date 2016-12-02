@@ -2,40 +2,45 @@
 	<name>HIP 5158</name>
 	<rightascension>01 06 02</rightascension>
 	<declination>-22 27 11</declination>
-	<distance>45</distance>
+	<distance errorminus="4.70" errorplus="3.89">44.80</distance>
 	<star>
 		<name>HIP 5158</name>
-		<mass>0.78</mass>
-		<magV>10.21</magV>
-		<magB>11.29</magB>
-		<magJ errorminus="0.019" errorplus="0.019">8.28</magJ>
+		<mass errorminus="0.02" errorplus="0.02">0.78</mass>
+		<magV errorminus="0.035" errorplus="0.035">10.167</magV>
+		<magB errorminus="0.062" errorplus="0.062">11.273</magB>
+		<magJ errorminus="0.019" errorplus="0.019">8.280</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.775</magH>
-		<magK errorminus="0.02" errorplus="0.02">7.669</magK>
-		<temperature>4962.0</temperature>
-		<metallicity>0.1</metallicity>
+		<magK errorminus="0.020" errorplus="0.020">7.669</magK>
+		<temperature errorminus="89.00" errorplus="89.00">4962.00</temperature>
+		<age errorminus="nan" errorplus="inf">6.000</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.100</metallicity>
 		<spectraltype>K5V</spectraltype>
 		<planet>
 			<name>HIP 5158 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.44</mass>
-			<period>345.63</period>
-			<semimajoraxis>0.89</semimajoraxis>
-			<eccentricity>0.54</eccentricity>
+			<mass errorminus="0.14" errorplus="0.14" type="Msini">1.42000</mass>
+			<period errorminus="5.37000000" errorplus="5.37000000">345.72000000</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.890000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.520000</eccentricity>
+			<periastron errorminus="11.0000" errorplus="11.0000">-108.0000</periastron>
+			<periastrontime errorminus="15.210000" errorplus="15.210000">2454580.490000</periastrontime>
+			<maximumrvtime errorminus="15.210000" errorplus="15.210000">2454580.490000</maximumrvtime>
 			<temperature>168.8</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/05/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
 			<name>HIP 5158 c</name>
 			<list>Confirmed planets</list>
-			<mass>15.04</mass>
-			<period>9018</period>
-			<semimajoraxis>7.7</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="10.55000" errorplus="10.55000" type="Msini">15.04000</mass>
+			<period errorminus="3180.74000000" errorplus="3180.74000000">9017.76000000</period>
+			<semimajoraxis errorminus="1.880000" errorplus="1.880000">7.700000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.140000</eccentricity>
+			<periastron errorminus="75.6300" errorplus="75.6300">142.0900</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/05/06</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>
 </system>

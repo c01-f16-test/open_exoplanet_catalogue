@@ -1,34 +1,37 @@
 <system>
 	<name>HIP 91258</name>
-	<rightascension>18 36 53.15422</rightascension>
-	<declination>+61 42 09.0124</declination>
-	<distance errorminus="1.3" errorplus="1.3">44.9</distance>
+	<rightascension>18 36 53</rightascension>
+	<declination>+61 42 09</declination>
+	<distance errorminus="1.47" errorplus="1.38">44.46</distance>
 	<star>
 		<name>HIP 91258</name>
 		<mass errorminus="0.03" errorplus="0.03">0.95</mass>
-		<radius errorminus="0.04" errorplus="0.04">1</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.65</magV>
-		<magB errorminus="0.02" errorplus="0.02">9.45</magB>
+		<radius errorminus="0.04" errorplus="0.04">1.00</radius>
+		<magV errorminus="0.015" errorplus="0.015">8.646</magV>
+		<magB errorminus="0.024" errorplus="0.024">9.453</magB>
 		<magR>8.1</magR>
 		<magI>7.8</magI>
 		<magJ errorminus="0.023" errorplus="0.023">7.310</magJ>
-		<magH errorminus="0.023" errorplus="0.023">6.996</magH>
+		<magH errorminus="0.022" errorplus="0.022">6.996</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.893</magK>
-		<temperature errorminus="70" errorplus="70">5519</temperature>
-		<age errorminus="2.4" errorplus="2.4">2.4</age>
-		<metallicity errorminus="0.05" errorplus="0.05">0.23</metallicity>
-		<spectraltype>G5V</spectraltype>
+		<temperature errorminus="70.00" errorplus="70.00">5519.00</temperature>
+		<age errorminus="2.400" errorplus="2.400">2.400</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.230</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>HIP 91258 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.038" errorplus="0.038">1.068</mass>
-			<period errorminus="0.0015" errorplus="0.0015">5.0505</period>
-			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.057</semimajoraxis>
-			<eccentricity errorminus="0.014" errorplus="0.014">0.024</eccentricity>
-			<periastron errorminus="64" errorplus="64">276</periastron>
+			<mass errorminus="0.03800" errorplus="0.03800" type="Msini">1.06800</mass>
+			<period errorminus="0.00150000" errorplus="0.00150000">5.05050000</period>
+			<semimajoraxis errorminus="0.000900" errorplus="0.000900">0.057000</semimajoraxis>
+			<eccentricity errorminus="0.014000" errorplus="0.014000">0.024000</eccentricity>
+			<periastron errorminus="64.0000" errorplus="64.0000">276.0000</periastron>
+			<periastrontime errorminus="0.028" errorplus="0.028">2456164.275</periastrontime>
+			<maximumrvtime errorminus="0.028" errorplus="0.028">2456164.275</maximumrvtime>
 			<description>HIP 91258 is a Hot Jupiter with an orbital period of only 5 days. There is another planet in the system. However, currently only a quadratic trend is seen in the data which is insufficient to determine the second planet's properties. The planet was discovered with the SOPHIE spectrograph in France.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/11/22</lastupdate>
+			<transittime errorminus="0.023" errorplus="0.023">2456165.565</transittime>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

@@ -1,36 +1,38 @@
 <system>
 	<name>HAT-P-29</name>
 	<rightascension>02 12 31</rightascension>
-	<declination>+51 46 44</declination>
-	<distance>322</distance>
+	<declination>+51 46 43</declination>
+	<distance errorminus="21.00" errorplus="35.00">322.00</distance>
 	<star>
 		<name>HAT-P-29</name>
-		<mass>1.207</mass>
-		<radius>1.224</radius>
-		<magV errorminus="0.16" errorplus="0.16">11.83</magV>
+		<mass errorminus="0.05" errorplus="0.05">1.21</mass>
+		<radius errorminus="0.07" errorplus="0.13">1.22</radius>
+		<magV errorminus="0.16" errorplus="0.16">11.900</magV>
 		<magB errorminus="0.17" errorplus="0.17">12.30</magB>
 		<magR errorminus="0.04" errorplus="0.04">11.82</magR>
 		<magJ errorminus="0.023" errorplus="0.023">10.648</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.395</magH>
 		<magK errorminus="0.020" errorplus="0.020">10.297</magK>
-		<temperature>6087.0</temperature>
-		<metallicity>0.21</metallicity>
+		<temperature errorminus="88.00" errorplus="88.00">6087.00</temperature>
+		<age errorminus="1.000" errorplus="1.000">2.200</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.210</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HAT-P-29 b</name>
 			<name>2MASS J02123147+5146435 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.778</mass>
-			<radius>1.107</radius>
-			<period>5.72318</period>
-			<semimajoraxis>0.0667</semimajoraxis>
-			<eccentricity>0.095</eccentricity>
-			<inclination>87.1</inclination>
-			<temperature>1149.1</temperature>
+			<mass errorminus="0.04000" errorplus="0.07600" type="Mass">0.77800</mass>
+			<radius errorminus="0.082" errorplus="0.136">1.107</radius>
+			<period errorminus="0.00004900" errorplus="0.00004900">5.72318600</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.066700</semimajoraxis>
+			<eccentricity errorminus="0.047000" errorplus="0.047000">0.095000</eccentricity>
+			<periastron errorminus="30.0000" errorplus="30.0000">169.0000</periastron>
+			<inclination errorminus="0.700" errorplus="0.500">87.100</inclination>
+			<temperature errorminus="45" errorplus="64">1260</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00181" errorplus="0.00181" unit="BJD">2455197.57540</transittime>
+			<transittime errorminus=".001810" errorplus="0.001810" unit="BJD-UTC">2455197.575400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

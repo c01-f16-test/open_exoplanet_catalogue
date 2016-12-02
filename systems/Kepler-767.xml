@@ -2,22 +2,29 @@
 	<name>Kepler-767</name>
 	<rightascension>19 26 19</rightascension>
 	<declination>+38 02 09</declination>
+	<distance errorminus="104.47" errorplus="157.84">1185.00</distance>
 	<star>
 		<name>Kepler-767</name>
 		<mass errorminus="0.06" errorplus="0.06">0.96</mass>
 		<radius errorminus="0.08" errorplus="0.12">0.94</radius>
-		<temperature errorminus="124.1" errorplus="163.4">5694.0</temperature>
-		<metallicity errorminus="0.20" errorplus="0.14">-0.05</metallicity>
+		<magV>15.435</magV>
+		<magJ errorminus="0.028" errorplus="0.028">14.260</magJ>
+		<magH errorminus="0.031" errorplus="0.031">13.891</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.812</magK>
+		<temperature errorminus="124.14" errorplus="163.45">5694.00</temperature>
+		<age errorminus="2.370" errorplus="3.600">4.070</age>
+		<metallicity errorminus="0.198" errorplus="0.143">-0.050</metallicity>
 		<planet>
 			<name>Kepler-767 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.049" errorplus="0.077">0.592</radius>
-			<period errorminus="0.000308600" errorplus="0.000308600">161.528010100</period>
+			<period errorminus="0.00030860" errorplus="0.00030860">161.52801010</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001390" errorplus="0.001390" unit="JD">2455031.001090</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

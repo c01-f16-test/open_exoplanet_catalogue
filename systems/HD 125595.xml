@@ -2,28 +2,32 @@
 	<name>HD 125595</name>
 	<rightascension>14 21 23</rightascension>
 	<declination>-40 23 38</declination>
-	<distance>27.4</distance>
+	<distance errorminus="0.94" errorplus="0.88">27.45</distance>
 	<star>
 		<name>HD 125595</name>
-		<mass>0.756</mass>
-		<magV>9.03</magV>
-		<magB>10.13</magB>
+		<mass errorminus="0.017" errorplus="0.017">0.756</mass>
+		<magV>9.000</magV>
+		<magB>10.108</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.097</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.608</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.447</magK>
+		<magK errorminus="0.022" errorplus="0.022">6.447</magK>
 		<temperature>4908.0</temperature>
-		<metallicity>0.02</metallicity>
-		<spectraltype>K4V</spectraltype>
+		<age errorminus="3.53" errorplus="3.53">3.53</age>
+		<metallicity errorminus="0.06" errorplus="0.06">0.02</metallicity>
+		<spectraltype>K3/4 V</spectraltype>
 		<planet>
 			<name>HD 125595 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.042</mass>
-			<period>9.6737</period>
-			<semimajoraxis>0.0809</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.00400" errorplus="0.00400" type="Msini">0.04100</mass>
+			<period errorminus="0.00390000" errorplus="0.00390000">9.67370000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001400">0.080900</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.150000" errorplus="0.150000">2454435.230000</periastrontime>
+			<maximumrvtime errorminus="0.150000" errorplus="0.150000">2454435.230000</maximumrvtime>
 			<temperature>584.9</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

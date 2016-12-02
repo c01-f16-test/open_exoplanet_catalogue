@@ -1,0 +1,26 @@
+<system>
+	<name>K2-73</name>
+	<rightascension>22 20 06</rightascension>
+	<declination>-09 03 21</declination>
+	<star>
+		<name>K2-73</name>
+		<mass errorminus="0.03" errorplus="0.03">1.05</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.06</radius>
+		<magV errorminus="0.146" errorplus="0.146">11.345</magV>
+		<magB errorminus="0.349" errorplus="0.349">12.431</magB>
+		<magJ errorminus="0.026" errorplus="0.026">10.695</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.382</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.322</magK>
+		<temperature errorminus="76.00" errorplus="76.00">5922.00</temperature>
+		<planet>
+			<name>K2-73 b</name>
+			<radius errorminus="0.019" errorplus="0.019">0.219</radius>
+			<period errorminus="0.00059000" errorplus="0.00059000">7.49543000</period>
+			<semimajoraxis errorminus="0.000720" errorplus="0.000720">0.076190</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002300" errorplus="0.002300" unit="BJD_TDB">2456987.674100</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

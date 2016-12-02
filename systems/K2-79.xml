@@ -1,0 +1,26 @@
+<system>
+	<name>K2-79</name>
+	<rightascension>03 41 01</rightascension>
+	<declination>+13 31 09</declination>
+	<star>
+		<name>K2-79</name>
+		<mass errorminus="0.04" errorplus="0.04">1.06</mass>
+		<radius errorminus="0.12" errorplus="0.12">1.28</radius>
+		<magV errorminus="0.060" errorplus="0.060">12.075</magV>
+		<magB errorminus="0.020" errorplus="0.020">12.893</magB>
+		<magJ errorminus="0.022" errorplus="0.022">10.358</magJ>
+		<magH errorminus="0.019" errorplus="0.019">9.998</magH>
+		<magK errorminus="0.018" errorplus="0.018">9.907</magK>
+		<temperature errorminus="86.00" errorplus="86.00">5926.00</temperature>
+		<planet>
+			<name>K2-79 b</name>
+			<radius errorminus="0.035" errorplus="0.035">0.329</radius>
+			<period errorminus="0.00070000" errorplus="0.00070000">10.99573000</period>
+			<semimajoraxis errorminus="0.001200" errorplus="0.001200">0.098700</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002300" errorplus="0.002300" unit="BJD_TDB">2457070.241000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

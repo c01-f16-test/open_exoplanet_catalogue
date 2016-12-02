@@ -2,48 +2,61 @@
 	<name>HD 82943</name>
 	<rightascension>09 34 50</rightascension>
 	<declination>-12 07 46</declination>
-	<distance>27.46</distance>
+	<distance errorminus="0.65" errorplus="0.62">27.46</distance>
 	<star>
 		<name>HD 82943</name>
-		<mass>1.13</mass>
+		<mass>1.20</mass>
 		<radius>1.12</radius>
-		<magV>6.54</magV>
-		<magB errorminus="0.01" errorplus="0.01">7.17</magB>
-		<temperature>5874.0</temperature>
-		<age>3</age>
-		<metallicity>0.32</metallicity>
-		<spectraltype>G0</spectraltype>
+		<magV errorminus="0.020" errorplus="0.020">6.530</magV>
+		<magB errorminus="0.020" errorplus="0.020">7.150</magB>
+		<magJ errorminus="0.018" errorplus="0.018">5.509</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.245</magH>
+		<magK errorminus="0.018" errorplus="0.018">5.105</magK>
+		<temperature>6016.00</temperature>
+		<age>3.08</age>
+		<metallicity>0.300</metallicity>
+		<spectraltype>G2/3 V</spectraltype>
 		<planet>
 			<name>HD 82943 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.75</mass>
-			<period errorminus="7.9" errorplus="2.3">442.4</period>
-			<semimajoraxis errorminus="0.0125" errorplus="0.0041">1.1866</semimajoraxis>
-			<eccentricity errorminus="0.065" errorplus="0.070">0.203</eccentricity>
-			<periastron errorminus="10" errorplus="13">107</periastron>
+			<mass errorminus="0.02800" errorplus="0.02800" type="Mass">1.68100</mass>
+			<period errorminus="0.35000000" errorplus="0.35000000">441.47000000</period>
+			<semimajoraxis errorminus="0.000620" errorplus="0.000620">1.183060</semimajoraxis>
+			<eccentricity errorminus="0.036000" errorplus="0.036000">0.162000</eccentricity>
+			<periastron errorminus="3.4000" errorplus="3.4000">300.9000</periastron>
 			<longitude errorminus="13" errorplus="10">333</longitude>
-			<inclination errorminus="5.52" errorplus="4.86">19.41</inclination>
+			<inclination errorminus="5.52" errorplus="4.86">90.000</inclination>
 			<temperature>250.5</temperature>
 			<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/06/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 82943 c</name>
 			<list>Confirmed planets</list>
-			<mass>2.01</mass>
-			<period errorminus="1.0" errorplus="2.2">219.3</period>
-			<semimajoraxis errorminus="0.0016" errorplus="0.0051">0.7423</semimajoraxis>
-			<eccentricity errorminus="0.020" errorplus="0.030">0.425</eccentricity>
-			<periastron errorminus="5" errorplus="6">133</periastron>
+			<mass errorminus="0.04700" errorplus="0.04700" type="Mass">1.95900</mass>
+			<period errorminus="0.05100000" errorplus="0.05100000">220.07800000</period>
+			<semimajoraxis errorminus="0.000120" errorplus="0.000120">0.743450</semimajoraxis>
+			<eccentricity errorminus="0.009700" errorplus="0.009700">0.366300</eccentricity>
+			<periastron errorminus="1.7000" errorplus="1.7000">117.2000</periastron>
 			<longitude errorminus="10" errorplus="7">256</longitude>
-			<inclination errorminus="5.52" errorplus="4.86">19.41</inclination>
+			<inclination errorminus="5.52" errorplus="4.86">90.000</inclination>
 			<temperature>314.7</temperature>
 			<description>The planetary system HD 82943 consists of two planets in a 2:1 mean motion resonance. Both resonant angles are librating around zero. The orbital parameters are based on 10 years of radial velocity measurements with the Keck telescope.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/06/05</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2003</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 82943 d</name>
+			<mass errorminus="0.031" errorplus="0.031">0.29</mass>
+			<period errorminus="13.0" errorplus="13.0">1078.0</period>
+			<semimajoraxis errorminus="0.017" errorplus="0.017">2.145</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -2,7 +2,7 @@
 	<name>HD 89744</name>
 	<rightascension>10 22 10</rightascension>
 	<declination>+41 13 46</declination>
-	<distance>40</distance>
+	<distance errorminus="1.10" errorplus="1.10">39.00</distance>
 	<binary>
 		<separation unit="arcsec">63.0</separation>
 		<separation unit="AU">2520</separation>
@@ -36,7 +36,7 @@
 				<inclination>54</inclination>
 				<description>This planet was discovered in 2000 by Korzennik and collaborators in 2004 Mugrauer and colleagues found a low mass stellar companion</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 			</planet>
 		</star>
@@ -48,4 +48,83 @@
 			<spectraltype>L0V</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 89744 A</name>
+		<name>HR 4067 A</name>
+		<name>GJ 9326 A</name>
+		<mass>1.4</mass>
+		<radius>2.14</radius>
+		<magV>5.74</magV>
+		<magB>6.232</magB>
+		<magR>5.4</magR>
+		<magI>5.2</magI>
+		<magJ>4.86</magJ>
+		<magH>4.53</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.454</magK>
+		<metallicity>0.18</metallicity>
+		<spectraltype>F7 V</spectraltype>
+		<planet>
+			<name>HD 89744 A b</name>
+			<name>HR 4067 A b</name>
+			<name>GJ 9326 A b</name>
+			<name>HD 89744 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>7.2</mass>
+			<period>256</period>
+			<semimajoraxis>0.88</semimajoraxis>
+			<eccentricity>0.7</eccentricity>
+			<inclination>54</inclination>
+			<description>This planet was discovered in 2000 by Korzennik and collaborators in 2004 Mugrauer and colleagues found a low mass stellar companion</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 89744 B</name>
+		<name>HR 4067 B</name>
+		<name>GJ 9326 B</name>
+		<mass>0.077</mass>
+		<spectraltype>L0V</spectraltype>
+	</star>
+	<star>
+		<name>HD 89744</name>
+		<mass errorminus="0.05" errorplus="0.05">1.56</mass>
+		<radius errorminus="0.1" errorplus="0.1">2.14</radius>
+		<magV errorminus="0.009" errorplus="0.009">5.720</magV>
+		<magB errorminus="0.014" errorplus="0.014">6.250</magB>
+		<magJ errorminus="0.232" errorplus="0.232">4.855</magJ>
+		<magH errorminus="0.036" errorplus="0.036">4.529</magH>
+		<magK errorminus="0.021" errorplus="0.021">4.454</magK>
+		<temperature errorminus="44.00" errorplus="44.00">6291.00</temperature>
+		<age>2.04</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.260</metallicity>
+		<spectraltype>F7 V</spectraltype>
+		<planet>
+			<name>HD 89744 b</name>
+			<mass errorminus="0.23000" errorplus="0.23000" type="Msini">8.44000</mass>
+			<period errorminus="0.05000000" errorplus="0.05000000">256.78000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.918000</semimajoraxis>
+			<eccentricity errorminus="0.007000" errorplus="0.007000">0.673000</eccentricity>
+			<periastron errorminus="1.0000" errorplus="1.0000">195.1000</periastron>
+			<periastrontime errorminus="0.400000" errorplus="0.400000">2451505.500000</periastrontime>
+			<maximumrvtime errorminus="0.400000" errorplus="0.400000">2451505.500000</maximumrvtime>
+			<inclination errorminus="12.0" errorplus="12.0">54.0</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 89744 c</name>
+			<mass errorminus="0.3" errorplus="0.3">3.2</mass>
+			<period errorminus="0.1" errorplus="0.1">85.2</period>
+			<semimajoraxis errorminus="0.005" errorplus="0.005">0.44</semimajoraxis>
+			<eccentricity errorminus="0.05" errorplus="0.05">0.0</eccentricity>
+			<periastron errorminus="86.0" errorplus="86.0">360.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
 </system>

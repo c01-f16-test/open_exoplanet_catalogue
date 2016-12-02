@@ -1,0 +1,23 @@
+<system>
+	<name>HW Vir (AB)</name>
+	<declination>-08 40 17</declination>
+	<star>
+		<name>HW Vir (AB)</name>
+		<mass errorminus="0.013" errorplus="0.013">0.627</mass>
+		<magV>10.9</magV>
+		<spectraltype>sdB+M</spectraltype>
+		<planet>
+			<name>HW Vir (AB) b</name>
+			<mass errorminus="1.0" errorplus="1.0">14.3</mass>
+			<period errorminus="73.0" errorplus="73.0">4640.0</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">4.69</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.4</eccentricity>
+			<periastron errorminus="10.0" errorplus="10.0">342.0</periastron>
+			<periastrontime>2452410.0</periastrontime>
+			<maximumrvtime>2452410.0</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

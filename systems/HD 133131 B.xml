@@ -1,0 +1,32 @@
+<system>
+	<name>HD 133131 B</name>
+	<rightascension>15 03 35</rightascension>
+	<declination>-27 50 27</declination>
+	<distance>47.00</distance>
+	<star>
+		<name>HD 133131 B</name>
+		<mass>0.93</mass>
+		<magV>8.420</magV>
+		<magB errorminus="0.021" errorplus="0.021">9.031</magB>
+		<magJ errorminus="0.024" errorplus="0.024">7.255</magJ>
+		<magH errorminus="0.042" errorplus="0.042">6.923</magH>
+		<magK errorminus="0.026" errorplus="0.026">6.896</magK>
+		<temperature errorminus="15.00" errorplus="15.00">5805.00</temperature>
+		<age>9.700</age>
+		<metallicity errorminus="0.013" errorplus="0.013">-0.281</metallicity>
+		<spectraltype>G2 V</spectraltype>
+		<planet>
+			<name>HD 133131 B b</name>
+			<mass errorminus="0.05000" errorplus="0.05000" type="Msini">2.50000</mass>
+			<period errorminus="831.00000000" errorplus="831.00000000">5769.00000000</period>
+			<semimajoraxis errorminus="0.590000" errorplus="0.590000">6.150000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.610000</eccentricity>
+			<periastron errorminus="3.0000" errorplus="3.0000">103.0000</periastron>
+			<periastrontime errorminus="828.000000" errorplus="828.000000">2450644.000000</periastrontime>
+			<maximumrvtime errorminus="828.000000" errorplus="828.000000">2450644.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

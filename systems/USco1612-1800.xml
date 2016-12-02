@@ -1,0 +1,19 @@
+<system>
+	<name>USco1612-1800</name>
+	<declination>-18 00 49</declination>
+	<star>
+		<name>USco1612-1800</name>
+		<magK>13.2</magK>
+		<temperature errorminus="130.0" errorplus="150.0">3410.0</temperature>
+		<spectraltype>M3</spectraltype>
+		<planet>
+			<name>USco1612-1800 b</name>
+			<mass errorminus="7.0" errorplus="16.0">26.0</mass>
+			<semimajoraxis errorminus="40.0" errorplus="40.0">430.0</semimajoraxis>
+			<temperature>2550.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

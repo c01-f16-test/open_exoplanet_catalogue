@@ -1,7 +1,7 @@
 <system>
 	<name>HD 38858</name>
 	<rightascension>05 48 35</rightascension>
-	<declination>-04 05 41</declination>
+	<declination>-04 05 40</declination>
 	<distance>15.2</distance>
 	<star>
 		<name>HD 38858</name>
@@ -15,14 +15,14 @@
 		<planet>
 			<name>HD 38858 b</name>
 			<list>Retracted planet candidate</list>
-			<mass>0.0961</mass>
-			<period>407.15</period>
-			<semimajoraxis>1.0376</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<mass errorminus="0.012" errorplus="0.012">0.0961</mass>
+			<period errorminus="4.2857" errorplus="4.2857">407.15</period>
+			<semimajoraxis errorminus="0.0189" errorplus="0.0189">1.0376</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.17">0.27</eccentricity>
 			<temperature>237.2</temperature>
 			<description>The planet candidate HD 38858 b has been shown to be an alias of the stellar magnetic cycle, which lasts 2930 days.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/03/13</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

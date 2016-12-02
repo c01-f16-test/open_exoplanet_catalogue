@@ -2,7 +2,7 @@
 	<name>HD 11964</name>
 	<rightascension>01 57 09</rightascension>
 	<declination>-10 14 32</declination>
-	<distance>33.98</distance>
+	<distance errorminus="1.08" errorplus="1.02">33.98</distance>
 	<binary>
 		<separation unit="arcsec">29.7</separation>
 		<separation unit="AU">1010</separation>
@@ -32,7 +32,7 @@
 				<eccentricity>0.041</eccentricity>
 				<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 			</planet>
 			<planet>
@@ -48,7 +48,7 @@
 				<eccentricity>0.3</eccentricity>
 				<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 			</planet>
 		</star>
@@ -59,4 +59,95 @@
 			<mass>0.67</mass>
 		</star>
 	</binary>
+	<star>
+		<name>HD 11964 A</name>
+		<name>Gliese 81.1 A</name>
+		<name>GJ 81.1 A</name>
+		<mass>1.125</mass>
+		<radius>2.18</radius>
+		<magV>6.42</magV>
+		<magB>7.25</magB>
+		<magK errorminus="0.02" errorplus="0.02">4.49</magK>
+		<age>13.1</age>
+		<metallicity>0.17</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HD 11964 A b</name>
+			<name>Gliese 81.1 A b</name>
+			<name>GJ 81.1 A b</name>
+			<name>HD 11964 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.622</mass>
+			<period>1945</period>
+			<semimajoraxis>3.16</semimajoraxis>
+			<eccentricity>0.041</eccentricity>
+			<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 11964 A c</name>
+			<name>Gliese 81.1 A c</name>
+			<name>GJ 81.1 A c</name>
+			<name>HD 11964 c</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>0.079</mass>
+			<period>37.91</period>
+			<semimajoraxis>0.229</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<description>The planet hosting star HD 11964 A is a yellow subgiant in the constellation Cetus. It is a member of a wide binary.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 11964 B</name>
+		<name>Gliese 81.1 B</name>
+		<name>GJ 81.1 B</name>
+		<mass>0.67</mass>
+	</star>
+	<star>
+		<name>HD 11964</name>
+		<mass>1.12</mass>
+		<radius errorminus="0.29" errorplus="0.29">2.18</radius>
+		<magV>6.420</magV>
+		<magB>7.230</magB>
+		<magJ errorminus="0.025" errorplus="0.025">5.023</magJ>
+		<magH errorminus="0.021" errorplus="0.021">4.637</magH>
+		<magK errorminus="0.020" errorplus="0.020">4.491</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5349.00</temperature>
+		<age>9.56</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.122</metallicity>
+		<spectraltype>G8 IV</spectraltype>
+		<planet>
+			<name>HD 11964 b</name>
+			<mass errorminus="0.05600" errorplus="0.05600" type="Msini">0.62200</mass>
+			<period errorminus="26.00000000" errorplus="26.00000000">1945.00000000</period>
+			<semimajoraxis errorminus="0.190000" errorplus="0.190000">3.160000</semimajoraxis>
+			<eccentricity errorminus="0.047000" errorplus="0.047000">0.041000</eccentricity>
+			<periastron>155.0</periastron>
+			<periastrontime errorminus="380.000000" errorplus="380.000000">2454170.000000</periastrontime>
+			<maximumrvtime errorminus="380.000000" errorplus="380.000000">2454170.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 11964 c</name>
+			<mass errorminus="0.00970" errorplus="0.00970" type="Msini">0.07880</mass>
+			<period errorminus="0.04100000" errorplus="0.04100000">37.91000000</period>
+			<semimajoraxis errorminus="0.013000" errorplus="0.013000">0.229000</semimajoraxis>
+			<eccentricity errorminus="0.170000" errorplus="0.170000">0.300000</eccentricity>
+			<periastron>102.0000</periastron>
+			<periastrontime errorminus="380.000000" errorplus="380.000000">2454370.000000</periastrontime>
+			<maximumrvtime errorminus="380.000000" errorplus="380.000000">2454370.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
 </system>

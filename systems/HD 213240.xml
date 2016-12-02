@@ -2,7 +2,7 @@
 	<name>HD 213240</name>
 	<rightascension>22 31 00</rightascension>
 	<declination>-49 25 59</declination>
-	<distance>40.75</distance>
+	<distance errorminus="1.39" errorplus="1.30">40.75</distance>
 	<binary>
 		<separation unit="arcsec">95.8</separation>
 		<separation unit="AU">3904</separation>
@@ -28,7 +28,7 @@
 				<eccentricity>0.45</eccentricity>
 				<description>The binary star system HD 213240 consists of the components A and C. The letter B was already used by the WDS survey from 1901 to describe another object. However, it turns out that the B component is not physically associated with the binary. The planet orbiting the A component was discovered in 2001 by Santos and collaborators.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2001</discoveryyear>
 			</planet>
 		</star>
@@ -40,4 +40,63 @@
 			<spectraltype>M</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 213240 A</name>
+		<mass>1.22</mass>
+		<radius>1.5</radius>
+		<magV>6.8</magV>
+		<magB>7.41</magB>
+		<magH errorminus="0.023" errorplus="0.023">5.482</magH>
+		<age>3.6</age>
+		<metallicity>0.16</metallicity>
+		<spectraltype>G0V</spectraltype>
+		<planet>
+			<name>HD 213240 A b</name>
+			<name>HD 213240 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>4.5</mass>
+			<period>951</period>
+			<semimajoraxis>2.03</semimajoraxis>
+			<eccentricity>0.45</eccentricity>
+			<description>The binary star system HD 213240 consists of the components A and C. The letter B was already used by the WDS survey from 1901 to describe another object. However, it turns out that the B component is not physically associated with the binary. The planet orbiting the A component was discovered in 2001 by Santos and collaborators.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2001</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 213240 C</name>
+		<mass>0.146</mass>
+		<magJ>12.415</magJ>
+		<magK>11.595</magK>
+		<spectraltype>M</spectraltype>
+	</star>
+	<star>
+		<name>HD 213240</name>
+		<mass>1.22</mass>
+		<radius>1.5</radius>
+		<magV errorminus="0.010" errorplus="0.010">6.814</magV>
+		<magB errorminus="0.015" errorplus="0.015">7.425</magB>
+		<magJ errorminus="0.018" errorplus="0.018">5.708</magJ>
+		<magH errorminus="0.022" errorplus="0.022">5.482</magH>
+		<magK errorminus="0.020" errorplus="0.020">5.354</magK>
+		<temperature>5975.0</temperature>
+		<age>5.11</age>
+		<metallicity>0.16</metallicity>
+		<spectraltype>G0/1 V</spectraltype>
+		<planet>
+			<name>HD 213240 b</name>
+			<mass type="Msini">4.50000</mass>
+			<period errorminus="42.00000000" errorplus="42.00000000">951.00000000</period>
+			<semimajoraxis>2.030000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.450000</eccentricity>
+			<periastron errorminus="7.0000" errorplus="7.0000">214.0000</periastron>
+			<periastrontime errorminus="11.000000" errorplus="11.000000">2451520.000000</periastrontime>
+			<maximumrvtime errorminus="11.000000" errorplus="11.000000">2451520.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2001</discoveryyear>
+		</planet>
+	</star>
 </system>

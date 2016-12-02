@@ -2,34 +2,41 @@
 	<name>HD 62509</name>
 	<rightascension>07 45 18</rightascension>
 	<declination>+28 01 34</declination>
-	<distance>10.34</distance>
+	<distance errorminus="0.09" errorplus="0.09">10.34</distance>
 	<star>
 		<name>HD 62509</name>
 		<name>Pollux</name>
 		<name>Beta Geminorum</name>
 		<name>Beta Gem</name>
-		<mass>1.47</mass>
-		<radius>9.3</radius>
-		<magV>1.15</magV>
-		<magB>2.15</magB>
+		<mass errorminus="0.08" errorplus="0.08">2.10</mass>
+		<radius errorminus="0.09" errorplus="0.09">8.31</radius>
+		<magV>1.140</magV>
+		<magB>2.140</magB>
 		<magR>0.6</magR>
 		<magI>0.2</magI>
-		<temperature>4666.0</temperature>
-		<metallicity>0.19</metallicity>
-		<spectraltype>K0IIIb</spectraltype>
+		<magJ errorminus="0.232" errorplus="0.232">-0.315</magJ>
+		<magH errorminus="0.178" errorplus="0.178">-0.845</magH>
+		<magK errorminus="0.160" errorplus="0.160">-0.936</magK>
+		<temperature errorminus="18.00" errorplus="18.00">4946.00</temperature>
+		<age errorminus="0.130" errorplus="0.130">0.980</age>
+		<metallicity errorminus="0.050" errorplus="0.050">0.070</metallicity>
+		<spectraltype>K0 III</spectraltype>
 		<planet>
 			<name>HD 62509 b</name>
 			<name>Pollux b</name>
 			<name>Beta Geminorum b</name>
 			<name>Beta Gem b</name>
 			<list>Confirmed planets</list>
-			<mass>2.9</mass>
-			<period>589.64</period>
-			<semimajoraxis>1.69</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<mass errorminus="0.45000" errorplus="0.45000" type="Msini">2.30000</mass>
+			<period errorminus="0.81000000" errorplus="0.81000000">589.64000000</period>
+			<semimajoraxis errorminus="0.270000" errorplus="0.270000">1.640000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.020000</eccentricity>
+			<periastron errorminus="95.6500" errorplus="95.6500">354.5800</periastron>
+			<periastrontime errorminus="4.500000" errorplus="4.500000">2447739.020000</periastrontime>
+			<maximumrvtime errorminus="4.500000" errorplus="4.500000">2447739.020000</maximumrvtime>
 			<temperature>482.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 		</planet>
 	</star>

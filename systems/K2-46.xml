@@ -1,0 +1,26 @@
+<system>
+	<name>K2-46</name>
+	<rightascension>11 37 03</rightascension>
+	<declination>-00 54 26</declination>
+	<star>
+		<name>K2-46</name>
+		<mass errorminus="0.02" errorplus="0.02">0.96</mass>
+		<radius errorminus="0.12" errorplus="0.12">1.29</radius>
+		<magV errorminus="0.020" errorplus="0.020">12.029</magV>
+		<magB errorminus="0.020" errorplus="0.020">12.485</magB>
+		<magJ errorminus="0.026" errorplus="0.026">11.046</magJ>
+		<magH errorminus="0.021" errorplus="0.021">10.761</magH>
+		<magK errorminus="0.024" errorplus="0.024">10.781</magK>
+		<temperature errorminus="37.00" errorplus="37.00">6256.00</temperature>
+		<planet>
+			<name>K2-46 b</name>
+			<radius errorminus="0.021" errorplus="0.021">0.183</radius>
+			<period errorminus="0.00410000" errorplus="0.00410000">19.15410000</period>
+			<semimajoraxis errorminus="0.000960" errorplus="0.000960">0.138210</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008200" errorplus="0.008200" unit="BJD_TDB">2456815.335300</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

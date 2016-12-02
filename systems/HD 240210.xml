@@ -1,7 +1,7 @@
 <system>
 	<name>HD 240210</name>
-	<rightascension>23 10 29.2303</rightascension>
-	<declination>+57 01 46.035</declination>
+	<rightascension>23 10 29</rightascension>
+	<declination>+57 01 46</declination>
 	<distance errorminus="53" errorplus="53">143</distance>
 	<star>
 		<name>HD 240210</name>
@@ -10,25 +10,26 @@
 		<name>BD+56 2959</name>
 		<name>2MASS J23102924+5701460</name>
 		<mass errorminus="0.15" errorplus="0.15">0.82</mass>
-		<magV errorminus="0.01" errorplus="0.01">8.27</magV>
-		<magB errorminus="0.03" errorplus="0.03">9.88</magB>
-		<magJ errorminus="0.05" errorplus="0.05">5.306</magJ>
-		<magH errorminus="0.036" errorplus="0.036">4.587</magH>
-		<magK errorminus="0.021" errorplus="0.021">4.388</magK>
-		<temperature errorminus="25" errorplus="25">4297</temperature>
-		<metallicity errorminus="0.12" errorplus="0.12">-0.18</metallicity>
-		<spectraltype>K3III</spectraltype>
+		<magV errorminus="0.01" errorplus="0.01">8.330</magV>
+		<magB errorminus="0.040" errorplus="0.040">9.980</magB>
+		<magJ errorminus="0.047" errorplus="0.047">5.306</magJ>
+		<magH errorminus="0.033" errorplus="0.033">4.587</magH>
+		<magK errorminus="0.015" errorplus="0.015">4.388</magK>
+		<temperature errorminus="25.00" errorplus="25.00">4297.00</temperature>
+		<metallicity errorminus="0.120" errorplus="0.120">-0.180</metallicity>
+		<spectraltype>K3 III</spectraltype>
 		<planet>
 			<name>HD 240210 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">5.21</mass>
-			<period errorminus="2.33" errorplus="2.33">501.75</period>
-			<semimajoraxis>1.33</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.02">0.15</eccentricity>
-			<periastron errorminus="7.77" errorplus="7.77">277.59</periastron>
-			<periastrontime errorminus="10.93" errorplus="10.93">2454487.38</periastrontime>
+			<mass type="Msini">5.21000</mass>
+			<period errorminus="2.33000000" errorplus="2.33000000">501.75000000</period>
+			<semimajoraxis>1.160000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.150000</eccentricity>
+			<periastron errorminus="7.7700" errorplus="7.7700">277.5900</periastron>
+			<periastrontime errorminus="10.930000" errorplus="10.930000">2454487.380000</periastrontime>
+			<maximumrvtime errorminus="10.930000" errorplus="10.930000">2454487.380000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

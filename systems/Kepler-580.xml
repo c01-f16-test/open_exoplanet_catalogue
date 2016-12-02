@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-580</name>
-	<rightascension>18 53 59.9</rightascension>
+	<rightascension>18 53 59</rightascension>
 	<declination>+40 33 10</declination>
+	<distance errorminus="14.38" errorplus="11.86">333.00</distance>
 	<star>
 		<name>Kepler-580</name>
 		<mass errorminus="0.03" errorplus="0.03">0.67</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.64</radius>
-		<temperature errorminus="38.1" errorplus="49.1">4298.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.11">-0.06</metallicity>
+		<magV>15.000</magV>
+		<magJ errorminus="0.023" errorplus="0.023">13.090</magJ>
+		<magH errorminus="0.022" errorplus="0.022">12.441</magH>
+		<magK errorminus="0.029" errorplus="0.029">12.314</magK>
+		<temperature errorminus="38.09" errorplus="49.14">4298.00</temperature>
+		<age errorminus="1.790" errorplus="4.220">3.470</age>
+		<metallicity errorminus="0.090" errorplus="0.113">-0.060</metallicity>
 		<planet>
 			<name>Kepler-580 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.026">0.229</radius>
-			<period errorminus="0.000009790" errorplus="0.000009790">8.222419660</period>
+			<period errorminus="0.00000979" errorplus="0.00000979">8.22241966</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000939" errorplus="0.000939" unit="JD">2455005.955999</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

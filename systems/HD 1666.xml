@@ -1,8 +1,8 @@
 <system>
 	<name>HD 1666</name>
-	<rightascension>00 20 52.33959</rightascension>
-	<declination>-19 55 52.4083</declination>
-	<distance>110.6</distance>
+	<rightascension>00 20 52</rightascension>
+	<declination>-19 55 52</declination>
+	<distance errorminus="13.91" errorplus="11.12">110.62</distance>
 	<star>
 		<name>HD 1666</name>
 		<name>BD-20 48</name>
@@ -12,15 +12,15 @@
 		<name>HIP 1666</name>
 		<mass errorminus="0.07" errorplus="0.07">1.50</mass>
 		<radius errorminus="0.49" errorplus="0.49">1.93</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.16</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.69</magB>
+		<magV errorminus="0.01" errorplus="0.01">8.170</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.700</magB>
 		<magJ errorminus="0.035" errorplus="0.035">7.269</magJ>
 		<magH errorminus="0.042" errorplus="0.042">7.063</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.964</magK>
-		<temperature errorminus="44" errorplus="44">6317</temperature>
-		<age errorminus="0.20" errorplus="0.20">1.76</age>
-		<metallicity errorminus="0.04" errorplus="0.04">0.37</metallicity>
-		<spectraltype>F7V</spectraltype>
+		<magK errorminus="0.022" errorplus="0.022">6.964</magK>
+		<temperature errorminus="44.00" errorplus="44.00">6317.00</temperature>
+		<age errorminus="0.200" errorplus="0.200">1.760</age>
+		<metallicity errorminus="0.040" errorplus="0.040">0.370</metallicity>
+		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>HD 1666 b</name>
 			<name>BD-20 48 b</name>
@@ -29,14 +29,16 @@
 			<name>2MASS J00205233-1955522 b</name>
 			<name>HIP 1666 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.22" errorplus="0.31">6.43</mass>
-			<period errorminus="0.9" errorplus="0.8">270.0</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.01">0.94</semimajoraxis>
-			<eccentricity errorminus="0.02" errorplus="0.03">0.63</eccentricity>
-			<periastrontime errorminus="5.3" errorplus="7.3">2453526.3</periastrontime>
+			<mass errorminus="0.22000" errorplus="0.31000" type="Msini">6.43000</mass>
+			<period errorminus="0.90000000" errorplus="0.80000000">270.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.010000">0.940000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.030000">0.630000</eccentricity>
+			<periastron errorminus="1.0000" errorplus="5.0000">294.0000</periastron>
+			<periastrontime errorminus="5.300000" errorplus="7.300000">2453526.300000</periastrontime>
+			<maximumrvtime errorminus="5.300000" errorplus="7.300000">2453526.300000</maximumrvtime>
 			<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes. This eccentric and massive planet with its values can be explained as a result of planet-planet interactions among Jovian planets.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/03/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-530</name>
-	<rightascension>18 53 22</rightascension>
-	<declination>+48 32 57</declination>
+	<rightascension>18 53 21</rightascension>
+	<declination>+48 32 56</declination>
+	<distance errorminus="14.56" errorplus="15.04">464.00</distance>
 	<star>
 		<name>Kepler-530</name>
 		<mass errorminus="0.03" errorplus="0.03">0.97</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.89</radius>
-		<temperature errorminus="50.2" errorplus="56.6">5697.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.10">-0.08</metallicity>
+		<magV>13.400</magV>
+		<magJ errorminus="0.025" errorplus="0.025">12.303</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.939</magH>
+		<magK errorminus="0.020" errorplus="0.020">11.900</magK>
+		<temperature errorminus="50.16" errorplus="56.57">5697.00</temperature>
+		<age errorminus="0.493" errorplus="0.919">1.780</age>
+		<metallicity errorminus="0.093" errorplus="0.098">-0.080</metallicity>
 		<planet>
 			<name>Kepler-530 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.015">0.269</radius>
-			<period errorminus="0.000048340" errorplus="0.000048340">39.309419040</period>
+			<period errorminus="0.00004834" errorplus="0.00004834">39.30941904</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000929" errorplus="0.000929" unit="JD">2455004.334643</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

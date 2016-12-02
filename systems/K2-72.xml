@@ -1,0 +1,56 @@
+<system>
+	<name>K2-72</name>
+	<rightascension>22 18 29</rightascension>
+	<declination>-09 36 44</declination>
+	<star>
+		<name>K2-72</name>
+		<mass errorminus="0.08" errorplus="0.08">0.22</mass>
+		<radius errorminus="0.06" errorplus="0.06">0.23</radius>
+		<magV errorminus="0.050" errorplus="0.050">15.309</magV>
+		<magB errorminus="0.086" errorplus="0.086">16.692</magB>
+		<magJ errorminus="0.023" errorplus="0.023">11.685</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.122</magH>
+		<magK errorminus="0.021" errorplus="0.021">10.962</magK>
+		<temperature errorminus="150.00" errorplus="150.00">3497.00</temperature>
+		<planet>
+			<name>K2-72 b</name>
+			<radius errorminus="0.018" errorplus="0.018">0.067</radius>
+			<period errorminus="0.00068000" errorplus="0.00068000">5.57739000</period>
+			<semimajoraxis errorminus="0.004700" errorplus="0.004700">0.037000</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002500" errorplus="0.002500" unit="BJD_TDB">2457010.376600</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-72 c</name>
+			<radius errorminus="0.020" errorplus="0.020">0.077</radius>
+			<period errorminus="0.00320000" errorplus="0.00320000">15.18710000</period>
+			<semimajoraxis errorminus="0.009100" errorplus="0.009100">0.072200</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006000" errorplus="0.006000" unit="BJD_TDB">2456989.468000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-72 d</name>
+			<radius errorminus="0.018" errorplus="0.018">0.065</radius>
+			<period errorminus="0.00140000" errorplus="0.00140000">7.75990000</period>
+			<semimajoraxis errorminus="0.005800" errorplus="0.005800">0.046100</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006400" errorplus="0.006400" unit="BJD_TDB">2456984.785700</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-72 e</name>
+			<radius errorminus="0.020" errorplus="0.020">0.073</radius>
+			<period errorminus="0.00570000" errorplus="0.00570000">24.16690000</period>
+			<semimajoraxis errorminus="0.012000" errorplus="0.012000">0.098000</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".008000" errorplus="0.008000" unit="BJD_TDB">2456987.046000</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

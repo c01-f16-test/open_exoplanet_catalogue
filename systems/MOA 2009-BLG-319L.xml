@@ -1,0 +1,35 @@
+<system>
+	<name>MOA 2009-BLG-319L</name>
+	<name>MOA-2009-BLG-319</name>
+	<rightascension>18 06 58</rightascension>
+	<declination>-26 49 10</declination>
+	<distance errorminus="1200.00" errorplus="1100.00">6100.00</distance>
+	<star>
+		<name>MOA-2009-BLG-319</name>
+		<mass errorminus="0.18" errorplus="0.18">0.38</mass>
+		<temperature>5150.0</temperature>
+		<spectraltype>K</spectraltype>
+		<planet>
+			<name>MOA-2009-BLG-319 b</name>
+			<name>MOA 2009-BLG-319L b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.075" errorplus="0.138">0.157</mass>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">2.0</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>MOA 2009-BLG-319L</name>
+		<mass errorminus="0.18" errorplus="0.34">0.38</mass>
+		<planet>
+			<name>MOA 2009-BLG-319L b</name>
+			<mass errorminus="0.08000" errorplus="0.14000" type="Mass">0.16000</mass>
+			<semimajoraxis errorminus="0.600000" errorplus="1.200000">2.400000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
+		</planet>
+	</star>
+</system>

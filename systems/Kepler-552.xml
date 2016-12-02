@@ -2,22 +2,29 @@
 	<name>Kepler-552</name>
 	<rightascension>19 22 59</rightascension>
 	<declination>+48 14 31</declination>
+	<distance errorminus="82.89" errorplus="174.97">834.00</distance>
 	<star>
 		<name>Kepler-552</name>
 		<mass errorminus="0.06" errorplus="0.06">1.03</mass>
 		<radius errorminus="0.10" errorplus="0.22">1.04</radius>
-		<temperature errorminus="100.7" errorplus="103.8">5863.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">0.01</metallicity>
+		<magV>14.279</magV>
+		<magJ errorminus="0.030" errorplus="0.030">13.198</magJ>
+		<magH errorminus="0.035" errorplus="0.035">12.877</magH>
+		<magK errorminus="0.026" errorplus="0.026">12.780</magK>
+		<temperature errorminus="100.72" errorplus="103.85">5863.00</temperature>
+		<age errorminus="2.150" errorplus="2.900">3.890</age>
+		<metallicity errorminus="0.171" errorplus="0.131">0.010</metallicity>
 		<planet>
 			<name>Kepler-552 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.051" errorplus="0.073">0.352</radius>
-			<period errorminus="0.000002900" errorplus="0.000002900">5.263415770</period>
+			<period errorminus="0.00000290" errorplus="0.00000290">5.26341577</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000433" errorplus="0.000433" unit="JD">2455007.350788</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

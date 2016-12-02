@@ -1,0 +1,79 @@
+<system>
+	<name>bet Cnc</name>
+	<name>beta Cnc</name>
+	<name>beta Cancri</name>
+	<name>HD 69267</name>
+	<rightascension>08 16 30</rightascension>
+	<declination>+09 11 08</declination>
+	<distance errorminus="8.42" errorplus="7.08">89.05</distance>
+	<star>
+		<name>beta Cancri</name>
+		<name>bet Cnc</name>
+		<name>β Cnc</name>
+		<name>β Cancri</name>
+		<name>17 Cnc</name>
+		<name>17 Cancri</name>
+		<name>Al Tarf</name>
+		<name>HD 69267</name>
+		<name>HIP 40526</name>
+		<name>TYC 794-1622-1</name>
+		<name>SAO 116569</name>
+		<name>HR 3249</name>
+		<name>BD+09 1917</name>
+		<name>2MASS J08163090+0911080</name>
+		<mass errorminus="0.10" errorplus="0.10">1.70</mass>
+		<radius errorminus="1.30" errorplus="1.30">47.20</radius>
+		<magV errorminus="0.009" errorplus="0.009">3.530</magV>
+		<magB errorminus="0.007" errorplus="0.007">5.010</magB>
+		<magR>2.42</magR>
+		<magI>1.62</magI>
+		<magJ errorminus="0.250" errorplus="0.250">1.191</magJ>
+		<magH errorminus="0.160" errorplus="0.160">0.267</magH>
+		<magK errorminus="0.202" errorplus="0.202">0.190</magK>
+		<temperature errorminus="17.50" errorplus="17.50">4092.10</temperature>
+		<age errorminus="0.340" errorplus="0.340">1.850</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.290</metallicity>
+		<spectraltype>K4 III</spectraltype>
+		<planet>
+			<name>beta Cancri b</name>
+			<name>beta Cnc b</name>
+			<name>bet Cnc b</name>
+			<name>HD 69267 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.80000" errorplus="0.80000" type="Msini">7.80000</mass>
+			<period errorminus="4.00000000" errorplus="4.00000000">605.20000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.700000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.080000</eccentricity>
+			<periastron errorminus="5.9000" errorplus="5.9000">58.9000</periastron>
+			<periastrontime errorminus="9.800000" errorplus="9.800000">2453229.800000</periastrontime>
+			<maximumrvtime errorminus="9.800000" errorplus="9.800000">2453229.800000</maximumrvtime>
+			<description>The planet beta Cancri b is orbiting the brighest star in the constellation Cancer once every 600 days. It was found using data from 10, collected with the Bohyunsan Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>beta Cnc</name>
+		<mass errorminus="0.1" errorplus="0.1">1.7</mass>
+		<radius errorminus="4.23" errorplus="4.23">48.96</radius>
+		<magV>3.5</magV>
+		<temperature errorminus="20.0" errorplus="20.0">3990.0</temperature>
+		<age errorminus="0.34" errorplus="0.34">1.85</age>
+		<metallicity errorminus="0.06" errorplus="0.06">-0.29</metallicity>
+		<spectraltype>K4III</spectraltype>
+		<planet>
+			<name>beta Cnc b</name>
+			<mass errorminus="0.8" errorplus="0.8">7.8</mass>
+			<period errorminus="4.0" errorplus="4.0">605.2</period>
+			<semimajoraxis errorminus="0.1" errorplus="0.1">1.7</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.08</eccentricity>
+			<periastron errorminus="0.9" errorplus="0.9">58.9</periastron>
+			<periastrontime errorminus="9.8" errorplus="9.8">2453229.8</periastrontime>
+			<maximumrvtime errorminus="9.8" errorplus="9.8">2453229.8</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

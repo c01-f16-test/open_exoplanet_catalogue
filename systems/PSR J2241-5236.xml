@@ -1,0 +1,21 @@
+<system>
+	<name>PSR J2241-5236</name>
+	<declination>-52 36 36</declination>
+	<star>
+		<name>PSR J2241-5236</name>
+		<mass>1.35</mass>
+		<age>5.22</age>
+		<spectraltype>PSR</spectraltype>
+		<planet>
+			<name>PSR J2241-5236 b</name>
+			<mass>12.0</mass>
+			<period errorminus="3e-10" errorplus="3e-10">0.1456722395</period>
+			<eccentricity>0.0</eccentricity>
+			<periastrontime errorminus="6e-07" errorplus="6e-07">2455044.15809</periastrontime>
+			<maximumrvtime errorminus="6e-07" errorplus="6e-07">2455044.15809</maximumrvtime>
+			<discoverymethod>Pulsar</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2011</discoveryyear>
+		</planet>
+	</star>
+</system>

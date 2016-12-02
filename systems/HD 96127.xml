@@ -1,8 +1,8 @@
 <system>
 	<name>HD 96127</name>
-	<rightascension>11 05 45.94825</rightascension>
-	<declination>+44 18 05.6092</declination>
-	<distance errorminus="135" errorplus="135">483</distance>
+	<rightascension>11 05 45</rightascension>
+	<declination>+44 18 05</declination>
+	<distance errorminus="135" errorplus="135">221.24</distance>
 	<star>
 		<name>HD 96127</name>
 		<name>HIP 54232</name>
@@ -11,28 +11,29 @@
 		<name>BD+45 1892</name>
 		<name>2MASS J11054595+4418054</name>
 		<mass errorminus="0.25" errorplus="0.25">0.91</mass>
-		<radius errorminus="17" errorplus="17">35</radius>
-		<magV errorminus="0.011" errorplus="0.011">7.407</magV>
+		<radius errorminus="17.00" errorplus="17.00">35.00</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.430</magV>
 		<magB errorminus="0.021" errorplus="0.021">8.924</magB>
 		<magR errorminus="0.18" errorplus="0.18">6.97</magR>
 		<magJ errorminus="0.190" errorplus="0.190">4.887</magJ>
 		<magH errorminus="0.176" errorplus="0.176">4.124</magH>
 		<magK errorminus="0.036" errorplus="0.036">3.911</magK>
-		<temperature errorminus="23" errorplus="23">4152</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.24</metallicity>
-		<spectraltype>K2III</spectraltype>
+		<temperature errorminus="23.00" errorplus="23.00">4152.00</temperature>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.240</metallicity>
+		<spectraltype>K2 III</spectraltype>
 		<planet>
 			<name>HD 96127 b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">4.0</mass>
-			<period errorminus="16.8" errorplus="16.8">647.3</period>
-			<semimajoraxis>1.4</semimajoraxis>
-			<eccentricity errorminus="0.1" errorplus="0.1">0.3</eccentricity>
-			<periastron errorminus="18.2" errorplus="18.2">162.0</periastron>
-			<periastrontime errorminus="31.0" errorplus="31.0">2453969.9</periastrontime>
+			<mass type="Msini">4.00000</mass>
+			<period errorminus="16.80000000" errorplus="16.80000000">647.30000000</period>
+			<semimajoraxis>1.400000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.300000</eccentricity>
+			<periastron errorminus="18.2000" errorplus="18.2000">162.0000</periastron>
+			<periastrontime errorminus="31.000000" errorplus="31.000000">2453969.900000</periastrontime>
+			<maximumrvtime errorminus="31.000000" errorplus="31.000000">2453969.900000</maximumrvtime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The host star is a K2 giant.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

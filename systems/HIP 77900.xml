@@ -1,0 +1,18 @@
+<system>
+	<name>HIP 77900</name>
+	<declination>-27 20 18</declination>
+	<star>
+		<name>HIP 77900</name>
+		<temperature errorminus="1550.0" errorplus="1200.0">13700.0</temperature>
+		<spectraltype>B6</spectraltype>
+		<planet>
+			<name>HIP 77900 b</name>
+			<mass errorminus="3.0" errorplus="7.0">20.0</mass>
+			<semimajoraxis errorminus="300.0" errorplus="300.0">3200.0</semimajoraxis>
+			<temperature>2400.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

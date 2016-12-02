@@ -2,22 +2,29 @@
 	<name>Kepler-955</name>
 	<rightascension>19 13 53</rightascension>
 	<declination>+40 16 11</declination>
+	<distance errorminus="35.66" errorplus="53.09">637.00</distance>
 	<star>
 		<name>Kepler-955</name>
 		<mass errorminus="0.04" errorplus="0.04">0.89</mass>
 		<radius errorminus="0.04" errorplus="0.07">0.84</radius>
-		<temperature errorminus="89.9" errorplus="73.4">5350.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.15">0.02</metallicity>
+		<magV>14.625</magV>
+		<magJ errorminus="0.021" errorplus="0.021">13.269</magJ>
+		<magH errorminus="0.021" errorplus="0.021">12.854</magH>
+		<magK errorminus="0.027" errorplus="0.027">12.807</magK>
+		<temperature errorminus="89.94" errorplus="73.41">5350.00</temperature>
+		<age errorminus="2.690" errorplus="6.250">4.370</age>
+		<metallicity errorminus="0.163" errorplus="0.149">0.020</metallicity>
 		<planet>
 			<name>Kepler-955 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.024">0.279</radius>
-			<period errorminus="0.000016620" errorplus="0.000016620">14.532441720</period>
+			<period errorminus="0.00001662" errorplus="0.00001662">14.53244172</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000974" errorplus="0.000974" unit="JD">2454973.724798</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

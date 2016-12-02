@@ -1,0 +1,58 @@
+<system>
+	<name>ksi Aql</name>
+	<name>xi Aql</name>
+	<rightascension>19 54 14</rightascension>
+	<declination>+08 27 41</declination>
+	<distance errorminus="4.23" errorplus="3.73">62.66</distance>
+	<star>
+		<name>ksi Aql</name>
+		<name>Libertas</name>
+		<name>59 Aql</name>
+		<name>HD 188310</name>
+		<name>xi Aql</name>
+		<name>Xi Aquiliae</name>
+		<name>ξ Aql</name>
+		<name>ξ Aquilae</name>
+		<name>59 Aquilae</name>
+		<name>HR 7595</name>
+		<name>HIP 97938</name>
+		<name>TYC 1058-3400-1</name>
+		<name>SAO 125210</name>
+		<name>BD+08 4261</name>
+		<name>2MASS J19541489+0827414</name>
+		<mass>2.20</mass>
+		<radius>12.00</radius>
+		<magV>4.72</magV>
+		<magB>5.730</magB>
+		<magJ errorminus="0.220" errorplus="0.220">2.852</magJ>
+		<magH errorminus="0.174" errorplus="0.174">2.367</magH>
+		<magK errorminus="0.220" errorplus="0.220">2.171</magK>
+		<temperature errorminus="30.00" errorplus="30.00">4780.00</temperature>
+		<metallicity errorminus="0.039" errorplus="0.039">-0.205</metallicity>
+		<spectraltype>G9 III</spectraltype>
+		<planet>
+			<name>xi Aql b</name>
+			<name>Xi Aquilae b</name>
+			<name>ksi Aql b</name>
+			<name>ξ Aql b</name>
+			<name>ξ Aquilae b</name>
+			<name>59 Aql b</name>
+			<name>59 Aquilae b</name>
+			<name>HR 7595 b</name>
+			<name>HD 188310 b</name>
+			<name>HIP 97938 b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="0.2" errorplus="0.2" type="Msini">2.80000</mass>
+			<period errorminus="0.25000000" errorplus="0.25000000">136.75000000</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.02">0.680000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="1.400000" errorplus="1.400000">2453001.700000</periastrontime>
+			<maximumrvtime errorminus="1.400000" errorplus="1.400000">2453001.700000</maximumrvtime>
+			<description>xi Aql is a giant star in the constellation of Aquila.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2007</discoveryyear>
+		</planet>
+	</star>
+</system>

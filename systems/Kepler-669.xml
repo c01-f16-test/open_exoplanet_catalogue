@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-669</name>
-	<rightascension>19 27 45</rightascension>
+	<rightascension>19 27 44</rightascension>
 	<declination>+49 15 14</declination>
+	<distance errorminus="208.21" errorplus="463.31">1778.00</distance>
 	<star>
 		<name>Kepler-669</name>
 		<mass errorminus="0.07" errorplus="0.10">1.15</mass>
 		<radius errorminus="0.13" errorplus="0.32">1.20</radius>
-		<temperature errorminus="109.2" errorplus="97.8">6038.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.15">0.14</metallicity>
+		<magV>15.506</magV>
+		<magJ errorminus="0.029" errorplus="0.029">14.380</magJ>
+		<magH errorminus="0.040" errorplus="0.040">14.083</magH>
+		<magK errorminus="0.086" errorplus="0.086">14.198</magK>
+		<temperature errorminus="109.18" errorplus="97.84">6038.00</temperature>
+		<age errorminus="1.550" errorplus="1.300">3.160</age>
+		<metallicity errorminus="0.143" errorplus="0.147">0.140</metallicity>
 		<planet>
 			<name>Kepler-669 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.049" errorplus="0.114">0.431</radius>
-			<period errorminus="0.000003100" errorplus="0.000003100">4.125546870</period>
+			<period errorminus="0.00000310" errorplus="0.00000310">4.12554687</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000618" errorplus="0.000618" unit="JD">2455002.751997</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

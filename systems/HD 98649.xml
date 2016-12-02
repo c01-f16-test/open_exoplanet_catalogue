@@ -1,34 +1,36 @@
 <system>
 	<name>HD 98649</name>
-	<rightascension>11 20 52</rightascension>
+	<rightascension>11 20 51</rightascension>
 	<declination>-23 13 02</declination>
-	<distance>40.3</distance>
+	<distance errorminus="1.91" errorplus="1.75">42.77</distance>
 	<star>
 		<name>HD 98649</name>
-		<mass>1.00</mass>
-		<radius>1.0</radius>
-		<magV>8.03</magV>
-		<magB errorminus="0.017" errorplus="0.017">8.646</magB>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<radius>1.00</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.991</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.647</magB>
 		<magR>7.75</magR>
 		<magI errorminus="0.04" errorplus="0.04">8.26</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.811</magJ>
 		<magH errorminus="0.042" errorplus="0.042">6.493</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.419</magK>
-		<temperature>5759</temperature>
-		<age>2.3</age>
-		<metallicity>0.02</metallicity>
-		<spectraltype>G4V</spectraltype>
+		<temperature errorminus="35.00" errorplus="35.00">5759.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">2.300</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.020</metallicity>
+		<spectraltype>G4 V</spectraltype>
 		<planet>
 			<name>HD 98649 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.8</mass>
-			<period>4951</period>
-			<semimajoraxis>5.6</semimajoraxis>
-			<eccentricity>0.85</eccentricity>
-			<periastron>248</periastron>
+			<mass errorminus="0.50000" errorplus="0.50000" type="Msini">6.80000</mass>
+			<period errorminus="465.00000000" errorplus="607.00000000">4951.00000000</period>
+			<semimajoraxis errorminus="0.400000" errorplus="0.400000">5.600000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.850000</eccentricity>
+			<periastron errorminus="9.0000" errorplus="9.0000">248.0000</periastron>
+			<periastrontime errorminus="22.000000" errorplus="22.000000">2450271.000000</periastrontime>
+			<maximumrvtime errorminus="22.000000" errorplus="22.000000">2450271.000000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -10,11 +10,13 @@
 		<name>KOI-864</name>
 		<name>KIC 6849310</name>
 		<mass errorminus="0.0900" errorplus="0.0900">0.9100</mass>
-		<radius errorminus=".338" errorplus="0.338">0.803</radius>
+		<radius errorminus="0.34" errorplus="0.34">0.80</radius>
+		<magV>15.604</magV>
 		<magJ errorminus="0.029" errorplus="0.029">14.306</magJ>
-		<magH errorminus="0.04" errorplus="0.04">13.85</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.73</magK>
-		<temperature errorminus="200" errorplus="200">5554</temperature>
+		<magH errorminus="0.038" errorplus="0.038">13.852</magH>
+		<magK errorminus="0.047" errorplus="0.047">13.730</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5554.00</temperature>
+		<metallicity>-0.191</metallicity>
 		<planet>
 			<name>Kepler-244 b</name>
 			<name>KOI-864 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6849310 b</name>
 			<name>KIC 6849310.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01458" errorplus="0.10571">0.25152</radius>
-			<period errorminus=".000008" errorplus="0.000008">4.311792</period>
+			<radius errorminus="0.103" errorplus="0.103">0.246</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">4.31179200</period>
+			<semimajoraxis>0.050000</semimajoraxis>
 			<description>Kepler-244 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-244 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0010000" errorplus="0.0010000">2455006.5756800</transittime>
+			<transittime errorminus=".001000" errorplus="0.001000" unit="BJD">2455006.575680</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6849310 d</name>
 			<name>KIC 6849310.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.08840" errorplus="0.08840">0.21051</radius>
-			<period errorminus=".000130" errorplus="0.000130">20.050401</period>
+			<radius errorminus="0.087" errorplus="0.087">0.206</radius>
+			<period errorminus="0.00013000" errorplus="0.00013000">20.05040100</period>
+			<semimajoraxis>0.140000</semimajoraxis>
 			<description>Kepler-244 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-244 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037700" errorplus="0.0037700">2455021.0871800</transittime>
+			<transittime errorminus=".003770" errorplus="0.003770" unit="BJD">2455021.087180</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 6849310 c</name>
 			<name>KIC 6849310.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.07928" errorplus="0.07928">0.18682</radius>
-			<period errorminus=".000046" errorplus="0.000046">9.767292</period>
+			<radius errorminus="0.078" errorplus="0.078">0.183</radius>
+			<period errorminus="0.00004600" errorplus="0.00004600">9.76729200</period>
+			<semimajoraxis>0.087000</semimajoraxis>
 			<description>Kepler-244 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-244 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0022900" errorplus="0.0022900">2455019.5790300</transittime>
+			<transittime errorminus=".002290" errorplus="0.002290" unit="BJD">2455019.579030</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

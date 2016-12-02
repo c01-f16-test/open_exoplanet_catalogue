@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1187</name>
 	<rightascension>19 07 34</rightascension>
-	<declination>+38 19 07</declination>
+	<declination>+38 19 06</declination>
+	<distance errorminus="117.21" errorplus="198.53">1029.00</distance>
 	<star>
 		<name>Kepler-1187</name>
 		<mass errorminus="0.07" errorplus="0.09">1.06</mass>
 		<radius errorminus="0.12" errorplus="0.21">1.09</radius>
-		<temperature errorminus="129.1" errorplus="182.7">5975.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.01</metallicity>
+		<magV>14.562</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.507</magJ>
+		<magH errorminus="0.028" errorplus="0.028">13.155</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.151</magK>
+		<temperature errorminus="129.11" errorplus="182.70">5975.00</temperature>
+		<age errorminus="1.660" errorplus="2.180">3.390</age>
+		<metallicity errorminus="0.171" errorplus="0.147">-0.010</metallicity>
 		<planet>
 			<name>Kepler-1187 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.025" errorplus="0.045">0.233</radius>
-			<period errorminus="0.000060020" errorplus="0.000060020">18.870640680</period>
+			<period errorminus="0.00006002" errorplus="0.00006002">18.87064068</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002570" errorplus="0.002570" unit="JD">2454976.955210</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

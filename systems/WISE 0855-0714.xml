@@ -1,0 +1,16 @@
+<system>
+	<name>WISE 0855-0714</name>
+	<declination>-07 14 43</declination>
+	<star>
+		<name>WISE 0855-0714</name>
+		<age errorminus="7.0" errorplus="2.0">3.0</age>
+		<planet>
+			<name>WISE 0855-0714</name>
+			<mass errorminus="4.0" errorplus="4.0" type="Spectrum">6.0</mass>
+			<temperature>250.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2014</discoveryyear>
+		</planet>
+	</star>
+</system>

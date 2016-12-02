@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1358</name>
-	<rightascension>19 04 41</rightascension>
+	<rightascension>19 04 40</rightascension>
 	<declination>+43 00 32</declination>
+	<distance errorminus="37.43" errorplus="33.70">558.00</distance>
 	<star>
 		<name>Kepler-1358</name>
 		<mass errorminus="0.05" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.79</radius>
-		<temperature errorminus="55.4" errorplus="58.3">5181.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.08</metallicity>
+		<magV>14.572</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.220</magJ>
+		<magH errorminus="0.031" errorplus="0.031">12.761</magH>
+		<magK errorminus="0.030" errorplus="0.030">12.656</magK>
+		<temperature errorminus="55.42" errorplus="58.32">5181.00</temperature>
+		<age errorminus="3.150" errorplus="6.380">5.130</age>
+		<metallicity errorminus="0.179" errorplus="0.153">-0.080</metallicity>
 		<planet>
 			<name>Kepler-1358 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.006">0.100</radius>
-			<period errorminus="0.000029000" errorplus="0.000029000">7.063173410</period>
+			<period errorminus="0.00002900" errorplus="0.00002900">7.06317341</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003710" errorplus="0.003710" unit="JD">2454965.530770</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

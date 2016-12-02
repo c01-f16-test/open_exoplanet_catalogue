@@ -1,0 +1,25 @@
+<system>
+	<name>HD 134113</name>
+	<declination>+08 52 47</declination>
+	<star>
+		<name>HD 134113</name>
+		<mass errorminus="0.01" errorplus="0.01">0.81</mass>
+		<magV>8.26</magV>
+		<temperature errorminus="22.0" errorplus="22.0">5782.0</temperature>
+		<metallicity errorminus="0.02" errorplus="0.02">-0.74</metallicity>
+		<spectraltype>F9V</spectraltype>
+		<planet>
+			<name>HD 134113 b</name>
+			<mass errorminus="3.0" errorplus="3.0" type="Radial Velocity">47.0</mass>
+			<period errorminus="0.004" errorplus="0.004">201.68</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.638</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.0891</eccentricity>
+			<periastron errorminus="0.2" errorplus="0.2">163.0</periastron>
+			<periastrontime errorminus="0.05" errorplus="0.05">2456808.54</periastrontime>
+			<maximumrvtime errorminus="0.05" errorplus="0.05">2456808.54</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

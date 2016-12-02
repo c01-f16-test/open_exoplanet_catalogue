@@ -9,12 +9,14 @@
 		<name>Kepler-313</name>
 		<name>KOI-1647</name>
 		<name>KIC 11153121</name>
-		<mass errorminus="0.1200" errorplus="0.1200">0.9600</mass>
-		<radius errorminus=".162" errorplus="0.162">1.536</radius>
+		<mass errorminus="0.1200" errorplus="0.1200">0.90</mass>
+		<radius errorminus="0.16" errorplus="0.16">1.54</radius>
+		<magV>14.167</magV>
 		<magJ errorminus="0.023" errorplus="0.023">12.868</magJ>
 		<magH errorminus="0.016" errorplus="0.016">12.551</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.52</magK>
-		<temperature errorminus="100" errorplus="100">5727</temperature>
+		<magK errorminus="0.032" errorplus="0.032">12.517</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5727.00</temperature>
+		<metallicity>-0.112</metallicity>
 		<planet>
 			<name>Kepler-313 b</name>
 			<name>KOI-1647 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11153121 b</name>
 			<name>KIC 11153121.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02825" errorplus="0.02825">0.23056</radius>
-			<period errorminus=".000114" errorplus="0.000114">14.970418</period>
+			<radius errorminus="0.028" errorplus="0.028">0.226</radius>
+			<period errorminus="0.00011400" errorplus="0.00011400">14.97041800</period>
+			<semimajoraxis>0.125000</semimajoraxis>
 			<description>Kepler-313 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-313 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0042900" errorplus="0.0042900">2454967.5006000</transittime>
+			<transittime errorminus=".004290" errorplus="0.004290" unit="BJD">2454967.500600</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11153121 c</name>
 			<name>KIC 11153121.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03827" errorplus="0.03827">0.23420</radius>
-			<period errorminus=".000819" errorplus="0.000819">32.273273</period>
+			<radius errorminus="0.037" errorplus="0.037">0.229</radius>
+			<period errorminus="0.00081900" errorplus="0.00081900">32.27327300</period>
+			<semimajoraxis>0.208000</semimajoraxis>
 			<description>Kepler-313 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-313 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0136700" errorplus="0.0136700">2454982.1033100</transittime>
+			<transittime errorminus=".013670" errorplus="0.013670" unit="BJD">2454982.103310</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

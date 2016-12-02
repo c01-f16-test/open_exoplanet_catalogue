@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-779</name>
-	<rightascension>19 02 31</rightascension>
+	<rightascension>19 02 30</rightascension>
 	<declination>+44 18 39</declination>
+	<distance errorminus="16.66" errorplus="18.09">224.00</distance>
 	<star>
 		<name>Kepler-779</name>
 		<mass errorminus="0.03" errorplus="0.03">0.46</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.44</radius>
-		<temperature errorminus="34.0" errorplus="35.6">3804.0</temperature>
-		<metallicity errorminus="0.09" errorplus="0.08">-0.43</metallicity>
+		<magV>15.649</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.441</magJ>
+		<magH errorminus="0.037" errorplus="0.037">12.872</magH>
+		<magK errorminus="0.028" errorplus="0.028">12.608</magK>
+		<temperature errorminus="34.03" errorplus="35.65">3804.00</temperature>
+		<age errorminus="2.330" errorplus="5.810">3.890</age>
+		<metallicity errorminus="0.086" errorplus="0.082">-0.430</metallicity>
 		<planet>
 			<name>Kepler-779 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.006" errorplus="0.006">0.082</radius>
-			<period errorminus="0.000029210" errorplus="0.000029210">7.097142230</period>
+			<period errorminus="0.00002921" errorplus="0.00002921">7.09714223</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003110" errorplus="0.003110" unit="JD">2454969.343440</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

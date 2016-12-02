@@ -1,7 +1,7 @@
 <system>
 	<name>HD 7924</name>
-	<rightascension>01 21 59.11491</rightascension>
-	<declination>+76 42 37.0335</declination>
+	<rightascension>01 21 59</rightascension>
+	<declination>+76 42 37</declination>
 	<distance errorminus="0.13" errorplus="0.13">16.82</distance>
 	<star>
 		<name>HD 7924</name>
@@ -11,16 +11,16 @@
 		<name>2MASS J01215911+76542372</name>
 		<name>PPM 4675</name>
 		<name>TYC 4494-1346-1</name>
-		<mass errorminus="0.036" errorplus="0.022">0.832</mass>
-		<radius errorminus="0.0258" errorplus="0.0258">0.7821</radius>
+		<mass errorminus="0.04" errorplus="0.02">0.83</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
 		<magV>7.185</magV>
-		<magB>8.005</magB>
-		<magJ errorminus="0.026" errorplus="0.026">5.618</magJ>
+		<magB>8.011</magB>
+		<magJ errorminus="0.025" errorplus="0.025">5.618</magJ>
 		<magH errorminus="0.033" errorplus="0.033">5.231</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.159</magK>
-		<temperature errorminus="83" errorplus="83">5075</temperature>
-		<metallicity errorminus="0.03" errorplus="0.03">-0.15</metallicity>
-		<spectraltype>K0V</spectraltype>
+		<temperature errorminus="83.00" errorplus="83.00">5075.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.150</metallicity>
+		<spectraltype>K0.5 V</spectraltype>
 		<planet>
 			<name>HD 7924 b</name>
 			<name>BD+75 58 b</name>
@@ -30,15 +30,18 @@
 			<name>PPM 4675 b</name>
 			<name>TYC 4494-1346-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0016" errorplus="0.0016">0.029</mass>
-			<period errorminus="0.00025" errorplus="0.00025">5.39792</period>
-			<semimajoraxis errorminus="0.00069" errorplus="0.00067">0.05664</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
-			<periastrontime errorminus="0.110" errorplus="0.086" unit="BJD">2455586.38</periastrontime>
-			<temperature errorminus="6.5" errorplus="6.6">825.9</temperature>
+			<mass errorminus="0.00160" errorplus="0.00164" type="Msini">0.02731</mass>
+			<radius>1.05</radius>
+			<period errorminus="0.00025000" errorplus="0.00025000">5.39792000</period>
+			<semimajoraxis errorminus="0.000690" errorplus="0.000670">0.056640</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.056000">0.058000</eccentricity>
+			<periastron errorminus="50.0000" errorplus="71.0000">332.0000</periastron>
+			<periastrontime errorminus="0.110" errorplus="0.086" unit="BJD">2454096.65</periastrontime>
+			<maximumrvtime>2454096.65</maximumrvtime>
+			<temperature errorminus="7" errorplus="7">826</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
-			<discoveryyear>2009</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 7924 c</name>
@@ -49,15 +52,16 @@
 			<name>PPM 4675 c</name>
 			<name>TYC 4494-1346-1 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0022" errorplus="0.0023">0.0247</mass>
-			<period errorminus="0.0033" errorplus="0.0032">15.299</period>
-			<semimajoraxis errorminus="0.0014" errorplus="0.0013">0.1134</semimajoraxis>
-			<eccentricity>0.10</eccentricity>
+			<mass errorminus="0.00223" errorplus="0.00230" type="Msini">0.02473</mass>
+			<period errorminus="0.00330000" errorplus="0.00320000">15.29900000</period>
+			<semimajoraxis errorminus="0.001400" errorplus="0.001300">0.113400</semimajoraxis>
+			<eccentricity errorminus="0.069000" errorplus="0.096000">0.098000</eccentricity>
+			<periastron errorminus="60.0000" errorplus="52.0000">27.0000</periastron>
 			<periastrontime errorminus="0.47" errorplus="0.40" unit="BJD">2455586.29</periastrontime>
-			<temperature errorminus="4.6" errorplus="4.7">583.6</temperature>
+			<temperature errorminus="5" errorplus="5">584</temperature>
 			<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<planet>
@@ -69,15 +73,16 @@
 			<name>PPM 4675 d</name>
 			<name>TYC 4494-1346-1 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0025" errorplus="0.0025">0.0203</mass>
-			<period errorminus="0.017" errorplus="0.015">24.451</period>
-			<semimajoraxis errorminus="0.0019" errorplus="0.0018">0.1551</semimajoraxis>
-			<eccentricity>0.20</eccentricity>
+			<mass errorminus="0.00245" errorplus="0.00249" type="Msini">0.02026</mass>
+			<period errorminus="0.01700000" errorplus="0.01500000">24.45100000</period>
+			<semimajoraxis errorminus="0.001900" errorplus="0.001800">0.155100</semimajoraxis>
+			<eccentricity errorminus="0.120000" errorplus="0.130000">0.210000</eccentricity>
+			<periastron errorminus="97.0000" errorplus="210.0000">119.0000</periastron>
 			<periastrontime errorminus="0.9" errorplus="1.0" unit="BJD">2455579.1</periastrontime>
 			<temperature errorminus="4" errorplus="4">499</temperature>
 			<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

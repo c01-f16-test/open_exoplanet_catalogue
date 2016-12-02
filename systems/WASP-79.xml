@@ -1,19 +1,19 @@
 <system>
 	<name>WASP-79</name>
 	<rightascension>04 25 29</rightascension>
-	<declination>-30 36 02</declination>
-	<distance>240</distance>
+	<declination>-30 36 01</declination>
+	<distance errorminus="50.00" errorplus="50.00">240.00</distance>
 	<star>
 		<name>WASP-79</name>
-		<mass errorminus="0.09" errorplus="0.09">1.56</mass>
-		<radius errorminus="0.08" errorplus="0.08">1.64</radius>
-		<magV>10.1</magV>
+		<mass errorminus="0.09" errorplus="0.12">1.38</mass>
+		<radius errorminus="0.08" errorplus="0.31">1.53</radius>
+		<magV>10.100</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.45</magB>
-		<magJ errorminus="0.022" errorplus="0.022">9.299</magJ>
+		<magJ errorminus="0.021" errorplus="0.021">9.299</magJ>
 		<magH errorminus="0.023" errorplus="0.023">9.123</magH>
 		<magK errorminus="0.023" errorplus="0.023">9.056</magK>
-		<temperature>6600.0</temperature>
-		<metallicity>0.03</metallicity>
+		<temperature errorminus="100.0" errorplus="100.00">6600.00</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.03</metallicity>
 		<spectraltype>F3</spectraltype>
 		<planet>
 			<name>WASP-79 b</name>
@@ -23,19 +23,19 @@
 			<name>SAO 195000 b</name>
 			<name>GSC 7038-834 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.09" errorplus="0.09">0.90</mass>
-			<radius errorminus="0.11" errorplus="0.11">1.70</radius>
-			<period errorminus="0.0000050" errorplus="0.0000050">3.6623817</period>
-			<semimajoraxis>0.0362</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Mass">0.90000</mass>
+			<radius errorminus="0.140" errorplus="0.140">2.090</radius>
+			<period errorminus="0.00000850" errorplus="0.00000850">3.66238660</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.053500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
 			<spinorbitalignment errorminus="8" errorplus="10">-106</spinorbitalignment>
-			<inclination errorminus="0.6" errorplus="0.6">85.4</inclination>
-			<temperature>1958.7</temperature>
+			<inclination errorminus="0.500" errorplus="0.500">83.300</inclination>
+			<temperature errorminus="50" errorplus="50">1900</temperature>
 			<description>WASP-79b is a highly bloated Jupiter-mass exoplanet. It is orbiting an F-type star and was discovered and analyzed using WASP, TRAPPIST and CORALIE data. WASP-79b is about twice as big as Jupiter, but its mass is smaller than that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.002" errorplus="0.002" unit="BJD">2456285.035358</transittime>
+			<transittime errorminus=".001500" errorplus="0.001500" unit="HJD-UTC">2455545.235300</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/06/04</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

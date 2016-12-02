@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1607</name>
 	<rightascension>19 44 14</rightascension>
-	<declination>+42 39 22</declination>
+	<declination>+42 39 21</declination>
+	<distance errorminus="114.62" errorplus="262.00">735.00</distance>
 	<star>
 		<name>Kepler-1607</name>
 		<mass errorminus="0.10" errorplus="0.14">1.14</mass>
 		<radius errorminus="0.18" errorplus="0.43">1.21</radius>
-		<temperature errorminus="199.2" errorplus="118.5">6116.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.05</metallicity>
+		<magV>13.897</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.592</magJ>
+		<magH errorminus="0.020" errorplus="0.020">12.271</magH>
+		<magK errorminus="0.021" errorplus="0.021">12.218</magK>
+		<temperature errorminus="199.25" errorplus="118.51">6116.00</temperature>
+		<age errorminus="1.430" errorplus="1.370">3.160</age>
+		<metallicity errorminus="0.146" errorplus="0.135">0.050</metallicity>
 		<planet>
 			<name>Kepler-1607 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.029">0.082</radius>
-			<period errorminus="0.000210200" errorplus="0.000210200">13.647367600</period>
+			<period errorminus="0.00021020" errorplus="0.00021020">13.64736760</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".014600" errorplus="0.014600" unit="JD">2454965.236200</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

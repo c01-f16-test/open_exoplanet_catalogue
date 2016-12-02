@@ -10,11 +10,12 @@
 		<name>KOI-710</name>
 		<name>KIC 9590976</name>
 		<mass>1.3830</mass>
-		<radius errorminus=".256" errorplus="0.256">1.799</radius>
+		<radius errorminus="0.26" errorplus="0.26">1.80</radius>
+		<magV>13.294</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.319</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.176</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.103</magK>
-		<temperature errorminus="09" errorplus="109">6171</temperature>
+		<temperature errorminus="109.00" errorplus="109.00">6171.00</temperature>
 		<planet>
 			<name>Kepler-217 b</name>
 			<name>KOI-710 b</name>
@@ -22,13 +23,14 @@
 			<name>KIC 9590976 b</name>
 			<name>KIC 9590976.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02916" errorplus="0.02916">0.20322</radius>
-			<period errorminus=".000019" errorplus="0.000019">5.374943</period>
+			<radius errorminus="0.029" errorplus="0.029">0.199</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">5.37494300</period>
+			<semimajoraxis>0.065000</semimajoraxis>
 			<description>Kepler-217 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-217 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0020000" errorplus="0.0020000">2455003.9332400</transittime>
+			<transittime errorminus=".002000" errorplus="0.002000" unit="BJD">2455003.933240</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,25 +40,27 @@
 			<name>KIC 9590976 c</name>
 			<name>KIC 9590976.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02461" errorplus="0.02461">0.16859</radius>
-			<period errorminus=".000053" errorplus="0.000053">8.586004</period>
+			<radius errorminus="0.024" errorplus="0.024">0.165</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">8.58600400</period>
+			<semimajoraxis>0.089000</semimajoraxis>
 			<description>Kepler-217 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-217 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0037400" errorplus="0.0037400">2454970.9609600</transittime>
+			<transittime errorminus=".003740" errorplus="0.003740" unit="BJD">2454970.960960</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-217 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.032">0.118</radius>
-			<period errorminus="0.000022410" errorplus="0.000022410">3.886895250</period>
+			<period errorminus="0.00002241" errorplus="0.00002241">3.88689525</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005050" errorplus="0.005050" unit="JD">2454965.493870</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

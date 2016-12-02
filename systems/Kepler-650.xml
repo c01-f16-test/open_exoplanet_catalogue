@@ -2,22 +2,29 @@
 	<name>Kepler-650</name>
 	<rightascension>19 16 00</rightascension>
 	<declination>+45 09 15</declination>
+	<distance errorminus="122.22" errorplus="138.42">805.00</distance>
 	<star>
 		<name>Kepler-650</name>
 		<mass errorminus="0.05" errorplus="0.08">1.08</mass>
 		<radius errorminus="0.21" errorplus="0.23">1.35</radius>
-		<temperature errorminus="77.6" errorplus="64.9">5849.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.09">0.13</metallicity>
+		<magV>13.684</magV>
+		<magJ errorminus="0.022" errorplus="0.022">12.525</magJ>
+		<magH errorminus="0.025" errorplus="0.025">12.237</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.144</magK>
+		<temperature errorminus="77.61" errorplus="64.94">5849.00</temperature>
+		<age errorminus="1.860" errorplus="1.000">6.460</age>
+		<metallicity errorminus="0.084" errorplus="0.092">0.130</metallicity>
 		<planet>
 			<name>Kepler-650 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.040" errorplus="0.045">0.264</radius>
-			<period errorminus="0.000003310" errorplus="0.000003310">3.032145590</period>
+			<period errorminus="0.00000331" errorplus="0.00000331">3.03214559</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000860" errorplus="0.000860" unit="JD">2455004.734756</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

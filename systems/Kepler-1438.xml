@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1438</name>
-	<rightascension>19 17 10</rightascension>
+	<rightascension>19 17 09</rightascension>
 	<declination>+40 40 54</declination>
+	<distance errorminus="70.22" errorplus="171.03">866.00</distance>
 	<star>
 		<name>Kepler-1438</name>
 		<mass errorminus="0.05" errorplus="0.05">0.97</mass>
 		<radius errorminus="0.07" errorplus="0.19">0.96</radius>
-		<temperature errorminus="67.0" errorplus="56.6">5530.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">0.20</metallicity>
+		<magV>14.869</magV>
+		<magJ>13.513</magJ>
+		<magH errorminus="0.035" errorplus="0.035">13.242</magH>
+		<magK errorminus="0.041" errorplus="0.041">13.136</magK>
+		<temperature errorminus="67.02" errorplus="56.64">5530.00</temperature>
+		<age errorminus="3.620" errorplus="4.840">5.370</age>
+		<metallicity errorminus="0.175" errorplus="0.134">0.200</metallicity>
 		<planet>
 			<name>Kepler-1438 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.009" errorplus="0.017">0.084</radius>
-			<period errorminus="0.000017020" errorplus="0.000017020">2.319420090</period>
+			<period errorminus="0.00001702" errorplus="0.00001702">2.31942009</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005870" errorplus="0.005870" unit="JD">2454964.935830</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

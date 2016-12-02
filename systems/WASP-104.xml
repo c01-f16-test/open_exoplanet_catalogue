@@ -2,37 +2,38 @@
 	<name>WASP-104</name>
 	<rightascension>10 42 24</rightascension>
 	<declination>+07 26 06</declination>
-	<distance errorminus="10" errorplus="10">143</distance>
+	<distance errorminus="10.00" errorplus="10.00">143.00</distance>
 	<star>
 		<name>WASP-104</name>
 		<name>TYC 260-1073-1</name>
-		<mass errorminus="0.049" errorplus="0.049">1.076</mass>
-		<radius errorminus="0.027" errorplus="0.027">0.963</radius>
-		<magV errorminus="0.10" errorplus="0.10">11.12</magV>
+		<mass errorminus="0.05" errorplus="0.05">1.08</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.96</radius>
+		<magV errorminus="0.100" errorplus="0.100">11.120</magV>
 		<magB>12.3</magB>
 		<magR>11.3</magR>
-		<magJ errorminus="0.024" errorplus="0.024">10.36</magJ>
-		<magH errorminus="0.026" errorplus="0.026">9.979</magH>
-		<magK errorminus="0.019" errorplus="0.019">9.882</magK>
-		<temperature errorminus="127" errorplus="127">5475</temperature>
-		<age errorminus="2" errorplus="2">3</age>
-		<metallicity errorminus="0.09" errorplus="0.09">0.32</metallicity>
+		<magJ errorminus="0.021" errorplus="0.021">10.360</magJ>
+		<magH errorminus="0.024" errorplus="0.024">9.979</magH>
+		<magK errorminus="0.017" errorplus="0.017">9.882</magK>
+		<temperature errorminus="127.00" errorplus="127.00">5475.00</temperature>
+		<age errorminus="2.000" errorplus="2.000">3.000</age>
+		<metallicity errorminus="0.090" errorplus="0.090">0.320</metallicity>
 		<spectraltype>G8</spectraltype>
 		<planet>
 			<name>WASP-104 b</name>
 			<name>TYC 260-1073-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.047" errorplus="0.047">1.272</mass>
+			<mass errorminus="0.04700" errorplus="0.04700" type="Mass">1.27200</mass>
 			<radius errorminus="0.037" errorplus="0.037">1.137</radius>
-			<period errorminus="0.0000036" errorplus="0.0000018">1.7554137</period>
-			<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.02918</semimajoraxis>
-			<inclination errorminus="0.25" errorplus="0.25">83.63</inclination>
+			<period errorminus="0.00000360" errorplus="0.00000180">1.75541370</period>
+			<semimajoraxis errorminus="0.000450" errorplus="0.000450">0.029180</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.06">0.000000</eccentricity>
+			<inclination errorminus="0.250" errorplus="0.250">83.630</inclination>
 			<temperature errorminus="39" errorplus="39">1516</temperature>
 			<description>The transiting exoplanet WASP-104 b is just slightly larger than Jupiter. It was discovered by the WASP survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00012" errorplus="0.00012">2456406.11126</transittime>
+			<transittime errorminus=".000120" errorplus="0.000120" unit="HJD-UTC">2456406.111260</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/08/06</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

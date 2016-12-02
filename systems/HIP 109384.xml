@@ -1,0 +1,31 @@
+<system>
+	<name>HIP 109384</name>
+	<rightascension>22 09 37</rightascension>
+	<declination>+71 18 51</declination>
+	<distance errorminus="2.70" errorplus="2.70">56.20</distance>
+	<star>
+		<name>HIP 109384</name>
+		<mass errorminus="0.06" errorplus="0.06">0.78</mass>
+		<magV errorminus="0.020" errorplus="0.020">9.630</magV>
+		<magB errorminus="0.034" errorplus="0.034">10.418</magB>
+		<magJ errorminus="0.020" errorplus="0.020">8.157</magJ>
+		<magH errorminus="0.047" errorplus="0.047">7.787</magH>
+		<magK errorminus="0.016" errorplus="0.016">7.652</magK>
+		<temperature errorminus="45.00" errorplus="45.00">5180.00</temperature>
+		<metallicity errorminus="0.030" errorplus="0.030">-0.260</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HIP 109384 b</name>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Msini">1.56000</mass>
+			<period errorminus="0.32000000" errorplus="0.32000000">499.48000000</period>
+			<semimajoraxis errorminus="0.029000" errorplus="0.029000">1.134000</semimajoraxis>
+			<eccentricity errorminus="0.003000" errorplus="0.003000">0.549000</eccentricity>
+			<periastron errorminus="0.3700" errorplus="0.3700">104.4900</periastron>
+			<periastrontime errorminus="0.340000" errorplus="0.340000">2456337.020000</periastrontime>
+			<maximumrvtime errorminus="0.340000" errorplus="0.340000">2456337.020000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

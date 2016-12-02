@@ -1,8 +1,8 @@
 <system>
 	<name>HD 19994</name>
 	<rightascension>03 12 46</rightascension>
-	<declination>-01 11 45</declination>
-	<distance>22.38</distance>
+	<declination>-01 11 46</declination>
+	<distance errorminus="0.38" errorplus="0.37">22.38</distance>
 	<binary>
 		<semimajoraxis>120</semimajoraxis>
 		<eccentricity>0.26</eccentricity>
@@ -32,7 +32,7 @@
 				<eccentricity>0.3</eccentricity>
 				<description>The star system 94 Ceti (also known ad HD 19994) is an eccentric binary approximately 73 light years away from Earth. A planet orbiting the primary star was discovered in 2000 by the European Southern Observatory.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>2000</discoveryyear>
 			</planet>
 		</star>
@@ -45,4 +45,70 @@
 			<spectraltype>M3V</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 19994 A</name>
+		<name>94 Ceti A</name>
+		<name>Gliese 128 A</name>
+		<name>GJ 128 A</name>
+		<mass>1.34</mass>
+		<radius>1.93</radius>
+		<magV>5.07</magV>
+		<magB>5.63</magB>
+		<magK errorminus="0.24" errorplus="0.24">3.75</magK>
+		<metallicity>0.25</metallicity>
+		<spectraltype>F8 V</spectraltype>
+		<planet>
+			<name>HD 19994 A b</name>
+			<name>94 Ceti A b</name>
+			<name>Gliese 128 A b</name>
+			<name>GJ 128 A b</name>
+			<name>HD 19994 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>1.68</mass>
+			<period>535.7</period>
+			<semimajoraxis>1.42</semimajoraxis>
+			<eccentricity>0.3</eccentricity>
+			<description>The star system 94 Ceti (also known ad HD 19994) is an eccentric binary approximately 73 light years away from Earth. A planet orbiting the primary star was discovered in 2000 by the European Southern Observatory.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2000</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 19994 B</name>
+		<name>94 Ceti B</name>
+		<name>Gliese 128 B</name>
+		<name>GJ 128 B</name>
+		<mass>0.35</mass>
+		<spectraltype>M3V</spectraltype>
+	</star>
+	<star>
+		<name>HD 19994</name>
+		<name>94 Cet</name>
+		<mass>1.37</mass>
+		<radius errorminus="0.067" errorplus="0.067">1.93</radius>
+		<magV>5.060</magV>
+		<magB>5.630</magB>
+		<magJ errorminus="0.280" errorplus="0.280">4.174</magJ>
+		<magH errorminus="0.238" errorplus="0.238">3.768</magH>
+		<magK errorminus="0.236" errorplus="0.236">3.748</magK>
+		<temperature>6190.00</temperature>
+		<age>8.91</age>
+		<metallicity>0.240</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>HD 19994 b</name>
+			<mass errorminus="0.12000" errorplus="0.12000" type="Msini">1.37000</mass>
+			<period errorminus="1.70000000" errorplus="1.70000000">466.20000000</period>
+			<semimajoraxis errorminus="0.016000" errorplus="0.016000">1.305000</semimajoraxis>
+			<eccentricity errorminus="0.062000" errorplus="0.062000">0.063000</eccentricity>
+			<periastron errorminus="55.0000" errorplus="55.0000">346.0000</periastron>
+			<periastrontime errorminus="72.000000" errorplus="72.000000">2453757.000000</periastrontime>
+			<maximumrvtime errorminus="72.000000" errorplus="72.000000">2453757.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2003</discoveryyear>
+		</planet>
+	</star>
 </system>

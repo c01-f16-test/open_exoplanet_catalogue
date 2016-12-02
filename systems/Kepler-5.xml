@@ -1,20 +1,21 @@
 <system>
 	<name>Kepler-5</name>
-	<rightascension>19 57 38</rightascension>
+	<rightascension>19 57 37</rightascension>
 	<declination>+44 02 06</declination>
 	<star>
 		<name>Kepler-5</name>
 		<name>KOI-18</name>
 		<name>KIC 8191672</name>
-		<mass errorminus="0.059" errorplus="0.040">1.374</mass>
-		<radius errorminus="0.062" errorplus="0.043">1.793</radius>
+		<mass errorminus="0.06" errorplus="0.04">1.37</mass>
+		<radius errorminus="0.06" errorplus="0.04">1.79</radius>
+		<magV>13.369</magV>
 		<magB>14.1</magB>
 		<magR>12.7</magR>
 		<magJ errorminus="0.029" errorplus="0.029">12.115</magJ>
-		<magH errorminus="0.03" errorplus="0.03">11.86</magH>
+		<magH errorminus="0.032" errorplus="0.032">11.863</magH>
 		<magK errorminus="0.025" errorplus="0.025">11.769</magK>
-		<temperature errorminus="60" errorplus="60">6297.0</temperature>
-		<metallicity>0.04</metallicity>
+		<temperature errorminus="60.00" errorplus="60.00">6297.00</temperature>
+		<metallicity errorminus="0.060" errorplus="0.060">0.040</metallicity>
 		<planet>
 			<name>Kepler-5 b</name>
 			<name>2MASS J19573768+4402061 b</name>
@@ -22,18 +23,18 @@
 			<name>KOI-18.01</name>
 			<name>KOI-18 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.059" errorplus="0.056">2.114</mass>
-			<radius errorminus="0.052" errorplus="0.041">1.431</radius>
-			<period errorminus="0.000032" errorplus="0.000032">3.548460</period>
-			<semimajoraxis>0.05064</semimajoraxis>
+			<mass errorminus="0.08600" errorplus="0.06700" type="Mass">2.11100</mass>
+			<radius errorminus="0.051" errorplus="0.036">1.426</radius>
+			<period errorminus="0.00000070" errorplus="0.00000070">3.54846570</period>
+			<semimajoraxis errorminus="0.002100" errorplus="0.001500">0.053800</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.5" errorplus="0.5">86.3</inclination>
-			<temperature>1652.1</temperature>
+			<inclination errorminus="0.320" errorplus="0.440">89.140</inclination>
+			<temperature errorminus="20" errorplus="20">1750</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00021" errorplus="0.00021" unit="HJD">2454955.90122</transittime>
+			<transittime errorminus=".000020" errorplus="0.000020" unit="BJD">2454955.901440</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>10/04/23</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

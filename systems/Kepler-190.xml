@@ -9,12 +9,14 @@
 		<name>Kepler-190</name>
 		<name>KOI-579</name>
 		<name>KIC 8616637</name>
-		<mass errorminus="0.0480" errorplus="0.0480">0.8020</mass>
-		<radius errorminus=".049" errorplus="0.049">0.795</radius>
+		<mass errorminus="0.0480" errorplus="0.0480">0.84</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
+		<magV>14.137</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.728</magJ>
 		<magH errorminus="0.019" errorplus="0.019">12.279</magH>
-		<magK errorminus="0.016" errorplus="0.016">12.231</magK>
-		<temperature errorminus="100" errorplus="100">5106</temperature>
+		<magK errorminus="0.015" errorplus="0.015">12.231</magK>
+		<temperature errorminus="100.00" errorplus="100.00">5106.00</temperature>
+		<metallicity>0.009</metallicity>
 		<planet>
 			<name>Kepler-190 b</name>
 			<name>KOI-579 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 8616637 b</name>
 			<name>KIC 8616637.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01002" errorplus="0.01002">0.14216</radius>
-			<period errorminus=".000003" errorplus="0.000003">2.019999</period>
+			<radius errorminus="0.010" errorplus="0.010">0.139</radius>
+			<period errorminus="0.00000300" errorplus="0.00000300">2.01999900</period>
+			<semimajoraxis>0.030000</semimajoraxis>
 			<description>Kepler-190 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-190 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0008900" errorplus="0.0008900">2455003.0694500</transittime>
+			<transittime errorminus=".000890" errorplus="0.000890" unit="BJD">2455003.069450</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 8616637 c</name>
 			<name>KIC 8616637.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00911" errorplus="0.00911">0.13305</radius>
-			<period errorminus=".000009" errorplus="0.000009">3.763024</period>
+			<radius errorminus="0.009" errorplus="0.009">0.130</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">3.76302400</period>
+			<semimajoraxis>0.045000</semimajoraxis>
 			<description>Kepler-190 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-190 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014100" errorplus="0.0014100">2454965.5948600</transittime>
+			<transittime errorminus=".001410" errorplus="0.001410" unit="BJD">2454965.594860</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-497</name>
-	<rightascension>19 23 04</rightascension>
-	<declination>+38 55 41</declination>
+	<rightascension>19 23 03</rightascension>
+	<declination>+38 55 40</declination>
+	<distance errorminus="123.29" errorplus="282.16">1070.00</distance>
 	<star>
 		<name>Kepler-497</name>
 		<mass errorminus="0.06" errorplus="0.10">1.09</mass>
 		<radius errorminus="0.12" errorplus="0.29">1.11</radius>
-		<temperature errorminus="141.2" errorplus="111.0">5834.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.11">0.24</metallicity>
+		<magV>14.720</magV>
+		<magJ errorminus="0.027" errorplus="0.027">13.600</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.287</magH>
+		<magK errorminus="0.038" errorplus="0.038">13.210</magK>
+		<temperature errorminus="141.15" errorplus="110.98">5834.00</temperature>
+		<age errorminus="1.940" errorplus="1.870">3.550</age>
+		<metallicity errorminus="0.175" errorplus="0.113">0.240</metallicity>
 		<planet>
 			<name>Kepler-497 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.059" errorplus="0.141">0.539</radius>
-			<period errorminus="0.000000910" errorplus="0.000000910">3.573203670</period>
+			<period errorminus="0.00000091" errorplus="0.00000091">3.57320367</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000211" errorplus="0.000211" unit="JD">2454967.934257</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

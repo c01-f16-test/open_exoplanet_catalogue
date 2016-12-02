@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-946</name>
 	<rightascension>20 03 43</rightascension>
-	<declination>+44 01 44</declination>
+	<declination>+44 01 43</declination>
+	<distance errorminus="94.34" errorplus="156.08">918.00</distance>
 	<star>
 		<name>Kepler-946</name>
 		<mass errorminus="0.07" errorplus="0.08">0.94</mass>
 		<radius errorminus="0.09" errorplus="0.15">0.93</radius>
-		<temperature errorminus="144.8" errorplus="263.4">5665.0</temperature>
-		<metallicity errorminus="0.20" errorplus="0.16">-0.09</metallicity>
+		<magV>14.941</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.735</magJ>
+		<magH errorminus="0.027" errorplus="0.027">13.341</magH>
+		<magK errorminus="0.033" errorplus="0.033">13.295</magK>
+		<temperature errorminus="144.77" errorplus="263.42">5665.00</temperature>
+		<age errorminus="2.470" errorplus="4.640">4.170</age>
+		<metallicity errorminus="0.199" errorplus="0.159">-0.090</metallicity>
 		<planet>
 			<name>Kepler-946 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.029">0.172</radius>
-			<period errorminus="0.000055060" errorplus="0.000055060">11.791625720</period>
+			<period errorminus="0.00005506" errorplus="0.00005506">11.79162572</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004030" errorplus="0.004030" unit="JD">2454967.540210</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

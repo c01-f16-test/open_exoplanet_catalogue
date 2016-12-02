@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2011-BLG-265L</name>
+	<rightascension>17 57 47</rightascension>
+	<declination>-27 23 40</declination>
+	<distance errorminus="450.00" errorplus="510.00">4380.00</distance>
+	<star>
+		<name>OGLE 2011-BLG-265L</name>
+		<mass errorminus="0.04" errorplus="0.07">0.21</mass>
+		<planet>
+			<name>OGLE 2011-BLG-265L b</name>
+			<mass errorminus="0.18000" errorplus="0.27000" type="Mass">0.88000</mass>
+			<semimajoraxis errorminus="0.200000" errorplus="0.250000">1.890000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+		</planet>
+	</star>
+</system>

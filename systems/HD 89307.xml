@@ -1,33 +1,37 @@
 <system>
 	<name>HD 89307</name>
 	<rightascension>10 18 21</rightascension>
-	<declination>+12 37 15</declination>
-	<distance>30.9</distance>
+	<declination>+12 37 16</declination>
+	<distance errorminus="0.97" errorplus="0.92">30.88</distance>
 	<star>
 		<name>HD 89307</name>
-		<mass>1.028</mass>
-		<radius>1.05</radius>
-		<magV>7.06</magV>
-		<magB errorminus="0.007" errorplus="0.007">7.590</magB>
+		<mass errorminus="0.04" errorplus="0.04">1.028</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.05</radius>
+		<magV errorminus="0.011" errorplus="0.011">7.009</magV>
+		<magB errorminus="0.017" errorplus="0.017">7.599</magB>
 		<magR>6.7</magR>
 		<magI>6.4</magI>
-		<magJ>5.89</magJ>
-		<magH>5.64</magH>
-		<magK>5.56</magK>
-		<temperature>5950.0</temperature>
-		<metallicity>-0.14</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<magJ errorminus="0.021" errorplus="0.021">5.891</magJ>
+		<magH errorminus="0.021" errorplus="0.021">5.645</magH>
+		<magK errorminus="0.026" errorplus="0.026">5.564</magK>
+		<temperature errorminus="44.0" errorplus="44.0">5950.0</temperature>
+		<age>6.76</age>
+		<metallicity errorminus="0.04" errorplus="0.04">-0.14</metallicity>
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 89307 b</name>
 			<list>Confirmed planets</list>
-			<mass>2</mass>
-			<period>2199</period>
-			<semimajoraxis>3.34</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass errorminus="0.13000" errorplus="0.13000" type="Msini">1.78000</mass>
+			<period errorminus="63.00000000" errorplus="63.00000000">2157.00000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">3.270000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.241000</eccentricity>
+			<periastron errorminus="52.0000" errorplus="52.0000">36.0000</periastron>
+			<periastrontime errorminus="80.000000" errorplus="80.000000">2450228.000000</periastrontime>
+			<maximumrvtime errorminus="80.000000" errorplus="80.000000">2450228.000000</maximumrvtime>
 			<temperature>146.5</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

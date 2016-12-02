@@ -2,30 +2,34 @@
 	<name>HD 102117</name>
 	<rightascension>11 44 50</rightascension>
 	<declination>-58 42 13</declination>
-	<distance>42</distance>
+	<distance errorminus="1.52" errorplus="1.41">42.00</distance>
 	<star>
 		<name>HD 102117</name>
-		<mass>1.03</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.11</mass>
 		<radius>1.27</radius>
-		<magV>7.47</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.20</magB>
+		<magV>7.470</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.198</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.224</magJ>
 		<magH errorminus="0.031" errorplus="0.031">5.949</magH>
-		<magK errorminus="0.02" errorplus="0.02">5.833</magK>
-		<temperature>5672.0</temperature>
-		<metallicity>0.3</metallicity>
-		<spectraltype>G6V</spectraltype>
+		<magK errorminus="0.020" errorplus="0.020">5.833</magK>
+		<temperature errorminus="44.00" errorplus="44.00">5695.00</temperature>
+		<age>6.21</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.295</metallicity>
+		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 102117 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.172</mass>
-			<period>20.67</period>
-			<semimajoraxis>0.1532</semimajoraxis>
-			<eccentricity>0.106</eccentricity>
+			<mass errorminus="0.02000" errorplus="0.02000" type="Msini">0.17200</mass>
+			<period errorminus="0.00640000" errorplus="0.00640000">20.81330000</period>
+			<semimajoraxis errorminus="0.008800" errorplus="0.008800">0.153200</semimajoraxis>
+			<eccentricity errorminus="0.082000" errorplus="0.082000">0.121000</eccentricity>
+			<periastron errorminus="3.0" errorplus="3.0">279.0000</periastron>
+			<periastrontime errorminus="2.600000" errorplus="2.600000">2450942.200000</periastrontime>
+			<maximumrvtime errorminus="2.600000" errorplus="2.600000">2450942.200000</maximumrvtime>
 			<temperature>719.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/11/25</lastupdate>
-			<discoveryyear>2004</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2005</discoveryyear>
 		</planet>
 	</star>
 </system>

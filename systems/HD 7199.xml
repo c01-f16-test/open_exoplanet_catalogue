@@ -2,30 +2,34 @@
 	<name>HD 7199</name>
 	<rightascension>01 10 47</rightascension>
 	<declination>-66 11 17</declination>
-	<distance>36</distance>
+	<distance errorminus="0.91" errorplus="0.87">35.88</distance>
 	<star>
 		<name>HD 7199</name>
 		<mass>0.89</mass>
 		<radius>0.96</radius>
-		<magV>8.06</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.89</magB>
+		<magV errorminus="0.011" errorplus="0.011">8.027</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.892</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.664</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.329</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.229</magK>
-		<temperature>5386.0</temperature>
-		<metallicity>0.28</metallicity>
-		<spectraltype>K0IV/V</spectraltype>
+		<temperature errorminus="45.00" errorplus="45.00">5386.00</temperature>
+		<age errorminus="0.780" errorplus="0.780">6.790</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.280</metallicity>
+		<spectraltype>K0 IV/V</spectraltype>
 		<planet>
 			<name>HD 7199 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.29</mass>
-			<period>615</period>
-			<semimajoraxis>1.36</semimajoraxis>
-			<eccentricity>0.19</eccentricity>
+			<mass errorminus="0.02300" errorplus="0.02300" type="Msini">0.29000</mass>
+			<period errorminus="7.00000000" errorplus="7.00000000">615.00000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">1.360000</semimajoraxis>
+			<eccentricity errorminus="0.130000" errorplus="0.190000">0.190000</eccentricity>
+			<periastron errorminus="64.0000" errorplus="90.0000">155.0000</periastron>
+			<periastrontime errorminus="277.000000" errorplus="277.000000">2455030.000000</periastrontime>
+			<maximumrvtime errorminus="277.000000" errorplus="277.000000">2455030.000000</maximumrvtime>
 			<temperature>199.1</temperature>
 			<description>HD 7199 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The host star shows evidence for long-term solar-like magnetic cycles.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

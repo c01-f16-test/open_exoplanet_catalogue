@@ -2,7 +2,7 @@
 	<name>HD 222582</name>
 	<rightascension>23 41 51</rightascension>
 	<declination>-05 59 08</declination>
-	<distance>42</distance>
+	<distance errorminus="2.05" errorplus="1.87">41.95</distance>
 	<binary>
 		<separation unit="arcsec">113</separation>
 		<separation unit="AU">4746</separation>
@@ -32,7 +32,7 @@
 				<eccentricity>0.725</eccentricity>
 				<description>This planet was disovered in 1999 by Steven Vogt and collaborators. The host star has a red dwarf companion in a wide orbit.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>16/12/02</lastupdate>
 				<discoveryyear>1999</discoveryyear>
 			</planet>
 		</star>
@@ -43,4 +43,66 @@
 			<spectraltype>M3.5V</spectraltype>
 		</star>
 	</binary>
+	<star>
+		<name>HD 222582 A</name>
+		<name>HIP 116906 A</name>
+		<mass>0.99</mass>
+		<radius>1.15</radius>
+		<magV>7.7</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.34</magB>
+		<magJ errorminus="0.019" errorplus="0.019">6.522</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.243</magH>
+		<magK errorminus="0.023" errorplus="0.023">6.173</magK>
+		<metallicity>-0.0229</metallicity>
+		<spectraltype>G5</spectraltype>
+		<planet>
+			<name>HD 222582 A b</name>
+			<name>HIP 116906 A b</name>
+			<name>HD 222582 b</name>
+			<name>HIP 116906 b</name>
+			<list>Confirmed planets</list>
+			<list>Planets in binary systems, S-type</list>
+			<mass>7.75</mass>
+			<period>572.38</period>
+			<semimajoraxis>1.35</semimajoraxis>
+			<eccentricity>0.725</eccentricity>
+			<description>This planet was disovered in 1999 by Steven Vogt and collaborators. The host star has a red dwarf companion in a wide orbit.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>HD 222582 B</name>
+		<name>HIP 116906 B</name>
+		<mass>0.2</mass>
+		<spectraltype>M3.5V</spectraltype>
+	</star>
+	<star>
+		<name>HD 222582</name>
+		<mass>0.99</mass>
+		<radius>1.15</radius>
+		<magV>7.680</magV>
+		<magB>8.330</magB>
+		<magJ errorminus="0.019" errorplus="0.019">6.522</magJ>
+		<magH errorminus="0.038" errorplus="0.038">6.243</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.173</magK>
+		<temperature>5727.00</temperature>
+		<age>6.16</age>
+		<metallicity>-0.029</metallicity>
+		<spectraltype>G5 V</spectraltype>
+		<planet>
+			<name>HD 222582 b</name>
+			<mass errorminus="0.65000" errorplus="0.65000" type="Msini">7.75000</mass>
+			<period errorminus="0.61000000" errorplus="0.61000000">572.38000000</period>
+			<semimajoraxis errorminus="0.078000" errorplus="0.078000">1.347000</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.012000">0.725000</eccentricity>
+			<periastron errorminus="0.8700" errorplus="0.8700">319.0100</periastron>
+			<periastrontime errorminus="2.800000" errorplus="2.800000">2450706.700000</periastrontime>
+			<maximumrvtime errorminus="2.800000" errorplus="2.800000">2450706.700000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>1999</discoveryyear>
+		</planet>
+	</star>
 </system>

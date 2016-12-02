@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-683</name>
-	<rightascension>19 25 46</rightascension>
+	<rightascension>19 25 45</rightascension>
 	<declination>+37 54 20</declination>
+	<distance errorminus="94.05" errorplus="166.50">976.00</distance>
 	<star>
 		<name>Kepler-683</name>
 		<mass errorminus="0.06" errorplus="0.06">0.96</mass>
 		<radius errorminus="0.08" errorplus="0.16">0.95</radius>
-		<temperature errorminus="149.4" errorplus="140.9">5703.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
+		<magV>15.026</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.812</magJ>
+		<magH errorminus="0.029" errorplus="0.029">13.465</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.358</magK>
+		<temperature errorminus="149.37" errorplus="140.91">5703.00</temperature>
+		<age errorminus="2.560" errorplus="4.190">4.370</age>
+		<metallicity errorminus="0.181" errorplus="0.144">-0.030</metallicity>
 		<planet>
 			<name>Kepler-683 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.030">0.176</radius>
-			<period errorminus="0.000005110" errorplus="0.000005110">2.539183180</period>
+			<period errorminus="0.00000511" errorplus="0.00000511">2.53918318</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001560" errorplus="0.001560" unit="JD">2455002.674140</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

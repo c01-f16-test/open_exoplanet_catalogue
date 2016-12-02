@@ -1,0 +1,18 @@
+<system>
+	<name>OGLE 2015-BLG-0051L</name>
+	<rightascension>17 58 39</rightascension>
+	<declination>-28 01 54</declination>
+	<distance errorminus="900.00" errorplus="900.00">8200.00</distance>
+	<star>
+		<name>OGLE 2015-BLG-0051L</name>
+		<mass errorminus="0.01" errorplus="0.09">0.10</mass>
+		<planet>
+			<name>OGLE 2015-BLG-0051L b</name>
+			<mass errorminus="0.07000" errorplus="0.65000" type="Mass">0.72000</mass>
+			<semimajoraxis errorminus="0.080000" errorplus="0.080000">0.730000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

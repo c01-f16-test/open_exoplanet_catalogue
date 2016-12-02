@@ -9,12 +9,14 @@
 		<name>Kepler-339</name>
 		<name>KOI-1931</name>
 		<name>KIC 10978763</name>
-		<mass errorminus="0.0370" errorplus="0.0370">0.9340</mass>
-		<radius errorminus=".362" errorplus="0.362">0.802</radius>
+		<mass errorminus="0.0370" errorplus="0.0370">0.84</mass>
+		<radius errorminus="0.36" errorplus="0.36">0.80</radius>
+		<magV>14.531</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.280</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.895</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.87</magK>
-		<temperature errorminus="200" errorplus="200">5631</temperature>
+		<magK errorminus="0.030" errorplus="0.030">12.874</magK>
+		<temperature errorminus="200.00" errorplus="200.00">5631.00</temperature>
+		<metallicity>-0.237</metallicity>
 		<planet>
 			<name>Kepler-339 b</name>
 			<name>KOI-1931 b</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10978763 b</name>
 			<name>KIC 10978763.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06015" errorplus="0.06015">0.12941</radius>
-			<period errorminus=".000019" errorplus="0.000019">4.977656</period>
+			<radius errorminus="0.059" errorplus="0.059">0.127</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">4.97765600</period>
+			<semimajoraxis>0.055000</semimajoraxis>
 			<description>Kepler-339 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0022700" errorplus="0.0022700">2454967.6715100</transittime>
+			<transittime errorminus=".002270" errorplus="0.002270" unit="BJD">2454967.671510</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10978763 d</name>
 			<name>KIC 10978763.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04830" errorplus="0.04830">0.10662</radius>
-			<period errorminus=".000081" errorplus="0.000081">10.558345</period>
+			<radius errorminus="0.047" errorplus="0.047">0.104</radius>
+			<period errorminus="0.00008100" errorplus="0.00008100">10.55834500</period>
+			<semimajoraxis>0.091000</semimajoraxis>
 			<description>Kepler-339 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0045000" errorplus="0.0045000">2454969.3466300</transittime>
+			<transittime errorminus=".004500" errorplus="0.004500" unit="BJD">2454969.346630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 10978763 c</name>
 			<name>KIC 10978763.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04739" errorplus="0.04739">0.10480</radius>
-			<period errorminus=".000053" errorplus="0.000053">6.988055</period>
+			<radius errorminus="0.046" errorplus="0.046">0.103</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">6.98805500</period>
+			<semimajoraxis>0.069000</semimajoraxis>
 			<description>Kepler-339 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-339 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0044600" errorplus="0.0044600">2454965.5611000</transittime>
+			<transittime errorminus=".004460" errorplus="0.004460" unit="BJD">2454965.561100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

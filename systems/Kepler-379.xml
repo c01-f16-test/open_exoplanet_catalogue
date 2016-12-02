@@ -3,18 +3,20 @@
 	<name>KOI-2289</name>
 	<name>KIC 3867615</name>
 	<rightascension>19 42 48</rightascension>
-	<declination>+38 56 44</declination>
+	<declination>+38 56 45</declination>
 	<distance>758.70</distance>
 	<star>
 		<name>Kepler-379</name>
 		<name>KOI-2289</name>
 		<name>KIC 3867615</name>
-		<mass errorminus="0.1200" errorplus="0.1200">1.1100</mass>
-		<radius errorminus=".237" errorplus="0.237">1.306</radius>
+		<mass errorminus="0.1200" errorplus="0.1200">1.08</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.31</radius>
+		<magV>13.358</magV>
 		<magJ errorminus="0.021" errorplus="0.021">12.341</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.092</magH>
 		<magK errorminus="0.018" errorplus="0.018">12.005</magK>
-		<temperature errorminus="100" errorplus="100">6054</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">6054.00</temperature>
+		<metallicity>-0.045</metallicity>
 		<planet>
 			<name>Kepler-379 c</name>
 			<name>KOI-2289 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3867615 c</name>
 			<name>KIC 3867615.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03919" errorplus="0.03919">0.20869</radius>
-			<period errorminus=".000661" errorplus="0.000661">62.784697</period>
+			<radius errorminus="0.038" errorplus="0.038">0.204</radius>
+			<period errorminus="0.00066100" errorplus="0.00066100">62.78469700</period>
+			<semimajoraxis>0.326000</semimajoraxis>
 			<description>Kepler-379 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-379 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0054400" errorplus="0.0054400">2454990.3035900</transittime>
+			<transittime errorminus=".005440" errorplus="0.005440" unit="BJD">2454990.303590</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 3867615 b</name>
 			<name>KIC 3867615.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02825" errorplus="0.02825">0.15128</radius>
-			<period errorminus=".000180" errorplus="0.000180">20.098380</period>
+			<radius errorminus="0.028" errorplus="0.028">0.148</radius>
+			<period errorminus="0.00018000" errorplus="0.00018000">20.09838000</period>
+			<semimajoraxis>0.152000</semimajoraxis>
 			<description>Kepler-379 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-379 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0052900" errorplus="0.0052900">2455040.5759000</transittime>
+			<transittime errorminus=".005290" errorplus="0.005290" unit="BJD">2455040.575900</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

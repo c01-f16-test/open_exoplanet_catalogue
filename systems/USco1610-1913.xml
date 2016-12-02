@@ -1,0 +1,19 @@
+<system>
+	<name>USco1610-1913</name>
+	<declination>-19 13 08</declination>
+	<star>
+		<name>USco1610-1913</name>
+		<magJ>13.9</magJ>
+		<temperature errorminus="130.0" errorplus="160.0">4140.0</temperature>
+		<spectraltype>K7</spectraltype>
+		<planet>
+			<name>USco1610-1913 b</name>
+			<mass errorminus="3.0" errorplus="7.0">20.0</mass>
+			<semimajoraxis errorminus="90.0" errorplus="90.0">840.0</semimajoraxis>
+			<temperature>2400.0</temperature>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

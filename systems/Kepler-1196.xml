@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1196</name>
-	<rightascension>19 29 29</rightascension>
-	<declination>+43 54 39</declination>
+	<rightascension>19 29 28</rightascension>
+	<declination>+43 54 38</declination>
+	<distance errorminus="90.75" errorplus="148.16">946.00</distance>
 	<star>
 		<name>Kepler-1196</name>
 		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
 		<radius errorminus="0.09" errorplus="0.15">0.97</radius>
-		<temperature errorminus="149.1" errorplus="129.4">5756.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">0.00</metallicity>
+		<magV>14.862</magV>
+		<magJ errorminus="0.022" errorplus="0.022">13.647</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.289</magH>
+		<magK errorminus="0.037" errorplus="0.037">13.262</magK>
+		<temperature errorminus="149.10" errorplus="129.38">5756.00</temperature>
+		<age errorminus="2.270" errorplus="3.540">3.980</age>
+		<metallicity errorminus="0.166" errorplus="0.130">0.000</metallicity>
 		<planet>
 			<name>Kepler-1196 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.019" errorplus="0.033">0.199</radius>
-			<period errorminus="0.000466100" errorplus="0.000466100">66.184903100</period>
+			<period errorminus="0.00046610" errorplus="0.00046610">66.18490310</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".006610" errorplus="0.006610" unit="JD">2454974.615160</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

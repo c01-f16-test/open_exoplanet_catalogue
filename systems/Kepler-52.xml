@@ -9,12 +9,14 @@
 		<name>Kepler-52</name>
 		<name>KOI-775</name>
 		<name>KIC 11754553</name>
-		<mass errorminus="0.0140" errorplus="0.0140">0.5770</mass>
-		<radius errorminus=".021" errorplus="0.021">0.556</radius>
+		<mass errorminus="0.0140" errorplus="0.0140">0.54</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.56</radius>
+		<magV>15.095</magV>
 		<magJ errorminus="0.025" errorplus="0.025">13.153</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.51</magH>
+		<magH errorminus="0.032" errorplus="0.032">12.507</magH>
 		<magK errorminus="0.027" errorplus="0.027">12.360</magK>
-		<temperature errorminus="100" errorplus="100">4263</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4263.00</temperature>
+		<metallicity>-0.289</metallicity>
 		<planet>
 			<name>Kepler-52 c</name>
 			<name>KOI-775 c</name>
@@ -22,14 +24,15 @@
 			<name>KIC 11754553 c</name>
 			<name>KIC 11754553.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00729" errorplus="0.00729">0.15583</radius>
-			<period errorminus=".000080" errorplus="0.000080">16.384888</period>
+			<mass errorminus="10.41" errorplus="0.0" type="Mass">10.41000</mass>
+			<radius errorminus="0.00729" errorplus="0.00729">0.164</radius>
+			<period errorminus="0.00014000" errorplus="0.00014000">16.38500210</period>
 			<description>Kepler-52 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0028300" errorplus="0.0028300">2455005.7279400</transittime>
+			<transittime errorminus=".002700" errorplus="0.002700" unit="BJD">2455005.725490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-52 b</name>
@@ -38,14 +41,15 @@
 			<name>KIC 11754553 b</name>
 			<name>KIC 11754553.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02005" errorplus="0.02005">0.21324</radius>
-			<period errorminus=".000020" errorplus="0.000020">7.877407</period>
+			<mass errorminus="8.7" errorplus="0.0" type="Mass">8.70000</mass>
+			<radius errorminus="0.02005" errorplus="0.02005">0.187</radius>
+			<period errorminus="0.00003800" errorplus="0.00003800">7.87735650</period>
 			<description>Kepler-52 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0013600" errorplus="0.0013600">2455009.3760800</transittime>
+			<transittime errorminus=".001500" errorplus="0.001500" unit="BJD">2455009.376920</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-52 d</name>
@@ -54,13 +58,14 @@
 			<name>KIC 11754553 d</name>
 			<name>KIC 11754553.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01914" errorplus="0.01914">0.17770</radius>
-			<period errorminus=".000253" errorplus="0.000253">36.445171</period>
+			<radius errorminus="0.019" errorplus="0.019">0.174</radius>
+			<period errorminus="0.00025300" errorplus="0.00025300">36.44517100</period>
+			<semimajoraxis>0.182000</semimajoraxis>
 			<description>Kepler-52 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0038800" errorplus="0.0038800">2454984.6011500</transittime>
+			<transittime errorminus=".003880" errorplus="0.003880" unit="BJD">2454984.601150</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

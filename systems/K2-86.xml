@@ -1,0 +1,26 @@
+<system>
+	<name>K2-86</name>
+	<rightascension>03 26 12</rightascension>
+	<declination>+18 38 08</declination>
+	<star>
+		<name>K2-86</name>
+		<mass errorminus="0.08" errorplus="0.08">0.79</mass>
+		<radius errorminus="0.09" errorplus="0.09">0.76</radius>
+		<magV errorminus="0.260" errorplus="0.260">13.167</magV>
+		<magB errorminus="0.020" errorplus="0.020">13.814</magB>
+		<magJ errorminus="0.021" errorplus="0.021">11.440</magJ>
+		<magH errorminus="0.019" errorplus="0.019">11.003</magH>
+		<magK errorminus="0.019" errorplus="0.019">10.927</magK>
+		<temperature errorminus="248.00" errorplus="248.00">5482.00</temperature>
+		<planet>
+			<name>K2-86 b</name>
+			<radius errorminus="0.024" errorplus="0.024">0.175</radius>
+			<period errorminus="0.00098000" errorplus="0.00098000">8.77683000</period>
+			<semimajoraxis errorminus="0.002600" errorplus="0.002600">0.077000</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003600" errorplus="0.003600" unit="BJD_TDB">2457070.017300</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

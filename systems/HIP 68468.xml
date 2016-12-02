@@ -1,0 +1,32 @@
+<system>
+	<name>HIP 68468</name>
+	<declination>-32 45 25</declination>
+	<star>
+		<name>HIP 68468</name>
+		<mass errorminus="0.01" errorplus="0.01">1.05</mass>
+		<temperature errorminus="8.0" errorplus="8.0">5857.0</temperature>
+		<age errorminus="0.4" errorplus="0.4">5.9</age>
+		<metallicity errorminus="0.007" errorplus="0.007">0.065</metallicity>
+		<spectraltype>G3V</spectraltype>
+		<planet>
+			<name>HIP 68468 b</name>
+			<mass type="Radial Velocity">0.011</mass>
+			<period>1.8372</period>
+			<semimajoraxis>0.029743</semimajoraxis>
+			<eccentricity>0.41</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HIP 68468 c</name>
+			<mass type="Radial Velocity">0.094</mass>
+			<period>194.0</period>
+			<semimajoraxis>0.665</semimajoraxis>
+			<eccentricity>0.04</eccentricity>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

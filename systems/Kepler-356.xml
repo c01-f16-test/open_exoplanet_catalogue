@@ -9,12 +9,14 @@
 		<name>Kepler-356</name>
 		<name>KOI-2053</name>
 		<name>KIC 2307415</name>
-		<mass errorminus="0.0970" errorplus="0.0970">1.1300</mass>
-		<radius errorminus=".243" errorplus="0.243">1.335</radius>
+		<mass errorminus="0.0970" errorplus="0.0970">0.97</mass>
+		<radius errorminus="0.24" errorplus="0.24">1.33</radius>
+		<magV>12.992</magV>
 		<magJ errorminus="0.022" errorplus="0.022">12.000</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.745</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.704</magK>
-		<temperature errorminus="100" errorplus="100">6133</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">6133.00</temperature>
+		<metallicity>-0.325</metallicity>
 		<planet>
 			<name>Kepler-356 c</name>
 			<name>KOI-2053 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 2307415 c</name>
 			<name>KIC 2307415.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03007" errorplus="0.03007">0.16495</radius>
-			<period errorminus=".000088" errorplus="0.000088">13.121632</period>
+			<radius errorminus="0.029" errorplus="0.029">0.161</radius>
+			<period errorminus="0.00008800" errorplus="0.00008800">13.12163200</period>
+			<semimajoraxis>0.115000</semimajoraxis>
 			<description>Kepler-356 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-356 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0040700" errorplus="0.0040700">2454966.3931000</transittime>
+			<transittime errorminus=".004070" errorplus="0.004070" unit="BJD">2454966.393100</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 2307415 b</name>
 			<name>KIC 2307415.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.02643" errorplus="0.02643">0.14307</radius>
-			<period errorminus=".000021" errorplus="0.000021">4.612696</period>
+			<radius errorminus="0.026" errorplus="0.026">0.140</radius>
+			<period errorminus="0.00002100" errorplus="0.00002100">4.61269600</period>
+			<semimajoraxis>0.057000</semimajoraxis>
 			<description>Kepler-356 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-356 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0026800" errorplus="0.0026800">2454965.7746300</transittime>
+			<transittime errorminus=".002680" errorplus="0.002680" unit="BJD">2454965.774630</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,35 +1,43 @@
 <system>
 	<name>Kepler-1016</name>
 	<rightascension>19 38 27</rightascension>
-	<declination>+45 59 05</declination>
+	<declination>+45 59 04</declination>
+	<distance errorminus="141.40" errorplus="210.99">1239.00</distance>
 	<star>
 		<name>Kepler-1016</name>
 		<mass errorminus="0.07" errorplus="0.08">0.99</mass>
 		<radius errorminus="0.10" errorplus="0.17">1.00</radius>
-		<temperature errorminus="169.9" errorplus="177.4">5821.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
+		<magV>15.356</magV>
+		<magJ errorminus="0.027" errorplus="0.027">14.179</magJ>
+		<magH errorminus="0.037" errorplus="0.037">13.843</magH>
+		<magK errorminus="0.047" errorplus="0.047">13.728</magK>
+		<temperature errorminus="169.89" errorplus="177.41">5821.00</temperature>
+		<age errorminus="2.160" errorplus="3.270">3.890</age>
+		<metallicity errorminus="0.182" errorplus="0.137">-0.030</metallicity>
 		<planet>
 			<name>Kepler-1016 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.025" errorplus="0.033">0.194</radius>
-			<period errorminus="0.000003310" errorplus="0.000003310">1.954524340</period>
+			<period errorminus="0.00000331" errorplus="0.00000331">1.95452434</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001370" errorplus="0.001370" unit="JD">2454965.297170</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-1016 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.033" errorplus="0.058">0.328</radius>
-			<period errorminus="0.000545200" errorplus="0.000545200">105.655136900</period>
+			<period errorminus="0.00054520" errorplus="0.00054520">105.65513690</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003990" errorplus="0.003990" unit="JD">2455063.100310</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

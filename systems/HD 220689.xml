@@ -1,35 +1,37 @@
 <system>
 	<name>HD 220689</name>
-	<rightascension>23 25 53</rightascension>
-	<declination>-20 36 58</declination>
-	<distance>44.6</distance>
+	<rightascension>23 25 52</rightascension>
+	<declination>-20 36 57</declination>
+	<distance errorminus="1.96" errorplus="1.81">45.23</distance>
 	<star>
 		<name>HD 220689</name>
-		<mass>1.01</mass>
-		<radius>1.07</radius>
-		<magV>7.77</magV>
-		<magB errorminus="0.017" errorplus="0.017">8.355</magB>
+		<mass errorminus="0.03" errorplus="0.03">1.04</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.07</radius>
+		<magV errorminus="0.012" errorplus="0.012">7.758</magV>
+		<magB errorminus="0.017" errorplus="0.017">8.356</magB>
 		<magR>7.65</magR>
 		<magI errorminus="0.03" errorplus="0.03">8.59</magI>
 		<magJ errorminus="0.019" errorplus="0.019">6.653</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.407</magH>
 		<magK errorminus="0.031" errorplus="0.031">6.326</magK>
-		<temperature>5940.0</temperature>
-		<age>3.5</age>
-		<metallicity>0.00</metallicity>
-		<spectraltype>G3V</spectraltype>
+		<temperature errorminus="26.00" errorplus="26.00">5921.00</temperature>
+		<age errorminus="1.900" errorplus="1.900">3.500</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.000</metallicity>
+		<spectraltype>G3 V</spectraltype>
 		<planet>
 			<name>HD 220689 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<period>2209</period>
-			<semimajoraxis>3.36</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
-			<periastron>137</periastron>
+			<mass errorminus="0.09000" errorplus="0.09000" type="Msini">1.06000</mass>
+			<period errorminus="81.00000000" errorplus="103.00000000">2209.00000000</period>
+			<semimajoraxis errorminus="0.090000" errorplus="0.090000">3.360000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.100000">0.160000</eccentricity>
+			<periastron errorminus="75.0000" errorplus="75.0000">137.0000</periastron>
+			<periastrontime errorminus="413.000000" errorplus="413.000000">2455649.000000</periastrontime>
+			<maximumrvtime errorminus="413.000000" errorplus="413.000000">2455649.000000</maximumrvtime>
 			<temperature>149.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
 </system>

@@ -1,0 +1,37 @@
+<system>
+	<name>MOA-bin-1L</name>
+	<name>MOA-bin-1</name>
+	<rightascension>17 27 10</rightascension>
+	<declination>-29 47 38</declination>
+	<distance errorminus="1900.00" errorplus="1200.00">5100.00</distance>
+	<star>
+		<name>MOA-bin-1</name>
+		<mass errorminus="0.33" errorplus="0.33">0.75</mass>
+		<magB>23.0</magB>
+		<magI>23</magI>
+		<temperature>5700.0</temperature>
+		<planet>
+			<name>MOA-bin-1 b</name>
+			<name>MOA-bin-1L b</name>
+			<list>Confirmed planets</list>
+			<mass errorminus="2.1" errorplus="2.1">3.7</mass>
+			<semimajoraxis errorminus="4.5" errorplus="4.5">8.3</semimajoraxis>
+			<description>This planet has been discovered in data from the 2006-2007 MOA project by Bennett et al (2012). It is the first planetary event in which the stellar host is only detected through binary microlensing events. Note that the discovery paper has not been published in a peer-reviewed journal yet.</description>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+	<star>
+		<name>MOA-bin-1L</name>
+		<mass errorminus="0.41" errorplus="0.33">0.75</mass>
+		<planet>
+			<name>MOA-bin-1L b</name>
+			<mass errorminus="2.10000" errorplus="2.10000" type="Mass">3.70000</mass>
+			<semimajoraxis errorminus="2.700000" errorplus="4.500000">8.300000</semimajoraxis>
+			<discoverymethod>microlensing</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+		</planet>
+	</star>
+</system>

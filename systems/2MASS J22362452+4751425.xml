@@ -1,0 +1,26 @@
+<system>
+	<name>2MASS J22362452+4751425</name>
+	<rightascension>22 36 24</rightascension>
+	<declination>+47 51 42</declination>
+	<distance errorminus="10.00" errorplus="10.00">74.00</distance>
+	<star>
+		<name>2MASS J22362452+4751425</name>
+		<mass errorminus="0.05" errorplus="0.05">0.60</mass>
+		<magV errorminus="0.030" errorplus="0.030">12.510</magV>
+		<magB errorminus="0.180" errorplus="0.180">13.730</magB>
+		<magJ errorminus="0.018" errorplus="0.018">9.975</magJ>
+		<magH errorminus="0.019" errorplus="0.019">9.338</magH>
+		<magK errorminus="0.016" errorplus="0.016">9.148</magK>
+		<temperature errorminus="35.00" errorplus="35.00">4045.00</temperature>
+		<age errorminus="0.010" errorplus="0.010">0.120</age>
+		<spectraltype>K7 V</spectraltype>
+		<planet>
+			<name>2MASS J22362452+4751425 b</name>
+			<mass errorminus="1.50000" errorplus="1.50000" type="Mass">12.50000</mass>
+			<semimajoraxis errorminus="20.000000" errorplus="20.000000">230.000000</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

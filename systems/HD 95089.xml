@@ -1,31 +1,35 @@
 <system>
 	<name>HD 95089</name>
-	<rightascension>10 58 48</rightascension>
+	<rightascension>10 58 47</rightascension>
 	<declination>+01 43 45</declination>
-	<distance>139</distance>
+	<distance errorminus="26.72" errorplus="19.67">149.03</distance>
 	<star>
 		<name>HD 95089</name>
-		<mass>1.58</mass>
-		<radius>4.9</radius>
-		<magV>7.92</magV>
-		<magB errorminus="0.020" errorplus="0.020">8.897</magB>
+		<mass errorminus="0.11" errorplus="0.11">1.58</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.90</radius>
+		<magV errorminus="0.013" errorplus="0.013">7.946</magV>
+		<magB errorminus="0.020" errorplus="0.020">8.895</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.240</magJ>
 		<magH errorminus="0.042" errorplus="0.042">5.775</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.626</magK>
-		<temperature>5002.0</temperature>
-		<metallicity>0.05</metallicity>
-		<spectraltype>K0 IV</spectraltype>
+		<temperature errorminus="44.00" errorplus="44.00">5002.00</temperature>
+		<age errorminus="0.900" errorplus="0.900">2.500</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.050</metallicity>
+		<spectraltype>G8/K0 IV</spectraltype>
 		<planet>
 			<name>HD 95089 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.2</mass>
-			<period>507</period>
-			<semimajoraxis>1.51</semimajoraxis>
-			<eccentricity>0.157</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000" type="Msini">1.20000</mass>
+			<period errorminus="16.00000000" errorplus="16.00000000">507.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.510000</semimajoraxis>
+			<eccentricity errorminus="0.086000" errorplus="0.086000">0.157000</eccentricity>
+			<periastron errorminus="60.0000" errorplus="60.0000">317.0000</periastron>
+			<periastrontime errorminus="90.000000" errorplus="90.000000">2454983.000000</periastrontime>
+			<maximumrvtime errorminus="90.000000" errorplus="90.000000">2454983.000000</maximumrvtime>
 			<temperature>396.7</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

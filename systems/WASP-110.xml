@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-110</name>
 	<rightascension>20 23 29.55</rightascension>
-	<declination>-44 03 30.3</declination>
+	<declination>-44 03 30</declination>
 	<distance errorminus="30" errorplus="30">320</distance>
 	<star>
 		<name>WASP-110</name>
@@ -9,24 +9,25 @@
 		<radius errorminus="0.035" errorplus="0.035">0.881</radius>
 		<magV>12.3</magV>
 		<magK>10.7</magK>
-		<temperature errorminus="140" errorplus="140">5400</temperature>
+		<temperature errorminus="140.0" errorplus="140.0">5400.0</temperature>
 		<age errorminus="3.5" errorplus="3.5">8.6</age>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.06</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">-0.06</metallicity>
 		<spectraltype>G9</spectraltype>
 		<planet>
 			<name>WASP-110 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.064" errorplus="0.064">0.510</mass>
+			<mass errorminus="0.0641" errorplus="0.0642" type="Radial Velocity">0.515</mass>
 			<radius errorminus="0.056" errorplus="0.056">1.238</radius>
-			<period errorminus="0.0000031" errorplus="0.0000031">3.7783977</period>
+			<period errorminus="3.1e-06" errorplus="3.1e-06">3.7783977</period>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0457</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.35" errorplus="0.35">88.06</inclination>
-			<temperature errorminus="33" errorplus="33">1134</temperature>
+			<temperature errorminus="33" errorplus="33">1134.0</temperature>
 			<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
 			<transittime errorminus="0.00016" errorplus="0.00016" unit="HJD">2456502.72413</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/10/14</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

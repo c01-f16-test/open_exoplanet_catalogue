@@ -1,0 +1,44 @@
+<system>
+	<name>HIP 65407</name>
+	<rightascension>13 24 21</rightascension>
+	<declination>+48 53 06</declination>
+	<distance errorminus="4.60" errorplus="4.60">55.50</distance>
+	<star>
+		<name>HIP 65407</name>
+		<mass errorminus="0.07" errorplus="0.07">0.93</mass>
+		<magV errorminus="0.020" errorplus="0.020">9.420</magV>
+		<magB errorminus="0.029" errorplus="0.029">10.200</magB>
+		<magJ errorminus="0.020" errorplus="0.020">7.963</magJ>
+		<magH errorminus="0.017" errorplus="0.017">7.648</magH>
+		<magK errorminus="0.017" errorplus="0.017">7.578</magK>
+		<temperature errorminus="50.00" errorplus="50.00">5460.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">0.250</metallicity>
+		<spectraltype>K0</spectraltype>
+		<planet>
+			<name>HIP 65407 b</name>
+			<mass errorminus="0.03200" errorplus="0.03200" type="Msini">0.42800</mass>
+			<period errorminus="0.01900000" errorplus="0.01900000">28.12500000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.177000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.140000</eccentricity>
+			<periastron errorminus="150.0000" errorplus="150.0000">50.0000</periastron>
+			<periastrontime errorminus="2.500000" errorplus="2.500000">2456990.800000</periastrontime>
+			<maximumrvtime errorminus="2.500000" errorplus="2.500000">2456990.800000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>HIP 65407 c</name>
+			<mass errorminus="0.05400" errorplus="0.05400" type="Msini">0.78400</mass>
+			<period errorminus="0.08000000" errorplus="0.08000000">67.30000000</period>
+			<semimajoraxis errorminus="0.008000" errorplus="0.008000">0.316000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.120000</eccentricity>
+			<periastron errorminus="25.0000" errorplus="25.0000">-19.0000</periastron>
+			<periastrontime errorminus="6.000000" errorplus="6.000000">2457047.000000</periastrontime>
+			<maximumrvtime errorminus="6.000000" errorplus="6.000000">2457047.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

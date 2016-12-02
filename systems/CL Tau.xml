@@ -1,0 +1,20 @@
+<system>
+	<name>CL Tau</name>
+	<declination>+08 05 46</declination>
+	<star>
+		<name>CL Tau</name>
+		<mass errorminus="0.02" errorplus="0.02">0.8</mass>
+		<magV>13.0</magV>
+		<age>0.002</age>
+		<spectraltype>T Tau</spectraltype>
+		<planet>
+			<name>CL Tau b</name>
+			<mass errorminus="2.39" errorplus="2.39" type="Radial Velocity">12.31</mass>
+			<period errorminus="0.0327" errorplus="0.0327">8.9965</period>
+			<inclination errorminus="1.1" errorplus="1.1">45.7</inclination>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

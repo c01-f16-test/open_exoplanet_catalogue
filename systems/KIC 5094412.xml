@@ -1,0 +1,24 @@
+<system>
+	<name>KIC 5094412</name>
+	<declination>+40 17 16</declination>
+	<star>
+		<name>KIC 5094412</name>
+		<mass errorminus="0.1" errorplus="0.09">0.82</mass>
+		<radius errorminus="0.12" errorplus="0.12">0.8</radius>
+		<magV>16.0</magV>
+		<temperature errorminus="253.0" errorplus="154.0">5313.0</temperature>
+		<metallicity>-0.327</metallicity>
+		<planet>
+			<name>KIC 5094412 b</name>
+			<radius errorminus="0.37" errorplus="0.37">0.51</radius>
+			<period errorminus="0.0319" errorplus="0.0258">276.88</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">0.78</semimajoraxis>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="0.73" errorplus="0.21">89.74</inclination>
+			<temperature>239.0</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
+		</planet>
+	</star>
+</system>

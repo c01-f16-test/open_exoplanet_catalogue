@@ -2,22 +2,29 @@
 	<name>Kepler-997</name>
 	<rightascension>19 16 56</rightascension>
 	<declination>+49 56 20</declination>
+	<distance errorminus="88.85" errorplus="112.98">470.00</distance>
 	<star>
 		<name>Kepler-997</name>
 		<mass errorminus="0.08" errorplus="0.15">1.22</mass>
 		<radius errorminus="0.30" errorplus="0.37">1.56</radius>
-		<temperature errorminus="55.0" errorplus="62.6">6150.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.08">0.05</metallicity>
+		<magV>11.894</magV>
+		<magJ errorminus="0.022" errorplus="0.022">10.929</magJ>
+		<magH errorminus="0.031" errorplus="0.031">10.663</magH>
+		<magK errorminus="0.022" errorplus="0.022">10.608</magK>
+		<temperature errorminus="54.96" errorplus="62.57">6150.00</temperature>
+		<age errorminus="0.690" errorplus="0.820">3.630</age>
+		<metallicity errorminus="0.077" errorplus="0.081">0.050</metallicity>
 		<planet>
 			<name>Kepler-997 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.029">0.121</radius>
-			<period errorminus="0.000005520" errorplus="0.000005520">2.707306720</period>
+			<period errorminus="0.00000552" errorplus="0.00000552">2.70730672</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001630" errorplus="0.001630" unit="JD">2454965.430960</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

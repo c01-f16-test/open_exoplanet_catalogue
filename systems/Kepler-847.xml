@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-847</name>
 	<rightascension>18 54 01</rightascension>
-	<declination>+49 27 04</declination>
+	<declination>+49 27 03</declination>
+	<distance errorminus="20.16" errorplus="23.34">529.00</distance>
 	<star>
 		<name>Kepler-847</name>
 		<mass errorminus="0.04" errorplus="0.03">0.83</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.77</radius>
-		<temperature errorminus="54.7" errorplus="51.6">4940.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.15">0.15</metallicity>
+		<magV>14.782</magV>
+		<magJ errorminus="0.031" errorplus="0.031">13.240</magJ>
+		<magH errorminus="0.030" errorplus="0.030">12.741</magH>
+		<magK>12.708</magK>
+		<temperature errorminus="54.72" errorplus="51.58">4940.00</temperature>
+		<age errorminus="2.250" errorplus="6.270">3.890</age>
+		<metallicity errorminus="0.160" errorplus="0.148">0.150</metallicity>
 		<planet>
 			<name>Kepler-847 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.004" errorplus="0.008">0.105</radius>
-			<period errorminus="0.000007570" errorplus="0.000007570">2.343231900</period>
+			<period errorminus="0.00000757" errorplus="0.00000757">2.34323190</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002520" errorplus="0.002520" unit="JD">2454966.206620</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,9 +2,9 @@
 	<name>alf Ari</name>
 	<name>Alpha Arietis</name>
 	<name>Hamal</name>
-	<rightascension>02 07 10.40570</rightascension>
-	<declination>+23 27 44.7032</declination>
-	<distance errorminus="0.10" errorplus="0.10">20.18</distance>
+	<rightascension>02 07 10</rightascension>
+	<declination>+23 27 44</declination>
+	<distance errorminus="0.41" errorplus="0.40">20.21</distance>
 	<star>
 		<name>alf Ari</name>
 		<name>Alpha Arietis</name>
@@ -23,28 +23,31 @@
 		<name>GJ 9072</name>
 		<name>BD+22 306</name>
 		<name>2MASS J02071038+2327447</name>
-		<mass errorminus="0.2" errorplus="0.2">1.5</mass>
-		<radius errorminus="0.3" errorplus="0.3">13.9</radius>
-		<magV>2.01</magV>
-		<magB errorminus="0.01" errorplus="0.01">3.16</magB>
+		<mass errorminus="0.2" errorplus="0.20">1.50</mass>
+		<radius errorminus="0.3" errorplus="0.30">13.90</radius>
+		<magV>2.000</magV>
+		<magB errorminus="0.01" errorplus="0.01">3.150</magB>
 		<magR>1.3</magR>
 		<magI>0.8</magI>
-		<magJ>0.06</magJ>
-		<temperature errorminus="15" errorplus="15">4553</temperature>
+		<magJ errorminus="0.218" errorplus="0.218">-0.196</magJ>
+		<magH errorminus="0.156" errorplus="0.156">-0.749</magH>
+		<magK errorminus="0.176" errorplus="0.176">-0.783</magK>
+		<temperature errorminus="15.0" errorplus="15.00">4553.00</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.09</metallicity>
-		<spectraltype>K2III</spectraltype>
+		<spectraltype>K1 IIIb</spectraltype>
 		<planet>
 			<name>alf Ari b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.2" errorplus="0.2" type="msini">1.8</mass>
-			<period errorminus="0.3" errorplus="0.3">380.8</period>
-			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.25</eccentricity>
-			<periastron errorminus="6.84" errorplus="6.84">89.16</periastron>
-			<periastrontime errorminus="7.36" errorplus="7.36">2451213.52</periastrontime>
+			<mass errorminus="0.20000" errorplus="0.20000" type="Msini">1.80000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">380.80000000</period>
+			<semimajoraxis>1.200000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.250000</eccentricity>
+			<periastron errorminus="6.8400" errorplus="6.8400">89.1600</periastron>
+			<periastrontime errorminus="7.360000" errorplus="7.360000">2451213.520000</periastrontime>
+			<maximumrvtime errorminus="7.360000" errorplus="7.360000">2451213.520000</maximumrvtime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
 </system>

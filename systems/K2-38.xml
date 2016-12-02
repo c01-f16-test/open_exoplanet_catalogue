@@ -1,0 +1,44 @@
+<system>
+	<name>K2-38</name>
+	<rightascension>16 00 08</rightascension>
+	<declination>-23 11 21</declination>
+	<star>
+		<name>K2-38</name>
+		<mass errorminus="0.05" errorplus="0.05">1.07</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.10</radius>
+		<magV errorminus="0.030" errorplus="0.030">11.390</magV>
+		<magB errorminus="0.246" errorplus="0.246">12.344</magB>
+		<magJ errorminus="0.024" errorplus="0.024">9.911</magJ>
+		<magH errorminus="0.026" errorplus="0.026">9.600</magH>
+		<magK errorminus="0.021" errorplus="0.021">9.470</magK>
+		<temperature errorminus="60.00" errorplus="60.00">5757.00</temperature>
+		<metallicity errorminus="0.040" errorplus="0.040">0.280</metallicity>
+		<spectraltype>G2 V</spectraltype>
+		<planet>
+			<name>K2-38 b</name>
+			<mass errorminus="0.00912" errorplus="0.00912" type="Mass">0.03776</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.138</radius>
+			<period errorminus="0.00050000" errorplus="0.00050000">4.01593000</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.050600</semimajoraxis>
+			<inclination errorminus="3.080" errorplus="1.880">87.280</inclination>
+			<temperature errorminus="51" errorplus="51">1184</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005400" errorplus="0.005400" unit="BJD-TDB">2456896.878600</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+		<planet>
+			<name>K2-38 c</name>
+			<mass errorminus="0.01447" errorplus="0.01447" type="Mass">0.03115</mass>
+			<radius errorminus="0.026" errorplus="0.026">0.216</radius>
+			<period errorminus="0.00090000" errorplus="0.00090000">10.56103000</period>
+			<semimajoraxis errorminus="0.001600" errorplus="0.001600">0.096400</semimajoraxis>
+			<inclination errorminus="1.670" errorplus="1.000">88.610</inclination>
+			<temperature errorminus="37" errorplus="37">858</temperature>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003300" errorplus="0.003300" unit="BJD-TDB">2456900.475200</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

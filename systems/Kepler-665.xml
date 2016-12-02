@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-665</name>
 	<rightascension>19 48 06</rightascension>
-	<declination>+48 28 43</declination>
+	<declination>+48 28 42</declination>
+	<distance errorminus="36.75" errorplus="32.14">651.00</distance>
 	<star>
 		<name>Kepler-665</name>
 		<mass errorminus="0.04" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<temperature errorminus="87.0" errorplus="93.8">4913.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.03</metallicity>
+		<magV>15.390</magV>
+		<magJ errorminus="0.025" errorplus="0.025">13.855</magJ>
+		<magH errorminus="0.022" errorplus="0.022">13.323</magH>
+		<magK errorminus="0.035" errorplus="0.035">13.214</magK>
+		<temperature errorminus="86.97" errorplus="93.83">4913.00</temperature>
+		<age errorminus="2.750" errorplus="6.060">4.680</age>
+		<metallicity errorminus="0.168" errorplus="0.146">-0.030</metallicity>
 		<planet>
 			<name>Kepler-665 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.013" errorplus="0.013">0.232</radius>
-			<period errorminus="0.000043080" errorplus="0.000043080">16.013102050</period>
+			<period errorminus="0.00004308" errorplus="0.00004308">16.01310205</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002120" errorplus="0.002120" unit="JD">2455009.359630</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

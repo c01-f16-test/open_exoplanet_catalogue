@@ -1,0 +1,78 @@
+<system>
+	<name>eps CrB</name>
+	<name>eps Coronae Borealis</name>
+	<rightascension>15 57 35</rightascension>
+	<declination>+26 52 40</declination>
+	<distance errorminus="3.65" errorplus="3.31">70.42</distance>
+	<binary>
+		<name>WDS J15576+2653</name>
+		<separation unit="arcsec">2.00</separation>
+		<separation unit="AU">136</separation>
+		<positionangle>10</positionangle>
+		<star>
+			<name>eps Coronae Borealis</name>
+			<name>eps CrB</name>
+			<name>Epsilon Coronae Borealis</name>
+			<name>ε CrB</name>
+			<name>ε Coronae Borealis</name>
+			<name>eps Coronae Borealis A</name>
+			<name>eps CrB A</name>
+			<name>Epsilon Coronae Borealis A</name>
+			<name>ε CrB A</name>
+			<name>ε Coronae Borealis A</name>
+			<name>13 CrB</name>
+			<name>13 Coronae Borealis</name>
+			<name>HD 143107</name>
+			<name>HIP 78159</name>
+			<name>HIP 78159 A</name>
+			<name>TYC 2037-1826-1</name>
+			<name>SAO 84098</name>
+			<name>HR 5947</name>
+			<name>BD+27 2558</name>
+			<name>2MASS J15573525+2652400</name>
+			<name>WDS J15576+2653 A</name>
+			<mass errorminus="0.10" errorplus="0.10">1.70</mass>
+			<radius>21.00</radius>
+			<magV>4.150</magV>
+			<magB errorminus="0.007" errorplus="0.007">5.380</magB>
+			<magJ errorminus="0.260" errorplus="0.260">2.104</magJ>
+			<magH errorminus="0.160" errorplus="0.160">1.488</magH>
+			<magK errorminus="0.188" errorplus="0.188">1.349</magK>
+			<temperature errorminus="15.00" errorplus="15.00">4406.00</temperature>
+			<age errorminus="0.370" errorplus="0.370">1.740</age>
+			<metallicity errorminus="0.001" errorplus="0.001">-0.094</metallicity>
+			<spectraltype>K2 III</spectraltype>
+			<planet>
+				<name>eps Coronae Borealis b</name>
+				<name>HD 143107 b</name>
+				<name>HR 5947 b</name>
+				<name>HIP 78159 b</name>
+				<name>eps CrB b</name>
+				<name>eps CrB A b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.30000" errorplus="0.30000" type="Msini">6.70000</mass>
+				<period errorminus="0.50000000" errorplus="0.50000000">417.90000000</period>
+				<semimajoraxis>1.300000</semimajoraxis>
+				<eccentricity errorminus="0.030000" errorplus="0.030000">0.110000</eccentricity>
+				<periastron errorminus="33.3000" errorplus="33.3000">133.1000</periastron>
+				<periastrontime errorminus="39.700000" errorplus="39.700000">2451235.300000</periastrontime>
+				<maximumrvtime errorminus="39.700000" errorplus="39.700000">2451235.300000</maximumrvtime>
+				<description>Radial velocity measurements for eps CrB exhibit periodic variation of 417 days with an amplitude of 129 meters per second. The minimum mass for the planetary companion is 6.7 Jupiter masses.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>16/12/02</lastupdate>
+				<discoveryyear>2012</discoveryyear>
+			</planet>
+		</star>
+		<star>
+			<name>eps Coronae Borealis B</name>
+			<name>eps CrB B</name>
+			<name>Epsilon Coronae Borealis B</name>
+			<name>ε CrB B</name>
+			<name>ε Coronae Borealis B</name>
+			<name>HIP 78159 B</name>
+			<name>WDS J15576+2653 B</name>
+			<magV>12.60</magV>
+		</star>
+	</binary>
+</system>

@@ -9,12 +9,14 @@
 		<name>Kepler-275</name>
 		<name>KOI-1198</name>
 		<name>KIC 3447722</name>
-		<mass errorminus="0.0700" errorplus="0.0700">1.1980</mass>
-		<radius errorminus=".258" errorplus="0.258">1.383</radius>
-		<magJ errorminus="0.03" errorplus="0.03">14.28</magJ>
-		<magH errorminus="0.03" errorplus="0.03">14.03</magH>
-		<magK errorminus="0.06" errorplus="0.06">13.96</magK>
-		<temperature errorminus="100" errorplus="100">6165</temperature>
+		<mass errorminus="0.0700" errorplus="0.0700">1.24</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.38</radius>
+		<magV>15.319</magV>
+		<magJ errorminus="0.030" errorplus="0.030">14.277</magJ>
+		<magH errorminus="0.034" errorplus="0.034">14.027</magH>
+		<magK errorminus="0.057" errorplus="0.057">13.957</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6165.00</temperature>
+		<metallicity>0.184</metallicity>
 		<planet>
 			<name>Kepler-275 c</name>
 			<name>KOI-1198 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 3447722 c</name>
 			<name>KIC 3447722.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05832" errorplus="0.05832">0.30802</radius>
-			<period errorminus=".000164" errorplus="0.000164">16.088134</period>
+			<radius errorminus="0.057" errorplus="0.057">0.302</radius>
+			<period errorminus="0.00016400" errorplus="0.00016400">16.08813400</period>
+			<semimajoraxis>0.132000</semimajoraxis>
 			<description>Kepler-275 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-275 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0051900" errorplus="0.0051900">2454972.4974500</transittime>
+			<transittime errorminus=".005190" errorplus="0.005190" unit="BJD">2454972.497450</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 3447722 b</name>
 			<name>KIC 3447722.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.04101" errorplus="0.04101">0.21324</radius>
-			<period errorminus=".000254" errorplus="0.000254">10.300682</period>
+			<radius errorminus="0.040" errorplus="0.040">0.209</radius>
+			<period errorminus="0.00025400" errorplus="0.00025400">10.30068200</period>
+			<semimajoraxis>0.098000</semimajoraxis>
 			<description>Kepler-275 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-275 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0118500" errorplus="0.0118500">2454975.7399900</transittime>
+			<transittime errorminus=".011850" errorplus="0.011850" unit="BJD">2454975.739990</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -54,13 +58,14 @@
 			<name>KIC 3447722 d</name>
 			<name>KIC 3447722.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.06744" errorplus="0.06744">0.30346</radius>
-			<period errorminus=".000641" errorplus="0.000641">35.676062</period>
+			<radius errorminus="0.066" errorplus="0.066">0.297</radius>
+			<period errorminus="0.00064100" errorplus="0.00064100">35.67606200</period>
+			<semimajoraxis>0.224000</semimajoraxis>
 			<description>Kepler-275 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-275 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0110300" errorplus="0.0110300">2454978.0006600</transittime>
+			<transittime errorminus=".011030" errorplus="0.011030" unit="BJD">2454978.000660</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

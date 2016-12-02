@@ -1,0 +1,35 @@
+<system>
+	<name>HD 59686 A</name>
+	<rightascension>07 31 48</rightascension>
+	<declination>+17 05 09</declination>
+	<distance errorminus="2.60" errorplus="2.70">96.80</distance>
+	<star>
+		<name>HD 59686 A</name>
+		<name>HR 2877</name>
+		<name>HIP 36616</name>
+		<mass errorminus="0.20" errorplus="0.20">1.90</mass>
+		<radius errorminus="0.30" errorplus="0.30">13.20</radius>
+		<magV errorminus="0.009" errorplus="0.009">5.442</magV>
+		<magB errorminus="0.015" errorplus="0.015">6.575</magB>
+		<magJ errorminus="0.252" errorplus="0.252">3.630</magJ>
+		<magH errorminus="0.206" errorplus="0.206">3.065</magH>
+		<magK errorminus="0.300" errorplus="0.300">2.922</magK>
+		<temperature errorminus="24.00" errorplus="24.00">4658.00</temperature>
+		<age errorminus="0.470" errorplus="0.470">1.730</age>
+		<metallicity errorminus="0.100" errorplus="0.100">0.150</metallicity>
+		<spectraltype>K2 III</spectraltype>
+		<planet>
+			<name>HD 59686 A b</name>
+			<name>HIP 36616 b</name>
+			<name>HR 2877 b</name>
+			<mass errorminus="0.24000" errorplus="0.18000" type="Msini">6.92000</mass>
+			<period errorminus="0.31000000" errorplus="0.26000000">299.36000000</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000600">1.086000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.030000">0.050000</eccentricity>
+			<periastron errorminus="24.0000" errorplus="28.0000">121.0000</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

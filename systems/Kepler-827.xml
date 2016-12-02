@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-827</name>
-	<rightascension>19 39 52</rightascension>
-	<declination>+42 42 31</declination>
+	<rightascension>19 39 51</rightascension>
+	<declination>+42 42 30</declination>
+	<distance errorminus="121.38" errorplus="177.30">1352.00</distance>
 	<star>
 		<name>Kepler-827</name>
 		<mass errorminus="0.06" errorplus="0.07">0.93</mass>
 		<radius errorminus="0.07" errorplus="0.11">0.91</radius>
-		<temperature errorminus="142.5" errorplus="179.4">5602.0</temperature>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.06</metallicity>
+		<magV>15.897</magV>
+		<magJ errorminus="0.031" errorplus="0.031">14.668</magJ>
+		<magH errorminus="0.049" errorplus="0.049">14.266</magH>
+		<magK errorminus="0.068" errorplus="0.068">14.209</magK>
+		<temperature errorminus="142.49" errorplus="179.40">5602.00</temperature>
+		<age errorminus="2.620" errorplus="4.800">4.370</age>
+		<metallicity errorminus="0.181" errorplus="0.151">-0.060</metallicity>
 		<planet>
 			<name>Kepler-827 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.041" errorplus="0.062">0.502</radius>
-			<period errorminus="0.000092880" errorplus="0.000092880">51.929275910</period>
+			<period errorminus="0.00009288" errorplus="0.00009288">51.92927591</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".001460" errorplus="0.001460" unit="JD">2454984.931750</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

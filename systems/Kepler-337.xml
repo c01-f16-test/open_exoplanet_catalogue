@@ -9,12 +9,14 @@
 		<name>Kepler-337</name>
 		<name>KOI-1929</name>
 		<name>KIC 10136549</name>
-		<mass errorminus="0.0960" errorplus="0.0960">1.0210</mass>
-		<radius errorminus=".485" errorplus="0.485">1.761</radius>
+		<mass errorminus="0.0960" errorplus="0.0960">0.96</mass>
+		<radius errorminus="0.48" errorplus="0.48">1.76</radius>
+		<magV>12.727</magV>
 		<magJ errorminus="0.022" errorplus="0.022">11.537</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.257</magH>
 		<magK errorminus="0.016" errorplus="0.016">11.183</magK>
-		<temperature errorminus="75" errorplus="175">5684</temperature>
+		<temperature errorminus="175.00" errorplus="175.00">5684.00</temperature>
+		<metallicity>-0.131</metallicity>
 		<planet>
 			<name>Kepler-337 c</name>
 			<name>KOI-1929 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 10136549 c</name>
 			<name>KIC 10136549.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05194" errorplus="0.05194">0.18682</radius>
-			<period errorminus=".000047" errorplus="0.000047">9.693201</period>
+			<radius errorminus="0.051" errorplus="0.051">0.183</radius>
+			<period errorminus="0.00004700" errorplus="0.00004700">9.69320100</period>
+			<semimajoraxis>0.093000</semimajoraxis>
 			<description>Kepler-337 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-337 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029100" errorplus="0.0029100">2454965.8115000</transittime>
+			<transittime errorminus=".002910" errorplus="0.002910" unit="BJD">2454965.811500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 10136549 b</name>
 			<name>KIC 10136549.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03919" errorplus="0.03919">0.14034</radius>
-			<period errorminus=".000019" errorplus="0.000019">3.292781</period>
+			<radius errorminus="0.038" errorplus="0.038">0.137</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">3.29278100</period>
+			<semimajoraxis>0.045000</semimajoraxis>
 			<description>Kepler-337 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-337 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0034500" errorplus="0.0034500">2454966.0096600</transittime>
+			<transittime errorminus=".003450" errorplus="0.003450" unit="BJD">2454966.009660</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

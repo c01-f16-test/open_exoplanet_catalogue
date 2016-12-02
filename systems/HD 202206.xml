@@ -2,38 +2,46 @@
 	<name>HD 202206</name>
 	<rightascension>21 14 57</rightascension>
 	<declination>-20 47 21</declination>
-	<distance>46.34</distance>
+	<distance errorminus="2.58" errorplus="2.33">46.34</distance>
 	<star>
 		<name>HD 202206</name>
-		<mass>1.13</mass>
+		<mass>1.15</mass>
 		<radius>1.02</radius>
-		<magV>8.08</magV>
-		<magB errorminus="0.02" errorplus="0.02">8.79</magB>
-		<temperature>5750.0</temperature>
-		<metallicity>0.37</metallicity>
+		<magV>8.080</magV>
+		<magB errorminus="0.02" errorplus="0.02">8.794</magB>
+		<magJ errorminus="0.025" errorplus="0.025">6.850</magJ>
+		<magH errorminus="0.016" errorplus="0.016">6.567</magH>
+		<magK errorminus="0.022" errorplus="0.022">6.485</magK>
+		<temperature errorminus="40.00" errorplus="40.00">5765.00</temperature>
+		<age errorminus="1.200" errorplus="1.200">5.600</age>
+		<metallicity errorminus="0.070" errorplus="0.070">0.370</metallicity>
 		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 202206 b</name>
 			<list>Confirmed planets</list>
-			<mass>17.4</mass>
-			<period>255.87</period>
-			<semimajoraxis>0.83</semimajoraxis>
-			<eccentricity>0.435</eccentricity>
+			<mass type="Msin(i)/sin(i)">17.40000</mass>
+			<period errorminus="0.06000000" errorplus="0.06000000">255.87000000</period>
+			<semimajoraxis>0.830000</semimajoraxis>
+			<eccentricity errorminus="0.001000" errorplus="0.001000">0.435000</eccentricity>
+			<periastron errorminus="0.3000" errorplus="0.3000">161.1800</periastron>
+			<inclination>90.000</inclination>
 			<temperature>277.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>
 			<name>HD 202206 c</name>
 			<list>Confirmed planets</list>
-			<mass>2.44</mass>
-			<period>1383.4</period>
-			<semimajoraxis>2.55</semimajoraxis>
-			<eccentricity>0.267</eccentricity>
+			<mass type="Msin(i)/sin(i)">2.44000</mass>
+			<period errorminus="18.40000000" errorplus="18.40000000">1383.40000000</period>
+			<semimajoraxis>2.550000</semimajoraxis>
+			<eccentricity errorminus="0.021000" errorplus="0.021000">0.267000</eccentricity>
+			<periastron errorminus="6.6500" errorplus="6.6500">78.9900</periastron>
+			<inclination>90.000</inclination>
 			<temperature>159.6</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 	</star>

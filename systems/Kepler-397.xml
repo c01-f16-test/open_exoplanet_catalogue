@@ -10,11 +10,13 @@
 		<name>KOI-2681</name>
 		<name>KIC 6878240</name>
 		<mass errorminus="0.0320" errorplus="0.0320">0.8440</mass>
-		<radius errorminus=".066" errorplus="0.066">0.767</radius>
+		<radius errorminus="0.07" errorplus="0.07">0.77</radius>
+		<magV>15.996</magV>
 		<magJ errorminus="0.027" errorplus="0.027">14.587</magJ>
 		<magH errorminus="0.039" errorplus="0.039">14.123</magH>
 		<magK errorminus="0.051" errorplus="0.051">13.900</magK>
-		<temperature errorminus="100" errorplus="100">5307</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5307.00</temperature>
+		<metallicity>-0.035</metallicity>
 		<planet>
 			<name>Kepler-397 c</name>
 			<name>KOI-2681 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 6878240 c</name>
 			<name>KIC 6878240.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.05103" errorplus="0.05103">0.56319</radius>
-			<period errorminus=".000668" errorplus="0.000668">135.498527</period>
+			<radius errorminus="0.050" errorplus="0.050">0.551</radius>
+			<period errorminus="0.00066800" errorplus="0.00066800">135.49852700</period>
+			<semimajoraxis>0.480000</semimajoraxis>
 			<description>Kepler-397 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-397 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024600" errorplus="0.0024600">2455066.6903800</transittime>
+			<transittime errorminus=".002460" errorplus="0.002460" unit="BJD">2455066.690380</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 6878240 b</name>
 			<name>KIC 6878240.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.12029" errorplus="1.94290">0.22418</radius>
-			<period errorminus=".000186" errorplus="0.000186">22.250949</period>
+			<radius errorminus="1.902" errorplus="1.902">0.219</radius>
+			<period errorminus="0.00018600" errorplus="0.00018600">22.25094900</period>
+			<semimajoraxis>0.144000</semimajoraxis>
 			<description>Kepler-397 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-397 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0052400" errorplus="0.0052400">2454982.4306700</transittime>
+			<transittime errorminus=".005240" errorplus="0.005240" unit="BJD">2454982.430670</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -1,0 +1,32 @@
+<system>
+	<name>HD 214823</name>
+	<rightascension>22 40 19</rightascension>
+	<declination>+31 47 15</declination>
+	<distance errorminus="9.14" errorplus="7.70">97.47</distance>
+	<star>
+		<name>HD 214823</name>
+		<mass errorminus="0.13" errorplus="0.13">1.22</mass>
+		<magV errorminus="0.011" errorplus="0.011">8.068</magV>
+		<magB errorminus="0.016" errorplus="0.016">8.676</magB>
+		<magJ errorminus="0.020" errorplus="0.020">6.952</magJ>
+		<magH errorminus="0.021" errorplus="0.021">6.697</magH>
+		<magK errorminus="0.016" errorplus="0.016">6.640</magK>
+		<temperature errorminus="30.00" errorplus="30.00">6215.00</temperature>
+		<age errorminus="0.200" errorplus="0.200">2.700</age>
+		<metallicity errorminus="0.020" errorplus="0.020">0.170</metallicity>
+		<spectraltype>G0 V</spectraltype>
+		<planet>
+			<name>HD 214823 b</name>
+			<mass errorminus="1.40000" errorplus="1.40000" type="Msini">19.20000</mass>
+			<period errorminus="15.00000000" errorplus="15.00000000">1877.00000000</period>
+			<semimajoraxis errorminus="0.120000" errorplus="0.120000">3.180000</semimajoraxis>
+			<eccentricity errorminus="0.014000" errorplus="0.014000">0.154000</eccentricity>
+			<periastron errorminus="6.7000" errorplus="6.7000">125.9000</periastron>
+			<periastrontime errorminus="34.000000" errorplus="34.000000">2455652.000000</periastrontime>
+			<maximumrvtime errorminus="34.000000" errorplus="34.000000">2455652.000000</maximumrvtime>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

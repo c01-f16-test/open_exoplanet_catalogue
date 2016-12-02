@@ -2,22 +2,29 @@
 	<name>Kepler-1244</name>
 	<rightascension>18 49 12</rightascension>
 	<declination>+46 30 58</declination>
+	<distance errorminus="139.21" errorplus="357.00">764.00</distance>
 	<star>
 		<name>Kepler-1244</name>
 		<mass errorminus="0.14" errorplus="0.26">1.46</mass>
 		<radius errorminus="0.33" errorplus="0.83">1.77</radius>
-		<temperature errorminus="106.3" errorplus="94.5">6680.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.05</metallicity>
+		<magV>12.402</magV>
+		<magJ errorminus="0.021" errorplus="0.021">11.503</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.351</magH>
+		<magK errorminus="0.011" errorplus="0.011">11.269</magK>
+		<temperature errorminus="106.27" errorplus="94.50">6680.00</temperature>
+		<age errorminus="0.359" errorplus="0.420">1.700</age>
+		<metallicity errorminus="0.165" errorplus="0.143">0.050</metallicity>
 		<planet>
 			<name>Kepler-1244 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.056">0.120</radius>
-			<period errorminus="0.000017840" errorplus="0.000017840">3.704281720</period>
+			<period errorminus="0.00001784" errorplus="0.00001784">3.70428172</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003960" errorplus="0.003960" unit="JD">2454965.215900</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

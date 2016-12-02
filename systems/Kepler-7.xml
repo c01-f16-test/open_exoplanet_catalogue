@@ -1,20 +1,22 @@
 <system>
 	<name>Kepler-7</name>
-	<rightascension>19 14 20</rightascension>
+	<rightascension>19 14 19</rightascension>
 	<declination>+41 05 23</declination>
 	<star>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>
 		<name>KIC 5780885</name>
-		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
-		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.36</mass>
+		<radius errorminus="0.01" errorplus="0.01">1.97</radius>
+		<magV>12.885</magV>
 		<magB>13.4</magB>
 		<magR>12.7</magR>
 		<magJ errorminus="0.020" errorplus="0.020">11.833</magJ>
 		<magH errorminus="0.022" errorplus="0.022">11.601</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.535</magK>
-		<temperature errorminus="75" errorplus="75">6027</temperature>
-		<metallicity errorminus="0.10" errorplus="0.10">0.10</metallicity>
+		<temperature errorminus="44.00" errorplus="44.00">5933.00</temperature>
+		<age errorminus="1.0" errorplus="1.0">3.5</age>
+		<metallicity errorminus="0.030" errorplus="0.030">0.110</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>Kepler-7 b</name>
@@ -23,18 +25,19 @@
 			<name>KOI-97.01</name>
 			<name>KOI-97 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.04" errorplus="0.04">0.44</mass>
-			<radius errorminus="0.01" errorplus="0.01">1.62</radius>
-			<period>4.885525</period>
-			<semimajoraxis>0.06246</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<inclination>85.18</inclination>
-			<temperature>1486.8</temperature>
+			<mass errorminus="0.04200" errorplus="0.04300" type="Mass">0.44100</mass>
+			<radius errorminus="0.013" errorplus="0.013">1.622</radius>
+			<period errorminus="0.00000090" errorplus="0.00000090">4.88548920</period>
+			<semimajoraxis errorminus="0.000590" errorplus="0.000590">0.060670</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.1</eccentricity>
+			<periastron errorminus="2.8" errorplus="2.8">357.1</periastron>
+			<inclination errorminus="0.054" errorplus="0.055">85.161</inclination>
+			<temperature errorminus="10" errorplus="10">1630</temperature>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
+			<transittime errorminus=".000020" errorplus="0.000030" unit="BJD">2454967.276870</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>
 </system>

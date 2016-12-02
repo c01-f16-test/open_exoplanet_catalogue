@@ -10,13 +10,14 @@
 		<name>KOI-271</name>
 		<name>KIC 9451706</name>
 		<mass errorminus="0.0400" errorplus="0.0400">1.2690</mass>
-		<radius errorminus="0.035" errorplus="0.035">1.359</radius>
-		<magV errorminus="0.16" errorplus="0.16">11.75</magV>
+		<radius errorminus="0.04" errorplus="0.04">1.36</radius>
+		<magV errorminus="0.16" errorplus="0.16">11.485</magV>
 		<magB errorminus="0.14" errorplus="0.14">12.07</magB>
 		<magJ errorminus="0.024" errorplus="0.024">10.536</magJ>
 		<magH errorminus="0.018" errorplus="0.018">10.300</magH>
 		<magK errorminus="0.019" errorplus="0.019">10.234</magK>
-		<temperature errorminus="106" errorplus="106">6106</temperature>
+		<temperature errorminus="106.00" errorplus="106.00">6106.00</temperature>
+		<metallicity>-0.154</metallicity>
 		<planet>
 			<name>Kepler-127 d</name>
 			<name>KOI-271 d</name>
@@ -24,16 +25,16 @@
 			<name>KIC 9451706 d</name>
 			<name>KIC 9451706.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.24058</radius>
-			<period errorminus="0.000128" errorplus="0.000128">48.630408</period>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.282</semimajoraxis>
+			<radius errorminus="0.012" errorplus="0.012">0.236</radius>
+			<period errorminus="0.00012800" errorplus="0.00012800">48.63040800</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.280000</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.28">0.03</eccentricity>
 			<inclination errorminus="0.2" errorplus="0.5">89.2</inclination>
 			<description>Kepler-127 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0014300" errorplus="0.0014300" unit="BJD">2455005.5470900</transittime>
+			<transittime errorminus=".001430" errorplus="0.001430" unit="BJD">2455005.547090</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -43,16 +44,16 @@
 			<name>KIC 9451706 c</name>
 			<name>KIC 9451706.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01276" errorplus="0.01276">0.24241</radius>
-			<period errorminus="0.000073" errorplus="0.000073">29.393195</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.202</semimajoraxis>
+			<radius errorminus="0.012" errorplus="0.012">0.237</radius>
+			<period errorminus="0.00007300" errorplus="0.00007300">29.39319500</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.200000</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.14">0.03</eccentricity>
 			<inclination errorminus="0.1" errorplus="0.9">88.6</inclination>
 			<description>Kepler-127 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0012100" errorplus="0.0012100" unit="BJD">2455042.0670800</transittime>
+			<transittime errorminus=".001210" errorplus="0.001210" unit="BJD">2455042.067080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -62,15 +63,16 @@
 			<name>KIC 9451706 b</name>
 			<name>KIC 9451706.03</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.00456" errorplus="0.00456">0.12758</radius>
-			<period errorminus="0.000063" errorplus="0.000063">14.435889</period>
-			<semimajoraxis errorminus="0.001" errorplus="0.001">0.126</semimajoraxis>
+			<radius errorminus="0.004" errorplus="0.004">0.125</radius>
+			<period errorminus="0.00006300" errorplus="0.00006300">14.43588900</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.125000</semimajoraxis>
+			<eccentricity errorminus="0.39" errorplus="0.06">0.47</eccentricity>
 			<inclination errorminus="0.1" errorplus="1.3">88.6</inclination>
 			<description>Kepler-127 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-127 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0024600" errorplus="0.0024600" unit="BJD">2454974.5114000</transittime>
+			<transittime errorminus=".002460" errorplus="0.002460" unit="BJD">2454974.511400</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/07/22</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

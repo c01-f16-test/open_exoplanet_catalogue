@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-548</name>
 	<rightascension>19 59 37</rightascension>
-	<declination>+45 26 23</declination>
+	<declination>+45 26 22</declination>
+	<distance errorminus="80.61" errorplus="153.57">776.00</distance>
 	<star>
 		<name>Kepler-548</name>
 		<mass errorminus="0.07" errorplus="0.09">0.93</mass>
 		<radius errorminus="0.08" errorplus="0.16">0.90</radius>
-		<temperature errorminus="230.4" errorplus="265.3">5535.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.14">0.00</metallicity>
+		<magV>14.995</magV>
+		<magJ errorminus="0.029" errorplus="0.029">13.581</magJ>
+		<magH errorminus="0.034" errorplus="0.034">13.148</magH>
+		<magK errorminus="0.031" errorplus="0.031">13.071</magK>
+		<temperature errorminus="230.38" errorplus="265.27">5535.00</temperature>
+		<age errorminus="2.660" errorplus="5.080">4.370</age>
+		<metallicity errorminus="0.169" errorplus="0.135">0.000</metallicity>
 		<planet>
 			<name>Kepler-548 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.098" errorplus="0.195">1.070</radius>
-			<period errorminus="0.000000380" errorplus="0.000000380">4.454194340</period>
+			<period errorminus="0.00000038" errorplus="0.00000038">4.45419434</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000069" errorplus="0.000069" unit="JD">2455005.820206</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

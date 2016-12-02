@@ -2,22 +2,29 @@
 	<name>Kepler-1510</name>
 	<rightascension>19 55 50</rightascension>
 	<declination>+48 15 28</declination>
+	<distance errorminus="277.47" errorplus="570.79">1615.00</distance>
 	<star>
 		<name>Kepler-1510</name>
 		<mass errorminus="0.12" errorplus="0.15">1.19</mass>
 		<radius errorminus="0.20" errorplus="0.46">1.28</radius>
-		<temperature errorminus="224.2" errorplus="177.7">6200.0</temperature>
-		<metallicity errorminus="0.14" errorplus="0.13">0.04</metallicity>
+		<magV>15.169</magV>
+		<magJ errorminus="0.035" errorplus="0.035">14.076</magJ>
+		<magH errorminus="0.047" errorplus="0.047">13.779</magH>
+		<magK errorminus="0.054" errorplus="0.054">13.728</magK>
+		<temperature errorminus="224.25" errorplus="177.72">6200.00</temperature>
+		<age errorminus="1.040" errorplus="1.340">2.750</age>
+		<metallicity errorminus="0.143" errorplus="0.129">0.040</metallicity>
 		<planet>
 			<name>Kepler-1510 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.050" errorplus="0.110">0.300</radius>
-			<period errorminus="0.001896000" errorplus="0.001896000">84.703921000</period>
+			<period errorminus="0.00189600" errorplus="0.00189600">84.70392100</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".020300" errorplus="0.020300" unit="JD">2454985.185900</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

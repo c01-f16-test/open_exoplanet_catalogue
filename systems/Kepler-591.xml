@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-591</name>
-	<rightascension>19 04 06</rightascension>
+	<rightascension>19 04 05</rightascension>
 	<declination>+48 25 54</declination>
+	<distance errorminus="56.90" errorplus="108.33">793.00</distance>
 	<star>
 		<name>Kepler-591</name>
 		<mass errorminus="0.04" errorplus="0.04">0.97</mass>
 		<radius errorminus="0.06" errorplus="0.13">0.94</radius>
-		<temperature errorminus="71.4" errorplus="66.2">5677.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.13">0.01</metallicity>
+		<magV>14.499</magV>
+		<magJ errorminus="0.026" errorplus="0.026">13.327</magJ>
+		<magH errorminus="0.032" errorplus="0.032">12.953</magH>
+		<magK errorminus="0.032" errorplus="0.032">12.971</magK>
+		<temperature errorminus="71.43" errorplus="66.16">5677.00</temperature>
+		<age errorminus="2.490" errorplus="4.070">4.170</age>
+		<metallicity errorminus="0.157" errorplus="0.130">0.010</metallicity>
 		<planet>
 			<name>Kepler-591 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.022" errorplus="0.049">0.302</radius>
-			<period errorminus="0.000319900" errorplus="0.000319900">81.169429900</period>
+			<period errorminus="0.00031990" errorplus="0.00031990">81.16942990</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".003070" errorplus="0.003070" unit="JD">2455011.593210</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

@@ -2,22 +2,29 @@
 	<name>Kepler-1237</name>
 	<rightascension>19 42 31</rightascension>
 	<declination>+44 41 26</declination>
+	<distance errorminus="74.75" errorplus="147.22">1121.00</distance>
 	<star>
 		<name>Kepler-1237</name>
 		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.90</radius>
-		<temperature errorminus="109.1" errorplus="73.6">5472.0</temperature>
-		<metallicity errorminus="0.16" errorplus="0.16">0.12</metallicity>
+		<magV>15.758</magV>
+		<magJ errorminus="0.027" errorplus="0.027">14.326</magJ>
+		<magH errorminus="0.033" errorplus="0.033">13.970</magH>
+		<magK errorminus="0.045" errorplus="0.045">13.851</magK>
+		<temperature errorminus="109.10" errorplus="73.56">5472.00</temperature>
+		<age errorminus="2.870" errorplus="5.710">4.570</age>
+		<metallicity errorminus="0.158" errorplus="0.159">0.120</metallicity>
 		<planet>
 			<name>Kepler-1237 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.019" errorplus="0.035">0.255</radius>
-			<period errorminus="0.000648000" errorplus="0.000648000">84.573322600</period>
+			<period errorminus="0.00064800" errorplus="0.00064800">84.57332260</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".007060" errorplus="0.007060" unit="JD">2454983.153320</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

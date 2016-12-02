@@ -1,33 +1,36 @@
 <system>
 	<name>WASP-135</name>
-	<rightascension>17 49 08.4</rightascension>
-	<declination>+29 52 45.0</declination>
-	<distance errorminus="45" errorplus="45">300</distance>
+	<rightascension>17 49 08</rightascension>
+	<declination>+29 52 44</declination>
+	<distance errorminus="45.00" errorplus="45.00">300.00</distance>
 	<star>
 		<name>WASP-135</name>
 		<name>1SWASPJ174908.40+295244.9</name>
 		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.96</radius>
-		<magV>13.28</magV>
+		<magV>13.280</magV>
 		<magB>14.25</magB>
-		<temperature errorminus="60" errorplus="60">5675</temperature>
-		<age errorminus="0.35" errorplus="1.40">0.60</age>
-		<metallicity errorminus="0.13" errorplus="0.13">0.02</metallicity>
-		<spectraltype>G5</spectraltype>
+		<magJ errorminus="0.015" errorplus="0.015">11.581</magJ>
+		<magH errorminus="0.030" errorplus="0.030">11.123</magH>
+		<magK errorminus="0.018" errorplus="0.018">11.037</magK>
+		<temperature errorminus="60.00" errorplus="60.00">5675.00</temperature>
+		<age errorminus="0.350" errorplus="1.400">0.600</age>
+		<metallicity errorminus="0.130" errorplus="0.130">0.020</metallicity>
+		<spectraltype>G5 V</spectraltype>
 		<planet>
 			<name>WASP-135 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.08" errorplus="0.08">1.90</mass>
-			<radius errorminus="0.09" errorplus="0.09">1.30</radius>
-			<period errorminus="0.0000008" errorplus="0.0000008">1.4013794</period>
-			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0243</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.6" errorplus="0.6">82.0</inclination>
+			<mass errorminus="0.08000" errorplus="0.08000" type="Mass">1.90000</mass>
+			<radius errorminus="0.090" errorplus="0.090">1.300</radius>
+			<period errorminus="0.00000080" errorplus="0.00000080">1.40137940</period>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.024300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.600" errorplus="0.600">82.000</inclination>
 			<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0009" errorplus="0.0009" unit="BJD">2455230.9902</transittime>
+			<transittime errorminus=".000900" errorplus="0.000900" unit="BJD-TDB">2455230.990200</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/11/21</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

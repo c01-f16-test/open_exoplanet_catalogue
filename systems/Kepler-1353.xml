@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1353</name>
 	<rightascension>19 42 56</rightascension>
-	<declination>+42 34 35</declination>
+	<declination>+42 34 34</declination>
+	<distance errorminus="37.42" errorplus="35.54">596.00</distance>
 	<star>
 		<name>Kepler-1353</name>
 		<mass errorminus="0.05" errorplus="0.04">0.76</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.72</radius>
-		<temperature errorminus="111.8" errorplus="158.6">4776.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.06</metallicity>
+		<magV>15.514</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.850</magJ>
+		<magH errorminus="0.025" errorplus="0.025">13.281</magH>
+		<magK errorminus="0.028" errorplus="0.028">13.141</magK>
+		<temperature errorminus="111.78" errorplus="158.62">4776.00</temperature>
+		<age errorminus="2.710" errorplus="5.650">4.680</age>
+		<metallicity errorminus="0.166" errorplus="0.158">-0.060</metallicity>
 		<planet>
 			<name>Kepler-1353 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.033">0.161</radius>
-			<period errorminus="0.000143100" errorplus="0.000143100">24.754396600</period>
+			<period errorminus="0.00014310" errorplus="0.00014310">24.75439660</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005100" errorplus="0.005100" unit="JD">2454973.204750</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

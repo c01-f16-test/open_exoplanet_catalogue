@@ -2,22 +2,29 @@
 	<name>Kepler-612</name>
 	<rightascension>19 25 25</rightascension>
 	<declination>+45 44 52</declination>
+	<distance errorminus="78.85" errorplus="168.23">932.00</distance>
 	<star>
 		<name>Kepler-612</name>
 		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius errorminus="0.08" errorplus="0.17">0.96</radius>
-		<temperature errorminus="129.1" errorplus="92.7">5693.0</temperature>
-		<metallicity errorminus="0.15" errorplus="0.14">0.04</metallicity>
+		<magV>14.911</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.663</magJ>
+		<magH errorminus="0.021" errorplus="0.021">13.315</magH>
+		<magK errorminus="0.029" errorplus="0.029">13.264</magK>
+		<temperature errorminus="129.13" errorplus="92.70">5693.00</temperature>
+		<age errorminus="2.700" errorplus="4.220">4.470</age>
+		<metallicity errorminus="0.155" errorplus="0.137">0.040</metallicity>
 		<planet>
 			<name>Kepler-612 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.024" errorplus="0.059">0.253</radius>
-			<period errorminus="0.000003760" errorplus="0.000003760">3.722156410</period>
+			<period errorminus="0.00000376" errorplus="0.00000376">3.72215641</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000826" errorplus="0.000826" unit="JD">2455004.560286</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

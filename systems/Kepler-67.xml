@@ -1,22 +1,22 @@
 <system>
 	<name>Kepler-67</name>
-	<rightascension>19 36 37</rightascension>
+	<rightascension>19 36 36</rightascension>
 	<declination>+46 09 59</declination>
-	<distance errorminus="90" errorplus="90">1107</distance>
+	<distance errorminus="90.00" errorplus="90.00">1107.00</distance>
 	<star>
 		<name>Kepler-67</name>
 		<name>KOI-2115</name>
 		<name>KIC 9532052</name>
-		<mass errorminus="0.034" errorplus="0.034">0.865</mass>
-		<radius errorminus="0.031" errorplus="0.031">0.778</radius>
-		<magV>16.4</magV>
-		<magJ errorminus="0.03" errorplus="0.03">14.74</magJ>
-		<magH errorminus="0.05" errorplus="0.05">14.34</magH>
+		<mass errorminus="0.03" errorplus="0.03">0.86</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.78</radius>
+		<magV>16.400</magV>
+		<magJ errorminus="0.034" errorplus="0.034">14.741</magJ>
+		<magH errorminus="0.050" errorplus="0.050">14.341</magH>
 		<magK errorminus="0.065" errorplus="0.065">14.155</magK>
-		<temperature errorminus="63" errorplus="63">5331</temperature>
-		<age errorminus="0.17" errorplus="0.17">1</age>
-		<metallicity errorminus="0.003" errorplus="0.003">0.012</metallicity>
-		<spectraltype>G9V</spectraltype>
+		<temperature errorminus="63.00" errorplus="63.00">5331.00</temperature>
+		<age errorminus="0.170" errorplus="0.170">1.000</age>
+		<metallicity errorminus="0.100" errorplus="0.100">-0.200</metallicity>
+		<spectraltype>G9 V</spectraltype>
 		<planet>
 			<name>Kepler-67 b</name>
 			<name>KOI-2115.01</name>
@@ -24,14 +24,15 @@
 			<name>KIC 9532052 b</name>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
-			<radius errorminus="0.014581" errorplus="0.014581">0.267923</radius>
-			<period errorminus="0.00011" errorplus="0.00011">15.72590</period>
-			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1171</semimajoraxis>
+			<mass errorminus="0.06" errorplus="0.06">0.31</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.262</radius>
+			<period errorminus="0.00011000" errorplus="0.00011000">15.72590000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.117100</semimajoraxis>
 			<description>Kepler-67 b is orbiting a Sun-like star in the billion-year-old open cluster NGC6811. It demonstrates that small planets can form and survive in a dense cluster environment. The frequency of planets around stars in open cluster and field stars in the Milky Way are approximately the same.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0048" errorplus="0.0048">2454966.9855</transittime>
+			<transittime errorminus=".004800" errorplus="0.004800" unit="BJD">2454966.985500</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>13/06/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

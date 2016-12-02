@@ -1,0 +1,31 @@
+<system>
+	<name>Kepler-1647</name>
+	<rightascension>19 52 36</rightascension>
+	<declination>+40 39 22</declination>
+	<star>
+		<name>Kepler-1647</name>
+		<mass errorminus="0.01" errorplus="0.01">1.22</mass>
+		<radius errorminus="0.01" errorplus="0.01">1.79</radius>
+		<magV>13.545</magV>
+		<magJ errorminus="0.024" errorplus="0.024">12.376</magJ>
+		<magH errorminus="0.026" errorplus="0.026">12.078</magH>
+		<magK errorminus="0.024" errorplus="0.024">12.007</magK>
+		<temperature errorminus="100.00" errorplus="100.00">6210.00</temperature>
+		<age errorminus="0.250" errorplus="0.250">4.400</age>
+		<metallicity errorminus="0.050" errorplus="0.050">-0.140</metallicity>
+		<planet>
+			<name>Kepler-1647 b</name>
+			<mass errorminus="0.64815" errorplus="0.64815" type="Mass">1.51968</mass>
+			<radius errorminus="0.012" errorplus="0.012">1.059</radius>
+			<period errorminus="0.02270000" errorplus="0.02270000">1107.59230000</period>
+			<semimajoraxis errorminus="0.007000" errorplus="0.007000">2.720500</semimajoraxis>
+			<eccentricity errorminus="0.068900" errorplus="0.068900">0.058100</eccentricity>
+			<periastron errorminus="146.5723" errorplus="146.5723">155.0464</periastron>
+			<inclination errorminus="0.004" errorplus="0.004">90.097</inclination>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004900" errorplus="0.004900" unit="BJD">2454998.497200</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

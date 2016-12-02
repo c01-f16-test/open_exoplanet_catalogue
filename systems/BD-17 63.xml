@@ -1,8 +1,8 @@
 <system>
 	<name>BD-17 63</name>
-	<rightascension>00 28 34.30654</rightascension>
-	<declination>-16 13 34.8458</declination>
-	<distance errorminus="1.6" errorplus="1.6">35.7</distance>
+	<rightascension>00 28 34</rightascension>
+	<declination>-16 13 34</declination>
+	<distance errorminus="2.08" errorplus="1.87">37.54</distance>
 	<star>
 		<name>BD-17 63</name>
 		<name>HIP 2247</name>
@@ -11,27 +11,28 @@
 		<name>2MASS J00283433-1613343</name>
 		<mass errorminus="0.03" errorplus="0.03">0.74</mass>
 		<radius>0.69</radius>
-		<magV>9.62</magV>
-		<magB>10.77</magB>
+		<magV errorminus="0.024" errorplus="0.024">9.566</magV>
+		<magB errorminus="0.045" errorplus="0.045">10.731</magB>
 		<magJ errorminus="0.019" errorplus="0.019">7.574</magJ>
 		<magH errorminus="0.033" errorplus="0.033">7.027</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.914</magK>
-		<temperature errorminus="93" errorplus="93">4714</temperature>
-		<age errorminus="4" errorplus="4">4.3</age>
-		<metallicity errorminus="0.06" errorplus="0.06">-0.03</metallicity>
-		<spectraltype>K5V</spectraltype>
+		<temperature errorminus="93.00" errorplus="93.00">4714.00</temperature>
+		<age errorminus="4.000" errorplus="4.000">4.300</age>
+		<metallicity errorminus="0.060" errorplus="0.060">-0.030</metallicity>
+		<spectraltype>K5 V</spectraltype>
 		<planet>
 			<name>BD-17 63 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.12" type="msini">5.1</mass>
-			<period errorminus="0.6" errorplus="0.6">655.6</period>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">1.34</semimajoraxis>
-			<eccentricity errorminus="0.005" errorplus="0.005">0.54</eccentricity>
-			<periastron errorminus="1.9" errorplus="1.9">112.2</periastron>
-			<periastrontime errorminus="1.5" errorplus="1.5">2454627.1</periastrontime>
+			<mass errorminus="0.12000" errorplus="0.12000" type="Msini">5.10000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">655.60000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">1.340000</semimajoraxis>
+			<eccentricity errorminus="0.005000" errorplus="0.005000">0.540000</eccentricity>
+			<periastron errorminus="1.9000" errorplus="1.9000">112.2000</periastron>
+			<periastrontime errorminus="1.500000" errorplus="1.500000">2454627.100000</periastrontime>
+			<maximumrvtime errorminus="1.500000" errorplus="1.500000">2454627.100000</maximumrvtime>
 			<description>The star BD-1763 is a K-type star in the constellation Cetus. It is five times less luminous than our Sun.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

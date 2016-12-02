@@ -1,23 +1,30 @@
 <system>
 	<name>Kepler-1406</name>
-	<rightascension>19 28 20</rightascension>
+	<rightascension>19 28 19</rightascension>
 	<declination>+38 54 54</declination>
+	<distance errorminus="58.37" errorplus="92.69">587.00</distance>
 	<star>
 		<name>Kepler-1406</name>
 		<mass errorminus="0.04" errorplus="0.04">1.05</mass>
 		<radius errorminus="0.11" errorplus="0.18">1.12</radius>
-		<temperature errorminus="55.7" errorplus="61.0">5892.0</temperature>
-		<metallicity errorminus="0.08" errorplus="0.10">0.04</metallicity>
+		<magV>13.256</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.227</magJ>
+		<magH errorminus="0.021" errorplus="0.021">11.908</magH>
+		<magK errorminus="0.021" errorplus="0.021">11.880</magK>
+		<temperature errorminus="55.69" errorplus="61.02">5892.00</temperature>
+		<age errorminus="2.680" errorplus="1.690">5.010</age>
+		<metallicity errorminus="0.083" errorplus="0.095">0.040</metallicity>
 		<planet>
 			<name>Kepler-1406 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.016">0.098</radius>
-			<period errorminus="0.000069040" errorplus="0.000069040">11.629058280</period>
+			<period errorminus="0.00006904" errorplus="0.00006904">11.62905828</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".004720" errorplus="0.004720" unit="JD">2454965.820380</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

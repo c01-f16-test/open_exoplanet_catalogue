@@ -1,0 +1,50 @@
+<system>
+	<name>HD 285968</name>
+	<name>GJ 176</name>
+	<name>Gliese 176</name>
+	<rightascension>04 42 55</rightascension>
+	<declination>+18 57 29</declination>
+	<distance errorminus="0.23" errorplus="0.22">9.42</distance>
+	<star>
+		<name>Gliese 176</name>
+		<name>GJ 176</name>
+		<name>HD 285968</name>
+		<name>HIP 21932</name>
+		<name>TYC 1275-2034-1</name>
+		<name>BD+18 683</name>
+		<name>2MASS J04425581+1857285</name>
+		<mass errorminus="0.014" errorplus="0.014">0.45</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.45</radius>
+		<magV errorminus="0.030" errorplus="0.030">9.970</magV>
+		<magU>12.668</magU>
+		<magB errorminus="0.025" errorplus="0.025">11.510</magB>
+		<magR>8.931</magR>
+		<magI>7.702</magI>
+		<magJ errorminus="0.024" errorplus="0.024">6.462</magJ>
+		<magH errorminus="0.033" errorplus="0.033">5.824</magH>
+		<magK errorminus="0.034" errorplus="0.034">5.607</magK>
+		<temperature errorminus="77.00" errorplus="77.00">3679.00</temperature>
+		<metallicity errorminus="0.2" errorplus="0.2">0.150</metallicity>
+		<spectraltype>M2 V</spectraltype>
+		<planet>
+			<name>Gliese 176 b</name>
+			<name>GJ 176 b</name>
+			<name>Gj 176 b</name>
+			<name>Gl 176 b</name>
+			<name>HD 285968 b</name>
+			<list>Confirmed planets</list>
+			<mass type="Msini">0.02600</mass>
+			<period errorminus="0.00540000" errorplus="0.00540000">8.78360000</period>
+			<semimajoraxis>0.066000</semimajoraxis>
+			<eccentricity errorminus="0.0" errorplus="0.0">0.000000</eccentricity>
+			<periastron>0.0000</periastron>
+			<periastrontime errorminus="0.330000" errorplus="0.330000">2454399.790000</periastrontime>
+			<maximumrvtime errorminus="0.330000" errorplus="0.330000">2454399.790000</maximumrvtime>
+			<temperature>450</temperature>
+			<description>Gliese 176 is a red dwarf located in the constellation Taurus. It has half the mass of our Sun. The planet consists mainly of rock but probably has a thick gas atmosphere.</description>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2008</discoveryyear>
+		</planet>
+	</star>
+</system>

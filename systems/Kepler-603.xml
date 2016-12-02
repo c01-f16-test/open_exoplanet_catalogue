@@ -2,46 +2,55 @@
 	<name>Kepler-603</name>
 	<rightascension>19 37 07</rightascension>
 	<declination>+42 17 27</declination>
+	<distance errorminus="99.99" errorplus="217.66">967.00</distance>
 	<star>
 		<name>Kepler-603</name>
 		<mass errorminus="0.06" errorplus="0.06">1.01</mass>
 		<radius errorminus="0.10" errorplus="0.23">1.01</radius>
-		<temperature errorminus="142.6" errorplus="90.0">5808.0</temperature>
-		<metallicity errorminus="0.17" errorplus="0.13">0.03</metallicity>
+		<magV>14.854</magV>
+		<magJ errorminus="0.024" errorplus="0.024">13.601</magJ>
+		<magH errorminus="0.026" errorplus="0.026">13.282</magH>
+		<magK errorminus="0.034" errorplus="0.034">13.214</magK>
+		<temperature errorminus="142.55" errorplus="90.04">5808.00</temperature>
+		<age errorminus="2.560" errorplus="2.700">4.370</age>
+		<metallicity errorminus="0.166" errorplus="0.134">0.030</metallicity>
 		<planet>
 			<name>Kepler-603 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.023" errorplus="0.053">0.236</radius>
-			<period errorminus="0.000089430" errorplus="0.000089430">21.053585960</period>
+			<period errorminus="0.00008943" errorplus="0.00008943">21.05358596</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002310" errorplus="0.002310" unit="JD">2455004.924330</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-603 c</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.055" errorplus="0.132">0.580</radius>
-			<period errorminus="0.000499900" errorplus="0.000499900">127.907577400</period>
+			<period errorminus="0.00049990" errorplus="0.00049990">127.90757740</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002410" errorplus="0.002410" unit="JD">2455079.449530</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<planet>
 			<name>Kepler-603 d</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.012" errorplus="0.022">0.118</radius>
-			<period errorminus="0.000042340" errorplus="0.000042340">6.217129200</period>
+			<period errorminus="0.00004234" errorplus="0.00004234">6.21712920</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".005660" errorplus="0.005660" unit="JD">2454964.721640</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

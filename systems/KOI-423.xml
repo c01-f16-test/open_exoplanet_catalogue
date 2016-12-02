@@ -2,42 +2,44 @@
 	<name>KOI-423</name>
 	<name>Kepler-39</name>
 	<rightascension>19 47 50</rightascension>
-	<declination>+46 02 04</declination>
-	<distance>1200</distance>
+	<declination>+46 02 03</declination>
+	<distance errorminus="250.00" errorplus="250.00">1200.00</distance>
 	<star>
 		<name>KOI-423</name>
 		<name>Kepler-39</name>
 		<name>KIC 9478990</name>
 		<name>2MASS J19475046+4602034</name>
-		<mass errorminus="0.06" errorplus="0.07">1.26</mass>
-		<radius errorminus="0.03" errorplus="0.03">1.25</radius>
-		<magV>14.3</magV>
+		<mass errorminus="0.07" errorplus="0.06">1.29</mass>
+		<radius errorminus="0.10" errorplus="0.10">1.40</radius>
+		<magV>14.460</magV>
 		<magB>14.9</magB>
 		<magR errorminus="0.12" errorplus="0.12">14.43</magR>
 		<magJ errorminus="0.025" errorplus="0.025">13.236</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.999</magH>
 		<magK errorminus="0.028" errorplus="0.028">12.918</magK>
-		<temperature errorminus="100" errorplus="100">6350</temperature>
-		<age errorminus="0.7" errorplus="0.9">1.0</age>
-		<metallicity errorminus="0.14" errorplus="0.14">0.10</metallicity>
-		<spectraltype>F7V</spectraltype>
+		<temperature errorminus="100.00" errorplus="100.00">6350.00</temperature>
+		<age errorminus="0.900" errorplus="0.800">2.100</age>
+		<metallicity errorminus="0.140" errorplus="0.140">0.100</metallicity>
+		<spectraltype>F7 V</spectraltype>
 		<planet>
 			<name>KOI-423 b</name>
 			<name>KOI-423.01</name>
 			<name>Kepler-39 b</name>
 			<name>KIC 9478990 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.0" errorplus="1.0">19.1</mass>
-			<radius errorminus="0.03" errorplus="0.03">1.11</radius>
-			<period errorminus="0.000030" errorplus="0.000030">21.087212</period>
-			<semimajoraxis errorminus="0.003" errorplus="0.003">0.162</semimajoraxis>
-			<eccentricity>0</eccentricity>
-			<inclination errorminus="0.11" errorplus="0.13">89.23</inclination>
+			<mass errorminus="1.30000" errorplus="1.30000" type="Mass">20.10000</mass>
+			<radius errorminus="0.100" errorplus="0.090">1.240</radius>
+			<period errorminus="0.00003700" errorplus="0.00003700">21.08721000</period>
+			<semimajoraxis errorminus="0.003000" errorplus="0.003000">0.164000</semimajoraxis>
+			<eccentricity errorminus="0.057000" errorplus="0.057000">0.112000</eccentricity>
+			<periastron errorminus="14.0000" errorplus="22.0000">99.0000</periastron>
+			<inclination errorminus="0.220" errorplus="0.220">89.070</inclination>
+			<temperature errorminus="29" errorplus="29">897</temperature>
 			<description>This planet was confirmed by SOPHIE measurements (Bouchy et al. 2011). The eccentricity is only significant at a 2-sigma level, indicating it may be spurious. As such the parameters for a circular orbit are given here.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455942.60707</transittime>
+			<transittime errorminus=".000240" errorplus="0.000240" unit="BJD-TDB">2455942.607080</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

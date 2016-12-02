@@ -1,0 +1,26 @@
+<system>
+	<name>K2-45</name>
+	<rightascension>11 18 31</rightascension>
+	<declination>-01 46 26</declination>
+	<star>
+		<name>K2-45</name>
+		<mass errorminus="0.08" errorplus="0.08">0.50</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.45</radius>
+		<magV errorminus="0.010" errorplus="0.010">15.780</magV>
+		<magB errorminus="0.060" errorplus="0.060">17.050</magB>
+		<magJ errorminus="0.026" errorplus="0.026">13.536</magJ>
+		<magH errorminus="0.024" errorplus="0.024">12.920</magH>
+		<magK errorminus="0.033" errorplus="0.033">12.756</magK>
+		<temperature errorminus="90.00" errorplus="90.00">4103.00</temperature>
+		<planet>
+			<name>K2-45 b</name>
+			<radius errorminus=".000" errorplus="0.000">0.599</radius>
+			<period errorminus="0.00000690" errorplus="0.00000690">1.72926840</period>
+			<semimajoraxis errorminus="0.001200" errorplus="0.001200">0.022400</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000180" errorplus="0.000180" unit="BJD_TDB">2456809.526040</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>

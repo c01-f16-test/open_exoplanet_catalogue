@@ -2,31 +2,45 @@
 	<name>HD 52265</name>
 	<rightascension>07 00 18</rightascension>
 	<declination>-05 22 01</declination>
-	<distance>28.1</distance>
+	<distance errorminus="0.68" errorplus="0.65">28.07</distance>
 	<star>
 		<name>HD 52265</name>
-		<mass>1.2</mass>
-		<radius>1.25</radius>
-		<magV>6.3</magV>
-		<magB>6.837</magB>
-		<magJ>5.242</magJ>
+		<mass>1.18</mass>
+		<radius>1.10</radius>
+		<magV>6.300</magV>
+		<magB>6.870</magB>
+		<magJ errorminus="8.888" errorplus="8.888">5.242</magJ>
 		<magH errorminus="0.034" errorplus="0.034">5.033</magH>
 		<magK errorminus="0.017" errorplus="0.017">4.953</magK>
-		<temperature>6159.0</temperature>
-		<age>3.5</age>
-		<metallicity>0.21</metallicity>
+		<temperature errorminus="50.00" errorplus="50.00">6060.00</temperature>
+		<age>3.500</age>
+		<metallicity errorminus="0.060" errorplus="0.060">0.210</metallicity>
 		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 52265 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.03" errorplus="0.03">1.05</mass>
-			<period errorminus="0.42" errorplus="0.42">119.6</period>
-			<semimajoraxis>0.5</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.35</eccentricity>
-			<temperature>426.0</temperature>
+			<mass errorminus="0.03000" errorplus="0.03000" type="Msini">1.05000</mass>
+			<period errorminus="0.42000000" errorplus="0.42000000">119.60000000</period>
+			<semimajoraxis>0.500000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.350000</eccentricity>
+			<periastron errorminus="6.0000" errorplus="6.0000">211.0000</periastron>
+			<periastrontime errorminus="1.700000" errorplus="1.700000">2451422.300000</periastrontime>
+			<maximumrvtime errorminus="1.700000" errorplus="1.700000">2451422.300000</maximumrvtime>
+			<temperature errorminus="75" errorplus="75">405</temperature>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/06/24</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2000</discoveryyear>
+		</planet>
+		<planet>
+			<name>HD 52265 c</name>
+			<mass errorminus="0.09" errorplus="0.09">0.35</mass>
+			<period errorminus="0.2" errorplus="0.2">59.9</period>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.316</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.05</eccentricity>
+			<periastron errorminus="35.0" errorplus="35.0">358.0</periastron>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 </system>

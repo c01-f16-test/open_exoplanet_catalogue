@@ -9,12 +9,14 @@
 		<name>Kepler-324</name>
 		<name>KOI-1831</name>
 		<name>KIC 11601584</name>
-		<mass errorminus="0.1500" errorplus="0.1500">0.8500</mass>
-		<radius errorminus=".072" errorplus="0.072">0.840</radius>
+		<mass errorminus="0.1500" errorplus="0.1500">0.86</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.84</radius>
+		<magV>14.122</magV>
 		<magJ errorminus="0.027" errorplus="0.027">12.783</magJ>
-		<magH errorminus="0.03" errorplus="0.03">12.34</magH>
+		<magH errorminus="0.031" errorplus="0.031">12.337</magH>
 		<magK errorminus="0.025" errorplus="0.025">12.291</magK>
-		<temperature errorminus="100" errorplus="100">5194</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">5194.00</temperature>
+		<metallicity>-0.009</metallicity>
 		<planet>
 			<name>Kepler-324 c</name>
 			<name>KOI-1831 c</name>
@@ -22,13 +24,14 @@
 			<name>KIC 11601584 c</name>
 			<name>KIC 11601584.01</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.03007" errorplus="0.03007">0.28706</radius>
-			<period errorminus=".000314" errorplus="0.000314">51.805612</period>
+			<radius errorminus="0.029" errorplus="0.029">0.281</radius>
+			<period errorminus="0.00031400" errorplus="0.00031400">51.80561200</period>
+			<semimajoraxis>0.260000</semimajoraxis>
 			<description>Kepler-324 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-324 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0029100" errorplus="0.0029100">2455016.0004900</transittime>
+			<transittime errorminus=".002910" errorplus="0.002910" unit="BJD">2455016.000490</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 		<planet>
@@ -38,13 +41,14 @@
 			<name>KIC 11601584 b</name>
 			<name>KIC 11601584.02</name>
 			<list>Confirmed planets</list>
-			<radius errorminus="0.01002" errorplus="0.01002">0.10389</radius>
-			<period errorminus=".000025" errorplus="0.000025">4.385315</period>
+			<radius errorminus="0.010" errorplus="0.010">0.102</radius>
+			<period errorminus="0.00002500" errorplus="0.00002500">4.38531500</period>
+			<semimajoraxis>0.050000</semimajoraxis>
 			<description>Kepler-324 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-324 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
-			<transittime errorminus="0.0031300" errorplus="0.0031300">2454972.2265600</transittime>
+			<transittime errorminus=".003130" errorplus="0.003130" unit="BJD">2454972.226560</transittime>
 			<istransiting>1</istransiting>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

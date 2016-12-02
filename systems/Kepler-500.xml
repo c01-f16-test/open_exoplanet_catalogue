@@ -2,22 +2,29 @@
 	<name>Kepler-500</name>
 	<rightascension>19 43 48</rightascension>
 	<declination>+43 51 07</declination>
+	<distance errorminus="52.20" errorplus="70.12">747.00</distance>
 	<star>
 		<name>Kepler-500</name>
 		<mass errorminus="0.04" errorplus="0.04">1.02</mass>
 		<radius errorminus="0.07" errorplus="0.10">1.03</radius>
-		<temperature errorminus="97.3" errorplus="100.8">5813.0</temperature>
-		<metallicity errorminus="0.10" errorplus="0.09">0.03</metallicity>
+		<magV>14.176</magV>
+		<magJ errorminus="0.023" errorplus="0.023">12.995</magJ>
+		<magH errorminus="0.023" errorplus="0.023">12.693</magH>
+		<magK errorminus="0.022" errorplus="0.022">12.588</magK>
+		<temperature errorminus="97.30" errorplus="100.75">5813.00</temperature>
+		<age errorminus="2.290" errorplus="2.570">4.370</age>
+		<metallicity errorminus="0.101" errorplus="0.092">0.030</metallicity>
 		<planet>
 			<name>Kepler-500 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.015" errorplus="0.022">0.230</radius>
-			<period errorminus="0.000009110" errorplus="0.000009110">8.508324400</period>
+			<period errorminus="0.00000911" errorplus="0.00000911">8.50832440</period>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".000908" errorplus="0.000908" unit="JD">2454967.786614</transittime>
 			<istransiting>1</istransiting>
 			<new>1</new>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
 	</star>

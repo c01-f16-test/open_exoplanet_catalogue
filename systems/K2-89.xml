@@ -1,0 +1,26 @@
+<system>
+	<name>K2-89</name>
+	<rightascension>03 48 16</rightascension>
+	<declination>+20 27 34</declination>
+	<star>
+		<name>K2-89</name>
+		<mass errorminus="0.04" errorplus="0.04">0.35</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.32</radius>
+		<magV errorminus="0.050" errorplus="0.050">14.162</magV>
+		<magB errorminus="0.060" errorplus="0.060">15.628</magB>
+		<magJ errorminus="0.020" errorplus="0.020">10.933</magJ>
+		<magH errorminus="0.027" errorplus="0.027">10.318</magH>
+		<magK errorminus="0.018" errorplus="0.018">10.106</magK>
+		<temperature errorminus="51.00" errorplus="51.00">3691.00</temperature>
+		<planet>
+			<name>K2-89 b</name>
+			<radius errorminus="0.007" errorplus="0.007">0.055</radius>
+			<period errorminus="0.00006500" errorplus="0.00006500">1.09602600</period>
+			<semimajoraxis errorminus="0.000510" errorplus="0.000510">0.014620</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<transittime errorminus=".002300" errorplus="0.002300" unit="BJD_TDB">2457066.006600</transittime>
+			<lastupdate>16/12/02</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+		</planet>
+	</star>
+</system>
