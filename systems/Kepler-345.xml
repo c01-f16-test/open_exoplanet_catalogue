@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.077</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.2</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-345 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.15</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.266</metallicity>
+		<magV errorminus="" errorplus="">14.028</magV>
 	</star>
 </system>

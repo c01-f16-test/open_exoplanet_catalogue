@@ -14,7 +14,7 @@
 		<name>KIC 4636578</name>
 		<temperature errorminus="100" errorplus="100">6186</temperature>
 		<radius errorminus=".306" errorplus="0.306">1.534</radius>
-		<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
+		<mass errorminus="0.1200" errorplus="0.1200">1.0</mass>
 		<planet>
 			<name>Kepler-350 c</name>
 			<name>KOI-2025 c</name>
@@ -26,10 +26,11 @@
 			<transittime errorminus="0.0029700" errorplus="0.0029700">2454981.3879300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-350 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-350 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.01000" errorplus="0.01000">0.019</mass>
 		</planet>
 		<planet>
 			<name>Kepler-350 d</name>
@@ -42,10 +43,11 @@
 			<transittime errorminus="0.0041700" errorplus="0.0041700">2454964.6233300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-350 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-350 d are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
+			<discoveryyear>2013</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.01500" errorplus="0.01700">0.047</mass>
 		</planet>
 		<planet>
 			<name>Kepler-350 b</name>
@@ -62,6 +64,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.104</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.38</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.308</metallicity>
+		<magV errorminus="" errorplus="">13.781</magV>
 	</star>
 </system>

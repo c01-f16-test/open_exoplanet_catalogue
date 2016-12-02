@@ -14,7 +14,7 @@
 		<name>KIC 2307415</name>
 		<temperature errorminus="100" errorplus="100">6133</temperature>
 		<radius errorminus=".243" errorplus="0.243">1.335</radius>
-		<mass errorminus="0.0970" errorplus="0.0970">1.1300</mass>
+		<mass errorminus="0.0970" errorplus="0.0970">0.97</mass>
 		<planet>
 			<name>Kepler-356 c</name>
 			<name>KOI-2053 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.115</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.16</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-356 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.057</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.26</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.325</metallicity>
+		<magV errorminus="" errorplus="">12.992</magV>
 	</star>
 </system>

@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.118</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.12</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-352 b</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.085</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.26</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">0.79</mass>
+		<metallicity errorminus="" errorplus="">-0.175</metallicity>
+		<magV errorminus="" errorplus="">12.957</magV>
 	</star>
 </system>

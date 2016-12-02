@@ -2,29 +2,33 @@
 	<name>HD 143361</name>
 	<rightascension>16 01 50</rightascension>
 	<declination>-44 26 04</declination>
-	<distance>59.35</distance>
+	<distance errorminus="5.09" errorplus="5.09">65.66</distance>
 	<star>
-		<mass>0.95</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.95</mass>
 		<magV>9.2</magV>
 		<magB>9.93</magB>
 		<magJ errorminus="0.026" errorplus="0.026">7.905</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.572</magH>
 		<magK errorminus="0.018" errorplus="0.018">7.488</magK>
-		<metallicity>0.29</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<metallicity errorminus="0.1" errorplus="0.1">0.29</metallicity>
+		<spectraltype>G6 V</spectraltype>
 		<planet>
 			<name>HD 143361 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.12</mass>
-			<period>1057</period>
-			<semimajoraxis>2</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
+			<mass errorminus="0.24" errorplus="0.24">3.48</mass>
+			<period errorminus="3.2" errorplus="3.2">1046.2</period>
+			<semimajoraxis errorminus="0.07" errorplus="0.07">2</semimajoraxis>
+			<eccentricity errorminus="0.015" errorplus="0.015">0.15</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/05/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>161.0</temperature>
+			<periastron errorminus="3.4400" errorplus="3.4400">241.22</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 143361</name>
-		<temperature>5940.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5505.0</temperature>
+		<radius errorminus="0.08" errorplus="0.08">0.99</radius>
+		<age errorminus="5.000" errorplus="5.000">5.0</age>
 	</star>
 </system>

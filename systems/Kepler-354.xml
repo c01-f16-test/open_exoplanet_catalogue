@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.054</semimajoraxis>
+			<impactparameter errorminus="0.2800" errorplus="0.2800">0.73</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-354 d</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.146</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.16</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-354 c</name>
@@ -61,6 +65,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.115</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.63</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">0.65</mass>
+		<metallicity errorminus="" errorplus="">-0.036</metallicity>
+		<magV errorminus="" errorplus="">15.549</magV>
 	</star>
 </system>

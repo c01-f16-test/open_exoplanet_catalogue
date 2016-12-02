@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.076</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.05</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-348 c</name>
@@ -45,6 +47,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.138</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.62</impactparameter>
 		</planet>
+		<mass errorminus="" errorplus="">1.15</mass>
+		<metallicity errorminus="" errorplus="">-0.039</metallicity>
+		<magV errorminus="" errorplus="">12.556</magV>
 	</star>
 </system>

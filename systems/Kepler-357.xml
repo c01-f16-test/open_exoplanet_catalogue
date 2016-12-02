@@ -21,7 +21,7 @@
 			<name>KOI-2073.01</name>
 			<name>KIC 8164257 d</name>
 			<name>KIC 8164257.01</name>
-			<radius errorminus="0.00365" errorplus="0.18591">0.31258</radius>
+			<radius errorminus="0.182" errorplus="0.18591">0.31258</radius>
 			<period errorminus=".000460" errorplus="0.000460">49.499875</period>
 			<transittime errorminus="0.0053800" errorplus="0.0053800">2454972.0494600</transittime>
 			<list>Confirmed planets</list>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.246</semimajoraxis>
+			<impactparameter errorminus="0.3400" errorplus="0.3400">0.91</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-357 b</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.063</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.27</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-357 c</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.12</semimajoraxis>
+			<impactparameter errorminus="0.3400" errorplus="0.3400">0.82</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.051</metallicity>
+		<magV errorminus="" errorplus="">15.565</magV>
 	</star>
 </system>
