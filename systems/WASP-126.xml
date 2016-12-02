@@ -23,17 +23,20 @@
 			<list>Confirmed planets</list>
 			<radius errorminus="0.05" errorplus="0.10">0.96</radius>
 			<mass errorminus="0.04" errorplus="0.04">0.28</mass>
-			<period>3.28880</period>
+			<period errorminus="1e-05" errorplus="1e-05">3.28880</period>
 			<transittime unit="HJD">2547028.5834</transittime>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0449</semimajoraxis>
 			<temperature errorminus="60" errorplus="60">1480</temperature>
 			<inclination errorminus="1.5" errorplus="1.5">87.9</inclination>
-			<eccentricity upperlimit="0.18" />
+			<eccentricity upperlimit="0.18">0.18</eccentricity>
 			<description>This Hot Jupiter was discovered by WASP-South. This low mass planet with a large radius is a good target for transmission spectroscopy.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>16/02/04</lastupdate>
 			<discoveryyear>2016</discoveryyear>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.3</impactparameter>
 		</planet>
+		<radius errorminus="0.05" errorplus="0.10">1.27</radius>
+		<age errorminus="1.600" errorplus="1.600">6.4</age>
 	</star>
 </system>

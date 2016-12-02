@@ -32,6 +32,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.117</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.49</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-381 b</name>
@@ -48,6 +50,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.066</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.29</impactparameter>
 		</planet>
 	</star>
 </system>

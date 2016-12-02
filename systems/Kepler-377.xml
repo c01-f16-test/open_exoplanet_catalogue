@@ -12,9 +12,9 @@
 		<name>Kepler-377</name>
 		<name>KOI-2279</name>
 		<name>KIC 3661886</name>
-		<temperature errorminus="28" errorplus="128">5949</temperature>
+		<temperature errorminus="128.0" errorplus="128">5949</temperature>
 		<radius errorminus=".229" errorplus="0.229">1.224</radius>
-		<mass errorminus="0.0960" errorplus="0.0960">1.1040</mass>
+		<mass errorminus="0.0960" errorplus="0.0960">0.88</mass>
 		<planet>
 			<name>Kepler-377 c</name>
 			<name>KOI-2279 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.182</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.34</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-377 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.109</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.06</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.497</metallicity>
+		<magV errorminus="" errorplus="">13.86</magV>
 	</star>
 </system>

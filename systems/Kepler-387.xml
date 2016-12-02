@@ -12,7 +12,7 @@
 		<name>Kepler-387</name>
 		<name>KOI-2443</name>
 		<name>KIC 9209624</name>
-		<temperature errorminus="54" errorplus="154">5774</temperature>
+		<temperature errorminus="154.0" errorplus="154">5774</temperature>
 		<radius errorminus=".240" errorplus="0.240">1.046</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.1300</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.03</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-387 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.098</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.13</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.233</metallicity>
+		<magV errorminus="" errorplus="">13.987</magV>
 	</star>
 </system>

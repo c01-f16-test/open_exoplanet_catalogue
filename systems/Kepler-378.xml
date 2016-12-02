@@ -14,7 +14,7 @@
 		<name>KIC 9718066</name>
 		<temperature errorminus="100" errorplus="100">4661</temperature>
 		<radius errorminus=".035" errorplus="0.035">0.671</radius>
-		<mass errorminus="0.0950" errorplus="0.0950">0.6660</mass>
+		<mass errorminus="0.0950" errorplus="0.0950">0.96</mass>
 		<planet>
 			<name>Kepler-378 b</name>
 			<name>KOI-2287 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.112</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.54</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-378 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.166</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.35</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.553</metallicity>
+		<magV errorminus="" errorplus="">12.485</magV>
 	</star>
 </system>

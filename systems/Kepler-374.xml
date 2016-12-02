@@ -14,7 +14,7 @@
 		<name>KIC 6871071</name>
 		<temperature errorminus="200" errorplus="200">5977</temperature>
 		<radius errorminus=".474" errorplus="0.474">0.911</radius>
-		<mass errorminus="0.1100" errorplus="0.1100">1.0300</mass>
+		<mass errorminus="0.1100" errorplus="0.1100">0.84</mass>
 		<planet>
 			<name>Kepler-374 c</name>
 			<name>KOI-2220 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.042</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.29</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-374 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.056</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.69</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-374 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.029</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.05</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.441</metallicity>
+		<magV errorminus="" errorplus="">14.686</magV>
 	</star>
 </system>

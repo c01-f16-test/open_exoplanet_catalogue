@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.055</semimajoraxis>
+			<impactparameter errorminus="0.3700" errorplus="0.3700">0.6</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-382 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.097</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.03</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.314</metallicity>
+		<magV errorminus="" errorplus="">14.623</magV>
 	</star>
 </system>
