@@ -33,6 +33,8 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/01/16</lastupdate>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0100" errorplus="0.0100">0.92</impactparameter>
 		</planet>
+		<age errorminus="" errorplus="">6.68</age>
 	</star>
 </system>

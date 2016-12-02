@@ -31,5 +31,6 @@
 			<lastupdate>15/07/07</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
+		<magV errorminus="0.010" errorplus="0.010">12.258</magV>
 	</star>
 </system>

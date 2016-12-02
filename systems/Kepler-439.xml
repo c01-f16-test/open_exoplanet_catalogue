@@ -27,12 +27,14 @@
 			<transittime errorminus="0.0054" errorplus="0.0039" unit="BJD">2455399.3987</transittime>
 			<semimajoraxis errorminus="0.080" errorplus="0.165">0.563</semimajoraxis>
 			<inclination errorminus="0.12" errorplus="0.05">89.95</inclination>
-			<eccentricity lowerlimit="0.03" />
+			<eccentricity errorminus="0.03" errorplus="0.08" lowerlimit="0.03">0.03</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/01/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.1000" errorplus="0.2800">0.1</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">14.56</magV>
 	</star>
 </system>

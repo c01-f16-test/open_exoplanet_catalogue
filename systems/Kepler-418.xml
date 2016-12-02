@@ -9,17 +9,17 @@
 		<name>Kepler-418</name>
 		<name>KOI-1089</name>
 		<name>KIC 3247268</name>
-		<mass errorminus="0.10" errorplus="0.21">1.29</mass>
-		<radius errorminus="0.36" errorplus="0.68">1.60</radius>
-		<temperature errorminus="169" errorplus="169">6029</temperature>
-		<metallicity errorminus="0.13" errorplus="0.13">0.31</metallicity>
+		<mass errorminus="0.10" errorplus="0.08">0.98</mass>
+		<radius errorminus="0.14" errorplus="0.14">1.09</radius>
+		<temperature errorminus="100.0" errorplus="100.0">5820.0</temperature>
+		<metallicity errorminus="0.13" errorplus="0.13">-0.05</metallicity>
 		<planet>
 			<name>Kepler-418 b</name>
 			<name>KOI-1089.01</name>
 			<name>KOI-1089 b</name>
 			<name>KIC 3247268 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="1.1" />
+			<mass upperlimit="1.1">1.1</mass>
 			<radius errorminus="0.16" errorplus="0.16">1.20</radius>
 			<period errorminus="0.00007" errorplus="0.00007">86.67856</period>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.20</eccentricity>
@@ -29,6 +29,10 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<periastron errorminus="0.4100" errorplus="0.4100">4.35</periastron>
+			<impactparameter errorminus="" errorplus="">0.23</impactparameter>
 		</planet>
+		<age errorminus="4.000" errorplus="3.000">7.0</age>
+		<magV errorminus="" errorplus="">14.696</magV>
 	</star>
 </system>

@@ -13,7 +13,7 @@
 		<magK errorminus="0.030" errorplus="0.030">13.039</magK>
 		<mass errorminus="0.093" errorplus="0.093">1.198</mass>
 		<radius errorminus="0.13" errorplus="0.13">1.38</radius>
-		<temperature errorminus="100" errorplus="100">5970</temperature>
+		<temperature errorminus="95.0" errorplus="95.0">5977.0</temperature>
 		<metallicity errorminus="0.15" errorplus="0.15">0.35</metallicity>
 		<planet>
 			<name>Kepler-434 b</name>
@@ -34,6 +34,11 @@
 			<lastupdate>15/01/07</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="45" errorplus="45">1000</temperature>
+			<eccentricity errorminus="0.072000" errorplus="0.072000">0.131</eccentricity>
+			<periastron errorminus="33.0000" errorplus="33.0000">82.0</periastron>
+			<impactparameter errorminus="0.0310" errorplus="0.0310">0.979</impactparameter>
 		</planet>
+		<age errorminus="1.700" errorplus="1.700">4.0</age>
+		<magV errorminus="" errorplus="">14.517</magV>
 	</star>
 </system>

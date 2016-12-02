@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.109</semimajoraxis>
+			<impactparameter errorminus="0.1400" errorplus="0.1400">0.88</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-160 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.68</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.361</metallicity>
+		<magV errorminus="" errorplus="">14.619</magV>
 	</star>
 </system>

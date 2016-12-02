@@ -33,6 +33,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/09/30</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.0450" errorplus="0.0450">0.416</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">13.435</magV>
 	</star>
 </system>

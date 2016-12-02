@@ -24,10 +24,11 @@
 			<radius errorminus="0.009" errorplus="0.012">0.108</radius>
 			<transittime errorminus="0.00347" errorplus="0.00347">2455185.99560</transittime>
 			<description>The planet Kepler-415 b has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.27500" errorplus="0.32100">0.377</mass>
 		</planet>
 		<planet>
 			<name>KOI-1194 c</name>
@@ -40,7 +41,7 @@
 			<radius errorminus="0.020" errorplus="0.025">0.234</radius>
 			<transittime errorminus="0.00201" errorplus="0.00201">2455196.05652</transittime>
 			<description>The planet Kepler-415 c has been confirmed by transit timing variations.</description>
-			<discoverymethod>transit</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
@@ -58,5 +59,6 @@
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">15.842</magV>
 	</star>
 </system>

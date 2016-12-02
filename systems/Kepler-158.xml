@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.111</semimajoraxis>
+			<impactparameter errorminus="0.3200" errorplus="0.3200">0.86</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-158 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.158</semimajoraxis>
+			<impactparameter errorminus="0.2600" errorplus="0.2600">0.61</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.232</metallicity>
+		<magV errorminus="" errorplus="">14.427</magV>
 	</star>
 </system>

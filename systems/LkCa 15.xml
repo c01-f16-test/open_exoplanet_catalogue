@@ -23,7 +23,10 @@
 			<description>The young (2 Myr) solar analog LkCa 15 shows evidence for a (proto)planet surrounded by dusty material. The object is located in a known gap in the transitional disk. More planets might be present in this system.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/10/19</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2015</discoveryyear>
+			<semimajoraxis errorminus="2.100000" errorplus="2.100000">14.7</semimajoraxis>
+			<inclination errorminus="" errorplus="">50.0</inclination>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>LkCa 15</name>
 		<temperature>5150.0</temperature>

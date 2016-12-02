@@ -41,6 +41,8 @@
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
 			</planet>
+			<metallicity errorminus="0.100" errorplus="0.100">0.01</metallicity>
+			<magV errorminus="" errorplus="">9.364</magV>
 		</star>
 		<star>
 			<name>Kepler-410 B</name>

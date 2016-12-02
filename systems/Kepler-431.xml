@@ -10,9 +10,9 @@
 		<magJ errorminus="0.021" errorplus="0.021">10.945</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.678</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.649</magK>
-		<mass>1.071</mass>
-		<radius>1.092</radius>
-		<temperature>6004</temperature>
+		<mass errorminus="0.04" errorplus="0.06">1.071</mass>
+		<radius errorminus="0.11" errorplus="0.19">1.092</radius>
+		<temperature errorminus="75.0" errorplus="75.0">6004</temperature>
 		<planet>
 			<name>Kepler-431 b</name>
 			<name>KOI-3097 b</name>
@@ -28,6 +28,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature errorminus="" errorplus="">1032.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-431 c</name>
@@ -44,6 +45,7 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature errorminus="" errorplus="">951.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-431 d</name>
@@ -60,6 +62,9 @@
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>1</istransiting>
+			<temperature errorminus="" errorplus="">856.0</temperature>
 		</planet>
+		<metallicity errorminus="0.100" errorplus="0.100">0.07</metallicity>
+		<magV errorminus="" errorplus="">11.973</magV>
 	</star>
 </system>

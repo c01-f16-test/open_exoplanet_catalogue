@@ -31,6 +31,8 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.4600" errorplus="0.0700">0.86</impactparameter>
+			<temperature errorminus="14" errorplus="14">485.0</temperature>
 		</planet>
 		<planet>
 			<name>EPIC 201754305 b</name>
@@ -47,6 +49,9 @@
 			<istransiting>1</istransiting>
 			<lastupdate>15/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.4300" errorplus="0.1800">0.68</impactparameter>
+			<temperature errorminus="19" errorplus="19">658.0</temperature>
 		</planet>
+		<spectraltype>K3 V</spectraltype>
 	</star>
 </system>

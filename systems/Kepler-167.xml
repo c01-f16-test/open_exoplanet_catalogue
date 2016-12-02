@@ -4,7 +4,7 @@
 	<name>KIC 3239945</name>
 	<rightascension>19 30 38</rightascension>
 	<declination>+38 20 43</declination>
-	<distance>344.68</distance>
+	<distance errorminus="10.0" errorplus="10.0">330.0</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">12.446</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.974</magH>
@@ -12,7 +12,7 @@
 		<name>Kepler-167</name>
 		<name>KOI-490</name>
 		<name>KIC 3239945</name>
-		<temperature errorminus="100" errorplus="100">4796</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">4890.0</temperature>
 		<radius errorminus=".037" errorplus="0.037">0.696</radius>
 		<mass errorminus="0.0200" errorplus="0.0200">0.7130</mass>
 		<planet>
@@ -30,6 +30,11 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.002500" errorplus="0.001700">0.0483</semimajoraxis>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<inclination errorminus="0.800" errorplus="0.470">89.33</inclination>
+			<impactparameter errorminus="0.1200" errorplus="0.1800">0.17</impactparameter>
+			<temperature errorminus="16" errorplus="26">914.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-167 c</name>
@@ -46,6 +51,15 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="0.003500" errorplus="0.024000">0.0684</semimajoraxis>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<inclination errorminus="0.430" errorplus="0.360">89.3</inclination>
+			<impactparameter errorminus="0.1300" errorplus="0.1300">0.25</impactparameter>
+			<temperature errorminus="14" errorplus="21">768.0</temperature>
 		</planet>
+		<age errorminus="0.800" errorplus="5.800">3.3</age>
+		<metallicity errorminus="0.080" errorplus="0.080">-0.03</metallicity>
+		<spectraltype>K4</spectraltype>
+		<magV errorminus="" errorplus="">14.023</magV>
 	</star>
 </system>

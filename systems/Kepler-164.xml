@@ -12,7 +12,7 @@
 		<name>Kepler-164</name>
 		<name>KOI-474</name>
 		<name>KIC 10460984</name>
-		<temperature errorminus="13" errorplus="113">5888</temperature>
+		<temperature errorminus="113.0" errorplus="113">5888</temperature>
 		<radius errorminus=".219" errorplus="0.219">1.148</radius>
 		<mass errorminus="0.1200" errorplus="0.1200">1.1500</mass>
 		<planet>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.097</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.51</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-164 d</name>
@@ -46,6 +48,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.187</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.28</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-164 b</name>
@@ -62,6 +66,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.058</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.08</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.125</metallicity>
+		<magV errorminus="" errorplus="">14.282</magV>
 	</star>
 </system>

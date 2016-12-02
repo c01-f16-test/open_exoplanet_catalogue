@@ -31,6 +31,7 @@
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1500" errorplus="0.1500">0.25</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-407 c</name>
@@ -44,6 +45,8 @@
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>14/02/24</lastupdate>
 			<discoverymethod>RV</discoverymethod>
+			<istransiting>0</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">12.521</magV>
 	</star>
 </system>

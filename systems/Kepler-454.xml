@@ -16,7 +16,7 @@
 		<radius errorminus="0.012" errorplus="0.012">1.066</radius>
 		<mass errorminus="0.03" errorplus="0.04">1.028</mass>
 		<age errorminus="1.39" errorplus="1.41">5.23</age>
-		<temperature errorminus="49" errorplus="49">5687</temperature>
+		<temperature errorminus="34.0" errorplus="34.0">5701.0</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.27</metallicity>
 		<planet>
 			<name>Kepler-454 b</name>
@@ -36,6 +36,7 @@
 			<description>Kepler-454 b is a small but non-rocky planet orbiting the star every 10.6 days. Its mass has been determined using radial velocities from HARPS-N.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.0091" errorplus="0.0091">0.9288</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-454 c</name>
@@ -52,6 +53,7 @@
 			<description>Kepler-454 c is a jovian planet orbiting a metal-rich, solar-type star at 1.2 AU. Its presence was detected using radial velocities from HARPS-N.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Confirmed planets</list>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>Kepler-454 d</name>

@@ -12,7 +12,7 @@
 		<name>Kepler-402</name>
 		<name>KOI-2722</name>
 		<name>KIC 7673192</name>
-		<temperature errorminus="20" errorplus="120">6090</temperature>
+		<temperature errorminus="120.0" errorplus="120">6090</temperature>
 		<radius errorminus=".244" errorplus="0.244">1.264</radius>
 		<planet>
 			<name>Kepler-402 c</name>
@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.068</semimajoraxis>
+			<impactparameter errorminus="0.2500" errorplus="0.2500">0.59</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-402 e</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.102</semimajoraxis>
+			<impactparameter errorminus="0.2400" errorplus="0.2400">0.21</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-402 b</name>
@@ -61,6 +65,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.051</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.06</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-402 d</name>
@@ -77,6 +83,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.087</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.11</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.22</metallicity>
+		<magV errorminus="" errorplus="">13.268</magV>
 	</star>
 </system>

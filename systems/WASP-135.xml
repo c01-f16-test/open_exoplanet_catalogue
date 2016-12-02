@@ -12,7 +12,7 @@
 		<metallicity errorminus="0.13" errorplus="0.13">0.02</metallicity>
 		<mass errorminus="0.06" errorplus="0.06">0.98</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.96</radius>
-		<spectraltype>G5</spectraltype>
+		<spectraltype>G5 V</spectraltype>
 		<age errorminus="0.35" errorplus="1.40">0.60</age>
 		<planet>
 			<name>WASP-135 b</name>
@@ -29,6 +29,7 @@
 			<description>WASP-135b is a highly-irradiated and inflated hot Jupiter.</description>
 			<lastupdate>15/11/21</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.8</impactparameter>
 		</planet>
 	</star>
 </system>

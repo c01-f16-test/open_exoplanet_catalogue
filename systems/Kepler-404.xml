@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.102</semimajoraxis>
+			<impactparameter errorminus="0.3800" errorplus="0.3800">0.56</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-404 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.118</semimajoraxis>
+			<impactparameter errorminus="0.3100" errorplus="0.3100">0.85</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.009</metallicity>
+		<magV errorminus="" errorplus="">15.228</magV>
 	</star>
 </system>

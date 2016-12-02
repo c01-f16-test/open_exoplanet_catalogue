@@ -22,7 +22,7 @@
 		<age errorminus="4" errorplus="4">5</age>
 		<temperature errorminus="100" errorplus="100">5150</temperature>
 		<metallicity errorminus="0.17" errorplus="0.17">0.09</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>KOI-830 b</name>
 			<name>Kepler-428 b</name>
@@ -38,13 +38,14 @@
 			<period errorminus="0.00000015" errorplus="0.00000015">3.52563254</period>
 			<transittime errorminus="0.000032" errorplus="0.000032" unit="BJD">24549103.048008</transittime>
 			<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0433</semimajoraxis>
-			<eccentricity upperlimit="0.22" />
+			<eccentricity upperlimit="0.22">0.22</eccentricity>
 			<inclination errorminus="0.43" errorplus="0.43">89.36</inclination>
 			<description>This planet had been flagged by the Kepler Team as a planet candidate. Follow-up observations using the HARPS-N spectrograph at the Telescopio Nazionale Galileo have now confirmed its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>14/10/02</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<impactparameter errorminus="0.0900" errorplus="0.0900">0.13</impactparameter>
 		</planet>
 	</star>
 </system>

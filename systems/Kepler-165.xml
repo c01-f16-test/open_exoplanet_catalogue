@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.072</semimajoraxis>
+			<impactparameter errorminus="0.2700" errorplus="0.2700">0.78</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-165 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.11</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.06</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.28</metallicity>
+		<magV errorminus="" errorplus="">14.802</magV>
 	</star>
 </system>
