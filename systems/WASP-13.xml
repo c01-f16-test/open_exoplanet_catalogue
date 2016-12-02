@@ -22,15 +22,15 @@
 			<period errorminus="0.0000027" errorplus="0.0000027">4.3530135</period>
 			<semimajoraxis errorminus="0.00059" errorplus="0.00059">0.05379</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.29" errorplus="0.29">85.43</inclination>
+			<inclination errorminus="0.29" errorplus="0.29">85.19</inclination>
 			<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455575.5143</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/03/20</lastupdate>
-			<discoveryyear>2008</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature errorminus="100" errorplus="100">1203.3</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-13</name>
-		<temperature errorminus="48" errorplus="48">5989</temperature>
+		<temperature errorminus="48" errorplus="100.0">5826.0</temperature>
 	</star>
 </system>

@@ -13,12 +13,12 @@
 		<magJ errorminus="0.02" errorplus="0.02">10.25</magJ>
 		<magH errorminus="0.02" errorplus="0.02">9.63</magH>
 		<magK errorminus="0.02" errorplus="0.02">9.42</magK>
-		<spectraltype errorminus="0.5" errorplus="0.5">M0V</spectraltype>
+		<spectraltype errorminus="0.5" errorplus="0.5">M0.0</spectraltype>
 		<temperature errorminus="375" errorplus="375">4043</temperature>
 		<metallicity errorminus="0.13" errorplus="0.13">-0.11</metallicity>
 		<radius errorminus="0.10" errorplus="0.10">0.60</radius>
 		<mass errorminus="0.11" errorplus="0.11">0.64</mass>
-		<age lowerlimit="1" />
+		<age lowerlimit="1">1.0</age>
 		<planet>
 			<name>EPIC 206011691 b</name>
 			<name>2MASS J22411288-1429202 b</name>
@@ -34,6 +34,8 @@
 			<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 			<lastupdate>15/07/31</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.4500" errorplus="0.1500">0.7</impactparameter>
+			<temperature errorminus="" errorplus="">500.0</temperature>
 		</planet>
 		<planet>
 			<name>EPIC 206011691 c</name>
@@ -50,6 +52,8 @@
 			<description>The EPIC 206011691 system consists of a pair of small planets orbiting a nearby M0 dwarf close to the 5:3 resonance.</description>
 			<lastupdate>15/07/31</lastupdate>
 			<list>Confirmed planets</list>
+			<impactparameter errorminus="0.4000" errorplus="0.1900">0.66</impactparameter>
+			<temperature errorminus="" errorplus="">420.0</temperature>
 		</planet>
 	</star>
 </system>

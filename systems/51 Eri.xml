@@ -22,10 +22,10 @@
 			<name>BD-02 963</name>
 			<name>WDS J04376-0228 A</name>
 			<name>WAL 32 A</name>
-			<spectraltype>F0IV</spectraltype>
+			<spectraltype>F0 IV</spectraltype>
 			<mass errorminus="0.05" errorplus="0.05">1.75</mass>
 			<age errorminus="0.006" errorplus="0.006">0.020</age>
-			<metallicity>-0.027</metallicity>
+			<metallicity errorminus="0.045" errorplus="0.045">-0.027</metallicity>
 			<magB>5.485</magB>
 			<magV>5.223</magV>
 			<magJ>4.68</magJ>
@@ -34,7 +34,7 @@
 			<planet>
 				<name>51 Eri b</name>
 				<name>51 Eridani b</name>
-				<semimajoraxis errorminus="3" errorplus="7">14</semimajoraxis>
+				<semimajoraxis errorminus="0.2" errorplus="0.2">13.2</semimajoraxis>
 				<eccentricity errorminus="0.15" errorplus="0.19">0.21</eccentricity>
 				<inclination errorminus="13" errorplus="15">138</inclination>
 				<periastron errorminus="58" errorplus="58">90</periastron>
@@ -53,6 +53,7 @@
 				<lastupdate>15/08/14</lastupdate>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
+				<istransiting>0</istransiting>
 			</planet>
 		</star>
 		<binary>

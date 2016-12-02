@@ -4,8 +4,8 @@
 	<declination>-28 03 42</declination>
 	<distance errorminus="60" errorplus="60">400</distance>
 	<star>
-		<mass>1.306</mass>
-		<radius>1.572</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.306</mass>
+		<radius errorminus="0.06" errorplus="0.06">1.572</radius>
 		<magV>11.6</magV>
 		<magR>11.31</magR>
 		<magB errorminus="0.08" errorplus="0.08">11.83</magB>
@@ -19,20 +19,22 @@
 			<name>WASP-17 b</name>
 			<name>2MASS J15595095-2803422 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.486</mass>
-			<radius>1.991</radius>
-			<period>3.735438</period>
-			<semimajoraxis>0.0515</semimajoraxis>
-			<eccentricity>0.028</eccentricity>
-			<inclination>86.83</inclination>
+			<mass errorminus="0.032" errorplus="0.032">0.486</mass>
+			<radius errorminus="0.081" errorplus="0.081">1.991</radius>
+			<period errorminus="6.8e-06" errorplus="6.8e-06">3.735438</period>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.0515</semimajoraxis>
+			<eccentricity errorminus="0.018" errorplus="0.015">0.028</eccentricity>
+			<inclination errorminus="0.56" errorplus="0.68">86.83</inclination>
 			<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2454577.85879</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/08</lastupdate>
 			<discoveryyear>2009</discoveryyear>
-			<temperature>1517.8</temperature>
+			<temperature errorminus="35.0" errorplus="35.0">1771.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="2.6000" errorplus="14.6000">-82.6</periastron>
+			<impactparameter errorminus="0.0770" errorplus="0.0590">0.401</impactparameter>
 		</planet>
 		<name>WASP-17</name>
-		<temperature>6650.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">6650.0</temperature>
 	</star>
 </system>

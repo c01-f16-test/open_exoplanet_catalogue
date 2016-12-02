@@ -15,9 +15,9 @@
 		<mass errorminus="0.082" errorplus="0.082">0.82</mass>
 		<radius errorminus="0.032" errorplus="0.032">0.752</radius>
 		<temperature errorminus="250" errorplus="250">5000</temperature>
-		<age lowerlimit="0.6" />
+		<age lowerlimit="0.6">0.6</age>
 		<metallicity errorminus="0.2" errorplus="0.3">0.2</metallicity>
-		<spectraltype>K2V</spectraltype>
+		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>WTS-2 b</name>
 			<name>2MASS 19345587+3648557 b</name>
@@ -25,7 +25,7 @@
 			<name>WISE J193455.86+364855.6 b</name>
 			<name>KIC 1173581 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.016" errorplus="0.016">1.12</mass>
+			<mass errorminus="0.16" errorplus="0.16">1.12</mass>
 			<radius errorminus="0.061" errorplus="0.061">1.363</radius>
 			<temperature errorminus="100" errorplus="100">2000</temperature>
 			<period errorminus="0.00000065" errorplus="0.00000065">1.0187068</period>
@@ -33,10 +33,13 @@
 			<inclination errorminus="0.53" errorplus="0.53">83.55</inclination>
 			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454317.81333</transittime>
 			<description>WTS-2 b is an unusually close hot Jupiter on a 1.02-day orbit around a K2V star. The planet is close to the tidal destruction radius of the star and has a predicted remaining lifetime of only 40 million years.</description>
-			<discoverymethod>RV</discoverymethod>
+			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/02/25</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="" errorplus="">0.0</eccentricity>
+			<impactparameter errorminus="0.0330" errorplus="0.0330">0.584</impactparameter>
 		</planet>
+		<magV errorminus="0.100" errorplus="0.100">15.9</magV>
 	</star>
 </system>

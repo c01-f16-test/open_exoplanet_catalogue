@@ -14,7 +14,7 @@
 		<name>KIC 6587280</name>
 		<temperature errorminus="200" errorplus="200">5228</temperature>
 		<radius errorminus=".398" errorplus="0.398">0.842</radius>
-		<mass errorminus="0.0700" errorplus="0.0700">0.7890</mass>
+		<mass errorminus="0.0700" errorplus="0.0700">0.89</mass>
 		<planet>
 			<name>Kepler-243 b</name>
 			<name>KOI-857 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.062</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.17</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-243 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.142</semimajoraxis>
+			<impactparameter errorminus="0.0900" errorplus="0.0900">0.77</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.241</metallicity>
+		<magV errorminus="" errorplus="">15.086</magV>
 	</star>
 </system>

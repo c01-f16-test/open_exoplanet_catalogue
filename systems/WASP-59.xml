@@ -4,7 +4,7 @@
 	<declination>+24 53 21.4</declination>
 	<distance errorminus="25" errorplus="25">125</distance>
 	<star>
-		<spectraltype>K5V</spectraltype>
+		<spectraltype>K5 V</spectraltype>
 		<magB>13.92</magB>
 		<magV>13.00</magV>
 		<magJ errorminus="0.016" errorplus="0.016">10.440</magJ>
@@ -26,10 +26,14 @@
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/09/13</lastupdate>
-			<discoveryyear>2011</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
+			<periastron errorminus="15.0000" errorplus="15.0000">74.0</periastron>
+			<impactparameter errorminus="0.1800" errorplus="0.1800">0.29</impactparameter>
+			<temperature errorminus="35" errorplus="35">670.0</temperature>
 		</planet>
 		<name>WASP-59</name>
 		<temperature errorminus="150" errorplus="150">4650</temperature>
+		<age errorminus="0.400" errorplus="0.700">0.5</age>
 	</star>
 </system>

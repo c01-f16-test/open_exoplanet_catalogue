@@ -7,11 +7,11 @@
 		<name>TYC 1422-614-1</name>
 		<name>2MASS J10170667+1933304</name>
 		<spectraltype>K2</spectraltype>
-		<age errorminus="0.22" errorplus="0.22">9.77</age>
+		<age errorminus="2.34" errorplus="3.88">5.89</age>
 		<temperature errorminus="45" errorplus="45">4806</temperature>
-		<metallicity errorminus="0.14" errorplus="0.14">0.15</metallicity>
+		<metallicity errorminus="0.14" errorplus="0.14">-0.2</metallicity>
 		<mass errorminus="0.18" errorplus="0.18">1.15</mass>
-		<radius errorminus="0.16" errorplus="0.16">6.85</radius>
+		<radius errorminus="1.38" errorplus="1.38">6.85</radius>
 		<magB>11.26</magB>
 		<magV>10.21</magV>
 		<magJ>8.347</magJ>
@@ -30,7 +30,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/10/22</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron errorminus="43.0000" errorplus="50.0000">50.0</periastron>
+			<periastrontime errorminus="22.000000" errorplus="25.000000">2453236.5</periastrontime>
 		</planet>
 		<planet>
 			<name>TYC 1422-614-1 c</name>
@@ -45,7 +47,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>14/10/22</lastupdate>
 			<discoveryyear>2014</discoveryyear>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron errorminus="20.0000" errorplus="20.0000">130.0</periastron>
+			<periastrontime errorminus="30.000000" errorplus="30.000000">2453190.5</periastrontime>
 		</planet>
 	</star>
 </system>

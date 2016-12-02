@@ -14,7 +14,7 @@
 		<name>KIC 7134976</name>
 		<temperature errorminus="200" errorplus="200">5206</temperature>
 		<radius errorminus=".422" errorplus="0.422">0.831</radius>
-		<mass errorminus="0.0660" errorplus="0.0660">0.7590</mass>
+		<mass errorminus="0.0660" errorplus="0.0660">0.86</mass>
 		<planet>
 			<name>Kepler-246 b</name>
 			<name>KOI-874 b</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.052</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.58</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-246 c</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.095</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.04</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.143</metallicity>
+		<magV errorminus="" errorplus="">15.024</magV>
 	</star>
 </system>

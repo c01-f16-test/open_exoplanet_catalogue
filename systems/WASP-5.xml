@@ -2,10 +2,10 @@
 	<name>WASP-5</name>
 	<rightascension>23 57 24</rightascension>
 	<declination>-41 16 38</declination>
-	<distance>297</distance>
+	<distance errorminus="50.0" errorplus="50.0">300.0</distance>
 	<star>
-		<mass>1</mass>
-		<radius>1.084</radius>
+		<mass errorminus="0.09" errorplus="0.13">1</mass>
+		<radius errorminus="0.07" errorplus="0.06">1.084</radius>
 		<magV>12.26</magV>
 		<magR>11.82</magR>
 		<magB errorminus="0.30" errorplus="0.30">12.71</magB>
@@ -13,26 +13,29 @@
 		<magJ errorminus="0.022" errorplus="0.022">10.949</magJ>
 		<magH errorminus="0.025" errorplus="0.025">10.650</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.598</magK>
-		<metallicity>0.09</metallicity>
-		<spectraltype>G5</spectraltype>
+		<metallicity errorminus="0.09" errorplus="0.09">0.09</metallicity>
+		<spectraltype>G4 V</spectraltype>
 		<planet>
 			<name>WASP-5 b</name>
 			<name>2MASS J23572375-4116377 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.637</mass>
-			<radius>1.171</radius>
-			<period>1.6284246</period>
-			<semimajoraxis>0.02729</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>85.8</inclination>
+			<mass errorminus="0.1" errorplus="0.13">1.637</mass>
+			<radius errorminus="0.071" errorplus="0.068">1.171</radius>
+			<period errorminus="4.9e-06" errorplus="2.2e-06">1.6284246</period>
+			<semimajoraxis errorminus="0.0008" errorplus="0.0012">0.02729</semimajoraxis>
+			<eccentricity errorminus="0.018" errorplus="0.026">0.0</eccentricity>
+			<inclination errorminus="0.7" errorplus="2.8">86.9</inclination>
 			<transittime errorminus="0.00019" errorplus="0.00019" unit="BJD">2454375.62510</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/11/29</lastupdate>
-			<discoveryyear>2007</discoveryyear>
-			<temperature>1584.0</temperature>
+			<discoveryyear>2008</discoveryyear>
+			<temperature errorminus="48.0" errorplus="52.0">1706.0</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="22.3500" errorplus="26.9300">34.38</periastron>
+			<impactparameter errorminus="0.2800" errorplus="0.0600">0.31</impactparameter>
 		</planet>
 		<name>WASP-5</name>
-		<temperature>5700.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5700.0</temperature>
+		<age errorminus="4.300" errorplus="4.400">5.4</age>
 	</star>
 </system>

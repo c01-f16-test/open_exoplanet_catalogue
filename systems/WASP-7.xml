@@ -2,10 +2,10 @@
 	<name>WASP-7</name>
 	<rightascension>20 44 10</rightascension>
 	<declination>-39 13 31</declination>
-	<distance>140</distance>
+	<distance errorminus="15.0" errorplus="15.0">140</distance>
 	<star>
-		<mass>1.276</mass>
-		<radius>1.432</radius>
+		<mass errorminus="0.07" errorplus="0.07">1.276</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.432</radius>
 		<magV>9.51</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.98</magB>
 		<magJ errorminus="0.027" errorplus="0.027">8.648</magJ>
@@ -18,12 +18,12 @@
 			<name>TYC 7963-01570-1 b</name>
 			<name>2MASS J20441022-3913309 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.96</mass>
-			<radius>1.33</radius>
-			<period>4.9546416</period>
-			<semimajoraxis>0.0617</semimajoraxis>
+			<mass errorminus="0.13" errorplus="0.13">0.96</mass>
+			<radius errorminus="0.093" errorplus="0.093">1.33</radius>
+			<period errorminus="4.3e-05" errorplus="5.5e-05">4.9546416</period>
+			<semimajoraxis errorminus="0.0033" errorplus="0.0014">0.0617</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.03</inclination>
+			<inclination errorminus="0.9" errorplus="0.4">89.6</inclination>
 			<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2455446.63493</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/08</lastupdate>
@@ -32,6 +32,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-7</name>
-		<temperature>6400.0</temperature>
+		<temperature errorplus="100.0">6400.0</temperature>
 	</star>
 </system>

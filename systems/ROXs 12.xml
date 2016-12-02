@@ -2,7 +2,7 @@
 	<name>ROXs 12</name>
 	<rightascension>16 26 28</rightascension>
 	<declination>-25 27 24</declination>
-	<distance>120</distance>
+	<distance errorminus="10.0" errorplus="10.0">120</distance>
 	<star>
 		<name>ROXs 12</name>
 		<name>2MASS J16262774-2527247</name>
@@ -26,6 +26,9 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>13/12/02</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<semimajoraxis errorminus="20.000000" errorplus="20.000000">210.0</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
+		<magV errorminus="0.055" errorplus="0.055">15.595</magV>
 	</star>
 </system>

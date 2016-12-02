@@ -13,7 +13,7 @@
 			<name>SWEEPS-11 b</name>
 			<name>SWEEPS J175902.67-291153.5 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="5.6" errorplus="5.6">9.7</mass>
+			<mass errorminus="4.5" errorplus="5.6">9.7</mass>
 			<radius errorminus="0.21" errorplus="0.21">1.13</radius>
 			<period>1.796</period>
 			<semimajoraxis>0.03</semimajoraxis>
@@ -23,5 +23,6 @@
 			<discoveryyear>2006</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<magV errorminus="" errorplus="">19.83</magV>
 	</star>
 </system>
