@@ -20,6 +20,10 @@
 			<period errorminus="0.000710000" errorplus="0.000710000">125.632430000</period>
 			<semimajoraxis errorminus="0.006700000" errorplus="0.006700000">0.498800000</semimajoraxis>
 			<radius errorminus="0.017" errorplus="0.017">0.747</radius>
+			<eccentricity errorminus="" errorplus="">0.39</eccentricity>
+			<inclination errorminus="0.086" errorplus="0.086">89.845</inclination>
+			<mass errorminus="0.29000" errorplus="0.29000">0.97</mass>
+			<temperature errorminus="6" errorplus="6">388.0</temperature>
 		</planet>
 		<planet>
 			<name>Kepler-539 c</name>
@@ -32,6 +36,13 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period>1000.000000000</period>
 			<semimajoraxis errorminus="0.510000000" errorplus="0.500000000">2.420000000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.5</eccentricity>
+			<periastron errorminus="88.6400" errorplus="88.6300">254.91</periastron>
+			<mass errorminus="1.20000" errorplus="1.20000">2.4</mass>
+			<temperature errorminus="27" errorplus="27">253.0</temperature>
 		</planet>
+		<spectraltype>G2 V</spectraltype>
+		<magV errorminus="" errorplus="">12.391</magV>
 	</star>
+	<distance errorminus="12.73" errorplus="13.20">313.0</distance>
 </system>

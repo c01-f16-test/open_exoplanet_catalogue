@@ -3,8 +3,8 @@
 	<rightascension>14 18 44</rightascension>
 	<declination>-20 16 32</declination>
 	<star>
-		<mass>1.022</mass>
-		<radius>0.946</radius>
+		<mass errorplus="0.13">1.022</mass>
+		<radius errorplus="0.06">0.946</radius>
 		<magV>11.3</magV>
 		<magR>11.00</magR>
 		<magB errorminus="0.32" errorplus="0.32">12.51</magB>
@@ -19,12 +19,12 @@
 			<name>TYC 6147-00229-1 b</name>
 			<name>2MASS J14184392-2016317 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.855</mass>
-			<radius>1.008</radius>
-			<period>3.1186009</period>
-			<semimajoraxis>0.0421</semimajoraxis>
+			<mass errorminus="0.076" errorplus="0.043">0.855</mass>
+			<radius errorminus="0.06" errorplus="0.083">1.008</radius>
+			<period errorminus="1.31e-05" errorplus="1.46e-05">3.1186009</period>
+			<semimajoraxis errorminus="0.0018" errorplus="0.001">0.0421</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>85.22</inclination>
+			<inclination errorminus="0.43" errorplus="0.27">85.22</inclination>
 			<transittime errorminus="0.00023" errorplus="0.00035" unit="BJD">2454584.42952</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/07/05</lastupdate>
@@ -33,6 +33,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-16</name>
-		<temperature>5550.0</temperature>
+		<temperature errorplus="150.0">5700.0</temperature>
 	</star>
 </system>

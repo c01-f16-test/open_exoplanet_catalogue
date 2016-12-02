@@ -3,8 +3,8 @@
 	<rightascension>13 50 37</rightascension>
 	<declination>-06 48 14</declination>
 	<star>
-		<mass>0.74</mass>
-		<radius>0.713</radius>
+		<mass errorminus="0.02" errorplus="0.02">0.74</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.713</radius>
 		<magV>13.3</magV>
 		<magB>14.0</magB>
 		<magR errorminus="0.10" errorplus="0.10">13.45</magR>
@@ -17,21 +17,23 @@
 			<name>GSC 04974-00112 b</name>
 			<name>2MASS J13503740-0648145 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.487</mass>
-			<radius>1.144</radius>
-			<period>1.3371182</period>
-			<semimajoraxis>0.02149</semimajoraxis>
+			<mass errorminus="0.054" errorplus="0.054">2.487</mass>
+			<radius errorminus="0.013" errorplus="0.013">1.254</radius>
+			<period errorminus="2.6e-07" errorplus="2.6e-07">1.3371182</period>
+			<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.02149</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.3</inclination>
+			<inclination errorminus="0.08" errorplus="0.08">86.12</inclination>
 			<transittime errorminus="0.00011" errorplus="0.00011" unit="BJD">2455624.26679</transittime>
 			<description>Qatar-2b is a transiting hot Jupiter orbiting a K dwarf and was found by the Qatar Exoplanet Survey (QES). The radial velocity data shows evidence for a second companion with a period of about one year and a mass several times that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/10/28</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<temperature>1179.7</temperature>
+			<temperature errorminus="14.0" errorplus="14.0">1344.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>Qatar-2</name>
-		<temperature>4645.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">4645.0</temperature>
+		<age errorminus="" errorplus="">5.0</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.02</metallicity>
 	</star>
 </system>

@@ -23,14 +23,17 @@
 			<period errorminus="0.0000024" errorplus="0.0000024">2.9776410</period>
 			<transittime errorminus="0.00041" errorplus="0.00041" unit="HJD">2456845.17081</transittime>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0431</semimajoraxis>
-			<temperature errorminus="40" errorplus="40">1510</temperature>
+			<temperature errorminus="50.0" errorplus="50.0">1520.0</temperature>
 			<inclination errorminus="0.51" errorplus="0.51">85.79</inclination>
 			<eccentricity>0</eccentricity>
 			<description>WASP-123 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a hot-Jupiter (0.92MJup, 1.33RJup) in a 3.0-day orbit around an old (~ 7 Gyr) G5 star.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/09/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
+			<impactparameter errorminus="0.0490" errorplus="0.0490">0.53</impactparameter>
 		</planet>
+		<age errorminus="1.400" errorplus="1.400">6.9</age>
 	</star>
+	<distance errorminus="11.00" errorplus="11.00">214.0</distance>
 </system>

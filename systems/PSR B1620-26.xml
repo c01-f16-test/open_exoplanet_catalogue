@@ -33,16 +33,17 @@
 			<name>PSR B1620-26 (AB) b</name>
 			<name>B1620-26 (AB) b</name>
 			<list>Confirmed planets</list>
-			<mass type="msini">1.7</mass>
+			<mass errorminus="1.0" errorplus="1.0" type="msini">2.5</mass>
 			<period>24837</period>
-			<semimajoraxis>20</semimajoraxis>
+			<semimajoraxis>23.0</semimajoraxis>
 			<eccentricity>0.13</eccentricity>
 			<description>PSR B1620-26 b is a circum-binary planet. It is orbiting a pulsar and a white dwarf in the globular cluster M4. The cluster is estimated to be 12.2 billion years old.</description>
-			<discoverymethod>timing</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
-			<discoveryyear>1994</discoveryyear>
+			<discoveryyear>2003</discoveryyear>
 			<list>Planets in binary systems, P-type</list>
 			<list>Planets in globular clusters</list>
+			<istransiting>0</istransiting>
 		</planet>
 	</binary>
 </system>

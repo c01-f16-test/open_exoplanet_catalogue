@@ -24,18 +24,22 @@
 			<name>PPM 308371 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.083" errorplus="0.083">1.515</radius>
-			<mass errorminus="0.26" errorplus="0.26">5.01</mass>
+			<mass errorminus="0.26" errorplus="0.26">4.85</mass>
 			<period errorminus="0.0000038" errorplus="0.0000038">3.6112706</period>
 			<transittime errorminus="0.00044" errorplus="0.00044" unit="HJD">2456779.4352</transittime>
 			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0522</semimajoraxis>
-			<temperature errorminus="50" errorplus="50">1890</temperature>
-			<inclination errorminus="0.48" errorplus="0.48">82.29</inclination>
+			<temperature errorminus="70.0" errorplus="70.0">1880.0</temperature>
+			<inclination errorminus="0.78" errorplus="0.78">82.54</inclination>
 			<eccentricity errorminus="0.018" errorplus="0.025">0.059</eccentricity>
 			<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/09/07</lastupdate>
-			<discoveryyear>2015</discoveryyear>
+			<discoveryyear>2016</discoveryyear>
+			<periastron errorminus="28.0000" errorplus="48.0000">-27.0</periastron>
+			<impactparameter errorminus="0.0200" errorplus="0.0200">0.78</impactparameter>
 		</planet>
+		<age errorminus="0.500" errorplus="0.500">2.6</age>
 	</star>
+	<distance errorminus="21.00" errorplus="21.00">437.0</distance>
 </system>

@@ -3,7 +3,7 @@
 	<name>PSR B1257+12</name>
 	<rightascension>13 00 03.5767</rightascension>
 	<declination>+12 40 56.4721</declination>
-	<distance errorminus="38" errorplus="43">710</distance>
+	<distance errorminus="100.0" errorplus="100.0">600.0</distance>
 	<star>
 		<name>PSR 1257+12</name>
 		<name>PSR B1257+12</name>
@@ -11,7 +11,7 @@
 		<mass>1.4</mass>
 		<radius>0.000014</radius>
 		<spectraltype>Pulsar</spectraltype>
-		<age>3</age>
+		<age errorminus="3.0" errorplus="3.0">3</age>
 		<planet>
 			<name>PSR 1257+12 A</name>
 			<name>PSR B1257+12 A</name>
@@ -24,9 +24,10 @@
 			<eccentricity>0.0</eccentricity>
 			<periastrontime errorminus="0.2" errorplus="0.2">2449765.6</periastrontime>
 			<periastron>0.0</periastron>
-			<discoverymethod>timing</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
-			<discoveryyear>1992</discoveryyear>
+			<discoveryyear>1994</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>PSR 1257+12 B</name>
@@ -40,10 +41,11 @@
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0186</eccentricity>
 			<inclination errorminus="4" errorplus="4">53</inclination>
 			<periastron errorminus="0.6" errorplus="0.6">250.4</periastron>
-			<periastrontime errorminus="0.1" errorplus="0.1">2449768.1</periastrontime>
-			<discoverymethod>timing</discoverymethod>
+			<periastrontime errorminus="0.1" errorplus="0.1">2449768.6</periastrontime>
+			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
 			<discoveryyear>1992</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>PSR 1257+12 C</name>
@@ -59,9 +61,10 @@
 			<periastron errorminus="0.5" errorplus="0.5">108.3</periastron>
 			<periastrontime errorminus="0.1" errorplus="0.1">2449767.0</periastrontime>
 			<ascendingnode>3</ascendingnode>
-			<discoverymethod>timing</discoverymethod>
+			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>16/04/12</lastupdate>
 			<discoveryyear>1992</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

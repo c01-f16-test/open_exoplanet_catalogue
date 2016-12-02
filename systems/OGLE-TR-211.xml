@@ -8,17 +8,17 @@
 		<magI errorminus="0.03" errorplus="0.03">14.36</magI>
 		<magH errorminus="0.04" errorplus="0.04">13.42</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.38</magK>
-		<mass>1.33</mass>
-		<radius>1.64</radius>
+		<mass errorplus="0.05">1.33</mass>
+		<radius errorplus="0.21">1.64</radius>
 		<metallicity>0.11</metallicity>
 		<planet>
 			<name>OGLE-TR-211 b</name>
 			<name>2MASS J10401438-6227201 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.75</mass>
-			<radius>1.26</radius>
-			<period>3.67724</period>
-			<semimajoraxis>0.051</semimajoraxis>
+			<mass errorminus="0.2" errorplus="0.2">1.03</mass>
+			<radius errorminus="0.09" errorplus="0.18">1.36</radius>
+			<period errorminus="3e-05" errorplus="3e-05">3.67724</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.051</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>87.2</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="HJD">2453428.334</transittime>
@@ -29,6 +29,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>OGLE-TR-211</name>
-		<temperature>6325.0</temperature>
+		<temperature errorplus="91.0">6325.0</temperature>
 	</star>
 </system>

@@ -5,13 +5,13 @@
 	<distance>177</distance>
 	<star>
 		<magB>11.1</magB>
-		<magV>10.33</magV>
+		<magV>10.52</magV>
 		<magJ errorminus="0.023" errorplus="0.023">9.463</magJ>
 		<magH errorminus="0.020" errorplus="0.020">9.227</magH>
 		<magK errorminus="0.018" errorplus="0.018">9.142</magK>
-		<mass>1.234</mass>
-		<radius>1.167</radius>
-		<temperature>6174</temperature>
+		<mass errorplus="0.03">1.234</mass>
+		<radius errorplus="0.12">1.167</radius>
+		<temperature errorplus="50.0">6174</temperature>
 		<metallicity>0.187</metallicity>
 		<spectraltype>F7.5</spectraltype>
 		<planet>
@@ -20,8 +20,8 @@
 			<name>2MASS J08414382+2013368</name>
 			<list>Confirmed planets</list>
 			<list>Planets in open clusters</list>
-			<mass>0.54</mass>
-			<period>4.4264</period>
+			<mass errorminus="0.039" errorplus="0.039">0.54</mass>
+			<period errorminus="0.007" errorplus="0.007">4.4264</period>
 			<eccentricity>0</eccentricity>
 			<description>This planet is a so-called Hot Jupiter which orbits tightly around its parent star in the Beehive Cluster, a collection of roughly 1,000 stars that appear to be swarming around a common center. The planet is not habitable but its sky would be starrier than what we see from Earth.</description>
 			<discoverymethod>RV</discoverymethod>
@@ -31,6 +31,8 @@
 			<imagedescription>Artist's impression of a planet in the Beehive cluster.
 
 Image credit: NASA/JPL-Caltech</imagedescription>
+			<periastrontime errorminus="0.053000" errorplus="0.053000">2455992.861</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>Pr0201</name>
 	</star>

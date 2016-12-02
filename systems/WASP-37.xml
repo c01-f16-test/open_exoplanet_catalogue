@@ -2,11 +2,11 @@
 	<name>WASP-37</name>
 	<rightascension>14 47 47</rightascension>
 	<declination>+01 03 54</declination>
-	<distance>338</distance>
+	<distance errorminus="36.0" errorplus="36.0">343.0</distance>
 	<star>
-		<mass>0.849</mass>
-		<radius>0.977</radius>
-		<magV>12.7</magV>
+		<mass errorplus="0.12">0.849</mass>
+		<radius errorplus="0.05">0.977</radius>
+		<magV errorminus="0.149" errorplus="0.149">12.7</magV>
 		<magB>13.304</magB>
 		<magR errorminus="0.11" errorplus="0.11">12.87</magR>
 		<magI errorminus="0.07" errorplus="0.07">12.24</magI>
@@ -19,12 +19,12 @@
 			<name>WASP-37 b</name>
 			<name>2MASS J14474655+0103538 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.696</mass>
-			<radius>1.136</radius>
-			<period>3.577471</period>
-			<semimajoraxis>0.04339</semimajoraxis>
+			<mass errorminus="0.17" errorplus="0.17">1.8</mass>
+			<radius errorminus="0.06" errorplus="0.07">1.136</radius>
+			<period errorminus="1.1e-05" errorplus="1.1e-05">3.577471</period>
+			<semimajoraxis errorminus="0.0019" errorplus="0.0019">0.04339</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.78</inclination>
+			<inclination errorminus="0.86" errorplus="0.77">88.78</inclination>
 			<transittime errorminus="0.0006" errorplus="0.0006" unit="BJD">2455338.6196</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/08/19</lastupdate>
@@ -33,6 +33,6 @@
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-37</name>
-		<temperature>5800.0</temperature>
+		<temperature errorplus="150.0">5800.0</temperature>
 	</star>
 </system>

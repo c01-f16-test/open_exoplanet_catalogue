@@ -11,7 +11,7 @@
 		<magJ errorminus="0.027" errorplus="0.027">13.040</magJ>
 		<magH errorminus="0.033" errorplus="0.033">12.403</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.288</magK>
-		<mass errorminus="0.053" errorplus="0.049">0.0572</mass>
+		<mass errorminus="0.053" errorplus="0.049">0.57</mass>
 		<radius errorminus="0.054" errorplus="0.038">0.550</radius>
 		<temperature errorminus="177" errorplus="177">4340</temperature>
 		<metallicity errorminus="0.18" errorplus="0.18">-0.57</metallicity>
@@ -27,12 +27,14 @@
 			<transittime errorminus="0.0065" errorplus="0.0040" unit="BJD">2455667.7764</transittime>
 			<semimajoraxis errorminus="0.13" errorplus="0.32">0.64</semimajoraxis>
 			<inclination errorminus="0.07" errorplus="0.03">89.97</inclination>
-			<eccentricity lowerlimit="0.10" />
+			<eccentricity errorminus="0.1" errorplus="0.11" lowerlimit="0.10">0.1</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 			<lastupdate>15/01/28</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<impactparameter errorminus="0.2500" errorplus="0.3000">0.25</impactparameter>
 		</planet>
+		<magV errorminus="" errorplus="">15.142</magV>
 	</star>
 </system>

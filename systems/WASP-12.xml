@@ -10,37 +10,38 @@
 		<star>
 			<name>WASP-12</name>
 			<name>WASP-12 A</name>
-			<mass>1.35</mass>
-			<radius>1.599</radius>
-			<magV>11.69</magV>
+			<mass errorminus="0.09" errorplus="0.11">1.35</mass>
+			<radius errorminus="0.04" errorplus="0.05">1.599</radius>
+			<magV errorminus="0.08" errorplus="0.08">11.69</magV>
 			<magR>11.6</magR>
 			<magB errorminus="0.21" errorplus="0.21">12.14</magB>
 			<magJ errorminus="0.021" errorplus="0.021">10.477</magJ>
 			<magH errorminus="0.022" errorplus="0.022">10.228</magH>
 			<magK errorminus="0.020" errorplus="0.020">10.188</magK>
-			<temperature errorminus="64" errorplus="64">6118</temperature>
-			<metallicity>0.3</metallicity>
+			<temperature errorminus="140.0" errorplus="130.0">6360.0</temperature>
+			<metallicity errorminus="0.17" errorplus="0.14">0.3</metallicity>
 			<spectraltype>G0</spectraltype>
 			<planet>
 				<name>WASP-12 b</name>
 				<name>WASP-12 A b</name>
 				<name>2MASS J06303279+2940202 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.404</mass>
-				<radius>1.736</radius>
-				<period>1.0914222</period>
-				<semimajoraxis>0.02293</semimajoraxis>
+				<mass errorminus="0.069" errorplus="0.076">1.404</mass>
+				<radius errorminus="0.055" errorplus="0.057">1.9</radius>
+				<period errorminus="1.4e-07" errorplus="1.4e-07">1.0914222</period>
+				<semimajoraxis errorminus="0.0005" errorplus="0.00056">0.02293</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
-				<inclination>86</inclination>
+				<inclination errorminus="0.64" errorplus="0.72">83.37</inclination>
 				<spinorbitalignment errorminus="20" errorplus="15">59</spinorbitalignment>
 				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454508.98074</transittime>
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>13/07/31</lastupdate>
 				<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 				<discoveryyear>2008</discoveryyear>
-				<temperature>2319.7</temperature>
+				<temperature errorminus="62.0" errorplus="58.0">2580.0</temperature>
 				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
+				<impactparameter errorminus="0.0340" errorplus="0.0300">0.351</impactparameter>
 			</planet>
 		</star>
 		<binary>
