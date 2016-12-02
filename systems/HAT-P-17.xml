@@ -2,11 +2,11 @@
 	<name>HAT-P-17</name>
 	<rightascension>21 38 09</rightascension>
 	<declination>+30 29 19</declination>
-	<distance>90</distance>
+	<distance errorminus="3.0" errorplus="3.0">90</distance>
 	<star>
-		<mass>0.857</mass>
-		<radius>0.837</radius>
-		<magV errorminus="0.03" errorplus="0.03">10.38</magV>
+		<mass errorminus="0.04" errorplus="0.04">0.857</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.837</radius>
+		<magV errorminus="0.03" errorplus="0.03">10.54</magV>
 		<magB errorminus="0.06" errorplus="0.06">11.33</magB>
 		<magR errorminus="0.03" errorplus="0.03">10.24</magR>
 		<magJ errorminus="0.022" errorplus="0.022">9.017</magJ>
@@ -18,36 +18,43 @@
 			<name>TYC 2717-00417-1 b</name>
 			<name>2MASS J21380873+3029193 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.534</mass>
-			<radius>1.01</radius>
-			<period>10.338523</period>
-			<semimajoraxis>0.0882</semimajoraxis>
-			<eccentricity>0.346</eccentricity>
-			<inclination>89.2</inclination>
+			<mass errorminus="0.018" errorplus="0.018">0.534</mass>
+			<radius errorminus="0.029" errorplus="0.029">1.01</radius>
+			<period errorminus="9e-06" errorplus="9e-06">10.338523</period>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0882</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.346</eccentricity>
+			<inclination errorminus="0.1" errorplus="0.2">89.2</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/04/03</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>707.1</temperature>
+			<temperature errorminus="15.0" errorplus="15.0">792.0</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="1.0000" errorplus="1.0000">201.0</periastron>
+			<impactparameter errorminus="0.0670" errorplus="0.0450">0.311</impactparameter>
+			<periastrontime errorminus="0.050000" errorplus="0.050000">2454803.25</periastrontime>
 		</planet>
 		<planet>
 			<name>HAT-P-17 c</name>
 			<name>TYC 2717-00417-1 c</name>
 			<name>2MASS J21380873+3029193 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.4</mass>
-			<period>1798</period>
-			<semimajoraxis>2.75</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.7" errorplus="1.1">3.4</mass>
+			<period errorminus="2100.0" errorplus="7700.0">5584.0</period>
+			<semimajoraxis errorminus="1.4" errorplus="3.5">5.6</semimajoraxis>
+			<eccentricity errorminus="0.17" errorplus="0.23">0.39</eccentricity>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/12/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>127.5</temperature>
-			<istransiting>1</istransiting>
+			<istransiting>0</istransiting>
+			<periastron errorminus="6.7000" errorplus="5.3000">181.5</periastron>
+			<periastrontime errorminus="57.000000" errorplus="45.000000">2454885.0</periastrontime>
 		</planet>
 		<name>HAT-P-17</name>
-		<temperature>5246.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">5246.0</temperature>
+		<age errorminus="3.300" errorplus="3.300">7.8</age>
+		<metallicity errorminus="0.080" errorplus="0.080">0.0</metallicity>
 	</star>
 </system>

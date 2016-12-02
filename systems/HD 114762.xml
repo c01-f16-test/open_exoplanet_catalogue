@@ -2,40 +2,44 @@
 	<name>HD 114762</name>
 	<rightascension>13 12 19</rightascension>
 	<declination>+17 31 01</declination>
-	<distance>39.46</distance>
+	<distance errorminus="2.52" errorplus="2.24">40.57</distance>
 	<binary>
 		<separation unit="arcsec">3.26</separation>
 		<separation unit="AU">129</separation>
 		<positionangle>30</positionangle>
 		<star>
 			<name>HD 114762 A</name>
-			<mass>0.84</mass>
-			<radius>1.24</radius>
-			<magV>7.3</magV>
+			<mass errorminus="0.01" errorplus="0.01">0.84</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.24</radius>
+			<magV errorminus="0.013" errorplus="0.013">7.3</magV>
 			<magB>7.85</magB>
 			<magR>7.0</magR>
 			<magI>6.8</magI>
 			<magJ>6.14</magJ>
 			<magH>5.89</magH>
 			<magK>5.81</magK>
-			<metallicity>-0.71</metallicity>
-			<spectraltype>F9V</spectraltype>
+			<metallicity errorminus="0.03" errorplus="0.03">-0.71</metallicity>
+			<spectraltype>F8</spectraltype>
 			<planet>
 				<name>HD 114762 b</name>
 				<name>HD 114762 A b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass>10.98</mass>
-				<period>83.9151</period>
-				<semimajoraxis>0.353</semimajoraxis>
-				<eccentricity>0.3354</eccentricity>
+				<mass errorminus="0.09" errorplus="0.09">10.98</mass>
+				<period errorminus="0.003" errorplus="0.003">83.9151</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.353</semimajoraxis>
+				<eccentricity errorminus="0.0048" errorplus="0.0048">0.3354</eccentricity>
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1992</discoveryyear>
+				<discoveryyear>1989</discoveryyear>
 				<temperature>486.8</temperature>
+				<periastron errorminus="1.0100" errorplus="1.0100">201.28</periastron>
+				<periastrontime errorminus="0.186000" errorplus="0.186000">2449889.106</periastrontime>
+				<radius errorminus="" errorplus="">1.11</radius>
+				<istransiting>0</istransiting>
 			</planet>
 			<name>HD 114762</name>
-			<temperature>5934.0</temperature>
+			<temperature errorminus="44.0" errorplus="44.0">5673.0</temperature>
 		</star>
 		<star>
 			<name>HD 114762 B</name>

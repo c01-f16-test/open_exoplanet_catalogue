@@ -2,7 +2,7 @@
 	<name>HD 164595</name>
 	<rightascension>18 00 38.89431</rightascension>
 	<declination>+29 34 18.9202</declination>
-	<distance errorminus="0.4" errorplus="0.4">28.93</distance>
+	<distance errorminus="0.62" errorplus="0.6">28.93</distance>
 	<star>
 		<mass errorminus="0.03" errorplus="0.03">0.99</mass>
 		<magV>7.08</magV>
@@ -14,7 +14,7 @@
 		<magK errorminus="0.021" errorplus="0.021">5.482</magK>
 		<temperature errorminus="40" errorplus="40">5790</temperature>
 		<metallicity errorminus="0.08" errorplus="0.08">-0.04</metallicity>
-		<spectraltype>G2V</spectraltype>
+		<spectraltype>G2 V</spectraltype>
 		<name>HD 164595</name>
 		<name>BD+29 3165</name>
 		<name>HIP 88194</name>
@@ -38,6 +38,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/29</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<periastron errorminus="110.0000" errorplus="160.0000">145.0</periastron>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

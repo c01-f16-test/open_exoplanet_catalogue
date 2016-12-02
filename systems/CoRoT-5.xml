@@ -14,7 +14,7 @@
 		<magH errorminus="0.03" errorplus="0.03">12.61</magH>
 		<magK errorminus="0.026" errorplus="0.026">12.546</magK>
 		<metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
-		<spectraltype>F9V</spectraltype>
+		<spectraltype>F9 V</spectraltype>
 		<planet>
 			<name>CoRoT-5 b</name>
 			<name>CoRoT-Exo-5 b</name>
@@ -29,12 +29,15 @@
 			<description>CoRoT 6 is an F-type star in the constellation Monoceros.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>09/07/18</lastupdate>
-			<discoveryyear>2008</discoveryyear>
-			<temperature>1316.3</temperature>
+			<discoveryyear>2009</discoveryyear>
+			<temperature errorminus="39.0" errorplus="39.0">1438.0</temperature>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454400.19963</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="48.1300" errorplus="289.3400">-128.34</periastron>
+			<impactparameter errorminus="0.0220" errorplus="0.0170">0.755</impactparameter>
 		</planet>
 		<name>CoRoT-5</name>
-		<temperature>6100.0</temperature>
+		<temperature errorminus="65.0" errorplus="65.0">6100.0</temperature>
+		<age errorminus="1.400" errorplus="1.400">6.9</age>
 	</star>
 </system>

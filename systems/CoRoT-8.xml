@@ -2,10 +2,10 @@
 	<name>CoRoT-8</name>
 	<rightascension>19 26 21</rightascension>
 	<declination>+01 25 36</declination>
-	<distance>380</distance>
+	<distance errorminus="30.0" errorplus="30.0">380</distance>
 	<star>
-		<mass>0.88</mass>
-		<radius>0.77</radius>
+		<mass errorminus="0.04" errorplus="0.04">0.88</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.77</radius>
 		<magV>14.797</magV>
 		<magB>16.096</magB>
 		<magR>14.267</magR>
@@ -13,28 +13,30 @@
 		<magJ errorminus="0.023" errorplus="0.023">12.154</magJ>
 		<magH errorminus="0.024" errorplus="0.024">11.641</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.463</magK>
-		<metallicity>0.3</metallicity>
-		<spectraltype>K1V</spectraltype>
+		<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+		<spectraltype>K1 V</spectraltype>
 		<planet>
 			<name>CoRoT-8 b</name>
 			<name>CoRoT-Exo-8 b</name>
 			<name>2MASS J19262124+0125352 b</name>
 			<name>CoRoTID 101086161 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.22</mass>
-			<radius>0.57</radius>
-			<period>6.21229</period>
-			<semimajoraxis>0.063</semimajoraxis>
+			<mass errorminus="0.03" errorplus="0.03">0.22</mass>
+			<radius errorminus="0.02" errorplus="0.02">0.57</radius>
+			<period errorminus="3e-05" errorplus="3e-05">6.21229</period>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.063</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.4</inclination>
+			<inclination errorminus="0.1" errorplus="0.1">88.4</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/06/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>783.1</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0400" errorplus="0.0400">0.49</impactparameter>
 		</planet>
 		<name>CoRoT-8</name>
-		<temperature>5080.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">5080.0</temperature>
+		<age errorminus="" errorplus="">3.0</age>
 	</star>
 </system>

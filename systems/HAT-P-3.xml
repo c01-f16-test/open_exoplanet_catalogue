@@ -2,28 +2,28 @@
 	<name>HAT-P-3</name>
 	<rightascension>13 44 23</rightascension>
 	<declination>+48 01 43</declination>
-	<distance>130</distance>
+	<distance errorminus="10.0" errorplus="10.0">138.0</distance>
 	<star>
-		<mass>0.917</mass>
-		<radius>0.799</radius>
-		<magV errorminus="0.15" errorplus="0.15">11.86</magV>
+		<mass errorminus="0.03" errorplus="0.03">0.917</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.799</radius>
+		<magV errorminus="0.034" errorplus="0.034">11.577</magV>
 		<magB errorminus="0.20" errorplus="0.20">12.53</magB>
 		<magJ errorminus="0.022" errorplus="0.022">9.936</magJ>
 		<magH errorminus="0.028" errorplus="0.028">9.542</magH>
 		<magK errorminus="0.025" errorplus="0.025">9.448</magK>
-		<metallicity>0.27</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.27</metallicity>
 		<spectraltype>K</spectraltype>
 		<planet>
 			<name>HAT-P-3 b</name>
 			<name>TYC 3466-00819-1 b</name>
 			<name>2MASS J13442258+4801432 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.591</mass>
-			<radius>0.827</radius>
-			<period>2.899703</period>
-			<semimajoraxis>0.03866</semimajoraxis>
+			<mass errorminus="0.018" errorplus="0.018">0.591</mass>
+			<radius errorminus="0.055" errorplus="0.055">0.827</radius>
+			<period errorminus="2e-06" errorplus="2e-06">2.899703</period>
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.03866</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.07</inclination>
+			<inclination errorminus="0.55" errorplus="0.55">87.07</inclination>
 			<description>The young and metal rich star HAT-P-3 is located in the constellation Ursa Major. The planet HAT-P-3 b has about 75 Earth masses worth of heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
@@ -31,8 +31,10 @@
 			<temperature>1047.2</temperature>
 			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454856.70195</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0750" errorplus="0.0750">0.53</impactparameter>
 		</planet>
 		<name>HAT-P-3</name>
-		<temperature>5224.0</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">5185.0</temperature>
+		<age errorminus="1.300" errorplus="2.900">1.6</age>
 	</star>
 </system>

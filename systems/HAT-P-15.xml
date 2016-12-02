@@ -2,36 +2,39 @@
 	<name>HAT-P-15</name>
 	<rightascension>04 24 59.534</rightascension>
 	<declination>+39 27 38.31</declination>
-	<distance>190</distance>
+	<distance errorminus="8.0" errorplus="8.0">190</distance>
 	<star>
-		<mass>1.013</mass>
-		<radius>1.08</radius>
-		<magV errorminus="0.024" errorplus="0.024">12.41</magV>
+		<mass errorminus="0.04" errorplus="0.04">1.013</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.08</radius>
+		<magV errorminus="0.024" errorplus="0.024">12.16</magV>
 		<magB errorminus="0.34" errorplus="0.34">13.02</magB>
 		<magR errorminus="0.03" errorplus="0.03">11.81</magR>
 		<magJ errorminus="0.023" errorplus="0.023">10.194</magJ>
 		<magH errorminus="0.029" errorplus="0.029">9.752</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.641</magK>
-		<metallicity>0.22</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.22</metallicity>
 		<spectraltype>G5</spectraltype>
 		<planet>
 			<name>HAT-P-15 b</name>
 			<name>2MASS J04245952+3927382 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.946</mass>
-			<radius>1.072</radius>
-			<period>10.863502</period>
-			<semimajoraxis>0.0964</semimajoraxis>
-			<eccentricity>0.19</eccentricity>
-			<inclination>89.1</inclination>
+			<mass errorminus="0.066" errorplus="0.066">1.946</mass>
+			<radius errorminus="0.043" errorplus="0.043">1.072</radius>
+			<period errorminus="2.7e-05" errorplus="2.7e-05">10.863502</period>
+			<semimajoraxis errorminus="0.0014" errorplus="0.0014">0.0964</semimajoraxis>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.19</eccentricity>
+			<inclination errorminus="0.2" errorplus="0.2">89.1</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>10/05/31</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature>819.9</temperature>
+			<temperature errorminus="20.0" errorplus="20.0">904.0</temperature>
 			<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2454638.56019</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="1.0000" errorplus="1.0000">262.0</periastron>
+			<impactparameter errorminus="0.0860" errorplus="0.0600">0.342</impactparameter>
 		</planet>
 		<name>HAT-P-15</name>
-		<temperature>5568.0</temperature>
+		<temperature errorminus="90.0" errorplus="90.0">5568.0</temperature>
+		<age errorminus="1.600" errorplus="2.500">6.8</age>
 	</star>
 </system>

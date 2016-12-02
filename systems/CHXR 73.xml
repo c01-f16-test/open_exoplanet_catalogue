@@ -8,11 +8,11 @@
 		<magH errorminus="0.024" errorplus="0.024">11.317</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.703</magK>
 		<mass>0.35</mass>
-		<spectraltype>M3.25</spectraltype>
+		<spectraltype>M3.5</spectraltype>
 		<planet>
 			<name>CHXR 73 b</name>
 			<list>Confirmed planets</list>
-			<mass>12</mass>
+			<mass errorminus="5.237" errorplus="8.379">12.569</mass>
 			<separation errorminus="0.03" errorplus="0.03" unit="arcsec">1.30</separation>
 			<separation unit="AU">210</separation>
 			<positionangle errorminus="1" errorplus="1">234.9</positionangle>
@@ -25,8 +25,11 @@
 			<discoveryyear>2006</discoveryyear>
 			<image>CHXR 73</image>
 			<imagedescription>This image shows the red dwarf CHXR 73 A and its companion CHXR 73 b on the lower right. The image was obtained with the Hubble Space Telescope. Credit: NASA, ESA, and K. Luhman (Pennsylvania State University).</imagedescription>
+			<semimajoraxis errorminus="" errorplus="">210.0</semimajoraxis>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>CHXR 73</name>
 		<temperature>3840.0</temperature>
+		<age errorminus="" errorplus="">0.002</age>
 	</star>
 </system>

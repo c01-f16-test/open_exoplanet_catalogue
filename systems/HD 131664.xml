@@ -2,7 +2,7 @@
 	<name>HD 131664</name>
 	<rightascension>15 00 06.08</rightascension>
 	<declination>-73 32 07.2</declination>
-	<distance errorminus="2.3" errorplus="2.3">55.43</distance>
+	<distance errorminus="3.11" errorplus="2.8">57.21</distance>
 	<star>
 		<name>HD 131664</name>
 		<name>HIP 73408</name>
@@ -14,7 +14,7 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.973</magJ>
 		<magH errorminus="0.040" errorplus="0.040">6.727</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.647</magK>
-		<spectraltype>G3V</spectraltype>
+		<spectraltype>G3 V</spectraltype>
 		<mass errorminus="0.03" errorplus="0.03">1.10</mass>
 		<radius>1.16</radius>
 		<temperature errorminus="21" errorplus="21">5886</temperature>
@@ -27,12 +27,15 @@
 			<semimajoraxis errorminus="0.03" errorplus="0.03">3.17</semimajoraxis>
 			<eccentricity errorminus="0.02" errorplus="0.02">0.638</eccentricity>
 			<periastron errorminus="1.0" errorplus="1.0">149.7</periastron>
-			<mass lowerlimit="36.3" upperlimit="139.7">85.2</mass>
+			<mass errorminus="0.35" errorplus="0.35" lowerlimit="36.3" upperlimit="139.7">18.15</mass>
 			<inclination lowerlimit="149.3" upperlimit="171.9">167.1</inclination>
 			<ascendingnode lowerlimit="276.4" upperlimit="10.0">320.8</ascendingnode>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 131664 b was originally detected by radial velocity measurements, giving a minimum mass of 18.15 Jupiter masses. Using Hipparcos astrometry, the inclination and true mass have been determined, indicating that the object is either a massive brown dwarf or a low-mass star.</description>
 			<lastupdate>15/01/14</lastupdate>
+			<periastrontime errorminus="41.000000" errorplus="41.000000">2452060.0</periastrontime>
+			<istransiting>0</istransiting>
+			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>
 </system>

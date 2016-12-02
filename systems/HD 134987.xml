@@ -2,10 +2,10 @@
 	<name>HD 134987</name>
 	<rightascension>15 13 28</rightascension>
 	<declination>-25 18 33</declination>
-	<distance>22.2</distance>
+	<distance errorminus="1.1" errorplus="1.1">22.2</distance>
 	<star>
-		<mass>1.07</mass>
-		<radius>1.25</radius>
+		<mass errorminus="0.04" errorplus="0.07">1.07</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.25</radius>
 		<magV>6.45</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.168</magB>
 		<magR>6.43</magR>
@@ -17,28 +17,35 @@
 		<planet>
 			<name>HD 134987 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.59</mass>
-			<period>258.19</period>
-			<semimajoraxis>0.81</semimajoraxis>
-			<eccentricity>0.233</eccentricity>
+			<mass errorminus="0.02" errorplus="0.02">1.59</mass>
+			<period errorminus="0.07" errorplus="0.07">258.19</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.81</semimajoraxis>
+			<eccentricity errorminus="0.002" errorplus="0.002">0.233</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/12/15</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>313.3</temperature>
+			<periastron errorminus="0.5000" errorplus="0.5000">352.7</periastron>
+			<periastrontime errorminus="0.800000" errorplus="0.800000">2450071.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 134987 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.82</mass>
-			<period>5000</period>
-			<semimajoraxis>5.8</semimajoraxis>
-			<eccentricity>0.12</eccentricity>
+			<mass errorminus="0.03" errorplus="0.03">0.82</mass>
+			<period errorminus="400.0" errorplus="400.0">5000</period>
+			<semimajoraxis errorminus="0.5" errorplus="0.5">5.8</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.12</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>09/12/15</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>117.4</temperature>
+			<periastron errorminus="48.0000" errorplus="48.0000">195.0</periastron>
+			<periastrontime errorminus="600.000000" errorplus="600.000000">2461100.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HD 134987</name>
-		<temperature>5740.0</temperature>
+		<temperature errorminus="50.0" errorplus="50.0">5585.0</temperature>
+		<age errorminus="1.400" errorplus="1.600">8.4</age>
 	</star>
 </system>

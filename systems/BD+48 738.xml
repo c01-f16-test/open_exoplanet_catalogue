@@ -16,7 +16,7 @@
 		<magH errorminus="0.047" errorplus="0.047">6.077</magH>
 		<magK errorminus="0.018" errorplus="0.018">5.904</magK>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.20</metallicity>
-		<spectraltype>K0III</spectraltype>
+		<spectraltype>K0 III</spectraltype>
 		<temperature errorminus="15" errorplus="15">4414</temperature>
 		<planet>
 			<name>BD+48 738 b</name>
@@ -31,6 +31,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2011</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

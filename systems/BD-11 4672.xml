@@ -38,6 +38,8 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2014</discoveryyear>
 			<lastupdate>15/11/17</lastupdate>
+			<periastrontime errorminus="46.000000" errorplus="38.000000">2455899.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

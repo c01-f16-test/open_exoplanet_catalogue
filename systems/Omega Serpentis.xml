@@ -7,7 +7,7 @@
 	<name>HIP 77578</name>
 	<rightascension>15 50 17.55</rightascension>
 	<declination>+02 11 47.44</declination>
-	<distance>83.8</distance>
+	<distance errorminus="5.05" errorplus="4.48">80.64</distance>
 	<star>
 		<magB>6.239</magB>
 		<magV>5.230</magV>
@@ -20,11 +20,11 @@
 		<name>HR 5888</name>
 		<name>HD 141680</name>
 		<name>HIP 77578</name>
-		<mass>2.17</mass>
-		<radius>12.30</radius>
-		<temperature>4770</temperature>
-		<metallicity>-0.24</metallicity>
-		<spectraltype>G8III</spectraltype>
+		<mass errorminus="0.29" errorplus="0.21">2.17</mass>
+		<radius errorminus="0.82" errorplus="0.88">12.30</radius>
+		<temperature errorminus="10.0" errorplus="10.0">4770</temperature>
+		<metallicity errorminus="0.02" errorplus="0.02">-0.24</metallicity>
+		<spectraltype>G8 III</spectraltype>
 		<planet>
 			<name>Omega Serpentis b</name>
 			<name>ome Ser b</name>
@@ -34,14 +34,16 @@
 			<name>HIP 77578 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.7</mass>
-			<period>277.02</period>
+			<period errorminus="0.51" errorplus="0.52">277.02</period>
 			<semimajoraxis>1.1</semimajoraxis>
-			<eccentricity>0.106</eccentricity>
-			<periastron>132</periastron>
+			<eccentricity errorminus="0.069" errorplus="0.079">0.106</eccentricity>
+			<periastron errorminus="52.0" errorplus="34.0">132</periastron>
 			<description>The exoplanet Omega Serpentis b is orbiting a star in the northern constellation Serpens. It was discovered using the radial velocity method. The measurements were taken at the Okaya Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>13/04/17</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<periastrontime errorminus="38.000000" errorplus="27.000000">2450022.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

@@ -12,8 +12,8 @@
 		<magJ errorminus="0.020" errorplus="0.020">10.822</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.340</magH>
 		<magK errorminus="0.017" errorplus="0.017">10.234</magK>
-		<metallicity errorminus="8" errorplus="8">0.1</metallicity>
-		<spectraltype>K</spectraltype>
+		<metallicity errorminus="0.08" errorplus="0.08">0.1</metallicity>
+		<spectraltype>K2</spectraltype>
 		<planet>
 			<name>HAT-P-18 b</name>
 			<name>2MASS J17052315+3300450 b</name>
@@ -27,11 +27,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>14/03/31</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<temperature errorminus="15" errorplus="15">841</temperature>
+			<temperature errorminus="28.0" errorplus="28.0">852.0</temperature>
 			<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="56.0000" errorplus="56.0000">120.0</periastron>
+			<impactparameter errorminus="0.0780" errorplus="0.0550">0.324</impactparameter>
 		</planet>
 		<name>HAT-P-18</name>
-		<temperature errorminus="50" errorplus="50">4870</temperature>
+		<temperature errorminus="80.0" errorplus="80.0">4803.0</temperature>
+		<age errorminus="6.400" errorplus="4.400">12.4</age>
 	</star>
 </system>

@@ -21,7 +21,7 @@
 		<planet>
 			<name>BD+49 828 b</name>
 			<period errorminus="180" errorplus="300">2590</period>
-			<periastrontime errorminus="170" errorplus="200">2455470</periastrontime>
+			<periastrontime errorminus="170" errorplus="200">2455470.5</periastrontime>
 			<eccentricity errorminus="0.10" errorplus="0.24">0.35</eccentricity>
 			<periastron errorminus="30" errorplus="32">170</periastron>
 			<mass errorminus="0.2" errorplus="0.4" type="msini">1.6</mass>
@@ -30,6 +30,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<lastupdate>15/11/23</lastupdate>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

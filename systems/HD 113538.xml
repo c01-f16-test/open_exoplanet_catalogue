@@ -24,13 +24,13 @@
 		<magH errorminus="0.042" errorplus="0.042">5.835</magH>
 		<magK errorminus="0.024" errorplus="0.024">5.637</magK>
 		<metallicity errorminus="0.06" errorplus="0.06">-0.24</metallicity>
-		<spectraltype>K9V</spectraltype>
+		<spectraltype>K9 V</spectraltype>
 		<age errorminus="4" errorplus="4">4.3</age>
 		<planet>
 			<name>HD 113538 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.04" errorplus="0.04" type="msini">0.36</mass>
-			<period errorminus="7.4" errorplus="7.4">663.2</period>
+			<period errorminus="7.4" errorplus="8.4">663.2</period>
 			<semimajoraxis errorminus="0.04" errorplus="0.04">1.24</semimajoraxis>
 			<eccentricity errorminus="0.08" errorplus="0.08">0.14</eccentricity>
 			<periastron errorminus="29" errorplus="37">74</periastron>
@@ -39,6 +39,8 @@
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
 			<lastupdate>15/11/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<periastrontime errorminus="17.000000" errorplus="17.000000">2455500.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>HD 113538 c</name>
@@ -53,6 +55,8 @@
 			<description>These planet parameters have been derived from ten years of HARPS data.</description>
 			<lastupdate>15/11/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<periastrontime errorminus="31.000000" errorplus="31.000000">2456741.0</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

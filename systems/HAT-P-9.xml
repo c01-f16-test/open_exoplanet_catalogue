@@ -2,7 +2,7 @@
 	<name>HAT-P-9</name>
 	<rightascension>07 20 40</rightascension>
 	<declination>+37 08 26</declination>
-	<distance>480</distance>
+	<distance errorminus="60.0" errorplus="60.0">480</distance>
 	<star>
 		<name>HAT-P-9</name>
 		<name>TYC 2463-281-1</name>
@@ -10,12 +10,12 @@
 		<name>2MASS J07204044+3708263</name>
 		<name>SDSS J072040.44+370826.3</name>
 		<name>UCAC2 44825174</name>
-		<mass>1.28</mass>
-		<radius>1.32</radius>
+		<mass errorplus="0.13">1.28</mass>
+		<radius errorplus="0.07">1.32</radius>
 		<metallicity>0.12</metallicity>
 		<spectraltype>F</spectraltype>
 		<magB errorminus="0.23" errorplus="0.23">12.35</magB>
-		<magV errorminus="0.27" errorplus="0.27">12.34</magV>
+		<magV errorminus="0.063" errorplus="0.063">12.34</magV>
 		<magR>12.08</magR>
 		<magJ errorminus="0.022" errorplus="0.022">11.274</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.04</magH>
@@ -25,19 +25,20 @@
 			<name>2MASS J07204044+3708263 b</name>
 			<name>TYC 2463-00281-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.67</mass>
-			<radius>1.4</radius>
-			<period>3.922814</period>
-			<semimajoraxis>0.053</semimajoraxis>
+			<mass errorminus="0.09" errorplus="0.09">0.78</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.4</radius>
+			<period errorminus="4e-05" errorplus="4e-05">3.922814</period>
+			<semimajoraxis errorminus="0.002" errorplus="0.002">0.053</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.5</inclination>
+			<inclination errorminus="0.2" errorplus="0.2">86.5</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>11/05/20</lastupdate>
 			<discoveryyear>2008</discoveryyear>
-			<temperature>1397.3</temperature>
+			<temperature errorminus="40.0" errorplus="40.0">1530.0</temperature>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454417.9085</transittime>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0300" errorplus="0.0300">0.52</impactparameter>
 		</planet>
-		<temperature>6350.0</temperature>
+		<temperature errorplus="150.0">6350.0</temperature>
 	</star>
 </system>

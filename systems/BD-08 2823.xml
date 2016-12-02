@@ -2,7 +2,7 @@
 	<name>BD-08 2823</name>
 	<rightascension>10 00 47.72035</rightascension>
 	<declination>-09 31 00.0340</declination>
-	<distance errorminus="2.8" errorplus="2.8">42.5</distance>
+	<distance errorminus="3.06" errorplus="2.67">42.09</distance>
 	<star>
 		<name>BD-08 2823</name>
 		<name>HIP 49067</name>
@@ -10,14 +10,14 @@
 		<name>SAO 137286</name>
 		<name>2MASS J10004775-0931001</name>
 		<mass errorminus="0.07" errorplus="0.07">0.74</mass>
-		<magV>9.86</magV>
+		<magV errorminus="0.043" errorplus="0.043">9.86</magV>
 		<magB>10.94</magB>
 		<magJ errorminus="0.020" errorplus="0.020">7.960</magJ>
 		<magH errorminus="0.047" errorplus="0.047">7.498</magH>
 		<magK errorminus="0.021" errorplus="0.021">7.323</magK>
 		<temperature errorminus="63" errorplus="63">4746</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.07</metallicity>
-		<spectraltype>K3V</spectraltype>
+		<spectraltype>K3 V</spectraltype>
 		<age errorminus="4.0" errorplus="4.0">4.5</age>
 		<planet>
 			<name>BD-08 2823 b</name>
@@ -36,6 +36,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 		<planet>
 			<name>BD-08 2823 c</name>
@@ -54,6 +55,7 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/17</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
 	</star>
 </system>

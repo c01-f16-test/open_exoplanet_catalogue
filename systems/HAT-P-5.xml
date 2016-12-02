@@ -2,37 +2,39 @@
 	<name>HAT-P-5</name>
 	<rightascension>18 17 37</rightascension>
 	<declination>+36 37 18</declination>
-	<distance>340</distance>
+	<distance errorminus="30.0" errorplus="30.0">340</distance>
 	<star>
 		<spectraltype>G</spectraltype>
-		<mass>1.163</mass>
-		<radius>1.137</radius>
+		<mass errorminus="0.06" errorplus="0.06">1.163</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.137</radius>
 		<magV errorminus="0.16" errorplus="0.16">11.95</magV>
 		<magR>12.0</magR>
 		<magB errorminus="0.30" errorplus="0.30">12.92</magB>
 		<magJ errorminus="0.021" errorplus="0.021">10.844</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.522</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.481</magK>
-		<metallicity>0.24</metallicity>
+		<metallicity errorminus="0.15" errorplus="0.15">0.24</metallicity>
 		<planet>
 			<name>HAT-P-5 b</name>
 			<name>2MASS J18173731+3637170 b</name>
 			<name>TYC 2634-01087-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.06</mass>
-			<radius>1.252</radius>
-			<period>2.788491</period>
-			<semimajoraxis>0.04079</semimajoraxis>
+			<mass errorminus="0.11" errorplus="0.11">1.06</mass>
+			<radius errorminus="0.05" errorplus="0.05">1.252</radius>
+			<period errorminus="2.5e-05" errorplus="2.5e-05">2.788491</period>
+			<semimajoraxis errorminus="0.00076" errorplus="0.00076">0.04079</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.75</inclination>
+			<inclination errorminus="0.44" errorplus="0.44">86.75</inclination>
 			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/05/22</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1387.4</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0480" errorplus="0.0480">0.425</impactparameter>
 		</planet>
 		<name>HAT-P-5</name>
-		<temperature>5960.0</temperature>
+		<temperature errorminus="100.0" errorplus="100.0">5960.0</temperature>
+		<age errorminus="1.800" errorplus="1.800">2.6</age>
 	</star>
 </system>

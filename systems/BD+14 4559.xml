@@ -3,7 +3,7 @@
 	<name>BD14 4559</name>
 	<rightascension>21 13 35.99143</rightascension>
 	<declination>+14 41 21.7994</declination>
-	<distance errorminus="2.90" errorplus="2.90">48.36</distance>
+	<distance errorminus="4.38" errorplus="3.73">50.03</distance>
 	<star>
 		<name>BD+14 4559</name>
 		<name>BD14 4559</name>
@@ -20,7 +20,7 @@
 		<mass errorminus="0.15" errorplus="0.15">0.86</mass>
 		<temperature errorminus="20" errorplus="20">5008</temperature>
 		<metallicity errorminus="0.07" errorplus="0.07">0.10</metallicity>
-		<spectraltype>K2V</spectraltype>
+		<spectraltype>K2 V</spectraltype>
 		<planet>
 			<name>BD+14 4559 b</name>
 			<name>BD14 4559 b</name>
@@ -30,10 +30,12 @@
 			<semimajoraxis>0.777</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.29</eccentricity>
 			<periastron errorminus="7.87" errorplus="7.87">87.64</periastron>
-			<periastrontime errorminus="6.35" errorplus="6.35">245294.21</periastrontime>
+			<periastrontime errorminus="6.35" errorplus="6.35">2453293.71</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/11/26</lastupdate>
 			<discoveryyear>2009</discoveryyear>
+			<istransiting>0</istransiting>
 		</planet>
+		<radius errorminus="0.20" errorplus="0.20">0.95</radius>
 	</star>
 </system>

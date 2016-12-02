@@ -29,6 +29,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.287</semimajoraxis>
+			<impactparameter errorminus="0.2100" errorplus="0.2100">0.21</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-351 b</name>
@@ -45,6 +47,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.214</semimajoraxis>
+			<impactparameter errorminus="0.3300" errorplus="0.3300">0.86</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-351 d</name>
@@ -58,5 +62,8 @@
 			<period errorminus="0.002303000" errorplus="0.002303000">142.544247000</period>
 			<radius errorminus="0.027" errorplus="0.017">0.243</radius>
 		</planet>
+		<mass errorminus="" errorplus="">0.89</mass>
+		<metallicity errorminus="" errorplus="">-0.134</metallicity>
+		<magV errorminus="" errorplus="">15.99</magV>
 	</star>
 </system>

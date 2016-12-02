@@ -2,16 +2,16 @@
 	<name>HAT-P-2</name>
 	<rightascension>16 20 36</rightascension>
 	<declination>+41 02 53</declination>
-	<distance>118</distance>
+	<distance errorminus="18.29" errorplus="14.4">135.32</distance>
 	<star>
-		<mass>1.36</mass>
-		<radius>1.64</radius>
+		<mass errorminus="0.04" errorplus="0.04">1.36</mass>
+		<radius errorminus="0.08" errorplus="0.09">1.64</radius>
 		<magV errorminus="0.01" errorplus="0.01">8.69</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.15</magB>
 		<magJ errorminus="0.027" errorplus="0.027">7.796</magJ>
 		<magH errorminus="0.038" errorplus="0.038">7.652</magH>
 		<magK errorminus="0.020" errorplus="0.020">7.603</magK>
-		<metallicity>0.14</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.14</metallicity>
 		<spectraltype>F8</spectraltype>
 		<planet>
 			<name>HAT-P-2 b</name>
@@ -22,21 +22,24 @@
 			<name>SAO 46035 b</name>
 			<name>2MASS J16203635+4102531 b</name>
 			<list>Confirmed planets</list>
-			<mass>8.74</mass>
-			<radius>0.951</radius>
-			<period>5.6334729</period>
-			<semimajoraxis>0.0674</semimajoraxis>
-			<eccentricity>0.5171</eccentricity>
-			<inclination>90</inclination>
+			<mass errorminus="0.24" errorplus="0.24">9.09</mass>
+			<radius errorminus="0.062" errorplus="0.073">1.157</radius>
+			<period errorminus="6.1e-06" errorplus="6.1e-06">5.6334729</period>
+			<semimajoraxis errorminus="0.00068" errorplus="0.00068">0.0674</semimajoraxis>
+			<eccentricity errorminus="0.0033" errorplus="0.0033">0.5171</eccentricity>
+			<inclination errorminus="0.87" errorplus="1.12">86.72</inclination>
 			<description>The star HAT-P-2 is located in the constellation Hercules and is between 2 and 3 billion years old.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>13/05/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
-			<temperature>1343.6</temperature>
+			<temperature errorminus="30.0" errorplus="30.0">1540.0</temperature>
 			<transittime errorminus="0.0030" errorplus="0.0053" unit="BJD">2454213.4801</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="0.9500" errorplus="0.9500">185.22</periastron>
+			<impactparameter errorminus="0.1230" errorplus="0.0800">0.395</impactparameter>
 		</planet>
 		<name>HAT-P-2</name>
-		<temperature>6290.0</temperature>
+		<temperature errorminus="60.0" errorplus="60.0">6290.0</temperature>
+		<age errorminus="0.500" errorplus="0.500">2.6</age>
 	</star>
 </system>
