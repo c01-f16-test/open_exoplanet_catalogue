@@ -7,10 +7,10 @@
 		<name>Kepler-27</name>
 		<name>KOI-841</name>
 		<name>KIC 5792202</name>
-		<temperature>5400.0</temperature>
-		<mass>0.65</mass>
-		<radius>0.59</radius>
-		<metallicity>0.41</metallicity>
+		<temperature errorminus="60.0" errorplus="60.0">5400.0</temperature>
+		<mass errorminus="0.16" errorplus="0.16">0.65</mass>
+		<radius errorminus="0.15" errorplus="0.15">0.59</radius>
+		<metallicity errorminus="0.04" errorplus="0.04">0.41</metallicity>
 		<magJ errorminus="0.04" errorplus="0.04">14.48</magJ>
 		<magH errorminus="0.03" errorplus="0.03">14.03</magH>
 		<magK errorminus="0.07" errorplus="0.07">14.12</magK>
@@ -27,9 +27,10 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/08/06</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>532.4</temperature>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">9.11</mass>
 		</planet>
 		<planet>
 			<name>Kepler-27 c</name>
@@ -44,9 +45,11 @@
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/08/06</lastupdate>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<temperature>418.5</temperature>
 			<istransiting>1</istransiting>
+			<mass errorminus="" errorplus="">13.8</mass>
 		</planet>
+		<magV errorminus="" errorplus="">15.855</magV>
 	</star>
 </system>

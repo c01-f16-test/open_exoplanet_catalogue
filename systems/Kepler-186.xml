@@ -4,7 +4,7 @@
 	<name>KIC 8120608</name>
 	<rightascension>19 54 36</rightascension>
 	<declination>+43 57 18</declination>
-	<distance errorminus="18" errorplus="18">151</distance>
+	<distance errorminus="10.0" errorplus="13.0">172.0</distance>
 	<star>
 		<magJ errorminus="0.026" errorplus="0.026">12.473</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.82</magH>
@@ -15,7 +15,7 @@
 		<radius errorminus="0.052" errorplus="0.052">0.472</radius>
 		<mass errorminus="0.055" errorplus="0.055">0.478</mass>
 		<metallicity errorminus="0.1" errorplus="0.1">-0.28</metallicity>
-		<temperature errorminus="54" errorplus="54">3788</temperature>
+		<temperature errorminus="90.0" errorplus="90.0">3755.0</temperature>
 		<planet>
 			<name>Kepler-186 c</name>
 			<name>KOI-571 c</name>
@@ -32,6 +32,7 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.1900" errorplus="0.2000">0.28</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-186 d</name>
@@ -49,6 +50,7 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2400" errorplus="0.1900">0.36</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-186 b</name>
@@ -66,6 +68,7 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.3</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-186 e</name>
@@ -83,6 +86,7 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.31</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-186 f</name>
@@ -90,8 +94,8 @@
 			<name>KOI-571.05</name>
 			<name>KIC 8120608 f</name>
 			<name>KIC 8120608.05</name>
-			<radius lowerlimit="0.0115978438716" upperlimit="0.0124899857079">0.0990277438268</radius>
-			<semimajoraxis errorminus="0.048" errorplus="0.048">0.356</semimajoraxis>
+			<radius errorminus="0.007" errorplus="0.007" lowerlimit="0.0115978438716" upperlimit="0.0124899857079">0.0990277438268</radius>
+			<semimajoraxis errorminus="0.048" errorplus="0.171">0.356</semimajoraxis>
 			<transittime errorminus="0.0068" errorplus="0.0068">2455009.8183</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-186 f is the first Earth-size planet in the habitable zone. The mass of the planet is not known, therefore one can only speculate about the planet's composition. If it is rocky, it could have liquid water on its surface. Kepler-186 orbits an M-dwarf, a star that is much cooler than the Sun. This is why the system's habitable zone is much closer to the star than in the Solar system.</description>
@@ -99,6 +103,13 @@
 			<lastupdate>14/04/17</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.040000" errorplus="0.070000">0.04</eccentricity>
+			<inclination errorminus="0.100" errorplus="0.040">89.96</inclination>
+			<impactparameter errorminus="0.1300" errorplus="0.2800">0.13</impactparameter>
+			<period errorminus="0.00120000" errorplus="0.00130000">129.9441</period>
 		</planet>
+		<age errorminus="0.600" errorplus="0.600">4.0</age>
+		<spectraltype>M1</spectraltype>
+		<magV errorminus="" errorplus="">14.625</magV>
 	</star>
 </system>

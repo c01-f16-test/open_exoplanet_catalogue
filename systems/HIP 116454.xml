@@ -16,7 +16,7 @@
 		<mass errorminus="0.027" errorplus="0.027">0.775</mass>
 		<radius errorminus="0.024" errorplus="0.024">0.716</radius>
 		<temperature errorminus="50" errorplus="50">5089</temperature>
-		<magV>10.19</magV>
+		<magV errorminus="0.009" errorplus="0.009">10.19</magV>
 		<magB>11.10</magB>
 		<magR>9.6</magR>
 		<magI>9.1</magI>
@@ -24,7 +24,7 @@
 		<magH errorminus="0.033" errorplus="0.033">8.140</magH>
 		<magK errorminus="0.021" errorplus="0.021">8.029</magK>
 		<metallicity errorminus="0.08" errorplus="0.08">-0.16</metallicity>
-		<spectraltype>K0</spectraltype>
+		<spectraltype>K1</spectraltype>
 		<planet>
 			<name>HIP 116454 b</name>
 			<name>K2-2 b</name>
@@ -48,6 +48,9 @@
 			<istransiting>1</istransiting>
 			<lastupdate>14/12/18</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<semimajoraxis errorminus="0.004900" errorplus="0.004900">0.0906</semimajoraxis>
+			<impactparameter errorminus="0.1700" errorplus="0.1700">0.65</impactparameter>
 		</planet>
+		<age errorminus="" errorplus="">2.0</age>
 	</star>
 </system>

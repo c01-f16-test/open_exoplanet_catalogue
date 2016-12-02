@@ -2,17 +2,17 @@
 	<name>Kepler-32</name>
 	<rightascension>19 51 22</rightascension>
 	<declination>+46 34 27</declination>
-	<distance>399</distance>
+	<distance errorminus="14.0" errorplus="14.0">303.0</distance>
 	<star>
 		<name>Kepler-32</name>
 		<name>KOI-952</name>
 		<name>KIC 9787239</name>
-		<temperature>3900.0</temperature>
+		<temperature errorminus="200.0" errorplus="200.0">3900.0</temperature>
 		<magJ errorminus="0.023" errorplus="0.023">13.616</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.901</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.757</magK>
-		<mass>0.58</mass>
-		<radius>0.53</radius>
+		<mass errorminus="0.05" errorplus="0.05">0.58</mass>
+		<radius errorminus="0.04" errorplus="0.04">0.53</radius>
 		<planet>
 			<name>Kepler-32 b</name>
 			<name>KOI-952 b</name>
@@ -24,10 +24,12 @@
 			<transittime errorminus="0.0010500" errorplus="0.0010500">2455004.4073500</transittime>
 			<list>Confirmed planets</list>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.05</semimajoraxis>
+			<mass errorminus="" errorplus="">4.1</mass>
 		</planet>
 		<planet>
 			<name>Kepler-32 c</name>
@@ -40,10 +42,12 @@
 			<transittime errorminus="0.0016500" errorplus="0.0016500">2455003.6313600</transittime>
 			<list>Confirmed planets</list>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-32 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
-			<discoveryyear>2012</discoveryyear>
+			<discoveryyear>2011</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.09</semimajoraxis>
+			<mass errorminus="" errorplus="">0.5</mass>
 		</planet>
 		<planet>
 			<name>Kepler-32 d</name>
@@ -56,10 +60,11 @@
 			<transittime errorminus="0.0017900" errorplus="0.0017900">2454988.2023600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-32 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-32 d are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.13</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-32 e</name>
@@ -72,10 +77,11 @@
 			<transittime errorminus="0.0028600" errorplus="0.0028600">2454966.6119100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-32 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-32 e are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.033</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-32 f</name>
@@ -88,11 +94,15 @@
 			<transittime errorminus="0.0030000" errorplus="0.0030000">2454966.2755200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-32 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-32 f are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2013</discoveryyear>
+			<discoveryyear>2012</discoveryyear>
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.013</semimajoraxis>
 		</planet>
+		<metallicity errorminus="0.400" errorplus="0.400">0.0</metallicity>
+		<spectraltype>M1 V</spectraltype>
+		<magV errorminus="" errorplus="">16.452</magV>
 	</star>
 	<videolink>http://youtu.be/RuavxozVvoU</videolink>
 </system>

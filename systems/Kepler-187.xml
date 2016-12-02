@@ -12,9 +12,9 @@
 		<name>Kepler-187</name>
 		<name>KOI-572</name>
 		<name>KIC 8193178</name>
-		<temperature errorminus="29" errorplus="129">6105</temperature>
+		<temperature errorminus="129.0" errorplus="129">6105</temperature>
 		<radius errorminus=".247" errorplus="0.247">1.287</radius>
-		<mass errorminus="0.1000" errorplus="0.1000">1.0000</mass>
+		<mass errorminus="0.1000" errorplus="0.1000">0.85</mass>
 		<planet>
 			<name>Kepler-187 c</name>
 			<name>KOI-572 c</name>
@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.099</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.09</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-187 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.059</semimajoraxis>
+			<impactparameter errorminus="0.2200" errorplus="0.2200">0.15</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">-0.345</metallicity>
+		<magV errorminus="" errorplus="">14.173</magV>
 	</star>
 </system>

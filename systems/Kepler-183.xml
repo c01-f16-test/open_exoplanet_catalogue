@@ -30,6 +30,8 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.103</semimajoraxis>
+			<impactparameter errorminus="0.2000" errorplus="0.2000">0.01</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-183 b</name>
@@ -46,6 +48,10 @@
 			<lastupdate>14/02/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis errorminus="" errorplus="">0.064</semimajoraxis>
+			<impactparameter errorminus="0.2300" errorplus="0.2300">0.25</impactparameter>
 		</planet>
+		<metallicity errorminus="" errorplus="">0.026</metallicity>
+		<magV errorminus="" errorplus="">14.943</magV>
 	</star>
 </system>

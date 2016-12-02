@@ -2,7 +2,7 @@
 	<name>KOI-806</name>
 	<rightascension>19 01 08</rightascension>
 	<declination>+38 56 50</declination>
-	<distance>924.9</distance>
+	<distance>1400.0</distance>
 	<star>
 		<name>KOI-806</name>
 		<name>Kepler-30</name>
@@ -39,6 +39,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>556.9</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.2000" errorplus="0.1200">0.38</impactparameter>
 		</planet>
 		<planet>
 			<name>KOI-806.02</name>
@@ -53,7 +54,7 @@
 			<eccentricity errorminus="0.0010" errorplus="0.0010">0.0111</eccentricity>
 			<periastron errorminus="6" errorplus="6">-49</periastron>
 			<ascendingnode>0</ascendingnode>
-			<inclination errorminus="0.32" errorplus="0.32">90.32</inclination>
+			<inclination errorminus="0.03" errorplus="0.03">90.32</inclination>
 			<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2455357.8870</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-30 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis.</description>
 			<discoverymethod>transit</discoverymethod>
@@ -61,6 +62,7 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>431.4</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorminus="0.0600" errorplus="0.0400">0.4</impactparameter>
 		</planet>
 		<planet>
 			<name>KOI-806.01</name>
@@ -70,7 +72,7 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.008493" errorplus="0.008493">0.072666</mass>
 			<radius errorminus="0.045565" errorplus="0.045565">0.801947</radius>
-			<period errorminus="0.013" errorplus="0.013">143.213</period>
+			<period errorminus="0.013" errorplus="0.013">143.34394</period>
 			<semimajoraxis>0.5</semimajoraxis>
 			<eccentricity errorminus="0.005" errorplus="0.005">0.022</eccentricity>
 			<periastron errorminus="7" errorplus="7">-163</periastron>
@@ -82,6 +84,10 @@
 			<discoveryyear>2012</discoveryyear>
 			<temperature>334.2</temperature>
 			<istransiting>1</istransiting>
+			<inclination errorminus="0.020" errorplus="0.020">89.841</inclination>
+			<impactparameter errorminus="0.1400" errorplus="0.0800">0.38</impactparameter>
 		</planet>
+		<age errorminus="0.800" errorplus="0.800">2.0</age>
+		<magV errorminus="" errorplus="">15.403</magV>
 	</star>
 </system>

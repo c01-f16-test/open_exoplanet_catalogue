@@ -2,7 +2,7 @@
 	<name>HIP 79431</name>
 	<rightascension>16 12 42</rightascension>
 	<declination>-18 52 32</declination>
-	<distance>14.4</distance>
+	<distance errorminus="0.83" errorplus="0.75">14.9</distance>
 	<star>
 		<mass>0.49</mass>
 		<magV>11.34</magV>
@@ -13,18 +13,21 @@
 		<magH errorminus="0.044" errorplus="0.044">6.855</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.589</magK>
 		<metallicity>0.4</metallicity>
-		<spectraltype>M3V</spectraltype>
+		<spectraltype>M3 V</spectraltype>
 		<planet>
 			<name>HIP 79431 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.1</mass>
-			<period>111.7</period>
+			<period errorminus="0.7" errorplus="0.7">111.7</period>
 			<semimajoraxis>0.36</semimajoraxis>
-			<eccentricity>0.29</eccentricity>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.29</eccentricity>
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>10/01/11</lastupdate>
-			<discoveryyear>2010</discoveryyear>
+			<discoveryyear>2009</discoveryyear>
 			<temperature>146.8</temperature>
+			<periastron errorminus="3.2000" errorplus="3.2000">287.4</periastron>
+			<periastrontime errorminus="1.200000" errorplus="1.200000">2454980.3</periastrontime>
+			<istransiting>0</istransiting>
 		</planet>
 		<name>HIP 79431</name>
 		<temperature>3191.0</temperature>
