@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-5</name>
 	<rightascension>23 57 24</rightascension>
-	<declination>-41 16 38</declination>
+	<declination>-41 16 37.9999</declination>
 	<distance>297</distance>
 	<star>
 		<mass>1</mass>
@@ -27,7 +27,7 @@
 			<inclination>85.8</inclination>
 			<transittime errorminus="0.00019" errorplus="0.00019" unit="BJD">2454375.62510</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/11/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1584.0</temperature>
 			<istransiting>1</istransiting>

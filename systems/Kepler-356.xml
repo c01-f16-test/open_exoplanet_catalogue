@@ -14,7 +14,7 @@
 		<name>KIC 2307415</name>
 		<temperature errorminus="100" errorplus="100">6133</temperature>
 		<radius errorminus=".243" errorplus="0.243">1.335</radius>
-		<mass errorminus="0.0970" errorplus="0.0970">1.1300</mass>
+		<mass errorminus="0.0970" errorplus="0.0970">0.97</mass>
 		<planet>
 			<name>Kepler-356 c</name>
 			<name>KOI-2053 c</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-356 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-356 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.115</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-356 b</name>
 			<name>KOI-2053 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-356 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-356 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.057</semimajoraxis>
+	</planet>
+	<magV>12.992</magV>
 	</star>
 </system>

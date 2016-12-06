@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-973</name>
-	<rightascension>19 20 40</rightascension>
-	<declination>+49 55 26</declination>
+	<rightascension>19 20 39</rightascension>
+	<declination>+49 55 25.9032</declination>
 	<star>
 		<name>Kepler-973</name>
 		<temperature errorminus="62.8" errorplus="65.9">5213.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000120800" errorplus="0.000120800">49.607733100</period>
 			<radius errorminus="0.006" errorplus="0.007">0.175</radius>
 		</planet>
+	<magV>13.218</magV>
 	</star>
-</system>
+<distance>297.0</distance>
+	</system>

@@ -22,12 +22,17 @@
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0363</semimajoraxis>
 			<temperature errorminus="80" errorplus="80">1600</temperature>
 			<inclination errorminus="2" errorplus="2">85</inclination>
-			<eccentricity upperlimit="0.058" />
+			<eccentricity upperlimit="0.058"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.058">0.058</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.058</eccentricity>
 			<description>This Hot Jupiter was discovered by WASP-South.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>16/02/04</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
+	<radius errorminus="0.1" errorplus="0.1">1.2</radius>
 	</star>
 </system>

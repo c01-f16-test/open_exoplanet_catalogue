@@ -17,11 +17,27 @@
 			<name>HD 30177 b</name>
 			<list>Confirmed planets</list>
 			<mass>7.7</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.88" errorplus="0.88">10.45</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.88" errorplus="0.88">10.45</mass>
 			<period>1620</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2770.0</period>
+			<!--NASA Catalogue-->
+			<period errorplus="100.0" errorminus="100.0">2770.0</period>
 			<semimajoraxis>2.6</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.26" errorplus="0.26">3.95</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.26" errorplus="0.26">3.95</semimajoraxis>
 			<eccentricity>0.22</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.025" errorminus="0.025">0.193</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.025" errorminus="0.025">0.193</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>153.5</temperature>
 		</planet>

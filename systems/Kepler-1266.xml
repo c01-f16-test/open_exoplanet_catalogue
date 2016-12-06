@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1266</name>
-	<rightascension>19 03 29</rightascension>
+	<rightascension>19 03 28</rightascension>
 	<declination>+42 43 41</declination>
 	<star>
 		<name>Kepler-1266</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000204500" errorplus="0.000204500">28.474748000</period>
 			<radius errorminus="0.041" errorplus="0.012">0.230</radius>
 		</planet>
+	<magV>15.86</magV>
 	</star>
-</system>
+<distance>901.0</distance>
+	</system>

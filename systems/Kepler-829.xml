@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-829</name>
-	<rightascension>18 49 20</rightascension>
-	<declination>+42 27 50</declination>
+	<rightascension>18 49 19</rightascension>
+	<declination>+42 27 49.77</declination>
 	<star>
 		<name>Kepler-829</name>
 		<temperature errorminus="120.3" errorplus="92.8">5698.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000019630" errorplus="0.000019630">6.883375620</period>
 			<radius errorminus="0.016" errorplus="0.039">0.188</radius>
 		</planet>
+	<magV>14.931</magV>
 	</star>
-</system>
+<distance>954.0</distance>
+	</system>

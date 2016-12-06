@@ -1,7 +1,7 @@
 <system>
 	<name>HD 148427</name>
 	<rightascension>16 28 28</rightascension>
-	<declination>-13 23 59</declination>
+	<declination>-13 23 58.9999</declination>
 	<distance>59.3</distance>
 	<star>
 		<mass>1.45</mass>
@@ -21,7 +21,7 @@
 			<semimajoraxis>0.93</semimajoraxis>
 			<eccentricity>0.16</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>413.8</temperature>
 		</planet>

@@ -27,6 +27,8 @@
 		<magK>3.13</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.29</metallicity>
 		<spectraltype>K0 III</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K0III</spectraltype>
 		<planet>
 			<name>omi CrB b</name>
 			<name>Omicron Coronae Borealis b</name>
@@ -43,7 +45,7 @@
 			<periastrontime errorminus="17" errorplus="17">2452211</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

@@ -20,9 +20,13 @@
 			<period>705</period>
 			<semimajoraxis>1.65</semimajoraxis>
 			<eccentricity>0</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="nan" errorminus="inf">0.27</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.066</eccentricity>
 			<description>The star HD 82886 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>382.7</temperature>
 		</planet>

@@ -18,6 +18,8 @@
 		<age errorminus="1.39" errorplus="1.41">5.23</age>
 		<temperature errorminus="49" errorplus="49">5687</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.27</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.08" errorminus="0.08">0.32</metallicity>
 		<planet>
 			<name>Kepler-454 b</name>
 			<name>KOI-273.01</name>
@@ -34,7 +36,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Kepler-454 b is a small but non-rocky planet orbiting the star every 10.6 days. Its mass has been determined using radial velocities from HARPS-N.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -50,16 +52,16 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Kepler-454 c is a jovian planet orbiting a metal-rich, solar-type star at 1.2 AU. Its presence was detected using radial velocities from HARPS-N.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
 			<name>Kepler-454 d</name>
 			<name>KOI-273 d</name>
 			<name>KIC 3102384 d</name>
-			<period lowerlimit="3650" />
-			<mass lowerlimit="12.1" />
-			<semimajoraxis lowerlimit="4.7" />
+			<period lowerlimit="3650"/>
+			<mass lowerlimit="12.1"/>
+			<semimajoraxis lowerlimit="4.7"/>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The presence of a third planet in the Kepler-454 system is inferred from a trend in the HARPS-N radial velocities. The limits are given assuming a circular orbit.</description>

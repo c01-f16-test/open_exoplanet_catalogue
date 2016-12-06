@@ -32,8 +32,10 @@
 			<transittime errorminus="0.00077" errorplus="0.00077" unit="BJD">2455952.52606</transittime>
 			<description>HAT-P-42 b is a typical Hot Jupiter on a circular orbit around an early G-type main sequence star. The planet is inflated compared to our own Jupiter. It was discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

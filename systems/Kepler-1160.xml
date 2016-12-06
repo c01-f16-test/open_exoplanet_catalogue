@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1160</name>
 	<rightascension>19 11 31</rightascension>
-	<declination>+43 21 51</declination>
+	<declination>+43 21 50.67</declination>
 	<star>
 		<name>Kepler-1160</name>
 		<temperature errorminus="63.4" errorplus="61.2">5519.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000031220" errorplus="0.000031220">7.970349580</period>
 			<radius errorminus="0.012" errorplus="0.025">0.191</radius>
 		</planet>
+	<magV>15.833</magV>
 	</star>
-</system>
+<distance>1293.0</distance>
+	</system>

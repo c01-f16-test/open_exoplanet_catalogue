@@ -20,6 +20,10 @@
 			<name>TYC 3542-64-1</name>
 			<magB>10.16</magB>
 			<magV>9.95</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>10.0</magV>
+			<!--NASA Catalogue-->
+			<magV>9.958</magV>
 			<magJ errorminus="0.022" errorplus="0.022">9.466</magJ>
 			<magH errorminus="0.019" errorplus="0.019">9.455</magH>
 			<magK errorminus="0.014" errorplus="0.014">9.425</magK>
@@ -28,6 +32,8 @@
 			<mass errorminus="0.10" errorplus="0.10">1.72</mass>
 			<age errorminus="0.146" errorplus="0.183">0.708</age>
 			<metallicity errorminus="0.20" errorplus="0.20">0.20</metallicity>
+			<!--Exoplanet.eu Catalogue-->
+			<metallicity>-0.14</metallicity>
 			<spectraltype>A</spectraltype>
 			<planet>
 				<name>Kepler-13 A b</name>
@@ -41,14 +47,22 @@
 				<radius errorminus="0.04" errorplus="0.04">1.51</radius>
 				<period errorminus="0.00000037" errorplus="0.00000037">1.76358799</period>
 				<transittime errorminus="0.0000100" errorplus="0.0000100">2454953.5651260</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.0013" errorplus="0.0013">2455138.7439</transittime>
 				<semimajoraxis errorminus="0.00066" errorplus="0.00066">0.03423</semimajoraxis>
+				<!--NASA Catalogue-->
+				<semimajoraxis errorminus="0.00087" errorplus="0.00087">0.03641</semimajoraxis>
 				<inclination>86.6</inclination>
+				<!--Exoplanet.eu Catalogue-->
+				<inclination errorplus="0.2" errorminus="0.2">81.8</inclination>
+				<!--NASA Catalogue-->
+				<inclination errorplus="0.048" errorminus="0.052">86.77</inclination>
 				<temperature errorminus="160" errorplus="160">2750</temperature>
 				<spinorbitalignment errorminus="2.0" errorplus="2.0">58.6</spinorbitalignment>
 				<list>Confirmed planets</list>
 				<description>KOI-13 b (also known as Kepler-13 b) is a Hot Jupiter orbiting a fast-rotating A-type star.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/12/03</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
@@ -82,7 +96,7 @@
 				<name>KOI-13 C</name>
 				<name>KIC 9941662 C</name>
 				<name>BD+46 2629 C</name>
-				<temperature upperlimit="4700" />
+				<temperature upperlimit="4700"/>
 				<mass errorminus="0.175" errorplus="0.175">0.575</mass>
 			</star>
 		</binary>

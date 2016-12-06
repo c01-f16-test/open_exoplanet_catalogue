@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-68</name>
 	<rightascension>19 24 07.7644</rightascension>
-	<declination>+49 02 24.957</declination>
+	<declination>+49 02 25</declination>
 	<distance errorminus="10" errorplus="10">135</distance>
 	<binary>
 		<name>Kepler-68</name>
@@ -20,6 +20,8 @@
 			<radius errorminus="0.019" errorplus="0.019">1.243</radius>
 			<temperature errorminus="74" errorplus="74">5793</temperature>
 			<magV errorminus="0.001" errorplus="0.001">9.997</magV>
+			<!--NASA Catalogue-->
+			<magV errorminus="0.18" errorplus="0.18">9.99</magV>
 			<magB errorminus="0.04" errorplus="0.04">10.73</magB>
 			<magJ errorminus="0.046" errorplus="0.046">8.975</magJ>
 			<magH errorminus="0.029" errorplus="0.029">8.662</magH>
@@ -38,15 +40,23 @@
 				<name>KOI-246 A b</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.007" errorplus="0.008">0.026</mass>
+				<!--Exoplanet.eu Catalogue-->
+				<mass errorminus="0.0053" errorplus="0.0053">0.0188</mass>
+				<!--NASA Catalogue-->
+				<mass errorminus="0.00535" errorplus="0.00535">0.01878</mass>
 				<radius errorminus="0.008" errorplus="0.005">0.206</radius>
 				<temperature errorminus="90" errorplus="90">1280</temperature>
 				<period errorminus="0.000004" errorplus="0.000004">5.398763</period>
+				<!--Exoplanet.eu Catalogue-->
+				<period>5.3987533</period>
+				<!--NASA Catalogue-->
+				<period>5.39875</period>
 				<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.06170</semimajoraxis>
 				<eccentricity errorminus="0.02" errorplus="0.13">0.02</eccentricity>
 				<inclination errorminus="0.90" errorplus="0.90">87.60</inclination>
 				<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455006.85729</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
 				<istransiting>1</istransiting>
@@ -69,7 +79,7 @@
 				<inclination errorminus="0.41" errorplus="0.41">86.93</inclination>
 				<transittime errorminus="0.0041" errorplus="0.0041" unit="BJD">2454969.3805</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
 				<istransiting>1</istransiting>
@@ -86,11 +96,19 @@
 				<name>KOI-246 A d</name>
 				<list>Confirmed planets</list>
 				<mass errorminus="0.035" errorplus="0.035" type="msini">0.947</mass>
+				<!--Exoplanet.eu Catalogue-->
+				<mass errorminus="0.05" errorplus="0.05">0.84</mass>
+				<!--NASA Catalogue-->
+				<mass errorminus="0.05034" errorplus="0.05034">0.84007</mass>
 				<period errorminus="15" errorplus="15">580</period>
+				<!--Exoplanet.eu Catalogue-->
+				<period>625.0</period>
+				<!--NASA Catalogue-->
+				<period errorplus="16.0" errorminus="16.0">625.0</period>
 				<semimajoraxis errorminus="0.03" errorplus="0.03">1.40</semimajoraxis>
 				<eccentricity errorminus="0.05" errorplus="0.05">0.18</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/06/09</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefore a lower limit.</description>
 				<list>Planets in binary systems, S-type</list>

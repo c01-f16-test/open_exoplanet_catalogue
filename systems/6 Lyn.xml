@@ -21,6 +21,8 @@
 		<magI>4.8</magI>
 		<magJ errorminus="0.254" errorplus="0.254">4.272</magJ>
 		<magH errorminus="0.252" errorplus="0.252">3.825</magH>
+		<!--Exoplanet.eu Catalogue-->
+		<magH>3.03</magH>
 		<magK errorminus="0.300" errorplus="0.300">3.701</magK>
 		<metallicity>-0.13</metallicity>
 		<spectraltype>K0IV</spectraltype>
@@ -35,12 +37,14 @@
 			<semimajoraxis errorminus="0.06" errorplus="0.05">2.18</semimajoraxis>
 			<eccentricity errorminus="0.059" errorplus="0.066">0.059</eccentricity>
 			<periastron errorminus="52.6" errorplus="75.5">314.9</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="" errorminus="">27.0</periastron>
 			<periastrontime errorminus="130.9" errorplus="180.2">2454024.5</periastrontime>
 			<inclination errorminus="1.0" errorplus="79.0">2.0</inclination>
 			<ascendingnode errorminus="85.1" errorplus="73.8">75.5</ascendingnode>
 			<description>The star 6 Lyncis is a subgiant and 15 times more luminous than our Sun. The astrometric signature of the planet gives a best-fit inclination of 2 degrees, which would imply the object is a brown dwarf with 64 times the mass of Jupiter. Nevertheless, the error bars are large and allow for masses between 2.2 and 128.7 Jupiter masses, a range that incorporates both planetary and stellar masses.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

@@ -27,12 +27,18 @@
 			<temperature errorminus="34" errorplus="34">1862</temperature>
 			<period errorminus="0.0000065" errorplus="0.0000065">3.1220109</period>
 			<transittime errorminus="0.00036" errorplus="0.00036">2456287.47093</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00036" errorplus="0.00036">2456285.90993</transittime>
 			<semimajoraxis errorminus="0.00140" errorplus="0.00058">0.04530</semimajoraxis>
-			<eccentricity upperlimit="0.115" />
+			<eccentricity upperlimit="0.115"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.115">0.115</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.115</eccentricity>
 			<inclination errorminus="0.57" errorplus="0.57">83.65</inclination>
 			<description>This Jupiter-mass planet was discovered by the HATNet transit survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/03/13</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

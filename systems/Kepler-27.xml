@@ -21,14 +21,22 @@
 			<name>KIC 5792202 b</name>
 			<list>Confirmed planets</list>
 			<radius>0.364521</radius>
-			<period>15.33</period>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.36</radius>
+			<!--NASA Catalogue-->
+			<radius>0.357</radius>
+			<period>15.3348</period>
 			<semimajoraxis>0.118</semimajoraxis>
 			<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454991.6726</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>532.4</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="inf" errorplus="nan">9.11</mass>
+			<!--NASA Catalogue-->
+			<mass>9.11</mass>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -38,15 +46,24 @@
 			<name>KIC 5792202 c</name>
 			<list>Confirmed planets</list>
 			<radius>0.44653</radius>
-			<period>31.33</period>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.44</radius>
+			<!--NASA Catalogue-->
+			<radius>0.437</radius>
+			<period>31.3309</period>
 			<semimajoraxis>0.191</semimajoraxis>
 			<transittime errorminus="0.0032" errorplus="0.0032" unit="BJD">2454986.4274</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>418.5</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="inf" errorplus="nan">13.8</mass>
+			<!--NASA Catalogue-->
+			<mass>13.8</mass>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>15.855</magV>
 	</star>
 </system>

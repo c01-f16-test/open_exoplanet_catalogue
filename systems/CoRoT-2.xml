@@ -6,7 +6,7 @@
 	<star>
 		<mass errorminus="0.06" errorplus="0.06">0.97</mass>
 		<radius errorminus="0.018" errorplus="0.018">0.902</radius>
-		<magV>12.568</magV>
+		<magV>12.57</magV>
 		<magB>13.422</magB>
 		<magR>12.204</magR>
 		<magI errorminus="0.03" errorplus="0.03">11.49</magI>
@@ -27,10 +27,12 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.10" errorplus="0.10">87.84</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1392.7</temperature>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2454237.53562</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.003" errorplus="0.003">2454706.4041</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>CoRoT-2</name>

@@ -22,6 +22,8 @@
 		<radius errorminus="0.04" errorplus="0.04">1.12</radius>
 		<mass errorminus="0.04" errorplus="0.04">1.18</mass>
 		<age errorminus="0.5" errorplus="0.9">0.8</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="" errorplus="1.5">2.9</age>
 		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
 		<spectraltype>F8V</spectraltype>
 		<planet>
@@ -33,6 +35,8 @@
 			<radius errorminus="0.02" errorplus="0.02">0.96</radius>
 			<period errorminus="0.000006" errorplus="0.000006">7.340711</period>
 			<transittime errorminus="0.00014" errorplus="0.00014">2455187.56737</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0003" errorplus="0.0003">2454967.3453</transittime>
 			<mass errorminus="0.12" errorplus="0.12">0.63</mass>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0781</semimajoraxis>
 			<inclination errorminus="0.07" errorplus="0.07">87.46</inclination>
@@ -40,7 +44,7 @@
 			<list>Confirmed planets</list>
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. Originally announced to be in an eccentric orbit, the later re-analysis by Bonomo et al. (2015) indicated that the orbit was compatible with being circular. The planet was first announced in 2012.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/01/27</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

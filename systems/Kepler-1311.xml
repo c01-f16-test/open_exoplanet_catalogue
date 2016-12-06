@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1311</name>
 	<rightascension>19 18 36</rightascension>
-	<declination>+43 49 28</declination>
+	<declination>+43 49 27.9012</declination>
 	<star>
 		<name>Kepler-1311</name>
 		<temperature errorminus="72.3" errorplus="87.3">5748.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000010180" errorplus="0.000010180">2.535734240</period>
 			<radius errorminus="0.021" errorplus="0.025">0.109</radius>
 		</planet>
+	<magV>13.349</magV>
 	</star>
-</system>
+<distance>705.0</distance>
+	</system>

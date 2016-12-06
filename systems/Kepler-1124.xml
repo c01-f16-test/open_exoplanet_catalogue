@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1124</name>
-	<rightascension>19 06 23</rightascension>
-	<declination>+37 53 29</declination>
+	<rightascension>19 06 22</rightascension>
+	<declination>+37 53 28.5576</declination>
 	<star>
 		<name>Kepler-1124</name>
 		<temperature errorminus="26.6" errorplus="33.4">3658.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003030" errorplus="0.000003030">2.852348970</period>
 			<radius errorminus="0.006" errorplus="0.011">0.114</radius>
 		</planet>
+	<magV>15.959</magV>
 	</star>
-</system>
+<distance>177.0</distance>
+	</system>

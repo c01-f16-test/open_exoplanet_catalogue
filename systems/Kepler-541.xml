@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-541</name>
-	<rightascension>19 36 36</rightascension>
-	<declination>+38 27 30</declination>
+	<rightascension>19 36 35</rightascension>
+	<declination>+38 27 29.7324</declination>
 	<star>
 		<name>Kepler-541</name>
 		<temperature errorminus="99.8" errorplus="102.8">6166.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000013380" errorplus="0.000013380">5.080058480</period>
 			<radius errorminus="0.050" errorplus="0.052">0.300</radius>
 		</planet>
+	<magV>13.281</magV>
 	</star>
-</system>
+<distance>1020.0</distance>
+	</system>

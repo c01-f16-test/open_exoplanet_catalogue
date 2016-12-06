@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1121</name>
-	<rightascension>19 51 09</rightascension>
+	<rightascension>19 51 08</rightascension>
 	<declination>+47 53 10</declination>
 	<star>
 		<name>Kepler-1121</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000058640" errorplus="0.000058640">13.151410810</period>
 			<radius errorminus="0.041" errorplus="0.043">0.170</radius>
 		</planet>
+	<magV>12.071</magV>
 	</star>
-</system>
+<distance>529.0</distance>
+	</system>

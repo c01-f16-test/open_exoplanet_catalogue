@@ -11,9 +11,11 @@
 			<list>Confirmed planets</list>
 			<mass>2.6</mass>
 			<period>1972.3</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>1970.0</period>
 			<semimajoraxis>1.8</semimajoraxis>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>11/02/04</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<name>MOA-2009-BLG-387L</name>

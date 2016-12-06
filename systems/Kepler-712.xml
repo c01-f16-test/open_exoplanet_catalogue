@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-712</name>
 	<rightascension>19 39 38</rightascension>
-	<declination>+42 56 07</declination>
+	<declination>+42 56 06.9396</declination>
 	<star>
 		<name>Kepler-712</name>
 		<temperature errorminus="78.1" errorplus="83.5">5148.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001096000" errorplus="0.001096000">226.890470000</period>
 			<radius errorminus="0.037" errorplus="0.023">0.433</radius>
 		</planet>
+	<magV>15.859</magV>
 	</star>
-</system>
+<distance>944.0</distance>
+	</system>

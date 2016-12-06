@@ -17,6 +17,8 @@
 		<magH errorminus="0.021" errorplus="0.021">12.391</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.337</magK>
 		<metallicity errorminus="0.04" errorplus="0.04">0.12</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity>0.17</metallicity>
 		<planet>
 			<name>Kepler-9 b</name>
 			<name>2MASS J19021775+3824032 b</name>
@@ -32,7 +34,7 @@
 			<inclination errorminus="0.7" errorplus="0.7">87.1</inclination>
 			<eccentricity errorminus="0.001" errorplus="0.001">0.0626</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>707.2</temperature>
 			<istransiting>1</istransiting>
@@ -52,7 +54,7 @@
 			<eccentricity errorminus="0.0002" errorplus="0.0002">0.0684</eccentricity>
 			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455164.18301</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>557.9</temperature>
 			<istransiting>1</istransiting>
@@ -65,12 +67,22 @@
 			<name>KOI-377 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.022</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.00550608816034" errorplus="0.00550608816034">0.016518264481</mass>
 			<radius>0.147</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.00446070918139" errorplus="0.00446070918139">0.178428367256</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.012" errorplus="0.017">0.146</radius>
 			<period errorminus="0.000045" errorplus="0.000045">1.592851</period>
 			<semimajoraxis errorminus="0.0001" errorplus="0.0001">0.0271</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.00043" errorplus="0.00042">0.0273</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00043" errorplus="0.00042">0.0273</semimajoraxis>
 			<transittime errorminus="0.0033" errorplus="0.0018" unit="BJD">2455015.0943</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-535</name>
-	<rightascension>19 46 16</rightascension>
-	<declination>+49 41 47</declination>
+	<rightascension>19 46 15</rightascension>
+	<declination>+49 41 46.5036</declination>
 	<star>
 		<name>Kepler-535</name>
 		<temperature errorminus="69.6" errorplus="74.8">6123.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004540" errorplus="0.000004540">4.903321550</period>
 			<radius errorminus="0.019" errorplus="0.029">0.211</radius>
 		</planet>
+	<magV>13.174</magV>
 	</star>
-</system>
+<distance>678.0</distance>
+	</system>

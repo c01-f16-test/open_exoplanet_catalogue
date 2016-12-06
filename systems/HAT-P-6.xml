@@ -25,10 +25,12 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.51</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1529.9</temperature>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454035.67652</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00025" errorplus="0.00025">2454035.67617</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>HAT-P-6</name>

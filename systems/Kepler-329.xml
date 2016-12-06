@@ -14,7 +14,7 @@
 		<name>KIC 8978528</name>
 		<temperature errorminus="200" errorplus="200">4257</temperature>
 		<radius errorminus=".052" errorplus="0.052">0.523</radius>
-		<mass errorminus="0.0140" errorplus="0.0140">0.6020</mass>
+		<mass errorminus="0.0140" errorplus="0.0140">0.53</mass>
 		<planet>
 			<name>Kepler-329 c</name>
 			<name>KOI-1874 c</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-329 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-329 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.113</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-329 b</name>
 			<name>KOI-1874 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-329 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-329 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.061</semimajoraxis>
+	</planet>
+	<magV>15.434</magV>
 	</star>
 </system>

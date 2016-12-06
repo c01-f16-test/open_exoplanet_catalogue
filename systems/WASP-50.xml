@@ -29,15 +29,29 @@
 			<name>UCAC3 159-7797 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.47</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.068" errorplus="0.068">1.437</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.086" errorplus="0.091">1.468</mass>
 			<radius>1.15</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.026" errorplus="0.026">1.138</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.048" errorplus="0.048">1.153</radius>
 			<period>1.955096</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>1.9550959</period>
+			<!--NASA Catalogue-->
+			<period errorplus="5.1e-06" errorminus="5.1e-06">1.9550959</period>
 			<semimajoraxis>0.02945</semimajoraxis>
 			<eccentricity>0.009</eccentricity>
 			<inclination>84.74</inclination>
 			<transittime errorminus="0.000118" errorplus="0.00018" unit="BJD">2455859.691755</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00015" errorplus="0.00021">2455558.61197</transittime>
 			<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/08/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1289.9</temperature>
 			<istransiting>1</istransiting>

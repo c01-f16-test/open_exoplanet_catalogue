@@ -33,6 +33,8 @@
 		<magK>1.22</magK>
 		<age errorminus="0.7" errorplus="0.7">3.35</age>
 		<metallicity errorminus="0.05" errorplus="0.05">0.36</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.04" errorminus="0.04">0.3</metallicity>
 		<spectraltype>K2III</spectraltype>
 		<planet>
 			<name>mu Leo b</name>
@@ -49,7 +51,7 @@
 			<periastrontime errorminus="17.3" errorplus="17.3">2452921.0</periastrontime>
 			<description>The planet mu Leo b is orbiting the K giant mu Leonis, also known as Rasalas (the northern star of the lion's head). It was found using data from the Bohyunsan Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

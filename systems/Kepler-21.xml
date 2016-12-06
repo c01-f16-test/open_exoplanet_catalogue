@@ -47,17 +47,33 @@
 				<name>KOI-975 b</name>
 				<name>KOI-975 A b</name>
 				<list>Confirmed planets</list>
-				<mass upperlimit="0.0327" />
+				<mass upperlimit="0.0327"/>
+				<!--Exoplanet.eu Catalogue-->
+				<mass errorminus="0.00541" errorplus="0.00541">0.016</mass>
+				<!--NASA Catalogue-->
+				<mass errorminus="0.00541" errorplus="0.00541">0.01598</mass>
 				<radius errorminus="0.0038" errorplus="0.0034">0.1456</radius>
 				<period errorminus="0.000034" errorplus="0.000031">2.785755</period>
 				<semimajoraxis errorminus="0.000119" errorplus="0.000098">0.042509</semimajoraxis>
+				<!--Exoplanet.eu Catalogue-->
+				<semimajoraxis errorminus="3e-07" errorplus="3e-07">0.0427172</semimajoraxis>
+				<!--NASA Catalogue-->
+				<semimajoraxis>0.042717</semimajoraxis>
 				<inclination errorminus="0.31" errorplus="0.28">82.59</inclination>
+				<!--Exoplanet.eu Catalogue-->
+				<inclination errorplus="0.28" errorminus="0.26">83.2</inclination>
+				<!--NASA Catalogue-->
+				<inclination errorplus="0.28" errorminus="0.26">83.2</inclination>
 				<transittime errorminus="0.0016" errorplus="0.0016" unit="BJD">2455093.8368</transittime>
 				<description>This planet has been discovered with the Kepler spacecraft. It is orbiting Kepler's brightest host star and is only 1.6 times larger than the Earth.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>16/01/22</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<istransiting>1</istransiting>
+				<!--Exoplanet.eu Catalogue-->
+				<eccentricity errorplus="0.1" errorminus="0.02">0.02</eccentricity>
+				<!--NASA Catalogue-->
+				<eccentricity errorplus="0.1" errorminus="0.1">0.02</eccentricity>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>

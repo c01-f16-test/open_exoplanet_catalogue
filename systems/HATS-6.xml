@@ -1,8 +1,8 @@
 <system>
 	<name>HATS-6</name>
 	<rightascension>05 52 35.231</rightascension>
-	<declination>-19 01 53.96</declination>
-	<distance errorminus="5.5" errorplus="5.5">172.6</distance>
+	<declination>-19 01 54</declination>
+	<distance errorminus="5.5" errorplus="5.5">148.4</distance>
 	<star>
 		<name>HATS-6</name>
 		<name>2MASS 05523523-1901539</name>
@@ -29,9 +29,10 @@
 			<inclination errorminus="0.084" errorplus="0.084">88.210</inclination>
 			<description>HATS-6 is a warm Saturn orbiting an early M-dwarf star.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/08/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity/>
+	</planet>
 	</star>
 </system>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1386</name>
-	<rightascension>18 43 18</rightascension>
-	<declination>+42 38 10</declination>
+	<rightascension>18 43 17</rightascension>
+	<declination>+42 38 09.8016</declination>
 	<star>
 		<name>Kepler-1386</name>
 		<temperature errorminus="88.0" errorplus="71.2">5733.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000070220" errorplus="0.000070220">6.739723810</period>
 			<radius errorminus="0.012" errorplus="0.034">0.111</radius>
 		</planet>
+	<magV>14.455</magV>
 	</star>
-</system>
+<distance>838.0</distance>
+	</system>

@@ -30,10 +30,13 @@
 				<semimajoraxis>0.353</semimajoraxis>
 				<eccentricity>0.3354</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>1992</discoveryyear>
+				<!--Exoplanet.eu Catalogue-->
+				<discoveryyear>1989</discoveryyear>
 				<temperature>486.8</temperature>
-			</planet>
+			<radius>1.11</radius>
+	</planet>
 			<name>HD 114762</name>
 			<temperature>5934.0</temperature>
 		</star>

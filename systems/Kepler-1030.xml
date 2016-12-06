@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1030</name>
-	<rightascension>19 34 44</rightascension>
+	<rightascension>19 34 43</rightascension>
 	<declination>+45 49 03</declination>
 	<star>
 		<name>Kepler-1030</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000074740" errorplus="0.000074740">19.329524160</period>
 			<radius errorminus="0.016" errorplus="0.011">0.221</radius>
 		</planet>
+	<magV>15.719</magV>
 	</star>
-</system>
+<distance>795.0</distance>
+	</system>

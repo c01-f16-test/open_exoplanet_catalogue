@@ -2,7 +2,7 @@
 	<name>HD 31253</name>
 	<rightascension>04 54 43.65327</rightascension>
 	<declination>+12 21 07.9133</declination>
-	<distance errorminus="1.6" errorplus="1.6">50.3</distance>
+	<distance errorminus="1.6" errorplus="1.6">53.82</distance>
 	<star>
 		<name>HD 31253</name>
 		<name>HIP 22826</name>
@@ -32,7 +32,7 @@
 			<periastron errorminus="23" errorplus="23">244</periastron>
 			<periastrontime errorminus="19" errorplus="19">2450660</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

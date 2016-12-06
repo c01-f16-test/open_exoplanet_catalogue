@@ -5,7 +5,11 @@
 	<distance>204</distance>
 	<star>
 		<mass>0.92</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.04" errorminus="0.04">0.94</mass>
 		<radius>0.87</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.04" errorplus="0.05">0.9</radius>
 		<magV errorminus="0.13" errorplus="0.13">12.19</magV>
 		<magB errorminus="0.10" errorplus="0.10">13.18</magB>
 		<magR errorminus="0.08" errorplus="0.08">11.98</magR>
@@ -29,7 +33,7 @@
 			<spinorbitalignment>24.2</spinorbitalignment>
 			<inclination>85.0</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1102.7</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>

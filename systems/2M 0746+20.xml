@@ -2,6 +2,8 @@
 	<name>2M 0746+20</name>
 	<name>2MASS J07464256+2000321</name>
 	<rightascension>07 46 42.562</rightascension>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>07 46 43</rightascension>
 	<declination>+20 00 32.18</declination>
 	<distance>12.21</distance>
 	<star>
@@ -20,7 +22,7 @@
 			<eccentricity>0.487</eccentricity>
 			<inclination>138.2</inclination>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>12/01/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 		<name>2M 0746+20</name>

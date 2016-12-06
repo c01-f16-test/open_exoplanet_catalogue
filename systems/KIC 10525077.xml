@@ -12,6 +12,8 @@
 		<magJ errorminus="0.022" errorplus="0.022">14.143</magJ>
 		<magH errorminus="0.031" errorplus="0.031">13.869</magH>
 		<magK errorminus="0.046" errorplus="0.046">13.754</magK>
+		<!--Exoplanet.eu Catalogue-->
+		<magK>15.4</magK>
 		<mass errorminus="0.12" errorplus="0.12">1.01</mass>
 		<radius errorminus="0.10" errorplus="0.10">1.01</radius>
 		<temperature errorminus="213" errorplus="164">6091</temperature>
@@ -28,7 +30,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The planet KIC 10525077 b was discovered and validated by the Planet Hunters project in 2015. Only two transits have been observed for this planet. Because of missing data, the period is uncertain: an alternate value of 427 days is possible. It is validated with a confidence of 0.998.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -44,5 +46,6 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
+	<magV>15.355</magV>
 	</star>
 </system>

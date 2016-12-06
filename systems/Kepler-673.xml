@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-673</name>
-	<rightascension>19 23 09</rightascension>
-	<declination>+50 03 15</declination>
+	<rightascension>19 23 08</rightascension>
+	<declination>+50 03 14.8284</declination>
 	<star>
 		<name>Kepler-673</name>
 		<temperature errorminus="71.7" errorplus="60.4">5355.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000930" errorplus="0.000000930">3.728731090</period>
 			<radius errorminus="0.043" errorplus="0.047">0.583</radius>
 		</planet>
+	<magV>15.523</magV>
 	</star>
-</system>
+<distance>978.0</distance>
+	</system>

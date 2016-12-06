@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-84</name>
 	<name>2MASS 08442570+0151361</name>
-	<rightascension>08 44 26</rightascension>
+	<rightascension>08 44 25</rightascension>
 	<declination>+01 51 36</declination>
 	<distance errorminus="20" errorplus="20">125</distance>
 	<star>
@@ -14,6 +14,8 @@
 		<spectraltype>K0</spectraltype>
 		<age>1</age>
 		<magV errorminus="0.10" errorplus="0.10">11.64</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.08" errorplus="0.08">10.83</magV>
 		<magB errorminus="0.08" errorplus="0.08">10.83</magB>
 		<magJ errorminus="0.03" errorplus="0.03">9.35</magJ>
 		<magH errorminus="0.02" errorplus="0.02">8.96</magH>
@@ -24,15 +26,25 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.037" errorplus="0.037">0.700</mass>
 			<radius errorminus="0.025" errorplus="0.025">0.975</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.022" errorplus="0.022">0.942</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.022" errorplus="0.022">0.942</radius>
 			<temperature errorminus="13" errorplus="13">832</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>797.0</temperature>
 			<period errorminus="0.0000070" errorplus="0.0000070">8.5234865</period>
 			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2456286.10583</transittime>
 			<semimajoraxis errorminus="0.0017" errorplus="0.0017">0.0775</semimajoraxis>
 			<eccentricity errorminus="0.011" errorplus="0.011">0.018</eccentricity>
 			<inclination errorminus="0.037" errorplus="0.037">88.275</inclination>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.05" errorminus="0.05">88.368</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.05" errorminus="0.05">88.368</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<description>WASP-84 b is a sub-Jupiter mass planet in an 8.5 day orbit. Of the transiting planets discovered from the ground, WASP-84 b has the third longest period.</description>
-			<lastupdate>14/09/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

@@ -14,11 +14,23 @@
 			<name>HD 49674 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.115</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>0.1</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.011" errorplus="0.011">0.105</mass>
 			<period>4.9437</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>4.94739</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.00098" errorminus="0.00098">4.94737</period>
 			<semimajoraxis>0.058</semimajoraxis>
 			<eccentricity>0.23</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.0495" errorminus="0.0691">0.0495</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.095" errorminus="0.095">0.087</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>969.8</temperature>
 		</planet>

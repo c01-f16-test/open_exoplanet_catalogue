@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1407</name>
 	<rightascension>18 55 46</rightascension>
-	<declination>+41 28 18</declination>
+	<declination>+41 28 17.76</declination>
 	<star>
 		<name>Kepler-1407</name>
 		<temperature errorminus="154.7" errorplus="158.7">6010.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000545300" errorplus="0.000545300">20.071150400</period>
 			<radius errorminus="0.029" errorplus="0.047">0.201</radius>
 		</planet>
+	<magV>14.935</magV>
 	</star>
-</system>
+<distance>1275.0</distance>
+	</system>

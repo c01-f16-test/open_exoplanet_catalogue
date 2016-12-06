@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1103</name>
-	<rightascension>19 09 32</rightascension>
-	<declination>+49 27 09</declination>
+	<rightascension>19 09 31</rightascension>
+	<declination>+49 27 08.6256</declination>
 	<star>
 		<name>Kepler-1103</name>
 		<temperature errorminus="106.6" errorplus="106.1">6092.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000095430" errorplus="0.000095430">19.791919780</period>
 			<radius errorminus="0.024" errorplus="0.054">0.203</radius>
 		</planet>
+	<magV>14.09</magV>
 	</star>
-</system>
+<distance>921.0</distance>
+	</system>

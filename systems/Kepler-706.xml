@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-706</name>
 	<rightascension>19 27 02</rightascension>
-	<declination>+41 56 39</declination>
+	<declination>+41 56 38.6772</declination>
 	<star>
 		<name>Kepler-706</name>
 		<temperature errorminus="107.7" errorplus="78.2">5394.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006960" errorplus="0.000006960">41.408313470</period>
 			<radius errorminus="0.079" errorplus="0.106">1.175</radius>
 		</planet>
+	<magV>15.196</magV>
 	</star>
-</system>
+<distance>810.0</distance>
+	</system>

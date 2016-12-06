@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-899</name>
-	<rightascension>19 49 56</rightascension>
-	<declination>+40 40 51</declination>
+	<rightascension>19 49 55</rightascension>
+	<declination>+40 40 50.808</declination>
 	<star>
 		<name>Kepler-899</name>
 		<temperature errorminus="192.1" errorplus="270.6">5595.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000080750" errorplus="0.000080750">19.178912930</period>
 			<radius errorminus="0.023" errorplus="0.041">0.239</radius>
 		</planet>
+	<magV>15.401</magV>
 	</star>
-</system>
+<distance>1038.0</distance>
+	</system>

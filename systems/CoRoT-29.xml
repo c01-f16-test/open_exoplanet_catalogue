@@ -6,6 +6,8 @@
 	<star>
 		<magB errorminus="0.105" errorplus="0.105">16.705</magB>
 		<magV errorminus="0.069" errorplus="0.069">15.560</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.35</magV>
 		<magJ errorminus="0.021" errorplus="0.021">13.565</magJ>
 		<magH errorminus="0.021" errorplus="0.021">13.120</magH>
 		<magK errorminus="0.031" errorplus="0.031">13.048</magK>
@@ -17,6 +19,8 @@
 		<age errorminus="3.5" errorplus="3.5">4.5</age>
 		<metallicity errorminus="0.10" errorplus="0.10">0.20</metallicity>
 		<spectraltype>K0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>KOV</spectraltype>
 		<planet>
 			<name>CoRoT-29 b</name>
 			<name>2MASS J18353650+0628467 b</name>
@@ -30,8 +34,10 @@
 			<inclination errorminus="2.7" errorplus="2.7">87.3</inclination>
 			<description>CoRoT-29 b is a Jupiter-sized planet orbiting an oblate star. The transit dircovered is significantly asymmetric, a signature that the host star could have a non-spherical shape. It was discovered by the European space mission CoRoT.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/04/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

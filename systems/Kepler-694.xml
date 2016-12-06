@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-694</name>
-	<rightascension>19 24 36</rightascension>
-	<declination>+40 25 14</declination>
+	<rightascension>19 24 35</rightascension>
+	<declination>+40 25 13.8648</declination>
 	<star>
 		<name>Kepler-694</name>
 		<temperature errorminus="116.7" errorplus="110.5">5700.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000008100" errorplus="0.000008100">6.365841610</period>
 			<radius errorminus="0.020" errorplus="0.046">0.250</radius>
 		</planet>
+	<magV>15.09</magV>
 	</star>
-</system>
+<distance>1023.0</distance>
+	</system>

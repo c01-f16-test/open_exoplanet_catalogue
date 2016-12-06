@@ -14,6 +14,8 @@
 		<magK errorminus="0.016" errorplus="0.016">12.293</magK>
 		<spectraltype>F</spectraltype>
 		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.03" errorminus="0.03">-0.055</metallicity>
 		<planet>
 			<name>Kepler-8 b</name>
 			<name>2MASS J18450914+4227038 b</name>
@@ -28,10 +30,14 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.33" errorplus="0.33">84.07</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0003" unit="BJD">2454954.1190</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0004" errorplus="0.0004">2454954.1182</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1519.5</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1638.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>Kepler-8</name>

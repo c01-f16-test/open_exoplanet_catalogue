@@ -3,9 +3,11 @@
 	<rightascension>19 14 45</rightascension>
 	<declination>+41 09 04</declination>
 	<distance>246.65</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>312.43</distance>
 	<star>
 		<magB errorminus="0.07" errorplus="0.07">11.62</magB>
-		<magV errorminus="0.06" errorplus="0.06">10.92</magV>
+		<magV errorminus="0.06" errorplus="0.06">11.018</magV>
 		<magJ errorminus="0.018" errorplus="0.018">10.066</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.852</magH>
 		<magK errorminus="0.017" errorplus="0.017">9.806</magK>
@@ -17,7 +19,11 @@
 		<mass>1.25</mass>
 		<radius>1.41</radius>
 		<age>2.9</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="0.48" errorplus="0.59">3.89</age>
 		<spectraltype>F</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>B</spectraltype>
 		<planet>
 			<name>Kepler-65 b</name>
 			<name>KOI-85.02</name>
@@ -32,7 +38,7 @@
 			<semimajoraxis>0.035</semimajoraxis>
 			<inclination>81</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -50,7 +56,7 @@
 			<semimajoraxis>0.068</semimajoraxis>
 			<inclination>81</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -68,7 +74,7 @@
 			<semimajoraxis>0.084</semimajoraxis>
 			<inclination>81</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/02/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

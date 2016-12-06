@@ -16,6 +16,8 @@
 		<temperature errorminus="44" errorplus="44">5836</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.14</metallicity>
 		<spectraltype>G0 V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G0</spectraltype>
 		<age errorminus="2.0" errorplus="2.0">8.5</age>
 		<planet>
 			<name>HD 34445 b</name>
@@ -27,8 +29,10 @@
 			<periastron errorminus="19" errorplus="19">104</periastron>
 			<periastrontime errorminus="48" errorplus="48">2453781</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2004</discoveryyear>
 		</planet>
 	</star>
 </system>

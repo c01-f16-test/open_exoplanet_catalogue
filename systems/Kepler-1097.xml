@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1097</name>
-	<rightascension>18 46 23</rightascension>
+	<rightascension>18 46 22</rightascension>
 	<declination>+42 35 47</declination>
 	<star>
 		<name>Kepler-1097</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001894000" errorplus="0.001894000">187.747029000</period>
 			<radius errorminus="0.023" errorplus="0.023">0.291</radius>
 		</planet>
+	<magV>15.206</magV>
 	</star>
-</system>
+<distance>738.0</distance>
+	</system>

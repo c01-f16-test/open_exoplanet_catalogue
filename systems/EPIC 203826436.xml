@@ -7,9 +7,13 @@
 		<name>J16134824-2447132</name>
 		<magB errorminus="0.010" errorplus="0.010">13.463</magB>
 		<magV errorminus="0.030" errorplus="0.030">12.568</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>12.52</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.692</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.214</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.142</magK>
+		<!--Exoplanet.eu Catalogue-->
+		<magK>12.24</magK>
 		<temperature errorminus="60" errorplus="60">5413</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">-0.03</metallicity>
 		<mass errorminus="0.05" errorplus="0.05">0.90</mass>
@@ -25,7 +29,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -39,7 +43,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -53,7 +57,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>EPIC 203826436 is a multi-transiting system in the K2 mission campaign 2 field.</description>
-			<lastupdate>15/12/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 	</star>

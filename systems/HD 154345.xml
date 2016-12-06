@@ -1,7 +1,7 @@
 <system>
 	<name>HD 154345</name>
 	<rightascension>17 02 36</rightascension>
-	<declination>+47 04 55</declination>
+	<declination>+47 04 54.9998</declination>
 	<distance>18.06</distance>
 	<star>
 		<mass>0.88</mass>
@@ -18,12 +18,16 @@
 			<name>HD 154345 b</name>
 			<list>Confirmed planets</list>
 			<mass>1</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.58" errorplus="1.9">1.3</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.09" errorplus="0.09">0.947</mass>
 			<period>3538</period>
 			<semimajoraxis>4.3</semimajoraxis>
 			<eccentricity>0.26</eccentricity>
 			<inclination>50</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>106.4</temperature>
 		</planet>

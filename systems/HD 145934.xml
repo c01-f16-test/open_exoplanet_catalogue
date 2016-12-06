@@ -11,6 +11,10 @@
 		<mass errorminus="0.105" errorplus="0.105">1.748</mass>
 		<radius errorminus="0.44" errorplus="0.44">5.38</radius>
 		<magV>8.49</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>7.6</magV>
+		<!--NASA Catalogue-->
+		<magV>8.5</magV>
 		<magB>9.54</magB>
 		<magJ errorminus="0.023" errorplus="0.023">6.758</magJ>
 		<magH errorminus="0.017" errorplus="0.017">6.234</magH>
@@ -28,7 +32,7 @@
 			<description>This 2 Jupiter mass planet is in a 7.5 year orbit around a giant star.</description>
 			<discoverymethod>RV</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

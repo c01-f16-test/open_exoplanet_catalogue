@@ -15,6 +15,10 @@
 		<name>CD-51 1620</name>
 		<name>2MASS J05471708-5103594</name>
 		<mass errorminus="0.05" errorplus="0.05">1.60</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">1.73</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.18" errorminus="0.17">1.76</mass>
 		<magV>3.86</magV>
 		<magR>3.74</magR>
 		<magI>3.58</magI>
@@ -23,6 +27,8 @@
 		<magH errorminus="0.20" errorplus="0.20">3.54</magH>
 		<magK errorminus="0.22" errorplus="0.22">3.53</magK>
 		<age errorminus="0.003" errorplus="0.003">0.023</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="0.004" errorplus="0.004">0.04</age>
 		<spectraltype>A6V</spectraltype>
 		<planet>
 			<name>beta Pic b</name>
@@ -42,7 +48,7 @@
 			<periastrontime errorminus="1000" errorplus="1400">2454737</periastrontime>
 			<discoverymethod>imaging</discoverymethod>
 			<description>Beta Pictoris is an A type star, 63 lightyears away from our own Solar System. The star is host to a debris disk and a planet. Using high spectroscopic observations, astronomers were able to measure the length of a day on bet Pic b: 8.1 hours. The planet or material in orbit around it may have been responsible for a transit-like event observed in November 1981.</description>
-			<lastupdate>15/08/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<image>beta Pic</image>
 			<imagedescription>This image shows the planet Beta Pictoris b. It has been optained with NACO on VLT. The star has been masked out to enable the viewer to see clearly the planet. Credit: ESO.</imagedescription>

@@ -12,10 +12,18 @@
 		<magH errorminus="0.033" errorplus="0.033">12.403</magH>
 		<magK errorminus="0.024" errorplus="0.024">12.288</magK>
 		<mass errorminus="0.053" errorplus="0.049">0.0572</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">0.572</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">0.57</mass>
 		<radius errorminus="0.054" errorplus="0.038">0.550</radius>
 		<temperature errorminus="177" errorplus="177">4340</temperature>
 		<metallicity errorminus="0.18" errorplus="0.18">-0.57</metallicity>
 		<age errorminus="0.4" errorplus="0.5">1.9</age>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.5</magV>
+		<!--NASA Catalogue-->
+		<magV>15.142</magV>
 		<planet>
 			<name>Kepler-441 b</name>
 			<name>KOI-4622.01</name>
@@ -27,11 +35,15 @@
 			<transittime errorminus="0.0065" errorplus="0.0040" unit="BJD">2455667.7764</transittime>
 			<semimajoraxis errorminus="0.13" errorplus="0.32">0.64</semimajoraxis>
 			<inclination errorminus="0.07" errorplus="0.03">89.97</inclination>
-			<eccentricity lowerlimit="0.10" />
+			<eccentricity lowerlimit="0.10"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.1" errorminus="0.11">0.1</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.11" errorminus="0.1">0.1</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

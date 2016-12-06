@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-579</name>
 	<rightascension>19 40 00</rightascension>
-	<declination>+39 57 11</declination>
+	<declination>+39 57 10.5228</declination>
 	<star>
 		<name>Kepler-579</name>
 		<temperature errorminus="185.6" errorplus="135.4">5636.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000019200" errorplus="0.000019200">9.668577230</period>
 			<radius errorminus="0.016" errorplus="0.031">0.178</radius>
 		</planet>
+	<magV>14.272</magV>
 	</star>
-</system>
+<distance>663.0</distance>
+	</system>

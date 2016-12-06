@@ -12,6 +12,8 @@
 		<name>2MASS J08422511+0434411</name>
 		<mass errorminus="0.042" errorplus="0.042">1.238</mass>
 		<radius errorminus="0.044" errorplus="0.044">1.345</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.19" errorplus="0.19">1.64</radius>
 		<magV errorminus="0.01" errorplus="0.01">7.61</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.194</magB>
 		<magR>7.2</magR>
@@ -21,6 +23,8 @@
 		<magK>6.21</magK>
 		<metallicity errorminus="0.030" errorplus="0.030">0.131</metallicity>
 		<spectraltype>G0</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G1V</spectraltype>
 		<temperature errorminus="44" errorplus="44">6068</temperature>
 		<planet>
 			<name>HD 74156 b</name>
@@ -33,7 +37,7 @@
 			<periastron errorminus="0.92" errorplus="0.92">175.35</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 74156 b is a giant planet in a highly eccentric orbit. It is the inner member of a hierarchical system of two planets.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 		<planet>
@@ -47,7 +51,7 @@
 			<periastron errorminus="1.6" errorplus="1.6">268.9</periastron>
 			<discoverymethod>RV</discoverymethod>
 			<description>HD 74156 c is a long-period giant planet in an eccentric orbit. It is the outer member of a hierarchical system of two planets.</description>
-			<lastupdate>15/08/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 		</planet>
 	</star>

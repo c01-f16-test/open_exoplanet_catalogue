@@ -3,6 +3,8 @@
 	<rightascension>19 25 00</rightascension>
 	<declination>+49 13 54</declination>
 	<distance>436.937</distance>
+	<!--NASA Catalogue-->
+	<distance>470.0</distance>
 	<star>
 		<name>Kepler-36</name>
 		<name>KIC 11401755</name>
@@ -14,7 +16,15 @@
 		<magH errorminus="0.029" errorplus="0.029">10.850</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
 		<mass>1.071</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.035" errorminus="0.035">1.113</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.04" errorminus="0.04">1.07</mass>
 		<radius>1.619</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.019" errorplus="0.019">1.66</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.02" errorplus="0.02">1.63</radius>
 		<planet>
 			<name>Kepler-36 b</name>
 			<name>KOI-277.02</name>
@@ -23,13 +33,29 @@
 			<name>2MASS 19250004+4913545 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.01346359</mass>
-			<radius>0.13778</radius>
-			<period>13.83988</period>
-			<semimajoraxis>0.1151</semimajoraxis>
-			<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<mass errorminus="0.000943900827486" errorplus="0.000943900827486">0.0140326589686</mass>
+		<!--NASA Catalogue-->
+		<mass errorminus="0.001" errorplus="0.001">0.014</mass>
+		<radius>0.13778</radius>
+			<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.00267642550883" errorplus="0.00267642550883">0.132036991769</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.003" errorplus="0.003">0.133</radius>
+		<period>13.83988</period>
+			<!--Exoplanet.eu Catalogue-->
+		<period>13.83989</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.00082" errorminus="0.0006">13.83989</period>
+		<semimajoraxis>0.1151</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+		<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
+		<!--NASA Catalogue-->
+		<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.1153</semimajoraxis>
+		<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>Kepler36</image>
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
@@ -37,7 +63,9 @@
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
 			<temperature>978.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.69" errorminus="0.71">90.01</inclination>
+	<eccentricity>0.039</eccentricity>
+	</planet>
 		<planet>
 			<name>Kepler-36 c</name>
 			<name>KOI-277.01</name>
@@ -46,13 +74,21 @@
 			<name>2MASS 19250004+4913545 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.02541726</mass>
-			<radius>0.33526835</radius>
-			<period>16.23855</period>
+			<!--Exoplanet.eu Catalogue-->
+		<mass errorminus="0.001457" errorplus="0.0018872">0.0254149</mass>
+		<!--NASA Catalogue-->
+		<mass errorminus="0.001" errorplus="0.002">0.025</mass>
+		<radius>0.33526835</radius>
+			<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.0048" errorplus="0.0048">0.3282</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.005" errorplus="0.005">0.328</radius>
+		<period>16.23855</period>
 			<semimajoraxis>0.1283</semimajoraxis>
 			<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<image>Kepler36</image>
 			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
@@ -60,6 +96,8 @@
 	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
 			<temperature>927.8</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.54" errorminus="0.53">89.98</inclination>
+	<eccentricity>0.033</eccentricity>
+	</planet>
 	</star>
 </system>

@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-777</name>
-	<rightascension>18 50 54</rightascension>
+	<rightascension>18 50 53</rightascension>
 	<declination>+44 20 47</declination>
 	<star>
 		<name>Kepler-777</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000020190" errorplus="0.000020190">5.728125990</period>
 			<radius errorminus="0.007" errorplus="0.007">0.131</radius>
 		</planet>
+	<magV>15.95</magV>
 	</star>
-</system>
+<distance>383.0</distance>
+	</system>

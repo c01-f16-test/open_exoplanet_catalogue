@@ -1,6 +1,6 @@
 <system>
 	<name>HD 154672</name>
-	<rightascension>17 10 05</rightascension>
+	<rightascension>17 10 04</rightascension>
 	<declination>-56 26 57</declination>
 	<distance>65.8</distance>
 	<star>
@@ -21,7 +21,7 @@
 			<semimajoraxis>0.6</semimajoraxis>
 			<eccentricity>0.61</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/05/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>357.1</temperature>
 		</planet>

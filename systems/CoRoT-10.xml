@@ -7,6 +7,10 @@
 		<mass>0.89</mass>
 		<radius>0.79</radius>
 		<magV>15.216</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.22</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.05" errorplus="0.05">15.22</magV>
 		<magB>16.676</magB>
 		<magR>15.48</magR>
 		<magI errorminus="0.03" errorplus="0.03">13.64</magI>
@@ -29,7 +33,7 @@
 			<inclination>88.55</inclination>
 			<transittime errorminus="0.0012" errorplus="0.0012" unit="BJD">2454273.3443</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>600.8</temperature>
 			<istransiting>1</istransiting>

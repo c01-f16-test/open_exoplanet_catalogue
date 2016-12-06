@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-699</name>
 	<rightascension>19 47 33</rightascension>
-	<declination>+41 23 46</declination>
+	<declination>+41 23 45.9276</declination>
 	<star>
 		<name>Kepler-699</name>
 		<temperature errorminus="71.2" errorplus="112.8">5330.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000005290" errorplus="0.000005290">27.807562930</period>
 			<radius errorminus="0.108" errorplus="0.124">1.259</radius>
 		</planet>
+	<magV>15.482</magV>
 	</star>
-</system>
+<distance>888.0</distance>
+	</system>

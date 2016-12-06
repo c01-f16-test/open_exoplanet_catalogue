@@ -6,7 +6,7 @@
 	<star>
 		<mass>0.857</mass>
 		<radius>0.837</radius>
-		<magV errorminus="0.03" errorplus="0.03">10.38</magV>
+		<magV errorminus="0.03" errorplus="0.03">10.54</magV>
 		<magB errorminus="0.06" errorplus="0.06">11.33</magB>
 		<magR errorminus="0.03" errorplus="0.03">10.24</magR>
 		<magJ errorminus="0.022" errorplus="0.022">9.017</magJ>
@@ -25,10 +25,12 @@
 			<eccentricity>0.346</eccentricity>
 			<inclination>89.2</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>707.1</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime>2454804.246</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -42,7 +44,7 @@
 			<eccentricity>0.1</eccentricity>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2454801.16943</transittime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>127.5</temperature>
 			<istransiting>1</istransiting>

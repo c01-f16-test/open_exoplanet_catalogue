@@ -15,6 +15,8 @@
 		<temperature errorminus="200" errorplus="200">5100</temperature>
 		<radius errorminus=".214" errorplus="0.214">0.768</radius>
 		<mass errorminus="0.0430" errorplus="0.0430">0.7730</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.047" errorminus="0.089">0.884</mass>
 		<planet>
 			<name>Kepler-247 c</name>
 			<name>KOI-884 c</name>
@@ -27,10 +29,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.084</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-247 d</name>
 			<name>KOI-884 d</name>
@@ -43,10 +46,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.14</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-247 b</name>
 			<name>KOI-884 b</name>
@@ -59,9 +63,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-247 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-247 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.042</semimajoraxis>
+	</planet>
+	<magV>15.067</magV>
 	</star>
 </system>

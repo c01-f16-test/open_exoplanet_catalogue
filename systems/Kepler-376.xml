@@ -14,7 +14,7 @@
 		<name>KIC 3342794</name>
 		<temperature errorminus="100" errorplus="100">5900</temperature>
 		<radius errorminus=".234" errorplus="0.234">1.175</radius>
-		<mass errorminus="0.0650" errorplus="0.0650">1.1400</mass>
+		<mass errorminus="0.0650" errorplus="0.0650">1.05</mass>
 		<planet>
 			<name>Kepler-376 c</name>
 			<name>KOI-2278 c</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-376 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-376 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.115</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-376 b</name>
 			<name>KOI-2278 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-376 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-376 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.057</semimajoraxis>
+	</planet>
+	<magV>13.776</magV>
 	</star>
 </system>

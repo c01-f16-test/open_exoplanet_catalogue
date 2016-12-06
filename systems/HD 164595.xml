@@ -5,7 +5,7 @@
 	<distance errorminus="0.4" errorplus="0.4">28.93</distance>
 	<star>
 		<mass errorminus="0.03" errorplus="0.03">0.99</mass>
-		<magV>7.08</magV>
+		<magV>7.1</magV>
 		<magB>7.72</magB>
 		<magR>6.7</magR>
 		<magI>6.4</magI>
@@ -36,7 +36,7 @@
 			<eccentricity errorminus="0.066" errorplus="0.12">0.088</eccentricity>
 			<description>As part of a dedicated radial velocity survey devoted to search for low-mass planets around a sample of 190 bright solar-type stars in the northern hemisphere, the SOPHIE search for northern extrasolar planets reports the detection of this warm Neptune.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/06/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

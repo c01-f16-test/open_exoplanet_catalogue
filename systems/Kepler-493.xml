@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-493</name>
-	<rightascension>19 41 14</rightascension>
-	<declination>+38 52 54</declination>
+	<rightascension>19 41 13</rightascension>
+	<declination>+38 52 53.9004</declination>
 	<star>
 		<name>Kepler-493</name>
 		<temperature errorminus="229.8" errorplus="210.2">6457.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000990" errorplus="0.000000990">3.003876580</period>
 			<radius errorminus="0.227" errorplus="0.446">1.350</radius>
 		</planet>
+	<magV>14.996</magV>
 	</star>
-</system>
+<distance>1942.0</distance>
+	</system>

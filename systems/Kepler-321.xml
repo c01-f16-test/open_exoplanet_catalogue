@@ -3,7 +3,7 @@
 	<name>KOI-1809</name>
 	<name>KIC 8240797</name>
 	<rightascension>19 37 48</rightascension>
-	<declination>+44 08 45</declination>
+	<declination>+44 08 44.7216</declination>
 	<distance>461.82</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">11.621</magJ>
@@ -14,7 +14,7 @@
 		<name>KIC 8240797</name>
 		<temperature errorminus="100" errorplus="100">5740</temperature>
 		<radius errorminus=".230" errorplus="0.230">1.194</radius>
-		<mass>0.8980</mass>
+		<mass>1.01</mass>
 		<planet>
 			<name>Kepler-321 c</name>
 			<name>KOI-1809 c</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-321 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-321 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.11</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-321 b</name>
 			<name>KOI-1809 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-321 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-321 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.057</semimajoraxis>
+	</planet>
+	<magV>12.706</magV>
 	</star>
 </system>

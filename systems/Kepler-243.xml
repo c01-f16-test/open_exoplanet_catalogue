@@ -14,7 +14,7 @@
 		<name>KIC 6587280</name>
 		<temperature errorminus="200" errorplus="200">5228</temperature>
 		<radius errorminus=".398" errorplus="0.398">0.842</radius>
-		<mass errorminus="0.0700" errorplus="0.0700">0.7890</mass>
+		<mass errorminus="0.0700" errorplus="0.0700">0.89</mass>
 		<planet>
 			<name>Kepler-243 b</name>
 			<name>KOI-857 b</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-243 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-243 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.062</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-243 c</name>
 			<name>KOI-857 c</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-243 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-243 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.142</semimajoraxis>
+	</planet>
+	<magV>15.086</magV>
 	</star>
 </system>

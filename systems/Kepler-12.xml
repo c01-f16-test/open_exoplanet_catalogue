@@ -30,9 +30,11 @@
 			<inclination>88.76</inclination>
 			<transittime errorminus="0.00002" errorplus="0.00002" unit="HJD">2455004.00835</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1354.2</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1477.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>Kepler-12</name>

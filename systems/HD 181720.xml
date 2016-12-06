@@ -1,6 +1,6 @@
 <system>
 	<name>HD 181720</name>
-	<rightascension>19 22 53</rightascension>
+	<rightascension>19 22 52</rightascension>
 	<declination>-32 55 09</declination>
 	<distance>56</distance>
 	<star>
@@ -20,12 +20,15 @@
 			<semimajoraxis>1.78</semimajoraxis>
 			<eccentricity>0.26</eccentricity>
 			<inclination>1</inclination>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="1.65" errorminus="1.65">1.75</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>225.0</temperature>
 		</planet>
 		<name>HD 181720</name>
 		<temperature>5781.0</temperature>
+	<radius>1.39</radius>
 	</star>
 </system>

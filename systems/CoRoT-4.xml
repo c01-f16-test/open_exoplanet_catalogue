@@ -1,6 +1,6 @@
 <system>
 	<name>CoRoT-4</name>
-	<rightascension>06 48 47</rightascension>
+	<rightascension>06 48 46</rightascension>
 	<declination>-00 40 22</declination>
 	<star>
 		<mass>1.1</mass>
@@ -26,7 +26,7 @@
 			<inclination>90</inclination>
 			<transittime errorminus="0.00089" errorplus="0.00089" unit="BJD">2454141.36494</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>08/11/27</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>975.6</temperature>
 			<istransiting>1</istransiting>

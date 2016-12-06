@@ -22,13 +22,21 @@
 			<name>KIC 5436502 e</name>
 			<name>KIC 5436502.01</name>
 			<radius errorminus="0.04830" errorplus="0.13943">0.75274</radius>
-			<period errorminus=".000033" errorplus="0.000033">23.653647</period>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.724" errorplus="0.501">0.501</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.041" errorplus="0.211">0.5</radius>
+			<period errorminus=".000033" errorplus="0.000033">23.654</period>
 			<transittime errorminus="0.0007300" errorplus="0.0007300">2455004.3761100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-238 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="3.54" errorplus="0.048">0.626</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.217" errorplus="0.226">0.534</mass>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -43,10 +51,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-238 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.115</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-238 c</name>
 			<name>KOI-834 c</name>
@@ -59,10 +68,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-238 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.069</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-238 b</name>
 			<name>KOI-834 b</name>
@@ -75,10 +85,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-238 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.034</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-238 f</name>
 			<name>KOI-834 f</name>
@@ -86,14 +97,25 @@
 			<name>KIC 5436502 f</name>
 			<name>KIC 5436502.05</name>
 			<radius errorminus="0.04739" errorplus="0.04739">0.25152</radius>
-			<period errorminus=".001105" errorplus="0.001105">50.444110</period>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.258" errorplus="0.179">0.179</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.015" errorplus="0.076">0.178</radius>
+			<period errorminus=".001105" errorplus="0.001105">50.447</period>
 			<transittime errorminus="0.0131800" errorplus="0.0131800">2455011.5269900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-238 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-238 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.294" errorplus="0.0047">0.056</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.008" errorplus="0.009">0.042</mass>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>15.084</magV>
 	</star>
 </system>

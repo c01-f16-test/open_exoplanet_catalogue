@@ -2,6 +2,10 @@
 	<name>HD 89307</name>
 	<rightascension>10 18 21</rightascension>
 	<declination>+12 37 15</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>+12 37 14.9999</declination>
+	<!--NASA Catalogue-->
+	<declination>+12 37 16.0</declination>
 	<distance>30.9</distance>
 	<star>
 		<mass>1.028</mass>
@@ -23,7 +27,7 @@
 			<semimajoraxis>3.34</semimajoraxis>
 			<eccentricity>0.25</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>146.5</temperature>
 		</planet>

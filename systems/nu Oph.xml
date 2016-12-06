@@ -3,6 +3,10 @@
 	<rightascension>17 59 01.59191</rightascension>
 	<declination>-09 46 25.0798</declination>
 	<distance errorminus="0.56" errorplus="0.56">46.21</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>46.8</distance>
+	<!--NASA Catalogue-->
+	<distance>46.84</distance>
 	<star>
 		<name>nu Oph</name>
 		<name>nu. Oph</name>
@@ -41,7 +45,7 @@
 			<periastrontime errorminus="6.6" errorplus="6.6">2452034.2</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 		</planet>
 		<planet>
@@ -55,7 +59,7 @@
 			<periastrontime errorminus="38" errorplus="38">2453038</periastrontime>
 			<description>The Nu Ophiuchi system contains a pair of massive planets or brown dwarfs close to a 6:1 resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

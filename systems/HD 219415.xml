@@ -11,7 +11,7 @@
 		<name>GSC 04006-00629</name>
 		<mass errorminus="0.1" errorplus="0.1">1.0</mass>
 		<radius errorminus="0.4" errorplus="0.4">2.9</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.91</magV>
+		<magV errorminus="0.01" errorplus="0.01">8.94</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.90</magB>
 		<magJ errorminus="0.018" errorplus="0.018">7.023</magJ>
 		<magH errorminus="0.029" errorplus="0.029">6.532</magH>
@@ -19,6 +19,8 @@
 		<temperature errorminus="20" errorplus="20">4820</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.04</metallicity>
 		<spectraltype>K0 III</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K0III</spectraltype>
 		<planet>
 			<name>HD 219415 b</name>
 			<name>GSC 4006-62 b</name>
@@ -34,8 +36,9 @@
 			<periastrontime errorminus="57.7" errorplus="57.7">2453461.4</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The planet is in a nearly 6 year orbit.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>
-</system>
+<distance>169.78</distance>
+	</system>

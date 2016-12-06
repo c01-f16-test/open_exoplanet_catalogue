@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1436</name>
-	<rightascension>19 50 51</rightascension>
-	<declination>+46 46 05</declination>
+	<rightascension>19 50 50</rightascension>
+	<declination>+46 46 04.8756</declination>
 	<star>
 		<name>Kepler-1436</name>
 		<temperature errorminus="172.5" errorplus="141.9">5972.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000163800" errorplus="0.000163800">9.705716000</period>
 			<radius errorminus="0.016" errorplus="0.031">0.117</radius>
 		</planet>
+	<magV>14.93</magV>
 	</star>
-</system>
+<distance>1142.0</distance>
+	</system>

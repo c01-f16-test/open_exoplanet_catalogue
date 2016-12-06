@@ -2,7 +2,7 @@
 	<name>Kepler-22</name>
 	<rightascension>19 16 52</rightascension>
 	<declination>+47 53 04</declination>
-	<distance>180</distance>
+	<distance>190.0</distance>
 	<star>
 		<magB>11.5</magB>
 		<magR errorminus="0.06" errorplus="0.06">11.70</magR>
@@ -25,12 +25,20 @@
 			<name>KIC 10593626 b</name>
 			<list>Confirmed planets</list>
 			<radius>0.21689</radius>
-			<period>290</period>
+			<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.012" errorplus="0.012">0.21</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.012" errorplus="0.012">0.212</radius>
+		<period>290</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>289.8623</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.0016" errorminus="0.002">289.8623</period>
 			<semimajoraxis>0.849</semimajoraxis>
 			<transittime errorminus="0.0023" errorplus="0.0023" unit="BJD">2454966.6983</transittime>
 			<description>The planet Kepler-22b has been discovered with the Kepler spacecraft. It is orbiting the solar type Kepler target star KIC10593626. This puts it in the habitable zone with an equilibrium temperature of minus 11 degrees Celsius (plus 11 degrees Fahrenheit). If the planet has an atmosphere similar to that of Earth then the surface temperature is 22 degrees Celsius (71 degrees Fahrenheit). Kepler-22b is the smallest radius planet known to orbit in the habitable zone of any star other than the Sun.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/12/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<image>Kepler22b</image>
 			<imagedescription>This is an artist's conception illustrating the exoplanet Kepler-22b. The planet lies in the habitable zone of a Sun-like star KIC10593626. The habitable zone around a star is usually defined to be the zone in which liquid water, a requirement for life on Earth, could persist. 
@@ -39,8 +47,25 @@ Scientists do not yet know if the planet has a predominantly rocky, gaseous or l
 	
 Credit: NASA/Ames/JPL-Caltech</imagedescription>
 			<temperature>249.6</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.042" errorminus="0.042">89.764</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.025" errorminus="0.042">89.764</inclination>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="inf" errorplus="nan">0.11</mass>
+			<!--NASA Catalogue-->
+			<mass>0.113</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity/>
+	</planet>
 		<temperature>5510.0</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="44.0" errorminus="44.0">5518.0</temperature>
+		<!--NASA Catalogue-->
+		<!--Exoplanet.eu Catalogue-->
+		<magV>12.0</magV>
+		<!--NASA Catalogue-->
+		<magV>11.664</magV>
+		<temperature errorplus="44.0" errorminus="44.0">5518.0</temperature>
 	</star>
 </system>

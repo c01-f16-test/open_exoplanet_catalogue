@@ -12,6 +12,8 @@
 		<magH errorminus="0.029" errorplus="0.029">11.416</magH>
 		<magK errorminus="0.022" errorplus="0.022">11.248</magK>
 		<metallicity>-0.03</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.03" errorminus="0.03">0.04</metallicity>
 		<spectraltype>F6V</spectraltype>
 		<planet>
 			<name>CoRoT-11 b</name>
@@ -20,14 +22,22 @@
 			<name>CoRoTID 105833549 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.49</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.27" errorplus="0.27">2.33</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.34" errorplus="0.34">2.33</mass>
 			<radius>1.39</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.033" errorplus="0.033">1.43</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.03" errorplus="0.03">1.43</radius>
 			<period>2.994325</period>
 			<semimajoraxis>0.04351</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>81.41</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2454597.6797</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1593.4</temperature>
 			<istransiting>1</istransiting>

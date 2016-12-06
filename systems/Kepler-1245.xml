@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1245</name>
-	<rightascension>19 22 59</rightascension>
-	<declination>+43 15 39</declination>
+	<rightascension>19 22 58</rightascension>
+	<declination>+43 15 38.7972</declination>
 	<star>
 		<name>Kepler-1245</name>
 		<temperature errorminus="102.0" errorplus="77.5">5306.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000008400" errorplus="0.000008400">2.936584680</period>
 			<radius errorminus="0.007" errorplus="0.012">0.128</radius>
 		</planet>
+	<magV>15.404</magV>
 	</star>
-</system>
+<distance>861.0</distance>
+	</system>

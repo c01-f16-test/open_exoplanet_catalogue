@@ -1,6 +1,6 @@
 <system>
 	<name>HD 190647</name>
-	<rightascension>20 07 20</rightascension>
+	<rightascension>20 07 19</rightascension>
 	<declination>-35 32 19</declination>
 	<distance>54.2</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>2.07</semimajoraxis>
 			<eccentricity>0.18</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>209.5</temperature>
 		</planet>

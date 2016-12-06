@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1190</name>
 	<rightascension>18 59 59.9</rightascension>
-	<declination>+49 28 48</declination>
+	<declination>+49 28 47.9172</declination>
 	<star>
 		<name>Kepler-1190</name>
 		<temperature errorminus="39.6" errorplus="40.0">4730.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000052810" errorplus="0.000052810">10.458434410</period>
 			<radius errorminus="0.010" errorplus="0.004">0.119</radius>
 		</planet>
+	<magV>14.471</magV>
 	</star>
-</system>
+<distance>384.0</distance>
+	</system>

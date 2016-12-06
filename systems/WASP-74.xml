@@ -16,7 +16,7 @@
 		<metallicity errorminus="0.13" errorplus="0.13">0.39</metallicity>
 		<mass errorminus="0.12" errorplus="0.12">1.48</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.64</radius>
-		<magV>9.75</magV>
+		<magV>9.7</magV>
 		<magB>10.39</magB>
 		<magJ>8.55</magJ>
 		<magH>8.29</magH>
@@ -35,11 +35,11 @@
 			<period errorminus="0.000001" errorplus="0.000001">2.137750</period>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456506.8918</transittime>
 			<inclination errorminus="0.24" errorplus="0.24">79.81</inclination>
-			<eccentricity upperlimit="0.07" />
+			<eccentricity upperlimit="0.07"/>
 			<temperature errorminus="40" errorplus="40">1910</temperature>
 			<description>This planet has been announced in 2014 by the WASP team. The scientific paper describing the discovery was published on the arXiv in 2014. The planet was discovered via the transit method and confirmed using radial velocity measurements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/10/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

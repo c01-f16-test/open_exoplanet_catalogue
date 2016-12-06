@@ -5,7 +5,15 @@
 	<distance errorminus="60" errorplus="60">340</distance>
 	<star>
 		<mass>1.23</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.055" errorminus="0.055">1.386</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.06" errorminus="0.06">1.39</mass>
 		<radius>1.37</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.24" errorplus="0.24">1.98</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.24" errorplus="0.24">1.98</radius>
 		<temperature errorminus="100" errorplus="100">6250</temperature>
 		<magV>10.88</magV>
 		<magR>10.47</magR>
@@ -21,17 +29,37 @@
 			<name>1SWASPJ024409.60-301008.5 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.410</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.056" errorplus="0.059">1.461</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.056" errorplus="0.059">1.5461</mass>
 			<radius>1.01</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.2" errorplus="0.2">1.27</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.2" errorplus="0.2">1.27</radius>
 			<period>2.21672</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.2167421</period>
+			<!--NASA Catalogue-->
+			<period errorplus="8.1e-06" errorminus="8.1e-06">2.2167421</period>
 			<semimajoraxis>0.03655</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.03708</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.03708</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination>86.8</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="3.2" errorminus="2.6">81.6</inclination>
 			<transittime errorminus="0.0021" errorplus="0.0021" unit="HJD">2455583.6529</transittime>
 			<temperature errorminus="130" errorplus="120">2210</temperature>
 			<description>Despite its extreme irradiation, this planet has a size consistant with that of Jupiter. That makes it a possible outlier among the Hot Jupiters of similar masses, suggesting a significant enrichment in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/10/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>WASP-72</name>

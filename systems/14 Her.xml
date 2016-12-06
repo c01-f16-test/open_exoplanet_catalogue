@@ -1,6 +1,10 @@
 <system>
 	<name>14 Her</name>
 	<rightascension>16 10 23</rightascension>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>16 10 22</rightascension>
+	<!--NASA Catalogue-->
+	<rightascension>16 10 24.31</rightascension>
 	<declination>+43 49 18</declination>
 	<distance>18.1</distance>
 	<star>
@@ -14,6 +18,10 @@
 		<name>BD+44 2549</name>
 		<name>2MASS J16102432+4349037</name>
 		<mass>1.0</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass>0.9</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">0.9</mass>
 		<radius>0.708</radius>
 		<magV>6.67</magV>
 		<magB>7.57</magB>
@@ -31,14 +39,32 @@
 			<name>GJ 614 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.975</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.19" errorplus="0.19">4.64</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.19" errorplus="0.19">4.64</mass>
 			<period>1766</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>1773.4</period>
+			<!--NASA Catalogue-->
+			<period errorplus="2.5" errorminus="2.5">1773.4</period>
 			<semimajoraxis>2.864</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.77</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.77</semimajoraxis>
 			<eccentricity>0.359</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.005" errorminus="0.005">0.369</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.005" errorminus="0.005">0.369</eccentricity>
 			<periastron>22.230</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="0.9" errorminus="0.9">22.6</periastron>
 			<meananomaly>330.421</meananomaly>
 			<description>The star 14 Herculis is only 59 light years away in the constellation Hercules. However, because it is an orange dwarf star it can not be seen with the naked eye. There is only one confirmed planet in the system, but a dynamical analysis suggests that they might be two planets locked in a 4:1 mean motion resonance.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/21</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 		</planet>
 		<planet>

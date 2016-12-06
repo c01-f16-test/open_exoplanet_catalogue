@@ -1,7 +1,7 @@
 <system>
 	<name>HD 28254</name>
 	<rightascension>04 24 51</rightascension>
-	<declination>-50 37 20</declination>
+	<declination>-50 37 19.9999</declination>
 	<distance>56.2</distance>
 	<star>
 		<mass>1.06</mass>
@@ -22,7 +22,7 @@
 			<semimajoraxis>2.15</semimajoraxis>
 			<eccentricity>0.81</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>196.8</temperature>
 		</planet>

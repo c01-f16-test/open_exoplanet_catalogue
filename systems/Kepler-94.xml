@@ -2,7 +2,7 @@
 	<name>Kepler-94</name>
 	<name>KOI-104</name>
 	<name>KIC 10318874</name>
-	<rightascension>18 44 47</rightascension>
+	<rightascension>18 44 46</rightascension>
 	<declination>+47 29 49</declination>
 	<distance>223.0</distance>
 	<star>
@@ -28,7 +28,7 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -42,8 +42,9 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered during a radial velocity follow up of stars observed by Kepler which host planet candidates. Although other planets in this system are transiting, this one is not.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>RV</discoverymethod>
 		</planet>
+	<magV>12.895</magV>
 	</star>
 </system>

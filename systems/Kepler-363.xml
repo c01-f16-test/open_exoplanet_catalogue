@@ -14,7 +14,7 @@
 		<name>KIC 6021193</name>
 		<temperature errorminus="100" errorplus="100">5593</temperature>
 		<radius errorminus=".231" errorplus="0.231">1.485</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">1.0700</mass>
+		<mass errorminus="0.1300" errorplus="0.1300">1.23</mass>
 		<planet>
 			<name>Kepler-363 d</name>
 			<name>KOI-2148 d</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-363 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.107</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-363 c</name>
 			<name>KOI-2148 c</name>
@@ -43,10 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-363 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.079</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-363 b</name>
 			<name>KOI-2148 b</name>
@@ -59,9 +61,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-363 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-363 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.048</semimajoraxis>
+	</planet>
+	<magV>13.353</magV>
 	</star>
 </system>

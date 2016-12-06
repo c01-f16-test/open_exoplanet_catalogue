@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-17</name>
-	<rightascension>19 53 35</rightascension>
+	<rightascension>19 53 34</rightascension>
 	<declination>+47 48 54</declination>
 	<distance>800</distance>
 	<star>
@@ -30,9 +30,11 @@
 			<transittime errorminus="0.000026" errorplus="0.000023" unit="BJD">2455185.678035</transittime>
 			<description>Kepler-17b is a planet on a short orbit around a solar mass star. One year on this planet equals 1.5 days on Earth. Star spots on the host star constrain the eccentricity and obliquity of the planet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1622.7</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1655.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>Kepler-17</name>

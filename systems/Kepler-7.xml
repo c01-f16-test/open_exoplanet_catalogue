@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-7</name>
-	<rightascension>19 14 20</rightascension>
+	<rightascension>19 14 19</rightascension>
 	<declination>+41 05 23</declination>
 	<star>
 		<spectraltype>G0</spectraltype>
@@ -26,15 +26,24 @@
 			<eccentricity>0.1</eccentricity>
 			<inclination>85.18</inclination>
 			<transittime errorminus="0.00020" errorplus="0.00023" unit="BJD">2454967.27674</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0002" errorplus="0.0002">2454967.27599</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1486.8</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1586.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>Kepler-7</name>
 		<name>KOI-97</name>
 		<name>KIC 5780885</name>
 		<temperature errorminus="75" errorplus="75">6027</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="44.0" errorminus="44.0">5933.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="44.0" errorminus="44.0">5933.0</temperature>
+	<magV>12.885</magV>
 	</star>
 </system>

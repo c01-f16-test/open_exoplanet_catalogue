@@ -5,6 +5,8 @@
 	<rightascension>19 44 27</rightascension>
 	<declination>+39 58 43</declination>
 	<distance>418.17</distance>
+	<!--NASA Catalogue-->
+	<distance>357.0</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">12.954</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.354</magH>
@@ -13,7 +15,15 @@
 		<name>KOI-500</name>
 		<name>KIC 4852528</name>
 		<temperature errorminus="4" errorplus="74">4613</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature>4250.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="100.0" errorminus="100.0">4540.0</temperature>
 		<radius errorminus=".022" errorplus="0.022">0.637</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius>0.738</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.02" errorplus="0.02">0.68</radius>
 		<mass errorminus="0.0160" errorplus="0.0160">0.7220</mass>
 		<planet>
 			<name>Kepler-80 b</name>
@@ -23,14 +33,21 @@
 			<name>KIC 4852528.01</name>
 			<radius errorminus="0.02005" errorplus="0.02005">0.24241</radius>
 			<period errorminus=".000012" errorplus="0.000012">7.053458</period>
-			<transittime errorminus="0.0008600" errorplus="0.0008600">2455009.4764500</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>7.05</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.0002" errorminus="0.00022">7.05246</period>
+		<transittime errorminus="0.0008600" errorplus="0.0008600">2455009.4764500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<mass errorminus="0.0022" errorplus="0.0033">0.0218</mass>
+	<inclination errorplus="0.46" errorminus="0.62">89.34</inclination>
+	<semimajoraxis errorminus="0.0009" errorplus="0.0009">0.0648</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-80 c</name>
 			<name>KOI-500 c</name>
@@ -39,14 +56,22 @@
 			<name>KIC 4852528.02</name>
 			<radius errorminus="0.02643" errorplus="0.02643">0.25972</radius>
 			<period errorminus=".000018" errorplus="0.000018">9.521772</period>
-			<transittime errorminus="0.0009700" errorplus="0.0009700">2455010.4781200</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>9.52</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.00041" errorminus="0.00029">9.52355</period>
+		<transittime errorminus="0.0009700" errorplus="0.0009700">2455010.4781200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.00271" errorplus="0.00387">0.02121</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.47" errorminus="0.57">89.33</inclination>
+	<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0792</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-80 d</name>
 			<name>KOI-500 d</name>
@@ -54,15 +79,29 @@
 			<name>KIC 4852528 d</name>
 			<name>KIC 4852528.03</name>
 			<radius errorminus="0.01823" errorplus="0.01823">0.15857</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.125</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.006" errorplus="0.008">0.136</radius>
 			<period errorminus=".000010" errorplus="0.000010">3.072186</period>
-			<transittime errorminus="0.0016900" errorplus="0.0016900">2454967.0214900</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>3.07</period>
+		<!--NASA Catalogue-->
+		<period errorplus="6e-05" errorminus="4e-05">3.07222</period>
+		<transittime errorminus="0.0016900" errorplus="0.0016900">2454967.0214900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0016" errorplus="0.0022">0.0212</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.0016" errorplus="0.00217">0.02124</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="1.12" errorminus="1.51">88.35</inclination>
+	<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0372</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-80 e</name>
 			<name>KOI-500 e</name>
@@ -71,25 +110,43 @@
 			<name>KIC 4852528.04</name>
 			<radius errorminus="0.01914" errorplus="0.01914">0.14945</radius>
 			<period errorminus=".000015" errorplus="0.000015">4.645387</period>
-			<transittime errorminus="0.0016800" errorplus="0.0016800">2454967.5873600</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>4.64</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.0002" errorminus="0.00019">4.64489</period>
+		<transittime errorminus="0.0016800" errorplus="0.0016800">2454967.5873600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-80 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-80 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.003" errorplus="0.0025">0.013</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.00299" errorplus="0.00255">0.01299</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.84" errorminus="1.07">88.79</inclination>
+	<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0491</semimajoraxis>
+	</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.804</magV>
 		<planet>
 			<name>Kepler-80 f</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001580" errorplus="0.000001580">0.986787060</period>
 			<radius errorminus="0.003" errorplus="0.005">0.110</radius>
-		</planet>
+		<inclination errorplus="2.36" errorminus="2.59">86.5</inclination>
+	<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.0175</semimajoraxis>
+	</planet>
 	</star>
 </system>

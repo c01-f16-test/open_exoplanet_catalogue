@@ -31,8 +31,12 @@
 			<inclination errorminus="0.72" errorplus="0.72">87.79</inclination>
 			<description>HATS-10 is a transiting planet that was discovered by the HATSouth survey. The planet lies in the nominal coordinates of Field 7 of K2.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/02/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.5">0.5</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.501</eccentricity>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

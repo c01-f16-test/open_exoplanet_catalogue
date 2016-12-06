@@ -3,6 +3,8 @@
 	<rightascension>06 30 33</rightascension>
 	<declination>+29 40 20</declination>
 	<distance errorminus="30" errorplus="30">250</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>427.0</distance>
 	<binary>
 		<separation errorminus="0.019" errorplus="0.019" unit="arcsec">1.064</separation>
 		<separation errorminus="5" errorplus="5" unit="AU">266</separation>
@@ -19,6 +21,10 @@
 			<magH errorminus="0.022" errorplus="0.022">10.228</magH>
 			<magK errorminus="0.020" errorplus="0.020">10.188</magK>
 			<temperature errorminus="64" errorplus="64">6118</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature errorplus="150.0" errorminus="150.0">6300.0</temperature>
+			<!--NASA Catalogue-->
+			<temperature errorplus="130.0" errorminus="140.0">6360.0</temperature>
 			<metallicity>0.3</metallicity>
 			<spectraltype>G0</spectraltype>
 			<planet>
@@ -34,8 +40,10 @@
 				<inclination>86</inclination>
 				<spinorbitalignment errorminus="20" errorplus="15">59</spinorbitalignment>
 				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454508.98074</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.00028" errorplus="0.00028">2454508.97605</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/07/31</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
 				<discoveryyear>2008</discoveryyear>
 				<temperature>2319.7</temperature>

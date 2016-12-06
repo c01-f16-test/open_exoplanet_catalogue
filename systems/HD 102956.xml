@@ -1,7 +1,7 @@
 <system>
 	<name>HD 102956</name>
-	<rightascension>11 51 23</rightascension>
-	<declination>+57 38 27</declination>
+	<rightascension>11 51 22</rightascension>
+	<declination>+57 38 26.9999</declination>
 	<distance>126</distance>
 	<star>
 		<mass>1.68</mass>
@@ -22,7 +22,7 @@
 			<semimajoraxis>0.081</semimajoraxis>
 			<eccentricity>0.048</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/07/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1642.2</temperature>
 		</planet>

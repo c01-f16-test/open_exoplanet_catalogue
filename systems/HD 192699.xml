@@ -26,11 +26,15 @@
 			<mass errorminus="0.21" errorplus="0.15" type="msini">2.40</mass>
 			<period errorminus="1.63" errorplus="1.77">345.53</period>
 			<semimajoraxis errorminus="0.04" errorplus="0.03">1.32</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis>1.16</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.03" errorplus="0.02">1.15</semimajoraxis>
 			<eccentricity errorminus="0.060" errorplus="0.029">0.129</eccentricity>
 			<periastron errorminus="25.9" errorplus="23.3">41.3</periastron>
 			<periastrontime errorminus="22.1" errorplus="21.0">2454036.6</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

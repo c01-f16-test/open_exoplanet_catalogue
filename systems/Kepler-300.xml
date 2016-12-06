@@ -14,7 +14,7 @@
 		<name>KIC 11037335</name>
 		<temperature errorminus="200" errorplus="200">5986</temperature>
 		<radius errorminus=".410" errorplus="0.410">0.900</radius>
-		<mass errorminus="0.0840" errorplus="0.0840">1.0350</mass>
+		<mass errorminus="0.0840" errorplus="0.0840">0.94</mass>
 		<planet>
 			<name>Kepler-300 c</name>
 			<name>KOI-1435 c</name>
@@ -22,15 +22,20 @@
 			<name>KIC 11037335 c</name>
 			<name>KIC 11037335.01</name>
 			<radius errorminus="0.00365" errorplus="0.09478">0.20504</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.093" errorplus="0.093">0.201</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.093" errorplus="0.093">0.201</radius>
 			<period errorminus=".000245" errorplus="0.000245">40.714955</period>
 			<transittime errorminus="0.0034300" errorplus="0.0034300">2454979.5644300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-300 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-300 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.232</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-300 b</name>
 			<name>KOI-1435 b</name>
@@ -43,9 +48,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-300 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-300 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.094</semimajoraxis>
+	</planet>
+	<magV>14.201</magV>
 	</star>
 </system>

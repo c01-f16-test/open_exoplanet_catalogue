@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-989</name>
-	<rightascension>18 46 20</rightascension>
+	<rightascension>18 46 19</rightascension>
 	<declination>+47 14 01</declination>
 	<star>
 		<name>Kepler-989</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000009620" errorplus="0.000009620">7.964315350</period>
 			<radius errorminus="0.012" errorplus="0.012">0.197</radius>
 		</planet>
+	<magV>14.425</magV>
 	</star>
-</system>
+<distance>484.0</distance>
+	</system>

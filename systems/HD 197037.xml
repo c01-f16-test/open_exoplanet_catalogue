@@ -3,6 +3,10 @@
 	<rightascension>20 39 32.96014</rightascension>
 	<declination>+42 14 54.7845</declination>
 	<distance errorminus="0.4" errorplus="0.4">32.3</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>33.0</distance>
+	<!--NASA Catalogue-->
+	<distance>32.83</distance>
 	<binary>
 		<name>HD 197037</name>
 		<name>BD+41 3845</name>
@@ -40,7 +44,7 @@
 				<periastrontime errorminus="86" errorplus="86" unit="BJD">2451353.1</periastrontime>
 				<description>This planet was found by looking at 113 radial velocity data points which have been obtained over the last 10 years with a 2.7m telescope.</description>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>16/01/22</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2012</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

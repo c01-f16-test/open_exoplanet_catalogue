@@ -27,20 +27,28 @@
 			<transittime errorminus="0.0049" errorplus="0.0042" unit="BJD">2455477.6307</transittime>
 			<semimajoraxis errorminus="0.053" errorplus="0.134">0.339</semimajoraxis>
 			<inclination errorminus="0.18" errorplus="0.07">89.93</inclination>
-			<eccentricity lowerlimit="0.19" />
+			<eccentricity lowerlimit="0.19"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.11" errorminus="0.11">0.19</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.13" errorminus="0.11">0.19</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>16.3</magV>
+		<!--NASA Catalogue-->
+		<magV>15.856</magV>
 		<planet>
 			<name>Kepler-436 c</name>
 			<name>KOI-2529.01</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>

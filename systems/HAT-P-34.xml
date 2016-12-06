@@ -6,14 +6,26 @@
 	<star>
 		<spectraltype>F8</spectraltype>
 		<mass>1.392</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.01" errorminus="0.01">1.36</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05">1.39</mass>
 		<radius>1.535</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.11" errorplus="0.11">1.45</radius>
+		<!--NASA Catalogue-->
+		<radius errorplus="0.14">1.53</radius>
 		<magV errorminus="0.05" errorplus="0.05">10.40</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>10.16</magV>
 		<magB errorminus="0.05" errorplus="0.05">10.81</magB>
 		<magR errorminus="0.029" errorplus="0.029">10.181</magR>
 		<magJ errorminus="0.022" errorplus="0.022">9.460</magJ>
 		<magH errorminus="0.03" errorplus="0.03">9.32</magH>
 		<magK errorminus="0.023" errorplus="0.023">9.247</magK>
 		<metallicity>0.22</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.05" errorminus="0.05">0.08</metallicity>
 		<planet>
 			<name>HAT-P-34 b</name>
 			<name>2MASS 20124688+1806175</name>
@@ -21,12 +33,16 @@
 			<mass>3.328</mass>
 			<radius>1.197</radius>
 			<period>5.4527</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>5.452654</period>
+			<!--NASA Catalogue-->
+			<period errorplus="1.6e-05" errorminus="1.6e-05">5.452654</period>
 			<semimajoraxis>0.0677</semimajoraxis>
 			<eccentricity>0.441</eccentricity>
 			<inclination>87.1</inclination>
 			<description>HAT-P-34 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1335.3</temperature>
 			<transittime errorminus="0.00055" errorplus="0.00055" unit="BJD">2455431.59629</transittime>

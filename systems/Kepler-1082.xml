@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1082</name>
 	<rightascension>19 17 26</rightascension>
-	<declination>+50 35 55</declination>
+	<declination>+50 35 54.5424</declination>
 	<star>
 		<name>Kepler-1082</name>
 		<temperature errorminus="64.3" errorplus="80.7">5923.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004540" errorplus="0.000004540">1.543206600</period>
 			<radius errorminus="0.012" errorplus="0.016">0.100</radius>
 		</planet>
+	<magV>13.38</magV>
 	</star>
-</system>
+<distance>628.0</distance>
+	</system>

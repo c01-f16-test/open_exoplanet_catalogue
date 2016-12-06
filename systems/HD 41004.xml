@@ -1,14 +1,18 @@
 <system>
 	<name>HD 41004</name>
-	<rightascension>05 59 50</rightascension>
+	<rightascension>05 59 49</rightascension>
 	<declination>-48 14 23</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-48 14 21.9998</declination>
+	<!--NASA Catalogue-->
+	<declination>-48 14 22.9</declination>
 	<distance>43.03</distance>
 	<binary>
 		<semimajoraxis>21.51</semimajoraxis>
 		<star>
 			<name>HD 41004 A</name>
-			<mass>0.4</mass>
-			<magV>12.33</magV>
+			<mass>0.7</mass>
+			<magV>8.65</magV>
 			<magB>9.49</magB>
 			<magR>8.6</magR>
 			<magJ errorminus="0.026" errorplus="0.026">7.004</magJ>
@@ -16,15 +20,19 @@
 			<magK errorminus="0.04" errorplus="0.04">6.43</magK>
 			<metallicity>-0.09</metallicity>
 			<spectraltype>M2</spectraltype>
+			<!--Exoplanet.eu Catalogue-->
+			<spectraltype>K1 V</spectraltype>
 			<planet>
 				<name>HD 41004 A b</name>
 				<list>Confirmed planets</list>
 				<mass>2.54</mass>
 				<period>963</period>
 				<semimajoraxis>1.7</semimajoraxis>
+				<!--Exoplanet.eu Catalogue-->
+				<semimajoraxis>1.64</semimajoraxis>
 				<eccentricity>0.74</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/11/30</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
 				<list>Planets in binary systems, S-type</list>

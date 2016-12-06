@@ -18,16 +18,28 @@
 		<name>2MASS J15511394+3539264</name>
 		<mass lowerlimit="1.32" upperlimit="1.70">1.51</mass>
 		<radius lowerlimit="4.8" upperlimit="5.2">4.71</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.2" errorplus="0.2">5.0</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.04" errorplus="0.04">5.06</radius>
 		<magV>4.79</magV>
 		<magB errorminus="0.01" errorplus="0.01">5.81</magB>
 		<magR>4.2</magR>
 		<magI>3.7</magI>
 		<magJ errorminus="0.184" errorplus="0.184">3.035</magJ>
 		<magH errorminus="0.180" errorplus="0.180">2.575</magH>
+		<!--Exoplanet.eu Catalogue-->
+		<magH>2.04</magH>
 		<magK errorminus="0.242" errorplus="0.242">2.423</magK>
 		<metallicity errorminus="0.04" errorplus="0.04">0.10</metallicity>
 		<spectraltype>K0III-IV</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K1IVa</spectraltype>
 		<temperature errorminus="25" errorplus="25">4877</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="70.0" errorminus="70.0">4960.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="17.0" errorminus="17.0">4788.0</temperature>
 		<planet>
 			<name>kappa CrB b</name>
 			<name>kap CrB b</name>
@@ -41,9 +53,11 @@
 			<semimajoraxis>2.6</semimajoraxis>
 			<eccentricity errorminus="0.049" errorplus="0.049">0.073</eccentricity>
 			<periastron errorminus="51" errorplus="51">210</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="40.0" errorminus="40.0">34.0</periastron>
 			<periastrontime errorminus="180" errorplus="180">2451860</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 	</star>

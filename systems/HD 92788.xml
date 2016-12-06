@@ -17,12 +17,16 @@
 			<name>HD 92788 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.86</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="13.7" errorplus="inf">27.7</mass>
+			<!--NASA Catalogue-->
+			<mass>3.58</mass>
 			<period>325.81</period>
 			<semimajoraxis>0.97</semimajoraxis>
 			<eccentricity>0.334</eccentricity>
 			<inclination>8</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>245.9</temperature>
 		</planet>

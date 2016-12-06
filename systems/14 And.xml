@@ -3,6 +3,10 @@
 	<rightascension>23 31 17.41346</rightascension>
 	<declination>+39 14 10.3092</declination>
 	<distance errorminus="1.7" errorplus="1.7">79.2</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>76.4</distance>
+	<!--NASA Catalogue-->
+	<distance>76.39</distance>
 	<star>
 		<name>14 And</name>
 		<name>14 Andromedae</name>
@@ -37,7 +41,7 @@
 			<periastrontime errorminus="1.5" errorplus="1.5">2452861.4</periastrontime>
 			<description>14 Andromedae is an evolved star in the constellation of Andromeda. It was formerly an A-type dwarf.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

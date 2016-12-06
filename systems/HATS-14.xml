@@ -17,6 +17,8 @@
 		<magK errorminus="0.019" errorplus="0.019">12.037</magK>
 		<age errorminus="1.7" errorplus="1.7">4.9</age>
 		<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.06" errorminus="0.06">0.33</metallicity>
 		<planet>
 			<name>HATS-14 b</name>
 			<name>2MASS J20525171-2541144 b</name>
@@ -32,8 +34,12 @@
 			<spinorbitalignment errorminus="5" errorplus="4">76</spinorbitalignment>
 			<description>HATS-14 b is a hot-Jupiter transiting planet that was discovered by the HATSouth survey. Unlike many such planets orbiting relatively cool stars, it exhibits a substantial orbital obliquity.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/01</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.142">0.142</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.142</eccentricity>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

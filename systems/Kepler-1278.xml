@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1278</name>
-	<rightascension>18 51 50</rightascension>
+	<rightascension>18 51 49</rightascension>
 	<declination>+42 49 32</declination>
 	<star>
 		<name>Kepler-1278</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000016960" errorplus="0.000016960">3.239413440</period>
 			<radius errorminus="0.011" errorplus="0.028">0.090</radius>
 		</planet>
+	<magV>13.658</magV>
 	</star>
-</system>
+<distance>743.0</distance>
+	</system>

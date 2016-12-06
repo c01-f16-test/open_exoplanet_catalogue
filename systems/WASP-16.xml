@@ -1,6 +1,6 @@
 <system>
 	<name>WASP-16</name>
-	<rightascension>14 18 44</rightascension>
+	<rightascension>14 18 43</rightascension>
 	<declination>-20 16 32</declination>
 	<star>
 		<mass>1.022</mass>
@@ -26,8 +26,10 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.22</inclination>
 			<transittime errorminus="0.00023" errorplus="0.00035" unit="BJD">2454584.42952</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00023" errorplus="0.00023">2454584.42878</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1160.0</temperature>
 			<istransiting>1</istransiting>

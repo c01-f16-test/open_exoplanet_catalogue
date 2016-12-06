@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-845</name>
-	<rightascension>19 23 50</rightascension>
-	<declination>+49 12 14</declination>
+	<rightascension>19 23 49</rightascension>
+	<declination>+49 12 13.7232</declination>
 	<star>
 		<name>Kepler-845</name>
 		<temperature errorminus="57.5" errorplus="57.5">4913.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000000550" errorplus="0.000000550">0.927859820</period>
 			<radius errorminus="0.026" errorplus="0.008">0.182</radius>
 		</planet>
+	<magV>14.631</magV>
 	</star>
-</system>
+<distance>471.0</distance>
+	</system>

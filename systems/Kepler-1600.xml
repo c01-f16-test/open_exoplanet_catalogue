@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1600</name>
-	<rightascension>19 25 36</rightascension>
-	<declination>+38 47 16</declination>
+	<rightascension>19 25 35</rightascension>
+	<declination>+38 47 15.9072</declination>
 	<star>
 		<name>Kepler-1600</name>
 		<temperature errorminus="91.4" errorplus="66.7">5214.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.008591000" errorplus="0.008591000">386.370548000</period>
 			<radius errorminus="0.015" errorplus="0.025">0.279</radius>
 		</planet>
+	<magV>15.825</magV>
 	</star>
-</system>
+<distance>992.0</distance>
+	</system>

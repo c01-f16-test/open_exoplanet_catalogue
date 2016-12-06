@@ -18,6 +18,10 @@
 		<mass errorminus="0.25" errorplus="0.25">1.80</mass>
 		<radius errorminus="1.84" errorplus="1.84">24.08</radius>
 		<magV>5.024</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>5.02</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.009" errorplus="0.009">5.016</magV>
 		<magB>6.415</magB>
 		<magJ errorminus="0.230" errorplus="0.230">2.876</magJ>
 		<magH errorminus="0.194" errorplus="0.194">2.091</magH>
@@ -31,6 +35,10 @@
 			<name>HD 136726 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.245" errorplus="0.245" type="msini">11.20</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="2.47" errorplus="2.47">10.5</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="2.47" errorplus="2.47">10.5</mass>
 			<period errorminus="3.25" errorplus="3.25">516.22</period>
 			<semimajoraxis errorminus="0.07" errorplus="0.07">1.54</semimajoraxis>
 			<eccentricity errorminus="0.03" errorplus="0.03">0.08</eccentricity>
@@ -38,7 +46,7 @@
 			<periastrontime errorminus="2.06" errorplus="2.06">2452861.04</periastrontime>
 			<description>11 Ursae Minoris is a star located in the constellation Ursa Minor and also named Pherkard or Pherkad Minor.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

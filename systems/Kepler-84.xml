@@ -27,7 +27,9 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-84 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -39,11 +41,15 @@
 			<name>KIC 5301750.02</name>
 			<radius errorminus="0.05377" errorplus="0.05377">0.25152</radius>
 			<period errorminus=".000091" errorplus="0.000091">12.882779</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>12.882525</period>
+			<!--NASA Catalogue-->
+			<period>12.883</period>
 			<transittime errorminus="0.0047400" errorplus="0.0047400">2454968.1902400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-84 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -59,10 +65,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-84 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.181</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-84 d</name>
 			<name>KOI-1589 d</name>
@@ -75,10 +82,15 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-84 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.052</semimajoraxis>
+	</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.032</magV>
+		<!--NASA Catalogue-->
+		<magV>14.764</magV>
 		<planet>
 			<name>Kepler-84 f</name>
 			<name>KOI-1589 f</name>
@@ -91,9 +103,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-84 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-84 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.25</semimajoraxis>
+	</planet>
 	</star>
 </system>

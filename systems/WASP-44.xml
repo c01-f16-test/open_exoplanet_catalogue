@@ -3,8 +3,12 @@
 	<rightascension>00 15 37</rightascension>
 	<declination>-11 56 17</declination>
 	<star>
-		<mass>0.917</mass>
+		<mass errorplus="0.034" errorminus="0.034">0.951</mass>
 		<radius>0.865</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.07" errorplus="0.07">0.927</radius>
+		<!--NASA Catalogue-->
+		<radius errorplus="0.07">0.93</radius>
 		<magV>12.9</magV>
 		<magB>13.7</magB>
 		<magR errorminus="0.07" errorplus="0.07">13.17</magR>
@@ -15,21 +19,41 @@
 		<metallicity>0.06</metallicity>
 		<spectraltype>G8V</spectraltype>
 		<age>4.1</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="0.6" errorplus="0.6">0.9</age>
 		<planet>
 			<name>WASP-44 b</name>
 			<name>2MASS J00153675-1156172 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.869</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.062" errorplus="0.062">0.889</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.062" errorplus="0.062">0.889</mass>
 			<radius>1.002</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.11" errorplus="0.11">1.14</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.11" errorplus="0.11">1.14</radius>
 			<temperature>1304</temperature>
 			<period>2.4238133</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.4238039</period>
+			<!--NASA Catalogue-->
+			<period errorplus="8.7e-06" errorminus="8.7e-06">2.4238039</period>
 			<semimajoraxis>0.03445</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.03473</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00041" errorplus="0.00041">0.03473</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>86.02</inclination>
 			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455434.37674</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0004" errorplus="0.0004">2455434.376</transittime>
 			<description>WASP-44 b is a sub-Jupiter mass planet in a 2.42 day orbit around a G8V star. It was discovered by the WASP collaboration and published in a paper by Anderson et al. (2012).</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

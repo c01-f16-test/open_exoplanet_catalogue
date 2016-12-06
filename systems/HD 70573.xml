@@ -1,11 +1,17 @@
 <system>
 	<name>HD 70573</name>
 	<rightascension>08 22 50</rightascension>
+	<!--NASA Catalogue-->
+	<rightascension>08 22 49.95</rightascension>
 	<declination>+01 51 34</declination>
+	<!--NASA Catalogue-->
+	<declination>+01 51 33.6</declination>
 	<distance>45.7</distance>
 	<star>
 		<mass>1</mass>
 		<magV>8.7</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.106" errorplus="0.106">11.424</magV>
 		<magI errorminus="0.016" errorplus="0.016">7.999</magI>
 		<magB errorminus="0.02" errorplus="0.02">9.30</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.558</magJ>
@@ -21,7 +27,7 @@
 			<semimajoraxis>1.76</semimajoraxis>
 			<eccentricity>0.4</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/05/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>167.4</temperature>
 			<description>The planet candidate HD 70573 b was not confirmed in follow-up measurements (Soto et al. 2015).</description>

@@ -27,11 +27,11 @@
 			<period errorminus="0.0000027" errorplus="0.0000027">3.4252602</period>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456258.0621</transittime>
 			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0453</semimajoraxis>
-			<eccentricity upperlimit="0.27" />
+			<eccentricity upperlimit="0.27"/>
 			<inclination errorminus="0.2" errorplus="0.2">85.6</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

@@ -2,6 +2,10 @@
 	<name>HAT-P-49</name>
 	<rightascension>20 21 46</rightascension>
 	<declination>-26 41 34</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>+26 41 34.0001</declination>
+	<!--NASA Catalogue-->
+	<declination>+26 41 33.5</declination>
 	<distance errorminus="13" errorplus="24">322</distance>
 	<star>
 		<name>HAT-P-49</name>
@@ -32,8 +36,12 @@
 			<transittime errorminus="0.00063" errorplus="0.00063" unit="BJD">2456399.62406</transittime>
 			<description>This planet was discovered by the HATNet transit survey. The planetary characteristics are consistent with that of a classical hot Jupiter. This system is an especially strong target for Rossiter-McLaughlin follow-up due to the host star's fast rotation.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.691548</period>
+			<!--NASA Catalogue-->
+			<period errorplus="6e-06" errorminus="6e-06">2.691548</period>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

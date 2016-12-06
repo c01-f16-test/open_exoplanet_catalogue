@@ -21,14 +21,28 @@
 			<name>2MASS J23095825+1823459 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.019" errorplus="0.019">0.276</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.01" errorplus="0.01">0.3</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.011" errorplus="0.011">0.3</mass>
 			<radius errorminus="0.054" errorplus="0.054">1.162</radius>
 			<period errorminus="0.0000030" errorplus="0.0000030">4.3225186</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>4.3225126</period>
+			<!--NASA Catalogue-->
+			<period errorplus="1.9e-05" errorminus="2.4e-05">4.322482</period>
 			<semimajoraxis errorminus="0.0015" errorplus="0.0015">0.0499</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.00044" errorplus="0.00044">0.052</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00044" errorplus="0.00041">0.052</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination errorminus="0.33" errorplus="0.33">86.97</inclination>
 			<transittime errorminus="0.00071" errorplus="0.00071" unit="BJD">2454743.04054</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00065" errorplus="0.00065">2454743.04217</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/11/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="28" errorplus="28">1333</temperature>
 			<istransiting>1</istransiting>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1335</name>
 	<rightascension>18 59 21</rightascension>
-	<declination>+42 04 14</declination>
+	<declination>+42 04 13.5516</declination>
 	<star>
 		<name>Kepler-1335</name>
 		<temperature errorminus="62.6" errorplus="66.9">4903.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000027060" errorplus="0.000027060">6.264068460</period>
 			<radius errorminus="0.008" errorplus="0.009">0.129</radius>
 		</planet>
+	<magV>15.329</magV>
 	</star>
-</system>
+<distance>628.0</distance>
+	</system>

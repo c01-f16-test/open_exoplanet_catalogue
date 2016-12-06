@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-770</name>
-	<rightascension>19 05 58</rightascension>
-	<declination>+38 22 30</declination>
+	<rightascension>19 05 57</rightascension>
+	<declination>+38 22 29.6652</declination>
 	<star>
 		<name>Kepler-770</name>
 		<temperature errorminus="124.5" errorplus="127.6">5598.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,7 +25,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -37,12 +37,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000016850" errorplus="0.000016850">4.152447220</period>
 			<radius errorminus="0.010" errorplus="0.017">0.125</radius>
 		</planet>
+	<magV>14.604</magV>
 	</star>
-</system>
+<distance>761.0</distance>
+	</system>

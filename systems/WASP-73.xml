@@ -25,10 +25,11 @@
 			<inclination errorminus="2.4" errorplus="1.8">87.4</inclination>
 			<description>The planet WASP-73 b has a high mean density. This suggests it is enriched in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/12/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<transittime errorminus="0.0011" errorplus="0.0011" unit="HJD">2456128.7063</transittime>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity/>
+	</planet>
 	</star>
 </system>

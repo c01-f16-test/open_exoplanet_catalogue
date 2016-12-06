@@ -5,13 +5,25 @@
 	<distance>344</distance>
 	<star>
 		<mass>1.418</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.09" errorminus="0.09">1.28</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05">1.42</mass>
 		<radius>1.683</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.08" errorplus="0.08">1.19</radius>
+		<!--NASA Catalogue-->
+		<radius errorplus="0.06">1.68</radius>
 		<magV errorminus="0.15" errorplus="0.15">11.36</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>11.087</magV>
 		<magB errorminus="0.12" errorplus="0.12">11.65</magB>
 		<magJ errorminus="0.027" errorplus="0.027">10.006</magJ>
 		<magH errorminus="0.032" errorplus="0.032">9.777</magH>
 		<magK errorminus="0.029" errorplus="0.029">9.728</magK>
 		<metallicity>0.21</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.05" errorminus="0.05">0.13</metallicity>
 		<spectraltype>F</spectraltype>
 		<planet>
 			<name>HAT-P-41 b</name>
@@ -20,12 +32,16 @@
 			<mass>0.800</mass>
 			<radius>1.685</radius>
 			<period>2.69404</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.694047</period>
+			<!--NASA Catalogue-->
+			<period errorplus="4e-06" errorminus="4e-06">2.694047</period>
 			<semimajoraxis>0.0426</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination>87.7</inclination>
 			<description>HAT-P-41 b is a highly inflated hot Jupiter. The planet is less massive than Jupiter but has a much larger radius. It has been discovered by the HATNet collaboration.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1689.7</temperature>
 			<transittime errorminus="0.00107" errorplus="0.00107" unit="BJD">2454983.86167</transittime>

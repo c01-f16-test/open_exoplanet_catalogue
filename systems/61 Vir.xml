@@ -23,7 +23,13 @@
 		<magH errorminus="0.176" errorplus="0.176">2.974</magH>
 		<magK errorminus="0.236" errorplus="0.236">2.956</magK>
 		<metallicity>0.05</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity>-0.01</metallicity>
 		<temperature>5571</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature>5531.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="33.0" errorminus="33.0">5577.0</temperature>
 		<age errorminus="3.1" errorplus="3.3">6.3</age>
 		<spectraltype>G5V</spectraltype>
 		<planet>
@@ -37,7 +43,7 @@
 			<periastron errorminus="54" errorplus="54">105</periastron>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
@@ -51,7 +57,7 @@
 			<periastron errorminus="38" errorplus="38">341</periastron>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 		<planet>
@@ -65,7 +71,7 @@
 			<periastron errorminus="20" errorplus="20">314</periastron>
 			<description>The three known planets orbiting 61 Virginis were discovered with 4.6 years of radial velocity measurements taken with Keck/HIRES and the Anglo-Australian Telescope. The system also contains a debris disc at 96 – 195 AU from the star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

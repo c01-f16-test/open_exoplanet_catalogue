@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-986</name>
-	<rightascension>19 32 23</rightascension>
+	<rightascension>19 32 22</rightascension>
 	<declination>+42 53 47</declination>
 	<star>
 		<name>Kepler-986</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000144600" errorplus="0.000144600">56.434993800</period>
 			<radius errorminus="0.017" errorplus="0.026">0.211</radius>
 		</planet>
+	<magV>13.668</magV>
 	</star>
-</system>
+<distance>563.0</distance>
+	</system>

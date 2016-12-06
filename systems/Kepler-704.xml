@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-704</name>
-	<rightascension>18 53 16</rightascension>
-	<declination>+41 50 14</declination>
+	<rightascension>18 53 15</rightascension>
+	<declination>+41 50 13.632</declination>
 	<star>
 		<name>Kepler-704</name>
 		<temperature errorminus="102.8" errorplus="77.9">5616.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000011610" errorplus="0.000011610">3.761821150</period>
 			<radius errorminus="0.038" errorplus="0.054">0.233</radius>
 		</planet>
+	<magV>15.257</magV>
 	</star>
-</system>
+<distance>1054.0</distance>
+	</system>

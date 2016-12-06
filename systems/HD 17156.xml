@@ -1,7 +1,7 @@
 <system>
 	<name>HD 17156</name>
 	<rightascension>02 49 44</rightascension>
-	<declination>+71 45 12</declination>
+	<declination>+71 45 11.9999</declination>
 	<distance>78.24</distance>
 	<star>
 		<mass>1.275</mass>
@@ -13,10 +13,16 @@
 		<magK errorminus="0.024" errorplus="0.024">6.807</magK>
 		<metallicity>0.24</metallicity>
 		<spectraltype>G0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 17156 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.191</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.03383" errorplus="0.03394">3.195</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.08" errorplus="0.08">3.22</mass>
 			<radius>1.095</radius>
 			<period>21.2163979</period>
 			<semimajoraxis>0.1623</semimajoraxis>
@@ -24,7 +30,7 @@
 			<inclination>87.21</inclination>
 			<transittime errorminus="0.000081" errorplus="0.000081" unit="HJD">2454777.946341</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>790.5</temperature>
 			<istransiting>1</istransiting>

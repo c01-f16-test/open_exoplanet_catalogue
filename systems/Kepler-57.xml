@@ -19,29 +19,45 @@
 			<name>KOI-1270 b</name>
 			<name>KIC 8564587 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.015814</mass>
+			<mass errorminus="18.86">18.86</mass>
 			<radius>0.199575</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.2</radius>
+			<!--NASA Catalogue-->
+			<radius>0.195</radius>
 			<period>5.7293196</period>
 			<transittime errorminus="0.001" errorplus="0.001" unit="BJD">2455071.5584</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.001" errorplus="0.001">2454971.5584</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 5.73 days for 1.1185 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.5</magV>
+		<!--NASA Catalogue-->
+		<magV>14.809</magV>
 		<planet>
 			<name>Kepler-57 c</name>
 			<name>KOI-1270.02</name>
 			<name>KOI-1270 c</name>
 			<name>KIC 8564587 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.007759</mass>
+			<mass errorminus="6.95">6.95</mass>
 			<radius>0.141252</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.14</radius>
+			<!--NASA Catalogue-->
+			<radius>0.138</radius>
 			<period>11.6092567</period>
 			<transittime errorminus="0.0027" errorplus="0.0027" unit="BJD">2455066.99083</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0027" errorplus="0.0027">2454966.99083</transittime>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.61 days for 1.7074 hours. Periodic transit timing variations confirm its planetary nature.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

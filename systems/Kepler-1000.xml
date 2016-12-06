@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1000</name>
-	<rightascension>19 06 45</rightascension>
-	<declination>+47 05 54</declination>
+	<rightascension>19 06 44</rightascension>
+	<declination>+47 05 53.5956</declination>
 	<star>
 		<name>Kepler-1000</name>
 		<temperature errorminus="73.4" errorplus="74.2">6453.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000362800" errorplus="0.000362800">120.018127200</period>
 			<radius errorminus="0.028" errorplus="0.030">0.425</radius>
 		</planet>
+	<magV>13.256</magV>
 	</star>
-</system>
+<distance>925.0</distance>
+	</system>

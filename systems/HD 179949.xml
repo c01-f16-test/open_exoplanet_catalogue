@@ -17,11 +17,15 @@
 			<name>HD 179949 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.95</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>0.92</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.076" errorplus="0.076">0.916</mass>
 			<period>3.0925</period>
 			<semimajoraxis>0.045</semimajoraxis>
 			<eccentricity>0.022</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/09/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>1419.4</temperature>
 		</planet>

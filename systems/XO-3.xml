@@ -1,17 +1,27 @@
 <system>
 	<name>XO-3</name>
-	<rightascension>04 21 53</rightascension>
+	<rightascension>04 21 52</rightascension>
 	<declination>+57 49 01</declination>
 	<distance>260</distance>
 	<star>
 		<mass>1.213</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.08" errorminus="0.08">1.41</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.07">1.21</mass>
 		<radius>1.377</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.08" errorplus="0.08">1.49</radius>
+		<!--NASA Catalogue-->
+		<radius errorplus="0.08">1.38</radius>
 		<magV>9.8</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.27</magB>
 		<magJ errorminus="0.029" errorplus="0.029">9.013</magJ>
 		<magH errorminus="0.018" errorplus="0.018">8.845</magH>
 		<magK errorminus="0.019" errorplus="0.019">8.791</magK>
 		<metallicity>-0.177</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.04" errorminus="0.04">-0.08</metallicity>
 		<spectraltype>F5V</spectraltype>
 		<planet>
 			<name>XO-3 b</name>
@@ -24,8 +34,10 @@
 			<eccentricity>0.26</eccentricity>
 			<inclination>84.2</inclination>
 			<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2454864.76684</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00023" errorplus="0.00023">2454449.86816</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1554.5</temperature>
 			<istransiting>1</istransiting>

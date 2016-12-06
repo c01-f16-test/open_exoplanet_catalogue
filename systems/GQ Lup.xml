@@ -2,6 +2,10 @@
 	<name>GQ Lup</name>
 	<rightascension>15 49 12</rightascension>
 	<declination>-35 39 03</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-35 39 02.9999</declination>
+	<!--NASA Catalogue-->
+	<declination>-35 39 05.1</declination>
 	<distance>140</distance>
 	<star>
 		<mass>0.7</mass>
@@ -22,9 +26,13 @@
 			<positionangle errorminus="0.34" errorplus="0.34">276.00</positionangle>
 			<description>GQ Lupi b is a directly imaged planet or brown dwarf orbiting the star GQ Lupi in the constellation Lupus.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<image>GQ Lupi</image>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="37.0" errorplus="37.0">103.0</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis>100.0</semimajoraxis>
 			<imagedescription>This image show the star GQ Lupi and a planetary companion on the right. It was taken with NOCA on VLT. The planetary companion is about 250 dimmer than the star. Credit: ESO.</imagedescription>
 		</planet>
 		<name>GQ Lup</name>

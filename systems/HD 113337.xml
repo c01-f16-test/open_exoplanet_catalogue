@@ -1,6 +1,6 @@
 <system>
 	<name>HD 113337</name>
-	<rightascension>13 01 47</rightascension>
+	<rightascension>13 01 46</rightascension>
 	<declination>+63 36 37</declination>
 	<distance errorminus="0.4" errorplus="0.4">36.9</distance>
 	<star>
@@ -19,6 +19,10 @@
 		<metallicity>0.07</metallicity>
 		<spectraltype>F6V</spectraltype>
 		<age errorminus="0.050" errorplus="0.100">0.150</age>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="16.0" errorminus="16.0">6577.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="153.2" errorminus="149.7">6576.6</temperature>
 		<planet>
 			<name>HD 113337 b</name>
 			<name>HIP 63584 b</name>
@@ -29,9 +33,11 @@
 			<semimajoraxis errorminus="0.09" errorplus="0.09">0.92</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.46</eccentricity>
 			<periastron errorminus="3.7" errorplus="3.6">-140.8</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="3.7" errorminus="3.7">219.2</periastron>
 			<description>The planet HD 113337 b is orbiting a bright young F-type star. An IR excess has been attributed to a cold debris disk around the star. The planet has been found with the SOPHIE spectrograph on the 1.9m telescope at Observatoire de Haute-Provence.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/10/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

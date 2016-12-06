@@ -2,6 +2,10 @@
 	<name>HD 152079</name>
 	<rightascension>16 53 30</rightascension>
 	<declination>-46 19 51</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-46 19 50.9999</declination>
+	<!--NASA Catalogue-->
+	<declination>-46 19 58.6</declination>
 	<distance>85.17</distance>
 	<star>
 		<mass>1.023</mass>
@@ -20,11 +24,14 @@
 			<semimajoraxis>3.2</semimajoraxis>
 			<eccentricity>0.6</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>149.6</temperature>
 		</planet>
 		<name>HD 152079</name>
 		<temperature>5940.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="100.0" errorminus="100.0">5726.0</temperature>
+	<radius errorminus="0.13" errorplus="0.13">1.15</radius>
 	</star>
 </system>

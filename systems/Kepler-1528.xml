@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1528</name>
-	<rightascension>19 09 37</rightascension>
+	<rightascension>19 09 36</rightascension>
 	<declination>+46 34 26</declination>
 	<star>
 		<name>Kepler-1528</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000007700" errorplus="0.000007700">1.791110210</period>
 			<radius errorminus="0.012" errorplus="0.022">0.130</radius>
 		</planet>
+	<magV>14.496</magV>
 	</star>
-</system>
+<distance>916.0</distance>
+	</system>

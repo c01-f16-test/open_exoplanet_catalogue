@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1049</name>
 	<rightascension>19 09 23</rightascension>
-	<declination>+47 46 23</declination>
+	<declination>+47 46 22.6452</declination>
 	<star>
 		<name>Kepler-1049</name>
 		<temperature errorminus="41.5" errorplus="42.0">3864.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000005310" errorplus="0.000005310">3.273460740</period>
 			<radius errorminus="0.014" errorplus="0.009">0.085</radius>
 		</planet>
+	<magV>14.22</magV>
 	</star>
-</system>
+<distance>129.0</distance>
+	</system>

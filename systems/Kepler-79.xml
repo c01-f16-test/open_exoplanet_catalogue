@@ -15,6 +15,10 @@
 		<mass errorminus="0.1000" errorplus="0.1000">1.1800</mass>
 		<magB>14.68</magB>
 		<magV>13.99</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>14.11</magV>
+		<!--NASA Catalogue-->
+		<magV>13.914</magV>
 		<magR errorminus="0.13" errorplus="0.13">14.20</magR>
 		<magJ errorminus="0.025" errorplus="0.025">12.913</magJ>
 		<magH errorminus="0.025" errorplus="0.025">12.653</magH>
@@ -27,15 +31,28 @@
 			<name>KIC 8394721.01</name>
 			<name>UCAC3 269-182620 d</name>
 			<radius errorminus="0.03281" errorplus="0.12394">0.69168</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.012" errorplus="0.012">0.64</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.014" errorplus="0.012">0.639</radius>
 			<period errorminus=".000073" errorplus="0.000073">52.090590</period>
-			<transittime errorminus="0.0007700" errorplus="0.0007700">2454991.7450800</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>52.0902</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.0009" errorminus="0.001">52.0902</period>
+		<transittime errorminus="0.0007700" errorplus="0.0007700">2454991.7450800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.005033" errorplus="0.006605">0.018872</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.07" errorminus="0.03">89.93</inclination>
+	<semimajoraxis errorminus="0.004" errorplus="0.004">0.287</semimajoraxis>
+	<eccentricity errorplus="0.059" errorminus="0.023">0.025</eccentricity>
+	</planet>
 		<planet>
 			<name>Kepler-79 c</name>
 			<name>KOI-152 c</name>
@@ -45,14 +62,27 @@
 			<name>UCAC3 269-182620 c</name>
 			<radius errorminus="0.06379" errorplus="0.06379">0.35450</radius>
 			<period errorminus=".000078" errorplus="0.000078">27.401994</period>
-			<transittime errorminus="0.0016100" errorplus="0.0016100">2454966.6323900</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>27.4029</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.0008" errorminus="0.0006">27.4029</period>
+		<transittime errorminus="0.0016100" errorplus="0.0016100">2454966.6323900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.007234" errorplus="0.005976">0.018558</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.0072" errorplus="0.006">0.019</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.07" errorminus="0.09">89.48</inclination>
+	<semimajoraxis errorminus="0.003" errorplus="0.002">0.187</semimajoraxis>
+	<eccentricity errorplus="0.027" errorminus="0.021">0.03</eccentricity>
+	</planet>
 		<planet>
 			<name>Kepler-79 b</name>
 			<name>KOI-152 b</name>
@@ -62,14 +92,25 @@
 			<name>UCAC3 269-182620 b</name>
 			<radius errorminus="0.06015" errorplus="0.06015">0.33171</radius>
 			<period errorminus=".000036" errorplus="0.000036">13.484686</period>
-			<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
+			<!--Exoplanet.eu Catalogue-->
+		<period>13.4845</period>
+		<!--NASA Catalogue-->
+		<period errorplus="0.0002" errorminus="0.0002">13.4845</period>
+		<transittime errorminus="0.0015800" errorplus="0.0015800">2454969.6133500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-79 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="" errorplus="0.023276">0.034285</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="" errorplus="0.023">0.0343</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.07" errorminus="0.09">88.78</inclination>
+	<semimajoraxis errorminus="0.002" errorplus="0.002">0.117</semimajoraxis>
+	<eccentricity errorplus="0.012" errorminus="0.006">0.015</eccentricity>
+	</planet>
 		<planet>
 			<name>Kepler-79 e</name>
 			<name>KOI-152 e</name>
@@ -83,9 +124,16 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-79 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-79 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0034" errorplus="0.0037">0.0129</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.0035" errorplus="0.0038">0.013</mass>
 			<istransiting>1</istransiting>
-		</planet>
+		<inclination errorplus="0.02" errorminus="0.02">89.13</inclination>
+	<semimajoraxis errorminus="0.005" errorplus="0.005">0.386</semimajoraxis>
+	<eccentricity errorplus="0.044" errorminus="0.005">0.012</eccentricity>
+	</planet>
 	</star>
 </system>

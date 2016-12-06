@@ -17,11 +17,27 @@
 			<name>HD 23079 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.5</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.21" errorplus="0.21">2.45</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.21" errorplus="0.21">2.45</mass>
 			<period>626</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>730.6</period>
+			<!--NASA Catalogue-->
+			<period errorplus="5.7" errorminus="5.7">730.6</period>
 			<semimajoraxis>1.5</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.093" errorplus="0.093">1.596</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.093" errorplus="0.093">1.596</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.031" errorminus="0.031">0.102</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.031" errorminus="0.031">0.102</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>223.8</temperature>
 		</planet>

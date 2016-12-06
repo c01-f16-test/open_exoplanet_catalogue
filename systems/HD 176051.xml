@@ -1,6 +1,8 @@
 <system>
 	<name>HD 176051</name>
 	<rightascension>18 57 02</rightascension>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>18 57 01</rightascension>
 	<declination>+32 54 05</declination>
 	<distance>14.99</distance>
 	<star>
@@ -20,7 +22,7 @@
 			<semimajoraxis>1.76</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 		<name>HD 176051</name>

@@ -13,18 +13,26 @@
 		<magK errorminus="0.009" errorplus="0.009">6.819</magK>
 		<metallicity>0.36</metallicity>
 		<spectraltype>G0IV</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G0 IV</spectraltype>
 		<planet>
 			<name>HD 149026 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.356</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0114" errorplus="0.0135">0.357</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.014" errorplus="0.013">0.368</mass>
 			<radius>0.718</radius>
 			<period>2.8758916</period>
 			<semimajoraxis>0.04288</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>85.3</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="BJD">2453317.836</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00016" errorplus="0.00016">2454597.70713</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1601.5</temperature>
 			<istransiting>1</istransiting>

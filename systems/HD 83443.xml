@@ -18,10 +18,18 @@
 			<list>Confirmed planets</list>
 			<mass>0.4</mass>
 			<period>2.985625</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.98572</period>
+			<!--NASA Catalogue-->
+			<period errorplus="5.7e-05" errorminus="5.7e-05">2.985698</period>
 			<semimajoraxis>0.0406</semimajoraxis>
 			<eccentricity>0.008</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.007" errorminus="0.0135">0.007</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.023" errorminus="0.023">0.012</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/11/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1218.5</temperature>
 		</planet>

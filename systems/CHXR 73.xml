@@ -1,6 +1,6 @@
 <system>
 	<name>CHXR 73</name>
-	<rightascension>11 06 29</rightascension>
+	<rightascension>11 06 28</rightascension>
 	<declination>-77 37 33</declination>
 	<star>
 		<magI>15.78</magI>
@@ -21,9 +21,13 @@
 			<magK errorminus="0.25" errorplus="0.25">15.5</magK>
 			<description>The companion CHXR 73 b is just under the threshold for deuterium fusion. Therefor, its status as a planet is uncertain.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/03/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<image>CHXR 73</image>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis>200.0</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis>210.0</semimajoraxis>
 			<imagedescription>This image shows the red dwarf CHXR 73 A and its companion CHXR 73 b on the lower right. The image was obtained with the Hubble Space Telescope. Credit: NASA, ESA, and K. Luhman (Pennsylvania State University).</imagedescription>
 		</planet>
 		<name>CHXR 73</name>

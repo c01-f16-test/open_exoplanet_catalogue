@@ -10,16 +10,38 @@
 		<name>KOI-1089</name>
 		<name>KIC 3247268</name>
 		<mass errorminus="0.10" errorplus="0.21">1.29</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.08" errorminus="0.08">0.98</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.08" errorminus="0.08">0.98</mass>
 		<radius errorminus="0.36" errorplus="0.68">1.60</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.14" errorplus="0.14">1.094</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.14" errorplus="0.14">1.09</radius>
 		<temperature errorminus="169" errorplus="169">6029</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="100.0" errorminus="100.0">5820.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="100.0" errorminus="100.0">5820.0</temperature>
 		<metallicity errorminus="0.13" errorplus="0.13">0.31</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.1" errorminus="0.1">-0.05</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.696</magV>
 		<planet>
 			<name>Kepler-418 b</name>
 			<name>KOI-1089.01</name>
 			<name>KOI-1089 b</name>
 			<name>KIC 3247268 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="1.1" />
+			<mass upperlimit="1.1"/>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorplus="">1.1</mass>
+			<!--NASA Catalogue-->
+			<mass>1.1</mass>
 			<radius errorminus="0.16" errorplus="0.16">1.20</radius>
 			<period errorminus="0.00007" errorplus="0.00007">86.67856</period>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.20</eccentricity>
@@ -27,7 +49,7 @@
 			<description>Kepler-418b is one of two proposed planets in system Kepler-418.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

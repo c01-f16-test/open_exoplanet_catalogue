@@ -26,10 +26,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-359 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-359 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.307</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-359 b</name>
 			<name>KOI-2092 b</name>
@@ -42,10 +43,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-359 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-359 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.178</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-359 d</name>
 			<name>KOI-2092 d</name>
@@ -58,9 +60,12 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-359 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-359 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.372</semimajoraxis>
+	</planet>
+	<mass>1.07</mass>
+	<magV>15.886</magV>
 	</star>
 </system>

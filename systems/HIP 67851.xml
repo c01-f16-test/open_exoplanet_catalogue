@@ -17,8 +17,14 @@
 		<magH errorminus="0.246" errorplus="0.246">3.810</magH>
 		<magK errorminus="0.236" errorplus="0.236">3.751</magK>
 		<spectraltype>K0III</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>KOIII</spectraltype>
 		<temperature errorminus="100" errorplus="100">4805</temperature>
 		<mass errorminus="0.18" errorplus="0.18">1.30</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.22" errorminus="0.22">1.63</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.22" errorminus="0.22">1.63</mass>
 		<radius errorminus="0.29" errorplus="0.29">5.87</radius>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.03</metallicity>
 		<planet>
@@ -27,13 +33,15 @@
 			<period errorminus="0.1" errorplus="0.1">88.9</period>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.05</eccentricity>
 			<periastron errorminus="132" errorplus="132">300</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="60.0" errorminus="60.0">138.1</periastron>
 			<mass errorminus="0.15" errorplus="0.15">1.38</mass>
 			<semimajoraxis errorminus="0.02" errorplus="0.02">0.46</semimajoraxis>
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>RV</discoverymethod>
 			<list>Confirmed planets</list>
 			<description>HIP 67851 b is one of the rare examples of a close-in planet orbiting a red giant star.</description>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 		</planet>
 		<planet>
 			<name>HIP 67851 c</name>
@@ -41,13 +49,17 @@
 			<period errorminus="88.3" errorplus="88.3">2131.8</period>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.17</eccentricity>
 			<periastron errorminus="17" errorplus="17">205</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="20.5" errorminus="20.5">166.5</periastron>
 			<mass errorminus="0.76" errorplus="0.76">5.98</mass>
 			<semimajoraxis errorminus="0.23" errorplus="0.23">3.82</semimajoraxis>
 			<discoveryyear>2014</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2015</discoveryyear>
 			<discoverymethod>RV</discoverymethod>
 			<list>Confirmed planets</list>
 			<description>HIP 67851 c orbits a red giant star. Currently the parameters are sufficiently uncertain that it is not clear whether or not it will be engulfed during the further expansion of its parent star.</description>
-			<lastupdate>15/05/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 		</planet>
 	</star>
 </system>

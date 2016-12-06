@@ -6,7 +6,11 @@
 	<star>
 		<mass>0.97</mass>
 		<age>11.7</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="2.0" errorplus="2.0">6.0</age>
 		<metallicity>0.03</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity>0.01</metallicity>
 		<radius>1.62</radius>
 		<magV>7.35</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.79</magB>
@@ -24,9 +28,13 @@
 			<periastron>123.8</periastron>
 			<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is almost 11 billion years old.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature>5232.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="29.0" errorminus="29.0">5362.0</temperature>
 		<name>HD 106515 A</name>
 	</star>
 </system>

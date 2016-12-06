@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1467</name>
-	<rightascension>19 40 12</rightascension>
-	<declination>+45 20 34</declination>
+	<rightascension>19 40 11</rightascension>
+	<declination>+45 20 33.6696</declination>
 	<star>
 		<name>Kepler-1467</name>
 		<temperature errorminus="173.7" errorplus="179.2">5332.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000183500" errorplus="0.000183500">47.056904300</period>
 			<radius errorminus="0.022" errorplus="0.028">0.294</radius>
 		</planet>
+	<magV>15.549</magV>
 	</star>
-</system>
+<distance>890.0</distance>
+	</system>

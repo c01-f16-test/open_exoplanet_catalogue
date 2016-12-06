@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1550</name>
 	<rightascension>19 11 03</rightascension>
-	<declination>+38 17 41</declination>
+	<declination>+38 17 40.9344</declination>
 	<star>
 		<name>Kepler-1550</name>
 		<temperature errorminus="159.4" errorplus="161.1">5991.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.003846000" errorplus="0.003846000">225.582809000</period>
 			<radius errorminus="0.034" errorplus="0.063">0.269</radius>
 		</planet>
+	<magV>14.9</magV>
 	</star>
-</system>
+<distance>1202.0</distance>
+	</system>

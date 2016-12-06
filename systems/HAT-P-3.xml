@@ -1,6 +1,6 @@
 <system>
 	<name>HAT-P-3</name>
-	<rightascension>13 44 23</rightascension>
+	<rightascension>13 44 22</rightascension>
 	<declination>+48 01 43</declination>
 	<distance>130</distance>
 	<star>
@@ -12,6 +12,8 @@
 		<magH errorminus="0.028" errorplus="0.028">9.542</magH>
 		<magK errorminus="0.025" errorplus="0.025">9.448</magK>
 		<metallicity>0.27</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.08" errorminus="0.08">0.41</metallicity>
 		<spectraltype>K</spectraltype>
 		<planet>
 			<name>HAT-P-3 b</name>
@@ -26,10 +28,12 @@
 			<inclination>87.07</inclination>
 			<description>The young and metal rich star HAT-P-3 is located in the constellation Ursa Major. The planet HAT-P-3 b has about 75 Earth masses worth of heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1047.2</temperature>
 			<transittime errorminus="0.0001" errorplus="0.0001" unit="BJD">2454856.70195</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0001" errorplus="0.0001">2454856.70118</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>HAT-P-3</name>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-936</name>
-	<rightascension>19 34 19</rightascension>
-	<declination>+46 44 11</declination>
+	<rightascension>19 34 18</rightascension>
+	<declination>+46 44 10.8492</declination>
 	<star>
 		<name>Kepler-936</name>
 		<temperature errorminus="127.6" errorplus="99.3">5482.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000045450" errorplus="0.000045450">10.561342210</period>
 			<radius errorminus="0.009" errorplus="0.018">0.129</radius>
 		</planet>
+	<magV>14.581</magV>
 	</star>
-</system>
+<distance>687.0</distance>
+	</system>

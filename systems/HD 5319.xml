@@ -54,8 +54,10 @@
 			<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2016</discoveryyear>
 		</planet>
 		<temperature>5052.0</temperature>
 	</star>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1016</name>
 	<rightascension>19 38 27</rightascension>
-	<declination>+45 59 05</declination>
+	<declination>+45 59 04.6428</declination>
 	<star>
 		<name>Kepler-1016</name>
 		<temperature errorminus="169.9" errorplus="177.4">5821.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000545200" errorplus="0.000545200">105.655136900</period>
 			<radius errorminus="0.033" errorplus="0.058">0.328</radius>
 		</planet>
+	<magV>15.356</magV>
 	</star>
-</system>
+<distance>1239.0</distance>
+	</system>

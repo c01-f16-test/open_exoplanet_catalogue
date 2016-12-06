@@ -9,6 +9,10 @@
 		<name>2MASS J07493960-5207136</name>
 		<magB errorminus="0.05" errorplus="0.05">11.189</magB>
 		<magV errorminus="0.05" errorplus="0.05">11.745</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>11.44</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.05" errorplus="0.05">11.189</magV>
 		<magJ errorminus="0.024" errorplus="0.024">10.205</magJ>
 		<magH errorminus="0.023" errorplus="0.023">9.919</magH>
 		<magK errorminus="0.025" errorplus="0.025">9.854</magK>
@@ -26,13 +30,20 @@
 			<mass errorminus="0.22" errorplus="0.21">0.91</mass>
 			<period errorminus="0.000016" errorplus="0.000016">3.329441</period>
 			<transittime errorminus="0.0073" errorplus="0.0078" unit="BJD">2457029.1663</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00047" errorplus="0.00047">2457091.02863</transittime>
 			<semimajoraxis errorminus="0.00065" errorplus="0.00065">0.04613</semimajoraxis>
 			<temperature errorminus="25" errorplus="45">1642</temperature>
 			<description>KELT-15 b was discovered by the KELT-South survey.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/09/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.8" errorminus="0.8">79.67</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="1.2" errorminus="1.7">88.3</inclination>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<eccentricity/>
+	</planet>
 	</star>
 </system>

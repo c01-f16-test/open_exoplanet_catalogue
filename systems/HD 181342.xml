@@ -18,11 +18,27 @@
 			<name>HD 181342 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.3</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.2" errorplus="0.2">2.9</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.2" errorplus="0.2">2.9</mass>
 			<period>663</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>562.0</period>
+			<!--NASA Catalogue-->
+			<period errorplus="6.0" errorminus="6.0">562.1</period>
 			<semimajoraxis>1.78</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.65</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.65</semimajoraxis>
 			<eccentricity>0.177</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.07" errorminus="0.07">0.1</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.07" errorminus="0.07">0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>354.7</temperature>
 		</planet>

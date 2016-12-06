@@ -13,7 +13,7 @@
 		<name>2MASS J08361779-3427358</name>
 		<mass errorminus="0.03" errorplus="0.03">0.89</mass>
 		<radius>1.04</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.87</magV>
+		<magV errorminus="0.01" errorplus="0.01">8.9</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.66</magB>
 		<magJ errorminus="0.023" errorplus="0.023">7.493</magJ>
 		<magH errorminus="0.031" errorplus="0.031">7.126</magH>
@@ -32,7 +32,7 @@
 			<periastron errorminus="1.8" errorplus="1.8">229.1</periastron>
 			<periastrontime errorminus="16" errorplus="16">2451821.7</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

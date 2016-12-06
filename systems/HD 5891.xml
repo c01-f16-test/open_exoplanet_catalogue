@@ -1,7 +1,11 @@
 <system>
 	<name>HD 5891</name>
-	<rightascension>01 00 59</rightascension>
+	<rightascension>01 00 33</rightascension>
 	<declination>+20 17 56</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>+20 17 33</declination>
+	<!--NASA Catalogue-->
+	<declination>+20 17 32.9</declination>
 	<distance>251</distance>
 	<star>
 		<mass>1.91</mass>
@@ -22,7 +26,7 @@
 			<eccentricity>0.066</eccentricity>
 			<description>The star HD 5891 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>731.8</temperature>
 		</planet>

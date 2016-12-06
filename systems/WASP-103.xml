@@ -19,6 +19,10 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.11" errorplus="0.11">1.47</mass>
 			<radius errorminus="0.052" errorplus="0.052">1.603</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.047" errorplus="0.073">1.528</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.047" errorplus="0.073">1.528</radius>
 			<temperature errorminus="70" errorplus="75">2508</temperature>
 			<period errorminus="0.000019" errorplus="0.000019">0.925542</period>
 			<semimajoraxis errorminus="0.00049" errorplus="0.00049">0.01978</semimajoraxis>
@@ -26,7 +30,7 @@
 			<description>WASP-103 b is an ultra-short period jupiter sized planet at the edge of disruption.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/11/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

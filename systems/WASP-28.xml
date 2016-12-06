@@ -2,7 +2,7 @@
 	<name>WASP-28</name>
 	<name>K2-1</name>
 	<rightascension>23 34 28</rightascension>
-	<declination>-01 34 57</declination>
+	<declination>-01 34 48</declination>
 	<distance errorminus="70" errorplus="70">410</distance>
 	<star>
 		<name>WASP-28</name>
@@ -19,6 +19,8 @@
 		<magK errorminus="0.024" errorplus="0.024">10.732</magK>
 		<metallicity errorminus="0.1" errorplus="0.1">-0.29</metallicity>
 		<spectraltype>F8</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>F8-G0</spectraltype>
 		<age errorminus="2" errorplus="3">5</age>
 		<planet>
 			<name>WASP-28 b</name>
@@ -34,7 +36,7 @@
 			<spinorbitalignment errorminus="18" errorplus="18">8</spinorbitalignment>
 			<inclination errorminus="0.67" errorplus="0.67">88.61</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/02/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="37" errorplus="37">1468</temperature>
 			<description>WASP-28b is an inflated Jupiter-mass planet on a 3.4 day orbit. The orbit is aligned with the sky projected spin axis of the star.</description>

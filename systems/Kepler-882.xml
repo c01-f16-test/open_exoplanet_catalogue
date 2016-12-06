@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-882</name>
-	<rightascension>19 38 36</rightascension>
+	<rightascension>19 38 35</rightascension>
 	<declination>+43 20 08</declination>
 	<star>
 		<name>Kepler-882</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000009760" errorplus="0.000009760">3.989539670</period>
 			<radius errorminus="0.008" errorplus="0.013">0.110</radius>
 		</planet>
+	<magV>14.083</magV>
 	</star>
-</system>
+<distance>525.0</distance>
+	</system>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1276</name>
-	<rightascension>19 11 26</rightascension>
-	<declination>+40 32 50</declination>
+	<rightascension>19 11 25</rightascension>
+	<declination>+40 32 49.8516</declination>
 	<star>
 		<name>Kepler-1276</name>
 		<temperature errorminus="55.2" errorplus="65.2">6188.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000109800" errorplus="0.000109800">12.572009500</period>
 			<radius errorminus="0.010" errorplus="0.018">0.106</radius>
 		</planet>
+	<magV>12.885</magV>
 	</star>
-</system>
+<distance>587.0</distance>
+	</system>

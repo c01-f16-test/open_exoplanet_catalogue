@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1041</name>
-	<rightascension>19 35 32</rightascension>
+	<rightascension>19 35 31</rightascension>
 	<declination>+49 40 59</declination>
 	<star>
 		<name>Kepler-1041</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000111200" errorplus="0.000111200">24.757642100</period>
 			<radius errorminus="0.047" errorplus="0.055">0.262</radius>
 		</planet>
+	<magV>14.49</magV>
 	</star>
-</system>
+<distance>979.0</distance>
+	</system>

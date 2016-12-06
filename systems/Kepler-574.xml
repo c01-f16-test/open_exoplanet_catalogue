@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-574</name>
 	<rightascension>19 20 59</rightascension>
-	<declination>+52 08 57</declination>
+	<declination>+52 08 56.8896</declination>
 	<star>
 		<name>Kepler-574</name>
 		<temperature errorminus="108.4" errorplus="116.0">5612.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000013460" errorplus="0.000013460">7.658804140</period>
 			<radius errorminus="0.014" errorplus="0.029">0.213</radius>
 		</planet>
+	<magV>14.528</magV>
 	</star>
-</system>
+<distance>747.0</distance>
+	</system>

@@ -20,12 +20,16 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.008" errorplus="0.008">0.196</mass>
 			<radius errorminus="0.044" errorplus="0.044">0.947</radius>
-			<period errorminus="0.000043" errorplus="0.000043">5.507978</period>
+			<period errorminus="0.000043" errorplus="0.000043">5.508029</period>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0559</semimajoraxis>
 			<eccentricity errorminus="0.009" errorplus="0.03">0.009</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.15" errorminus="0.084">0.106</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.048" errorminus="0.048">0.084</eccentricity>
 			<inclination errorminus="0.25" errorplus="0.25">88.79</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/31</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="15" errorplus="15">841</temperature>
 			<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>

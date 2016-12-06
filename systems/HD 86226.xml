@@ -1,7 +1,7 @@
 <system>
 	<name>HD 86226</name>
 	<rightascension>09 56 30</rightascension>
-	<declination>-24 05 58</declination>
+	<declination>-24 05 57.9998</declination>
 	<distance>42.48</distance>
 	<star>
 		<name>HD 86226</name>
@@ -14,6 +14,8 @@
 		<magH errorminus="0.034" errorplus="0.034">6.577</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.463</magK>
 		<metallicity>0.05</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity>-0.04</metallicity>
 		<radius>1.02</radius>
 		<spectraltype>G2V</spectraltype>
 		<planet>
@@ -24,11 +26,15 @@
 			<semimajoraxis>2.84</semimajoraxis>
 			<eccentricity>0.15</eccentricity>
 			<periastron>193</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="50.0" errorminus="50.0">58.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.0</temperature>
 		</planet>
 		<temperature>5940.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="31.0" errorminus="31.0">5903.0</temperature>
 	</star>
 </system>

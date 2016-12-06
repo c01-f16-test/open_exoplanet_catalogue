@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-518</name>
-	<rightascension>19 08 22</rightascension>
-	<declination>+41 22 26</declination>
+	<rightascension>19 08 21</rightascension>
+	<declination>+41 22 25.9428</declination>
 	<star>
 		<name>Kepler-518</name>
 		<temperature errorminus="51.8" errorplus="57.6">5842.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004500" errorplus="0.000004500">8.512035880</period>
 			<radius errorminus="0.004" errorplus="0.004">0.188</radius>
 		</planet>
+	<magV>12.549</magV>
 	</star>
-</system>
+<distance>324.0</distance>
+	</system>

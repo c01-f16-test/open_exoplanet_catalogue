@@ -22,15 +22,20 @@
 			<name>KIC 8164257 d</name>
 			<name>KIC 8164257.01</name>
 			<radius errorminus="0.00365" errorplus="0.18591">0.31258</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.182" errorplus="0.182">0.306</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.182" errorplus="0.182">0.306</radius>
 			<period errorminus=".000460" errorplus="0.000460">49.499875</period>
 			<transittime errorminus="0.0053800" errorplus="0.0053800">2454972.0494600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-357 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-357 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.246</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-357 b</name>
 			<name>KOI-2073 b</name>
@@ -43,10 +48,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-357 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-357 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.063</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-357 c</name>
 			<name>KOI-2073 c</name>
@@ -59,9 +65,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-357 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-357 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.12</semimajoraxis>
+	</planet>
+	<magV>15.565</magV>
 	</star>
 </system>

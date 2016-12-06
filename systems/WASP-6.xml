@@ -1,6 +1,6 @@
 <system>
 	<name>WASP-6</name>
-	<rightascension>23 12 38</rightascension>
+	<rightascension>23 12 37</rightascension>
 	<declination>-22 40 26</declination>
 	<distance>307</distance>
 	<star>
@@ -26,7 +26,7 @@
 			<inclination>88.47</inclination>
 			<transittime errorminus="0.00010" errorplus="0.00015" unit="BJD">2454596.43341</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1092.2</temperature>
 			<istransiting>1</istransiting>

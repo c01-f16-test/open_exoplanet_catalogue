@@ -9,6 +9,10 @@
 		<radius>5.4</radius>
 		<temperature>4959</temperature>
 		<magV>2.04</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>5.9</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.009" errorplus="0.009">5.89</magV>
 		<magR errorminus="0.30" errorplus="0.30">7.09</magR>
 		<magB>6.84</magB>
 		<magJ errorminus="0.248" errorplus="0.248">4.338</magJ>
@@ -28,7 +32,7 @@
 			<eccentricity>0.13</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 		<planet>
@@ -43,8 +47,10 @@
 			<eccentricity>0.23</eccentricity>
 			<description>The planets in this double planetary system are orbiting an evolved intermediate-mass star. The observations were made at the Okayama Astrophysical Observatory and the Anglo-Australian Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/10/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>
 	<videolink>http://youtu.be/iPuHKvxb_Wg</videolink>

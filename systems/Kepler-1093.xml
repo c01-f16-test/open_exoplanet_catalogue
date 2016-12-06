@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1093</name>
-	<rightascension>18 59 55</rightascension>
-	<declination>+41 25 13</declination>
+	<rightascension>18 59 54</rightascension>
+	<declination>+41 25 12.5976</declination>
 	<star>
 		<name>Kepler-1093</name>
 		<temperature errorminus="138.4" errorplus="147.6">6166.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001080000" errorplus="0.001080000">89.722292000</period>
 			<radius errorminus="0.024" errorplus="0.064">0.175</radius>
 		</planet>
+	<magV>13.838</magV>
 	</star>
-</system>
+<distance>848.0</distance>
+	</system>

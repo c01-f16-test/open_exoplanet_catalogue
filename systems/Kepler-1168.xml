@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1168</name>
 	<rightascension>19 09 11</rightascension>
-	<declination>+47 27 20</declination>
+	<declination>+47 27 19.5732</declination>
 	<star>
 		<name>Kepler-1168</name>
 		<temperature errorminus="55.9" errorplus="47.0">5157.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000387100" errorplus="0.000387100">55.822653900</period>
 			<radius errorminus="0.012" errorplus="0.016">0.223</radius>
 		</planet>
+	<magV>15.624</magV>
 	</star>
-</system>
+<distance>911.0</distance>
+	</system>

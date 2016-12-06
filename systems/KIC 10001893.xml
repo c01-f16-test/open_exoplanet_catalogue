@@ -21,7 +21,7 @@
 			<description>KIC 10001893 b was discovered by photometric monitoring of the host star. The reflectivity, degree of heat redistribution and density of this planet are unknown, which prevents knowledge of its mass or radius. The interpretation of the light variations as being caused by reflection from a planet is not confirmed.</description>
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/01/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 		</planet>
 		<planet>
 			<name>KIC 10001893 c</name>
@@ -33,8 +33,12 @@
 			<description>KIC 10001893 c was discovered by photometric monitoring of the host star. The reflectivity, degree of heat redistribution and density of this planet are unknown, which prevents knowledge of its mass or radius. The interpretation of the light variations as being caused by reflection from a planet is not confirmed.</description>
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/01/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>16.0</magV>
+		<!--NASA Catalogue-->
+		<magV>15.846</magV>
 		<planet>
 			<name>KIC 10001893 d</name>
 			<name>KIC 10001893_3</name>
@@ -45,7 +49,7 @@
 			<description>KIC 10001893 d was discovered by photometric monitoring of the host star. The reflectivity, degree of heat redistribution and density of this planet are unknown, which prevents knowledge of its mass or radius. The interpretation of the light variations as being caused by reflection from a planet is not confirmed.</description>
 			<discoveryyear>2014</discoveryyear>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>15/01/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 		</planet>
 	</star>
 </system>

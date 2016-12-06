@@ -7,6 +7,8 @@
 		<mass>1.4</mass>
 		<radius>1.84</radius>
 		<age>2.3</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age>4.95</age>
 		<magV>5.9</magV>
 		<magB>6.386</magB>
 		<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
@@ -17,10 +19,10 @@
 			<list>Confirmed planets</list>
 			<mass errorminus="0.12" errorplus="0.12">2.94</mass>
 			<period errorminus="4.6" errorplus="4.6">229.9</period>
-			<semimajoraxis>0.82</semimajoraxis>
+			<semimajoraxis>0.81</semimajoraxis>
 			<eccentricity errorminus="0.04" errorplus="0.04">0.35</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/06/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>413.9</temperature>
 		</planet>
@@ -32,7 +34,7 @@
 			<semimajoraxis>3.6</semimajoraxis>
 			<eccentricity>0.33</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>196.1</temperature>
 		</planet>

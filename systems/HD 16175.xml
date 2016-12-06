@@ -1,6 +1,6 @@
 <system>
 	<name>HD 16175</name>
-	<rightascension>02 37 02</rightascension>
+	<rightascension>02 37 01</rightascension>
 	<declination>+42 03 45</declination>
 	<distance>59.8</distance>
 	<star>
@@ -12,20 +12,42 @@
 		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
 		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
 		<metallicity>0.23</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.03" errorminus="0.03">0.37</metallicity>
 		<spectraltype>G0</spectraltype>
 		<planet>
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.4</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.37" errorplus="0.37">4.77</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.37" errorplus="0.37">4.77</mass>
 			<period>990</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>995.4</period>
+			<!--NASA Catalogue-->
+			<period errorplus="2.8" errorminus="2.8">995.4</period>
 			<semimajoraxis>2.1</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.076" errorplus="0.076">2.148</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.076" errorplus="0.076">2.148</semimajoraxis>
 			<eccentricity>0.59</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.02" errorminus="0.02">0.637</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.02" errorminus="0.02">0.637</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>243.7</temperature>
 		</planet>
 		<name>HD 16175</name>
 		<temperature>6000.0</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="34.0" errorminus="34.0">6022.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="34.0" errorminus="34.0">6022.0</temperature>
 	</star>
 </system>

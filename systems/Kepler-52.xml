@@ -14,7 +14,7 @@
 		<name>KIC 11754553</name>
 		<temperature errorminus="100" errorplus="100">4263</temperature>
 		<radius errorminus=".021" errorplus="0.021">0.556</radius>
-		<mass errorminus="0.0140" errorplus="0.0140">0.5770</mass>
+		<mass errorminus="0.0140" errorplus="0.0140">0.54</mass>
 		<planet>
 			<name>Kepler-52 c</name>
 			<name>KOI-775 c</name>
@@ -23,12 +23,20 @@
 			<name>KIC 11754553.01</name>
 			<radius errorminus="0.00729" errorplus="0.00729">0.15583</radius>
 			<period errorminus=".000080" errorplus="0.000080">16.384888</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>16.3850021</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.00014" errorminus="0.00014">16.3850021</period>
 			<transittime errorminus="0.0028300" errorplus="0.0028300">2455005.7279400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-52 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="10.41">10.41</mass>
+			<!--NASA Catalogue-->
+			<mass>10.41</mass>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -38,15 +46,33 @@
 			<name>KIC 11754553 b</name>
 			<name>KIC 11754553.02</name>
 			<radius errorminus="0.02005" errorplus="0.02005">0.21324</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>0.19</radius>
+			<!--NASA Catalogue-->
+			<radius>0.187</radius>
 			<period errorminus=".000020" errorplus="0.000020">7.877407</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>7.8773565</period>
+			<!--NASA Catalogue-->
+			<period errorplus="3.8e-05" errorminus="3.8e-05">7.8773565</period>
 			<transittime errorminus="0.0013600" errorplus="0.0013600">2455009.3760800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-52 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="8.7">8.7</mass>
+			<!--NASA Catalogue-->
+			<mass>8.7</mass>
 			<istransiting>1</istransiting>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.5</magV>
+		<!--NASA Catalogue-->
+		<magV>15.095</magV>
 		<planet>
 			<name>Kepler-52 d</name>
 			<name>KOI-775 d</name>
@@ -59,9 +85,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-52 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-52 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.182</semimajoraxis>
+	</planet>
 	</star>
 </system>

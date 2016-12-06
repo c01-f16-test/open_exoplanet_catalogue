@@ -19,12 +19,16 @@
 			<name>HD 106252 b</name>
 			<list>Confirmed planets</list>
 			<mass>7.56</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="25.3" errorplus="39.5">32.9</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.16" errorplus="0.16">6.92</mass>
 			<period>1600</period>
 			<semimajoraxis>2.7</semimajoraxis>
 			<eccentricity>0.47</eccentricity>
 			<inclination>166.7</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>158.8</temperature>
 		</planet>

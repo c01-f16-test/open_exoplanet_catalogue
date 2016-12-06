@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1208</name>
-	<rightascension>19 27 32</rightascension>
-	<declination>+44 33 21</declination>
+	<rightascension>19 27 31</rightascension>
+	<declination>+44 33 20.6244</declination>
 	<star>
 		<name>Kepler-1208</name>
 		<temperature errorminus="108.6" errorplus="110.9">5001.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000052350" errorplus="0.000052350">11.085076370</period>
 			<radius errorminus="0.012" errorplus="0.017">0.207</radius>
 		</planet>
+	<magV>15.938</magV>
 	</star>
-</system>
+<distance>877.0</distance>
+	</system>

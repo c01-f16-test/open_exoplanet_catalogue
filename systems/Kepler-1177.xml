@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1177</name>
 	<rightascension>19 06 41</rightascension>
-	<declination>+49 24 23</declination>
+	<declination>+49 24 22.6368</declination>
 	<star>
 		<name>Kepler-1177</name>
 		<temperature errorminus="66.7" errorplus="63.0">5712.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001822000" errorplus="0.001822000">106.247547000</period>
 			<radius errorminus="0.011" errorplus="0.014">0.170</radius>
 		</planet>
+	<magV>14.552</magV>
 	</star>
-</system>
+<distance>829.0</distance>
+	</system>

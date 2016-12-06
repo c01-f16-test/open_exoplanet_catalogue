@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1021</name>
 	<rightascension>19 40 49</rightascension>
-	<declination>+42 33 35</declination>
+	<declination>+42 33 34.8516</declination>
 	<star>
 		<name>Kepler-1021</name>
 		<temperature errorminus="144.0" errorplus="143.1">5431.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000032100" errorplus="0.000032100">13.474695710</period>
 			<radius errorminus="0.016" errorplus="0.022">0.208</radius>
 		</planet>
+	<magV>15.164</magV>
 	</star>
-</system>
+<distance>837.0</distance>
+	</system>

@@ -22,6 +22,8 @@
 		<temperature errorminus="44" errorplus="44">5829</temperature>
 		<metallicity errorminus="0.04" errorplus="0.04">0.03</metallicity>
 		<spectraltype>G0 V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G0</spectraltype>
 		<age errorminus="2.0" errorplus="2.0">8.4</age>
 		<planet>
 			<name>HD 13931 b</name>
@@ -33,7 +35,7 @@
 			<periastron errorminus="78" errorplus="78">290</periastron>
 			<periastrontime errorminus="904" errorplus="904">2454494</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>16/03/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

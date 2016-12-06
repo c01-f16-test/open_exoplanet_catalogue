@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-856</name>
-	<rightascension>19 18 25</rightascension>
-	<declination>+46 18 54</declination>
+	<rightascension>19 18 24</rightascension>
+	<declination>+46 18 53.8308</declination>
 	<star>
 		<name>Kepler-856</name>
 		<temperature errorminus="84.5" errorplus="69.5">5535.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002010" errorplus="0.000002010">8.027680590</period>
 			<radius errorminus="0.054" errorplus="0.112">0.830</radius>
 		</planet>
+	<magV>15.57</magV>
 	</star>
-</system>
+<distance>1175.0</distance>
+	</system>

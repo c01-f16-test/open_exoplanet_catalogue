@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-885</name>
-	<rightascension>19 14 39</rightascension>
-	<declination>+49 44 14</declination>
+	<rightascension>19 14 38</rightascension>
+	<declination>+49 44 13.9416</declination>
 	<star>
 		<name>Kepler-885</name>
 		<temperature errorminus="58.4" errorplus="71.2">6187.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000053080" errorplus="0.000053080">18.114729490</period>
 			<radius errorminus="0.035" errorplus="0.036">0.223</radius>
 		</planet>
+	<magV>12.841</magV>
 	</star>
-</system>
+<distance>632.0</distance>
+	</system>

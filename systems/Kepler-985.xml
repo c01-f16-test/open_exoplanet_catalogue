@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-985</name>
-	<rightascension>19 20 35</rightascension>
-	<declination>+44 02 60</declination>
+	<rightascension>19 20 34</rightascension>
+	<declination>+44 02 59.8308</declination>
 	<star>
 		<name>Kepler-985</name>
 		<temperature errorminus="61.8" errorplus="75.0">5434.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001381000" errorplus="0.001381000">116.331901000</period>
 			<radius errorminus="0.013" errorplus="0.012">0.266</radius>
 		</planet>
+	<magV>14.767</magV>
 	</star>
-</system>
+<distance>741.0</distance>
+	</system>

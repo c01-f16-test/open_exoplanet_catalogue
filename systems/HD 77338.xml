@@ -13,16 +13,22 @@
 		<magK errorminus="0.016" errorplus="0.016">6.761</magK>
 		<metallicity>0.35</metallicity>
 		<spectraltype>K0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K0IV</spectraltype>
 		<planet>
 			<name>HD 77338 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.0487583</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.025" errorplus="0.025">0.5</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.017" errorplus="0.015">0.05</mass>
 			<period>5.7361</period>
-			<semimajoraxis>0.0611</semimajoraxis>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0614</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<description>The planet HD77338 b is a Hot Uranus orbiting a super metal-rich K0V star. It was discovered by the Calan-Hertfordshire Extrasolar Planet Search.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>896.4</temperature>
 		</planet>

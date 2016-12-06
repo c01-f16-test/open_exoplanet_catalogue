@@ -19,6 +19,10 @@
 			<name>2MASS J18344782-0636440 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.45</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.16" errorplus="0.16">2.43</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.3" errorplus="0.3">2.43</mass>
 			<radius>1.02</radius>
 			<period>3.768125</period>
 			<semimajoraxis>0.0461</semimajoraxis>
@@ -26,7 +30,7 @@
 			<inclination>88.34</inclination>
 			<transittime errorminus="0.0036" errorplus="0.0036" unit="BJD">2454923.3100</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/05/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1486.4</temperature>
 			<istransiting>1</istransiting>

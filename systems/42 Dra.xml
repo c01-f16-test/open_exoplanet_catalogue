@@ -16,6 +16,10 @@
 		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius errorminus="1.00" errorplus="1.00">22.03</radius>
 		<magV>4.833</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>4.83</magV>
+		<!--NASA Catalogue-->
+		<magV>4.82</magV>
 		<magB>6.020</magB>
 		<magJ errorminus="0.234" errorplus="0.234">2.949</magJ>
 		<magH errorminus="0.196" errorplus="0.196">2.197</magH>
@@ -37,7 +41,7 @@
 			<periastrontime errorminus="3.7" errorplus="3.7">2452757.4</periastrontime>
 			<description>42 Draconis is a metal poor star.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
 	</star>

@@ -3,7 +3,7 @@
 	<name>KOI-679</name>
 	<name>KIC 7515212</name>
 	<rightascension>19 10 28</rightascension>
-	<declination>+43 08 29</declination>
+	<declination>+43 08 30.0408</declination>
 	<distance>726.97</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">11.931</magJ>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-212 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-212 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.207</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-212 b</name>
 			<name>KOI-679 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-212 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-212 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.133</semimajoraxis>
+	</planet>
+	<magV>13.178</magV>
 	</star>
 </system>

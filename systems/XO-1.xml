@@ -1,7 +1,7 @@
 <system>
 	<name>XO-1</name>
 	<rightascension>16 02 12</rightascension>
-	<declination>+28 10 11</declination>
+	<declination>+28 10 10.9999</declination>
 	<distance>200</distance>
 	<star>
 		<mass>1</mass>
@@ -26,12 +26,14 @@
 			<inclination>89.31</inclination>
 			<transittime errorminus="0.0011" errorplus="0.0011" unit="BJD">2453808.9177</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/10/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1168.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>XO-1</name>
 		<temperature>5940.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="75.0">5750.0</temperature>
 	</star>
 </system>

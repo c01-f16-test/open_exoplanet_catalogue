@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1271</name>
-	<rightascension>19 05 23</rightascension>
+	<rightascension>19 05 22</rightascension>
 	<declination>+37 24 43</declination>
 	<star>
 		<name>Kepler-1271</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000011600" errorplus="0.000011600">3.025595500</period>
 			<radius errorminus="0.014" errorplus="0.021">0.132</radius>
 		</planet>
+	<magV>13.925</magV>
 	</star>
-</system>
+<distance>885.0</distance>
+	</system>

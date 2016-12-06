@@ -3,6 +3,10 @@
 	<rightascension>08 30 15.87064</rightascension>
 	<declination>+60 43 05.4115</declination>
 	<distance errorminus="0.48" errorplus="0.48">54.91</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>56.3</distance>
+	<!--NASA Catalogue-->
+	<distance>56.31</distance>
 	<star>
 		<name>omi UMa</name>
 		<name>Omicron Ursae Majoris</name>
@@ -30,6 +34,8 @@
 		<magK>1.34</magK>
 		<metallicity errorminus="0.02" errorplus="0.02">-0.09</metallicity>
 		<spectraltype>G4 II-III</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G4II-III</spectraltype>
 		<planet>
 			<name>omi UMa b</name>
 			<name>Omicron Ursae Majoris b</name>
@@ -46,7 +52,7 @@
 			<periastrontime errorminus="170" errorplus="170">2453400</periastrontime>
 			<description>Discovered with precise Doppler measurements at Okayama Astrophysical Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
 	</star>

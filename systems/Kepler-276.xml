@@ -22,13 +22,19 @@
 			<name>KIC 3962243 c</name>
 			<name>KIC 3962243.01</name>
 			<radius errorminus="0.06379" errorplus="0.15492">0.30984</radius>
-			<period errorminus=".000323" errorplus="0.000323">31.884362</period>
+			<period errorminus=".000323" errorplus="0.000323">31.884</period>
 			<transittime errorminus="0.0053300" errorplus="0.0053300">2454993.2045100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-276 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-276 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.067" errorplus="0.0299">0.045</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.011" errorplus="0.014">0.052</mass>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -43,10 +49,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-276 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-276 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.119</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-276 d</name>
 			<name>KOI-1203 d</name>
@@ -59,9 +66,14 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-276 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-276 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0673" errorplus="0.0283">0.044</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.014" errorplus="0.016">0.051</mass>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>15.368</magV>
 	</star>
 </system>

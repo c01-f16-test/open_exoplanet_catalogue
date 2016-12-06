@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-222 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-222 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.048</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-222 d</name>
 			<name>KOI-723 d</name>
@@ -43,10 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-222 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-222 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.18</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-222 c</name>
 			<name>KOI-723 c</name>
@@ -54,14 +56,20 @@
 			<name>KIC 10002866 c</name>
 			<name>KIC 10002866.03</name>
 			<radius errorminus="0.00638" errorplus="0.18864">0.42284</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.185" errorplus="0.185">0.414</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.185" errorplus="0.185">0.414</radius>
 			<period errorminus=".000011" errorplus="0.000011">10.088810</period>
 			<transittime errorminus="0.0006100" errorplus="0.0006100">2455006.0826300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-222 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-222 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.091</semimajoraxis>
+	</planet>
+	<magV>15.063</magV>
 	</star>
 </system>

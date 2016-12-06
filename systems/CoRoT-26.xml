@@ -17,6 +17,8 @@
 		<temperature errorminus="100" errorplus="100">5590</temperature>
 		<metallicity errorminus="0.13" errorplus="0.13">0.01</metallicity>
 		<spectraltype>G5</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G8IV</spectraltype>
 		<planet>
 			<name>CoRoT-26 b</name>
 			<list>Confirmed planets</list>
@@ -28,8 +30,10 @@
 			<inclination errorminus="1.0" errorplus="2.2">86.8</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<transittime errorminus="0.0008" errorplus="0.0008" unit="HJD">2454573.6299</transittime>
-			<lastupdate>13/05/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

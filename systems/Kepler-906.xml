@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-906</name>
 	<rightascension>19 25 37</rightascension>
-	<declination>+40 07 32</declination>
+	<declination>+40 07 31.7532</declination>
 	<star>
 		<name>Kepler-906</name>
 		<temperature errorminus="62.4" errorplus="72.6">6035.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000159500" errorplus="0.000159500">41.697997600</period>
 			<radius errorminus="0.009" errorplus="0.009">0.188</radius>
 		</planet>
+	<magV>13.956</magV>
 	</star>
-</system>
+<distance>758.0</distance>
+	</system>

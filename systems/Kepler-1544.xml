@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1544</name>
 	<rightascension>19 49 08</rightascension>
-	<declination>+49 12 45</declination>
+	<declination>+49 12 44.8416</declination>
 	<star>
 		<name>Kepler-1544</name>
 		<temperature errorminus="56.6" errorplus="73.9">4886.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001271000" errorplus="0.001271000">168.811174000</period>
 			<radius errorminus="0.006" errorplus="0.008">0.159</radius>
 		</planet>
+	<magV>14.061</magV>
 	</star>
-</system>
+<distance>349.0</distance>
+	</system>

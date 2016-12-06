@@ -5,6 +5,8 @@
 	<rightascension>19 21 34.263</rightascension>
 	<declination>+40 17 05.66</declination>
 	<distance>468.1</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>464.73</distance>
 	<star>
 		<name>Kepler-109</name>
 		<name>KOI-123</name>
@@ -14,13 +16,15 @@
 		<temperature errorminus="75" errorplus="75">5952</temperature>
 		<metallicity errorminus="0.10" errorplus="0.10">-0.08</metallicity>
 		<magB>12.82</magB>
-		<magV>12.93</magV>
+		<magV>12.365</magV>
 		<magJ errorminus="0.019" errorplus="0.019">11.314</magJ>
 		<magH errorminus="0.016" errorplus="0.016">11.046</magH>
 		<magK errorminus="0.017" errorplus="0.017">11.001</magK>
 		<mass errorminus="0.06" errorplus="0.06">1.04</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.32</radius>
 		<age>5.73</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="1.05" errorplus="1.05">6.35</age>
 		<planet>
 			<name>Kepler-109 b</name>
 			<name>KOI-123.01</name>
@@ -30,15 +34,15 @@
 			<name>2MASS J19213425+4017055 b</name>
 			<period>6.48163</period>
 			<radius errorminus="0.006379" errorplus="0.006379">0.215979</radius>
-			<mass upperlimit="0.022964" />
+			<mass upperlimit="0.022964"/>
 			<transittime unit="BJD">2454955.97755</transittime>
 			<semimajoraxis errorminus="0.001" errorplus="0.001">0.069</semimajoraxis>
 			<inclination errorminus="0.1" errorplus="0.1">87.0</inclination>
-			<eccentricity upperlimit="0.30" />
+			<eccentricity upperlimit="0.30"/>
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -51,7 +55,7 @@
 			<name>2MASS J19213425+4017055 c</name>
 			<period>21.2227</period>
 			<radius errorminus="0.006379" errorplus="0.006379">0.229648</radius>
-			<mass upperlimit="0.068576" />
+			<mass upperlimit="0.068576"/>
 			<transittime unit="BJD">2454970.57250</transittime>
 			<semimajoraxis errorminus="0.003" errorplus="0.003">0.152</semimajoraxis>
 			<inclination errorminus="0.2" errorplus="0.2">89.6</inclination>
@@ -59,7 +63,7 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>

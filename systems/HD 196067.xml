@@ -1,7 +1,7 @@
 <system>
 	<name>HD 196067</name>
 	<rightascension>20 41 44</rightascension>
-	<declination>-75 21 03</declination>
+	<declination>-75 21 02.9999</declination>
 	<distance>44.3</distance>
 	<star>
 		<magV>6.02</magV>
@@ -23,11 +23,13 @@
 			<semimajoraxis>5.02</semimajoraxis>
 			<periastron>148.2</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>177.2</temperature>
 		</planet>
 		<name>HD 196067</name>
 		<temperature>5940.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="46.0" errorminus="46.0">6017.0</temperature>
 	</star>
 </system>

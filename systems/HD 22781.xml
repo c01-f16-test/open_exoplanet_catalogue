@@ -1,6 +1,6 @@
 <system>
 	<name>HD 22781</name>
-	<rightascension>03 40 50</rightascension>
+	<rightascension>03 40 49</rightascension>
 	<declination>+31 49 35</declination>
 	<distance>31.79</distance>
 	<star>
@@ -21,7 +21,7 @@
 			<semimajoraxis>1.167</semimajoraxis>
 			<eccentricity>0.8191</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/04</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>167.0</temperature>
 		</planet>

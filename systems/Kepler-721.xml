@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-721</name>
 	<rightascension>18 57 43</rightascension>
-	<declination>+44 28 50</declination>
+	<declination>+44 28 49.9224</declination>
 	<star>
 		<name>Kepler-721</name>
 		<temperature errorminus="56.1" errorplus="53.6">5075.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006770" errorplus="0.000006770">5.392025390</period>
 			<radius errorminus="0.012" errorplus="0.012">0.236</radius>
 		</planet>
+	<magV>15.651</magV>
 	</star>
-</system>
+<distance>848.0</distance>
+	</system>

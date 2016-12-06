@@ -1,7 +1,11 @@
 <system>
 	<name>CoRoT-20</name>
 	<rightascension>06 30 53</rightascension>
-	<declination>+00 13 37</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>06 30 55</rightascension>
+	<!--NASA Catalogue-->
+	<rightascension>06 30 52.90</rightascension>
+	<declination>+00 13 36.912</declination>
 	<distance errorminus="120" errorplus="120">1230</distance>
 	<star>
 		<mass errorminus="0.14" errorplus="0.14">1.14</mass>
@@ -25,12 +29,16 @@
 			<mass errorminus="0.23" errorplus="0.23">4.24</mass>
 			<radius errorminus="0.04" errorplus="0.04">0.84</radius>
 			<period>9.2</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>9.24285</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.0003" errorminus="0.0003">9.24285</period>
 			<semimajoraxis errorminus="0.0021" errorplus="0.0021">0.0902</semimajoraxis>
 			<eccentricity errorminus="0.013" errorplus="0.013">0.562</eccentricity>
 			<inclination errorminus="0.53" errorplus="0.53">88.21</inclination>
 			<transittime errorminus="0.0014" errorplus="0.0014" unit="BJD">2455266.0001</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/06/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="24" errorplus="24">1002</temperature>
 			<istransiting>1</istransiting>

@@ -15,6 +15,10 @@
 		<mass errorminus="0.06" errorplus="0.06">1.15</mass>
 		<age errorminus="1.1000" errorplus="1.1000">1.5000</age>
 		<metallicity errorminus="0.09" errorplus="0.09">0.23</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>13.642</magV>
+		<!--NASA Catalogue-->
+		<magV>13.435</magV>
 		<planet>
 			<name>Kepler-422 b</name>
 			<name>KOI-22 b</name>
@@ -31,7 +35,7 @@
 			<description>Kepler-422 b was initially flagged as a potential planet candidate by the Kepler team, which is why the planet is also known as KOI-22 b. Follow-up observations have confirmed the planetary nature of the object and were able to measure its mass.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/09/30</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

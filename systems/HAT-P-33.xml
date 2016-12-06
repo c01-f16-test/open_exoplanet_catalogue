@@ -13,6 +13,10 @@
 			<mass>1.403</mass>
 			<radius>1.777</radius>
 			<magV errorminus="0.11" errorplus="0.11">11.03</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>11.89</magV>
+			<!--NASA Catalogue-->
+			<magV>11.188</magV>
 			<magB errorminus="0.12" errorplus="0.12">11.66</magB>
 			<magR errorminus="0.07" errorplus="0.07">11.10</magR>
 			<magJ errorminus="0.021" errorplus="0.021">10.263</magJ>
@@ -34,10 +38,12 @@
 				<eccentricity>0.148</eccentricity>
 				<inclination>86.7</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>1675.2</temperature>
 				<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2455110.92595</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.00023" errorplus="0.00023">2455100.50255</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

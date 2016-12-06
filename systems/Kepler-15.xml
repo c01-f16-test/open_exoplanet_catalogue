@@ -27,11 +27,14 @@
 			<transittime errorminus="0.000096" errorplus="0.000084" unit="BJD">2454969.328651</transittime>
 			<description>Kepler-15b is a planet discovered by NASA's Kepler mission and confirmed by the Hobby-Eberly Telescope. The density of the planet is high, suggesting an enrichment in heavy elements.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1027.9</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1225.0</temperature>
 			<istransiting>1</istransiting>
-		</planet>
+		<eccentricity>0.06</eccentricity>
+	</planet>
 		<name>Kepler-15</name>
 		<name>KOI-128</name>
 		<name>KIC 11359879</name>

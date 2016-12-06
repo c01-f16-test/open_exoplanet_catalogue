@@ -1,12 +1,18 @@
 <system>
 	<name>YBP1194</name>
 	<rightascension>08 51 00.807</rightascension>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>08 51 01</rightascension>
 	<declination>+11 48 52.76</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>+11 48 53.0001</declination>
 	<distance errorminus="50" errorplus="50">850</distance>
 	<star>
 		<name>YBP1194</name>
 		<magB>15.28</magB>
 		<magV>14.61</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>14.6</magV>
 		<magR>14.100</magR>
 		<magJ errorminus="0.024" errorplus="0.024">13.366</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.041</magH>
@@ -26,7 +32,7 @@
 			<periastron errorminus="25.68" errorplus="25.68">98.62</periastron>
 			<description>The star YBP1194 is one of the best solar twins identified so far. Its composition and age is very similar to that of our own Sun. It is located in the star cluster M67 and hosts a 0.34 Jupiter mass planet. The frequency of massive planets around stars of open clusters such as M67 turns out to be very similar to that of field stars.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

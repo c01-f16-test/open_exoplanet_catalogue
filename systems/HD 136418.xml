@@ -1,7 +1,7 @@
 <system>
 	<name>HD 136418</name>
 	<rightascension>15 19 07</rightascension>
-	<declination>+41 44 00</declination>
+	<declination>+41 43 59.9999</declination>
 	<distance>98.2</distance>
 	<star>
 		<mass>1.33</mass>
@@ -20,7 +20,7 @@
 			<semimajoraxis>1.32</semimajoraxis>
 			<eccentricity>0.255</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>357.4</temperature>
 		</planet>

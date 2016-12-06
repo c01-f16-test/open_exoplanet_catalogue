@@ -1,6 +1,8 @@
 <system>
 	<name>HAT-P-30</name>
 	<rightascension>08 15 48</rightascension>
+	<!--NASA Catalogue-->
+	<rightascension>08 15 47.97</rightascension>
 	<declination>+05 50 12</declination>
 	<distance errorminus="8" errorplus="8">193</distance>
 	<binary>
@@ -16,6 +18,8 @@
 			<radius errorminus="0.051" errorplus="0.051">1.215</radius>
 			<temperature errorminus="88" errorplus="88">6304</temperature>
 			<magV errorminus="0.05" errorplus="0.05">10.35</magV>
+			<!--NASA Catalogue-->
+			<magV>10.419</magV>
 			<magB errorminus="0.06" errorplus="0.06">10.95</magB>
 			<magJ errorminus="0.026" errorplus="0.026">9.442</magJ>
 			<magH errorminus="0.028" errorplus="0.028">9.220</magH>
@@ -40,7 +44,7 @@
 				<inclination errorminus="0.4" errorplus="0.4">83.6</inclination>
 				<description>This exoplanet is transiting the dwarf star GSC 0208-00722. The sky projection of the planet's orbit normal and the star's spin axis is 73.5 degrees.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/24</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>1552.5</temperature>
 				<transittime errorminus="0.00037" errorplus="0.00037" unit="BJD">2455456.46561</transittime>

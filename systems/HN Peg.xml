@@ -27,7 +27,11 @@
 			<magK errorminus="0.03" errorplus="0.03">15.12</magK>
 			<temperature errorminus="70" errorplus="70">1130</temperature>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/04/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="15.0" errorplus="15.0">795.0</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="13.0" errorplus="13.0">773.0</semimajoraxis>
 			<discoveryyear>2007</discoveryyear>
 		</planet>
 		<name>HN Peg</name>

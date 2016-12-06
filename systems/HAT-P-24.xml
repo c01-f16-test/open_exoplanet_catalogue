@@ -2,6 +2,10 @@
 	<name>HAT-P-24</name>
 	<rightascension>07 15 18</rightascension>
 	<declination>+14 15 44</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>+14 15 43.9999</declination>
+	<!--NASA Catalogue-->
+	<declination>+14 15 45.4</declination>
 	<distance errorminus="20" errorplus="20">396</distance>
 	<binary>
 		<name>HAT-P-24</name>
@@ -15,6 +19,10 @@
 			<mass errorminus="0.042" errorplus="0.042">1.191</mass>
 			<radius>1.317</radius>
 			<magV errorminus="0.016" errorplus="0.016">11.76</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>11.82</magV>
+			<!--NASA Catalogue-->
+			<magV>11.818</magV>
 			<magB errorminus="0.17" errorplus="0.17">12.21</magB>
 			<magR errorminus="0.05" errorplus="0.05">11.71</magR>
 			<magJ errorminus="0.022" errorplus="0.022">10.797</magJ>
@@ -36,7 +44,7 @@
 				<eccentricity>0.067</eccentricity>
 				<inclination>88.6</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>1495.0</temperature>
 				<transittime errorminus="0.00024" errorplus="0.00024" unit="BJD">2455216.97669</transittime>

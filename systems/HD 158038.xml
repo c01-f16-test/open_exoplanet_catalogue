@@ -3,6 +3,10 @@
 	<rightascension>17 25 45</rightascension>
 	<declination>+27 18 12</declination>
 	<distance>103</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>103.6</distance>
+	<!--NASA Catalogue-->
+	<distance>114.15</distance>
 	<star>
 		<mass>1.65</mass>
 		<radius>4.8</radius>
@@ -13,16 +17,22 @@
 		<magK errorminus="0.027" errorplus="0.027">5.156</magK>
 		<metallicity>0.28</metallicity>
 		<spectraltype>K0</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K2III</spectraltype>
 		<planet>
 			<name>HD 158038 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.8</mass>
 			<period>521</period>
 			<semimajoraxis>1.48</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.52</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.04" errorplus="0.04">1.52</semimajoraxis>
 			<eccentricity>0.291</eccentricity>
 			<description>The star HD 158038 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>381.6</temperature>
 		</planet>

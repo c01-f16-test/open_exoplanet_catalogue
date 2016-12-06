@@ -1,6 +1,6 @@
 <system>
 	<name>HD 171238</name>
-	<rightascension>18 34 44</rightascension>
+	<rightascension>18 34 43</rightascension>
 	<declination>-28 04 20</declination>
 	<distance>50.28</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>2.54</semimajoraxis>
 			<eccentricity>0.4</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>152.4</temperature>
 		</planet>

@@ -1,6 +1,6 @@
 <system>
 	<name>HAT-P-39</name>
-	<rightascension>07 35 02</rightascension>
+	<rightascension>07 35 01</rightascension>
 	<declination>+17 49 48</declination>
 	<distance>642</distance>
 	<star>
@@ -24,7 +24,7 @@
 			<inclination>87.0</inclination>
 			<description>HAT-P-39 b is a highly inflated hot Jupiter. It has been discovered by the HATNet collaboration. These planets might be inflated because some of the stellar irradiation is somehow transported into the planetary interior. Excess energy could also be injected into the interior by tides if the planet was initially on an eccentric orbit.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/16</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1601.9</temperature>
 			<transittime errorminus="0.00041" errorplus="0.00041" unit="BJD">2455208.75049</transittime>

@@ -1,7 +1,7 @@
 <system>
 	<name>HAT-P-14</name>
 	<rightascension>17 20 28</rightascension>
-	<declination>+38 14 32</declination>
+	<declination>+38 14 31.9999</declination>
 	<distance>205</distance>
 	<binary>
 		<name>HAT-P-14</name>
@@ -36,10 +36,12 @@
 				<inclination>83.2</inclination>
 				<description>The bright F-star HAT-P-14 is located in the constellation Hercules. It is more than twice as massive as our Sun.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/05/29</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>1445.9</temperature>
 				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.00027" errorplus="0.00027">2455134.43856</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

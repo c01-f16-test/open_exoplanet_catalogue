@@ -8,7 +8,7 @@
 		<name>YBP1514</name>
 		<name>NGC 2682 YBP 1514</name>
 		<magB>15.50</magB>
-		<magV>14.78</magV>
+		<magV>14.77</magV>
 		<magR>14.300</magR>
 		<magJ errorminus="0.024" errorplus="0.024">13.474</magJ>
 		<magH errorminus="0.023" errorplus="0.023">13.157</magH>
@@ -29,7 +29,7 @@
 			<periastron errorminus="16.05" errorplus="16.05">327.49</periastron>
 			<description>YBP1514 is a main sequence star in the open star cluster M67. It hosts a 0.4 Jupiter mass planet. The star cluster is between 3.2 and 5 billion years old and contains many stars with ages and compositions similar to that of our own Sun.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/01/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

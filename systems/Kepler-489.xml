@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-489</name>
-	<rightascension>19 23 20</rightascension>
-	<declination>+38 11 04</declination>
+	<rightascension>19 23 19</rightascension>
+	<declination>+38 11 03.6024</declination>
 	<star>
 		<name>Kepler-489</name>
 		<temperature errorminus="58.3" errorplus="70.5">5014.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002450" errorplus="0.000002450">17.276296120</period>
 			<radius errorminus="0.018" errorplus="0.015">0.689</radius>
 		</planet>
+	<magV>14.018</magV>
 	</star>
-</system>
+<distance>379.0</distance>
+	</system>

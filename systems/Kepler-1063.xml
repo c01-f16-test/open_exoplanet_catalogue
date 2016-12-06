@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1063</name>
 	<rightascension>19 22 06</rightascension>
-	<declination>+38 08 35</declination>
+	<declination>+38 08 34.7028</declination>
 	<star>
 		<name>Kepler-1063</name>
 		<temperature errorminus="155.4" errorplus="188.8">5945.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000028710" errorplus="0.000028710">14.079714660</period>
 			<radius errorminus="0.017" errorplus="0.036">0.133</radius>
 		</planet>
+	<magV>12.261</magV>
 	</star>
-</system>
+<distance>365.0</distance>
+	</system>

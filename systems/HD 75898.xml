@@ -1,7 +1,7 @@
 <system>
 	<name>HD 75898</name>
 	<rightascension>08 53 51</rightascension>
-	<declination>+33 03 25</declination>
+	<declination>+33 03 24.9998</declination>
 	<distance>80.58</distance>
 	<star>
 		<mass>1.28</mass>
@@ -22,7 +22,7 @@
 			<semimajoraxis>1.19</semimajoraxis>
 			<eccentricity>0.1</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>307.6</temperature>
 		</planet>

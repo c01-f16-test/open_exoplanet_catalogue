@@ -2,6 +2,10 @@
 	<name>HAT-P-5</name>
 	<rightascension>18 17 37</rightascension>
 	<declination>+36 37 18</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-21 28 55.0001</declination>
+	<!--NASA Catalogue-->
+	<declination>+36 37 17.1</declination>
 	<distance>340</distance>
 	<star>
 		<spectraltype>G</spectraltype>
@@ -27,7 +31,7 @@
 			<inclination>86.75</inclination>
 			<transittime errorminus="0.00022" errorplus="0.00022" unit="BJD">2454241.77663</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/05/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1387.4</temperature>
 			<istransiting>1</istransiting>

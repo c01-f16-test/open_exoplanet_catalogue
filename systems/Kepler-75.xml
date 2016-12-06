@@ -20,7 +20,15 @@
 		<mass errorminus="0.04" errorplus="0.04">0.91</mass>
 		<age errorminus="2.8" errorplus="3.5">6.2</age>
 		<metallicity errorminus="0.12" errorplus="0.12">0.30</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.15" errorminus="0.15">-0.07</metallicity>
 		<spectraltype>K0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G8V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>15.264</magV>
 		<planet>
 			<name>Kepler-75 b</name>
 			<name>KOI-889 b</name>
@@ -30,6 +38,8 @@
 			<radius errorminus="0.03" errorplus="0.03">1.05</radius>
 			<period errorminus="0.0000034" errorplus="0.0000034">8.8849116</period>
 			<transittime errorminus="0.00012" errorplus="0.00012">2455740.44030</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0002" errorplus="0.0002">2455002.991</transittime>
 			<mass errorminus="0.4" errorplus="0.4">10.1</mass>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0818</semimajoraxis>
 			<inclination errorminus="0.64" errorplus="0.51">89.12</inclination>
@@ -38,7 +48,7 @@
 			<description>This planet was discovered with the Kepler telescope and confirmed with the SOPHIE and HARPS-N spectrographs. The planet is on a very eccentric orbit and at the boundary between regimes where the tides from the host star can explain circularization and where tidal effects are negligible.</description>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

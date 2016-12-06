@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1643</name>
 	<rightascension>20 01 43</rightascension>
-	<declination>+44 45 04</declination>
+	<declination>+44 45 03.6396</declination>
 	<star>
 		<name>Kepler-1643</name>
 		<temperature errorminus="48.8" errorplus="58.7">5508.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000021770" errorplus="0.000021770">5.342645070</period>
 			<radius errorminus="0.013" errorplus="0.022">0.205</radius>
 		</planet>
+	<magV>13.116</magV>
 	</star>
-</system>
+<distance>414.0</distance>
+	</system>

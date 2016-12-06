@@ -3,6 +3,8 @@
 	<name>KOI-305</name>
 	<name>KIC 6063220</name>
 	<rightascension>19 49 25</rightascension>
+	<!--NASA Catalogue-->
+	<rightascension>19 49 24.96</rightascension>
 	<declination>+41 18 00</declination>
 	<distance>221.3</distance>
 	<star>
@@ -28,9 +30,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>12.97</magV>
 	</star>
 </system>

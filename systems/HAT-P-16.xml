@@ -12,8 +12,16 @@
 			<name>HAT-P-16 A</name>
 			<mass errorminus="0.055" errorplus="0.055">1.216</mass>
 			<radius errorminus="0.025" errorplus="0.025">1.158</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.054" errorplus="0.054">1.237</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.05" errorplus="0.05">1.24</radius>
 			<temperature errorminus="72" errorplus="72">6140</temperature>
 			<magV errorminus="0.06" errorplus="0.06">10.91</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>10.8</magV>
+			<!--NASA Catalogue-->
+			<magV>10.812</magV>
 			<magB errorminus="0.06" errorplus="0.06">11.38</magB>
 			<magJ errorminus="0.022" errorplus="0.022">9.850</magJ>
 			<magH errorminus="0.022" errorplus="0.022">9.623</magH>
@@ -26,15 +34,29 @@
 				<list>Confirmed planets</list>
 				<mass errorminus="0.128" errorplus="0.128">4.193</mass>
 				<radius errorminus="0.037" errorplus="0.037">1.190</radius>
+				<!--Exoplanet.eu Catalogue-->
+				<radius errorminus="0.066" errorplus="0.066">1.289</radius>
+				<!--NASA Catalogue-->
+				<radius errorminus="0.066" errorplus="0.066">1.289</radius>
 				<period errorminus="0.0000015" errorplus="0.0000015">2.7759712</period>
+				<!--Exoplanet.eu Catalogue-->
+				<period>2.77596</period>
+				<!--NASA Catalogue-->
+				<period errorplus="3e-06" errorminus="3e-06">2.77596</period>
 				<semimajoraxis errorminus="0.00062" errorplus="0.00062">0.04130</semimajoraxis>
 				<eccentricity errorminus="0.004" errorplus="0.004">0.036</eccentricity>
 				<inclination errorminus="0.59" errorplus="0.59">87.74</inclination>
+				<!--Exoplanet.eu Catalogue-->
+				<inclination errorplus="0.7" errorminus="0.7">86.6</inclination>
+				<!--NASA Catalogue-->
+				<inclination errorplus="0.7" errorminus="0.7">86.6</inclination>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>14/11/05</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature errorminus="22" errorplus="22">1567</temperature>
 				<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455027.59821</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.00031" errorplus="0.00031">2455027.59293</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

@@ -16,6 +16,10 @@
 		<temperature errorminus="112" errorplus="112">3748</temperature>
 		<metallicity errorminus="0.14" errorplus="0.14">0.16</metallicity>
 		<age errorminus="0.7" errorplus="0.8">4.4</age>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.467</magV>
 		<planet>
 			<name>Kepler-438 b</name>
 			<name>KOI-3284.01</name>
@@ -27,11 +31,15 @@
 			<transittime errorminus="0.0032" errorplus="0.0044" unit="BJD">2455673.0307</transittime>
 			<semimajoraxis errorminus="0.042" errorplus="0.051">0.166</semimajoraxis>
 			<inclination errorminus="0.32" errorplus="0.14">89.86</inclination>
-			<eccentricity lowerlimit="0.03" />
+			<eccentricity lowerlimit="0.03"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.03" errorminus="0.1">0.03</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.1" errorminus="0.03">0.03</eccentricity>
 			<description>This planet has been discovered by the Kepler spacecraft. The results were announced at the AAS meeting in 2015. This planet is one of the most Earth-like planets discovered to date.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

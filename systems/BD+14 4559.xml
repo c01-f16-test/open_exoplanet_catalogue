@@ -32,8 +32,9 @@
 			<periastron errorminus="7.87" errorplus="7.87">87.64</periastron>
 			<periastrontime errorminus="6.35" errorplus="6.35">245294.21</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
+	<radius errorminus="0.2" errorplus="0.2">0.95</radius>
 	</star>
 </system>

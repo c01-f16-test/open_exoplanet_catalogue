@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-798</name>
-	<rightascension>19 29 55</rightascension>
+	<rightascension>19 29 54</rightascension>
 	<declination>+42 08 32</declination>
 	<star>
 		<name>Kepler-798</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000057340" errorplus="0.000057340">13.719333690</period>
 			<radius errorminus="0.030" errorplus="0.093">0.213</radius>
 		</planet>
+	<magV>14.2</magV>
 	</star>
-</system>
+<distance>1085.0</distance>
+	</system>

@@ -1,11 +1,19 @@
 <system>
 	<name>HAT-P-1</name>
-	<rightascension>22 57 47</rightascension>
+	<rightascension>22 57 46</rightascension>
 	<declination>+38 40 30</declination>
 	<distance>139</distance>
 	<star>
 		<mass>1.133</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.052" errorminus="0.052">1.151</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">1.15</mass>
 		<radius>1.115</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.03" errorplus="0.03">1.174</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.03" errorplus="0.03">1.17</radius>
 		<magV>10.4</magV>
 		<magB>11.0</magB>
 		<magJ errorminus="0.026" errorplus="0.026">9.156</magJ>
@@ -13,25 +21,55 @@
 		<magK errorminus="0.018" errorplus="0.018">8.858</magK>
 		<metallicity>0.13</metallicity>
 		<spectraltype>G0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>GOV</spectraltype>
 		<planet>
 			<name>HAT-P-1 b</name>
 			<name>BD+37 4734s b</name>
 			<name>SAO 72884 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.524</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.019" errorplus="0.019">0.525</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.019" errorplus="0.019">0.525</mass>
 			<radius>1.217</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.019" errorplus="0.019">1.319</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.019" errorplus="0.019">1.319</radius>
 			<period>4.4652934</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>4.46529976</period>
+			<!--NASA Catalogue-->
+			<period errorplus="5.5e-07" errorminus="5.5e-07">4.46529976</period>
 			<semimajoraxis>0.05535</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.00083" errorplus="0.00083">0.05561</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00083" errorplus="0.00082">0.05561</semimajoraxis>
 			<eccentricity>0.067</eccentricity>
 			<inclination>86.28</inclination>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.056" errorminus="0.056">85.634</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.056" errorminus="0.056">85.634</inclination>
 			<transittime errorminus="0.00072" errorplus="0.00072" unit="BJD">2454363.94726</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00024" errorplus="0.00024">2453979.93202</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/02/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1182.1</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1322.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>HAT-P-1</name>
 		<temperature>5975.0</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="49.0" errorminus="49.0">5980.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="49.0" errorminus="49.0">5980.0</temperature>
 	</star>
 </system>

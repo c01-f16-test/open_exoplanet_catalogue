@@ -2,6 +2,10 @@
 	<name>HR 810</name>
 	<rightascension>02 42 31</rightascension>
 	<declination>-50 48 12</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-50 48 11.9999</declination>
+	<!--NASA Catalogue-->
+	<declination>-50 48 01.1</declination>
 	<distance>17.17</distance>
 	<star>
 		<mass>1.11</mass>
@@ -22,7 +26,7 @@
 			<semimajoraxis>0.925</semimajoraxis>
 			<eccentricity>0.161</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>373.3</temperature>
 		</planet>

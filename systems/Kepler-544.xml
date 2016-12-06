@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-544</name>
-	<rightascension>19 36 07</rightascension>
-	<declination>+39 03 07</declination>
+	<rightascension>19 36 06</rightascension>
+	<declination>+39 03 06.6456</declination>
 	<star>
 		<name>Kepler-544</name>
 		<temperature errorminus="58.7" errorplus="68.1">6206.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000080950" errorplus="0.000080950">21.416169260</period>
 			<radius errorminus="0.012" errorplus="0.017">0.189</radius>
 		</planet>
+	<magV>13.542</magV>
 	</star>
-</system>
+<distance>797.0</distance>
+	</system>

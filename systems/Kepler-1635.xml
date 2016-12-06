@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1635</name>
-	<rightascension>19 01 24</rightascension>
+	<rightascension>19 01 23</rightascension>
 	<declination>+45 33 22</declination>
 	<star>
 		<name>Kepler-1635</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.012460000" errorplus="0.012460000">469.631110000</period>
 			<radius errorminus="0.060" errorplus="0.029">0.325</radius>
 		</planet>
+	<magV>15.696</magV>
 	</star>
-</system>
+<distance>1084.0</distance>
+	</system>

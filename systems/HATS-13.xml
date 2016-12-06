@@ -31,8 +31,12 @@
 			<inclination errorminus="0.43" errorplus="0.43">88.55</inclination>
 			<description>HATS-13 b is a transiting planet that was discovered by the HATSouth survey.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/03/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.18">0.18</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.181</eccentricity>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

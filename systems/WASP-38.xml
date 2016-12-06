@@ -4,8 +4,12 @@
 	<declination>+10 01 57</declination>
 	<distance>110</distance>
 	<star>
-		<mass>1.23</mass>
+		<mass errorplus="0.041" errorminus="0.041">1.216</mass>
 		<radius>1.35</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.041" errorplus="0.041">1.365</radius>
+		<!--NASA Catalogue-->
+		<radius errorplus="0.03">1.33</radius>
 		<magV>9.42</magV>
 		<magB errorminus="0.028" errorplus="0.028">9.866</magB>
 		<magR errorminus="0.04" errorplus="0.04">9.22</magR>
@@ -15,6 +19,8 @@
 		<metallicity>-0.12</metallicity>
 		<spectraltype>F8</spectraltype>
 		<age>3.41</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age errorminus="nan" errorplus="inf">5.0</age>
 		<planet>
 			<name>WASP-38 b</name>
 			<name>HD 146389 b</name>
@@ -23,15 +29,43 @@
 			<name>BD+10 2980 b</name>
 			<list>Confirmed planets</list>
 			<mass>2.71</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.065" errorplus="0.065">2.712</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.058" errorplus="0.058">2.691</mass>
 			<radius>1.09</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.044" errorplus="0.044">1.079</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.028" errorplus="0.029">1.094</radius>
 			<period>6.87188</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>6.871815</period>
+			<!--NASA Catalogue-->
+			<period errorplus="4.5e-05" errorminus="4.2e-05">6.871815</period>
 			<semimajoraxis>0.0758</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.00085" errorplus="0.00085">0.07551</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00075" errorplus="0.00074">0.07522</semimajoraxis>
 			<eccentricity>0.028</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.0044" errorminus="0.0044">0.0321</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.0046" errorminus="0.0041">0.0314</eccentricity>
 			<inclination>89.5</inclination>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.55" errorminus="0.55">88.69</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.3" errorminus="0.25">88.69</inclination>
 			<periastron>-22.2</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="-16.0" errorminus="-16.0">341.0</periastron>
 			<transittime errorminus="0.00074" errorplus="0.00074" unit="BJD">2455335.92127</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00074" errorplus="0.00074">2455335.9205</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/03/30</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<spinorbitalignment>7.5</spinorbitalignment>
 			<temperature>1152.9</temperature>

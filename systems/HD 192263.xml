@@ -1,7 +1,7 @@
 <system>
 	<name>HD 192263</name>
 	<rightascension>20 14 00</rightascension>
-	<declination>-00 52 01</declination>
+	<declination>-00 52 00.9998</declination>
 	<distance>19.9</distance>
 	<star>
 		<mass>0.81</mass>
@@ -20,7 +20,7 @@
 			<semimajoraxis>0.15312</semimajoraxis>
 			<eccentricity>0.008</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/06/12</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>484.5</temperature>
 		</planet>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-665</name>
 	<rightascension>19 48 06</rightascension>
-	<declination>+48 28 43</declination>
+	<declination>+48 28 42.9456</declination>
 	<star>
 		<name>Kepler-665</name>
 		<temperature errorminus="87.0" errorplus="93.8">4913.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000043080" errorplus="0.000043080">16.013102050</period>
 			<radius errorminus="0.013" errorplus="0.013">0.232</radius>
 		</planet>
+	<magV>15.39</magV>
 	</star>
-</system>
+<distance>651.0</distance>
+	</system>

@@ -14,7 +14,7 @@
 		<name>KIC 3661886</name>
 		<temperature errorminus="28" errorplus="128">5949</temperature>
 		<radius errorminus=".229" errorplus="0.229">1.224</radius>
-		<mass errorminus="0.0960" errorplus="0.0960">1.1040</mass>
+		<mass errorminus="0.0960" errorplus="0.0960">0.88</mass>
 		<planet>
 			<name>Kepler-377 c</name>
 			<name>KOI-2279 c</name>
@@ -27,10 +27,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-377 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-377 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.182</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-377 b</name>
 			<name>KOI-2279 b</name>
@@ -43,9 +44,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-377 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-377 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.109</semimajoraxis>
+	</planet>
+	<magV>13.86</magV>
 	</star>
 </system>

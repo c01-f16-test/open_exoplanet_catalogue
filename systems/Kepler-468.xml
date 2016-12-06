@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-468</name>
-	<rightascension>19 15 37</rightascension>
-	<declination>+49 22 14</declination>
+	<rightascension>19 15 36</rightascension>
+	<declination>+49 22 13.7532</declination>
 	<star>
 		<name>Kepler-468</name>
 		<temperature errorminus="68.1" errorplus="60.9">5498.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000004850" errorplus="0.000004850">38.478757070</period>
 			<radius errorminus="0.026" errorplus="0.029">1.190</radius>
 		</planet>
+	<magV>13.779</magV>
 	</star>
-</system>
+<distance>474.0</distance>
+	</system>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1338</name>
 	<rightascension>18 56 10</rightascension>
-	<declination>+41 41 57</declination>
+	<declination>+41 41 56.9004</declination>
 	<star>
 		<name>Kepler-1338</name>
 		<temperature errorminus="138.7" errorplus="114.5">5909.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002760" errorplus="0.000002760">0.935118060</period>
 			<radius errorminus="0.009" errorplus="0.017">0.082</radius>
 		</planet>
+	<magV>13.615</magV>
 	</star>
-</system>
+<distance>619.0</distance>
+	</system>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-837</name>
 	<rightascension>19 00 59</rightascension>
-	<declination>+45 57 01</declination>
+	<declination>+45 57 00.702</declination>
 	<star>
 		<name>Kepler-837</name>
 		<temperature errorminus="58.5" errorplus="59.0">5403.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000042930" errorplus="0.000042930">16.560595040</period>
 			<radius errorminus="0.038" errorplus="0.020">0.228</radius>
 		</planet>
+	<magV>15.198</magV>
 	</star>
-</system>
+<distance>846.0</distance>
+	</system>

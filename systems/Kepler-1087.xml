@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1087</name>
-	<rightascension>19 39 55</rightascension>
+	<rightascension>19 39 54</rightascension>
 	<declination>+46 00 20</declination>
 	<star>
 		<name>Kepler-1087</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000001590" errorplus="0.000001590">0.693842850</period>
 			<radius errorminus="0.004" errorplus="0.015">0.054</radius>
 		</planet>
+	<magV>12.953</magV>
 	</star>
-</system>
+<distance>354.0</distance>
+	</system>

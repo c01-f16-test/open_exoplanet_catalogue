@@ -15,9 +15,13 @@
 			<list>Confirmed planets</list>
 			<mass>6.5</mass>
 			<period>9855</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>14600.0</period>
+			<!--NASA Catalogue-->
+			<period errorplus="2737.5" errorminus="2737.5">10037.5</period>
 			<semimajoraxis>2.6</semimajoraxis>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/03/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<image>CFBDS 1458</image>
 			<imagedescription>This image shows the binary CFBDSIR J1458+1013AB. It was obtained with the Keck II Telescope in Hawaii. This is the coolest brown dwarf (or exoplanet, depending on the precise mass) found yet. Credit: Michael Liu (University of Hawaii).</imagedescription>

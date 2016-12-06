@@ -11,6 +11,8 @@
 		<magH errorminus="0.034" errorplus="0.034">6.719</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.646</magK>
 		<spectraltype>G3 IV/V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G3IV</spectraltype>
 		<metallicity>-0.12</metallicity>
 		<mass>0.94</mass>
 		<age>4.4</age>
@@ -25,7 +27,7 @@
 			<periastron>134</periastron>
 			<semimajoraxis>3.25</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>137.7</temperature>
 		</planet>

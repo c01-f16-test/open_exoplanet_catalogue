@@ -1,6 +1,6 @@
 <system>
 	<name>HD 16417</name>
-	<rightascension>02 36 59</rightascension>
+	<rightascension>02 36 58</rightascension>
 	<declination>-34 34 41</declination>
 	<distance>25.5</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>0.14</semimajoraxis>
 			<eccentricity>0.2</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/02/25</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>875.5</temperature>
 		</planet>

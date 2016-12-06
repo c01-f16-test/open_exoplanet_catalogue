@@ -34,8 +34,9 @@
 			<description>WASP-120 b was discovered by the Wide Angle Search for Planets (WASP)-South survey and is a massive (5.0MJup) planet in a 3.6-day orbit around an F5 star.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/09/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>
-</system>
+<distance>437.0</distance>
+	</system>

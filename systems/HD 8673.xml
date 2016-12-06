@@ -3,6 +3,10 @@
 	<rightascension>01 26 08</rightascension>
 	<declination>+34 34 46</declination>
 	<distance errorminus="0.5" errorplus="0.5">36.1</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>38.25</distance>
+	<!--NASA Catalogue-->
+	<distance>38.26</distance>
 	<binary>
 		<name>HD 8673</name>
 		<positionangle errorminus="0.57" errorplus="0.57">333.4</positionangle>
@@ -10,7 +14,11 @@
 		<separation unit="AU">11</separation>
 		<star>
 			<mass>1.312</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorplus="0.1" errorminus="0.1">1.35</mass>
 			<radius>1.54</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.1" errorplus="0.1">1.39</radius>
 			<magV>7.57</magV>
 			<magB>6.78</magB>
 			<magR>6.1</magR>
@@ -28,18 +36,20 @@
 				<semimajoraxis>3.02</semimajoraxis>
 				<eccentricity>0.723</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>10/06/24</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>194.3</temperature>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<name>HD 8673 A</name>
 			<temperature>6413.0</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature errorplus="51.0" errorminus="51.0">6472.0</temperature>
 		</star>
 		<star>
 			<name>HD 8673 B</name>
-			<temperature lowerlimit="3520" upperlimit="3690" />
-			<mass lowerlimit="0.33" upperlimit="0.45" />
+			<temperature lowerlimit="3520" upperlimit="3690"/>
+			<mass lowerlimit="0.33" upperlimit="0.45"/>
 			<magJ>10.00</magJ>
 			<magH>9.42</magH>
 			<magK>9.29</magK>

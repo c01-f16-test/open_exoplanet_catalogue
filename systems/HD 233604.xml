@@ -10,6 +10,10 @@
 		<name>2MASS J16002294+1532491</name>
 		<magB errorminus="0.09" errorplus="0.09">11.33</magB>
 		<magV errorminus="0.05" errorplus="0.05">10.29</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>10.41</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.049" errorplus="0.049">10.406</magV>
 		<magJ errorminus="0.046" errorplus="0.046">8.660</magJ>
 		<magH errorminus="0.018" errorplus="0.018">8.131</magH>
 		<magK errorminus="0.021" errorplus="0.021">7.979</magK>
@@ -30,7 +34,7 @@
 			<periastron errorminus="43" errorplus="43">281</periastron>
 			<description>The 6 Jupiter mass planet HD 233604 b is one of the least distant planets to a giant star. The star shows a high 7Li abundance which may be either a sign of its early evolutionary stage or a recent engulfment of another planet in the system. The planet was found by the Penn State - Torun Planet Search (PTPS).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

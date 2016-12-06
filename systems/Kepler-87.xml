@@ -23,17 +23,29 @@
 			<radius errorminus="0.05" errorplus="0.05">1.20</radius>
 			<mass errorminus="0.03" errorplus="0.03">1.02</mass>
 			<period errorminus="0.0005" errorplus="0.0005">114.7309</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>114.73709</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.00015" errorminus="0.00015">114.73635</period>
 			<transittime errorminus="0.0013000" errorplus="0.0013000">2454998.1507000</transittime>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">0.471</semimajoraxis>
 			<eccentricity errorminus="0.009" errorplus="0.009">0.036</eccentricity>
 			<temperature errorminus="4.3" errorplus="4.3">478.1</temperature>
 			<description>The Kepler-87 system consists of at least two planets which have been confirmed using transit timing variations (TTV). There might be two more planets in the system which have not been confirmed yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.034" errorminus="0.034">89.274</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.034" errorminus="0.03">89.274</inclination>
 			<istransiting>1</istransiting>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.6</magV>
 		<planet>
 			<name>Kepler-87 c</name>
 			<name>KOI-1574 c</name>
@@ -48,9 +60,15 @@
 			<temperature errorminus="3.6" errorplus="3.6">403.3</temperature>
 			<description>The Kepler-87 system consists of at least two planets. The planets have been confirmed using transit timing variations (TTV). Kepler-87 c is the lowest density planet in the super-Earth range.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<list>Confirmed planets</list>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorplus="0.031" errorminus="0.031">89.588</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.031" errorminus="0.027">89.588</inclination>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

@@ -31,12 +31,20 @@
 			<name>TYC 4494-1346-1 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.0016" errorplus="0.0016">0.029</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0017" errorplus="0.0017">0.0273</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.0016" errorplus="0.00164">0.02731</mass>
 			<period errorminus="0.00025" errorplus="0.00025">5.39792</period>
 			<periastrontime errorminus="0.110" errorplus="0.086" unit="BJD">2455586.38</periastrontime>
 			<semimajoraxis errorminus="0.00069" errorplus="0.00067">0.05664</semimajoraxis>
 			<eccentricity>0.17</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.04" errorminus="0.056">0.058</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.056" errorminus="0.04">0.058</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature errorminus="6.5" errorplus="6.6">825.9</temperature>
 		</planet>
@@ -54,9 +62,13 @@
 			<periastrontime errorminus="0.47" errorplus="0.40" unit="BJD">2455586.29</periastrontime>
 			<semimajoraxis errorminus="0.0014" errorplus="0.0013">0.1134</semimajoraxis>
 			<eccentricity>0.10</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.069" errorminus="0.096">0.098</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.096" errorminus="0.069">0.098</eccentricity>
 			<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="4.6" errorplus="4.7">583.6</temperature>
 		</planet>
@@ -74,9 +86,13 @@
 			<periastrontime errorminus="0.9" errorplus="1.0" unit="BJD">2455579.1</periastrontime>
 			<semimajoraxis errorminus="0.0019" errorplus="0.0018">0.1551</semimajoraxis>
 			<eccentricity>0.20</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.13" errorminus="0.13">0.21</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.13" errorminus="0.12">0.21</eccentricity>
 			<description>This super-Earth was discovered by performing joint analysis of high-precision radial velocity data from Keck/HIRES and the new Automated Planet Finder Telescope (APF).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="4" errorplus="4">499</temperature>
 		</planet>

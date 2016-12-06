@@ -13,6 +13,8 @@
 		<magK errorminus="0.023" errorplus="0.023">6.964</magK>
 		<metallicity errorminus="0.04" errorplus="0.04">0.37</metallicity>
 		<spectraltype>F7V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>F7 V</spectraltype>
 		<age errorminus="0.20" errorplus="0.20">1.76</age>
 		<planet>
 			<name>HD 1666 b</name>
@@ -29,7 +31,7 @@
 			<eccentricity errorminus="0.02" errorplus="0.03">0.63</eccentricity>
 			<description>This planet was detected from a radial velocity (RV) survey of metal-rich FGK stars by using three telescopes. This eccentric and massive planet with its values can be explained as a result of planet-planet interactions among Jovian planets.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/03/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 		<name>HD 1666</name>

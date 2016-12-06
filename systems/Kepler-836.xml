@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-836</name>
-	<rightascension>19 09 49</rightascension>
-	<declination>+45 42 16</declination>
+	<rightascension>19 09 48</rightascension>
+	<declination>+45 42 15.8364</declination>
 	<star>
 		<name>Kepler-836</name>
 		<temperature errorminus="83.1" errorplus="74.3">5895.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000023630" errorplus="0.000023630">11.361123270</period>
 			<radius errorminus="0.029" errorplus="0.057">0.244</radius>
 		</planet>
+	<magV>14.63</magV>
 	</star>
-</system>
+<distance>1003.0</distance>
+	</system>

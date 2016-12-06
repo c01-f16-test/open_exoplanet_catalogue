@@ -1,12 +1,16 @@
 <system>
 	<name>HAT-P-22</name>
-	<rightascension>10 22 44</rightascension>
+	<rightascension>10 22 43</rightascension>
 	<declination>+50 07 42</declination>
 	<distance>82</distance>
 	<star>
 		<mass>0.916</mass>
 		<radius>1.04</radius>
 		<magV errorminus="0.02" errorplus="0.02">9.76</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>9.73</magV>
+		<!--NASA Catalogue-->
+		<magV>9.732</magV>
 		<magB errorminus="0.04" errorplus="0.04">10.62</magB>
 		<magR errorminus="0.03" errorplus="0.03">9.44</magR>
 		<magJ errorminus="0.023" errorplus="0.023">8.293</magJ>
@@ -28,10 +32,12 @@
 			<eccentricity>0.016</eccentricity>
 			<inclination>86.9</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1171.7</temperature>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2454930.22001</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0009" errorplus="0.0009">2456706.58936</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>HAT-P-22</name>

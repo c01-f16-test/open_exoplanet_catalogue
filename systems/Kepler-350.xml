@@ -22,13 +22,19 @@
 			<name>KIC 4636578 c</name>
 			<name>KIC 4636578.01</name>
 			<radius errorminus="0.05741" errorplus="0.05741">0.28524</radius>
-			<period errorminus=".000091" errorplus="0.000091">17.848568</period>
+			<period errorminus=".000091" errorplus="0.000091">17.849</period>
 			<transittime errorminus="0.0029700" errorplus="0.0029700">2454981.3879300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-350 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-350 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.054" errorplus="0.004">0.0176</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.01" errorplus="0.01">0.019</mass>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -43,10 +49,18 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-350 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-350 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.128" errorplus="0.014">0.048</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.015" errorplus="0.017">0.047</mass>
 			<istransiting>1</istransiting>
 		</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>13.8</magV>
+		<!--NASA Catalogue-->
+		<magV>13.781</magV>
 		<planet>
 			<name>Kepler-350 b</name>
 			<name>KOI-2025 b</name>
@@ -59,9 +73,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-350 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-350 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.104</semimajoraxis>
+	</planet>
 	</star>
 </system>

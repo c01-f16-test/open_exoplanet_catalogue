@@ -1,6 +1,6 @@
 <system>
 	<name>HD 175541</name>
-	<rightascension>18 55 41</rightascension>
+	<rightascension>18 55 40</rightascension>
 	<declination>+04 15 55</declination>
 	<distance>128</distance>
 	<star>
@@ -21,7 +21,7 @@
 			<semimajoraxis>1.03</semimajoraxis>
 			<eccentricity>0.33</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>428.3</temperature>
 		</planet>

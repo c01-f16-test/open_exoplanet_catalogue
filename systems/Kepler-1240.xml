@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1240</name>
 	<rightascension>18 51 59.9</rightascension>
-	<declination>+40 33 27</declination>
+	<declination>+40 33 26.82</declination>
 	<star>
 		<name>Kepler-1240</name>
 		<temperature errorminus="116.7" errorplus="103.3">5682.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000025130" errorplus="0.000025130">4.866381500</period>
 			<radius errorminus="0.009" errorplus="0.018">0.103</radius>
 		</planet>
+	<magV>13.987</magV>
 	</star>
-</system>
+<distance>614.0</distance>
+	</system>

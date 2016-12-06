@@ -1,6 +1,6 @@
 <system>
 	<name>HD 103197</name>
-	<rightascension>11 52 53</rightascension>
+	<rightascension>11 52 52</rightascension>
 	<declination>-50 17 34</declination>
 	<distance>49.3</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>0.249</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/06</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>409.7</temperature>
 		</planet>

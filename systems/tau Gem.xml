@@ -36,6 +36,10 @@
 			<name>WDS J07111+3015 A</name>
 			<temperature errorminus="25" errorplus="25">4388</temperature>
 			<magV>4.41</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>4.4</magV>
+			<!--NASA Catalogue-->
+			<magV>4.42</magV>
 			<magR>3.45</magR>
 			<magI>2.82</magI>
 			<magB>5.685</magB>
@@ -57,7 +61,7 @@
 				<periastrontime errorminus="14.8" errorplus="14.8">2453270.7</periastrontime>
 				<semimajoraxis>1.17</semimajoraxis>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/11/03</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

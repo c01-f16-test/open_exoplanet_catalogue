@@ -6,6 +6,8 @@
 		<magB>15.3</magB>
 		<magR>14.9</magR>
 		<magI errorminus="0.03" errorplus="0.03">14.36</magI>
+		<!--Exoplanet.eu Catalogue-->
+		<magI>14.3</magI>
 		<magH errorminus="0.04" errorplus="0.04">13.42</magH>
 		<magK errorminus="0.04" errorplus="0.04">13.38</magK>
 		<mass>1.33</mass>
@@ -23,7 +25,7 @@
 			<inclination>87.2</inclination>
 			<transittime errorminus="0.003" errorplus="0.003" unit="HJD">2453428.334</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1581.5</temperature>
 			<istransiting>1</istransiting>

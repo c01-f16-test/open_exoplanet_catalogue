@@ -29,8 +29,9 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>HD 95872 b is a super-Jupiter planet orbiting in a Jupiter-like orbit around a metal-rich solar-mass star.</description>
-			<lastupdate>15/12/28</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 	</star>
-</system>
+<distance>7.56</distance>
+	</system>

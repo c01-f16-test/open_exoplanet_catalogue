@@ -7,6 +7,10 @@
 		<mass>1.6</mass>
 		<radius>51.1</radius>
 		<temperature>3950</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="65.0" errorminus="65.0">4035.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="65.0" errorminus="65.0">4035.0</temperature>
 		<magV>6.4</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.060</magB>
 		<magJ errorminus="0.214" errorplus="0.214">3.328</magJ>
@@ -14,6 +18,8 @@
 		<magK errorminus="0.244" errorplus="0.244">2.224</magK>
 		<metallicity>-0.09</metallicity>
 		<spectraltype>K5 V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>M1III</spectraltype>
 		<planet>
 			<name>HD 208527 b</name>
 			<list>Confirmed planets</list>
@@ -23,7 +29,7 @@
 			<eccentricity>0.08</eccentricity>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>877.3</temperature>
 		</planet>

@@ -3,6 +3,10 @@
 	<rightascension>19 37 11.74092</rightascension>
 	<declination>+28 29 59.5055</declination>
 	<distance errorminus="1.42" errorplus="1.42">50.28</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>47.0</distance>
+	<!--NASA Catalogue-->
+	<distance>47.37</distance>
 	<binary>
 		<name>HD 185269</name>
 		<name>BD+28 3412</name>
@@ -20,6 +24,8 @@
 			<radius errorminus="0.1" errorplus="0.1">1.88</radius>
 			<magB>7.238</magB>
 			<magV>6.683</magV>
+			<!--Exoplanet.eu Catalogue-->
+			<magV>6.67</magV>
 			<magJ errorminus="0.027" errorplus="0.027">5.518</magJ>
 			<magH errorminus="0.069" errorplus="0.069">5.400</magH>
 			<magK errorminus="0.018" errorplus="0.018">5.260</magK>
@@ -38,7 +44,7 @@
 				<periastron errorminus="6.8" errorplus="6.8">173</periastron>
 				<periastrontime errorminus="0.18" errorplus="0.18">2453154.1</periastrontime>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>16/01/22</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

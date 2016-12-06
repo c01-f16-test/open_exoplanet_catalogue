@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-931</name>
-	<rightascension>19 48 32</rightascension>
-	<declination>+42 46 06</declination>
+	<rightascension>19 48 31</rightascension>
+	<declination>+42 46 05.7108</declination>
 	<star>
 		<name>Kepler-931</name>
 		<temperature errorminus="198.9" errorplus="223.6">5241.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000023150" errorplus="0.000023150">8.037558770</period>
 			<radius errorminus="0.008" errorplus="0.012">0.119</radius>
 		</planet>
+	<magV>14.471</magV>
 	</star>
-</system>
+<distance>490.0</distance>
+	</system>

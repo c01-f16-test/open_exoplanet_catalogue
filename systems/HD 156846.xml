@@ -29,6 +29,8 @@
 				<name>HD 156846 b</name>
 				<list>Controversial</list>
 				<mass lowerlimit="10.45" upperlimit="660.9">263.0</mass>
+				<!--NASA Catalogue-->
+				<mass errorminus="0.29" errorplus="0.29">10.57</mass>
 				<period errorminus="0.0071" errorplus="0.0071">359.5546</period>
 				<eccentricity errorminus="0.00050" errorplus="0.00050">0.84785</eccentricity>
 				<semimajoraxis errorminus="0.021" errorplus="0.021">1.096</semimajoraxis>
@@ -37,7 +39,7 @@
 				<ascendingnode lowerlimit="91.4" upperlimit="265.6">185.3</ascendingnode>
 				<discoverymethod>RV</discoverymethod>
 				<discoveryyear>2008</discoveryyear>
-				<lastupdate>14/11/06</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<description>Reffert &amp; Quirrenbach (2011) derive a best-fit inclination of 177.8° giving a true mass of 263 Jupiter masses. While the 3-sigma error region allows inclinations from 2° to 178.8°, the highest probability density is for nearly face-on orbits.</description>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

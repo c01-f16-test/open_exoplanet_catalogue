@@ -6,6 +6,8 @@
 		<mass errorminus="0.042" errorplus="0.042">1.027</mass>
 		<radius errorminus="0.17" errorplus="0.17">1.27</radius>
 		<magV errorminus="0.25" errorplus="0.25">15.64</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
 		<magB>17.0</magB>
 		<magR errorminus="0.17" errorplus="0.17">15.93</magR>
 		<magJ errorminus="0.029" errorplus="0.029">14.467</magJ>
@@ -18,13 +20,15 @@
 			<name>KOI-1727 b</name>
 			<list>Confirmed planets</list>
 			<radius>0.72</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.047" errorplus="0.07">0.529</radius>
 			<period>49.76971</period>
 			<semimajoraxis>0.2672</semimajoraxis>
 			<inclination>89.2</inclination>
 			<transittime errorminus="0.0028" errorplus="0.0028" unit="BJD">2454992.9877</transittime>
 			<description>This planet was not flagged as a potential planet candidate by the Kepler data pipeline. Citizen scientists discovered the transit simply by looking at many light curves by eye using the online tool at planethunters.org.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/22</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

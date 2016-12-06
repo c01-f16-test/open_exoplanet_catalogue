@@ -1,19 +1,33 @@
 <system>
 	<name>Kepler-411</name>
 	<rightascension>19 10 25</rightascension>
-	<declination>+49 31 24</declination>
+	<declination>+49 31 23.7288</declination>
 	<star>
 		<name>Kepler-411</name>
 		<temperature errorminus="51.1" errorplus="48.1">4906.0</temperature>
+		<!--Exoplanet.eu Catalogue-->
+		<temperature errorplus="46.0" errorminus="51.0">4974.0</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="46.0" errorminus="51.0">4974.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.81</mass>
 		<radius errorminus="0.01" errorplus="0.01">0.75</radius>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
 		<metallicity errorminus="0.10" errorplus="0.11">0.05</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.37" errorminus="0.48">0.23</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>12.5</magV>
+		<!--NASA Catalogue-->
+		<magV>12.231</magV>
 		<planet>
 			<name>Kepler-411 c</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>

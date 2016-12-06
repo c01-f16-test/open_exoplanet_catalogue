@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1295</name>
 	<rightascension>19 25 35</rightascension>
-	<declination>+45 35 19</declination>
+	<declination>+45 35 18.8124</declination>
 	<star>
 		<name>Kepler-1295</name>
 		<temperature errorminus="100.4" errorplus="70.5">5486.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000022780" errorplus="0.000022780">3.813719740</period>
 			<radius errorminus="0.011" errorplus="0.018">0.138</radius>
 		</planet>
+	<magV>15.89</magV>
 	</star>
-</system>
+<distance>1257.0</distance>
+	</system>

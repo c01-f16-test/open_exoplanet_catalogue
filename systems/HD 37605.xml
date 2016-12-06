@@ -3,9 +3,21 @@
 	<rightascension>05 40 01</rightascension>
 	<declination>+06 03 38</declination>
 	<distance>42.9</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>44.0</distance>
+	<!--NASA Catalogue-->
+	<distance>42.88</distance>
 	<star>
 		<mass>0.8</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">1.0</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">1.0</mass>
 		<magV>8.69</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>8.66</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.016" errorplus="0.016">8.661</magV>
 		<magB>9.52</magB>
 		<magR>8.1</magR>
 		<magI>7.7</magI>
@@ -13,6 +25,8 @@
 		<magH>6.92</magH>
 		<magK>6.82</magK>
 		<metallicity>0.39</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.03" errorminus="0.03">0.34</metallicity>
 		<spectraltype>K0V</spectraltype>
 		<planet>
 			<name>HD 37605 b</name>
@@ -23,7 +37,7 @@
 			<eccentricity>0.6767</eccentricity>
 			<description>The planetary system HD 37605 hosts at least two planets. The inner planet is on a 55 day orbit with a very high eccentricity of 0.6767. This planet was discovered in 2004. In 2012, another planet on a 2720 day orbit was announced. In contrast to the inner planet, HD 37605 c is on an almost circular orbit. This leads to interesting speculations on the origin of the planetary system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>413.9</temperature>
 		</planet>
@@ -31,16 +45,28 @@
 			<name>HD 37605 c</name>
 			<list>Confirmed planets</list>
 			<mass>3.379</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.072" errorplus="0.072">3.366</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.072" errorplus="0.072">3.366</mass>
 			<period>2720</period>
 			<semimajoraxis>3.821</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.058" errorplus="0.058">3.814</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.058" errorplus="0.058">3.814</semimajoraxis>
 			<eccentricity>0.013</eccentricity>
 			<description>The planetary system HD 37605 hosts at least two planets. The inner planet is on a 55 day orbit with a very high eccentricity of 0.6767. This planet was discovered in 2004. In 2012, another planet on a 2720 day orbit was anounced. In contrast to the inner planet, HD 37605 c is on an almost circular orbit. This leads to interesting speculations on the origin of the planetary system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>116.7</temperature>
 		</planet>
 		<name>HD 37605</name>
+		<!--Exoplanet.eu Catalogue-->
+		<radius errorminus="0.045" errorplus="0.045">0.9</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.04" errorplus="0.04">0.9</radius>
 		<temperature>5448.0</temperature>
 	</star>
 </system>

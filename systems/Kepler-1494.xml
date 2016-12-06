@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1494</name>
-	<rightascension>18 50 38</rightascension>
+	<rightascension>18 50 37</rightascension>
 	<declination>+43 09 45</declination>
 	<star>
 		<name>Kepler-1494</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.001769000" errorplus="0.001769000">91.080482000</period>
 			<radius errorminus="0.051" errorplus="0.041">0.274</radius>
 		</planet>
+	<magV>15.214</magV>
 	</star>
-</system>
+<distance>1059.0</distance>
+	</system>

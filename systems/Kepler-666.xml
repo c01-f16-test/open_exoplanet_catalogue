@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-666</name>
-	<rightascension>19 53 50</rightascension>
-	<declination>+48 47 30</declination>
+	<rightascension>19 53 49</rightascension>
+	<declination>+48 47 29.7312</declination>
 	<star>
 		<name>Kepler-666</name>
 		<temperature errorminus="179.0" errorplus="164.9">5887.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000017690" errorplus="0.000017690">4.498760920</period>
 			<radius errorminus="0.025" errorplus="0.052">0.214</radius>
 		</planet>
+	<magV>15.395</magV>
 	</star>
-</system>
+<distance>1330.0</distance>
+	</system>

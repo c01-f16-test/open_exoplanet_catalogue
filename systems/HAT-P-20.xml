@@ -25,10 +25,12 @@
 			<eccentricity>0.015</eccentricity>
 			<inclination>86.8</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>888.3</temperature>
 			<transittime errorminus="0.00021" errorplus="0.00021" unit="BJD">2455080.92661</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="8.8e-05" errorplus="8.8e-05">2456708.35626</transittime>
 			<istransiting>1</istransiting>
 		</planet>
 		<name>HAT-P-20</name>

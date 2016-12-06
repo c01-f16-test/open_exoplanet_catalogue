@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-756</name>
-	<rightascension>19 22 26</rightascension>
-	<declination>+41 12 04</declination>
+	<rightascension>19 22 25</rightascension>
+	<declination>+41 12 03.9348</declination>
 	<star>
 		<name>Kepler-756</name>
 		<temperature errorminus="62.5" errorplus="97.9">5282.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000003840" errorplus="0.000003840">1.224866320</period>
 			<radius errorminus="0.009" errorplus="0.008">0.100</radius>
 		</planet>
+	<magV>15.376</magV>
 	</star>
-</system>
+<distance>852.0</distance>
+	</system>

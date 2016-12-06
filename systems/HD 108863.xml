@@ -1,7 +1,7 @@
 <system>
 	<name>HD 108863</name>
 	<rightascension>12 30 19</rightascension>
-	<declination>+21 56 54</declination>
+	<declination>+21 56 53.9999</declination>
 	<distance>139</distance>
 	<star>
 		<mass>1.85</mass>
@@ -20,9 +20,13 @@
 			<period>443.4</period>
 			<semimajoraxis>1.40</semimajoraxis>
 			<eccentricity>0</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="nan" errorminus="inf">0.1</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.06</eccentricity>
 			<description>The star HD 108863 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>436.8</temperature>
 		</planet>

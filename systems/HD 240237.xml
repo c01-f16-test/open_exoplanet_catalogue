@@ -2,6 +2,10 @@
 	<name>HD 240237</name>
 	<rightascension>23 15 42.22361</rightascension>
 	<declination>+58 02 35.6654</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>1500.0</distance>
+	<!--NASA Catalogue-->
+	<distance>307.69</distance>
 	<star>
 		<name>HD 240237</name>
 		<name>HIP 114840</name>
@@ -11,7 +15,7 @@
 		<name>2MASS J23154222+5802358</name>
 		<mass errorminus="0.42" errorplus="0.42">1.69</mass>
 		<radius errorminus="1" errorplus="1">32</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.17</magV>
+		<magV errorminus="0.01" errorplus="0.01">8.19</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.86</magB>
 		<magR errorminus="0.14" errorplus="0.14">7.53</magR>
 		<magJ errorminus="0.024" errorplus="0.024">5.105</magJ>
@@ -31,7 +35,7 @@
 			<periastrontime errorminus="28.3" errorplus="28.3">2454292.5</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The star HD 240237 is a K2 giant.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>

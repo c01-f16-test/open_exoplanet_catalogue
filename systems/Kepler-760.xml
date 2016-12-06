@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-760</name>
 	<rightascension>19 10 22</rightascension>
-	<declination>+44 10 46</declination>
+	<declination>+44 10 45.9012</declination>
 	<star>
 		<name>Kepler-760</name>
 		<temperature errorminus="81.7" errorplus="65.7">5322.0</temperature>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006580" errorplus="0.000006580">2.466974390</period>
 			<radius errorminus="0.008" errorplus="0.011">0.132</radius>
 		</planet>
+	<magV>15.07</magV>
 	</star>
-</system>
+<distance>782.0</distance>
+	</system>

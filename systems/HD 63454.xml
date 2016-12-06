@@ -16,15 +16,26 @@
 			<name>HD 63454 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.38</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>0.39</mass>
+			<!--NASA Catalogue-->
+			<mass>0.398</mass>
 			<period>2.818049</period>
 			<semimajoraxis>0.036</semimajoraxis>
 			<eccentricity>0.00002</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.0177" errorminus="0.0203">0.0177</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/06/01</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2005</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>1.06</radius>
+			<!--NASA Catalogue-->
+			<radius>1.098</radius>
 			<temperature>926.7</temperature>
 		</planet>
 		<name>HD 63454</name>
 		<temperature>4841.0</temperature>
+	<radius>1.05</radius>
 	</star>
 </system>

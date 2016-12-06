@@ -23,8 +23,10 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination errorminus="0.79" errorplus="0.88">80.09</inclination>
 			<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455364.55119</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00027" errorplus="0.00027">2455364.55043</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/04/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="70" errorplus="70">2030</temperature>
 			<istransiting>1</istransiting>

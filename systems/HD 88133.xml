@@ -19,14 +19,27 @@
 			<name>HD 88133 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.22</mass>
-			<period>3.416</period>
-			<semimajoraxis>0.047</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+		<mass>0.3</mass>
+		<!--NASA Catalogue-->
+		<mass errorminus="0.28" errorplus="0.61">1.02</mass>
+		<period>3.416</period>
+			<!--Exoplanet.eu Catalogue-->
+		<period>3.41566</period>
+		<!--NASA Catalogue-->
+		<period errorplus="4.57e-05" errorminus="4.73e-05">3.4148674</period>
+		<semimajoraxis>0.047</semimajoraxis>
 			<eccentricity>0.133</eccentricity>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+		<eccentricity errorplus="0.0761" errorminus="0.0508">0.0761</eccentricity>
+		<!--NASA Catalogue-->
+		<eccentricity errorplus="0.03" errorminus="0.03">0.05</eccentricity>
+		<discoverymethod>RV</discoverymethod>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1550.6</temperature>
-		</planet>
+		<inclination errorplus="6.0" errorminus="5.0">15.0</inclination>
+	</planet>
 		<name>HD 88133</name>
 		<temperature>5494.0</temperature>
 	</star>

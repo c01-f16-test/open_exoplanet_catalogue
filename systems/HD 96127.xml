@@ -12,7 +12,7 @@
 		<name>2MASS J11054595+4418054</name>
 		<mass errorminus="0.25" errorplus="0.25">0.91</mass>
 		<radius errorminus="17" errorplus="17">35</radius>
-		<magV errorminus="0.011" errorplus="0.011">7.407</magV>
+		<magV errorminus="0.011" errorplus="0.011">7.43</magV>
 		<magB errorminus="0.021" errorplus="0.021">8.924</magB>
 		<magR errorminus="0.18" errorplus="0.18">6.97</magR>
 		<magJ errorminus="0.190" errorplus="0.190">4.887</magJ>
@@ -32,7 +32,7 @@
 			<periastrontime errorminus="31.0" errorplus="31.0">2453969.9</periastrontime>
 			<description>This planet was found by the Penn State-Torun Planet Search Team (PTPS) using the Hobby-Eberly Telescope. The host star is a K2 giant.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/11/17</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 	</star>

@@ -16,8 +16,12 @@
 			<period>4.088</period>
 			<semimajoraxis>0.052</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.0115" errorminus="0.0093">0.0123</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.04" errorminus="0.04">0.08</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1389.4</temperature>
 		</planet>

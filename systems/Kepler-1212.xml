@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1212</name>
-	<rightascension>19 47 25</rightascension>
+	<rightascension>19 47 24</rightascension>
 	<declination>+50 02 14</declination>
 	<star>
 		<name>Kepler-1212</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000079100" errorplus="0.000079100">12.941301460</period>
 			<radius errorminus="0.024" errorplus="0.052">0.191</radius>
 		</planet>
+	<magV>15.012</magV>
 	</star>
-</system>
+<distance>1304.0</distance>
+	</system>

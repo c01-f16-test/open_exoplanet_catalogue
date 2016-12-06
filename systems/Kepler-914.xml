@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-914</name>
-	<rightascension>19 21 39</rightascension>
-	<declination>+44 53 58</declination>
+	<rightascension>19 21 38</rightascension>
+	<declination>+44 53 57.588</declination>
 	<star>
 		<name>Kepler-914</name>
 		<temperature errorminus="65.0" errorplus="74.2">5877.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000011930" errorplus="0.000011930">4.409665480</period>
 			<radius errorminus="0.011" errorplus="0.015">0.123</radius>
 		</planet>
+	<magV>13.574</magV>
 	</star>
-</system>
+<distance>678.0</distance>
+	</system>

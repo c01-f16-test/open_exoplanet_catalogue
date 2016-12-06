@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-465</name>
 	<rightascension>18 58 13</rightascension>
-	<declination>+46 03 50</declination>
+	<declination>+46 03 49.7808</declination>
 	<star>
 		<name>Kepler-465</name>
 		<temperature errorminus="60.4" errorplus="63.4">6310.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000006550" errorplus="0.000006550">9.940672470</period>
 			<radius errorminus="0.014" errorplus="0.022">0.263</radius>
 		</planet>
+	<magV>12.663</magV>
 	</star>
-</system>
+<distance>587.0</distance>
+	</system>

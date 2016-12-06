@@ -13,8 +13,14 @@
 		<name>KOI-250</name>
 		<name>KIC 9757613</name>
 		<temperature errorminus="16" errorplus="116">4486</temperature>
+		<!--NASA Catalogue-->
+		<temperature errorplus="119.0" errorminus="119.0">3914.0</temperature>
 		<radius errorminus=".027" errorplus="0.027">0.571</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.02" errorplus="0.02">0.51</radius>
 		<mass errorminus="0.0270" errorplus="0.0270">0.6340</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.03" errorminus="0.03">0.54</mass>
 		<planet>
 			<name>Kepler-26 b</name>
 			<name>KOI-250 b</name>
@@ -22,13 +28,23 @@
 			<name>KIC 9757613 b</name>
 			<name>KIC 9757613.01</name>
 			<radius errorminus="0.01276" errorplus="0.01276">0.26792</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.0098" errorplus="0.0098">0.248</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.01" errorplus="0.01">0.248</radius>
 			<period errorminus=".000013" errorplus="0.000013">12.282972</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>12.2829</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.0003" errorminus="0.0003">12.28</period>
 			<transittime errorminus="0.0006100" errorplus="0.0006100">2455003.3985400</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime>2454978.8321</transittime>
 			<mass errorminus="0.001916" errorplus="0.002054">0.016097</mass>
 			<list>Confirmed planets</list>
 			<description>Kepler-26 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -40,12 +56,18 @@
 			<name>KIC 9757613.02</name>
 			<radius errorminus="0.02825" errorplus="0.02825">0.26792</radius>
 			<period errorminus=".000034" errorplus="0.000034">17.251204</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>17.2513</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.0006" errorminus="0.0006">17.2559</period>
 			<transittime errorminus="0.0010900" errorplus="0.0010900">2454982.8863600</transittime>
 			<mass errorminus="0.001949" errorplus="0.002055">0.019492</mass>
 			<list>Confirmed planets</list>
 			<description>Kepler-26 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -61,10 +83,15 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-26 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.039</semimajoraxis>
+	</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>16.0</magV>
+		<!--NASA Catalogue-->
+		<magV>15.473</magV>
 		<planet>
 			<name>Kepler-26 e</name>
 			<name>KOI-250 e</name>
@@ -77,9 +104,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-26 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-26 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.22</semimajoraxis>
+	</planet>
 	</star>
 </system>

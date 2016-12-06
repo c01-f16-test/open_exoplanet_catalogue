@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1381</name>
-	<rightascension>19 10 09</rightascension>
+	<rightascension>19 10 08</rightascension>
 	<declination>+48 43 40</declination>
 	<star>
 		<name>Kepler-1381</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000175700" errorplus="0.000175700">25.384268600</period>
 			<radius errorminus="0.017" errorplus="0.026">0.201</radius>
 		</planet>
+	<magV>15.535</magV>
 	</star>
-</system>
+<distance>1306.0</distance>
+	</system>

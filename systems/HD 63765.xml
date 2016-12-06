@@ -1,6 +1,6 @@
 <system>
 	<name>HD 63765</name>
-	<rightascension>07 47 50</rightascension>
+	<rightascension>07 47 49</rightascension>
 	<declination>-54 15 51</declination>
 	<distance>32.6</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>0.949</semimajoraxis>
 			<eccentricity>0.24</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>222.6</temperature>
 		</planet>

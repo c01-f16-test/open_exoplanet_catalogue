@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1425</name>
 	<rightascension>19 39 48</rightascension>
-	<declination>+43 00 45</declination>
+	<declination>+43 00 44.7696</declination>
 	<star>
 		<name>Kepler-1425</name>
 		<temperature errorminus="173.6" errorplus="170.3">5718.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000162100" errorplus="0.000162100">14.454130200</period>
 			<radius errorminus="0.012" errorplus="0.017">0.084</radius>
 		</planet>
+	<magV>13.572</magV>
 	</star>
-</system>
+<distance>499.0</distance>
+	</system>

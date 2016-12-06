@@ -8,6 +8,10 @@
 		<name>LHS 281</name>
 		<name>2MASS J10145184-4709244</name>
 		<magV>13.52</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>13.5</magV>
+		<!--NASA Catalogue-->
+		<magV errorminus="0.03" errorplus="0.03">13.49</magV>
 		<magB>15.25</magB>
 		<magJ errorminus="0.026" errorplus="0.026">9.245</magJ>
 		<magH errorminus="0.03" errorplus="0.03">8.67</magH>
@@ -17,7 +21,7 @@
 		<temperature errorminus="140" errorplus="140">3270</temperature>
 		<metallicity errorminus="0.15" errorplus="0.15">-0.12</metallicity>
 		<spectraltype>M3.5</spectraltype>
-		<age lowerlimit="5" />
+		<age lowerlimit="5"/>
 		<planet>
 			<name>GJ 1132 b</name>
 			<name>LHS 281 b</name>
@@ -30,8 +34,9 @@
 			<description>GJ 1132b is orbiting a red dwarf star. The planet is three times closer to Earth than any other rocky exoplanet. Although the planet is not habitable, it is expected to be cool enough to hold on to an atmosphere. Because of its proximity to Earth, it might be possible to determine the composition of the atmosphere in the future.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/11/12</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
-		</planet>
+		<eccentricity/>
+	</planet>
 	</star>
 </system>

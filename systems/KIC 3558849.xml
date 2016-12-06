@@ -28,7 +28,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The planet KIC 3558849 b was discovered and validated by the Planet Hunters project in 2015. Only one transit has been observed for this planet. The planet is validated with a confidence of 0.997.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -44,5 +44,6 @@
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
 		</planet>
+	<magV>14.218</magV>
 	</star>
 </system>

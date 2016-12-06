@@ -16,12 +16,16 @@
 			<name>HD 60532 b</name>
 			<list>Confirmed planets</list>
 			<mass>3.15</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>9.21</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.08" errorplus="0.08">1.06</mass>
 			<period>201.83</period>
 			<semimajoraxis>0.77</semimajoraxis>
 			<eccentricity>0.278</eccentricity>
 			<inclination>20</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>497.4</temperature>
 		</planet>
@@ -29,16 +33,21 @@
 			<name>HD 60532 c</name>
 			<list>Confirmed planets</list>
 			<mass>7.46</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>21.8</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.16" errorplus="0.16">2.51</mass>
 			<period>607.06</period>
 			<semimajoraxis>1.58</semimajoraxis>
 			<eccentricity>0.038</eccentricity>
 			<inclination>20</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>348.9</temperature>
 		</planet>
 		<name>HD 60532</name>
 		<temperature>6095.0</temperature>
+	<radius errorminus="0.12" errorplus="0.12">2.57</radius>
 	</star>
 </system>

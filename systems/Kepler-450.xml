@@ -30,7 +30,8 @@
 				<description>Kepler-450 b is a planet orbiting the brighter member of the binary star KOI-279.</description>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>16/12/06</lastupdate>
+	</planet>
 			<planet>
 				<name>Kepler-450 c</name>
 				<name>Kepler-450 A c</name>
@@ -48,7 +49,8 @@
 				<description>Kepler-450 c is a planet orbiting the brighter member of the binary star KOI-279.</description>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
+			<lastupdate>16/12/06</lastupdate>
+	</planet>
 			<planet>
 				<name>Kepler-450 d</name>
 				<name>Kepler-450 A d</name>
@@ -65,8 +67,10 @@
 				<description>Kepler-450 d is a planet orbiting the brighter member of the binary star KOI-279.</description>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
+			<lastupdate>16/12/06</lastupdate>
+	</planet>
+		<magV>11.684</magV>
+	</star>
 		<star>
 			<name>Kepler-450 B</name>
 			<name>KOI-279 B</name>

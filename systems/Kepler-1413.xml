@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1413</name>
 	<rightascension>19 37 22</rightascension>
-	<declination>+46 29 56</declination>
+	<declination>+46 29 55.5612</declination>
 	<star>
 		<name>Kepler-1413</name>
 		<temperature errorminus="117.2" errorplus="117.5">5196.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000108200" errorplus="0.000108200">13.182964200</period>
 			<radius errorminus="0.013" errorplus="0.014">0.162</radius>
 		</planet>
+	<magV>16.239</magV>
 	</star>
-</system>
+<distance>1162.0</distance>
+	</system>

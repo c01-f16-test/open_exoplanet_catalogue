@@ -2,7 +2,7 @@
 	<name>Kepler-95</name>
 	<name>KOI-122</name>
 	<name>KIC 8349582</name>
-	<rightascension>18 57 56</rightascension>
+	<rightascension>18 57 55</rightascension>
 	<declination>+44 23 52</declination>
 	<distance>456.3</distance>
 	<star>
@@ -28,9 +28,10 @@
 			<mass errorminus="0.009123" errorplus="0.009123">0.040894</mass>
 			<description>This planet has been discovered by the Kepler spacecraft. It was confirmed using a combination of high resolution imaging and spectroscopy and Doppler spectroscopy. This analysis pushes the false probability below 1 percent and puts contraints on the planet's size and mass.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>12.346</magV>
 	</star>
 </system>

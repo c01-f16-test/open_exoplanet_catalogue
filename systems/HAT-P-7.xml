@@ -12,15 +12,31 @@
 			<name>HAT-P-7 A</name>
 			<spectraltype>F6</spectraltype>
 			<mass errorminus="0.03" errorplus="0.03">1.59</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorplus="0.04" errorminus="0.05">1.51</mass>
+			<!--NASA Catalogue-->
+			<mass errorplus="0.07" errorminus="0.07">1.47</mass>
 			<radius errorminus="0.01" errorplus="0.01">2.02</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.02" errorplus="0.01">2.0</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.17" errorplus="0.17">1.84</radius>
 			<magV errorminus="0.05" errorplus="0.05">10.48</magV>
 			<magB errorminus="0.06" errorplus="0.06">10.97</magB>
 			<magJ errorminus="0.030" errorplus="0.030">9.555</magJ>
 			<magH errorminus="0.029" errorplus="0.029">9.344</magH>
 			<magK errorminus="0.018" errorplus="0.018">9.334</magK>
 			<temperature errorminus="15" errorplus="15">6310</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature errorplus="32.0" errorminus="32.0">6259.0</temperature>
+			<!--NASA Catalogue-->
+			<temperature errorplus="69.0" errorminus="69.0">6441.0</temperature>
 			<age errorminus="0.100" errorplus="0.100">1.770</age>
+			<!--Exoplanet.eu Catalogue-->
+			<age errorminus="0.23" errorplus="0.28">2.07</age>
 			<metallicity errorminus="0.04" errorplus="0.04">0.32</metallicity>
+			<!--Exoplanet.eu Catalogue-->
+			<metallicity>0.13</metallicity>
 			<planet>
 				<name>HAT-P-7 b</name>
 				<name>HAT-P-7 A b</name>
@@ -33,18 +49,38 @@
 				<name>KOI-2 b</name>
 				<list>Confirmed planets</list>
 				<mass>1.709</mass>
+				<!--Exoplanet.eu Catalogue-->
+				<mass errorminus="0.028" errorplus="0.028">1.741</mass>
+				<!--NASA Catalogue-->
+				<mass errorminus="0.02" errorplus="0.021">1.682</mass>
 				<radius>1.4588</radius>
+				<!--Exoplanet.eu Catalogue-->
+				<radius errorminus="0.011" errorplus="0.011">1.431</radius>
+				<!--NASA Catalogue-->
+				<radius errorminus="0.061" errorplus="0.061">1.491</radius>
 				<temperature>2733</temperature>
+				<!--Exoplanet.eu Catalogue-->
+				<temperature>2121.0</temperature>
 				<period>2.204737</period>
+				<!--Exoplanet.eu Catalogue-->
+				<period>2.204735471</period>
+				<!--NASA Catalogue-->
+				<period errorplus="1.1e-06" errorminus="1.1e-06">2.2047372</period>
 				<semimajoraxis>0.0379</semimajoraxis>
 				<eccentricity>0.0</eccentricity>
 				<inclination>83.111</inclination>
+				<!--Exoplanet.eu Catalogue-->
+				<inclination errorplus="2.0" errorminus="2.0">84.1</inclination>
+				<!--NASA Catalogue-->
+				<inclination errorplus="1.2" errorminus="1.2">82.2</inclination>
 				<spinorbitalignment errorminus="13" errorplus="14">157</spinorbitalignment>
 				<description>The star HAT-P-7 is located in the constellation Cygnus and in the field of view of the Kepler spacecraft. Measurements of the Rossiter-McLaughlin effect combined with determination of the stellar equator suggest an inclination of 120 degrees to the stellar equator. Retrograde orbits are difficult to explain with standard disk migration. Planet-planet scattering or the Kozei effect are able to produce retrograde orbits.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/05/24</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2008</discoveryyear>
 				<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.0008" errorplus="0.0008">2453785.8503</transittime>
 				<istransiting>1</istransiting>
 				<list>Planets in binary systems, S-type</list>
 			</planet>

@@ -17,11 +17,23 @@
 			<name>HD 2039 b</name>
 			<list>Confirmed planets</list>
 			<mass>4.9</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.82" errorplus="0.82">6.11</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.82" errorplus="0.82">6.11</mass>
 			<period>1183</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>1120.0</period>
+			<!--NASA Catalogue-->
+			<period errorplus="23.0" errorminus="23.0">1120.0</period>
 			<semimajoraxis>2.2</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.13" errorplus="0.13">2.23</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.13" errorplus="0.13">2.23</semimajoraxis>
 			<eccentricity>0.67</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>188.3</temperature>
 		</planet>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1615</name>
 	<rightascension>19 05 26</rightascension>
-	<declination>+42 13 39</declination>
+	<declination>+42 13 38.9208</declination>
 	<star>
 		<name>Kepler-1615</name>
 		<temperature errorminus="105.6" errorplus="86.0">5865.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000859300" errorplus="0.000859300">47.312619200</period>
 			<radius errorminus="0.052" errorplus="0.043">0.184</radius>
 		</planet>
+	<magV>14.553</magV>
 	</star>
-</system>
+<distance>940.0</distance>
+	</system>

@@ -17,12 +17,16 @@
 			<name>HD 130322 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.02</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0312" errorplus="0.773">1.05</mass>
+			<!--NASA Catalogue-->
+			<mass>1.15</mass>
 			<period>10.72</period>
 			<semimajoraxis>0.088</semimajoraxis>
 			<eccentricity>0.044</eccentricity>
 			<inclination>76</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>721.7</temperature>
 		</planet>

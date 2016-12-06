@@ -1,7 +1,7 @@
 <system>
 	<name>CoRoT-27</name>
 	<rightascension>18 33 59</rightascension>
-	<declination>+05 32 19</declination>
+	<declination>+05 32 18.96</declination>
 	<star>
 		<magJ errorminus="0.027" errorplus="0.027">13.571</magJ>
 		<magH errorminus="0.03" errorplus="0.03">13.17</magH>
@@ -24,13 +24,20 @@
 			<period errorminus="0.00006" errorplus="0.00006">3.57532</period>
 			<transittime errorminus="0.001" errorplus="0.001" unit="HJD">2455748.684</transittime>
 			<semimajoraxis errorminus="0.0066" errorplus="0.0066">0.0476</semimajoraxis>
-			<eccentricity upperlimit="0.065" />
+			<eccentricity upperlimit="0.065"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.065">0.065</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.065</eccentricity>
 			<inclination errorminus="-0.87" errorplus="1.2">86.7</inclination>
 			<description>CoRoT-27b is a massive and dense planet on a short period orbit. It was discovered by the European space mission CoRoT.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
+	<magV>15.54</magV>
 	</star>
 </system>

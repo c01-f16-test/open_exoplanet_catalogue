@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1192</name>
-	<rightascension>18 48 34</rightascension>
-	<declination>+43 53 48</declination>
+	<rightascension>18 48 33</rightascension>
+	<declination>+43 53 47.688</declination>
 	<star>
 		<name>Kepler-1192</name>
 		<temperature errorminus="57.2" errorplus="67.2">5438.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000127800" errorplus="0.000127800">25.203478700</period>
 			<radius errorminus="0.020" errorplus="0.021">0.211</radius>
 		</planet>
+	<magV>15.684</magV>
 	</star>
-</system>
+<distance>1108.0</distance>
+	</system>

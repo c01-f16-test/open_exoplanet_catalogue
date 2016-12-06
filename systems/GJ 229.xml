@@ -2,6 +2,8 @@
 	<name>GJ 229</name>
 	<rightascension>06 10 34.61533</rightascension>
 	<declination>-21 51 52.7117</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-20 08 07.2882</declination>
 	<distance errorminus="0.03" errorplus="0.03">5.75</distance>
 	<binary>
 		<name>GJ 229</name>
@@ -33,6 +35,8 @@
 			<magH errorminus="0.254" errorplus="0.254">4.393</magH>
 			<magK errorminus="0.232" errorplus="0.232">4.166</magK>
 			<spectraltype>M1/M2 V</spectraltype>
+			<!--Exoplanet.eu Catalogue-->
+			<spectraltype>M1/M2V</spectraltype>
 			<mass>0.58</mass>
 			<temperature>3564</temperature>
 			<planet>
@@ -42,6 +46,8 @@
 				<period errorminus="12" errorplus="22">471</period>
 				<eccentricity errorminus="0.10" errorplus="0.22">0.10</eccentricity>
 				<periastron>150</periastron>
+				<!--Exoplanet.eu Catalogue-->
+				<periastron>148.97</periastron>
 				<meananomaly>230</meananomaly>
 				<mass errorminus="0.050" errorplus="0.053" type="msini">0.101</mass>
 				<semimajoraxis errorminus="0.09" errorplus="0.12">0.97</semimajoraxis>
@@ -49,7 +55,7 @@
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet is in a binary system comprising the red dwarf star GJ 229 A and the brown dwarf GJ 229 B, which was the first identified methane brown dwarf. The planet candidate orbiting GJ 229 A was identified by Bayesian analysis of 73 UVES and 17 HARPS radial velocity measurements.</description>
 				<list>Controversial</list>
-				<lastupdate>15/04/21</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
@@ -62,7 +68,7 @@
 			<magH errorminus="0.05" errorplus="0.05">14.36</magH>
 			<magK errorminus="0.05" errorplus="0.05">14.36</magK>
 			<spectraltype>T6</spectraltype>
-			<mass lowerlimit="0.04" upperlimit="0.055" />
+			<mass lowerlimit="0.04" upperlimit="0.055"/>
 			<temperature>1000</temperature>
 		</star>
 	</binary>

@@ -9,6 +9,8 @@
 		<magJ errorminus="0.023" errorplus="0.023">13.916</magJ>
 		<magH errorminus="0.026" errorplus="0.026">13.448</magH>
 		<magK>13.371</magK>
+		<!--Exoplanet.eu Catalogue-->
+		<magK>13.372</magK>
 		<name>Kepler-257</name>
 		<name>KOI-941</name>
 		<name>KIC 9480189</name>
@@ -27,10 +29,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-257 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.066</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-257 b</name>
 			<name>KOI-941 b</name>
@@ -43,10 +46,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-257 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.034</semimajoraxis>
+	</planet>
 		<planet>
 			<name>Kepler-257 d</name>
 			<name>KOI-941 d</name>
@@ -59,9 +63,11 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-257 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-257 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.16</semimajoraxis>
+	</planet>
+	<magV>15.471</magV>
 	</star>
 </system>

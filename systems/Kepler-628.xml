@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-628</name>
-	<rightascension>19 21 48</rightascension>
+	<rightascension>19 21 47</rightascension>
 	<declination>+39 51 17</declination>
 	<star>
 		<name>Kepler-628</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000002950" errorplus="0.000002950">15.458056700</period>
 			<radius errorminus="0.126" errorplus="0.145">0.749</radius>
 		</planet>
+	<magV>13.398</magV>
 	</star>
-</system>
+<distance>579.0</distance>
+	</system>

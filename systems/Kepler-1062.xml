@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1062</name>
-	<rightascension>18 55 36</rightascension>
-	<declination>+41 13 18</declination>
+	<rightascension>18 55 35</rightascension>
+	<declination>+41 13 17.7852</declination>
 	<star>
 		<name>Kepler-1062</name>
 		<temperature errorminus="73.2" errorplus="61.9">4597.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000023940" errorplus="0.000023940">9.304120780</period>
 			<radius errorminus="0.009" errorplus="0.008">0.157</radius>
 		</planet>
+	<magV>14.796</magV>
 	</star>
-</system>
+<distance>388.0</distance>
+	</system>

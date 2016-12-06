@@ -2,6 +2,8 @@
 	<name>Kepler-434</name>
 	<rightascension>19 34 20.729</rightascension>
 	<declination>+42 45 44.08</declination>
+	<!--NASA Catalogue-->
+	<declination>+42 55 44.1</declination>
 	<distance errorminus="120" errorplus="120">1240</distance>
 	<star>
 		<name>Kepler-434</name>
@@ -31,9 +33,11 @@
 			<inclination errorminus="0.74" errorplus="0.38">86.46</inclination>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/01/07</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 			<temperature errorminus="45" errorplus="45">1000</temperature>
-		</planet>
+		<eccentricity errorplus="0.072" errorminus="0.072">0.131</eccentricity>
+	</planet>
+	<magV>14.517</magV>
 	</star>
 </system>

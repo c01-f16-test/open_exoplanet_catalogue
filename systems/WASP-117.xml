@@ -27,6 +27,8 @@
 			<mass errorminus="0.009" errorplus="0.009">0.2755</mass>
 			<radius errorminus="0.065" errorplus="0.076">1.021</radius>
 			<temperature errorminus="-26" errorplus="30">1024</temperature>
+			<!--Exoplanet.eu Catalogue-->
+			<temperature>1024.0</temperature>
 			<period errorminus="0.00055" errorplus="0.00055">10.02165</period>
 			<semimajoraxis errorminus="0.00079" errorplus="0.00084">0.09459</semimajoraxis>
 			<eccentricity errorminus="0.023" errorplus="0.023">0.302</eccentricity>
@@ -37,7 +39,7 @@
 			<spinorbitalignment errorminus="11" errorplus="11">-44</spinorbitalignment>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>14/06/27</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

@@ -2,6 +2,8 @@
 	<name>2M 2140+16</name>
 	<name>2MASS J21402931+1625183</name>
 	<rightascension>21 40 29</rightascension>
+	<!--Exoplanet.eu Catalogue-->
+	<rightascension>21 40 28</rightascension>
 	<declination>+16 25 18</declination>
 	<distance>25</distance>
 	<star>
@@ -19,7 +21,7 @@
 			<eccentricity>0.26</eccentricity>
 			<inclination>46.2</inclination>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>12/01/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 		<name>2M 2140+16</name>

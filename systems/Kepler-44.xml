@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-44</name>
 	<rightascension>20 00 25</rightascension>
-	<declination>+45 45 44</declination>
+	<declination>+45 45 43.9999</declination>
 	<distance errorminus="300" errorplus="300">2250</distance>
 	<star>
 		<name>Kepler-44</name>
@@ -18,7 +18,13 @@
 		<mass errorminus="0.08" errorplus="0.08">1.12</mass>
 		<age errorminus="1.5" errorplus="2.4">5.8</age>
 		<metallicity errorminus="0.11" errorplus="0.11">0.42</metallicity>
+		<!--Exoplanet.eu Catalogue-->
+		<metallicity errorplus="0.1" errorminus="0.1">0.26</metallicity>
 		<spectraltype>G2IV</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.678</magV>
 		<planet>
 			<name>Kepler-44 b</name>
 			<name>KOI-204 b</name>
@@ -29,12 +35,18 @@
 			<radius errorminus="0.07" errorplus="0.07">1.09</radius>
 			<period errorminus="0.0000030" errorplus="0.0000030">3.2467293</period>
 			<transittime errorminus="0.00021" errorplus="0.00021">2455187.15640</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0004" errorplus="0.0004">2454966.3781</transittime>
 			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0446</semimajoraxis>
 			<inclination errorminus="0.62" errorplus="0.50">84.96</inclination>
-			<eccentricity upperlimit="0.066" />
+			<eccentricity upperlimit="0.066"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="nan" errorminus="inf">0.021</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.066</eccentricity>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

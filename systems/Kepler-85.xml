@@ -23,11 +23,17 @@
 			<name>KIC 8950568.01</name>
 			<radius errorminus="0.03098" errorplus="0.03098">0.16768</radius>
 			<period errorminus=".000050" errorplus="0.000050">8.305738</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>8.305992</period>
+			<!--NASA Catalogue-->
+			<period>8.306</period>
 			<transittime errorminus="0.0032800" errorplus="0.0032800">2454972.7280300</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime>2454972.7166</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-85 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -39,11 +45,19 @@
 			<name>KIC 8950568.02</name>
 			<radius errorminus="0.03827" errorplus="0.03827">0.20778</radius>
 			<period errorminus=".000088" errorplus="0.000088">12.512598</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>12.51217</period>
+			<!--NASA Catalogue-->
+			<period>12.513</period>
 			<transittime errorminus="0.0041500" errorplus="0.0041500">2454972.4398800</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime>2454972.4561</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-85 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -59,10 +73,15 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-85 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.13</semimajoraxis>
+	</planet>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>15.0</magV>
+		<!--NASA Catalogue-->
+		<magV>14.779</magV>
 		<planet>
 			<name>Kepler-85 e</name>
 			<name>KOI-2038 e</name>
@@ -75,9 +94,10 @@
 			<list>Confirmed planets</list>
 			<description>Kepler-85 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-85 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-		</planet>
+		<semimajoraxis>0.163</semimajoraxis>
+	</planet>
 	</star>
 </system>

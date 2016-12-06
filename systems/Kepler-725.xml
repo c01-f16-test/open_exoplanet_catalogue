@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-725</name>
-	<rightascension>18 55 55</rightascension>
-	<declination>+44 48 42</declination>
+	<rightascension>18 55 54</rightascension>
+	<declination>+44 48 41.6232</declination>
 	<star>
 		<name>Kepler-725</name>
 		<temperature errorminus="62.8" errorplus="59.2">5363.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000011100" errorplus="0.000011100">39.643178110</period>
 			<radius errorminus="0.053" errorplus="0.076">0.948</radius>
 		</planet>
+	<magV>15.011</magV>
 	</star>
-</system>
+<distance>778.0</distance>
+	</system>

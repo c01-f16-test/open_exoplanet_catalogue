@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-1140</name>
-	<rightascension>18 46 47</rightascension>
+	<rightascension>18 46 46</rightascension>
 	<declination>+46 56 47</declination>
 	<star>
 		<name>Kepler-1140</name>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000102000" errorplus="0.000102000">24.086270700</period>
 			<radius errorminus="0.033" errorplus="0.040">0.247</radius>
 		</planet>
+	<magV>15.464</magV>
 	</star>
-</system>
+<distance>657.0</distance>
+	</system>

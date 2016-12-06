@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-974</name>
 	<rightascension>19 00 03</rightascension>
-	<declination>+40 13 15</declination>
+	<declination>+40 13 14.7108</declination>
 	<star>
 		<name>Kepler-974</name>
 		<temperature errorminus="37.0" errorplus="38.8">3687.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000005030" errorplus="0.000005030">4.194496510</period>
 			<radius errorminus="0.026" errorplus="0.005">0.140</radius>
 		</planet>
+	<magV>14.404</magV>
 	</star>
-</system>
+<distance>121.0</distance>
+	</system>

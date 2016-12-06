@@ -17,6 +17,8 @@
 		<magI>0.2</magI>
 		<metallicity>0.19</metallicity>
 		<spectraltype>K0IIIb</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype> K0IIIb</spectraltype>
 		<planet>
 			<name>HD 62509 b</name>
 			<name>Pollux b</name>
@@ -28,7 +30,7 @@
 			<semimajoraxis>1.69</semimajoraxis>
 			<eccentricity>0.02</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>482.6</temperature>
 		</planet>

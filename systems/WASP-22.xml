@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-22</name>
 	<rightascension>03 31 16</rightascension>
-	<declination>-23 49 11</declination>
+	<declination>-23 49 10.9999</declination>
 	<distance>300</distance>
 	<star>
 		<spectraltype>G</spectraltype>
@@ -20,14 +20,24 @@
 			<name>2MASS J03311633-2349109 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.588</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.0172" errorplus="0.00318">0.617</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.018" errorplus="0.028">0.617</mass>
 			<radius>1.158</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.027" errorplus="0.046">1.199</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.027" errorplus="0.046">1.199</radius>
 			<period>3.5327313</period>
 			<semimajoraxis>0.04698</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.26</inclination>
 			<transittime errorminus="0.00025" errorplus="0.00025" unit="BJD">2455497.40043</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.00025" errorplus="0.00025">2455497.39967</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/07/01</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1297.5</temperature>
 			<istransiting>1</istransiting>

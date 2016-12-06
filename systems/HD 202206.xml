@@ -18,10 +18,11 @@
 			<semimajoraxis>0.83</semimajoraxis>
 			<eccentricity>0.435</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>277.6</temperature>
-		</planet>
+		<inclination>90.0</inclination>
+	</planet>
 		<planet>
 			<name>HD 202206 c</name>
 			<list>Confirmed planets</list>
@@ -30,10 +31,11 @@
 			<semimajoraxis>2.55</semimajoraxis>
 			<eccentricity>0.267</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>159.6</temperature>
-		</planet>
+		<inclination>90.0</inclination>
+	</planet>
 		<name>HD 202206</name>
 		<temperature>5750.0</temperature>
 	</star>

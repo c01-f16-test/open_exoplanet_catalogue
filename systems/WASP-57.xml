@@ -5,7 +5,11 @@
 	<distance errorminus="80" errorplus="80">455</distance>
 	<star>
 		<mass>1.01</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.07" errorminus="0.07">0.89</mass>
 		<radius>1.32</radius>
+		<!--NASA Catalogue-->
+		<radius errorminus="0.03" errorplus="0.03">0.93</radius>
 		<temperature errorminus="100" errorplus="100">5600</temperature>
 		<magB errorminus="0.5" errorplus="0.5">13.6</magB>
 		<magV errorminus="0.25" errorplus="0.25">13.04</magV>
@@ -19,16 +23,32 @@
 			<name>WASP-57 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.672</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass>0.8</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.062" errorplus="0.062">0.644</mass>
 			<radius>0.916</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius>1.1</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.053" errorplus="0.053">1.05</radius>
 			<period>2.838971</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>2.8</period>
+			<!--NASA Catalogue-->
+			<period errorplus="8.1e-07" errorminus="8.1e-07">2.83891856</period>
 			<semimajoraxis>0.0386</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.00097" errorplus="0.00097">0.03769</semimajoraxis>
 			<eccentricity>0</eccentricity>
 			<inclination>88.0</inclination>
+			<!--NASA Catalogue-->
+			<inclination errorplus="0.28" errorminus="0.28">86.05</inclination>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455717.87811</transittime>
 			<temperature errorminus="22" errorplus="21">1251</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/10/08</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

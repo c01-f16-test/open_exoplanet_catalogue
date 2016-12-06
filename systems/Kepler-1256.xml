@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1256</name>
-	<rightascension>19 25 54</rightascension>
-	<declination>+44 41 01</declination>
+	<rightascension>19 25 53</rightascension>
+	<declination>+44 41 00.6504</declination>
 	<star>
 		<name>Kepler-1256</name>
 		<temperature errorminus="69.3" errorplus="67.9">6129.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000108000" errorplus="0.000108000">12.412775400</period>
 			<radius errorminus="0.020" errorplus="0.039">0.133</radius>
 		</planet>
+	<magV>13.539</magV>
 	</star>
-</system>
+<distance>862.0</distance>
+	</system>

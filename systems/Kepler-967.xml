@@ -1,6 +1,6 @@
 <system>
 	<name>Kepler-967</name>
-	<rightascension>19 06 14</rightascension>
+	<rightascension>19 06 13</rightascension>
 	<declination>+38 24 19</declination>
 	<star>
 		<name>Kepler-967</name>
@@ -13,7 +13,7 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
@@ -25,12 +25,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000655800" errorplus="0.000655800">198.711250200</period>
 			<radius errorminus="0.012" errorplus="0.013">0.326</radius>
 		</planet>
+	<magV>14.443</magV>
 	</star>
-</system>
+<distance>499.0</distance>
+	</system>

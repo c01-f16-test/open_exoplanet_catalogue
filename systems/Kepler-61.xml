@@ -16,6 +16,10 @@
 		<magH errorminus="0.022" errorplus="0.022">12.426</magH>
 		<magK errorminus="0.019" errorplus="0.019">12.272</magK>
 		<mass errorminus="0.037" errorplus="0.037">0.35</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.037" errorminus="0.037">0.635</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.04" errorminus="0.04">0.64</mass>
 		<radius errorminus="0.05" errorplus="0.02">0.62</radius>
 		<temperature errorminus="150" errorplus="68">4017</temperature>
 		<metallicity errorminus="0.14" errorplus="0.14">0.03</metallicity>
@@ -29,13 +33,23 @@
 			<radius errorminus="0.01184693" errorplus="0.01184693">0.19593013</radius>
 			<temperature errorminus="13" errorplus="13">273</temperature>
 			<period errorminus="0.00020" errorplus="0.00020">59.87756</period>
-			<eccentricity upperlimit="0.25" />
-			<inclination lowerlimit="89.80" />
+			<eccentricity upperlimit="0.25"/>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorminus="0.25">0.25</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity>0.25</eccentricity>
+			<inclination lowerlimit="89.80"/>
+			<!--Exoplanet.eu Catalogue-->
+			<inclination errorminus="0.2">89.8</inclination>
+			<!--NASA Catalogue-->
+			<inclination>89.8</inclination>
 			<transittime errorminus="0.0024" errorplus="0.0029" unit="BJD">2454984.1880</transittime>
 			<description>Kepler-61 b is a 2.15 Earth-radii transiting exoplanet. It was confirmed using a statistical argument: It is 30,000 times more likely that Kepler-61 b is a planet than a blend scenario.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/04/26</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<discoveryyear>2012</discoveryyear>
 			<image>Kepler61</image>
 			<imagedescription>Artist's impression of the exoplanet Kepler-61 b.
 			

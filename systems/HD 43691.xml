@@ -1,6 +1,6 @@
 <system>
 	<name>HD 43691</name>
-	<rightascension>06 19 35</rightascension>
+	<rightascension>06 19 34</rightascension>
 	<declination>+41 05 32</declination>
 	<distance>93.2</distance>
 	<star>
@@ -20,7 +20,7 @@
 			<semimajoraxis>0.24</semimajoraxis>
 			<eccentricity>0.14</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/11/27</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>762.5</temperature>
 		</planet>

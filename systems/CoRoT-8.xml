@@ -6,7 +6,7 @@
 	<star>
 		<mass>0.88</mass>
 		<radius>0.77</radius>
-		<magV>14.797</magV>
+		<magV>14.8</magV>
 		<magB>16.096</magB>
 		<magR>14.267</magR>
 		<magI errorminus="0.07" errorplus="0.07">13.26</magI>
@@ -28,8 +28,10 @@
 			<eccentricity>0.0</eccentricity>
 			<inclination>88.4</inclination>
 			<transittime errorminus="0.0004" errorplus="0.0004" unit="BJD">2454238.9750</transittime>
+			<!--Exoplanet.eu Catalogue-->
+			<transittime errorminus="0.0004" errorplus="0.0004">2454238.9743</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/06/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>783.1</temperature>
 			<istransiting>1</istransiting>

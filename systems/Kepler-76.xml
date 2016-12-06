@@ -15,6 +15,10 @@
 		<magH errorminus="0.021" errorplus="0.021">12.134</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.092</magK>
 		<spectraltype>G2V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>14.0</magV>
+		<!--NASA Catalogue-->
+		<magV>13.308</magV>
 		<planet>
 			<name>Kepler-76 b</name>
 			<name>KOI-1658.01</name>
@@ -29,8 +33,12 @@
 			<transittime errorminus="0.00007" errorplus="0.00007" unit="BJD">2454966.54811</transittime>
 			<description>This planet was discovered in a Kepler lightcurve using the BEER algorithm (BEaming effect with Ellipsoidal and Reflection modulations). Follow-up observations using spectra from TRES and SOPHIE confirmed the planetary nature of the object. The planet has the nickname "Einstein's Planet" because the confirmation method makes use of special relativity.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.028</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.0019" errorplus="0.002">0.0274</semimajoraxis>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

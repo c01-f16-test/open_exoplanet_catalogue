@@ -24,8 +24,10 @@
 			<semimajoraxis>0.070</semimajoraxis>
 			<eccentricity>0.09</eccentricity>
 			<periastron>-42</periastron>
+			<!--Exoplanet.eu Catalogue-->
+			<periastron errorplus="64.0" errorminus="64.0">318.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/01/14</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>The Star HD 103774 hosts a Neptune mass planet. The star shows signs for varying activity during the nine year observing campaign. The planet was discovered with the European HARPS instrument.</description>
 			<temperature>1310.9</temperature>

@@ -19,12 +19,28 @@
 			<name>HD 3651 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.2</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.00972" errorplus="0.291">0.231</mass>
+			<!--NASA Catalogue-->
+			<mass errorminus="0.008" errorplus="0.008">0.229</mass>
 			<period>62.23</period>
+			<!--Exoplanet.eu Catalogue-->
+			<period>62.218</period>
+			<!--NASA Catalogue-->
+			<period errorplus="0.015" errorminus="0.015">62.218</period>
 			<semimajoraxis>0.284</semimajoraxis>
+			<!--Exoplanet.eu Catalogue-->
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.295</semimajoraxis>
+			<!--NASA Catalogue-->
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.295</semimajoraxis>
 			<eccentricity>0.63</eccentricity>
+			<!--Exoplanet.eu Catalogue-->
+			<eccentricity errorplus="0.036" errorminus="0.036">0.596</eccentricity>
+			<!--NASA Catalogue-->
+			<eccentricity errorplus="0.036" errorminus="0.036">0.596</eccentricity>
 			<inclination>83</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/10/19</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>405.0</temperature>
 		</planet>

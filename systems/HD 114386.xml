@@ -2,7 +2,11 @@
 	<name>HD 114386</name>
 	<rightascension>13 10 39</rightascension>
 	<declination>-35 03 17</declination>
+	<!--Exoplanet.eu Catalogue-->
+	<declination>-35 03 16.9999</declination>
 	<distance>28.04</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>28.0</distance>
 	<star>
 		<mass>0.75</mass>
 		<radius>0.76</radius>
@@ -32,7 +36,7 @@
 			<period>1046</period>
 			<eccentricity>0.06</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/13</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
 		<name>HD 114386</name>

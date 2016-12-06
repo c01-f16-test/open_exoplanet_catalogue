@@ -1,7 +1,7 @@
 <system>
 	<name>HD 137388</name>
 	<rightascension>15 35 40</rightascension>
-	<declination>-80 12 17</declination>
+	<declination>-80 12 16.9999</declination>
 	<distance>38</distance>
 	<star>
 		<mass>0.86</mass>
@@ -25,7 +25,7 @@
 			<eccentricity>0.36</eccentricity>
 			<description>HD 137388 b was found with the European High Accuracy Radial velocity Planet Searcher (HARPS) which can reach sub-meter-per-second precision. The planet orbits a K type star. HD 137388 appears in the literature as a binary system. However, according to Roell et al. (2012) the A and B components of HD 137388 have very different proper motions and are unlikely to be a physical binary system.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>219.9</temperature>
 		</planet>

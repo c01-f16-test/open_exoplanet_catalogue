@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1602</name>
 	<rightascension>19 34 19</rightascension>
-	<declination>+40 25 39</declination>
+	<declination>+40 25 38.9208</declination>
 	<star>
 		<name>Kepler-1602</name>
 		<temperature errorminus="152.7" errorplus="217.7">6296.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000075040" errorplus="0.000075040">11.179316050</period>
 			<radius errorminus="0.021" errorplus="0.052">0.120</radius>
 		</planet>
+	<magV>13.352</magV>
 	</star>
-</system>
+<distance>815.0</distance>
+	</system>

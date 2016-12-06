@@ -1,6 +1,6 @@
 <system>
 	<name>WASP-3</name>
-	<rightascension>18 34 32</rightascension>
+	<rightascension>18 34 31</rightascension>
 	<declination>+35 39 42</declination>
 	<distance errorminus="20" errorplus="20">220</distance>
 	<binary>
@@ -33,8 +33,10 @@
 				<eccentricity>0.0</eccentricity>
 				<inclination>85.06</inclination>
 				<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2454605.55978</transittime>
+				<!--Exoplanet.eu Catalogue-->
+				<transittime errorminus="0.00023" errorplus="0.00023">2454605.55915</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>11/06/23</lastupdate>
+				<lastupdate>16/12/06</lastupdate>
 				<discoveryyear>2007</discoveryyear>
 				<temperature>1825.6</temperature>
 				<istransiting>1</istransiting>

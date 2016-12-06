@@ -15,6 +15,10 @@
 		<mass errorminus="0.002" errorplus="0.002">1.09</mass>
 		<radius errorminus="0.05" errorplus="0.05">1.94</radius>
 		<magV errorminus="0.009" errorplus="0.009">4.970</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>5.0</magV>
+		<!--NASA Catalogue-->
+		<magV>4.98</magV>
 		<magB errorminus="0.007" errorplus="0.007">5.680</magB>
 		<magR>4.37</magR>
 		<magI>3.98</magI>
@@ -23,6 +27,8 @@
 		<magK errorminus="0.05" errorplus="0.05">3.24</magK>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.09</metallicity>
 		<age errorminus="0.51" errorplus="0.51">7.77</age>
+		<!--Exoplanet.eu Catalogue-->
+		<age>7.09</age>
 		<spectraltype>G4 V</spectraltype>
 		<temperature errorminus="44" errorplus="44">5439</temperature>
 		<planet>
@@ -42,7 +48,7 @@
 			<eccentricity errorminus="0.002" errorplus="0.002">0.399</eccentricity>
 			<description>The star 70 Virginis is located in the constellation Virgo and starting to evolve into the subgiant phase. It has a dust disc at 3.4 AU.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/04/15</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>1996</discoveryyear>
 			<temperature>479.1</temperature>
 		</planet>

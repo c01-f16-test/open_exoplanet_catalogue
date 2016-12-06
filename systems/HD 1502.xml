@@ -13,6 +13,8 @@
 		<magK errorminus="0.026" errorplus="0.026">6.120</magK>
 		<metallicity>0.09</metallicity>
 		<spectraltype>K0</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>K0D</spectraltype>
 		<planet>
 			<name>HD 1502 b</name>
 			<list>Confirmed planets</list>
@@ -22,7 +24,7 @@
 			<eccentricity>0.101</eccentricity>
 			<description>The star HD 1502 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory. Special thanks goes to Andrew from the Punahou School in Hawaii who pointed out an error in the spectral classification.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>412.3</temperature>
 		</planet>

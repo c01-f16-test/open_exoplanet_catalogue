@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-947</name>
 	<rightascension>19 37 28</rightascension>
-	<declination>+42 15 10</declination>
+	<declination>+42 15 09.6408</declination>
 	<star>
 		<name>Kepler-947</name>
 		<temperature errorminus="129.7" errorplus="133.2">5508.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000157000" errorplus="0.000157000">26.964431700</period>
 			<radius errorminus="0.021" errorplus="0.021">0.203</radius>
 		</planet>
+	<magV>15.789</magV>
 	</star>
-</system>
+<distance>1188.0</distance>
+	</system>

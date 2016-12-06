@@ -1,12 +1,14 @@
 <system>
 	<name>HD 209458</name>
 	<rightascension>22 03 10</rightascension>
-	<declination>+18 53 04</declination>
+	<declination>+18 53 03.9998</declination>
 	<distance>47</distance>
 	<star>
 		<mass errorminus="0.022" errorplus="0.022">1.148</mass>
 		<radius errorminus="0.059" errorplus="0.059">1.146</radius>
 		<magV errorminus="0.01" errorplus="0.01">7.63</magV>
+		<!--Exoplanet.eu Catalogue-->
+		<magV>7.65</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.21</magB>
 		<magJ errorminus="0.020" errorplus="0.020">6.591</magJ>
 		<magH errorminus="0.04" errorplus="0.04">6.37</magH>
@@ -15,10 +17,14 @@
 		<temperature errorminus="33" errorplus="33">6075</temperature>
 		<age errorminus="2" errorplus="2">4</age>
 		<spectraltype>G0V</spectraltype>
+		<!--Exoplanet.eu Catalogue-->
+		<spectraltype>G0 V</spectraltype>
 		<planet>
 			<name>HD 209458 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.017" errorplus="0.017">0.714</mass>
+			<!--Exoplanet.eu Catalogue-->
+			<mass errorminus="0.017" errorplus="0.017">0.69</mass>
 			<radius errorminus="0.018" errorplus="0.018">1.38</radius>
 			<period errorminus="3.8e-07" errorplus="3.8e-07">3.52474859</period>
 			<semimajoraxis errorminus="0.00055" errorplus="0.00055">0.04747</semimajoraxis>
@@ -26,7 +32,7 @@
 			<inclination errorminus="0.046" errorplus="0.046">86.59</inclination>
 			<transittime errorminus="0.014" errorplus="0.014" unit="HJD">2451370.048</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/04/18</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<description>By studying the carbon monoxide gas in the upper atmosphere with great accuracy, astronomers found evidence for a wind, blowing at a speed of 5000 to 10000 km per hour.</description>
 			<image>HD209458</image>

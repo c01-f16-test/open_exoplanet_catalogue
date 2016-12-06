@@ -1,7 +1,7 @@
 <system>
 	<name>HD 38283</name>
 	<rightascension>05 37 02</rightascension>
-	<declination>-73 41 58</declination>
+	<declination>-73 41 57.9998</declination>
 	<distance>37.7</distance>
 	<star>
 		<mass>1.085</mass>
@@ -21,7 +21,7 @@
 			<semimajoraxis>1.02</semimajoraxis>
 			<eccentricity>0.41</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/04/13</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>309.9</temperature>
 		</planet>

@@ -3,6 +3,10 @@
 	<rightascension>12 20 43</rightascension>
 	<declination>+17 47 34</declination>
 	<distance errorminus="1.7" errorplus="1.7">88.9</distance>
+	<!--Exoplanet.eu Catalogue-->
+	<distance>110.6</distance>
+	<!--NASA Catalogue-->
+	<distance>110.62</distance>
 	<star>
 		<name>11 Com</name>
 		<name>11 Comae Berenices</name>
@@ -34,7 +38,7 @@
 			<periastrontime errorminus="1.6" errorplus="1.6">2452899.6</periastrontime>
 			<description>11 Com b is a brown dwarf-mass companion to the intermediate-mass star 11 Comae Berenices.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/09/20</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 		</planet>
 	</star>

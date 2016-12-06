@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-1159</name>
-	<rightascension>19 37 04</rightascension>
-	<declination>+45 12 16</declination>
+	<rightascension>19 37 03</rightascension>
+	<declination>+45 12 15.534</declination>
 	<star>
 		<name>Kepler-1159</name>
 		<temperature errorminus="196.7" errorplus="147.7">6217.0</temperature>
@@ -13,12 +13,14 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period errorminus="0.000095410" errorplus="0.000095410">22.708167910</period>
 			<radius errorminus="0.033" errorplus="0.092">0.211</radius>
 		</planet>
+	<magV>14.574</magV>
 	</star>
-</system>
+<distance>1238.0</distance>
+	</system>

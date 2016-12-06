@@ -1,11 +1,15 @@
 <system>
 	<name>Qatar-1</name>
-	<rightascension>20 13 32</rightascension>
+	<rightascension>20 13 31</rightascension>
 	<declination>+65 09 43</declination>
 	<star>
 		<name>Qatar-1</name>
 		<name>GSC 04240-00470</name>
 		<mass>0.85</mass>
+		<!--Exoplanet.eu Catalogue-->
+		<mass errorplus="0.05" errorminus="0.05">0.8</mass>
+		<!--NASA Catalogue-->
+		<mass errorplus="0.04" errorminus="0.04">0.84</mass>
 		<radius>0.80</radius>
 		<magV>12.84</magV>
 		<magB errorminus="0.36" errorplus="0.36">13.90</magB>
@@ -25,6 +29,10 @@
 			<list>Confirmed planets</list>
 			<mass>1.33</mass>
 			<radius>1.164</radius>
+			<!--Exoplanet.eu Catalogue-->
+			<radius errorminus="0.09" errorplus="0.09">1.18</radius>
+			<!--NASA Catalogue-->
+			<radius errorminus="0.025" errorplus="0.026">1.143</radius>
 			<period>1.42002504</period>
 			<semimajoraxis>0.02343</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
@@ -32,7 +40,7 @@
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="D">2445518.4102</transittime>
 			<discoverymethod>transit</discoverymethod>
 			<spinorbitalignment>-8.4</spinorbitalignment>
-			<lastupdate>13/04/02</lastupdate>
+			<lastupdate>16/12/06</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1389</temperature>
 			<description>Qatar-1 b orbits a metal-rich K-dwarf, one of the faintest around which a planet has been discovered by ground based surveys. Measurements of the Rossiter-McLaughlin effect show that the sky-projected obliquity between the orbital plane of the planet and the star's rotation axis is only a few degrees.</description>
