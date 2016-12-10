@@ -2,34 +2,36 @@
 	<name>Kepler-317</name>
 	<name>KOI-1760</name>
 	<name>KIC 3967760</name>
-	<rightascension>19 39 46</rightascension>
-	<declination>+39 01 55</declination>
+	<rightascension>19 36 226.530756</rightascension>
+	<declination>39 1 55.4268</declination>
 	<distance>1142.05</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">14.095</magJ>
 		<magH errorminus="0.029" errorplus="0.029">13.722</magH>
-		<magK errorminus="0.05" errorplus="0.05">13.67</magK>
+		<magK>13.668</magK>
 		<name>Kepler-317</name>
 		<name>KOI-1760</name>
 		<name>KIC 3967760</name>
 		<temperature errorminus="200" errorplus="200">5497</temperature>
-		<radius errorminus=".429" errorplus="0.429">0.941</radius>
-		<mass errorminus="0.0810" errorplus="0.0810">0.8160</mass>
+		<radius errorminus="0.43" errorplus="0.43">0.94</radius>
+		<mass>0.95</mass>
+		<metallicity>0.258</metallicity>
 		<planet>
 			<name>Kepler-317 b</name>
 			<name>KOI-1760 b</name>
 			<name>KOI-1760.01</name>
 			<name>KIC 3967760 b</name>
 			<name>KIC 3967760.01</name>
-			<radius errorminus="0.08749" errorplus="0.08749">0.19046</radius>
-			<period errorminus=".000027" errorplus="0.000027">5.524242</period>
+			<radius errorminus="0.086" errorplus="0.086">0.186</radius>
+			<period errorminus="0.00002700" errorplus="0.00002700">5.52424200</period>
 			<transittime errorminus="0.0030300" errorplus="0.0030300">2454968.6193100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-317 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-317 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.061000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-317 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1760.02</name>
 			<name>KIC 3967760 c</name>
 			<name>KIC 3967760.02</name>
-			<radius errorminus="0.07199" errorplus="0.07199">0.15674</radius>
-			<period errorminus=".000113" errorplus="0.000113">8.775010</period>
+			<radius errorminus="0.070" errorplus="0.070">0.153</radius>
+			<period errorminus="0.00011300" errorplus="0.00011300">8.77501000</period>
 			<transittime errorminus="0.0070700" errorplus="0.0070700">2454966.7098000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-317 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-317 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.083000</semimajoraxis>
 		</planet>
 	</star>
 </system>

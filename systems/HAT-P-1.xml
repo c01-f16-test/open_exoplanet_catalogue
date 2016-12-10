@@ -1,37 +1,38 @@
 <system>
 	<name>HAT-P-1</name>
-	<rightascension>22 57 47</rightascension>
-	<declination>+38 40 30</declination>
-	<distance>139</distance>
+	<rightascension>22 56 106.999992</rightascension>
+	<declination>38 40 30.0</declination>
+	<distance errorminus="20.0" errorplus="20.0">139.0</distance>
 	<star>
-		<mass>1.133</mass>
-		<radius>1.115</radius>
+		<mass errorminus="0.052" errorplus="0.052">1.151</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.174</radius>
 		<magV>10.4</magV>
 		<magB>11.0</magB>
 		<magJ errorminus="0.026" errorplus="0.026">9.156</magJ>
 		<magH errorminus="0.030" errorplus="0.030">8.923</magH>
 		<magK errorminus="0.018" errorplus="0.018">8.858</magK>
-		<metallicity>0.13</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<metallicity errorminus="0.008" errorplus="0.008">0.13</metallicity>
+		<spectraltype>GOV</spectraltype>
+		<name>HAT-P-1</name>
+		<temperature errorminus="49.0" errorplus="49.0">5980.0</temperature>
+		<age>3.6</age>
 		<planet>
 			<name>HAT-P-1 b</name>
 			<name>BD+37 4734s b</name>
 			<name>SAO 72884 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.524</mass>
-			<radius>1.217</radius>
-			<period>4.4652934</period>
-			<semimajoraxis>0.05535</semimajoraxis>
+			<mass errorminus="0.01900" errorplus="0.01900">0.52500</mass>
+			<radius errorminus="0.019" errorplus="0.019">1.319</radius>
+			<period errorminus="0.00000055" errorplus="0.00000055">4.46529976</period>
+			<semimajoraxis errorminus="0.000830" errorplus="0.000820">0.055610</semimajoraxis>
 			<eccentricity>0.067</eccentricity>
-			<inclination>86.28</inclination>
+			<inclination errorminus="0.056" errorplus="0.056">85.634</inclination>
 			<transittime errorminus="0.00072" errorplus="0.00072" unit="BJD">2454363.94726</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/02/07</lastupdate>
+			<lastupdate>15/09/10</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>1182.1</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-1</name>
-		<temperature>5975.0</temperature>
 	</star>
 </system>

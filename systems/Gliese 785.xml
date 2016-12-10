@@ -14,6 +14,8 @@
 		<magK errorminus="0.232" errorplus="0.232">3.501</magK>
 		<metallicity>-0.04</metallicity>
 		<spectraltype>K3V</spectraltype>
+		<name>Gliese 785</name>
+		<temperature>5166.0</temperature>
 		<planet>
 			<name>Gliese 785 b</name>
 			<name>GJ 785 b</name>
@@ -66,7 +68,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>171.8</temperature>
 		</planet>
-		<name>Gliese 785</name>
-		<temperature>5166.0</temperature>
 	</star>
 </system>

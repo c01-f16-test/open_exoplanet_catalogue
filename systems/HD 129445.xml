@@ -1,8 +1,8 @@
 <system>
 	<name>HD 129445</name>
-	<rightascension>14 46 03</rightascension>
-	<declination>-68 45 45</declination>
-	<distance>67.61</distance>
+	<rightascension>14 43 182.999999</rightascension>
+	<declination>-68 45 45.0</declination>
+	<distance errorminus="5.1" errorplus="5.1">67.61</distance>
 	<star>
 		<mass>0.99</mass>
 		<magV>8.8</magV>
@@ -12,19 +12,21 @@
 		<magK errorminus="0.026" errorplus="0.026">7.167</magK>
 		<metallicity>0.25</metallicity>
 		<spectraltype>G8V</spectraltype>
+		<name>HD 129445</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 129445 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.6</mass>
-			<period>1840</period>
-			<semimajoraxis>2.9</semimajoraxis>
-			<eccentricity>0.7</eccentricity>
+			<mass errorminus="0.6" errorplus="0.6">1.6</mass>
+			<period errorminus="55.0" errorplus="55.0">1840.0</period>
+			<semimajoraxis errorminus="0.2" errorplus="0.2">2.9</semimajoraxis>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.7</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/26</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>151.1</temperature>
+			<periastron errorminus="15.0" errorplus="15.0">163.0</periastron>
+			<periastrontime errorminus="50.0" errorplus="50.0">2453093.0</periastrontime>
 		</planet>
-		<name>HD 129445</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

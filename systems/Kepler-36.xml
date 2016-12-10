@@ -1,20 +1,21 @@
 <system>
 	<name>Kepler-36</name>
-	<rightascension>19 25 00</rightascension>
-	<declination>+49 13 54</declination>
-	<distance>436.937</distance>
+	<rightascension>19 23 119.999999</rightascension>
+	<declination>49 13 54.9998399</declination>
+	<distance>470.00</distance>
 	<star>
 		<name>Kepler-36</name>
 		<name>KIC 11401755</name>
 		<name>KOI-277</name>
-		<temperature>5911.0</temperature>
+		<temperature errorminus="41.0" errorplus="41.0">5900.0</temperature>
 		<magB errorminus="0.24" errorplus="0.24">12.66</magB>
-		<magV errorminus="0.17" errorplus="0.17">11.94</magV>
+		<magV>12.0</magV>
 		<magJ errorminus="0.023" errorplus="0.023">11.124</magJ>
 		<magH errorminus="0.029" errorplus="0.029">10.850</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.788</magK>
-		<mass>1.071</mass>
-		<radius>1.619</radius>
+		<mass errorminus="0.035" errorplus="0.035">1.113</mass>
+		<radius errorminus="0.019" errorplus="0.019">1.66</radius>
+		<age errorminus="0.372" errorplus="0.372">6.923</age>
 		<planet>
 			<name>Kepler-36 b</name>
 			<name>KOI-277.02</name>
@@ -22,21 +23,19 @@
 			<name>KIC 11401755 b</name>
 			<name>2MASS 19250004+4913545 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.01346359</mass>
-			<radius>0.13778</radius>
-			<period>13.83988</period>
-			<semimajoraxis>0.1151</semimajoraxis>
+			<mass errorminus="0.00100" errorplus="0.00100">0.01400</mass>
+			<radius errorminus="0.003" errorplus="0.003">0.133</radius>
+			<period errorminus="0.00060000" errorplus="0.00082000">13.83989000</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.001500">0.115300</semimajoraxis>
 			<transittime errorminus="0.0058" errorplus="0.0055" unit="BJD">2454960.9753</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<image>Kepler36</image>
-			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
-	
-	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
 			<temperature>978.8</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity>0.039000</eccentricity>
+			<inclination errorminus="0.710" errorplus="0.690">90.010</inclination>
 		</planet>
 		<planet>
 			<name>Kepler-36 c</name>
@@ -45,21 +44,19 @@
 			<name>KIC 11401755 c</name>
 			<name>2MASS 19250004+4913545 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.02541726</mass>
-			<radius>0.33526835</radius>
-			<period>16.23855</period>
-			<semimajoraxis>0.1283</semimajoraxis>
+			<mass errorminus="0.001457" errorplus="0.0018872">0.0254149</mass>
+			<radius errorminus="0.0048" errorplus="0.0048">0.3282</radius>
+			<period errorminus="0.00038" errorplus="0.00054">16.23855</period>
+			<semimajoraxis errorminus="0.0016" errorplus="0.0016">0.1283</semimajoraxis>
 			<transittime errorminus="0.0010" errorplus="0.0011" unit="BJD">2454955.9132</transittime>
 			<description>The Kepler-36 system consists of a pair of planets which are twenty times more closely spaced than any adjacent pair of planets in the Solar System. Their densities differ significantly. Kepler-36 b is most likely a super-Earth, whereas Kepler-36 c might resemble Neptune.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/06/22</lastupdate>
+			<lastupdate>14/05/22</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<image>Kepler36</image>
-			<imagedescription>This artist's conceptions shows Kepler-36 c as seen from the surface of the neighboring planet Kepler-36 b. 
-	
-	Image credit: Harvard-Smithsonian Center for Astrophysics/David Aguilar.</imagedescription>
 			<temperature>927.8</temperature>
 			<istransiting>1</istransiting>
+			<eccentricity>0.033000</eccentricity>
+			<inclination errorminus="0.530" errorplus="0.540">89.980</inclination>
 		</planet>
 	</star>
 </system>

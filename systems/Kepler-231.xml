@@ -2,8 +2,8 @@
 	<name>Kepler-231</name>
 	<name>KOI-784</name>
 	<name>KIC 12066335</name>
-	<rightascension>19 35 53</rightascension>
-	<declination>+50 31 54</declination>
+	<rightascension>19 32 233.605968</rightascension>
+	<declination>50 31 54.8903999</declination>
 	<distance>280.31</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.405</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-231</name>
 		<name>KOI-784</name>
 		<name>KIC 12066335</name>
-		<temperature errorminus="50" errorplus="150">3767</temperature>
-		<radius errorminus=".021" errorplus="0.021">0.490</radius>
-		<mass errorminus="0.0140" errorplus="0.0140">0.5800</mass>
+		<temperature errorminus="150.0" errorplus="150.0">3767.0</temperature>
+		<radius errorminus="0.02" errorplus="0.02">0.49</radius>
+		<mass>0.58</mass>
+		<metallicity>-0.011</metallicity>
 		<planet>
 			<name>Kepler-231 c</name>
 			<name>KOI-784 c</name>
 			<name>KOI-784.01</name>
 			<name>KIC 12066335 c</name>
 			<name>KIC 12066335.01</name>
-			<radius errorminus="0.01731" errorplus="0.01731">0.17588</radius>
-			<period errorminus=".000099" errorplus="0.000099">19.271566</period>
+			<radius errorminus="0.017" errorplus="0.017">0.172</radius>
+			<period errorminus="0.00009900" errorplus="0.00009900">19.27156600</period>
 			<transittime errorminus="0.0032700" errorplus="0.0032700">2455019.7690700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-231 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-231 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.114000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-231 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-784.02</name>
 			<name>KIC 12066335 b</name>
 			<name>KIC 12066335.02</name>
-			<radius errorminus="0.01094" errorplus="0.01094">0.15766</radius>
-			<period errorminus=".000027" errorplus="0.000027">10.065275</period>
+			<radius errorminus="0.011" errorplus="0.011">0.154</radius>
+			<period errorminus="2.7e-05" errorplus="2.7e-05">10.065275</period>
 			<transittime errorminus="0.0014800" errorplus="0.0014800">2454969.2818500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-231 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-231 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.074</semimajoraxis>
 		</planet>
 	</star>
 </system>

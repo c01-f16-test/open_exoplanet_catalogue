@@ -1,22 +1,22 @@
 <system>
 	<name>MOA-2009-BLG-387L</name>
-	<rightascension>17 53 51</rightascension>
-	<declination>-33 59 25</declination>
-	<distance>5700</distance>
+	<rightascension>17 52 111.000000</rightascension>
+	<declination>-33 59 25.0000800</declination>
+	<distance errorminus="2200.0" errorplus="2200.0">5700.0</distance>
 	<star>
-		<mass>0.19</mass>
+		<mass errorminus="0.12" errorplus="0.12">0.19</mass>
 		<spectraltype>M</spectraltype>
+		<name>MOA-2009-BLG-387L</name>
+		<temperature>3840.0</temperature>
 		<planet>
 			<name>MOA-2009-BLG-387L b</name>
 			<list>Confirmed planets</list>
-			<mass>2.6</mass>
-			<period>1972.3</period>
-			<semimajoraxis>1.8</semimajoraxis>
+			<mass errorminus="1.6" errorplus="4.1">2.6</mass>
+			<period errorminus="1.6" errorplus="1.6">1970.0</period>
+			<semimajoraxis errorminus="0.7" errorplus="0.7">1.8</semimajoraxis>
 			<discoverymethod>microlensing</discoverymethod>
-			<lastupdate>11/02/04</lastupdate>
+			<lastupdate>14/05/26</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
-		<name>MOA-2009-BLG-387L</name>
-		<temperature>3840.0</temperature>
 	</star>
 </system>

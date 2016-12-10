@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-851</name>
-	<rightascension>19 38 43</rightascension>
-	<declination>+49 08 25</declination>
+	<rightascension>19 36 163.268640</rightascension>
+	<declination>49 8 24.5760000</declination>
+	<distance>869.0</distance>
 	<star>
 		<name>Kepler-851</name>
-		<temperature errorminus="80.9" errorplus="87.5">5455.0</temperature>
+		<temperature errorminus="80.92" errorplus="87.48">5455.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.89</mass>
 		<radius errorminus="0.06" errorplus="0.08">0.85</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.07</metallicity>
+		<metallicity errorminus="0.173" errorplus="0.156">-0.07</metallicity>
+		<magH>13.478</magH>
+		<magK>13.392</magK>
+		<magJ>13.876</magJ>
 		<planet>
 			<name>Kepler-851 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000037080" errorplus="0.000037080">8.506996580</period>
-			<radius errorminus="0.019" errorplus="0.024">0.150</radius>
+			<period errorminus="3.708e-05" errorplus="3.708e-05">8.50699658</period>
+			<radius errorminus="0.019" errorplus="0.024">0.15</radius>
 		</planet>
 	</star>
 </system>

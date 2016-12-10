@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1420</name>
-	<rightascension>19 44 49</rightascension>
-	<declination>+42 46 40</declination>
+	<rightascension>19 44 48.9144000</rightascension>
+	<declination>42 46 40.1951999</declination>
+	<distance>923.0</distance>
 	<star>
 		<name>Kepler-1420</name>
-		<temperature errorminus="171.9" errorplus="207.1">5187.0</temperature>
+		<temperature errorminus="171.94" errorplus="207.12">5187.0</temperature>
 		<mass errorminus="0.06" errorplus="0.06">0.82</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
-		<metallicity errorminus="0.19" errorplus="0.17">-0.10</metallicity>
+		<metallicity errorminus="0.194" errorplus="0.167">-0.1</metallicity>
+		<magH>13.939</magH>
+		<magK>13.76</magK>
+		<magJ>14.396</magJ>
 		<planet>
 			<name>Kepler-1420 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000045000" errorplus="0.000045000">6.699600060</period>
+			<period errorminus="4.5e-05" errorplus="4.5e-05">6.69960006</period>
 			<radius errorminus="0.011" errorplus="0.012">0.114</radius>
 		</planet>
 	</star>

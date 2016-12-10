@@ -1,19 +1,22 @@
 <system>
 	<name>KOI-370</name>
-	<rightascension>19 25 33</rightascension>
-	<declination>+44 31 44</declination>
-	<distance>589.92</distance>
+	<rightascension>19 23 152.999999</rightascension>
+	<declination>44 31 45.1199999</declination>
+	<distance errorminus="17.91" errorplus="17.91">584.1</distance>
 	<star>
 		<name>KOI-370</name>
 		<name>Kepler-145</name>
 		<name>KIC 8494142</name>
-		<magJ errorminus="0.025" errorplus="0.025">10.913</magJ>
-		<magH errorminus="0.019" errorplus="0.019">10.693</magH>
+		<magJ>10.91</magJ>
+		<magH>10.69</magH>
 		<magK errorminus="0.016" errorplus="0.016">10.628</magK>
-		<temperature errorminus="54.00" errorplus="54.00">6022.00</temperature>
-		<age errorminus="0.9700" errorplus="0.9700">4.2100</age>
-		<radius errorminus="0.014" errorplus="0.012">1.98</radius>
-		<mass errorminus="0.030" errorplus="0.030">1.419</mass>
+		<temperature errorminus="106.0" errorplus="106.0">6144.0</temperature>
+		<age errorminus="0.24" errorplus="0.26">2.62</age>
+		<radius errorminus="0.012" errorplus="0.012">1.887</radius>
+		<mass errorminus="0.019" errorplus="0.03">1.418</mass>
+		<magI>11.799</magI>
+		<metallicity errorminus="0.1" errorplus="0.1">0.13</metallicity>
+		<magV>11.93</magV>
 		<planet>
 			<name>KOI-370.02</name>
 			<name>KOI-370 b</name>
@@ -27,9 +30,11 @@
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/09/13</lastupdate>
+			<lastupdate>15/12/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.169" errorplus="0.064">0.108</mass>
+			<eccentricity errorminus="0.25" errorplus="0.18">0.43</eccentricity>
 		</planet>
 		<planet>
 			<name>KOI-370.01</name>
@@ -37,7 +42,7 @@
 			<name>Kepler-145 c</name>
 			<name>KIC 8494142 c</name>
 			<name>KIC 8494142.01</name>
-			<radius errorminus="0.010" errorplus="0.010">0.350</radius>
+			<radius errorminus="0.01" errorplus="0.01">0.35</radius>
 			<transittime errorminus="0.0018500" errorplus="0.0018500">2455036.6489000</transittime>
 			<period errorminus="0.00015" errorplus="0.00015">42.88254</period>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.269</semimajoraxis>
@@ -45,9 +50,10 @@
 			<list>Confirmed planets</list>
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/09/13</lastupdate>
+			<lastupdate>15/12/18</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.349" errorplus="0.153">0.234</mass>
 		</planet>
 	</star>
 </system>

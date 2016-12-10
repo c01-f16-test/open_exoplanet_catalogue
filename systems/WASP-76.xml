@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-76</name>
-	<rightascension>01 46 31.86</rightascension>
-	<declination>+02 42 02</declination>
+	<rightascension>01h46m31.86s</rightascension>
+	<declination>+02d42m01.9s</declination>
 	<distance errorminus="20" errorplus="20">120</distance>
 	<star>
 		<name>WASP-76</name>
@@ -24,17 +24,17 @@
 			<name>1SWASP J014631.86+024202.0 b</name>
 			<name>2MASS 01463185+0242019 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.03" errorplus="0.03">0.92</mass>
-			<radius errorminus="0.04" errorplus="0.06">1.83</radius>
+			<mass errorminus="0.03000" errorplus="0.03000">0.92000</mass>
+			<radius errorminus="0.040" errorplus="0.060">1.830</radius>
 			<temperature errorminus="40" errorplus="40">2160</temperature>
-			<period errorminus="0.000001" errorplus="0.000001">1.809886</period>
+			<period errorminus="0.00000100" errorplus="0.00000100">1.80988600</period>
 			<transittime errorminus="0.00034" errorplus="0.00034" unit="HJD">2456107.85507</transittime>
-			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0330</semimajoraxis>
-			<eccentricity upperlimit="0.05" />
-			<inclination errorminus="1.6" errorplus="1.3">88.0</inclination>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.033000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.600" errorplus="1.300">88.000</inclination>
 			<description>This hot Jupiter has been discovered by the WASP transit survey and confirmed by radial velocity measurements. It is one of the most irradiated planets known. The host star is evolved and has a post main sequence radius.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>16/01/21</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

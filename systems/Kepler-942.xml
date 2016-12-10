@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-942</name>
-	<rightascension>19 39 49</rightascension>
-	<declination>+44 08 59</declination>
+	<rightascension>19 36 229.227360</rightascension>
+	<declination>44 8 59.3448000</declination>
+	<distance>218.0</distance>
 	<star>
 		<name>Kepler-942</name>
-		<temperature errorminus="66.3" errorplus="77.8">4861.0</temperature>
+		<temperature errorminus="66.28" errorplus="77.85">4861.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.81</mass>
 		<radius errorminus="0.01" errorplus="0.02">0.75</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.09</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.099">0.09</metallicity>
+		<magH>10.937</magH>
+		<magK>10.842</magK>
+		<magJ>11.472</magJ>
 		<planet>
 			<name>Kepler-942 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000069620" errorplus="0.000069620">44.964174880</period>
-			<radius errorminus="0.007" errorplus="0.021">0.190</radius>
+			<period errorminus="6.962e-05" errorplus="6.962e-05">44.96417488</period>
+			<radius errorminus="0.007" errorplus="0.021">0.19</radius>
 		</planet>
 	</star>
 </system>

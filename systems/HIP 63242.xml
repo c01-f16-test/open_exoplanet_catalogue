@@ -1,12 +1,12 @@
 <system>
 	<name>HIP 63242</name>
-	<rightascension>12 57 32</rightascension>
-	<declination>-65 38 47</declination>
-	<distance>135</distance>
+	<rightascension>12 56 91.9920000</rightascension>
+	<declination>-65 38 47.0399999</declination>
+	<distance errorminus="8.9" errorplus="8.9">135.0</distance>
 	<star>
 		<name>HIP 63242</name>
 		<mass errorminus="0.05" errorplus="0.05">1.54</mass>
-		<temperature errorminus="100" errorplus="100">4839</temperature>
+		<temperature errorminus="100.00" errorplus="100.00">4830.00</temperature>
 		<magV errorminus="0.01" errorplus="0.01">6.86</magV>
 		<magB errorminus="0.02" errorplus="0.02">7.90</magB>
 		<magJ errorminus="0.023" errorplus="0.023">5.045</magJ>
@@ -17,14 +17,14 @@
 		<planet>
 			<name>HIP 63242 b</name>
 			<list>Confirmed planets</list>
-			<mass>9.18</mass>
-			<period>124.6</period>
-			<semimajoraxis>0.565</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
+			<mass>9.18000</mass>
+			<period>124.60000000</period>
+			<semimajoraxis>0.565000</semimajoraxis>
+			<eccentricity>0.230000</eccentricity>
 			<periastron>118.2</periastron>
 			<description>The planet HIP 63242 b is the innermost planet detected around any intermediate-mass giant star. The lack of other close-in planets suggests that these planets might be destroyed by the large envelope of the host star during the red giant phase.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/06/18</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 	</star>

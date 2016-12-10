@@ -1,38 +1,39 @@
 <system>
 	<name>HAT-P-35</name>
-	<rightascension>08 13 00</rightascension>
-	<declination>+04 47 13</declination>
-	<distance>535</distance>
+	<rightascension>8 11 119.999999</rightascension>
+	<declination>4 47 12.9998399</declination>
+	<distance errorminus="32.0" errorplus="32.0">535.0</distance>
 	<star>
-		<mass>1.236</mass>
-		<radius>1.435</radius>
-		<magV errorminus="0.19" errorplus="0.19">11.59</magV>
+		<mass errorminus="0.048" errorplus="0.048">1.236</mass>
+		<radius errorminus="0.084" errorplus="0.084">1.435</radius>
+		<magV>12.46</magV>
 		<magB errorminus="0.45" errorplus="0.45">12.84</magB>
 		<magR errorminus="0.09" errorplus="0.09">12.38</magR>
 		<magJ errorminus="0.024" errorplus="0.024">11.358</magJ>
 		<magH errorminus="0.023" errorplus="0.023">11.072</magH>
 		<magK errorminus="0.021" errorplus="0.021">11.030</magK>
-		<metallicity>0.11</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.11</metallicity>
 		<spectraltype>F</spectraltype>
+		<name>HAT-P-35</name>
+		<temperature errorminus="88.0" errorplus="88.0">6096.0</temperature>
+		<age errorminus="0.5" errorplus="0.5">3.5</age>
 		<planet>
 			<name>HAT-P-35 b</name>
 			<name>2MASS 08130018+0447132</name>
 			<list>Confirmed planets</list>
-			<mass>1.054</mass>
-			<radius>1.332</radius>
-			<period>3.6467</period>
-			<semimajoraxis>0.0498</semimajoraxis>
-			<eccentricity>0.025</eccentricity>
-			<inclination>87.3</inclination>
+			<mass errorminus="0.03300" errorplus="0.03300">1.05400</mass>
+			<radius errorminus="0.098" errorplus="0.098">1.332</radius>
+			<period errorminus="0.00002100" errorplus="0.00002100">3.64670600</period>
+			<semimajoraxis errorminus="0.000600" errorplus="0.000600">0.049800</semimajoraxis>
+			<eccentricity errorminus="0.018000" errorplus="0.018000">0.025000</eccentricity>
+			<inclination errorminus="1.000" errorplus="1.000">87.300</inclination>
 			<description>HAT-P-35 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/01/04</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1442.8</temperature>
 			<transittime errorminus="0.00050" errorplus="0.00050" unit="BJD">2455578.66081</transittime>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-35</name>
-		<temperature>6096.0</temperature>
 	</star>
 </system>

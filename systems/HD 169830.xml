@@ -1,41 +1,41 @@
 <system>
 	<name>HD 169830</name>
-	<rightascension>18 27 49</rightascension>
-	<declination>-29 49 00</declination>
-	<distance errorminus="1.16" errorplus="1.24">36.32</distance>
+	<rightascension>18h27m49.48s</rightascension>
+	<declination>-29d49m00.7s</declination>
+	<distance errorminus="1.24" errorplus="1.16">36.32</distance>
 	<star>
-		<mass>1.4</mass>
+		<mass>1.40</mass>
 		<radius>1.84</radius>
 		<age>2.3</age>
 		<magV>5.9</magV>
 		<magB>6.386</magB>
 		<metallicity errorminus="0.05" errorplus="0.05">0.21</metallicity>
 		<spectraltype>F8 V</spectraltype>
-		<temperature errorminus="50" errorplus="50">6300</temperature>
+		<temperature>6299.00</temperature>
+		<name>HD 169830</name>
 		<planet>
 			<name>HD 169830 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.12" errorplus="0.12">2.94</mass>
-			<period errorminus="4.6" errorplus="4.6">229.9</period>
-			<semimajoraxis>0.82</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.04">0.35</eccentricity>
+			<mass>2.88000</mass>
+			<period errorminus="0.22000000" errorplus="0.22000000">225.62000000</period>
+			<semimajoraxis>0.810000</semimajoraxis>
+			<eccentricity errorminus="0.010000" errorplus="0.010000">0.310000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/06/24</lastupdate>
+			<lastupdate>14/06/25</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>413.9</temperature>
 		</planet>
 		<planet>
 			<name>HD 169830 c</name>
 			<list>Confirmed planets</list>
-			<mass>4.04</mass>
-			<period>2102</period>
-			<semimajoraxis>3.6</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<mass>4.04000</mass>
+			<period errorminus="264.00000000" errorplus="264.00000000">2102.00000000</period>
+			<semimajoraxis>3.600000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.330000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>14/06/25</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>196.1</temperature>
 		</planet>
-		<name>HD 169830</name>
 	</star>
 </system>

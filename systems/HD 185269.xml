@@ -9,6 +9,23 @@
 		<separation errorminus="0.011" errorplus="0.011" unit="arcsec">4.547</separation>
 		<separation errorminus="6.5" errorplus="6.5" unit="AU">228.6</separation>
 		<positionangle errorminus="0.14" errorplus="0.14">8.15</positionangle>
+		<binary>
+			<separation errorminus="0.0028" errorplus="0.0028" unit="arcsec">0.0956</separation>
+			<separation errorminus="0.20" errorplus="0.20" unit="AU">4.81</separation>
+			<positionangle errorminus="1.3" errorplus="1.3">221.1</positionangle>
+			<star>
+				<name>HD 185269 Ba</name>
+				<name>BD+28 3412 Ba</name>
+				<mass errorminus="0.08" errorplus="0.08">0.165</mass>
+				<magJ errorminus="0.09" errorplus="0.09">12.48</magJ>
+			</star>
+			<star>
+				<name>HD 185269 Bb</name>
+				<name>BD+28 3412 Bb</name>
+				<mass errorminus="0.008" errorplus="0.009">0.154</mass>
+				<magJ errorminus="0.09" errorplus="0.09">12.61</magJ>
+			</star>
+		</binary>
 		<star>
 			<name>HD 185269 A</name>
 			<name>HIP 96507</name>
@@ -31,6 +48,7 @@
 				<name>HD 185269 b</name>
 				<name>HD 185269 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass type="msini">0.94</mass>
 				<period errorminus="0.001" errorplus="0.001">6.838</period>
 				<semimajoraxis>0.077</semimajoraxis>
@@ -40,25 +58,7 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/01/22</lastupdate>
 				<discoveryyear>2006</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
-		<binary>
-			<separation errorminus="0.0028" errorplus="0.0028" unit="arcsec">0.0956</separation>
-			<separation errorminus="0.20" errorplus="0.20" unit="AU">4.81</separation>
-			<positionangle errorminus="1.3" errorplus="1.3">221.1</positionangle>
-			<star>
-				<name>HD 185269 Ba</name>
-				<name>BD+28 3412 Ba</name>
-				<mass errorminus="0.08" errorplus="0.08">0.165</mass>
-				<magJ errorminus="0.09" errorplus="0.09">12.48</magJ>
-			</star>
-			<star>
-				<name>HD 185269 Bb</name>
-				<name>BD+28 3412 Bb</name>
-				<mass errorminus="0.008" errorplus="0.009">0.154</mass>
-				<magJ errorminus="0.09" errorplus="0.09">12.61</magJ>
-			</star>
-		</binary>
 	</binary>
 </system>

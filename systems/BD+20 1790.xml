@@ -21,7 +21,7 @@
 		<magK errorminus="0.018" errorplus="0.018">6.879</magK>
 		<metallicity errorminus="0.20" errorplus="0.20">0.30</metallicity>
 		<spectraltype>K5Ve</spectraltype>
-		<age lowerlimit="0.035" upperlimit="0.080" />
+		<age lowerlimit="0.035" upperlimit="0.080"/>
 		<planet>
 			<name>BD+20 1790 b</name>
 			<name>V429 Gem b</name>

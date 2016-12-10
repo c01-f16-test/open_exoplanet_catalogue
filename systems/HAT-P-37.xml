@@ -1,38 +1,39 @@
 <system>
 	<name>HAT-P-37</name>
-	<rightascension>18 57 11</rightascension>
-	<declination>+51 16 09</declination>
-	<distance>411</distance>
+	<rightascension>18 56 70.9999920</rightascension>
+	<declination>51 16 9.00012000</declination>
+	<distance errorminus="26.0" errorplus="26.0">411.0</distance>
 	<star>
-		<mass>0.929</mass>
-		<radius>0.877</radius>
+		<mass errorminus="0.043" errorplus="0.043">0.929</mass>
+		<radius errorminus="0.044" errorplus="0.044">0.877</radius>
 		<magV errorminus="0.32" errorplus="0.32">13.23</magV>
 		<magB>13.1</magB>
 		<magR errorminus="0.12" errorplus="0.12">13.58</magR>
 		<magJ errorminus="0.32" errorplus="0.32">13.23</magJ>
 		<magH errorminus="0.03" errorplus="0.03">11.71</magH>
 		<magK errorminus="0.020" errorplus="0.020">11.667</magK>
-		<metallicity>0.03</metallicity>
+		<metallicity errorminus="0.1" errorplus="0.1">0.03</metallicity>
 		<spectraltype>G</spectraltype>
+		<name>HAT-P-37</name>
+		<temperature errorminus="100.0" errorplus="100.0">5500.0</temperature>
+		<age errorminus="2.2" errorplus="2.2">3.6</age>
 		<planet>
 			<name>HAT-P-37 b</name>
 			<name>2MASS 18571105+5116088</name>
 			<list>Confirmed planets</list>
-			<mass>1.169</mass>
-			<radius>1.178</radius>
-			<period>2.797436</period>
-			<semimajoraxis>0.0378</semimajoraxis>
-			<eccentricity>0.058</eccentricity>
-			<inclination>86.9</inclination>
+			<mass errorminus="0.10300" errorplus="0.10300">1.16900</mass>
+			<radius errorminus="0.077" errorplus="0.077">1.178</radius>
+			<period errorminus="0.00000700" errorplus="0.00000700">2.79743600</period>
+			<semimajoraxis errorminus="0.000600" errorplus="0.000600">0.037900</semimajoraxis>
+			<eccentricity errorminus="0.038000" errorplus="0.038000">0.058000</eccentricity>
+			<inclination errorminus="0.500" errorplus="0.400">86.900</inclination>
 			<description>HAT-P-37 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/01/04</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1166.3</temperature>
 			<transittime errorminus="0.00029" errorplus="0.00029" unit="BJD">2455642.14318</transittime>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-37</name>
-		<temperature>5500.0</temperature>
 	</star>
 </system>

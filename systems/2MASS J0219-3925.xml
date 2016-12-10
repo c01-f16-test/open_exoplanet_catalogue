@@ -18,14 +18,13 @@
 		<mass errorminus="0.011" errorplus="0.011">0.108</mass>
 		<temperature errorminus="76" errorplus="76">3064</temperature>
 		<radius errorminus="0.013" errorplus="0.013">0.281</radius>
-		<age lowerlimit="0.030" upperlimit="0.040" />
+		<age lowerlimit="0.030" upperlimit="0.040"/>
 		<planet>
 			<name>2MASS J0219-3925 B</name>
 			<name>2MASS J02192210-3925225 B</name>
 			<list>Confirmed planets</list>
 			<separation errorminus="0.02" errorplus="0.02" unit="arcsec">3.96</separation>
 			<separation errorminus="10" errorplus="10" unit="AU">156</separation>
-			<positionangle errorminus="0.2" errorplus="0.2">173.9</positionangle>
 			<magJ errorminus="0.10" errorplus="0.10">15.54</magJ>
 			<magH errorminus="0.10" errorplus="0.10">14.63</magH>
 			<magK errorminus="0.10" errorplus="0.10">13.82</magK>

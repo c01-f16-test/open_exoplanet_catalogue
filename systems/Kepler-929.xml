@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-929</name>
-	<rightascension>19 53 55</rightascension>
-	<declination>+41 36 55</declination>
+	<rightascension>19 52 115.469760</rightascension>
+	<declination>41 36 55.1951999</declination>
+	<distance>820.0</distance>
 	<star>
 		<name>Kepler-929</name>
-		<temperature errorminus="266.5" errorplus="290.4">5869.0</temperature>
+		<temperature errorminus="266.47" errorplus="290.44">5869.0</temperature>
 		<mass errorminus="0.09" errorplus="0.12">1.01</mass>
 		<radius errorminus="0.14" errorplus="0.24">1.02</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.04</metallicity>
+		<metallicity errorminus="0.183" errorplus="0.14">-0.04</metallicity>
+		<magH>12.89</magH>
+		<magK>12.849</magK>
+		<magJ>13.271</magJ>
 		<planet>
 			<name>Kepler-929 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000003150" errorplus="0.000003150">0.921032140</period>
+			<period errorminus="3.15e-06" errorplus="3.15e-06">0.92103214</period>
 			<radius errorminus="0.013" errorplus="0.024">0.099</radius>
 		</planet>
 	</star>

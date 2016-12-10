@@ -2,8 +2,8 @@
 	<name>Kepler-205</name>
 	<name>KOI-663</name>
 	<name>KIC 6425957</name>
-	<rightascension>19 01 08</rightascension>
-	<declination>+41 51 40</declination>
+	<rightascension>19 0 68.906232</rightascension>
+	<declination>41 51 40.2192000</declination>
 	<distance>172.98</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">11.608</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-663</name>
 		<name>KIC 6425957</name>
 		<temperature errorminus="100" errorplus="100">4321</temperature>
-		<radius errorminus=".022" errorplus="0.022">0.546</radius>
+		<radius errorminus="0.02" errorplus="0.02">0.55</radius>
 		<mass errorminus="0.0140" errorplus="0.0140">0.5920</mass>
+		<metallicity>-0.149</metallicity>
 		<planet>
 			<name>Kepler-205 b</name>
 			<name>KOI-663 b</name>
 			<name>KOI-663.01</name>
 			<name>KIC 6425957 b</name>
 			<name>KIC 6425957.01</name>
-			<radius errorminus="0.01276" errorplus="0.01276">0.13761</radius>
-			<period errorminus=".000002" errorplus="0.000002">2.755640</period>
+			<radius errorminus="0.012" errorplus="0.012">0.135</radius>
+			<period errorminus="0.00000200" errorplus="0.00000200">2.75564000</period>
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2455003.8445400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-205 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.032000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-205 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-663.02</name>
 			<name>KIC 6425957 c</name>
 			<name>KIC 6425957.02</name>
-			<radius errorminus="0.01094" errorplus="0.01094">0.14945</radius>
-			<period errorminus=".000038" errorplus="0.000038">20.306546</period>
+			<radius errorminus="0.011" errorplus="0.011">0.146</radius>
+			<period errorminus="0.00003800" errorplus="0.00003800">20.30654600</period>
 			<transittime errorminus="0.0011300" errorplus="0.0011300">2455005.6562000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-205 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-205 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.122000</semimajoraxis>
 		</planet>
 	</star>
 </system>

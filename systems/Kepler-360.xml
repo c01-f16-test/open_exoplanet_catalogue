@@ -2,34 +2,36 @@
 	<name>Kepler-360</name>
 	<name>KOI-2111</name>
 	<name>KIC 8612275</name>
-	<rightascension>19 05 08</rightascension>
-	<declination>+44 46 53</declination>
+	<rightascension>19 3 128.334959</rightascension>
+	<declination>44 46 53.5979999</declination>
 	<distance>1230.47</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.642</magJ>
 		<magH errorminus="0.020" errorplus="0.020">13.299</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.23</magK>
+		<magK>13.228</magK>
 		<name>Kepler-360</name>
 		<name>KOI-2111</name>
 		<name>KIC 8612275</name>
 		<temperature errorminus="200" errorplus="200">6053</temperature>
-		<radius errorminus=".501" errorplus="0.501">1.058</radius>
-		<mass errorminus="0.0970" errorplus="0.0970">1.0250</mass>
+		<radius errorminus="0.5" errorplus="0.5">1.06</radius>
+		<mass>0.95</mass>
+		<metallicity>-0.12</metallicity>
 		<planet>
 			<name>Kepler-360 b</name>
 			<name>KOI-2111 b</name>
 			<name>KOI-2111.01</name>
 			<name>KIC 8612275 b</name>
 			<name>KIC 8612275.01</name>
-			<radius errorminus="0.07108" errorplus="0.07108">0.15036</radius>
-			<period errorminus=".000012" errorplus="0.000012">3.289672</period>
+			<radius errorminus="0.070" errorplus="0.070">0.147</radius>
+			<period errorminus="0.00001200" errorplus="0.00001200">3.28967200</period>
 			<transittime errorminus="0.0021300" errorplus="0.0021300">2454964.7560300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-360 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-360 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.044000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-360 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-2111.02</name>
 			<name>KIC 8612275 c</name>
 			<name>KIC 8612275.02</name>
-			<radius errorminus="0.09113" errorplus="0.09113">0.19137</radius>
-			<period errorminus=".000029" errorplus="0.000029">7.186434</period>
+			<radius errorminus="0.089" errorplus="0.089">0.187</radius>
+			<period errorminus="0.00002900" errorplus="0.00002900">7.18643400</period>
 			<transittime errorminus="0.0026300" errorplus="0.0026300">2454969.6227300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-360 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-360 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.075000</semimajoraxis>
 		</planet>
 	</star>
 </system>

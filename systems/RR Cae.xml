@@ -23,20 +23,5 @@
 			<temperature>3100</temperature>
 			<spectraltype>M4</spectraltype>
 		</star>
-		<planet>
-			<name>RR Cae (AB) b</name>
-			<name>RR Cae b</name>
-			<name>RR Caeli b</name>
-			<list>Confirmed planets</list>
-			<list>Planets in binary systems, P-type</list>
-			<mass>4.2</mass>
-			<period>4350</period>
-			<semimajoraxis>5.3</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<description>The binary RR Cae contains a cool white dwarf and an M-Type dwarf. Eclipse timing variations were used to find a circumbinary planet on an orbit nearly identical to that of Jupiter.</description>
-			<discoverymethod>timing</discoverymethod>
-			<lastupdate>12/12/08</lastupdate>
-			<discoveryyear>2012</discoveryyear>
-		</planet>
 	</binary>
 </system>

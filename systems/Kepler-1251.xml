@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1251</name>
-	<rightascension>19 28 28</rightascension>
-	<declination>+49 15 23</declination>
+	<rightascension>19 27 87.6367199</rightascension>
+	<declination>49 15 23.1407999</declination>
+	<distance>863.0</distance>
 	<star>
 		<name>Kepler-1251</name>
-		<temperature errorminus="95.2" errorplus="85.5">5545.0</temperature>
+		<temperature errorminus="95.15" errorplus="85.54">5545.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.92</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.89</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.04</metallicity>
+		<metallicity errorminus="0.177" errorplus="0.148">-0.04</metallicity>
+		<magH>13.359</magH>
+		<magK>13.269</magK>
+		<magJ>13.724</magJ>
 		<planet>
 			<name>Kepler-1251 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000463000" errorplus="0.000463000">45.090464300</period>
+			<period errorminus="0.000463" errorplus="0.000463">45.0904643</period>
 			<radius errorminus="0.012" errorplus="0.023">0.164</radius>
 		</planet>
 	</star>

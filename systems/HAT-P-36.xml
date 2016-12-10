@@ -1,11 +1,11 @@
 <system>
 	<name>HAT-P-36</name>
-	<rightascension>12 33 03.909</rightascension>
-	<declination>+44 54 55.18</declination>
-	<distance>317</distance>
+	<rightascension>12h33m03.90s</rightascension>
+	<declination>+44d54m55.3s</declination>
+	<distance errorminus="17.00" errorplus="17.00">317.00</distance>
 	<star>
-		<mass>1.022</mass>
-		<radius>1.096</radius>
+		<mass errorplus="0.05">1.02</mass>
+		<radius errorplus="0.06">1.10</radius>
 		<magV>12.262</magV>
 		<magB errorminus="0.25" errorplus="0.25">12.97</magB>
 		<magR errorminus="0.05" errorplus="0.05">12.27</magR>
@@ -14,25 +14,25 @@
 		<magK errorminus="0.021" errorplus="0.021">10.603</magK>
 		<metallicity>0.26</metallicity>
 		<spectraltype>G</spectraltype>
+		<name>HAT-P-36</name>
+		<temperature errorplus="100.00">5560.00</temperature>
 		<planet>
 			<name>HAT-P-36 b</name>
 			<name>2MASS 12330390+4454552</name>
 			<list>Confirmed planets</list>
-			<mass>1.832</mass>
-			<radius>1.264</radius>
-			<period>1.327</period>
-			<semimajoraxis>0.0238</semimajoraxis>
-			<eccentricity>0.063</eccentricity>
-			<inclination>86.0</inclination>
+			<mass errorminus="0.09900" errorplus="0.09900">1.83200</mass>
+			<radius errorminus="0.071" errorplus="0.071">1.264</radius>
+			<period errorminus="0.00000300" errorplus="0.00000300">1.32734700</period>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.023800</semimajoraxis>
+			<eccentricity errorminus="0.032000" errorplus="0.032000">0.063000</eccentricity>
+			<inclination errorminus="1.300" errorplus="1.300">86.000</inclination>
 			<description>HAT-P-36 b is a transiting planet that has been discovered by the HATNet collaboration. HATNet is a ground-based survey using standard telephoto lenses such as the Canon 11cm diameter f/1.8L.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1669.2</temperature>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2455565.18144</transittime>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-36</name>
-		<temperature>5580.0</temperature>
 	</star>
 </system>

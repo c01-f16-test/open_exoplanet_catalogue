@@ -1,27 +1,29 @@
 <system>
 	<name>CFBDS 1458</name>
 	<name>CFBDSIR J145829+101343</name>
-	<rightascension>14 58 29</rightascension>
-	<declination>+10 13 43</declination>
-	<distance>23.1</distance>
+	<rightascension>14 56 148.999992</rightascension>
+	<declination>10 13 42.9999599</declination>
+	<distance errorminus="2.4" errorplus="2.4">23.1</distance>
 	<star>
 		<name>CFBDS 1458</name>
 		<name>CFBDSIR J145829+101343</name>
-		<mass>0.02</mass>
+		<mass errorminus="0.016" errorplus="0.016">0.024</mass>
 		<spectraltype>T9.5</spectraltype>
+		<temperature errorminus="60.0" errorplus="60.0">540.0</temperature>
+		<magH>20.18</magH>
+		<magK>20.63</magK>
+		<magJ>19.86</magJ>
+		<age errorminus="2.0" errorplus="2.0">3.0</age>
 		<planet>
 			<name>CFBDS 1458 b</name>
 			<name>CFBDSIR J145829+101343 b</name>
 			<list>Confirmed planets</list>
-			<mass>6.5</mass>
-			<period>9855</period>
-			<semimajoraxis>2.6</semimajoraxis>
+			<mass errorminus="4.50000" errorplus="4.50000">10.50000</mass>
+			<period errorminus="2737.50000000" errorplus="2737.50000000">10037.50000000</period>
+			<semimajoraxis errorminus="0.300000" errorplus="0.300000">2.600000</semimajoraxis>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/03/08</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<image>CFBDS 1458</image>
-			<imagedescription>This image shows the binary CFBDSIR J1458+1013AB. It was obtained with the Keck II Telescope in Hawaii. This is the coolest brown dwarf (or exoplanet, depending on the precise mass) found yet. Credit: Michael Liu (University of Hawaii).</imagedescription>
 		</planet>
-		<temperature>540.0</temperature>
 	</star>
 </system>

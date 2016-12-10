@@ -1,9 +1,9 @@
 <system>
 	<name>PSR B1620-26</name>
 	<name>B1620-26</name>
-	<rightascension>16 23 38.2218</rightascension>
-	<declination>-26 31 53.769</declination>
-	<distance errorminus="200" errorplus="200">1800</distance>
+	<rightascension>16 19 277.999991</rightascension>
+	<declination>-26 31 53.0000400</declination>
+	<distance>3800.0</distance>
 	<binary>
 		<name>B1620-26</name>
 		<period errorminus="0.00002" errorplus="0.00002">191.44281</period>
@@ -19,6 +19,13 @@
 			<magV>24</magV>
 			<spectraltype>Pulsar</spectraltype>
 			<radius>0.000014</radius>
+			<planet>
+				<mass errorminus="1.00000" errorplus="1.00000">2.50000</mass>
+				<lastupdate>15/04/30</lastupdate>
+				<discoverymethod>pulsar timing</discoverymethod>
+				<name>PSR B1620-26 b</name>
+				<semimajoraxis>23.000000</semimajoraxis>
+			</planet>
 		</star>
 		<star>
 			<name>WD J1623-266</name>
@@ -27,22 +34,5 @@
 			<spectraltype>D</spectraltype>
 			<mass errorminus="0.04" errorplus="0.04">0.34</mass>
 		</star>
-		<planet>
-			<name>PSR B1620-26 b</name>
-			<name>B1620-26 b</name>
-			<name>PSR B1620-26 (AB) b</name>
-			<name>B1620-26 (AB) b</name>
-			<list>Confirmed planets</list>
-			<mass type="msini">1.7</mass>
-			<period>24837</period>
-			<semimajoraxis>20</semimajoraxis>
-			<eccentricity>0.13</eccentricity>
-			<description>PSR B1620-26 b is a circum-binary planet. It is orbiting a pulsar and a white dwarf in the globular cluster M4. The cluster is estimated to be 12.2 billion years old.</description>
-			<discoverymethod>timing</discoverymethod>
-			<lastupdate>16/04/12</lastupdate>
-			<discoveryyear>1994</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
-			<list>Planets in globular clusters</list>
-		</planet>
 	</binary>
 </system>

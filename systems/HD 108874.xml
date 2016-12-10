@@ -1,10 +1,10 @@
 <system>
 	<name>HD 108874</name>
-	<rightascension>12 30 26</rightascension>
-	<declination>+22 52 47</declination>
+	<rightascension>12 28 145.999992</rightascension>
+	<declination>22 52 46.9999200</declination>
 	<distance>68.5</distance>
 	<star>
-		<mass>1</mass>
+		<mass>1.0</mass>
 		<radius>1.22</radius>
 		<magV>8.76</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.49</magB>
@@ -15,31 +15,32 @@
 		<magK>7.06</magK>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G5</spectraltype>
+		<name>HD 108874</name>
+		<temperature>5407.0</temperature>
+		<age>7.26</age>
 		<planet>
 			<name>HD 108874 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.36</mass>
-			<period>395.4</period>
-			<semimajoraxis>1.051</semimajoraxis>
-			<eccentricity>0.07</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000">1.29000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">395.80000000</period>
+			<semimajoraxis errorminus="0.014000" errorplus="0.014000">1.038000</semimajoraxis>
+			<eccentricity errorminus="0.021000" errorplus="0.021000">0.082000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>256.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 108874 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.018</mass>
-			<period>1605.8</period>
-			<semimajoraxis>2.68</semimajoraxis>
-			<eccentricity>0.25</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000">0.99000</mass>
+			<period errorminus="23.00000000" errorplus="23.00000000">1624.00000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.060000">2.659000</semimajoraxis>
+			<eccentricity errorminus="0.031000" errorplus="0.031000">0.239000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>160.2</temperature>
 		</planet>
-		<name>HD 108874</name>
-		<temperature>5407.0</temperature>
 	</star>
 </system>

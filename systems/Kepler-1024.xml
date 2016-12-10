@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1024</name>
-	<rightascension>19 27 48</rightascension>
-	<declination>+38 15 06</declination>
+	<rightascension>19 23 288.237839</rightascension>
+	<declination>38 15 6.11279999</declination>
+	<distance>1017.0</distance>
 	<star>
 		<name>Kepler-1024</name>
-		<temperature errorminus="76.4" errorplus="126.7">5143.0</temperature>
+		<temperature errorminus="76.37" errorplus="126.73">5143.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.10</metallicity>
+		<metallicity errorminus="0.182" errorplus="0.142">-0.1</metallicity>
+		<magH>14.053</magH>
+		<magK>14.05</magK>
+		<magJ>14.589</magJ>
 		<planet>
 			<name>Kepler-1024 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000353800" errorplus="0.000353800">66.416213300</period>
+			<period errorminus="0.0003538" errorplus="0.0003538">66.4162133</period>
 			<radius errorminus="0.023" errorplus="0.024">0.349</radius>
 		</planet>
 	</star>

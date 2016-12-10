@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-706</name>
-	<rightascension>19 27 02</rightascension>
-	<declination>+41 56 39</declination>
+	<rightascension>19 23 242.497439</rightascension>
+	<declination>41 56 38.6772000</declination>
+	<distance>810.0</distance>
 	<star>
 		<name>Kepler-706</name>
-		<temperature errorminus="107.7" errorplus="78.2">5394.0</temperature>
+		<temperature errorminus="107.67" errorplus="78.15">5394.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.06" errorplus="0.08">0.84</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.06</metallicity>
+		<metallicity errorminus="0.173" errorplus="0.155">-0.06</metallicity>
+		<magH>13.413</magH>
+		<magK>13.307</magK>
+		<magJ>13.805</magJ>
 		<planet>
 			<name>Kepler-706 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006960" errorplus="0.000006960">41.408313470</period>
+			<period errorminus="6.96e-06" errorplus="6.96e-06">41.40831347</period>
 			<radius errorminus="0.079" errorplus="0.106">1.175</radius>
 		</planet>
 	</star>

@@ -2,8 +2,8 @@
 	<name>Kepler-322</name>
 	<name>KOI-1820</name>
 	<name>KIC 8277797</name>
-	<rightascension>18 45 23</rightascension>
-	<declination>+44 17 42</declination>
+	<rightascension>18 44 83.7158280</rightascension>
+	<declination>44 17 42.8712000</declination>
 	<distance>443.29</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">12.246</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-1820</name>
 		<name>KIC 8277797</name>
 		<temperature errorminus="100" errorplus="100">5388</temperature>
-		<radius errorminus=".096" errorplus="0.096">0.890</radius>
-		<mass errorminus="0.1100" errorplus="0.1100">0.9000</mass>
+		<radius errorminus="0.1" errorplus="0.1">0.89</radius>
+		<mass>0.91</mass>
+		<metallicity>-0.06</metallicity>
 		<planet>
 			<name>Kepler-322 c</name>
 			<name>KOI-1820 c</name>
 			<name>KOI-1820.01</name>
 			<name>KIC 8277797 c</name>
 			<name>KIC 8277797.01</name>
-			<radius errorminus="0.01640" errorplus="0.01640">0.15219</radius>
-			<period errorminus=".000009" errorplus="0.000009">4.337234</period>
+			<radius errorminus="0.016" errorplus="0.016">0.149</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">4.33723400</period>
 			<transittime errorminus="0.0012300" errorplus="0.0012300">2454965.8495900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-322 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-322 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.051000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-322 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1820.02</name>
 			<name>KIC 8277797 b</name>
 			<name>KIC 8277797.02</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.09204</radius>
-			<period errorminus=".000006" errorplus="0.000006">1.653888</period>
+			<radius errorminus="0.010" errorplus="0.010">0.090</radius>
+			<period errorminus="0.00000600" errorplus="0.00000600">1.65388800</period>
 			<transittime errorminus="0.0023600" errorplus="0.0023600">2454965.1917100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-322 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-322 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.027000</semimajoraxis>
 		</planet>
 	</star>
 </system>

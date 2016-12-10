@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1439</name>
-	<rightascension>19 02 58</rightascension>
-	<declination>+40 58 48</declination>
+	<rightascension>19 0 177.55344</rightascension>
+	<declination>40 58 48.1296000</declination>
+	<distance>215.0</distance>
 	<star>
 		<name>Kepler-1439</name>
-		<temperature errorminus="51.7" errorplus="54.9">3578.0</temperature>
+		<temperature errorminus="51.71" errorplus="54.92">3578.0</temperature>
 		<mass errorminus="0.06" errorplus="0.04">0.46</mass>
 		<radius errorminus="0.05" errorplus="0.04">0.43</radius>
-		<metallicity errorminus="0.13" errorplus="0.11">-0.03</metallicity>
+		<metallicity errorminus="0.126" errorplus="0.112">-0.03</metallicity>
+		<magH>12.953</magH>
+		<magK>12.744</magK>
+		<magJ>13.577</magJ>
 		<planet>
 			<name>Kepler-1439 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000047840" errorplus="0.000047840">8.073928490</period>
-			<radius errorminus="0.019" errorplus="0.012">0.130</radius>
+			<period errorminus="4.784e-05" errorplus="4.784e-05">8.07392849</period>
+			<radius errorminus="0.019" errorplus="0.012">0.13</radius>
 		</planet>
 	</star>
 </system>

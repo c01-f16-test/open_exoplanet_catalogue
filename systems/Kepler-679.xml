@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-679</name>
-	<rightascension>19 44 05</rightascension>
-	<declination>+50 34 04</declination>
+	<rightascension>19 44 5.12208000</rightascension>
+	<declination>50 34 4.01880000</declination>
+	<distance>968.0</distance>
 	<star>
 		<name>Kepler-679</name>
-		<temperature errorminus="105.8" errorplus="97.1">5403.0</temperature>
+		<temperature errorminus="105.75" errorplus="97.13">5403.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.87</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.84</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.09</metallicity>
+		<metallicity errorminus="0.185" errorplus="0.161">-0.09</metallicity>
+		<magH>13.783</magH>
+		<magK>13.692</magK>
+		<magJ>14.196</magJ>
 		<planet>
 			<name>Kepler-679 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000038290" errorplus="0.000038290">12.393586040</period>
+			<period errorminus="3.829e-05" errorplus="3.829e-05">12.39358604</period>
 			<radius errorminus="0.035" errorplus="0.029">0.269</radius>
 		</planet>
 	</star>

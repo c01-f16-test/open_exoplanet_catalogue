@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-691</name>
-	<rightascension>19 15 15</rightascension>
-	<declination>+40 02 00</declination>
+	<rightascension>19 11 254.880719</rightascension>
+	<declination>40 2 0.23279999</declination>
+	<distance>239.0</distance>
 	<star>
 		<name>Kepler-691</name>
-		<temperature errorminus="36.8" errorplus="37.4">3715.0</temperature>
+		<temperature errorminus="36.77" errorplus="37.37">3715.0</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.53</mass>
-		<radius errorminus="0.02" errorplus="0.02">0.50</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.04</metallicity>
+		<radius errorminus="0.02" errorplus="0.02">0.5</radius>
+		<metallicity errorminus="0.077" errorplus="0.08">0.04</metallicity>
+		<magH>12.723</magH>
+		<magK>12.492</magK>
+		<magJ>13.405</magJ>
 		<planet>
 			<name>Kepler-691 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000011250" errorplus="0.000011250">8.114379000</period>
+			<period errorminus="1.125e-05" errorplus="1.125e-05">8.114379</period>
 			<radius errorminus="0.008" errorplus="0.008">0.186</radius>
 		</planet>
 	</star>

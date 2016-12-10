@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-695</name>
-	<rightascension>19 57 16</rightascension>
-	<declination>+40 49 21</declination>
+	<rightascension>19 56 75.8632800</rightascension>
+	<declination>40 49 20.5032000</declination>
+	<distance>620.0</distance>
 	<star>
 		<name>Kepler-695</name>
-		<temperature errorminus="197.9" errorplus="199.5">5181.0</temperature>
+		<temperature errorminus="197.86" errorplus="199.46">5181.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.84</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.80</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.01</metallicity>
+		<radius errorminus="0.05" errorplus="0.06">0.8</radius>
+		<metallicity errorminus="0.162" errorplus="0.149">-0.01</metallicity>
+		<magH>13.016</magH>
+		<magK>12.922</magK>
+		<magJ>13.514</magJ>
 		<planet>
 			<name>Kepler-695 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000300" errorplus="0.000000300">3.040330420</period>
-			<radius errorminus="0.050" errorplus="0.063">0.822</radius>
+			<period errorminus="3e-07" errorplus="3e-07">3.04033042</period>
+			<radius errorminus="0.05" errorplus="0.063">0.822</radius>
 		</planet>
 	</star>
 </system>

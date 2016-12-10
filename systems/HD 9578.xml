@@ -12,6 +12,8 @@
 		<magK errorminus="0.024" errorplus="0.024">6.798</magK>
 		<metallicity>0.11</metallicity>
 		<spectraltype>G1V</spectraltype>
+		<name>HD 9578</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 9578 b</name>
 			<list>Confirmed planets</list>
@@ -21,7 +23,5 @@
 			<lastupdate>10/12/06</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 		</planet>
-		<name>HD 9578</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

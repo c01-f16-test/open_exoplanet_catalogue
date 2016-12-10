@@ -1,11 +1,11 @@
 <system>
 	<name>HD 96167</name>
-	<rightascension>11 05 15</rightascension>
-	<declination>-10 17 29</declination>
-	<distance>84</distance>
+	<rightascension>11h05m15.07s</rightascension>
+	<declination>-10d17m28.7s</declination>
+	<distance errorminus="10.22" errorplus="8.22">84.03</distance>
 	<star>
-		<mass>1.31</mass>
-		<radius>1.86</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.31</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.86</radius>
 		<magV>8.09</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.82</magB>
 		<magJ errorminus="0.030" errorplus="0.030">6.926</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.036" errorplus="0.036">6.554</magK>
 		<metallicity>0.34</metallicity>
 		<spectraltype>G5D</spectraltype>
+		<name>HD 96167</name>
+		<temperature errorminus="70.00" errorplus="70.00">5770.00</temperature>
 		<planet>
 			<name>HD 96167 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<period>498.9</period>
-			<semimajoraxis>1.3</semimajoraxis>
-			<eccentricity>0.71</eccentricity>
+			<mass errorminus="0.18000" errorplus="0.18000">0.68000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">498.90000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">1.300000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.710000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>15/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>293.2</temperature>
 		</planet>
-		<name>HD 96167</name>
-		<temperature>5770.0</temperature>
 	</star>
 </system>

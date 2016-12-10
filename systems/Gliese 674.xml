@@ -14,6 +14,8 @@
 		<magK errorminus="0.018" errorplus="0.018">4.855</magK>
 		<metallicity>-0.28</metallicity>
 		<spectraltype>M2.5</spectraltype>
+		<name>Gliese 674</name>
+		<temperature>3600.0</temperature>
 		<planet>
 			<name>Gliese 674 b</name>
 			<name>GJ 674 b</name>
@@ -30,7 +32,5 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>519.6</temperature>
 		</planet>
-		<name>Gliese 674</name>
-		<temperature>3600.0</temperature>
 	</star>
 </system>

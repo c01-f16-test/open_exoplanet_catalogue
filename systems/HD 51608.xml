@@ -12,6 +12,8 @@
 		<magH errorminus="0.018" errorplus="0.018">6.451</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.328</magK>
 		<spectraltype>K0IV</spectraltype>
+		<name>HD 51608</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>HD 51608 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>367.1</temperature>
 		</planet>
-		<name>HD 51608</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

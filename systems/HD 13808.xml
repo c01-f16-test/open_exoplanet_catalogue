@@ -11,6 +11,8 @@
 		<magH errorminus="0.036" errorplus="0.036">6.383</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.250</magK>
 		<spectraltype>K2V</spectraltype>
+		<name>HD 13808</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>HD 13808 b</name>
 			<list>Confirmed planets</list>
@@ -37,7 +39,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>391.9</temperature>
 		</planet>
-		<name>HD 13808</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

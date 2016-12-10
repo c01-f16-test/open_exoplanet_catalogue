@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-29</name>
-	<rightascension>23 51 31</rightascension>
-	<declination>-39 54 24</declination>
-	<distance>80</distance>
+	<rightascension>23 48 211.000008</rightascension>
+	<declination>-39 54 24.0001200</declination>
+	<distance>80.0</distance>
 	<star>
-		<mass>0.825</mass>
-		<radius>0.846</radius>
+		<mass errorminus="0.033" errorplus="0.033">0.825</mass>
+		<radius errorminus="0.048" errorplus="0.048">0.846</radius>
 		<magV>11.3</magV>
 		<magB errorminus="0.13" errorplus="0.13">12.15</magB>
 		<magR errorminus="0.022" errorplus="0.022">10.896</magR>
@@ -13,27 +13,28 @@
 		<magJ errorminus="0.021" errorplus="0.021">9.353</magJ>
 		<magH errorminus="0.019" errorplus="0.019">8.875</magH>
 		<magK errorminus="0.020" errorplus="0.020">8.783</magK>
-		<metallicity>0.11</metallicity>
+		<metallicity errorminus="0.14" errorplus="0.14">0.11</metallicity>
 		<spectraltype>K4V</spectraltype>
+		<name>WASP-29</name>
+		<temperature errorminus="150.0" errorplus="150.0">4800.0</temperature>
+		<age errorminus="8.0" errorplus="8.0">15.0</age>
 		<planet>
 			<name>WASP-29 b</name>
 			<name>2MASS J23513108-3954241 b</name>
 			<name>TYC 8015-1020-1 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.244</mass>
-			<radius>0.792</radius>
-			<period>3.922727</period>
-			<semimajoraxis>0.0457</semimajoraxis>
-			<eccentricity>0.03</eccentricity>
-			<inclination>88.8</inclination>
+			<mass errorminus="0.0201050876254602" errorplus="0.0201050876254602">0.242897146273</mass>
+			<radius errorminus="0.0347935316148303" errorplus="0.0553127938492173">0.84128975161</radius>
+			<period errorminus="4e-06" errorplus="4e-06">3.922727</period>
+			<semimajoraxis errorminus="0.0006" errorplus="0.0006">0.0457</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.03</eccentricity>
+			<inclination errorminus="0.7" errorplus="0.7">88.8</inclination>
 			<transittime errorminus="0.004" errorplus="0.004" unit="BJD">2455320.23485</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/09/28</lastupdate>
+			<lastupdate>14/05/21</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>910.6</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-29</name>
-		<temperature>4800.0</temperature>
 	</star>
 </system>

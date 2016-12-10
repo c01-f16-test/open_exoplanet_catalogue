@@ -12,6 +12,8 @@
 		<magH errorminus="0.023" errorplus="0.023">6.135</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.065</magK>
 		<spectraltype>G2V</spectraltype>
+		<name>HD 93385</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 93385 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>560.1</temperature>
 		</planet>
-		<name>HD 93385</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

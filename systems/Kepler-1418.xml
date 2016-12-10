@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1418</name>
-	<rightascension>18 51 59</rightascension>
-	<declination>+41 40 43</declination>
+	<rightascension>18 48 239.394720</rightascension>
+	<declination>41 40 42.7835999</declination>
+	<distance>499.0</distance>
 	<star>
 		<name>Kepler-1418</name>
-		<temperature errorminus="63.4" errorplus="60.0">4770.0</temperature>
+		<temperature errorminus="63.35" errorplus="59.97">4770.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.00</metallicity>
+		<metallicity errorminus="0.167" errorplus="0.15">0.0</metallicity>
+		<magH>12.847</magH>
+		<magK>12.755</magK>
+		<magJ>13.407</magJ>
 		<planet>
 			<name>Kepler-1418 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000174700" errorplus="0.000174700">22.476442500</period>
+			<period errorminus="0.0001747" errorplus="0.0001747">22.4764425</period>
 			<radius errorminus="0.012" errorplus="0.007">0.148</radius>
 		</planet>
 	</star>

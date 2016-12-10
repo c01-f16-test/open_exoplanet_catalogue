@@ -1,8 +1,8 @@
 <system>
 	<name>HD 27631</name>
-	<rightascension>04 19 45</rightascension>
-	<declination>-41 57 37</declination>
-	<distance>45.5</distance>
+	<rightascension>04h19m45.47s</rightascension>
+	<declination>-41d57m37.0s</declination>
+	<distance errorminus="1.60" errorplus="1.50">44.54</distance>
 	<star>
 		<magV>8.25</magV>
 		<magB errorminus="0.017" errorplus="0.017">8.914</magB>
@@ -12,23 +12,23 @@
 		<magK errorminus="0.021" errorplus="0.021">6.646</magK>
 		<spectraltype>G3 IV/V</spectraltype>
 		<metallicity>-0.12</metallicity>
-		<mass>0.94</mass>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
 		<age>4.4</age>
-		<radius>1.0</radius>
-		<temperature>5737</temperature>
+		<radius>1.00</radius>
+		<temperature errorminus="36.00" errorplus="36.00">5737.00</temperature>
+		<name>HD 27631</name>
 		<planet>
 			<name>HD 27631 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.45</mass>
-			<period>2208</period>
-			<eccentricity>0.12</eccentricity>
+			<mass errorminus="0.14000" errorplus="0.14000">1.45000</mass>
+			<period errorminus="66.00000000" errorplus="66.00000000">2208.00000000</period>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.120000</eccentricity>
 			<periastron>134</periastron>
-			<semimajoraxis>3.25</semimajoraxis>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">3.250000</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>137.7</temperature>
 		</planet>
-		<name>HD 27631</name>
 	</star>
 </system>

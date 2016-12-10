@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1010</name>
-	<rightascension>19 16 46</rightascension>
-	<declination>+44 08 58</declination>
+	<rightascension>19 15 106.232639</rightascension>
+	<declination>44 8 57.5735999</declination>
+	<distance>610.0</distance>
 	<star>
 		<name>Kepler-1010</name>
-		<temperature errorminus="80.8" errorplus="67.8">5253.0</temperature>
+		<temperature errorminus="80.75" errorplus="67.75">5253.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.82</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.01</metallicity>
+		<metallicity errorminus="0.164" errorplus="0.155">-0.01</metallicity>
+		<magH>12.878</magH>
+		<magK>12.771</magK>
+		<magJ>13.293</magJ>
 		<planet>
 			<name>Kepler-1010 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000118100" errorplus="0.000118100">34.268570500</period>
+			<period errorminus="0.0001181" errorplus="0.0001181">34.2685705</period>
 			<radius errorminus="0.016" errorplus="0.039">0.207</radius>
 		</planet>
 	</star>

@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1014</name>
-	<rightascension>19 00 29</rightascension>
-	<declination>+44 06 38</declination>
+	<rightascension>19 0 29.28792</rightascension>
+	<declination>44 6 38.1708000</declination>
+	<distance>672.0</distance>
 	<star>
 		<name>Kepler-1014</name>
-		<temperature errorminus="66.4" errorplus="68.9">5388.0</temperature>
+		<temperature errorminus="66.36" errorplus="68.87">5388.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.88</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.84</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">-0.06</metallicity>
+		<metallicity errorminus="0.15" errorplus="0.151">-0.06</metallicity>
+		<magH>12.937</magH>
+		<magK>12.898</magK>
+		<magJ>13.37</magJ>
 		<planet>
 			<name>Kepler-1014 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000038170" errorplus="0.000038170">16.571103630</period>
+			<period errorminus="3.817e-05" errorplus="3.817e-05">16.57110363</period>
 			<radius errorminus="0.022" errorplus="0.019">0.213</radius>
 		</planet>
 	</star>

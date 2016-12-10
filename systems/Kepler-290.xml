@@ -2,34 +2,36 @@
 	<name>Kepler-290</name>
 	<name>KOI-1360</name>
 	<name>KIC 7102227</name>
-	<rightascension>19 05 38</rightascension>
-	<declination>+42 40 53</declination>
+	<rightascension>19 3 158.393555</rightascension>
+	<declination>42 40 53.5907999</declination>
 	<distance>874.46</distance>
 	<star>
 		<magJ errorminus="0.026" errorplus="0.026">14.054</magJ>
-		<magH errorminus="0.03" errorplus="0.03">13.58</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.45</magK>
+		<magH>13.583</magH>
+		<magK>13.452</magK>
 		<name>Kepler-290</name>
 		<name>KOI-1360</name>
 		<name>KIC 7102227</name>
 		<temperature errorminus="200" errorplus="200">5147</temperature>
-		<radius errorminus=".382" errorplus="0.382">0.743</radius>
+		<radius errorminus="0.38" errorplus="0.38">0.74</radius>
 		<mass errorminus="0.0340" errorplus="0.0340">0.7980</mass>
+		<metallicity>-0.061</metallicity>
 		<planet>
 			<name>Kepler-290 c</name>
 			<name>KOI-1360 c</name>
 			<name>KOI-1360.01</name>
 			<name>KIC 7102227 c</name>
 			<name>KIC 7102227.01</name>
-			<radius errorminus="0.03554" errorplus="0.12667">0.24605</radius>
-			<period errorminus=".000183" errorplus="0.000183">36.770310</period>
+			<radius errorminus="0.124" errorplus="0.124">0.241</radius>
+			<period errorminus="0.00018300" errorplus="0.00018300">36.77031000</period>
 			<transittime errorminus="0.0027100" errorplus="0.0027100">2454997.2931600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-290 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-290 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.205000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-290 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1360.02</name>
 			<name>KIC 7102227 b</name>
 			<name>KIC 7102227.02</name>
-			<radius errorminus="0.02005" errorplus="0.11118">0.20504</radius>
-			<period errorminus=".000066" errorplus="0.000066">14.589347</period>
+			<radius errorminus="0.109" errorplus="0.109">0.201</radius>
+			<period errorminus="0.00006600" errorplus="0.00006600">14.58934700</period>
 			<transittime errorminus="0.0025500" errorplus="0.0025500">2454974.9341300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-290 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-290 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.110000</semimajoraxis>
 		</planet>
 	</star>
 </system>

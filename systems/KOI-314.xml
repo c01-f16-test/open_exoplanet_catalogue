@@ -2,8 +2,8 @@
 	<name>KOI-314</name>
 	<name>Kepler-138</name>
 	<name>KIC 7603200</name>
-	<rightascension>19 21 31</rightascension>
-	<declination>+43 17 34</declination>
+	<rightascension>19 19 152.000002</rightascension>
+	<declination>43 17 35.0000484</declination>
 	<distance>114.07</distance>
 	<star>
 		<name>KOI-314</name>
@@ -12,11 +12,12 @@
 		<magJ errorminus="0.022" errorplus="0.022">10.293</magJ>
 		<magH errorminus="0.018" errorplus="0.018">9.680</magH>
 		<magK errorminus="0.011" errorplus="0.011">9.506</magK>
-		<temperature errorminus="49" errorplus="49">3841</temperature>
-		<radius errorminus="0.024" errorplus="0.024">0.442</radius>
+		<temperature errorminus="58.0" errorplus="58.0">3871.0</temperature>
+		<radius errorminus="0.05" errorplus="0.05">0.54</radius>
 		<spectraltype>M1V</spectraltype>
-		<mass errorminus="0.055" errorplus="0.055">0.521</mass>
+		<mass errorminus="0.05" errorplus="0.05">0.57</mass>
 		<metallicity errorminus="0.099" errorplus="0.099">-0.280</metallicity>
+		<magV>13.5</magV>
 		<planet>
 			<name>KOI-314 b</name>
 			<name>Kepler-138 c</name>
@@ -42,19 +43,20 @@
 			<name>Kepler-138 d</name>
 			<name>KOI-314.02</name>
 			<name>KIC 7603200 d</name>
-			<radius errorminus="0.006835" errorplus="0.006835">0.110450</radius>
-			<mass errorminus="0.001217" errorplus="0.002120">0.002013</mass>
-			<period errorminus="0.0008" errorplus="0.0009">23.0881</period>
+			<radius errorminus="0.013381916" errorplus="0.014274044">0.143634835641</radius>
+			<mass errorminus="0.00106975427115124" errorplus="0.00132146115848095">0.00317779945254</mass>
+			<period errorminus="0.00071" errorplus="0.00071">23.08933</period>
 			<periastron errorminus="120" errorplus="130">170</periastron>
 			<transittime errorminus="0.0013" errorplus="0.0013" unit="BJD">24556996.6689</transittime>
 			<semimajoraxis errorminus="0.004" errorplus="0.004">0.128</semimajoraxis>
 			<temperature>376.0</temperature>
 			<list>Confirmed planets</list>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/07/14</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>15/07/27</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<description>This planet has been confirmed by researchers trying to find extrasolar moons. Although no exo-moon was detected, they were able to confirm the planetary nature of the transit signal by using transit timing variations (TTV). These variations are due to planets pulling on each other gravitationally, therefore extending or shrinking the time between transits. There is another planet candidate in the system which has not been confirmed yet.</description>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.016" errorplus="0.03">0.024</eccentricity>
 		</planet>
 		<planet>
 			<name>Kepler-138 b</name>

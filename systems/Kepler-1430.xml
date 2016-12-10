@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1430</name>
-	<rightascension>19 18 47</rightascension>
-	<declination>+43 22 20</declination>
+	<rightascension>19 15 227.398559</rightascension>
+	<declination>43 22 19.5348000</declination>
+	<distance>541.0</distance>
 	<star>
 		<name>Kepler-1430</name>
-		<temperature errorminus="59.9" errorplus="46.7">4796.0</temperature>
+		<temperature errorminus="59.94" errorplus="46.68">4796.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.77</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.18" errorplus="0.20">-0.03</metallicity>
+		<metallicity errorminus="0.178" errorplus="0.201">-0.03</metallicity>
+		<magH>13.061</magH>
+		<magK>12.932</magK>
+		<magJ>13.546</magJ>
 		<planet>
 			<name>Kepler-1430 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000012730" errorplus="0.000012730">2.460509930</period>
+			<period errorminus="1.273e-05" errorplus="1.273e-05">2.46050993</period>
 			<radius errorminus="0.007" errorplus="0.008">0.105</radius>
 		</planet>
 	</star>

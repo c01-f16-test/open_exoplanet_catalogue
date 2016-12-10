@@ -1,8 +1,8 @@
 <system>
 	<name>HD 45364</name>
-	<rightascension>06 25 38</rightascension>
-	<declination>-31 28 51</declination>
-	<distance>32.6</distance>
+	<rightascension>06h25m38.48s</rightascension>
+	<declination>-31d28m51.4s</declination>
+	<distance errorminus="0.88" errorplus="0.84">32.58</distance>
 	<star>
 		<mass>0.82</mass>
 		<magV>8.08</magV>
@@ -12,31 +12,31 @@
 		<magK errorminus="0.018" errorplus="0.018">6.316</magK>
 		<metallicity>-0.17</metallicity>
 		<spectraltype>K0V</spectraltype>
+		<name>HD 45364</name>
+		<temperature>5434.0</temperature>
 		<planet>
 			<name>HD 45364 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.1872</mass>
-			<period>226.93</period>
-			<semimajoraxis>0.6813</semimajoraxis>
-			<eccentricity>0.1684</eccentricity>
+			<mass>0.18720</mass>
+			<period errorminus="0.37000000" errorplus="0.37000000">226.93000000</period>
+			<semimajoraxis>0.681300</semimajoraxis>
+			<eccentricity errorminus="0.019000" errorplus="0.019000">0.168400</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>273.1</temperature>
 		</planet>
 		<planet>
 			<name>HD 45364 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.6579</mass>
-			<period>342.85</period>
-			<semimajoraxis>0.8972</semimajoraxis>
-			<eccentricity>0.0974</eccentricity>
+			<mass>0.65790</mass>
+			<period errorminus="0.28000000" errorplus="0.28000000">342.85000000</period>
+			<semimajoraxis>0.897200</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.012000">0.097400</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/01/31</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>238.3</temperature>
 		</planet>
-		<name>HD 45364</name>
-		<temperature>5434.0</temperature>
 	</star>
 </system>

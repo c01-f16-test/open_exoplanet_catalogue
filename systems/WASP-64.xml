@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-64</name>
-	<rightascension>06 44 28</rightascension>
-	<declination>-32 51 30</declination>
+	<rightascension>06h44m27.61s</rightascension>
+	<declination>-32d51m30.2s</declination>
 	<distance errorminus="90" errorplus="90">350</distance>
 	<star>
-		<mass>0.98</mass>
-		<radius>1.03</radius>
+		<mass errorminus="0.03" errorplus="0.03">1.00</mass>
+		<radius errorminus="0.03" errorplus="0.03">1.06</radius>
 		<temperature errorminus="100" errorplus="100">5400</temperature>
 		<magV>12.29</magV>
 		<magJ errorminus="0.022" errorplus="0.022">11.368</magJ>
@@ -13,24 +13,24 @@
 		<magK errorminus="0.019" errorplus="0.019">10.956</magK>
 		<metallicity errorminus="0.11" errorplus="0.11">-0.08</metallicity>
 		<spectraltype>G7</spectraltype>
+		<name>WASP-64</name>
 		<planet>
 			<name>WASP-64 b</name>
 			<name>1SWASPJ064427.63-325130.4</name>
 			<list>Confirmed planets</list>
-			<mass>1.271</mass>
-			<radius>1.271</radius>
-			<period>1.57329</period>
-			<semimajoraxis>0.02648</semimajoraxis>
+			<mass errorminus="0.06800" errorplus="0.06800">1.27100</mass>
+			<radius errorminus="0.039" errorplus="0.039">1.271</radius>
+			<period errorminus="0.00000150" errorplus="0.00000150">1.57329180</period>
+			<semimajoraxis errorminus="0.000240" errorplus="0.000240">0.026480</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>86.57</inclination>
+			<inclination errorminus="0.600" errorplus="0.800">86.570</inclination>
 			<transittime errorminus="0.00027" errorplus="0.00027" unit="HJD">2455582.60169</transittime>
 			<temperature errorminus="49" errorplus="49">1689</temperature>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/10/17</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-64</name>
 	</star>
 </system>

@@ -1,10 +1,10 @@
 <system>
 	<name>CoRoT-5</name>
-	<rightascension>06 45 07</rightascension>
-	<declination>+00 48 55</declination>
-	<distance>400</distance>
+	<rightascension>6 44 67.000008</rightascension>
+	<declination>0 48 55.0000800</declination>
+	<distance errorminus="0.0" errorplus="0.0">400.0</distance>
 	<star>
-		<mass errorminus="0.02" errorplus="0.02">1.00</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.0</mass>
 		<radius errorminus="0.04" errorplus="0.04">1.186</radius>
 		<magV>14</magV>
 		<magR>13.82</magR>
@@ -15,26 +15,28 @@
 		<magK errorminus="0.026" errorplus="0.026">12.546</magK>
 		<metallicity errorminus="0.06" errorplus="0.06">-0.25</metallicity>
 		<spectraltype>F9V</spectraltype>
+		<name>CoRoT-5</name>
+		<temperature errorminus="65.0" errorplus="65.0">6100.0</temperature>
+		<age errorminus="1.4" errorplus="1.4">6.9</age>
 		<planet>
 			<name>CoRoT-5 b</name>
 			<name>CoRoT-Exo-5 b</name>
 			<name>CoRoTID 102764809 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.024" errorplus="0.047">0.467</mass>
-			<radius errorminus="0.047" errorplus="0.046">1.388</radius>
-			<period errorminus="0.0000019" errorplus="0.0000019">4.0378962</period>
-			<semimajoraxis errorminus="0.00029" errorplus="0.00026">0.04947</semimajoraxis>
-			<eccentricity errorminus="0.04" errorplus="0.09">0.09</eccentricity>
-			<inclination errorminus="1.38" errorplus="0.99">85.83</inclination>
+			<radius errorminus="0.047" errorplus="0.047">1.33</radius>
+			<period errorminus="1.9e-06" errorplus="1.9e-06">4.0378962</period>
+			<semimajoraxis errorminus="0.00029" errorplus="0.00029">0.04947</semimajoraxis>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.09</eccentricity>
+			<inclination errorminus="1.38" errorplus="1.38">85.83</inclination>
 			<description>CoRoT 6 is an F-type star in the constellation Monoceros.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>09/07/18</lastupdate>
+			<lastupdate>14/05/22</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1316.3</temperature>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2454400.19963</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="48.0" errorplus="48.0">231.7</periastron>
 		</planet>
-		<name>CoRoT-5</name>
-		<temperature>6100.0</temperature>
 	</star>
 </system>

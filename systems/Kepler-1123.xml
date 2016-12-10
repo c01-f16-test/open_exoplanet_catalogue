@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1123</name>
-	<rightascension>19 38 04</rightascension>
-	<declination>+50 40 13</declination>
+	<rightascension>19 36 124.240080</rightascension>
+	<declination>50 40 13.4364000</declination>
+	<distance>796.0</distance>
 	<star>
 		<name>Kepler-1123</name>
-		<temperature errorminus="90.5" errorplus="75.4">5500.0</temperature>
+		<temperature errorminus="90.52" errorplus="75.39">5500.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.93</mass>
-		<radius errorminus="0.06" errorplus="0.13">0.90</radius>
-		<metallicity errorminus="0.15" errorplus="0.14">0.05</metallicity>
+		<radius errorminus="0.06" errorplus="0.13">0.9</radius>
+		<metallicity errorminus="0.153" errorplus="0.144">0.05</metallicity>
+		<magH>13.154</magH>
+		<magK>13.105</magK>
+		<magJ>13.528</magJ>
 		<planet>
 			<name>Kepler-1123 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000011780" errorplus="0.000011780">4.339464540</period>
-			<radius errorminus="0.010" errorplus="0.022">0.149</radius>
+			<period errorminus="1.178e-05" errorplus="1.178e-05">4.33946454</period>
+			<radius errorminus="0.01" errorplus="0.022">0.149</radius>
 		</planet>
 	</star>
 </system>

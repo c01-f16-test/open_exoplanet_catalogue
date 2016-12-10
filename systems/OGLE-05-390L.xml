@@ -6,6 +6,8 @@
 	<star>
 		<mass>0.22</mass>
 		<spectraltype>M</spectraltype>
+		<name>OGLE-05-390L</name>
+		<temperature>3840.0</temperature>
 		<planet>
 			<name>OGLE-05-390L b</name>
 			<name>OGLE 2005-BLG-390L b</name>
@@ -17,7 +19,5 @@
 			<lastupdate>06/04/12</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 		</planet>
-		<name>OGLE-05-390L</name>
-		<temperature>3840.0</temperature>
 	</star>
 </system>

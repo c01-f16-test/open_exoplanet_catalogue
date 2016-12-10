@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1461</name>
-	<rightascension>19 03 19</rightascension>
-	<declination>+43 11 54</declination>
+	<rightascension>19 0 199.30992</rightascension>
+	<declination>43 11 54.2219999</declination>
+	<distance>752.0</distance>
 	<star>
 		<name>Kepler-1461</name>
-		<temperature errorminus="58.2" errorplus="49.8">4919.0</temperature>
+		<temperature errorminus="58.16" errorplus="49.81">4919.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.79</mass>
 		<radius errorminus="0.04" errorplus="0.03">0.74</radius>
-		<metallicity errorminus="0.17" errorplus="0.17">-0.04</metallicity>
+		<metallicity errorminus="0.174" errorplus="0.174">-0.04</metallicity>
+		<magH>13.706</magH>
+		<magK>13.471</magK>
+		<magJ>14.137</magJ>
 		<planet>
 			<name>Kepler-1461 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000183200" errorplus="0.000183200">29.349477500</period>
+			<period errorminus="0.0001832" errorplus="0.0001832">29.3494775</period>
 			<radius errorminus="0.014" errorplus="0.008">0.181</radius>
 		</planet>
 	</star>

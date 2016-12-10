@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1617</name>
-	<rightascension>19 11 45</rightascension>
-	<declination>+46 25 07</declination>
+	<rightascension>19 7 284.932559</rightascension>
+	<declination>46 25 6.56759999</declination>
+	<distance>813.0</distance>
 	<star>
 		<name>Kepler-1617</name>
-		<temperature errorminus="78.0" errorplus="84.8">6167.0</temperature>
+		<temperature errorminus="77.96" errorplus="84.79">6167.0</temperature>
 		<mass errorminus="0.08" errorplus="0.13">1.15</mass>
 		<radius errorminus="0.15" errorplus="0.38">1.22</radius>
-		<metallicity errorminus="0.17" errorplus="0.12">0.01</metallicity>
+		<metallicity errorminus="0.165" errorplus="0.123">0.01</metallicity>
+		<magH>12.369</magH>
+		<magK>12.323</magK>
+		<magJ>12.665</magJ>
 		<planet>
 			<name>Kepler-1617 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000507800" errorplus="0.000507800">27.478557200</period>
+			<period errorminus="0.0005078" errorplus="0.0005078">27.4785572</period>
 			<radius errorminus="0.014" errorplus="0.033">0.107</radius>
 		</planet>
 	</star>

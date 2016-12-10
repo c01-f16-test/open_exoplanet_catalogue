@@ -1,11 +1,11 @@
 <system>
 	<name>HD 102272</name>
-	<rightascension>11 46 24</rightascension>
-	<declination>+14 07 26</declination>
-	<distance>360</distance>
+	<rightascension>11h46m23.54s</rightascension>
+	<declination>+14d07m26.4s</declination>
+	<distance>164.20</distance>
 	<star>
-		<mass>1.9</mass>
-		<radius>10.1</radius>
+		<mass errorminus="0.30" errorplus="0.30">1.90</mass>
+		<radius errorminus="4.60" errorplus="4.60">10.10</radius>
 		<magV>8.71</magV>
 		<magB>9.71</magB>
 		<magJ errorminus="0.017" errorplus="0.017">6.895</magJ>
@@ -13,15 +13,17 @@
 		<magK errorminus="0.016" errorplus="0.016">6.259</magK>
 		<metallicity>0.26</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 102272</name>
+		<temperature errorminus="35.00" errorplus="35.00">4908.00</temperature>
 		<planet>
 			<name>HD 102272 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.9</mass>
-			<period>127.58</period>
-			<semimajoraxis>0.614</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000">5.90000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">127.58000000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.614000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.050000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>08/06/12</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>877.6</temperature>
 		</planet>
@@ -37,7 +39,5 @@
 			<discoveryyear>2008</discoveryyear>
 			<temperature>530.8</temperature>
 		</planet>
-		<name>HD 102272</name>
-		<temperature>4908.0</temperature>
 	</star>
 </system>

@@ -2,8 +2,8 @@
 	<name>Kepler-199</name>
 	<name>KOI-638</name>
 	<name>KIC 5113822</name>
-	<rightascension>19 42 14</rightascension>
-	<declination>+40 14 10</declination>
+	<rightascension>19 40 134.260248</rightascension>
+	<declination>40 14 10.5756000</declination>
 	<distance>544.56</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">12.449</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-199</name>
 		<name>KOI-638</name>
 		<name>KIC 5113822</name>
-		<temperature errorminus="17" errorplus="117">5644</temperature>
-		<radius errorminus=".173" errorplus="0.173">0.967</radius>
+		<temperature errorminus="117.0" errorplus="117.0">5644.0</temperature>
+		<radius errorminus="0.17" errorplus="0.17">0.97</radius>
 		<mass errorminus="0.0810" errorplus="0.0810">1.0030</mass>
+		<metallicity>-0.157</metallicity>
 		<planet>
 			<name>Kepler-199 b</name>
 			<name>KOI-638 b</name>
 			<name>KOI-638.01</name>
 			<name>KIC 5113822 b</name>
 			<name>KIC 5113822.01</name>
-			<radius errorminus="0.05103" errorplus="0.05103">0.28342</radius>
-			<period errorminus=".000050" errorplus="0.000050">23.637604</period>
+			<radius errorminus="0.050" errorplus="0.050">0.277</radius>
+			<period errorminus="0.00005000" errorplus="0.00005000">23.63760400</period>
 			<transittime errorminus="0.0011000" errorplus="0.0011000">2455005.6484600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-199 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-199 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.158000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-199 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-638.02</name>
 			<name>KIC 5113822 c</name>
 			<name>KIC 5113822.02</name>
-			<radius errorminus="0.05286" errorplus="0.05286">0.29617</radius>
-			<period errorminus=".000190" errorplus="0.000190">67.093408</period>
+			<radius errorminus="0.052" errorplus="0.052">0.290</radius>
+			<period errorminus="0.00019000" errorplus="0.00019000">67.09340800</period>
 			<transittime errorminus="0.0016700" errorplus="0.0016700">2454979.5657700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-199 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-199 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.316000</semimajoraxis>
 		</planet>
 	</star>
 </system>

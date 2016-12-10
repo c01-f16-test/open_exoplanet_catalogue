@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1377</name>
-	<rightascension>19 16 47</rightascension>
-	<declination>+46 39 06</declination>
+	<rightascension>19 15 106.909919</rightascension>
+	<declination>46 39 6.13080000</declination>
+	<distance>1019.0</distance>
 	<star>
 		<name>Kepler-1377</name>
-		<temperature errorminus="53.6" errorplus="42.5">5218.0</temperature>
+		<temperature errorminus="53.61" errorplus="42.47">5218.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.82</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.05</metallicity>
+		<metallicity errorminus="0.14" errorplus="0.136">0.05</metallicity>
+		<magH>13.949</magH>
+		<magK>13.984</magK>
+		<magJ>14.319</magJ>
 		<planet>
 			<name>Kepler-1377 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001850" errorplus="0.000001850">0.740928420</period>
+			<period errorminus="1.85e-06" errorplus="1.85e-06">0.74092842</period>
 			<radius errorminus="0.007" errorplus="0.008">0.112</radius>
 		</planet>
 	</star>

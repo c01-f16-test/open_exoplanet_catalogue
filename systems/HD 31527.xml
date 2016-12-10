@@ -12,6 +12,8 @@
 		<magH errorminus="0.029" errorplus="0.029">6.048</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.049</magK>
 		<spectraltype>G0V</spectraltype>
+		<name>HD 31527</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 31527 b</name>
 			<list>Confirmed planets</list>
@@ -51,7 +53,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>299.2</temperature>
 		</planet>
-		<name>HD 31527</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

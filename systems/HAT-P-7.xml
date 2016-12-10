@@ -32,6 +32,7 @@
 				<name>KOI-2.01</name>
 				<name>KOI-2 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.709</mass>
 				<radius>1.4588</radius>
 				<temperature>2733</temperature>
@@ -46,7 +47,6 @@
 				<discoveryyear>2008</discoveryyear>
 				<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454342.42691</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

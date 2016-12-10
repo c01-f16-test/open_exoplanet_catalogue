@@ -1,11 +1,11 @@
 <system>
 	<name>HD 290327</name>
-	<rightascension>05 23 22</rightascension>
-	<declination>-02 16 39</declination>
-	<distance>54.9</distance>
+	<rightascension>05h23m21.56s</rightascension>
+	<declination>-02d16m39.4s</declination>
+	<distance errorminus="4.60" errorplus="5.50">56.70</distance>
 	<star>
-		<mass>0.9</mass>
-		<radius>1</radius>
+		<mass>0.90</mass>
+		<radius errorminus="0.01" errorplus="0.01">1.00</radius>
 		<magV>8.96</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.73</magB>
 		<magJ errorminus="0.026" errorplus="0.026">7.683</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.027" errorplus="0.027">7.271</magK>
 		<metallicity>-0.11</metallicity>
 		<spectraltype>G8V</spectraltype>
+		<name>HD 290327</name>
+		<temperature errorminus="21.00" errorplus="21.00">5552.00</temperature>
 		<planet>
 			<name>HD 290327 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.54</mass>
-			<period>2443</period>
-			<semimajoraxis>3.43</semimajoraxis>
-			<eccentricity>0.08</eccentricity>
+			<mass errorminus="0.14000" errorplus="0.17000">2.54000</mass>
+			<period errorminus="117.00000000" errorplus="205.00000000">2443.00000000</period>
+			<semimajoraxis errorminus="0.120000" errorplus="0.200000">3.430000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.080000">0.080000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>132.1</temperature>
 		</planet>
-		<name>HD 290327</name>
-		<temperature>5552.0</temperature>
 	</star>
 </system>

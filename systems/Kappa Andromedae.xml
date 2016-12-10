@@ -18,25 +18,20 @@
 		<metallicity>-0.36</metallicity>
 		<spectraltype>B9IV</spectraltype>
 		<age errorminus="0.100" errorplus="0.100">0.220</age>
+		<name>Kappa Andromedae</name>
 		<planet>
 			<name>Kappa And b</name>
+			<name>Kappa Andromedae b</name>
 			<list>Controversial</list>
 			<mass errorminus="13" errorplus="16">50</mass>
 			<temperature errorminus="60" errorplus="60">2040</temperature>
 			<spectraltype>L1</spectraltype>
 			<separation errorminus="0.005" errorplus="0.005" unit="arcsec">1.029</separation>
 			<separation unit="AU">61</separation>
-			<positionangle errorminus="0.3" errorplus="0.3">55.3</positionangle>
 			<description>Kappa Andromedae b is an extrasolar planet or possibly low-mass brown dwarf. Astronomers have directly imaged it using the Subaru telescope on Hawaii.</description>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>12/11/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<image>KappaAndromedae</image>
-			<imagedescription>Image of the star Kappa Andromedae and the planet or brown dwarf Kappa Andromedae (top left). 
-			
-Credit: J. Carson et al 2012.</imagedescription>
-			<name>Kappa Andromedae b</name>
 		</planet>
-		<name>Kappa Andromedae</name>
 	</star>
 </system>

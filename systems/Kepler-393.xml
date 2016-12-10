@@ -2,8 +2,8 @@
 	<name>Kepler-393</name>
 	<name>KOI-2595</name>
 	<name>KIC 8883329</name>
-	<rightascension>19 23 58</rightascension>
-	<declination>+45 11 31</declination>
+	<rightascension>19 19 298.864739</rightascension>
+	<declination>45 11 31.9739999</declination>
 	<distance>788.49</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">12.325</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-2595</name>
 		<name>KIC 8883329</name>
 		<temperature errorminus="100" errorplus="100">6189</temperature>
-		<radius errorminus=".263" errorplus="0.263">1.382</radius>
-		<mass errorminus="0.1800" errorplus="0.1800">1.3800</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.38</radius>
+		<mass>1.32</mass>
+		<metallicity>-0.217</metallicity>
 		<planet>
 			<name>Kepler-393 b</name>
 			<name>KOI-2595 b</name>
 			<name>KOI-2595.01</name>
 			<name>KIC 8883329 b</name>
 			<name>KIC 8883329.01</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.11756</radius>
-			<period errorminus=".000096" errorplus="0.000096">9.182417</period>
+			<radius errorminus="0.022" errorplus="0.022">0.115</radius>
+			<period errorminus="0.00009600" errorplus="0.00009600">9.18241700</period>
 			<transittime errorminus="0.0056000" errorplus="0.0056000">2454967.0481300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-393 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-393 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.091000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-393 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-2595.02</name>
 			<name>KIC 8883329 c</name>
 			<name>KIC 8883329.02</name>
-			<radius errorminus="0.02825" errorplus="0.02825">0.12120</radius>
-			<period errorminus=".000231" errorplus="0.000231">14.613612</period>
+			<radius errorminus="0.028" errorplus="0.028">0.119</radius>
+			<period errorminus="0.00023100" errorplus="0.00023100">14.61361200</period>
 			<transittime errorminus="0.0073600" errorplus="0.0073600">2454973.4124000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-393 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-393 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.124000</semimajoraxis>
 		</planet>
 	</star>
 </system>

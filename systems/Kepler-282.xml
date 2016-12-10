@@ -2,8 +2,8 @@
 	<name>Kepler-282</name>
 	<name>KOI-1278</name>
 	<name>KIC 8609450</name>
-	<rightascension>18 58 42</rightascension>
-	<declination>+44 47 51</declination>
+	<rightascension>17 56 163.008000</rightascension>
+	<declination>44 47 51.0</declination>
 	<distance>1052.20</distance>
 	<star>
 		<magJ errorminus="0.028" errorplus="0.028">14.080</magJ>
@@ -12,24 +12,27 @@
 		<name>Kepler-282</name>
 		<name>KOI-1278</name>
 		<name>KIC 8609450</name>
-		<temperature errorminus="55" errorplus="155">5602</temperature>
-		<radius errorminus=".215" errorplus="0.215">0.904</radius>
-		<mass errorminus="0.0900" errorplus="0.0900">1.0820</mass>
+		<temperature>5876.0</temperature>
+		<radius errorminus="0.05" errorplus="0.05">1.01</radius>
+		<mass errorminus="0.46" errorplus="0.33">1.09</mass>
+		<metallicity>-0.374</metallicity>
+		<magV>15.2</magV>
 		<planet>
 			<name>Kepler-282 d</name>
 			<name>KOI-1278 d</name>
 			<name>KOI-1278.01</name>
 			<name>KIC 8609450 d</name>
 			<name>KIC 8609450.01</name>
-			<radius errorminus="0.04921" errorplus="0.04921">0.20778</radius>
-			<period errorminus=".000152" errorplus="0.000152">24.805787</period>
+			<radius errorminus="0.018" errorplus="0.089">0.219</radius>
+			<period>24.80600000</period>
 			<transittime errorminus="0.0030400" errorplus="0.0030400">2454978.0729100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-282 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-282 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.11400" errorplus="0.11300">0.19200</mass>
 		</planet>
 		<planet>
 			<name>Kepler-282 e</name>
@@ -37,15 +40,16 @@
 			<name>KOI-1278.02</name>
 			<name>KIC 8609450 e</name>
 			<name>KIC 8609450.02</name>
-			<radius errorminus="0.05559" errorplus="0.05559">0.23420</radius>
-			<period errorminus=".000309" errorplus="0.000309">44.346937</period>
+			<radius errorminus="0.022" errorplus="0.112">0.277</radius>
+			<period>44.34700000</period>
 			<transittime errorminus="0.0035900" errorplus="0.0035900">2454994.3194600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-282 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-282 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.05300" errorplus="0.05100">0.17700</mass>
 		</planet>
 		<planet>
 			<name>Kepler-282 b</name>
@@ -53,15 +57,16 @@
 			<name>KOI-1278.03</name>
 			<name>KIC 8609450 b</name>
 			<name>KIC 8609450.03</name>
-			<radius errorminus="0.02278" errorplus="0.02278">0.09204</radius>
-			<period errorminus=".000341" errorplus="0.000341">9.220524</period>
+			<radius errorminus="0.022" errorplus="0.022">0.090</radius>
+			<period errorminus="0.00034100" errorplus="0.00034100">9.22052400</period>
 			<transittime errorminus="0.0252300" errorplus="0.0252300">2454971.0544400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-282 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-282 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.082000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-282 c</name>
@@ -69,15 +74,16 @@
 			<name>KOI-1278.04</name>
 			<name>KIC 8609450 c</name>
 			<name>KIC 8609450.04</name>
-			<radius errorminus="0.02643" errorplus="0.02643">0.10936</radius>
-			<period errorminus=".000491" errorplus="0.000491">13.638723</period>
+			<radius errorminus="0.026" errorplus="0.026">0.107</radius>
+			<period errorminus="0.00049100" errorplus="0.00049100">13.63872300</period>
 			<transittime errorminus="0.0221300" errorplus="0.0221300">2454974.7780900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-282 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-282 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.106000</semimajoraxis>
 		</planet>
 	</star>
 </system>

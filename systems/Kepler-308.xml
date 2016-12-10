@@ -2,34 +2,36 @@
 	<name>Kepler-308</name>
 	<name>KOI-1593</name>
 	<name>KIC 5289854</name>
-	<rightascension>19 43 08</rightascension>
-	<declination>+40 26 22</declination>
+	<rightascension>19 40 188.437512</rightascension>
+	<declination>40 26 22.3727999</declination>
 	<distance>1602.52</distance>
 	<star>
-		<magJ errorminus="0.04" errorplus="0.04">14.61</magJ>
-		<magH errorminus="0.07" errorplus="0.07">14.15</magH>
-		<magK errorminus="0.07" errorplus="0.07">14.19</magK>
+		<magJ>14.614</magJ>
+		<magH>14.153</magH>
+		<magK>14.187</magK>
 		<name>Kepler-308</name>
 		<name>KOI-1593</name>
 		<name>KIC 5289854</name>
 		<temperature errorminus="200" errorplus="200">5895</temperature>
-		<radius errorminus=".452" errorplus="0.452">0.941</radius>
+		<radius errorminus="0.45" errorplus="0.45">0.94</radius>
 		<mass errorminus="0.0900" errorplus="0.0900">0.9970</mass>
+		<metallicity>-0.112</metallicity>
 		<planet>
 			<name>Kepler-308 b</name>
 			<name>KOI-1593 b</name>
 			<name>KOI-1593.01</name>
 			<name>KIC 5289854 b</name>
 			<name>KIC 5289854.01</name>
-			<radius errorminus="0.00182" errorplus="0.09295">0.19320</radius>
-			<period errorminus=".000090" errorplus="0.000090">9.694928</period>
+			<radius errorminus="0.091" errorplus="0.091">0.189</radius>
+			<period errorminus="0.00009000" errorplus="0.00009000">9.69492800</period>
 			<transittime errorminus="0.0055800" errorplus="0.0055800">2455015.4561700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-308 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-308 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.090000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-308 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1593.02</name>
 			<name>KIC 5289854 c</name>
 			<name>KIC 5289854.02</name>
-			<radius errorminus="0.00365" errorplus="0.09478">0.19684</radius>
-			<period errorminus=".000171" errorplus="0.000171">15.382310</period>
+			<radius errorminus="0.093" errorplus="0.093">0.193</radius>
+			<period errorminus="0.00017100" errorplus="0.00017100">15.38231000</period>
 			<transittime errorminus="0.0062300" errorplus="0.0062300">2454972.0827700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-308 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-308 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.123000</semimajoraxis>
 		</planet>
 	</star>
 </system>

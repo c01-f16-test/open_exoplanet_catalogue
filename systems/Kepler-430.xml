@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-430</name>
-	<rightascension>19 31 14.07</rightascension>
-	<declination>+49 34 46.0</declination>
+	<rightascension>19 27 254.100001</rightascension>
+	<declination>49 34 46.0000776</declination>
 	<star>
 		<name>Kepler-430</name>
 		<name>KOI-2365</name>
@@ -10,9 +10,10 @@
 		<magJ errorminus="0.020" errorplus="0.020">12.743</magJ>
 		<magH errorminus="0.023" errorplus="0.023">12.486</magH>
 		<magK errorminus="0.029" errorplus="0.029">12.391</magK>
-		<mass>1.166</mass>
-		<radius>1.485</radius>
-		<temperature>5884</temperature>
+		<mass errorminus="0.095" errorplus="0.134">1.166</mass>
+		<radius errorminus="0.234" errorplus="0.266">1.485</radius>
+		<temperature errorminus="75.0" errorplus="75.0">5884.0</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.2</metallicity>
 		<planet>
 			<name>Kepler-430 b</name>
 			<name>KOI-2365 b</name>
@@ -21,12 +22,12 @@
 			<list>Confirmed planets</list>
 			<period>35.968</period>
 			<semimajoraxis>0.2244</semimajoraxis>
-			<radius>0.290</radius>
+			<radius>0.29</radius>
 			<transittime errorminus="0.00369" errorplus="0.00369">2454971.66952</transittime>
 			<description>The planet Kepler-430 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/05/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -37,12 +38,12 @@
 			<list>Confirmed planets</list>
 			<period>110.979</period>
 			<semimajoraxis>0.4757</semimajoraxis>
-			<radius>0.156</radius>
+			<radius>0.29</radius>
 			<transittime errorminus="0.0163" errorplus="0.0163">2454980.0564</transittime>
 			<description>The planet Kepler-430 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/05/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

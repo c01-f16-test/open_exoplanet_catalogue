@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1432</name>
-	<rightascension>19 42 06</rightascension>
-	<declination>+49 49 46</declination>
+	<rightascension>19 40 125.802000</rightascension>
+	<declination>49 49 46.3728000</declination>
+	<distance>1552.0</distance>
 	<star>
 		<name>Kepler-1432</name>
-		<temperature errorminus="137.5" errorplus="122.0">6031.0</temperature>
+		<temperature errorminus="137.46" errorplus="121.96">6031.0</temperature>
 		<mass errorminus="0.07" errorplus="0.09">1.09</mass>
 		<radius errorminus="0.13" errorplus="0.29">1.13</radius>
-		<metallicity errorminus="0.15" errorplus="0.13">0.02</metallicity>
+		<metallicity errorminus="0.15" errorplus="0.134">0.02</metallicity>
+		<magH>13.95</magH>
+		<magK>13.97</magK>
+		<magJ>14.268</magJ>
 		<planet>
 			<name>Kepler-1432 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000270300" errorplus="0.000270300">23.910901100</period>
+			<period errorminus="0.0002703" errorplus="0.0002703">23.9109011</period>
 			<radius errorminus="0.027" errorplus="0.062">0.198</radius>
 		</planet>
 	</star>

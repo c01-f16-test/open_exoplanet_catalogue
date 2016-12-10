@@ -12,6 +12,8 @@
 		<magH errorminus="0.061" errorplus="0.061">5.022</magH>
 		<magK errorminus="0.026" errorplus="0.026">4.836</magK>
 		<spectraltype>G0V</spectraltype>
+		<name>HD 134060</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 134060 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>182.8</temperature>
 		</planet>
-		<name>HD 134060</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

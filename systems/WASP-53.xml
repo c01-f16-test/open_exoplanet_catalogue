@@ -1,6 +1,8 @@
 <system>
 	<name>WASP-53</name>
 	<star>
+		<name>WASP-53</name>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>WASP-53 b</name>
 			<list>Confirmed planets</list>
@@ -13,7 +15,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-53</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

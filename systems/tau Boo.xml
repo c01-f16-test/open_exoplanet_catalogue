@@ -47,6 +47,7 @@
 				<name>HR 5185 b</name>
 				<name>tau Boo b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.17" errorplus="0.17">6.13</mass>
 				<period errorminus="0.0000069" errorplus="0.0000069">3.3124568</period>
 				<semimajoraxis errorminus="0.003" errorplus="0.003">0.049</semimajoraxis>
@@ -59,11 +60,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>14/03/04</lastupdate>
 				<discoveryyear>1996</discoveryyear>
-				<image>tauboo</image>
-				<imagedescription>This artist's impression shows the exoplanet Tau Bootis b. 
-
-		Credit: ESO/L. Calcada</imagedescription>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

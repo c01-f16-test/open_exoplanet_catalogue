@@ -19,6 +19,34 @@
 		<periastron errorminus="2.6" errorplus="3.2">342.8</periastron>
 		<period errorminus="3300" errorplus="2900">72320</period>
 		<periastrontime errorminus="900" errorplus="900">2488500</periastrontime>
+		<binary>
+			<semimajoraxis upperlimit="0.3"/>
+			<star>
+				<name>Kepler-444 B</name>
+				<name>HIP 94931 B</name>
+				<name>KOI-3158 B</name>
+				<name>KIC 6278762 B</name>
+				<name>LHS 3450 B</name>
+				<name>PPM 58152 B</name>
+				<name>BD+41 3306 B</name>
+				<magK>9.67</magK>
+				<temperature errorminus="200" errorplus="200">3464</temperature>
+				<mass errorminus="0.03" errorplus="0.03">0.29</mass>
+				<spectraltype>M</spectraltype>
+			</star>
+			<star>
+				<name>Kepler-444 C</name>
+				<name>HIP 94931 C</name>
+				<name>KOI-3158 C</name>
+				<name>KIC 6278762 C</name>
+				<name>LHS 3450 C</name>
+				<name>PPM 58152 C</name>
+				<name>BD+41 3306 C</name>
+				<magK>9.97</magK>
+				<mass errorminus="0.03" errorplus="0.03">0.25</mass>
+				<spectraltype>M</spectraltype>
+			</star>
+		</binary>
 		<star>
 			<name>Kepler-444 A</name>
 			<name>HIP 94931 A</name>
@@ -53,6 +81,7 @@
 				<name>TYC 3129-329-1 b</name>
 				<name>BD+41 3306 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.001276" errorplus="0.001458">0.036726</radius>
 				<period errorminus="0.0000080" errorplus="0.0000083">3.6001053</period>
 				<semimajoraxis errorminus="0.00079" errorplus="0.00079">0.04178</semimajoraxis>
@@ -63,7 +92,6 @@
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-444 c</name>
@@ -74,6 +102,7 @@
 				<name>KIC 6278762 A c</name>
 				<name>LHS 3450 A c</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.001549" errorplus="0.001914">0.045292</radius>
 				<period errorminus="0.0000071" errorplus="0.0000070">4.5458841</period>
 				<semimajoraxis errorminus="0.00093" errorplus="0.00093">0.04881</semimajoraxis>
@@ -84,7 +113,6 @@
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-444 d</name>
@@ -95,6 +123,7 @@
 				<name>KIC 6278762 A d</name>
 				<name>LHS 3450 A d</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.001731" errorplus="0.002005">0.048299</radius>
 				<period errorminus="0.000012" errorplus="0.000012">6.189392</period>
 				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0600</semimajoraxis>
@@ -105,7 +134,6 @@
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-444 e</name>
@@ -116,6 +144,7 @@
 				<name>KIC 6278762 A e</name>
 				<name>LHS 3450 A e</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.001367" errorplus="0.001549">0.049757</radius>
 				<period errorminus="0.000016" errorplus="0.000017">7.743493</period>
 				<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0696</semimajoraxis>
@@ -126,7 +155,6 @@
 				<istransiting>1</istransiting>
 				<lastupdate>15/07/28</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-444 f</name>
@@ -137,6 +165,7 @@
 				<name>KIC 6278762 A f</name>
 				<name>LHS 3450 A f</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<radius errorminus="0.003645" errorplus="0.003736">0.067528</radius>
 				<period errorminus="0.000013" errorplus="0.000013">9.740486</period>
 				<eccentricity errorminus="0.19" errorplus="0.2">0.29</eccentricity>
@@ -147,36 +176,7 @@
 				<istransiting>1</istransiting>
 				<lastupdate>15/02/01</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
-		<binary>
-			<semimajoraxis upperlimit="0.3" />
-			<star>
-				<name>Kepler-444 B</name>
-				<name>HIP 94931 B</name>
-				<name>KOI-3158 B</name>
-				<name>KIC 6278762 B</name>
-				<name>LHS 3450 B</name>
-				<name>PPM 58152 B</name>
-				<name>BD+41 3306 B</name>
-				<magK>9.67</magK>
-				<temperature errorminus="200" errorplus="200">3464</temperature>
-				<mass errorminus="0.03" errorplus="0.03">0.29</mass>
-				<spectraltype>M</spectraltype>
-			</star>
-			<star>
-				<name>Kepler-444 C</name>
-				<name>HIP 94931 C</name>
-				<name>KOI-3158 C</name>
-				<name>KIC 6278762 C</name>
-				<name>LHS 3450 C</name>
-				<name>PPM 58152 C</name>
-				<name>BD+41 3306 C</name>
-				<magK>9.97</magK>
-				<mass errorminus="0.03" errorplus="0.03">0.25</mass>
-				<spectraltype>M</spectraltype>
-			</star>
-		</binary>
 	</binary>
 </system>

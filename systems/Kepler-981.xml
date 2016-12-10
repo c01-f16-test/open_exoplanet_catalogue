@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-981</name>
-	<rightascension>19 16 59.7</rightascension>
-	<declination>+47 39 00</declination>
+	<rightascension>19 15 119.737679</rightascension>
+	<declination>47 39 0.36360000</declination>
+	<distance>913.0</distance>
 	<star>
 		<name>Kepler-981</name>
-		<temperature errorminus="82.9" errorplus="78.2">5718.0</temperature>
+		<temperature errorminus="82.87" errorplus="78.23">5718.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.98</mass>
 		<radius errorminus="0.07" errorplus="0.12">0.96</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.178" errorplus="0.146">0.01</metallicity>
+		<magH>13.272</magH>
+		<magK>13.169</magK>
+		<magJ>13.574</magJ>
 		<planet>
 			<name>Kepler-981 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005860" errorplus="0.000005860">4.469757740</period>
+			<period errorminus="5.86e-06" errorplus="5.86e-06">4.46975774</period>
 			<radius errorminus="0.016" errorplus="0.027">0.206</radius>
 		</planet>
 	</star>

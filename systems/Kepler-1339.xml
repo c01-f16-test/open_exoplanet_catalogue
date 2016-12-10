@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1339</name>
-	<rightascension>18 54 59</rightascension>
-	<declination>+48 22 24</declination>
+	<rightascension>18 52 178.990560</rightascension>
+	<declination>48 22 24.2183999</declination>
+	<distance>267.0</distance>
 	<star>
 		<name>Kepler-1339</name>
-		<temperature errorminus="56.0" errorplus="51.0">5586.0</temperature>
+		<temperature errorminus="56.05" errorplus="51.01">5586.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.94</mass>
 		<radius errorminus="0.05" errorplus="0.06">0.93</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">0.01</metallicity>
+		<metallicity errorminus="0.11" errorplus="0.112">0.01</metallicity>
+		<magH>10.697</magH>
+		<magK>10.627</magK>
+		<magJ>11.026</magJ>
 		<planet>
 			<name>Kepler-1339 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000003700" errorplus="0.000003700">1.341555130</period>
+			<period errorminus="3.7e-06" errorplus="3.7e-06">1.34155513</period>
 			<radius errorminus="0.004" errorplus="0.005">0.063</radius>
 		</planet>
 	</star>

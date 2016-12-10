@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-431</name>
-	<rightascension>18 44 26.96</rightascension>
-	<declination>+43 13 40.0</declination>
+	<rightascension>18 44 26.9000020</rightascension>
+	<declination>43 13 40.1000476</declination>
 	<star>
 		<name>Kepler-431</name>
 		<name>KOI-3097</name>
@@ -10,9 +10,10 @@
 		<magJ errorminus="0.021" errorplus="0.021">10.945</magJ>
 		<magH errorminus="0.019" errorplus="0.019">10.678</magH>
 		<magK errorminus="0.011" errorplus="0.011">10.649</magK>
-		<mass>1.071</mass>
-		<radius>1.092</radius>
-		<temperature>6004</temperature>
+		<mass errorminus="0.037" errorplus="0.059">1.071</mass>
+		<radius errorminus="0.109" errorplus="0.191">1.092</radius>
+		<temperature errorminus="75.0" errorplus="75.0">6004.0</temperature>
+		<metallicity errorminus="0.1" errorplus="0.1">0.07</metallicity>
 		<planet>
 			<name>Kepler-431 b</name>
 			<name>KOI-3097 b</name>
@@ -26,7 +27,7 @@
 			<description>The planet Kepler-431 b was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/05/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -42,7 +43,7 @@
 			<description>The planet Kepler-431 c was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/05/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 		<planet>
@@ -53,12 +54,12 @@
 			<list>Confirmed planets</list>
 			<period>11.922</period>
 			<semimajoraxis>0.1045</semimajoraxis>
-			<radius>0.0990</radius>
+			<radius>0.099</radius>
 			<transittime errorminus="0.00842" errorplus="0.00842">2454970.47509</transittime>
 			<description>The planet Kepler-431 d was verified as part of a survey for companion stars to Kepler objects of interest.</description>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/03/18</lastupdate>
+			<lastupdate>16/05/06</lastupdate>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

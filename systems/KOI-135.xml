@@ -1,8 +1,8 @@
 <system>
 	<name>KOI-135</name>
 	<name>Kepler-43</name>
-	<rightascension>19 00 58</rightascension>
-	<declination>+46 40 06</declination>
+	<rightascension>19 0 58.0000079</rightascension>
+	<declination>46 40 5.99987999</declination>
 	<distance errorminus="250" errorplus="250">1950</distance>
 	<star>
 		<name>KOI-135</name>
@@ -15,12 +15,13 @@
 		<magJ errorminus="0.022" errorplus="0.022">12.858</magJ>
 		<magH errorminus="0.020" errorplus="0.020">12.605</magH>
 		<magK errorminus="0.03" errorplus="0.03">12.55</magK>
-		<temperature errorminus="100" errorplus="100">6050</temperature>
-		<radius errorminus="0.03" errorplus="0.05">1.38</radius>
-		<mass errorminus="0.04" errorplus="0.04">1.27</mass>
-		<age errorminus="0.7" errorplus="0.8">2.3</age>
-		<metallicity errorminus="0.10" errorplus="0.10">0.40</metallicity>
-		<spectraltype>F8V</spectraltype>
+		<temperature errorminus="143.0" errorplus="143.0">6041.0</temperature>
+		<radius errorminus="0.07" errorplus="0.07">1.42</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
+		<age errorminus="0.8" errorplus="1.0">2.8</age>
+		<metallicity errorminus="0.11" errorplus="0.11">0.33</metallicity>
+		<spectraltype>G0V/G0IV</spectraltype>
+		<magV>14.0</magV>
 		<planet>
 			<name>KOI-135 b</name>
 			<name>Kepler-43 b</name>
@@ -28,17 +29,17 @@
 			<name>GSC 03541-00075 b</name>
 			<name>KIC 9818381 b</name>
 			<name>2MASS J19005780+4640057 b</name>
-			<mass errorminus="0.26" errorplus="0.26">3.23</mass>
-			<radius errorminus="0.06" errorplus="0.07">1.22</radius>
-			<period errorminus="0.00000020" errorplus="0.00000020">3.02409309</period>
+			<mass errorminus="0.19" errorplus="0.19">3.23</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.2</radius>
+			<period errorminus="2.1e-05" errorplus="2.1e-05">3.024095</period>
 			<transittime errorminus="0.00005" errorplus="0.00005" unit="BJD">2455095.45227</transittime>
-			<inclination errorminus="0.37" errorplus="0.18">84.57</inclination>
-			<eccentricity errorminus="0.017" errorplus="0.027">0.017</eccentricity>
+			<inclination errorminus="0.4" errorplus="0.4">84.35</inclination>
+			<eccentricity errorminus="inf" errorplus="nan">0.025</eccentricity>
 			<periastron errorminus="81" errorplus="27">52</periastron>
-			<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0444</semimajoraxis>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.0449</semimajoraxis>
 			<list>Confirmed planets</list>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/12/03</lastupdate>
+			<lastupdate>16/02/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

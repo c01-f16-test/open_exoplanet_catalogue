@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1241</name>
-	<rightascension>19 38 18</rightascension>
-	<declination>+38 27 25</declination>
+	<rightascension>19 36 138.299520</rightascension>
+	<declination>38 27 25.1064000</declination>
+	<distance>936.0</distance>
 	<star>
 		<name>Kepler-1241</name>
-		<temperature errorminus="119.8" errorplus="180.7">5261.0</temperature>
+		<temperature errorminus="119.79" errorplus="180.72">5261.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.84</mass>
-		<radius errorminus="0.05" errorplus="0.06">0.80</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.09</metallicity>
+		<radius errorminus="0.05" errorplus="0.06">0.8</radius>
+		<metallicity errorminus="0.185" errorplus="0.153">-0.09</metallicity>
+		<magH>13.823</magH>
+		<magK>13.764</magK>
+		<magJ>14.298</magJ>
 		<planet>
 			<name>Kepler-1241 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000103500" errorplus="0.000103500">18.552570100</period>
+			<period errorminus="0.0001035" errorplus="0.0001035">18.5525701</period>
 			<radius errorminus="0.021" errorplus="0.019">0.235</radius>
 		</planet>
 	</star>

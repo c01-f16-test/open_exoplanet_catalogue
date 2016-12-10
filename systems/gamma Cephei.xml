@@ -10,6 +10,7 @@
 	<rightascension>23 39 20.85153</rightascension>
 	<declination>+77 37 56.1876</declination>
 	<distance errorminus="0.080" errorplus="0.080">14.102</distance>
+	<videolink>http://youtu.be/lJ3HMtDK4ms</videolink>
 	<binary>
 		<name>gamma Cephei</name>
 		<name>Gamma Cephei</name>
@@ -74,6 +75,7 @@
 				<name>gam Cep A b</name>
 				<name>HD 222404 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.16" errorplus="0.16" type="msini">1.85</mass>
 				<period errorminus="1.5" errorplus="1.5">903.3</period>
 				<semimajoraxis errorminus="0.06" errorplus="0.06">2.05</semimajoraxis>
@@ -83,7 +85,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/12/12</lastupdate>
 				<discoveryyear>2003</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
@@ -111,5 +112,4 @@
 			<spectraltype>M4</spectraltype>
 		</star>
 	</binary>
-	<videolink>http://youtu.be/lJ3HMtDK4ms</videolink>
 </system>

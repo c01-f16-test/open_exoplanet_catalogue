@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-805</name>
-	<rightascension>19 32 55</rightascension>
-	<declination>+45 03 12</declination>
+	<rightascension>19 32 55.1868000</rightascension>
+	<declination>45 3 11.9304000</declination>
+	<distance>657.0</distance>
 	<star>
 		<name>Kepler-805</name>
-		<temperature errorminus="66.4" errorplus="55.0">6112.0</temperature>
+		<temperature errorminus="66.37" errorplus="55.03">6112.0</temperature>
 		<mass errorminus="0.04" errorplus="0.07">1.19</mass>
 		<radius errorminus="0.05" errorplus="0.06">1.65</radius>
-		<metallicity errorminus="0.07" errorplus="0.08">-0.06</metallicity>
+		<metallicity errorminus="0.067" errorplus="0.082">-0.06</metallicity>
+		<magH>11.294</magH>
+		<magK>11.2</magK>
+		<magJ>11.547</magJ>
 		<planet>
 			<name>Kepler-805 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000125900" errorplus="0.000125900">30.863893100</period>
+			<period errorminus="0.0001259" errorplus="0.0001259">30.8638931</period>
 			<radius errorminus="0.022" errorplus="0.012">0.258</radius>
 		</planet>
 	</star>

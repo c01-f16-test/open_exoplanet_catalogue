@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1047</name>
-	<rightascension>19 14 35</rightascension>
-	<declination>+50 47 20</declination>
+	<rightascension>19 11 215.100959</rightascension>
+	<declination>50 47 20.3351999</declination>
+	<distance>566.0</distance>
 	<star>
 		<name>Kepler-1047</name>
-		<temperature errorminus="75.6" errorplus="83.6">5754.0</temperature>
+		<temperature errorminus="75.6" errorplus="83.64">5754.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">1.08</mass>
 		<radius errorminus="0.09" errorplus="0.14">1.13</radius>
-		<metallicity errorminus="0.06" errorplus="0.07">0.29</metallicity>
+		<metallicity errorminus="0.062" errorplus="0.065">0.29</metallicity>
+		<magH>11.872</magH>
+		<magK>11.803</magK>
+		<magJ>12.174</magJ>
 		<planet>
 			<name>Kepler-1047 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000275600" errorplus="0.000275600">56.188688700</period>
+			<period errorminus="0.0002756" errorplus="0.0002756">56.1886887</period>
 			<radius errorminus="0.015" errorplus="0.023">0.186</radius>
 		</planet>
 		<planet>
@@ -25,11 +29,11 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000020380" errorplus="0.000020380">3.188976010</period>
+			<period errorminus="2.038e-05" errorplus="2.038e-05">3.18897601</period>
 			<radius errorminus="0.008" errorplus="0.012">0.088</radius>
 		</planet>
 	</star>

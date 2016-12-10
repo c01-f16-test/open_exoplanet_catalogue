@@ -31,6 +31,7 @@
 				<name>HAT-P-10 A b</name>
 				<name>2MASS J03092855+3040249 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>0.46</mass>
 				<radius>1.045</radius>
 				<period>3.722469</period>
@@ -43,7 +44,6 @@
 				<discoveryyear>2008</discoveryyear>
 				<temperature>943.2</temperature>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

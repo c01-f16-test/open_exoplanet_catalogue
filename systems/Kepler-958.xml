@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-958</name>
-	<rightascension>19 09 02</rightascension>
-	<declination>+46 04 00</declination>
+	<rightascension>19 7 121.604399</rightascension>
+	<declination>46 4 0.36839999</declination>
+	<distance>467.0</distance>
 	<star>
 		<name>Kepler-958</name>
-		<temperature errorminus="54.0" errorplus="57.8">5421.0</temperature>
+		<temperature errorminus="54.04" errorplus="57.75">5421.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.91</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.86</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">0.01</metallicity>
+		<metallicity errorminus="0.109" errorplus="0.105">0.01</metallicity>
+		<magH>12.115</magH>
+		<magK>12.041</magK>
+		<magJ>12.495</magJ>
 		<planet>
 			<name>Kepler-958 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000011100" errorplus="0.000011100">9.767880500</period>
+			<period errorminus="1.11e-05" errorplus="1.11e-05">9.7678805</period>
 			<radius errorminus="0.007" errorplus="0.009">0.184</radius>
 		</planet>
 	</star>

@@ -1,38 +1,39 @@
 <system>
 	<name>HAT-P-25</name>
-	<rightascension>03 13 45</rightascension>
-	<declination>+25 11 51</declination>
-	<distance>297</distance>
+	<rightascension>3 12 105.000000</rightascension>
+	<declination>25 11 51.0000000</declination>
+	<distance errorminus="13.0" errorplus="13.0">297.0</distance>
 	<star>
-		<mass>1.01</mass>
-		<radius>0.959</radius>
-		<magV errorminus="0.25" errorplus="0.25">13.15</magV>
+		<mass errorminus="0.032" errorplus="0.032">1.01</mass>
+		<radius errorminus="0.037" errorplus="0.037">0.959</radius>
+		<magV>13.19</magV>
 		<magB errorminus="0.35" errorplus="0.35">14.12</magB>
 		<magR errorminus="0.11" errorplus="0.11">13.22</magR>
 		<magI errorminus="0.38" errorplus="0.38">11.98</magI>
 		<magJ errorminus="0.018" errorplus="0.018">11.319</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.908</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.815</magK>
-		<metallicity>0.31</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">0.31</metallicity>
 		<spectraltype>G5</spectraltype>
+		<name>HAT-P-25</name>
+		<temperature errorminus="80.0" errorplus="80.0">5500.0</temperature>
+		<age errorminus="2.3" errorplus="2.3">3.2</age>
 		<planet>
 			<name>HAT-P-25 b</name>
 			<name>2MASS J03134450+2511506 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.567</mass>
-			<radius>1.19</radius>
-			<period>3.652836</period>
-			<semimajoraxis>0.0466</semimajoraxis>
-			<eccentricity>0.032</eccentricity>
-			<inclination>87.6</inclination>
+			<mass errorminus="0.02200" errorplus="0.02200">0.56700</mass>
+			<radius errorminus="0.056" errorplus="0.081">1.190</radius>
+			<period errorminus="0.00001900" errorplus="0.00001900">3.65283600</period>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.046600</semimajoraxis>
+			<eccentricity errorminus="0.022000" errorplus="0.022000">0.032000</eccentricity>
+			<inclination errorminus="0.500" errorplus="0.500">87.600</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1100.1</temperature>
 			<transittime errorminus="0.00047" errorplus="0.00047" unit="BJD">2455176.85173</transittime>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-25</name>
-		<temperature>5500.0</temperature>
 	</star>
 </system>

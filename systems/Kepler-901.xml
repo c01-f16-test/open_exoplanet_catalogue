@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-901</name>
-	<rightascension>19 24 37</rightascension>
-	<declination>+40 53 15</declination>
+	<rightascension>19 23 96.7082399</rightascension>
+	<declination>40 53 14.9891999</declination>
+	<distance>241.0</distance>
 	<star>
 		<name>Kepler-901</name>
-		<temperature errorminus="49.2" errorplus="52.6">4184.0</temperature>
+		<temperature errorminus="49.25" errorplus="52.61">4184.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.59</mass>
 		<radius errorminus="0.02" errorplus="0.03">0.57</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">-0.30</metallicity>
+		<metallicity errorminus="0.143" errorplus="0.138">-0.3</metallicity>
+		<magH>12.096</magH>
+		<magK>11.907</magK>
+		<magJ>12.753</magJ>
 		<planet>
 			<name>Kepler-901 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000003520" errorplus="0.000003520">3.517494390</period>
+			<period errorminus="3.52e-06" errorplus="3.52e-06">3.51749439</period>
 			<radius errorminus="0.005" errorplus="0.006">0.122</radius>
 		</planet>
 	</star>

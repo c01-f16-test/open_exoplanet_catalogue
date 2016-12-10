@@ -1,32 +1,33 @@
 <system>
 	<name>HD 220074</name>
-	<rightascension>23 20 14</rightascension>
-	<declination>+61 58 12</declination>
-	<distance>290.2</distance>
+	<rightascension>23 19 73.9919999</rightascension>
+	<declination>61 58 11.9999999</declination>
+	<distance errorminus="45.5" errorplus="45.5">290.2</distance>
 	<star>
-		<mass>1.2</mass>
-		<radius>49.7</radius>
-		<temperature>5080</temperature>
+		<mass errorminus="0.3" errorplus="0.3">1.2</mass>
+		<radius errorminus="9.5" errorplus="9.5">49.67</radius>
+		<temperature errorminus="110.0" errorplus="110.0">3935.0</temperature>
 		<magV>6.4</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.070</magB>
 		<magJ errorminus="0.200" errorplus="0.200">3.182</magJ>
 		<magH errorminus="0.164" errorplus="0.164">2.373</magH>
 		<magK errorminus="0.212" errorplus="0.212">2.006</magK>
-		<metallicity>-0.25</metallicity>
-		<spectraltype>K1 V</spectraltype>
+		<metallicity errorminus="0.25" errorplus="0.25">-0.25</metallicity>
+		<spectraltype>M2III</spectraltype>
+		<name>HD 220074</name>
+		<age errorminus="2.8" errorplus="2.8">4.5</age>
 		<planet>
 			<name>HD 220074 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.1</mass>
-			<period>672.1</period>
-			<semimajoraxis>1.6</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="1.80000" errorplus="1.80000">11.10000</mass>
+			<period errorminus="3.70000000" errorplus="3.70000000">672.10000000</period>
+			<semimajoraxis errorminus="0.100000" errorplus="0.100000">1.600000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.140000</eccentricity>
 			<description>The observation of this planet was made using the fiber-fed Bohyunsan Observatory Echelle Spectrograph between September 2008 to June 2012.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/12</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>965.5</temperature>
 		</planet>
-		<name>HD 220074</name>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-784</name>
-	<rightascension>19 43 41</rightascension>
-	<declination>+47 26 55</declination>
+	<rightascension>19 40 220.959120</rightascension>
+	<declination>47 26 55.0175999</declination>
+	<distance>604.0</distance>
 	<star>
 		<name>Kepler-784</name>
-		<temperature errorminus="83.9" errorplus="74.6">5674.0</temperature>
-		<mass errorminus="0.05" errorplus="0.07">1.00</mass>
+		<temperature errorminus="83.91" errorplus="74.62">5674.0</temperature>
+		<mass errorminus="0.05" errorplus="0.07">1.0</mass>
 		<radius errorminus="0.26" errorplus="0.28">1.32</radius>
-		<metallicity errorminus="0.06" errorplus="0.09">0.07</metallicity>
+		<metallicity errorminus="0.062" errorplus="0.088">0.07</metallicity>
+		<magH>11.704</magH>
+		<magK>11.617</magK>
+		<magJ>12.061</magJ>
 		<planet>
 			<name>Kepler-784 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000680900" errorplus="0.000680900">31.592264600</period>
-			<radius errorminus="0.029" errorplus="0.030">0.141</radius>
+			<period errorminus="0.0006809" errorplus="0.0006809">31.5922646</period>
+			<radius errorminus="0.029" errorplus="0.03">0.141</radius>
 		</planet>
 	</star>
 </system>

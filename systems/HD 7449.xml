@@ -9,7 +9,7 @@
 		<semimajoraxis errorminus="12.9" errorplus="32">17.9</semimajoraxis>
 		<inclination errorminus="25.8" errorplus="20.1">59.7</inclination>
 		<period errorminus="20500" errorplus="82900">24000</period>
-		<eccentricity upperlimit="0.5" />
+		<eccentricity upperlimit="0.5"/>
 		<star>
 			<name>HD 7449 A</name>
 			<name>HIP 5806</name>
@@ -32,6 +32,7 @@
 				<name>HD 7449 b</name>
 				<name>HD 7449 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.19" errorplus="0.52" type="msini">1.09</mass>
 				<period errorminus="12.1" errorplus="5.92">1270.5</period>
 				<semimajoraxis errorminus="0.02" errorplus="0.01">2.33</semimajoraxis>
@@ -42,12 +43,12 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/02/04</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>HD 7449 c</name>
 				<name>HD 7449 A c</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.54" errorplus="0.36" type="msini">2.00</mass>
 				<period errorminus="366" errorplus="186">4046</period>
 				<semimajoraxis errorminus="0.30" errorplus="0.20">4.96</semimajoraxis>
@@ -58,7 +59,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/02/04</lastupdate>
 				<discoveryyear>2011</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1397</name>
-	<rightascension>19 58 42</rightascension>
-	<declination>+47 04 33</declination>
+	<rightascension>19 56 162.206160</rightascension>
+	<declination>47 4 33.0383999</declination>
+	<distance>770.0</distance>
 	<star>
 		<name>Kepler-1397</name>
-		<temperature errorminus="95.8" errorplus="97.1">6026.0</temperature>
+		<temperature errorminus="95.81" errorplus="97.07">6026.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">1.09</mass>
 		<radius errorminus="0.08" errorplus="0.11">1.12</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.00</metallicity>
+		<metallicity errorminus="0.083" errorplus="0.078">0.0</metallicity>
+		<magH>12.517</magH>
+		<magK>12.468</magK>
+		<magJ>12.849</magJ>
 		<planet>
 			<name>Kepler-1397 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000752000" errorplus="0.000752000">47.449955000</period>
+			<period errorminus="0.000752" errorplus="0.000752">47.449955</period>
 			<radius errorminus="0.012" errorplus="0.017">0.153</radius>
 		</planet>
 	</star>

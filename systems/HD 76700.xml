@@ -1,10 +1,10 @@
 <system>
 	<name>HD 76700</name>
-	<rightascension>08 53 55</rightascension>
-	<declination>-66 48 03</declination>
+	<rightascension>8 52 115.000008</rightascension>
+	<declination>-66 48 2.99987999</declination>
 	<distance>59.7</distance>
 	<star>
-		<mass>1</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.0</mass>
 		<radius>1.33</radius>
 		<magV>8.13</magV>
 		<magJ errorminus="0.023" errorplus="0.023">6.911</magJ>
@@ -13,19 +13,20 @@
 		<magB>8.88</magB>
 		<metallicity>0.14</metallicity>
 		<spectraltype>G6 V</spectraltype>
+		<name>HD 76700</name>
+		<temperature errorminus="28.0" errorplus="28.0">5726.0</temperature>
+		<age>4.51</age>
 		<planet>
 			<name>HD 76700 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.197</mass>
-			<period>3.971</period>
-			<semimajoraxis>0.049</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.01700" errorplus="0.01700">0.19700</mass>
+			<period errorminus="0.00100000" errorplus="0.00100000">3.97100000</period>
+			<semimajoraxis errorminus="0.004000" errorplus="0.004000">0.049000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.000000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>15/04/24</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>1315.4</temperature>
 		</planet>
-		<name>HD 76700</name>
-		<temperature>5726.0</temperature>
 	</star>
 </system>

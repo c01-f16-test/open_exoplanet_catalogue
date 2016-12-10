@@ -1,7 +1,7 @@
 <system>
 	<name>HD 10442</name>
-	<rightascension>01 41 53.142</rightascension>
-	<declination>+02 42 15.77</declination>
+	<rightascension>1 40 113.142404</rightascension>
+	<declination>2 42 15.7650630</declination>
 	<star>
 		<name>HD 10442</name>
 		<name>TYC 32-383-1</name>
@@ -17,7 +17,7 @@
 		<mass errorminus="0.09" errorplus="0.09">1.56</mass>
 		<temperature errorminus="44" errorplus="44">5034</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.11</metallicity>
-		<spectraltype>K2IV</spectraltype>
+		<spectraltype>K2 IV</spectraltype>
 		<planet>
 			<name>HD 10442 b</name>
 			<name>TYC 32-383-1 b</name>
@@ -26,13 +26,13 @@
 			<name>2MASS J01415314+0242157 b</name>
 			<name>BD+01 306 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.15" errorplus="0.15">2.10</mass>
+			<mass errorminus="0.15" errorplus="0.15">2.1</mass>
 			<period errorminus="9" errorplus="9">1043</period>
 			<semimajoraxis errorminus="0.014" errorplus="0.014">2.335</semimajoraxis>
 			<eccentricity errorminus="0.06" errorplus="0.06">0.11</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/08/07</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 		</planet>
 	</star>

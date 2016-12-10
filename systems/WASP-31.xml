@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-31</name>
-	<rightascension>11 17 45</rightascension>
-	<declination>-19 03 17</declination>
-	<distance>400</distance>
+	<rightascension>11 16 105.000000</rightascension>
+	<declination>-19 3 16.9999199</declination>
+	<distance errorminus="0.0" errorplus="0.0">400.0</distance>
 	<star>
-		<mass>1.16</mass>
-		<radius>1.24</radius>
+		<mass errorminus="0.026" errorplus="0.026">1.16</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.24</radius>
 		<magV>11.7</magV>
 		<magB errorminus="0.18" errorplus="0.18">12.01</magB>
 		<magR errorminus="0.08" errorplus="0.08">11.98</magR>
@@ -14,25 +14,25 @@
 		<magK errorminus="0.027" errorplus="0.027">10.650</magK>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.19</metallicity>
 		<spectraltype>F</spectraltype>
+		<name>WASP-31</name>
+		<temperature errorminus="100.0" errorplus="100.0">6200.0</temperature>
 		<planet>
 			<name>WASP-31 b</name>
 			<name>TYC 6087-1053-1 b</name>
 			<name>2MASS J11174536-1903171 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.478</mass>
-			<radius>1.537</radius>
-			<period>3.405909</period>
-			<semimajoraxis>0.04657</semimajoraxis>
+			<mass errorminus="0.03" errorplus="0.03">0.478</mass>
+			<radius errorminus="0.06" errorplus="0.06">1.537</radius>
+			<period errorminus="5e-06" errorplus="5e-06">3.405909</period>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.04657</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>84.54</inclination>
+			<inclination errorminus="0.027" errorplus="0.027">84.54</inclination>
 			<transittime errorminus="0.0003" errorplus="0.0003" unit="BJD">2455192.6895</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>14/08/17</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1410.6</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-31</name>
-		<temperature>6200.0</temperature>
 	</star>
 </system>

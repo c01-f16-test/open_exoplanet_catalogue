@@ -2,8 +2,8 @@
 	<name>KIC 9663113</name>
 	<name>KOI-179</name>
 	<name>Kepler-458</name>
-	<rightascension>19 48 10.901</rightascension>
-	<declination>+46 19 43.32</declination>
+	<rightascension>19 48 10.9010400</rightascension>
+	<declination>46 19 43.3236000</declination>
 	<star>
 		<name>KIC 9663113</name>
 		<name>KOI-179</name>
@@ -12,24 +12,24 @@
 		<magJ errorminus="0.023" errorplus="0.023">12.823</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.546</magH>
 		<magK errorminus="0.023" errorplus="0.023">12.502</magK>
-		<mass errorminus="0.125" errorplus="0.125">0.975</mass>
+		<mass errorminus="0.13" errorplus="0.13">0.98</mass>
 		<radius errorminus="0.12" errorplus="0.12">1.03</radius>
 		<temperature errorminus="180" errorplus="155">6065</temperature>
-		<metallicity errorminus="0.30" errorplus="0.28">-0.28</metallicity>
+		<metallicity errorminus="0.3" errorplus="0.28">-0.28</metallicity>
 		<planet>
 			<name>KIC 9663113 b</name>
 			<name>KOI-179.02</name>
 			<name>KOI-179 b</name>
 			<name>Kepler-458 b</name>
-			<period errorminus="0.00567" errorplus="0.00583">572.38470</period>
+			<period errorminus="0.00567" errorplus="0.00583">572.3847</period>
 			<inclination errorminus="0.062" errorplus="0.095">89.768</inclination>
-			<radius errorminus="0.062" errorplus="0.054">0.410</radius>
+			<radius errorminus="0.062" errorplus="0.054">0.41</radius>
 			<transittime errorminus="0.004" errorplus="0.004" unit="BJD">2455139.506</transittime>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>The planet KIC 9663113 b was discovered and validated by the Planet Hunters project in 2015. Only two transits have been observed for this planet.</description>
-			<lastupdate>16/01/09</lastupdate>
+			<lastupdate>16/05/23</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
@@ -44,6 +44,22 @@
 			<description>KOI-179.01 is an unconfirmed planet candidate observed orbiting KIC 9663113.</description>
 			<lastupdate>16/01/09</lastupdate>
 			<list>Controversial</list>
+		</planet>
+		<planet>
+			<lastupdate>16/05/10</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>KIC 9663113 c</name>
+			<period errorminus="0.00003350" errorplus="0.00003350">20.74028413</period>
+			<radius errorminus="0.036" errorplus="0.056">0.375</radius>
+		</planet>
+		<planet>
+			<discoveryyear>2016</discoveryyear>
+			<lastupdate>16/05/23</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>Kepler-458 c</name>
+			<name>KIC 9663113 c</name>
+			<period errorminus="3.35e-05" errorplus="3.35e-05">20.74028413</period>
+			<radius errorminus="0.036" errorplus="0.056">0.375</radius>
 		</planet>
 	</star>
 </system>

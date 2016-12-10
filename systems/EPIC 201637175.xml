@@ -31,9 +31,9 @@
 				<period errorminus="0.000001" errorplus="0.000001">0.381071</period>
 				<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2456811.1216</transittime>
 				<semimajoraxis errorminus="0.0008" errorplus="0.0008">0.0088</semimajoraxis>
-				<radius upperlimit="0.22" />
-				<mass upperlimit="1.4" />
-				<inclination lowerlimit="75" upperlimit="80" />
+				<radius upperlimit="0.22"/>
+				<mass upperlimit="1.4"/>
+				<inclination lowerlimit="75" upperlimit="80"/>
 				<discoverymethod>transit</discoverymethod>
 				<discoveryyear>2015</discoveryyear>
 				<description>EPIC 201637175 b is a disintegrating planet orbiting the primary star of a binary system. It exhibits highly variable transit depths due to dust trails ejected from the planet.</description>

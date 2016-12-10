@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-668</name>
-	<rightascension>19 01 59.8</rightascension>
-	<declination>+49 16 38</declination>
+	<rightascension>19 0 119.820000</rightascension>
+	<declination>49 16 38.4527999</declination>
+	<distance>877.0</distance>
 	<star>
 		<name>Kepler-668</name>
-		<temperature errorminus="60.9" errorplus="60.6">5352.0</temperature>
+		<temperature errorminus="60.88" errorplus="60.59">5352.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.06">0.82</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.06</metallicity>
+		<metallicity errorminus="0.171" errorplus="0.151">-0.06</metallicity>
+		<magH>13.582</magH>
+		<magK>13.533</magK>
+		<magJ>13.996</magJ>
 		<planet>
 			<name>Kepler-668 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000016950" errorplus="0.000016950">8.353906390</period>
+			<period errorminus="1.695e-05" errorplus="1.695e-05">8.35390639</period>
 			<radius errorminus="0.016" errorplus="0.021">0.241</radius>
 		</planet>
 	</star>

@@ -27,6 +27,7 @@
 				<name>TYC 2265-00107-1 b</name>
 				<name>2MASS J00204007+3159239 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.052" errorplus="0.057">0.854</mass>
 				<radius errorminus="0.034" errorplus="0.024">1.483</radius>
 				<period>2.5199464</period>
@@ -39,7 +40,6 @@
 				<discoveryyear>2006</discoveryyear>
 				<temperature>1644.3</temperature>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

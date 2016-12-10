@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1037</name>
-	<rightascension>19 45 22</rightascension>
-	<declination>+47 10 15</declination>
+	<rightascension>19 44 81.8469600</rightascension>
+	<declination>47 10 15.0815999</declination>
+	<distance>451.0</distance>
 	<star>
 		<name>Kepler-1037</name>
-		<temperature errorminus="70.7" errorplus="97.0">5105.0</temperature>
+		<temperature errorminus="70.71" errorplus="96.95">5105.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.03</metallicity>
+		<metallicity errorminus="0.164" errorplus="0.139">-0.03</metallicity>
+		<magH>12.327</magH>
+		<magK>12.248</magK>
+		<magJ>12.821</magJ>
 		<planet>
 			<name>Kepler-1037 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001260" errorplus="0.000001260">1.063788670</period>
+			<period errorminus="1.26e-06" errorplus="1.26e-06">1.06378867</period>
 			<radius errorminus="0.006" errorplus="0.008">0.114</radius>
 		</planet>
 	</star>

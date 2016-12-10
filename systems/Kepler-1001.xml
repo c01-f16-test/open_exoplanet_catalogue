@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1001</name>
-	<rightascension>19 05 06</rightascension>
-	<declination>+48 37 07</declination>
+	<rightascension>19 3 125.729039</rightascension>
+	<declination>48 37 7.34160000</declination>
+	<distance>1009.0</distance>
 	<star>
 		<name>Kepler-1001</name>
-		<temperature errorminus="68.9" errorplus="66.2">5491.0</temperature>
-		<mass errorminus="0.04" errorplus="0.04">0.90</mass>
+		<temperature errorminus="68.91" errorplus="66.16">5491.0</temperature>
+		<mass errorminus="0.04" errorplus="0.04">0.9</mass>
 		<radius errorminus="0.06" errorplus="0.09">0.88</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.03</metallicity>
+		<metallicity errorminus="0.17" errorplus="0.139">-0.03</metallicity>
+		<magH>13.718</magH>
+		<magK>13.662</magK>
+		<magJ>14.109</magJ>
 		<planet>
 			<name>Kepler-1001 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000043400" errorplus="0.000043400">14.305119830</period>
-			<radius errorminus="0.043" errorplus="0.030">0.281</radius>
+			<period errorminus="4.34e-05" errorplus="4.34e-05">14.30511983</period>
+			<radius errorminus="0.043" errorplus="0.03">0.281</radius>
 		</planet>
 	</star>
 </system>

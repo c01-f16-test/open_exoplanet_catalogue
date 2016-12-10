@@ -1,16 +1,16 @@
 <system>
 	<name>WASP-71</name>
-	<rightascension>01 57 03</rightascension>
-	<declination>+00 45 32</declination>
-	<distance>200</distance>
+	<rightascension>01h57m03.20s</rightascension>
+	<declination>+00d45m31.8s</declination>
+	<distance errorminus="32.00" errorplus="32.00">345.00</distance>
 	<star>
 		<name>WASP-71</name>
 		<name>TYC 30-116-1</name>
 		<name>2MASS J01570320+0045318</name>
 		<name>PPM 700097</name>
-		<mass errorminus="0.07" errorplus="0.07">1.559</mass>
+		<mass errorminus="0.07" errorplus="0.07">1.56</mass>
 		<radius errorminus="0.17" errorplus="0.17">2.26</radius>
-		<temperature>6050</temperature>
+		<temperature errorminus="98.00" errorplus="98.00">6059.00</temperature>
 		<spectraltype>F8</spectraltype>
 		<magB errorminus="0.11" errorplus="0.11">11.35</magB>
 		<magV errorminus="0.09" errorplus="0.09">10.56</magV>
@@ -21,17 +21,17 @@
 			<name>WASP-71 b</name>
 			<name>TYC 30-116-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.08" errorplus="0.08">2.242</mass>
-			<radius errorminus="0.13" errorplus="0.13">1.46</radius>
+			<mass errorminus="0.08000" errorplus="0.08000">2.24200</mass>
+			<radius errorminus="0.130" errorplus="0.130">1.460</radius>
 			<spinorbitalignment>19.8</spinorbitalignment>
-			<period>2.9036747</period>
-			<semimajoraxis>0.04631</semimajoraxis>
+			<period errorminus="0.00000680" errorplus="0.00000680">2.90367470</period>
+			<semimajoraxis errorminus="0.000690" errorplus="0.000690">0.046190</semimajoraxis>
 			<eccentricity>0</eccentricity>
-			<inclination>84.2</inclination>
+			<inclination errorminus="2.200" errorplus="2.200">84.900</inclination>
 			<transittime errorminus="0.00070" errorplus="0.00070" unit="BJD">2455738.85050</transittime>
 			<description>WASP-71 b is a highly-irradiated planet which transits an  evolved F8-type star every 2.9 days. The planet is larger than Jupiter but less dense.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/01/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>1888.1</temperature>
 			<istransiting>1</istransiting>

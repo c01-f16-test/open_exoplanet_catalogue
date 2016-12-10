@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-546</name>
-	<rightascension>18 53 02</rightascension>
-	<declination>+40 59 26</declination>
+	<rightascension>18 52 61.8237600</rightascension>
+	<declination>40 59 25.7927999</declination>
+	<distance>896.0</distance>
 	<star>
 		<name>Kepler-546</name>
-		<temperature errorminus="130.1" errorplus="92.7">5967.0</temperature>
+		<temperature errorminus="130.13" errorplus="92.74">5967.0</temperature>
 		<mass errorminus="0.07" errorplus="0.11">1.11</mass>
 		<radius errorminus="0.13" errorplus="0.32">1.15</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">0.14</metallicity>
+		<metallicity errorminus="0.153" errorplus="0.156">0.14</metallicity>
+		<magH>12.782</magH>
+		<magK>12.784</magK>
+		<magJ>13.073</magJ>
 		<planet>
 			<name>Kepler-546 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000880" errorplus="0.000000880">4.147020260</period>
+			<period errorminus="8.8e-07" errorplus="8.8e-07">4.14702026</period>
 			<radius errorminus="0.069" errorplus="0.172">0.624</radius>
 		</planet>
 	</star>

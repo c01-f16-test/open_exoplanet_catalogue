@@ -35,7 +35,7 @@
 				<radius errorminus="0.090" errorplus="0.081">1.838</radius>
 				<period errorminus="0.00000047" errorplus="0.00000047">3.55392771</period>
 				<semimajoraxis errorminus="0.0005" errorplus="0.0005">0.0516</semimajoraxis>
-				<eccentricity upperlimit="0.016" />
+				<eccentricity upperlimit="0.016"/>
 				<inclination errorminus="0.44" errorplus="0.51">83.07</inclination>
 				<transittime errorminus="0.00030" errorplus="0.00030" unit="BJD">2454230.90560</transittime>
 				<discoverymethod>transit</discoverymethod>

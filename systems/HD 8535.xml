@@ -1,11 +1,11 @@
 <system>
 	<name>HD 8535</name>
-	<rightascension>01 23 37</rightascension>
-	<declination>-41 16 11</declination>
-	<distance>52.5</distance>
+	<rightascension>01h23m37.24s</rightascension>
+	<declination>-41d16m11.3s</declination>
+	<distance errorminus="1.60" errorplus="1.70">52.50</distance>
 	<star>
 		<mass>1.13</mass>
-		<radius>1.19</radius>
+		<radius errorminus="0.04" errorplus="0.04">1.19</radius>
 		<magV>7.7</magV>
 		<magB errorminus="0.01" errorplus="0.01">8.25</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.735</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.021" errorplus="0.021">6.354</magK>
 		<metallicity>0.02</metallicity>
 		<spectraltype>G0V</spectraltype>
+		<name>HD 8535</name>
+		<temperature errorminus="18.00" errorplus="18.00">6136.00</temperature>
 		<planet>
 			<name>HD 8535 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<period>1313</period>
-			<semimajoraxis>2.45</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.07000">0.68000</mass>
+			<period errorminus="28.00000000" errorplus="28.00000000">1313.00000000</period>
+			<semimajoraxis errorminus="0.060000" errorplus="0.040000">2.450000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.090000">0.150000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>15/04/16</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>188.3</temperature>
 		</planet>
-		<name>HD 8535</name>
-		<temperature>6136.0</temperature>
 	</star>
 </system>

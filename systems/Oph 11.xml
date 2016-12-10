@@ -21,7 +21,6 @@
 			<temperature>2478</temperature>
 			<separation unit="arcsec">1.9</separation>
 			<separation unit="AU">275</separation>
-			<positionangle>182</positionangle>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/12/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>

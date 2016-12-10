@@ -1,11 +1,11 @@
 <system>
 	<name>HD 175541</name>
-	<rightascension>18 55 41</rightascension>
-	<declination>+04 15 55</declination>
-	<distance>128</distance>
+	<rightascension>18h55m40.88s</rightascension>
+	<declination>+04d15m55.2s</declination>
+	<distance errorminus="21.48" errorplus="16.07">127.55</distance>
 	<star>
-		<mass>1.65</mass>
-		<radius>3.85</radius>
+		<mass errorminus="0.12" errorplus="0.12">1.65</mass>
+		<radius errorminus="0.09" errorplus="0.09">3.80</radius>
 		<magV>8.03</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.90</magB>
 		<magJ errorminus="0.026" errorplus="0.026">6.387</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.021" errorplus="0.021">5.829</magK>
 		<metallicity>-0.07</metallicity>
 		<spectraltype>G8IV</spectraltype>
+		<name>HD 175541</name>
+		<temperature errorminus="44.00" errorplus="44.00">5060.00</temperature>
 		<planet>
 			<name>HD 175541 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.61</mass>
-			<period>297.3</period>
-			<semimajoraxis>1.03</semimajoraxis>
-			<eccentricity>0.33</eccentricity>
+			<mass>0.61000</mass>
+			<period errorminus="0.60000000" errorplus="0.60000000">297.30000000</period>
+			<semimajoraxis>1.030000</semimajoraxis>
+			<eccentricity errorminus="0.200000" errorplus="0.200000">0.330000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/04/20</lastupdate>
+			<lastupdate>14/07/09</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>428.3</temperature>
 		</planet>
-		<name>HD 175541</name>
-		<temperature>5060.0</temperature>
 	</star>
 </system>

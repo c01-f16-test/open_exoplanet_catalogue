@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-75</name>
-	<rightascension>22 49 33</rightascension>
-	<declination>-10 40 32</declination>
+	<rightascension>22 48 93.0000000</rightascension>
+	<declination>-10 40 31.8000000</declination>
 	<distance errorminus="70" errorplus="70">260</distance>
 	<star>
 		<name>WASP-75</name>
@@ -22,15 +22,15 @@
 			<name>1SWASP J224932.56-104031.8 b</name>
 			<list>Confirmed planets</list>
 			<mass errorminus="0.05" errorplus="0.05">1.07</mass>
-			<radius errorminus="0.048" errorplus="0.048">1.270</radius>
+			<radius errorminus="0.048" errorplus="0.048">1.27</radius>
 			<temperature errorminus="20" errorplus="20">1710</temperature>
-			<period errorminus="0.000003" errorplus="0.000003">2.484193</period>
+			<period errorminus="3e-06" errorplus="3e-06">2.484193</period>
 			<transittime errorminus="0.0003" errorplus="0.0003">2456016.2669</transittime>
 			<semimajoraxis errorminus="0.0008" errorplus="0.0007">0.0375</semimajoraxis>
 			<inclination errorminus="0.2" errorplus="0.3">82.0</inclination>
 			<eccentricity>0</eccentricity>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/07/25</lastupdate>
+			<lastupdate>15/06/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>WASP-75 b is a transiting Hot Jupiter. Its radius is slightly inflated as compared to theoretical planet models with no core.</description>
 			<istransiting>1</istransiting>

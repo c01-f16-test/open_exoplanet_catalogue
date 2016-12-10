@@ -58,6 +58,7 @@
 				<name>rho01 Cnc A b</name>
 				<name>ρ1 Cnc A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.0033" errorplus="0.0033" type="msini">0.8306</mass>
 				<period errorminus="0.00015" errorplus="0.00015">14.65152</period>
 				<semimajoraxis errorminus="0.00000079" errorplus="0.00000079">0.11522725</semimajoraxis>
@@ -68,7 +69,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/01/26</lastupdate>
 				<discoveryyear>1996</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>55 Cnc c</name>
@@ -79,6 +79,7 @@
 				<name>rho01 Cnc A c</name>
 				<name>ρ1 Cnc A c</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.0055" errorplus="0.0055">0.1714</mass>
 				<period errorminus="0.000073" errorplus="0.000073">44.4175</period>
 				<semimajoraxis errorminus="0.000026" errorplus="0.000026">0.241376</semimajoraxis>
@@ -89,7 +90,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/01/26</lastupdate>
 				<discoveryyear>2002</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>55 Cnc d</name>
@@ -100,6 +100,7 @@
 				<name>rho01 Cnc A d</name>
 				<name>ρ1 Cnc A d</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.068" errorplus="0.068">3.878</mass>
 				<period errorminus="39" errorplus="39">4825</period>
 				<semimajoraxis errorminus="0.30" errorplus="0.30">5.503</semimajoraxis>
@@ -110,7 +111,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/01/26</lastupdate>
 				<discoveryyear>2002</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>55 Cnc e</name>
@@ -121,6 +121,7 @@
 				<name>rho01 Cnc A e</name>
 				<name>ρ1 Cnc A e</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.00098" errorplus="0.00098">0.0254</mass>
 				<radius errorminus="0.0073" errorplus="0.0073">0.1746</radius>
 				<period errorminus="0.0000015" errorplus="0.0000015">0.7365515</period>
@@ -133,8 +134,7 @@
 				<discoverymethod>transit</discoverymethod>
 				<lastupdate>15/06/08</lastupdate>
 				<discoveryyear>2004</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
-				<temperature lowerlimit="1328" upperlimit="3016" />
+				<temperature lowerlimit="1328" upperlimit="3016"/>
 				<transittime errorminus="0.0018" errorplus="0.0017" unit="BJD">2455962.0697</transittime>
 				<istransiting>1</istransiting>
 			</planet>
@@ -147,6 +147,7 @@
 				<name>rho01 Cnc A f</name>
 				<name>ρ1 Cnc A f</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.012" errorplus="0.012">0.141</mass>
 				<period errorminus="0.51" errorplus="0.51">262.00</period>
 				<semimajoraxis errorminus="0.0010" errorplus="0.0010">0.7880</semimajoraxis>
@@ -157,7 +158,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>11/06/07</lastupdate>
 				<discoveryyear>2007</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

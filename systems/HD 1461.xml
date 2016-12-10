@@ -1,44 +1,45 @@
 <system>
 	<name>HD 1461</name>
-	<rightascension>00 18 42</rightascension>
-	<declination>-08 03 11</declination>
-	<distance>23.4</distance>
+	<rightascension>0 16 162.0</rightascension>
+	<declination>-8 3 11.0001600</declination>
+	<distance errorminus="0.5" errorplus="0.5">23.4</distance>
 	<star>
-		<mass>1.08</mass>
-		<radius>1.095</radius>
+		<mass>1.02</mass>
+		<radius errorminus="0.026" errorplus="0.026">1.095</radius>
 		<magV>6.64</magV>
 		<magB>7.14</magB>
 		<magJ errorminus="0.018" errorplus="0.018">5.329</magJ>
 		<magH errorminus="0.047" errorplus="0.047">5.041</magH>
 		<magK errorminus="0.023" errorplus="0.023">4.897</magK>
-		<metallicity>0.19</metallicity>
+		<metallicity errorminus="0.01" errorplus="0.01">0.19</metallicity>
 		<spectraltype>G0V</spectraltype>
+		<name>HD 1461</name>
+		<temperature errorminus="18.0" errorplus="18.0">5765.0</temperature>
+		<age>6.3</age>
 		<planet>
 			<name>HD 1461 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.0239</mass>
-			<period>5.7727</period>
-			<semimajoraxis>0.063438</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass errorminus="0.00192" errorplus="0.00192">0.02026</mass>
+			<period errorminus="0.00045000" errorplus="0.00045000">5.77152000</period>
+			<semimajoraxis errorminus="0.002200" errorplus="0.002200">0.063400</semimajoraxis>
+			<eccentricity>0.172000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/12/15</lastupdate>
+			<lastupdate>15/11/19</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1054.8</temperature>
 		</planet>
 		<planet>
 			<name>HD 1461 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.0186</mass>
-			<period>13.505</period>
-			<semimajoraxis>0.1117</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.00230" errorplus="0.00230">0.01759</mass>
+			<period errorminus="0.00290000" errorplus="0.00290000">13.50520000</period>
+			<semimajoraxis errorminus="0.003900" errorplus="0.003900">0.111700</semimajoraxis>
+			<eccentricity>0.305000</eccentricity>
 			<description>This planet is part of a large data release by the Euopean HARP team.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/12</lastupdate>
+			<lastupdate>15/11/19</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>795.9</temperature>
 		</planet>
-		<name>HD 1461</name>
-		<temperature>5765.0</temperature>
 	</star>
 </system>

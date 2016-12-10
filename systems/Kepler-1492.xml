@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1492</name>
-	<rightascension>19 14 23</rightascension>
-	<declination>+41 02 11</declination>
+	<rightascension>19 11 203.303279</rightascension>
+	<declination>41 2 11.1119999</declination>
+	<distance>371.0</distance>
 	<star>
 		<name>Kepler-1492</name>
-		<temperature errorminus="72.6" errorplus="54.3">4712.0</temperature>
+		<temperature errorminus="72.63" errorplus="54.27">4712.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.77</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.72</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">0.06</metallicity>
+		<metallicity errorminus="0.179" errorplus="0.148">0.06</metallicity>
+		<magH>12.26</magH>
+		<magK>12.158</magK>
+		<magJ>12.804</magJ>
 		<planet>
 			<name>Kepler-1492 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000064600" errorplus="0.000064600">16.752550070</period>
+			<period errorminus="6.46e-05" errorplus="6.46e-05">16.75255007</period>
 			<radius errorminus="0.014" errorplus="0.025">0.133</radius>
 		</planet>
 	</star>

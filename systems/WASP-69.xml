@@ -1,13 +1,13 @@
 <system>
 	<name>WASP-69</name>
 	<name>2MASS 21000618-0505398</name>
-	<rightascension>21 00 06</rightascension>
-	<declination>-05 05 40</declination>
+	<rightascension>21 0 6.00000048</rightascension>
+	<declination>-5 5 40.0000379</declination>
 	<distance errorminus="10" errorplus="10">50</distance>
 	<star>
 		<name>WASP-69</name>
 		<name>2MASS 2100061-80505398</name>
-		<metallicity errorminus="0.08" errorplus="0.08">0.15</metallicity>
+		<metallicity errorminus="0.077" errorplus="0.077">0.144</metallicity>
 		<spectraltype>K5</spectraltype>
 		<age>2</age>
 		<mass errorminus="0.029" errorplus="0.029">0.826</mass>
@@ -26,14 +26,16 @@
 			<radius errorminus="0.047" errorplus="0.047">1.057</radius>
 			<semimajoraxis errorminus="0.00053" errorplus="0.00053">0.04525</semimajoraxis>
 			<temperature errorminus="18" errorplus="18">963</temperature>
-			<period errorminus="0.0000017" errorplus="0.0000017">3.8681382</period>
+			<period errorminus="1.7e-06" errorplus="1.7e-06">3.8681382</period>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="BJD">2455748.83344</transittime>
 			<inclination errorminus="0.2" errorplus="0.2">86.71</inclination>
 			<description>This planet has been announced at the Extreme Solar Systems II conference in Jackson Hole by the WASP team. It was published in a paper in October 2013.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>14/10/16</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity>0.0</eccentricity>
+			<impactparameter errorplus="0.686">0.686</impactparameter>
 		</planet>
 	</star>
 </system>

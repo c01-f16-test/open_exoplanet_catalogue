@@ -1,11 +1,11 @@
 <system>
 	<name>HD 206610</name>
-	<rightascension>21 43 25</rightascension>
-	<declination>-07 24 30</declination>
-	<distance>194</distance>
+	<rightascension>21h43m24.90s</rightascension>
+	<declination>-07d24m29.7s</declination>
+	<distance errorminus="39.58" errorplus="27.01">170.07</distance>
 	<star>
-		<mass>1.56</mass>
-		<radius>6.1</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.56</mass>
+		<radius errorminus="0.10" errorplus="0.10">6.10</radius>
 		<magV>8.34</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.38</magB>
 		<magI errorminus="0.03" errorplus="0.03">8.76</magI>
@@ -14,19 +14,19 @@
 		<magK errorminus="0.026" errorplus="0.026">5.952</magK>
 		<metallicity>0.14</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 206610</name>
+		<temperature errorminus="44.00" errorplus="44.00">4874.00</temperature>
 		<planet>
 			<name>HD 206610 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.2</mass>
-			<period>610</period>
-			<semimajoraxis>1.68</semimajoraxis>
-			<eccentricity>0.229</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000">2.20000</mass>
+			<period errorminus="13.00000000" errorplus="13.00000000">610.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.680000</semimajoraxis>
+			<eccentricity errorminus="0.058000" errorplus="0.058000">0.229000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>408.1</temperature>
 		</planet>
-		<name>HD 206610</name>
-		<temperature>4874.0</temperature>
 	</star>
 </system>

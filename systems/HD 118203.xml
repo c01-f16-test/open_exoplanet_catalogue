@@ -1,30 +1,34 @@
 <system>
 	<name>HD 118203</name>
-	<rightascension>13 34 02</rightascension>
-	<declination>+53 43 42</declination>
+	<rightascension>13 31 181.999991</rightascension>
+	<declination>53 43 41.9998799</declination>
 	<distance>88.6</distance>
 	<star>
-		<mass>1.23</mass>
+		<mass errorminus="0.03" errorplus="0.03">1.23</mass>
 		<magV>8.05</magV>
 		<magJ errorminus="0.021" errorplus="0.021">6.861</magJ>
 		<magH errorminus="0.038" errorplus="0.038">6.608</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.543</magK>
 		<magB errorminus="0.02" errorplus="0.02">8.75</magB>
-		<metallicity>0.1</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.1</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 118203</name>
+		<temperature errorminus="150.0" errorplus="150.0">5600.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">4.6</age>
 		<planet>
 			<name>HD 118203 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.13</mass>
-			<period>6.1335</period>
+			<mass>2.14</mass>
+			<period errorminus="0.00129898" errorplus="0.00129898">6.13322</period>
 			<semimajoraxis>0.07</semimajoraxis>
-			<eccentricity>0.309</eccentricity>
+			<eccentricity errorminus="0.0298" errorplus="0.0342">0.2943</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/23</lastupdate>
+			<lastupdate>15/08/17</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>1408.2</temperature>
+			<periastron errorminus="5.5" errorplus="5.5">332.7</periastron>
+			<periastrontime>2453351.2</periastrontime>
+			<radius>1.05</radius>
 		</planet>
-		<name>HD 118203</name>
-		<temperature>5600.0</temperature>
 	</star>
 </system>

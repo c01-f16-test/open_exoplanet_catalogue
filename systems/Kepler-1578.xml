@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1578</name>
-	<rightascension>19 13 12</rightascension>
-	<declination>+47 46 32</declination>
+	<rightascension>19 11 132.479999</rightascension>
+	<declination>47 46 31.9979999</declination>
+	<distance>1016.0</distance>
 	<star>
 		<name>Kepler-1578</name>
-		<temperature errorminus="74.3" errorplus="73.2">5545.0</temperature>
-		<mass errorminus="0.07" errorplus="0.05">0.90</mass>
+		<temperature errorminus="74.33" errorplus="73.2">5545.0</temperature>
+		<mass errorminus="0.07" errorplus="0.05">0.9</mass>
 		<radius errorminus="0.07" errorplus="0.09">0.86</radius>
-		<metallicity errorminus="0.20" errorplus="0.17">-0.13</metallicity>
+		<metallicity errorminus="0.2" errorplus="0.172">-0.13</metallicity>
+		<magH>13.784</magH>
+		<magK>13.655</magK>
+		<magJ>14.157</magJ>
 		<planet>
 			<name>Kepler-1578 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006950" errorplus="0.000006950">1.450886910</period>
-			<radius errorminus="0.010" errorplus="0.010">0.093</radius>
+			<period errorminus="6.95e-06" errorplus="6.95e-06">1.45088691</period>
+			<radius errorminus="0.01" errorplus="0.01">0.093</radius>
 		</planet>
 	</star>
 </system>

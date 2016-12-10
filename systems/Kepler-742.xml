@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-742</name>
-	<rightascension>18 55 28</rightascension>
-	<declination>+46 47 23</declination>
+	<rightascension>18 52 207.844560</rightascension>
+	<declination>46 47 22.5203999</declination>
+	<distance>499.0</distance>
 	<star>
 		<name>Kepler-742</name>
-		<temperature errorminus="44.0" errorplus="41.8">4642.0</temperature>
+		<temperature errorminus="44.03" errorplus="41.76">4642.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.76</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.71</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.07</metallicity>
+		<metallicity errorminus="0.183" errorplus="0.157">0.07</metallicity>
+		<magH>12.962</magH>
+		<magK>12.817</magK>
+		<magJ>13.496</magJ>
 		<planet>
 			<name>Kepler-742 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006310" errorplus="0.000006310">8.360868240</period>
-			<radius errorminus="0.015" errorplus="0.010">0.289</radius>
+			<period errorminus="6.31e-06" errorplus="6.31e-06">8.36086824</period>
+			<radius errorminus="0.015" errorplus="0.01">0.289</radius>
 		</planet>
 	</star>
 </system>

@@ -1,11 +1,11 @@
 <system>
 	<name>HD 28678</name>
-	<rightascension>04 31 28</rightascension>
-	<declination>+04 34 48</declination>
-	<distance>227</distance>
+	<rightascension>04h31m25.45s</rightascension>
+	<declination>+04d34m31.0s</declination>
+	<distance errorminus="46.60" errorplus="30.03">168.92</distance>
 	<star>
-		<mass>1.74</mass>
-		<radius>6.2</radius>
+		<mass errorminus="0.12" errorplus="0.12">1.74</mass>
+		<radius errorminus="0.10" errorplus="0.10">6.20</radius>
 		<magV>8.54</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.43</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.447</magJ>
@@ -13,20 +13,20 @@
 		<magK errorminus="0.023" errorplus="0.023">5.775</magK>
 		<metallicity>-0.11</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 28678</name>
+		<temperature errorminus="44.00" errorplus="44.00">5076.00</temperature>
 		<planet>
 			<name>HD 28678 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.7</mass>
-			<period>387.1</period>
-			<semimajoraxis>1.24</semimajoraxis>
-			<eccentricity>0.168</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000">1.70000</mass>
+			<period errorminus="3.40000000" errorplus="3.40000000">387.10000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">1.250000</semimajoraxis>
+			<eccentricity errorminus="0.070000" errorplus="0.070000">0.168000</eccentricity>
 			<description>The star HD 28678 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>499.6</temperature>
 		</planet>
-		<name>HD 28678</name>
-		<temperature>5076.0</temperature>
 	</star>
 </system>

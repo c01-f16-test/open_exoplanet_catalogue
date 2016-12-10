@@ -2,8 +2,8 @@
 	<name>Kepler-146</name>
 	<name>KOI-386</name>
 	<name>KIC 3656121</name>
-	<rightascension>19 36 26</rightascension>
-	<declination>+38 42 36</declination>
+	<rightascension>19 36 26.5795920</rightascension>
+	<declination>38 42 36.8207999</declination>
 	<distance>844.99</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">12.739</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-386</name>
 		<name>KIC 3656121</name>
 		<temperature errorminus="100" errorplus="100">5948</temperature>
-		<radius errorminus=".226" errorplus="0.226">1.208</radius>
+		<radius errorminus="0.23" errorplus="0.23">1.21</radius>
 		<mass errorminus="0.1100" errorplus="0.1100">1.0900</mass>
+		<metallicity>-0.302</metallicity>
 		<planet>
 			<name>Kepler-146 b</name>
 			<name>KOI-386 b</name>
 			<name>KOI-386.01</name>
 			<name>KIC 3656121 b</name>
 			<name>KIC 3656121.01</name>
-			<radius errorminus="0.06379" errorplus="0.06379">0.33809</radius>
-			<period errorminus=".000079" errorplus="0.000079">31.158799</period>
+			<radius errorminus="0.062" errorplus="0.062">0.331</radius>
+			<period errorminus="0.00007900" errorplus="0.00007900">31.15879900</period>
 			<transittime errorminus="0.0015000" errorplus="0.0015000">2455006.9027200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-146 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-146 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.200000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-146 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-386.02</name>
 			<name>KIC 3656121 c</name>
 			<name>KIC 3656121.02</name>
-			<radius errorminus="0.05377" errorplus="0.05377">0.28524</radius>
-			<period errorminus=".000609" errorplus="0.000609">76.732171</period>
+			<radius errorminus="0.053" errorplus="0.053">0.279</radius>
+			<period errorminus="0.00060900" errorplus="0.00060900">76.73217100</period>
 			<transittime errorminus="0.0038700" errorplus="0.0038700">2455033.6708200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-146 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-146 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.364000</semimajoraxis>
 		</planet>
 	</star>
 </system>

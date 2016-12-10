@@ -6,6 +6,8 @@
 	<star>
 		<spectraltype>GV</spectraltype>
 		<mass>0.67</mass>
+		<name>MOA-2008-BLG-310-L</name>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>MOA-2008-BLG-310-L b</name>
 			<name>MOA 2008-BLG-310L b</name>
@@ -17,7 +19,5 @@
 			<discoveryyear>2009</discoveryyear>
 			<temperature>152.7</temperature>
 		</planet>
-		<name>MOA-2008-BLG-310-L</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

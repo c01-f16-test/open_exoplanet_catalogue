@@ -2,34 +2,36 @@
 	<name>Kepler-137</name>
 	<name>KOI-313</name>
 	<name>KIC 7419318</name>
-	<rightascension>18 48 32</rightascension>
-	<declination>+43 02 20</declination>
+	<rightascension>18 48 32.5268640</rightascension>
+	<declination>43 2 20.7635999</declination>
 	<distance>288.70</distance>
 	<star>
-		<magJ errorminus="0.021" errorplus="0.021">11.650</magJ>
+		<magJ>11.65</magJ>
 		<magH errorminus="0.020" errorplus="0.020">11.229</magH>
 		<magK errorminus="0.011" errorplus="0.011">11.165</magK>
 		<name>Kepler-137</name>
 		<name>KOI-313</name>
 		<name>KIC 7419318</name>
 		<temperature errorminus="100" errorplus="100">5187</temperature>
-		<radius errorminus=".056" errorplus="0.056">0.802</radius>
+		<radius errorminus="0.06" errorplus="0.06">0.8</radius>
 		<mass errorminus="0.0310" errorplus="0.0310">0.9080</mass>
+		<metallicity>-0.12</metallicity>
 		<planet>
 			<name>Kepler-137 c</name>
 			<name>KOI-313 c</name>
 			<name>KOI-313.01</name>
 			<name>KIC 7419318 c</name>
 			<name>KIC 7419318.01</name>
-			<radius errorminus="0.01276" errorplus="0.01276">0.17132</radius>
-			<period errorminus=".000035" errorplus="0.000035">18.735753</period>
+			<radius errorminus="0.012" errorplus="0.012">0.168</radius>
+			<period errorminus="0.00003500" errorplus="0.00003500">18.73575300</period>
 			<transittime errorminus="0.0010500" errorplus="0.0010500">2455010.6339400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-137 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-137 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.130000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-137 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-313.02</name>
 			<name>KIC 7419318 b</name>
 			<name>KIC 7419318.02</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.13396</radius>
-			<period errorminus=".000018" errorplus="0.000018">8.436387</period>
+			<radius errorminus="0.010" errorplus="0.010">0.131</radius>
+			<period errorminus="0.00001800" errorplus="0.00001800">8.43638700</period>
 			<transittime errorminus="0.0011700" errorplus="0.0011700">2455012.8864000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-137 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-137 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.077000</semimajoraxis>
 		</planet>
 	</star>
 </system>

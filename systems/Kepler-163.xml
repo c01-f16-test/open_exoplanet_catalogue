@@ -2,34 +2,36 @@
 	<name>Kepler-163</name>
 	<name>KOI-471</name>
 	<name>KIC 10019643</name>
-	<rightascension>19 40 00</rightascension>
-	<declination>+46 59 14</declination>
+	<rightascension>19 40 0.67382400</rightascension>
+	<declination>46 59 14.3807999</declination>
 	<distance>788.98</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">13.194</magJ>
-		<magH errorminus="0.023" errorplus="0.023">12.850</magH>
+		<magH>12.85</magH>
 		<magK errorminus="0.027" errorplus="0.027">12.784</magK>
 		<name>Kepler-163</name>
 		<name>KOI-471</name>
 		<name>KIC 10019643</name>
 		<temperature errorminus="200" errorplus="200">5776</temperature>
-		<radius errorminus=".380" errorplus="0.380">0.917</radius>
-		<mass errorminus="0.0760" errorplus="0.0760">0.9600</mass>
+		<radius errorminus="0.38" errorplus="0.38">0.92</radius>
+		<mass>0.96</mass>
+		<metallicity>-0.016</metallicity>
 		<planet>
 			<name>Kepler-163 c</name>
 			<name>KOI-471 c</name>
 			<name>KOI-471.01</name>
 			<name>KIC 10019643 c</name>
 			<name>KIC 10019643.01</name>
-			<radius errorminus="0.08566" errorplus="0.08566">0.20595</radius>
-			<period errorminus=".000081" errorplus="0.000081">21.347262</period>
+			<radius errorminus="0.084" errorplus="0.084">0.202</radius>
+			<period errorminus="0.00008100" errorplus="0.00008100">21.34726200</period>
 			<transittime errorminus="0.0022500" errorplus="0.0022500">2455004.7359000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-163 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-163 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.152000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-163 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-471.02</name>
 			<name>KIC 10019643 b</name>
 			<name>KIC 10019643.02</name>
-			<radius errorminus="0.04010" errorplus="0.04010">0.09569</radius>
-			<period errorminus=".000107" errorplus="0.000107">7.810937</period>
+			<radius errorminus="0.039" errorplus="0.039">0.094</radius>
+			<period errorminus="0.00010700" errorplus="0.00010700">7.81093700</period>
 			<transittime errorminus="0.0067400" errorplus="0.0067400">2454965.3043000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-163 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-163 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.078000</semimajoraxis>
 		</planet>
 	</star>
 </system>

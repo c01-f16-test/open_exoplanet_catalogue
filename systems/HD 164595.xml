@@ -1,11 +1,11 @@
 <system>
 	<name>HD 164595</name>
-	<rightascension>18 00 38.89431</rightascension>
-	<declination>+29 34 18.9202</declination>
+	<rightascension>18 0 39.0000031</rightascension>
+	<declination>29 34 19.0000560</declination>
 	<distance errorminus="0.4" errorplus="0.4">28.93</distance>
 	<star>
 		<mass errorminus="0.03" errorplus="0.03">0.99</mass>
-		<magV>7.08</magV>
+		<magV>7.1</magV>
 		<magB>7.72</magB>
 		<magR>6.7</magR>
 		<magI>6.4</magI>
@@ -29,14 +29,14 @@
 			<name>PPM 106642 b</name>
 			<name>TYC 2103-1620-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.008" errorplus="0.008">0.051</mass>
-			<period errorminus="0.24" errorplus="0.24">40.00</period>
+			<mass errorminus="0.00856" errorplus="0.00856">0.05078</mass>
+			<period errorminus="0.24000000" errorplus="0.24000000">40.00000000</period>
 			<periastrontime errorminus="12" errorplus="12" unit="BJD">2456280</periastrontime>
-			<semimajoraxis>0.23</semimajoraxis>
-			<eccentricity errorminus="0.066" errorplus="0.12">0.088</eccentricity>
+			<semimajoraxis>0.230000</semimajoraxis>
+			<eccentricity errorminus="0.066000" errorplus="0.120000">0.088000</eccentricity>
 			<description>As part of a dedicated radial velocity survey devoted to search for low-mass planets around a sample of 190 bright solar-type stars in the northern hemisphere, the SOPHIE search for northern extrasolar planets reports the detection of this warm Neptune.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/06/29</lastupdate>
+			<lastupdate>15/09/10</lastupdate>
 			<discoveryyear>2015</discoveryyear>
 		</planet>
 	</star>

@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-861</name>
-	<rightascension>19 29 25</rightascension>
-	<declination>+46 13 35</declination>
+	<rightascension>19 27 144.942959</rightascension>
+	<declination>46 13 34.6080000</declination>
+	<distance>806.0</distance>
 	<star>
 		<name>Kepler-861</name>
-		<temperature errorminus="72.9" errorplus="65.2">5047.0</temperature>
+		<temperature errorminus="72.9" errorplus="65.25">5047.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.165" errorplus="0.153">0.01</metallicity>
+		<magH>13.674</magH>
+		<magK>13.532</magK>
+		<magJ>14.129</magJ>
 		<planet>
 			<name>Kepler-861 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005490" errorplus="0.000005490">3.949631380</period>
+			<period errorminus="5.49e-06" errorplus="5.49e-06">3.94963138</period>
 			<radius errorminus="0.012" errorplus="0.011">0.203</radius>
 		</planet>
 	</star>

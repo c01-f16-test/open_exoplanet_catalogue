@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1285</name>
-	<rightascension>18 47 20</rightascension>
-	<declination>+44 09 21</declination>
+	<rightascension>18 44 200.485200</rightascension>
+	<declination>44 9 21.3336000</declination>
+	<distance>364.0</distance>
 	<star>
 		<name>Kepler-1285</name>
-		<temperature errorminus="62.5" errorplus="67.2">6170.0</temperature>
-		<mass errorminus="0.04" errorplus="0.05">1.20</mass>
+		<temperature errorminus="62.49" errorplus="67.21">6170.0</temperature>
+		<mass errorminus="0.04" errorplus="0.05">1.2</mass>
 		<radius errorminus="0.09" errorplus="0.12">1.28</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.16</metallicity>
+		<metallicity errorminus="0.088" errorplus="0.089">0.16</metallicity>
+		<magH>10.503</magH>
+		<magK>10.484</magK>
+		<magJ>10.785</magJ>
 		<planet>
 			<name>Kepler-1285 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000113400" errorplus="0.000113400">14.796745800</period>
+			<period errorminus="0.0001134" errorplus="0.0001134">14.7967458</period>
 			<radius errorminus="0.007" errorplus="0.009">0.087</radius>
 		</planet>
 	</star>

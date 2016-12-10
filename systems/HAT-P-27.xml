@@ -1,11 +1,11 @@
 <system>
 	<name>HAT-P-27</name>
-	<rightascension>14 51 04</rightascension>
-	<declination>+05 56 50</declination>
-	<distance>204</distance>
+	<rightascension>14h51m04.18s</rightascension>
+	<declination>+05d56m50.5s</declination>
+	<distance errorminus="14.00" errorplus="14.00">204.00</distance>
 	<star>
-		<mass>0.92</mass>
-		<radius>0.87</radius>
+		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
+		<radius errorminus="0.04" errorplus="0.05">0.90</radius>
 		<magV errorminus="0.13" errorplus="0.13">12.19</magV>
 		<magB errorminus="0.10" errorplus="0.10">13.18</magB>
 		<magR errorminus="0.08" errorplus="0.08">11.98</magR>
@@ -16,26 +16,26 @@
 		<metallicity>0.14</metallicity>
 		<spectraltype>G8</spectraltype>
 		<age>3.60</age>
+		<name>HAT-P-27</name>
+		<temperature errorminus="90.00" errorplus="90.00">5300.00</temperature>
 		<planet>
 			<name>HAT-P-27 b</name>
 			<name>WASP-40 b</name>
 			<name>2MASS J14510418+0556505</name>
 			<list>Confirmed planets</list>
-			<mass>0.62</mass>
-			<radius>1.02</radius>
-			<period>3.039577</period>
-			<semimajoraxis>0.0400</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.03000" errorplus="0.03000">0.62000</mass>
+			<radius errorminus="0.060" errorplus="0.070">1.020</radius>
+			<period errorminus="0.00000600" errorplus="0.00000500">3.03957700</period>
+			<semimajoraxis errorminus="0.000800" errorplus="0.000800">0.040000</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
 			<spinorbitalignment>24.2</spinorbitalignment>
-			<inclination>85.0</inclination>
+			<inclination errorminus="0.200" errorplus="0.200">85.000</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1102.7</temperature>
 			<transittime errorminus="0.00054" errorplus="0.00054" unit="BJD">2455186.01879</transittime>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-27</name>
-		<temperature>5300.0</temperature>
 	</star>
 </system>

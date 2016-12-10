@@ -12,6 +12,8 @@
 		<magH errorminus="0.046" errorplus="0.046">5.715</magH>
 		<magK errorminus="0.023" errorplus="0.023">5.610</magK>
 		<spectraltype>G0</spectraltype>
+		<name>HD 150433</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 150433 b</name>
 			<list>Confirmed planets</list>
@@ -25,7 +27,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>182.8</temperature>
 		</planet>
-		<name>HD 150433</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

@@ -1,10 +1,11 @@
 <system>
 	<name>EPIC 201208431</name>
 	<name>K2-4</name>
-	<rightascension>11 38 58.953</rightascension>
-	<declination>-03 54 20.11</declination>
+	<rightascension>11 35 238.950004</rightascension>
+	<declination>-3 54 20.1000808</declination>
 	<distance errorminus="10" errorplus="11">218</distance>
 	<binary>
+		<separation errorminus="0.15" errorplus="0.15" unit="arcsec">17.25</separation>
 		<star>
 			<name>EPIC 201208431</name>
 			<name>K2-4</name>
@@ -21,7 +22,8 @@
 				<name>EPIC 201208431.01</name>
 				<name>K2-4 b</name>
 				<list>Confirmed planets</list>
-				<radius errorminus="0.037" errorplus="0.037">0.218</radius>
+				<list>Planets in binary systems, S-type</list>
+				<radius errorminus="0.036" errorplus="0.036">0.211</radius>
 				<period errorminus="0.00159" errorplus="0.00159">10.00329</period>
 				<transittime errorminus="0.008" errorplus="0.008" unit="BJD">2456815.5212</transittime>
 				<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0777</semimajoraxis>
@@ -29,14 +31,12 @@
 				<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 				<discoverymethod>transit</discoverymethod>
 				<istransiting>1</istransiting>
-				<lastupdate>15/07/07</lastupdate>
+				<lastupdate>16/05/25</lastupdate>
 				<discoveryyear>2015</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>
 			<name>EPIC 201208431 B</name>
 		</star>
-		<separation errorminus="0.15" errorplus="0.15" unit="arcsec">17.25</separation>
 	</binary>
 </system>

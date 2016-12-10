@@ -1,31 +1,32 @@
 <system>
 	<name>KOI-285</name>
 	<name>Kepler-92</name>
-	<rightascension>19 16 21</rightascension>
-	<declination>+41 33 47</declination>
-	<distance>367.56</distance>
+	<rightascension>19 15 80.9999999</rightascension>
+	<declination>41 33 47.1600000</declination>
+	<distance errorminus="13.82" errorplus="13.82">448.57</distance>
 	<star>
 		<name>KOI-285</name>
 		<name>Kepler-92</name>
 		<name>KIC 6196457</name>
-		<mass errorminus="0.030" errorplus="0.020">1.209</mass>
-		<radius errorminus="0.013" errorplus="0.011">1.719</radius>
+		<mass errorminus="0.46" errorplus="0.34">1.209</mass>
+		<radius errorminus="0.03" errorplus="0.019">1.716</radius>
 		<magB errorminus="0.23" errorplus="0.23">12.50</magB>
-		<magV errorminus="0.15" errorplus="0.15">11.67</magV>
+		<magV>11.6</magV>
 		<magJ errorminus="0.023" errorplus="0.023">10.747</magJ>
 		<magH errorminus="0.021" errorplus="0.021">10.470</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.403</magK>
-		<temperature errorminus="50" errorplus="50">5883</temperature>
-		<age errorminus="1.1" errorplus="1.1">5.2</age>
+		<temperature errorminus="94.0" errorplus="94.0">5871.0</temperature>
+		<age errorminus="0.48" errorplus="0.51">5.52</age>
+		<metallicity errorminus="0.11" errorplus="0.11">0.17</metallicity>
 		<planet>
 			<name>KOI-285 b</name>
 			<name>KOI-285.01</name>
 			<name>Kepler-92 b</name>
 			<name>KIC 6196457 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.162" />
+			<mass errorminus="0.28" errorplus="0.126">0.189</mass>
 			<radius errorminus="0.012" errorplus="0.012">0.326</radius>
-			<period errorminus="0.000075" errorplus="0.000075">13.748933</period>
+			<period errorminus="7.5e-05" errorplus="7.5e-05">13.748933</period>
 			<transittime errorminus="0.0130786" errorplus="0.0130786" unit="BJD">2455008.9263306</transittime>
 			<eccentricity errorminus="0.17" errorplus="0.1">0.17</eccentricity>
 			<temperature>934</temperature>
@@ -33,7 +34,7 @@
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>15/12/15</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
@@ -42,8 +43,8 @@
 			<name>Kepler-92 c</name>
 			<name>KIC 6196457 c</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.0890" />
-			<radius errorminus="0.0047" errorplus="0.0047">0.2190</radius>
+			<mass errorminus="0.0277" errorplus="0.011">0.0179</mass>
+			<radius errorminus="0.0047" errorplus="0.0047">0.219</radius>
 			<period errorminus="0.00019" errorplus="0.00019">26.72311</period>
 			<transittime errorminus="0.0184593" errorplus="0.0184593" unit="BJD">2454986.4408417</transittime>
 			<eccentricity errorminus="0.04" errorplus="0.22">0.04</eccentricity>
@@ -52,7 +53,7 @@
 			<description>This planet was discovered by the Kepler spacecraft. The planet is part of a multiplanetary system. Its planetary nature has been confirmed using transit timing variations which arise because the planets in one system pull on each other and slightly alter the transit times.</description>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>15/12/15</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 		</planet>
 		<planet>
@@ -60,7 +61,7 @@
 			<name>KOI-285.03</name>
 			<name>Kepler-92 d</name>
 			<name>KIC 6196457 d</name>
-			<radius errorminus="0.0050" errorplus="0.0050">0.1844</radius>
+			<radius errorminus="0.005" errorplus="0.005">0.1844</radius>
 			<period errorminus="0.0024" errorplus="0.0024">49.3568</period>
 			<eccentricity errorminus="0.04" errorplus="0.34">0.07</eccentricity>
 			<transittime errorminus="0.0073" errorplus="0.0073" unit="BJD">2454967.2716</transittime>
@@ -69,8 +70,8 @@
 			<list>Confirmed planets</list>
 			<description>This is a Kepler Object of Interest from the Q1-Q12 dataset. It has been flagged as a possible transit event but has not been confirmed to be a planet yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/06/09</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>15/12/15</lastupdate>
+			<discoveryyear>2015</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

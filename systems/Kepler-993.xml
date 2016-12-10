@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-993</name>
-	<rightascension>19 30 27</rightascension>
-	<declination>+44 23 41</declination>
+	<rightascension>19 27 207.384239</rightascension>
+	<declination>44 23 40.7795999</declination>
+	<distance>298.0</distance>
 	<star>
 		<name>Kepler-993</name>
-		<temperature errorminus="46.2" errorplus="50.2">3843.0</temperature>
+		<temperature errorminus="46.25" errorplus="50.16">3843.0</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.57</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.54</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.03</metallicity>
+		<metallicity errorminus="0.094" errorplus="0.09">0.03</metallicity>
+		<magH>12.893</magH>
+		<magK>12.729</magK>
+		<magJ>13.587</magJ>
 		<planet>
 			<name>Kepler-993 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000046550" errorplus="0.000046550">22.085575630</period>
+			<period errorminus="4.655e-05" errorplus="4.655e-05">22.08557563</period>
 			<radius errorminus="0.011" errorplus="0.016">0.265</radius>
 		</planet>
 	</star>

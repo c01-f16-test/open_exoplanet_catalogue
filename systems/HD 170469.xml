@@ -1,11 +1,11 @@
 <system>
 	<name>HD 170469</name>
-	<rightascension>18 29 11</rightascension>
-	<declination>+11 41 44</declination>
-	<distance>64.97</distance>
+	<rightascension>18h29m10.98s</rightascension>
+	<declination>+11d41m43.8s</declination>
+	<distance errorminus="5.05" errorplus="4.37">64.98</distance>
 	<star>
-		<mass>1.14</mass>
-		<radius>1.22</radius>
+		<mass errorminus="0.05" errorplus="0.01">1.14</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.22</radius>
 		<magV>8.21</magV>
 		<magJ errorminus="0.02" errorplus="0.02">7.047</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.779</magH>
@@ -13,19 +13,19 @@
 		<magB errorminus="0.02" errorplus="0.02">8.86</magB>
 		<metallicity>0.3</metallicity>
 		<spectraltype>G5IV</spectraltype>
+		<name>HD 170469</name>
+		<temperature errorminus="44.00" errorplus="44.00">5810.00</temperature>
 		<planet>
 			<name>HD 170469 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.67</mass>
-			<period>1145</period>
-			<semimajoraxis>2.24</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
+			<mass>0.67000</mass>
+			<period errorminus="18.00000000" errorplus="18.00000000">1145.00000000</period>
+			<semimajoraxis>2.100000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.110000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/10/31</lastupdate>
+			<lastupdate>14/07/02</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>188.9</temperature>
 		</planet>
-		<name>HD 170469</name>
-		<temperature>5810.0</temperature>
 	</star>
 </system>

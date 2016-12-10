@@ -1,7 +1,7 @@
 <system>
 	<name>KIC 9632895</name>
-	<rightascension>18 52 58</rightascension>
-	<declination>+46 22 42</declination>
+	<rightascension>18 52 57.9110047</rightascension>
+	<declination>46 22 42.5000603</declination>
 	<distance>500</distance>
 	<binary>
 		<name>KIC 9632895</name>
@@ -24,6 +24,17 @@
 			<temperature errorminus="100" errorplus="100">5527</temperature>
 			<age errorminus="0.75" errorplus="0.75">1.75</age>
 			<metallicity>0.0</metallicity>
+			<planet>
+				<lastupdate>16/02/23</lastupdate>
+				<discoverymethod>transit</discoverymethod>
+				<name>Kepler-453 (AB) b</name>
+				<name>Kepler-453 b </name>
+				<inclination errorminus="0.0056" errorplus="0.0056">89.4338</inclination>
+				<mass errorminus="0.03" errorplus="0.03">0.03</mass>
+				<discoveryyear>2014</discoveryyear>
+				<period errorminus="0.053" errorplus="0.053">240.503</period>
+				<radius errorminus="0.0031" errorplus="0.0031">0.55</radius>
+			</planet>
 		</star>
 		<star>
 			<name>KIC 9632895 B</name>
@@ -35,27 +46,5 @@
 			<temperature errorminus="100" errorplus="100">3309</temperature>
 			<age errorminus="0.75" errorplus="0.75">1.75</age>
 		</star>
-		<planet>
-			<name>KIC 9632895 b</name>
-			<name>KIC 9632895 (AB) b</name>
-			<name>KOI-1451 (AB) b</name>
-			<name>Kepler-453 b</name>
-			<name>Kepler-453 (AB) b</name>
-			<list>Confirmed planets</list>
-			<mass errorminus="0.050331" errorplus="0.050331">0.019503</mass>
-			<radius errorminus="0.003190" errorplus="0.003190">0.561818</radius>
-			<period errorminus="0.053" errorplus="0.053">240.503</period>
-			<semimajoraxis errorminus="0.0028" errorplus="0.0028">0.7877</semimajoraxis>
-			<eccentricity errorminus="0.0088" errorplus="0.0088">0.0379</eccentricity>
-			<inclination errorminus="0.0056" errorplus="0.0056">89.4338</inclination>
-			<periastron errorminus="0.29" errorplus="0.29">-178.59</periastron>
-			<ascendingnode errorminus="0.055" errorplus="0.055">2.138</ascendingnode>
-			<description>The circum-binary planet KIC 9632895b was discovered in the Kepler dataset. It orbits stellar binary every 240 days. The stars themselves have an orbital period of 27 days. The precession period is 103 years. During that cycle, only 8 percent of the transits are visible.</description>
-			<discoverymethod>transit</discoverymethod>
-			<istransiting>1</istransiting>
-			<lastupdate>14/09/08</lastupdate>
-			<discoveryyear>2014</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
-		</planet>
 	</binary>
 </system>

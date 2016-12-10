@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-491</name>
-	<rightascension>19 08 31</rightascension>
-	<declination>+42 21 01</declination>
+	<rightascension>19 7 91.3379999</rightascension>
+	<declination>42 21 0.55799999</declination>
+	<distance>657.0</distance>
 	<star>
 		<name>Kepler-491</name>
-		<temperature errorminus="61.1" errorplus="53.8">5582.0</temperature>
+		<temperature errorminus="61.11" errorplus="53.81">5582.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">1.04</mass>
 		<radius errorminus="0.06" errorplus="0.09">1.03</radius>
-		<metallicity errorminus="0.05" errorplus="0.05">0.37</metallicity>
+		<metallicity errorminus="0.053" errorplus="0.049">0.37</metallicity>
+		<magH>12.426</magH>
+		<magK>12.354</magK>
+		<magJ>12.746</magJ>
 		<planet>
 			<name>Kepler-491 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000270" errorplus="0.000000270">4.225384510</period>
+			<period errorminus="2.7e-07" errorplus="2.7e-07">4.22538451</period>
 			<radius errorminus="0.045" errorplus="0.071">0.796</radius>
 		</planet>
 	</star>

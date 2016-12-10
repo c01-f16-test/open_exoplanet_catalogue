@@ -19,10 +19,13 @@
 			<magH>5.22</magH>
 			<magK>5.17</magK>
 			<spectraltype>F7 V</spectraltype>
+			<name>HD 8673 A</name>
+			<temperature>6413.0</temperature>
 			<planet>
 				<name>HD 8673 b</name>
 				<name>HD 8673 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>14.2</mass>
 				<period>1634</period>
 				<semimajoraxis>3.02</semimajoraxis>
@@ -31,15 +34,12 @@
 				<lastupdate>10/06/24</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<temperature>194.3</temperature>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
-			<name>HD 8673 A</name>
-			<temperature>6413.0</temperature>
 		</star>
 		<star>
 			<name>HD 8673 B</name>
-			<temperature lowerlimit="3520" upperlimit="3690" />
-			<mass lowerlimit="0.33" upperlimit="0.45" />
+			<temperature lowerlimit="3520" upperlimit="3690"/>
+			<mass lowerlimit="0.33" upperlimit="0.45"/>
 			<magJ>10.00</magJ>
 			<magH>9.42</magH>
 			<magK>9.29</magK>

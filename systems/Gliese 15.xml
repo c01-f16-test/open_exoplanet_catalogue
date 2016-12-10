@@ -1,8 +1,8 @@
 <system>
 	<name>Gliese 15</name>
-	<rightascension>00 18 22.88532</rightascension>
-	<declination>+44 01 22.6282</declination>
-	<distance errorminus="0.010" errorplus="0.010">3.587</distance>
+	<rightascension>0 16 142.885321</rightascension>
+	<declination>44 1 22.6282191</declination>
+	<distance errorminus="0.01" errorplus="0.01">3.587</distance>
 	<binary>
 		<name>Gliese 15</name>
 		<name>GJ 15</name>
@@ -29,9 +29,8 @@
 			<name>BD+43 44 A</name>
 			<name>WDS J00184+4401 A</name>
 			<name>2MASS J00182256+4401222</name>
-			<magU>10.30</magU>
 			<magB>9.63</magB>
-			<magV errorminus="0.01" errorplus="0.01">8.13</magV>
+			<magV>8.08</magV>
 			<magR>7.3</magR>
 			<magI>6.4</magI>
 			<magJ>5.25</magJ>
@@ -49,6 +48,7 @@
 				<name>GX Andromedae b</name>
 				<name>Groombridge 34 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.00236" errorplus="0.00236" type="msini">0.01683</mass>
 				<period errorminus="0.0016" errorplus="0.0016">11.4433</period>
 				<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.0717</semimajoraxis>
@@ -59,7 +59,16 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/12/12</lastupdate>
 				<discoveryyear>2014</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
+			</planet>
+			<planet>
+				<eccentricity>0.0</eccentricity>
+				<lastupdate>16/02/23</lastupdate>
+				<discoverymethod>RV</discoverymethod>
+				<name>GJ 15 A b</name>
+				<mass errorminus="0.00235975206871598" errorplus="0.00235975206871598">0.0168328980902</mass>
+				<discoveryyear>2014</discoveryyear>
+				<semimajoraxis errorminus="0.0034" errorplus="0.0034">0.0717</semimajoraxis>
+				<period errorminus="0.0016" errorplus="0.0016">11.4433</period>
 			</planet>
 		</star>
 		<star>
@@ -72,6 +81,7 @@
 			<name>BD+43 44 B</name>
 			<name>WDS J00184+4401 B</name>
 			<name>2MASS J00182549+4401376</name>
+			<name>GQ And</name>
 			<magB>12.84</magB>
 			<magV>11.04</magV>
 			<magR>10.3</magR>
@@ -81,7 +91,6 @@
 			<spectraltype>M3.5</spectraltype>
 			<mass>0.163</mass>
 			<radius>0.19</radius>
-			<name>GQ And</name>
 		</star>
 	</binary>
 </system>

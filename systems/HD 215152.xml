@@ -12,6 +12,8 @@
 		<magH errorminus="0.029" errorplus="0.029">5.895</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.775</magK>
 		<spectraltype>K0</spectraltype>
+		<name>HD 215152</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>HD 215152 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>615.3</temperature>
 		</planet>
-		<name>HD 215152</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

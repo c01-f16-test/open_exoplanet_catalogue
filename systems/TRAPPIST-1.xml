@@ -1,18 +1,18 @@
 <system>
 	<name>TRAPPIST-1</name>
-	<rightascension>23 06 30.34</rightascension>
-	<declination>-05 02 36.44</declination>
+	<rightascension>23 3 209.000002</rightascension>
+	<declination>-5 2 29.0000256</declination>
 	<distance errorminus="0.4" errorplus="0.4">12.1</distance>
 	<star>
 		<name>TRAPPIST-1</name>
 		<name>2MASS J23062928-0502285</name>
-		<mass errorminus="0.009" errorplus="0.009">0.080</mass>
-		<radius errorminus="0.006" errorplus="0.006">0.114</radius>
+		<mass errorminus="0.009" errorplus="0.009">0.08</mass>
+		<radius errorminus="0.004" errorplus="0.004">0.117</radius>
 		<temperature errorminus="55" errorplus="55">2550</temperature>
 		<magV>18.8</magV>
 		<metallicity errorminus="0.08" errorplus="0.08">0.04</metallicity>
 		<spectraltype>M8</spectraltype>
-		<age lowerlimit="0.5" />
+		<age>0.5</age>
 		<planet>
 			<name>TRAPPIST-1b</name>
 			<list>Confirmed planets</list>
@@ -56,6 +56,35 @@
 			<lastupdate>16/05/01</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 			<description>Astronomers using the TRAPPIST telescope at ESO's La Silla Observatory have discovered three planets orbiting an ultracool dwarf star just 40 light-years from Earth. These worlds have sizes and temperatures similar to those of Venus and Earth and are the best targets found so far for the search for life outside the Solar System. They are the first planets ever discovered around such a tiny and dim star. The orbital periof the outer planet is not well constrained yet due to gaps in the observations.</description>
+		</planet>
+		<planet>
+			<eccentricity>0.000000</eccentricity>
+			<lastupdate>16/05/05</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>TRAPPIST-1 b</name>
+			<inclination errorminus="0.410" errorplus="0.410">89.410</inclination>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.011110</semimajoraxis>
+			<period errorminus="0.00001900" errorplus="0.00001900">1.51084800</period>
+			<radius errorminus="0.004" errorplus="0.004">0.099</radius>
+		</planet>
+		<planet>
+			<eccentricity>0.000000</eccentricity>
+			<lastupdate>16/05/05</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>TRAPPIST-1 c</name>
+			<inclination errorminus="0.310" errorplus="0.310">89.500</inclination>
+			<semimajoraxis errorminus="0.000550" errorplus="0.000550">0.015220</semimajoraxis>
+			<period errorminus="0.00002800" errorplus="0.00002800">2.42184800</period>
+			<radius errorminus="0.004" errorplus="0.004">0.094</radius>
+		</planet>
+		<planet>
+			<eccentricity>0.000000</eccentricity>
+			<lastupdate>16/05/05</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>TRAPPIST-1 d</name>
+			<inclination errorminus="0.100" errorplus="0.100">89.870</inclination>
+			<period>18.20200000</period>
+			<radius errorminus="0.006" errorplus="0.006">0.104</radius>
 		</planet>
 	</star>
 </system>

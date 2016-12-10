@@ -1,10 +1,10 @@
 <system>
 	<name>HD 39091</name>
-	<rightascension>05 37 09</rightascension>
-	<declination>-80 28 08</declination>
-	<distance>18.32</distance>
+	<rightascension>05h37m09.89s</rightascension>
+	<declination>-80d28m08.8s</declination>
+	<distance errorminus="0.15" errorplus="0.15">18.21</distance>
 	<star>
-		<mass>1.1</mass>
+		<mass>1.10</mass>
 		<radius>2.1</radius>
 		<magV>5.67</magV>
 		<magB>6.25</magB>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.027" errorplus="0.027">4.241</magK>
 		<metallicity>0.09</metallicity>
 		<spectraltype>G1 IV</spectraltype>
+		<name>HD 39091</name>
+		<temperature errorminus="44.00" errorplus="44.00">5950.00</temperature>
 		<planet>
 			<name>HD 39091 b</name>
 			<list>Confirmed planets</list>
-			<mass>10.3</mass>
-			<period>2049</period>
-			<semimajoraxis>3.28</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<mass errorminus="0.84000" errorplus="0.84000">10.27000</mass>
+			<period errorminus="85.00000000" errorplus="85.00000000">2151.00000000</period>
+			<semimajoraxis errorminus="0.220000" errorplus="0.220000">3.380000</semimajoraxis>
+			<eccentricity errorminus="0.007200" errorplus="0.007200">0.640500</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/01</lastupdate>
+			<lastupdate>14/07/23</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>202.4</temperature>
 		</planet>
-		<name>HD 39091</name>
-		<temperature>5888.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1145</name>
-	<rightascension>19 41 14</rightascension>
-	<declination>+43 02 40</declination>
+	<rightascension>19 40 73.9586400</rightascension>
+	<declination>43 2 39.8940000</declination>
+	<distance>714.0</distance>
 	<star>
 		<name>Kepler-1145</name>
-		<temperature errorminus="117.4" errorplus="161.0">5064.0</temperature>
+		<temperature errorminus="117.37" errorplus="161.02">5064.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.79</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.75</radius>
-		<metallicity errorminus="0.19" errorplus="0.18">-0.13</metallicity>
+		<metallicity errorminus="0.193" errorplus="0.177">-0.13</metallicity>
+		<magH>13.485</magH>
+		<magK>13.314</magK>
+		<magJ>13.975</magJ>
 		<planet>
 			<name>Kepler-1145 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000011100" errorplus="0.000011100">3.970767660</period>
-			<radius errorminus="0.010" errorplus="0.010">0.125</radius>
+			<period errorminus="1.11e-05" errorplus="1.11e-05">3.97076766</period>
+			<radius errorminus="0.01" errorplus="0.01">0.125</radius>
 		</planet>
 	</star>
 </system>

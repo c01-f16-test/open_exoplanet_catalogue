@@ -23,7 +23,6 @@
 			<temperature errorminus="100" errorplus="100">1700</temperature>
 			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">2.204</separation>
 			<separation errorminus="30" errorplus="30" unit="AU">320</separation>
-			<positionangle errorminus="0.05" errorplus="0.05">175.97</positionangle>
 			<spectraltype errorminus="0.5" errorplus="0.5">M9γ</spectraltype>
 			<magJ errorminus="0.04" errorplus="0.04">16.13</magJ>
 			<magH errorminus="0.04" errorplus="0.04">15.52</magH>
@@ -31,8 +30,6 @@
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/06/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<image>GSC 06214-00210</image>
-			<imagedescription>This image shows the star GSC 06214-00210 and its planetary mass companion. Credit: Michael Ireland (Macquarie University)</imagedescription>
 		</planet>
 	</star>
 </system>

@@ -28,6 +28,7 @@
 				<name>2MASS J17202788+3814317 b</name>
 				<name>TYC 3086-00152-1 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>2.2</mass>
 				<radius>1.2</radius>
 				<period>4.627657</period>
@@ -41,7 +42,6 @@
 				<temperature>1445.9</temperature>
 				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455310.29094</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

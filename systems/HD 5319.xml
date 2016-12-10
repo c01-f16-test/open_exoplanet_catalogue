@@ -1,8 +1,8 @@
 <system>
 	<name>HD 5319</name>
-	<rightascension>00 55 01.400</rightascension>
-	<declination>+00 47 22.40</declination>
-	<distance errorminus="11" errorplus="11">114</distance>
+	<rightascension>0 52 181.000007</rightascension>
+	<declination>0 47 21.9998399</declination>
+	<distance errorminus="10.0" errorplus="10.0">100.0</distance>
 	<star>
 		<name>HD 5319</name>
 		<name>HIP 4297</name>
@@ -11,15 +11,17 @@
 		<name>2MASS J00550140+0047223</name>
 		<name>SAO 109532</name>
 		<name>TYC 12-104-1</name>
-		<mass errorminus="0.11" errorplus="0.11">1.51</mass>
-		<radius>3.26</radius>
+		<mass errorminus="0.18" errorplus="0.18">1.56</mass>
+		<radius errorminus="0.41" errorplus="0.41">3.26</radius>
 		<magV>8.05</magV>
 		<magB>9.03</magB>
 		<magJ errorminus="0.027" errorplus="0.027">6.348</magJ>
 		<magH errorminus="0.044" errorplus="0.044">5.864</magH>
 		<magK errorminus="0.020" errorplus="0.020">5.699</magK>
-		<metallicity errorminus="0.03" errorplus="0.03">0.15</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.15</metallicity>
 		<spectraltype>G5IV</spectraltype>
+		<temperature errorminus="50.0" errorplus="50.0">5052.0</temperature>
+		<age errorminus="0.68" errorplus="0.68">2.4</age>
 		<planet>
 			<name>HD 5319 b</name>
 			<name>HIP 4297 b</name>
@@ -29,13 +31,13 @@
 			<name>SAO 109532 b</name>
 			<name>TYC 12-104-1 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07">1.76</mass>
+			<mass errorminus="0.07000" errorplus="0.07000">1.76000</mass>
 			<period errorminus="2" errorplus="2">641</period>
-			<semimajoraxis errorminus="0.0036" errorplus="0.0036">1.6697</semimajoraxis>
-			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
+			<semimajoraxis errorminus="0.003600" errorplus="0.003600">1.669700</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.020000</eccentricity>
 			<description>This planet was found in 2007. The N2K campain, designed to discover short-period planets, improved the data in 2014 using long-term observations.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
+			<lastupdate>14/12/03</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>303.8</temperature>
 		</planet>
@@ -54,9 +56,9 @@
 			<eccentricity errorminus="0.06" errorplus="0.06">0.15</eccentricity>
 			<description>This planet was found by the N2K campain designed to discover short-period planets.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/11/19</lastupdate>
-			<discoveryyear>2014</discoveryyear>
+			<lastupdate>16/08/10</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+			<periastron errorminus="34.0" errorplus="34.0">252.0</periastron>
 		</planet>
-		<temperature>5052.0</temperature>
 	</star>
 </system>

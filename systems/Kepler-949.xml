@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-949</name>
-	<rightascension>19 54 26</rightascension>
-	<declination>+46 27 13</declination>
+	<rightascension>19 52 145.890240</rightascension>
+	<declination>46 27 13.2552000</declination>
+	<distance>572.0</distance>
 	<star>
 		<name>Kepler-949</name>
-		<temperature errorminus="208.0" errorplus="200.9">5403.0</temperature>
+		<temperature errorminus="208.02" errorplus="200.9">5403.0</temperature>
 		<mass errorminus="0.05" errorplus="0.06">0.89</mass>
-		<radius errorminus="0.07" errorplus="0.10">0.86</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.01</metallicity>
+		<radius errorminus="0.07" errorplus="0.1">0.86</radius>
+		<metallicity errorminus="0.161" errorplus="0.144">0.01</metallicity>
+		<magH>12.627</magH>
+		<magK>12.519</magK>
+		<magJ>13.063</magJ>
 		<planet>
 			<name>Kepler-949 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000009630" errorplus="0.000009630">8.689307300</period>
-			<radius errorminus="0.021" errorplus="0.032">0.260</radius>
+			<period errorminus="9.63e-06" errorplus="9.63e-06">8.6893073</period>
+			<radius errorminus="0.021" errorplus="0.032">0.26</radius>
 		</planet>
 	</star>
 </system>

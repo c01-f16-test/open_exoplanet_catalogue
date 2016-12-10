@@ -1,8 +1,8 @@
 <system>
 	<name>WASP-50</name>
-	<rightascension>02 54 45</rightascension>
-	<declination>-10 53 53</declination>
-	<distance>230</distance>
+	<rightascension>2 52 165.0</rightascension>
+	<declination>-10 53 53.0001600</declination>
+	<distance errorminus="40.0" errorplus="40.0">230.0</distance>
 	<star>
 		<name>WASP-50</name>
 		<name>TYC 5290-462-1</name>
@@ -10,16 +10,18 @@
 		<name>GSC2.3 S2L3000257</name>
 		<name>UCAC2 27953631</name>
 		<name>UCAC3 159-7797</name>
-		<mass>0.89</mass>
-		<radius>0.84</radius>
+		<mass errorminus="0.057" errorplus="0.057">0.861</mass>
+		<radius errorminus="0.019" errorplus="0.019">0.855</radius>
 		<magV>11.6</magV>
 		<magB errorminus="0.27" errorplus="0.27">12.43</magB>
 		<magR errorminus="0.024" errorplus="0.024">11.599</magR>
 		<magJ errorminus="0.022" errorplus="0.022">10.401</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.041</magH>
 		<magK errorminus="0.021" errorplus="0.021">9.969</magK>
-		<metallicity>-0.12</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.08">-0.12</metallicity>
 		<spectraltype>G9</spectraltype>
+		<temperature errorminus="100.0" errorplus="100.0">5400.0</temperature>
+		<age errorminus="7.0" errorplus="4.5">8.1</age>
 		<planet>
 			<name>WASP-50 b</name>
 			<name>TYC 5290-462-1 b</name>
@@ -28,20 +30,20 @@
 			<name>UCAC2 27953631 b</name>
 			<name>UCAC3 159-7797 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.47</mass>
-			<radius>1.15</radius>
-			<period>1.955096</period>
-			<semimajoraxis>0.02945</semimajoraxis>
-			<eccentricity>0.009</eccentricity>
-			<inclination>84.74</inclination>
+			<mass errorminus="0.068" errorplus="0.068">1.437</mass>
+			<radius errorminus="0.026" errorplus="0.026">1.138</radius>
+			<period errorminus="5.1e-06" errorplus="5.1e-06">1.9550959</period>
+			<semimajoraxis errorminus="0.00064" errorplus="0.00064">0.02913</semimajoraxis>
+			<eccentricity errorminus="0.006" errorplus="0.006">0.009</eccentricity>
+			<inclination errorminus="0.24" errorplus="0.24">84.74</inclination>
 			<transittime errorminus="0.000118" errorplus="0.00018" unit="BJD">2455859.691755</transittime>
 			<description>WASP-50 b is a Hot Jupiter transiting a solar type star in the southern constellation Eridanus.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/08/15</lastupdate>
+			<lastupdate>16/05/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1289.9</temperature>
 			<istransiting>1</istransiting>
+			<periastron errorminus="80.0" errorplus="80.0">44.0</periastron>
 		</planet>
-		<temperature>5400.0</temperature>
 	</star>
 </system>

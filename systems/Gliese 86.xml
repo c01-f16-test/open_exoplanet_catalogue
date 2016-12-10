@@ -10,13 +10,13 @@
 		<name>CD-51 532</name>
 		<name>CPD-51 282</name>
 		<name>WDS J02104-5049</name>
-		<period lowerlimit="43830" upperlimit="57720" />
-		<semimajoraxis lowerlimit="27.8" upperlimit="69.8" />
-		<periastrontime lowerlimit="2427100" upperlimit="2476000" />
-		<eccentricity upperlimit="0.61" />
-		<inclination lowerlimit="114.7" upperlimit="122.6" />
-		<ascendingnode lowerlimit="63.7" upperlimit="76.1" />
-		<periastron lowerlimit="0" upperlimit="358" />
+		<period lowerlimit="43830" upperlimit="57720"/>
+		<semimajoraxis lowerlimit="27.8" upperlimit="69.8"/>
+		<periastrontime lowerlimit="2427100" upperlimit="2476000"/>
+		<eccentricity upperlimit="0.61"/>
+		<inclination lowerlimit="114.7" upperlimit="122.6"/>
+		<ascendingnode lowerlimit="63.7" upperlimit="76.1"/>
+		<periastron lowerlimit="0" upperlimit="358"/>
 		<star>
 			<name>Gliese 86 A</name>
 			<name>GJ 86 A</name>
@@ -51,6 +51,7 @@
 				<name>HD 13445 b</name>
 				<name>HD 13445 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.32" errorplus="0.32" type="msini">3.91</mass>
 				<period errorminus="0.00039" errorplus="0.00039">15.76491</period>
 				<semimajoraxis errorminus="0.0065" errorplus="0.0065">0.1130</semimajoraxis>
@@ -61,7 +62,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>16/02/03</lastupdate>
 				<discoveryyear>2000</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

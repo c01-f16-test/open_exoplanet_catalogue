@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-856</name>
-	<rightascension>19 18 25</rightascension>
-	<declination>+46 18 54</declination>
+	<rightascension>19 15 204.920639</rightascension>
+	<declination>46 18 53.8307999</declination>
+	<distance>1175.0</distance>
 	<star>
 		<name>Kepler-856</name>
-		<temperature errorminus="84.5" errorplus="69.5">5535.0</temperature>
+		<temperature errorminus="84.49" errorplus="69.55">5535.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.96</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.93</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.12</metallicity>
+		<metallicity errorminus="0.142" errorplus="0.15">0.12</metallicity>
+		<magH>13.918</magH>
+		<magK>13.905</magK>
+		<magJ>14.277</magJ>
 		<planet>
 			<name>Kepler-856 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000002010" errorplus="0.000002010">8.027680590</period>
-			<radius errorminus="0.054" errorplus="0.112">0.830</radius>
+			<period errorminus="2.01e-06" errorplus="2.01e-06">8.02768059</period>
+			<radius errorminus="0.054" errorplus="0.112">0.83</radius>
 		</planet>
 	</star>
 </system>

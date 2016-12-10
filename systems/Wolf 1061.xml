@@ -1,8 +1,8 @@
 <system>
 	<name>Wolf 1061</name>
-	<rightascension>16 30 18.05803</rightascension>
-	<declination>-12 39 45.3232</declination>
-	<distance errorminus="0.0295" errorplus="0.0295">4.2922</distance>
+	<rightascension>16h30m18.06s</rightascension>
+	<declination>-12d39m45.3s</declination>
+	<distance>4.29</distance>
 	<star>
 		<name>Wolf 1061</name>
 		<name>HIP 80824</name>
@@ -23,11 +23,11 @@
 		<spectraltype>M3.5</spectraltype>
 		<mass errorminus="0.12" errorplus="0.12">0.25</mass>
 		<radius errorminus="0.10" errorplus="0.10">0.26</radius>
-		<temperature errorminus="69" errorplus="69">3345</temperature>
+		<temperature>3393.00</temperature>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.05</metallicity>
 		<planet>
 			<name>Wolf 1061 b</name>
-			<period errorminus="0.0014" errorplus="0.0014">4.8876</period>
+			<period errorminus="0.00140000" errorplus="0.00140000">4.88760000</period>
 			<mass errorminus="0.00072" errorplus="0.00072" type="msini">0.00428</mass>
 			<eccentricity>0</eccentricity>
 			<meananomaly errorminus="41" errorplus="41">61</meananomaly>
@@ -35,35 +35,35 @@
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Wolf 1061 b is the innermost planet in a system of super-Earths located 14 light years from the solar system. It has a minimum mass of 1.36 Earth masses.</description>
-			<lastupdate>15/12/27</lastupdate>
+			<lastupdate>16/01/05</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
 			<name>Wolf 1061 c</name>
-			<period errorminus="0.011" errorplus="0.011">17.867</period>
-			<mass errorminus="0.0012" errorplus="0.0012" type="msini">0.0134</mass>
-			<eccentricity errorminus="0.13" errorplus="0.13">0.19</eccentricity>
+			<period errorminus="0.01100000" errorplus="0.01100000">17.86700000</period>
+			<mass errorminus="0.00116" errorplus="0.00116">0.01337</mass>
+			<eccentricity errorminus="0.130000" errorplus="0.130000">0.190000</eccentricity>
 			<periastron errorminus="47" errorplus="47">37</periastron>
 			<meananomaly errorminus="59" errorplus="59">313</meananomaly>
-			<semimajoraxis errorminus="0.00004" errorplus="0.00004">0.08427</semimajoraxis>
+			<semimajoraxis errorminus="0.000040" errorplus="0.000040">0.084270</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Wolf 1061 c is a planet with a minimum mass of 4.25 Earth masses located near the inner edge of its host star's habitable zone. It is the middle planet of a system of super-Earths located 14 light years from the solar system.</description>
-			<lastupdate>15/12/27</lastupdate>
+			<lastupdate>16/01/05</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>
 			<name>Wolf 1061 d</name>
-			<period errorminus="0.12" errorplus="0.12">67.27</period>
-			<mass errorminus="0.0021" errorplus="0.0021" type="msini">0.0164</mass>
-			<eccentricity errorminus="0.16" errorplus="0.16">0.32</eccentricity>
+			<period errorminus="0.12000000" errorplus="0.12000000">67.27000000</period>
+			<mass errorminus="0.00214" errorplus="0.00214">0.01639</mass>
+			<eccentricity errorminus="0.160000" errorplus="0.160000">0.320000</eccentricity>
 			<periastron errorminus="70" errorplus="70">102</periastron>
 			<meananomaly errorminus="41" errorplus="41">170</meananomaly>
-			<semimajoraxis errorminus="0.0002" errorplus="0.0002">0.2039</semimajoraxis>
+			<semimajoraxis errorminus="0.000200" errorplus="0.000200">0.203900</semimajoraxis>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>Wolf 1061 d is a planet with a minimum mass of 5.21 Earth masses located slightly beyond the outer edge of its host star's habitable zone. It is the outermost planet of a system of super-Earths located 14 light years from the solar system.</description>
-			<lastupdate>15/12/27</lastupdate>
+			<lastupdate>16/01/05</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 	</star>

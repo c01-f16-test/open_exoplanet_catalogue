@@ -5,7 +5,7 @@
 	<rightascension>21 49 47</rightascension>
 	<declination>-04 03 08</declination>
 	<distance>40</distance>
-	<spectraltype>T7/T7.5</spectraltype>
+	<videolink>http://youtu.be/BRswuUjt35g</videolink>
 	<planet>
 		<name>CFBDSIR2149</name>
 		<name>CFBDSIR J214947.2-040308.9</name>
@@ -17,10 +17,5 @@
 		<discoverymethod>imaging</discoverymethod>
 		<lastupdate>12/11/14</lastupdate>
 		<discoveryyear>2012</discoveryyear>
-		<image>eso1245a</image>
-		<imagedescription>Artist's impression of the free-floating planet CFBDSIR J214947.2-040308.9 
-		
-ESO/L. Calcada/P. Delorme/Nick Risinger (skysurvey.org)/R. Saito/VVV Consortium</imagedescription>
 	</planet>
-	<videolink>http://youtu.be/BRswuUjt35g</videolink>
 </system>

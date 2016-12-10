@@ -1,11 +1,11 @@
 <system>
 	<name>HD 222155</name>
-	<rightascension>23 38 00</rightascension>
-	<declination>+48 59 47</declination>
-	<distance>49.1</distance>
+	<rightascension>23h38m00.31s</rightascension>
+	<declination>+48d59m47.5s</declination>
+	<distance errorminus="2.18" errorplus="2.00">50.45</distance>
 	<star>
-		<mass>1.13</mass>
-		<radius>1.67</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.13</mass>
+		<radius errorminus="0.07" errorplus="0.07">1.67</radius>
 		<magV>7.1</magV>
 		<magB>7.76</magB>
 		<magR>6.7</magR>
@@ -15,19 +15,19 @@
 		<magK errorminus="0.023" errorplus="0.023">5.510</magK>
 		<metallicity>-0.11</metallicity>
 		<spectraltype>G2V</spectraltype>
+		<name>HD 222155</name>
+		<temperature errorminus="22.00" errorplus="22.00">5765.00</temperature>
 		<planet>
 			<name>HD 222155 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.9</mass>
-			<period>3999</period>
-			<semimajoraxis>5.1</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.53000" errorplus="0.67000">1.90000</mass>
+			<period errorminus="541.00000000" errorplus="469.00000000">3999.00000000</period>
+			<semimajoraxis errorminus="0.700000" errorplus="0.600000">5.100000</semimajoraxis>
+			<eccentricity errorminus="0.220000" errorplus="0.270000">0.160000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/05/25</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>145.2</temperature>
 		</planet>
-		<name>HD 222155</name>
-		<temperature>5765.0</temperature>
 	</star>
 </system>

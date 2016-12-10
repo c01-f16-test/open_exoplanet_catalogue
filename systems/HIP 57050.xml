@@ -1,8 +1,8 @@
 <system>
 	<name>HIP 57050</name>
-	<rightascension>11 41 45</rightascension>
-	<declination>+42 45 07</declination>
-	<distance>11</distance>
+	<rightascension>11h41m44.63s</rightascension>
+	<declination>+42d45m07.1s</declination>
+	<distance errorminus="0.38" errorplus="0.36">11.03</distance>
 	<star>
 		<mass>0.34</mass>
 		<radius>0.4</radius>
@@ -15,19 +15,19 @@
 		<magK errorminus="0.016" errorplus="0.016">6.822</magK>
 		<metallicity>0.32</metallicity>
 		<spectraltype>M4V</spectraltype>
+		<name>HIP 57050</name>
+		<temperature>3190.0</temperature>
 		<planet>
 			<name>HIP 57050 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.298</mass>
-			<period>41.397</period>
-			<semimajoraxis>0.163506</semimajoraxis>
-			<eccentricity>0.314</eccentricity>
+			<mass errorminus="0.02500" errorplus="0.02500">0.29800</mass>
+			<period errorminus="0.01600000" errorplus="0.01600000">41.39700000</period>
+			<semimajoraxis errorminus="0.000042" errorplus="0.000042">0.163506</semimajoraxis>
+			<eccentricity errorminus="0.086000" errorplus="0.086000">0.314000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/04/27</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>218.6</temperature>
 		</planet>
-		<name>HIP 57050</name>
-		<temperature>3190.0</temperature>
 	</star>
 </system>

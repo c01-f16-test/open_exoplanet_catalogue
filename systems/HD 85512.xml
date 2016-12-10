@@ -1,8 +1,8 @@
 <system>
 	<name>HD 85512</name>
-	<rightascension>09 51 07</rightascension>
-	<declination>-43 30 10</declination>
-	<distance>11.15</distance>
+	<rightascension>9 48 187.000008</rightascension>
+	<declination>-43 30 10.0000800</declination>
+	<distance errorminus="0.10" errorplus="0.10">11.15</distance>
 	<star>
 		<mass>0.69</mass>
 		<magV>7.67</magV>
@@ -12,22 +12,24 @@
 		<magJ errorminus="0.018" errorplus="0.018">5.451</magJ>
 		<magH>4.998</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.717</magK>
-		<metallicity>-0.33</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">-0.33</metallicity>
 		<spectraltype>K5V</spectraltype>
+		<name>HD 85512</name>
+		<temperature errorminus="102.0" errorplus="102.0">4715.0</temperature>
+		<age errorminus="0.61" errorplus="0.61">5.61</age>
 		<planet>
 			<name>HD 85512 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.011</mass>
-			<period>58.43</period>
-			<semimajoraxis>0.26</semimajoraxis>
-			<eccentricity>0.11</eccentricity>
+			<mass errorminus="0.00200" errorplus="0.00200">0.01100</mass>
+			<period errorminus="0.13000000" errorplus="0.13000000">58.43000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.260000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.110000</eccentricity>
 			<description>The planet HD 85512 b could be potentially habitable if the planet exhibits more than 50 percent cloud coverage (Kaltenegger et al 2011).</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/08/18</lastupdate>
+			<lastupdate>15/04/16</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>297.4</temperature>
+			<inclination>90.000</inclination>
 		</planet>
-		<name>HD 85512</name>
-		<temperature>4715.0</temperature>
 	</star>
 </system>

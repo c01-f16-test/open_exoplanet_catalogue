@@ -35,6 +35,7 @@
 				<name>KIC 10864656 A b</name>
 				<name>2MASS J19330772+4817092 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.48" errorplus="0.48">4.87</mass>
 				<radius errorminus="0.036" errorplus="0.036">1.120</radius>
 				<period errorminus="0.00021" errorplus="0.00021">52.50097</period>
@@ -47,7 +48,6 @@
 				<lastupdate>14/10/14</lastupdate>
 				<discoveryyear>2014</discoveryyear>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>KOI-1299 c</name>

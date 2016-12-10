@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-736</name>
-	<rightascension>19 01 34</rightascension>
-	<declination>+46 10 51</declination>
+	<rightascension>19 0 93.91704</rightascension>
+	<declination>46 10 51.3804000</declination>
+	<distance>1007.0</distance>
 	<star>
 		<name>Kepler-736</name>
-		<temperature errorminus="50.9" errorplus="50.3">5217.0</temperature>
+		<temperature errorminus="50.86" errorplus="50.31">5217.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.81</radius>
-		<metallicity errorminus="0.18" errorplus="0.17">0.03</metallicity>
+		<metallicity errorminus="0.184" errorplus="0.174">0.03</metallicity>
+		<magH>14.017</magH>
+		<magK>13.82</magK>
+		<magJ>14.385</magJ>
 		<planet>
 			<name>Kepler-736 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005430" errorplus="0.000005430">3.601472010</period>
+			<period errorminus="5.43e-06" errorplus="5.43e-06">3.60147201</period>
 			<radius errorminus="0.047" errorplus="0.015">0.261</radius>
 		</planet>
 	</star>

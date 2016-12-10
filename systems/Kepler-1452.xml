@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1452</name>
-	<rightascension>19 29 41</rightascension>
-	<declination>+38 15 59</declination>
+	<rightascension>19 27 161.479199</rightascension>
+	<declination>38 15 58.7808</declination>
+	<distance>974.0</distance>
 	<star>
 		<name>Kepler-1452</name>
-		<temperature errorminus="112.9" errorplus="90.2">6101.0</temperature>
+		<temperature errorminus="112.92" errorplus="90.21">6101.0</temperature>
 		<mass errorminus="0.14" errorplus="0.11">1.41</mass>
 		<radius errorminus="0.26" errorplus="0.28">2.06</radius>
-		<metallicity errorminus="0.09" errorplus="0.08">0.14</metallicity>
+		<metallicity errorminus="0.093" errorplus="0.081">0.14</metallicity>
+		<magH>11.663</magH>
+		<magK>11.635</magK>
+		<magJ>11.983</magJ>
 		<planet>
 			<name>Kepler-1452 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000368900" errorplus="0.000368900">42.913751000</period>
+			<period errorminus="0.0003689" errorplus="0.0003689">42.913751</period>
 			<radius errorminus="0.031" errorplus="0.035">0.241</radius>
 		</planet>
 	</star>

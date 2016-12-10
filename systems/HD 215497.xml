@@ -1,10 +1,10 @@
 <system>
 	<name>HD 215497</name>
-	<rightascension>22 46 37</rightascension>
-	<declination>-56 35 58</declination>
-	<distance>44</distance>
+	<rightascension>22h46m36.75s</rightascension>
+	<declination>-56d35m58.3s</declination>
+	<distance errorminus="2.51" errorplus="2.25">43.53</distance>
 	<star>
-		<mass>0.87</mass>
+		<mass errorminus="0.02" errorplus="0.02">0.87</mass>
 		<magV>8.97</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.92</magB>
 		<magJ errorminus="0.024" errorplus="0.024">7.339</magJ>
@@ -12,31 +12,31 @@
 		<magK errorminus="0.024" errorplus="0.024">6.784</magK>
 		<metallicity>0.23</metallicity>
 		<spectraltype>K3V</spectraltype>
+		<name>HD 215497</name>
+		<temperature errorminus="93.00" errorplus="93.00">5113.00</temperature>
 		<planet>
 			<name>HD 215497 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.02</mass>
-			<period>3.93404</period>
-			<semimajoraxis>0.047</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass>0.02000</mass>
+			<period errorminus="0.00066000" errorplus="0.00066000">3.93404000</period>
+			<semimajoraxis>0.047000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.090000">0.160000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>984.3</temperature>
 		</planet>
 		<planet>
 			<name>HD 215497 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.33</mass>
-			<period>567.94</period>
-			<semimajoraxis>1.282</semimajoraxis>
-			<eccentricity>0.49</eccentricity>
+			<mass>0.33000</mass>
+			<period errorminus="2.70000000" errorplus="2.70000000">567.94000000</period>
+			<semimajoraxis>1.282000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.040000">0.490000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>14/11/19</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>185.8</temperature>
 		</planet>
-		<name>HD 215497</name>
-		<temperature>5113.0</temperature>
 	</star>
 </system>

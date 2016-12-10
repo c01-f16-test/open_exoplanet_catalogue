@@ -1,10 +1,10 @@
 <system>
 	<name>HAT-P-18</name>
-	<rightascension>17 05 24</rightascension>
-	<declination>+33 00 45</declination>
+	<rightascension>17 3 143.999999</rightascension>
+	<declination>33 0 45.0</declination>
 	<distance errorminus="9" errorplus="9">166</distance>
 	<star>
-		<mass errorminus="0.027" errorplus="0.027">0.770</mass>
+		<mass errorminus="0.031" errorplus="0.031">0.77</mass>
 		<radius errorminus="0.026" errorplus="0.026">0.717</radius>
 		<magV>12.76</magV>
 		<magB>11.9</magB>
@@ -14,24 +14,27 @@
 		<magK errorminus="0.017" errorplus="0.017">10.234</magK>
 		<metallicity errorminus="8" errorplus="8">0.1</metallicity>
 		<spectraltype>K</spectraltype>
+		<name>HAT-P-18</name>
+		<temperature errorminus="50.0" errorplus="50.0">4870.0</temperature>
+		<age errorminus="6.4" errorplus="6.4">12.4</age>
 		<planet>
 			<name>HAT-P-18 b</name>
 			<name>2MASS J17052315+3300450 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.008" errorplus="0.008">0.196</mass>
+			<mass errorminus="0.032" errorplus="0.034">0.183</mass>
 			<radius errorminus="0.044" errorplus="0.044">0.947</radius>
-			<period errorminus="0.000043" errorplus="0.000043">5.507978</period>
+			<period errorminus="4.2e-06" errorplus="4.2e-06">5.508029</period>
 			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0559</semimajoraxis>
-			<eccentricity errorminus="0.009" errorplus="0.03">0.009</eccentricity>
-			<inclination errorminus="0.25" errorplus="0.25">88.79</inclination>
+			<eccentricity errorminus="0.084" errorplus="0.15">0.106</eccentricity>
+			<inclination errorminus="0.21" errorplus="0.21">88.79</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/31</lastupdate>
+			<lastupdate>15/11/12</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature errorminus="15" errorplus="15">841</temperature>
 			<transittime errorminus="0.2174" errorplus="0.2174" unit="BJD">2454715.02174</transittime>
 			<istransiting>1</istransiting>
+			<periastron errorminus="56.0" errorplus="56.0">120.0</periastron>
+			<impactparameter errorplus="0.057">0.324</impactparameter>
 		</planet>
-		<name>HAT-P-18</name>
-		<temperature errorminus="50" errorplus="50">4870</temperature>
 	</star>
 </system>

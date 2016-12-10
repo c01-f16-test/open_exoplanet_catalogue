@@ -59,10 +59,10 @@
 				<name>2MASS J04414489+2301513 B</name>
 				<name>2M0441+2301 Bb</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="1.8" errorplus="1.8">9.8</mass>
 				<separation errorminus="0.0008" errorplus="0.0008" unit="arcsec">0.0966</separation>
 				<separation unit="AU">14</separation>
-				<positionangle errorminus="0.3" errorplus="0.3">132.1</positionangle>
 				<magH errorminus="0.10" errorplus="0.10">15.62</magH>
 				<magK errorminus="0.10" errorplus="0.10">14.94</magK>
 				<spectraltype errorminus="1" errorplus="1">L1</spectraltype>
@@ -71,7 +71,6 @@
 				<lastupdate>15/09/12</lastupdate>
 				<discoveryyear>2010</discoveryyear>
 				<description>2M 044144 b is the lowest-mass member of the quadruple system 2M0441+2301. Despite having a mass below the deuterium-fusion limit, the low mass ratio between 2M 044144 A and B suggests it likely formed by turbulent fragmentation rather than core accretion.</description>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 	</binary>

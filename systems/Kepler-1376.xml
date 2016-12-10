@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1376</name>
-	<rightascension>19 07 50</rightascension>
-	<declination>+42 32 29</declination>
+	<rightascension>19 3 290.024879</rightascension>
+	<declination>42 32 28.9896000</declination>
+	<distance>864.0</distance>
 	<star>
 		<name>Kepler-1376</name>
-		<temperature errorminus="77.4" errorplus="64.1">5659.0</temperature>
+		<temperature errorminus="77.43" errorplus="64.1">5659.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.98</mass>
 		<radius errorminus="0.07" errorplus="0.18">0.97</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">0.07</metallicity>
+		<metallicity errorminus="0.154" errorplus="0.149">0.07</metallicity>
+		<magH>13.165</magH>
+		<magK>13.072</magK>
+		<magJ>13.444</magJ>
 		<planet>
 			<name>Kepler-1376 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000045250" errorplus="0.000045250">5.308806560</period>
+			<period errorminus="4.525e-05" errorplus="4.525e-05">5.30880656</period>
 			<radius errorminus="0.008" errorplus="0.019">0.094</radius>
 		</planet>
 	</star>

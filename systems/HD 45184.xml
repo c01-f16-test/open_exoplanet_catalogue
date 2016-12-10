@@ -12,6 +12,8 @@
 		<magH errorminus="0.020" errorplus="0.020">4.962</magH>
 		<magK errorminus="0.020" errorplus="0.020">4.871</magK>
 		<spectraltype>G1.5V</spectraltype>
+		<name>HD 45184</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 45184 b</name>
 			<list>Confirmed planets</list>
@@ -25,7 +27,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1045.8</temperature>
 		</planet>
-		<name>HD 45184</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

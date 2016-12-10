@@ -26,12 +26,9 @@
 			<temperature errorminus="100" errorplus="100">2700</temperature>
 			<separation errorminus="0.003" errorplus="0.003" unit="arcsec">4.527</separation>
 			<separation errorminus="60" errorplus="60" unit="AU">740</separation>
-			<positionangle errorminus="0.1" errorplus="0.1">140.30</positionangle>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>15/06/10</lastupdate>
 			<discoveryyear>2011</discoveryyear>
-			<image>HIP 78530</image>
-			<imagedescription>This image shows the star HIP 78530 with its companion in the lower left corner. The companion's mass is most likely too large to be a planet. Credit: David Lafreniere (University of Montreal).</imagedescription>
 		</planet>
 	</star>
 </system>

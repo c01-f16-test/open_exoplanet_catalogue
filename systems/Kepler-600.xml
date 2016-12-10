@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-600</name>
-	<rightascension>18 55 20</rightascension>
-	<declination>+41 58 43</declination>
+	<rightascension>18 52 199.934160</rightascension>
+	<declination>41 58 43.1363999</declination>
+	<distance>624.0</distance>
 	<star>
 		<name>Kepler-600</name>
-		<temperature errorminus="92.4" errorplus="104.6">5279.0</temperature>
+		<temperature errorminus="92.37" errorplus="104.56">5279.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.84</mass>
 		<radius errorminus="0.06" errorplus="0.06">0.81</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.09</metallicity>
+		<metallicity errorminus="0.18" errorplus="0.159">-0.09</metallicity>
+		<magH>12.96</magH>
+		<magK>12.812</magK>
+		<magJ>13.387</magJ>
 		<planet>
 			<name>Kepler-600 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000056680" errorplus="0.000056680">23.675176070</period>
+			<period errorminus="5.668e-05" errorplus="5.668e-05">23.67517607</period>
 			<radius errorminus="0.035" errorplus="0.019">0.259</radius>
 		</planet>
 	</star>

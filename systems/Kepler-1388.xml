@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1388</name>
-	<rightascension>18 53 21</rightascension>
-	<declination>+47 10 28</declination>
+	<rightascension>18 52 80.6496000</rightascension>
+	<declination>47 10 28.3259999</declination>
+	<distance>492.0</distance>
 	<star>
 		<name>Kepler-1388</name>
-		<temperature errorminus="51.9" errorplus="48.2">4098.0</temperature>
+		<temperature errorminus="51.9" errorplus="48.16">4098.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.63</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.61</radius>
-		<metallicity errorminus="0.11" errorplus="0.11">0.02</metallicity>
+		<metallicity errorminus="0.107" errorplus="0.11">0.02</metallicity>
+		<magH>13.516</magH>
+		<magK>13.343</magK>
+		<magJ>14.222</magJ>
 		<planet>
 			<name>Kepler-1388 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000087950" errorplus="0.000087950">12.285460300</period>
+			<period errorminus="8.795e-05" errorplus="8.795e-05">12.2854603</period>
 			<radius errorminus="0.012" errorplus="0.012">0.231</radius>
 		</planet>
 		<planet>
@@ -25,23 +29,23 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000028800" errorplus="0.000028800">5.536081510</period>
-			<radius errorminus="0.010" errorplus="0.012">0.202</radius>
+			<period errorminus="2.88e-05" errorplus="2.88e-05">5.53608151</period>
+			<radius errorminus="0.01" errorplus="0.012">0.202</radius>
 		</planet>
 		<planet>
 			<name>Kepler-1388 d</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000171300" errorplus="0.000171300">20.956815800</period>
+			<period errorminus="0.0001713" errorplus="0.0001713">20.9568158</period>
 			<radius errorminus="0.017" errorplus="0.011">0.255</radius>
 		</planet>
 		<planet>
@@ -49,11 +53,11 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000726900" errorplus="0.000726900">37.632708400</period>
+			<period errorminus="0.0007269" errorplus="0.0007269">37.6327084</period>
 			<radius errorminus="0.013" errorplus="0.012">0.219</radius>
 		</planet>
 	</star>

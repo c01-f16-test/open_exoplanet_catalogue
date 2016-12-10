@@ -2,8 +2,8 @@
 	<name>Kepler-83</name>
 	<name>KOI-898</name>
 	<name>KIC 7870390</name>
-	<rightascension>18 48 55</rightascension>
-	<declination>+43 39 56</declination>
+	<rightascension>18 48 55.8031200</rightascension>
+	<declination>43 39 56.2680000</declination>
 	<distance>619.67</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">13.737</magJ>
@@ -12,22 +12,24 @@
 		<name>Kepler-83</name>
 		<name>KOI-898</name>
 		<name>KIC 7870390</name>
-		<temperature errorminus="16" errorplus="116">4648</temperature>
-		<radius errorminus=".033" errorplus="0.033">0.594</radius>
-		<mass errorminus="0.0310" errorplus="0.0310">0.6640</mass>
+		<temperature errorminus="75.0" errorplus="75.0">4164.0</temperature>
+		<radius errorminus="0.011" errorplus="0.011">0.539</radius>
+		<mass errorminus="0.031" errorplus="0.031">0.664</mass>
+		<metallicity>-0.2</metallicity>
+		<magV>16.511</magV>
 		<planet>
 			<name>Kepler-83 b</name>
 			<name>KOI-898 b</name>
 			<name>KOI-898.01</name>
 			<name>KIC 7870390 b</name>
 			<name>KIC 7870390.01</name>
-			<radius errorminus="0.01458" errorplus="0.01458">0.23056</radius>
-			<period errorminus=".000022" errorplus="0.000022">9.770469</period>
+			<radius errorminus="0.037" errorplus="0.037">0.252</radius>
+			<period>9.77000000</period>
 			<transittime errorminus="0.0012700" errorplus="0.0012700">2455008.7123700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-83 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -37,15 +39,16 @@
 			<name>KOI-898.02</name>
 			<name>KIC 7870390 d</name>
 			<name>KIC 7870390.02</name>
-			<radius errorminus="0.01185" errorplus="0.01185">0.17679</radius>
-			<period errorminus=".000016" errorplus="0.000016">5.169796</period>
+			<radius errorminus="0.012" errorplus="0.012">0.173</radius>
+			<period errorminus="0.00001600" errorplus="0.00001600">5.16979600</period>
 			<transittime errorminus="0.0017000" errorplus="0.0017000">2455005.6310000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-83 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.051000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-83 c</name>
@@ -53,13 +56,13 @@
 			<name>KOI-898.03</name>
 			<name>KIC 7870390 c</name>
 			<name>KIC 7870390.03</name>
-			<radius errorminus="0.03190" errorplus="0.03190">0.20960</radius>
-			<period errorminus=".000102" errorplus="0.000102">20.090227</period>
+			<radius errorminus="0.031" errorplus="0.031">0.211</radius>
+			<period>20.09000000</period>
 			<transittime errorminus="0.0030800" errorplus="0.0030800">2454980.9754300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-83 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-83 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>

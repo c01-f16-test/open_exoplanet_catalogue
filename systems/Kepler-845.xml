@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-845</name>
-	<rightascension>19 23 50</rightascension>
-	<declination>+49 12 14</declination>
+	<rightascension>19 19 289.815599</rightascension>
+	<declination>49 12 13.7231999</declination>
+	<distance>471.0</distance>
 	<star>
 		<name>Kepler-845</name>
-		<temperature errorminus="57.5" errorplus="57.5">4913.0</temperature>
+		<temperature errorminus="57.47" errorplus="57.49">4913.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.79</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.159" errorplus="0.146">0.01</metallicity>
+		<magH>12.567</magH>
+		<magK>12.515</magK>
+		<magJ>13.094</magJ>
 		<planet>
 			<name>Kepler-845 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000550" errorplus="0.000000550">0.927859820</period>
+			<period errorminus="5.5e-07" errorplus="5.5e-07">0.92785982</period>
 			<radius errorminus="0.026" errorplus="0.008">0.182</radius>
 		</planet>
 	</star>

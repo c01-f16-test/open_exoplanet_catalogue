@@ -1,36 +1,38 @@
 <system>
 	<name>HD 62509</name>
-	<rightascension>07 45 18</rightascension>
-	<declination>+28 01 34</declination>
-	<distance>10.34</distance>
+	<rightascension>7 44 78.0</rightascension>
+	<declination>28 1 33.99996</declination>
+	<distance errorminus="1.0" errorplus="1.0">10.34</distance>
 	<star>
 		<name>HD 62509</name>
 		<name>Pollux</name>
 		<name>Beta Geminorum</name>
 		<name>Beta Gem</name>
-		<temperature>4666.0</temperature>
-		<mass>1.47</mass>
+		<temperature errorminus="95.0" errorplus="95.0">4666.0</temperature>
+		<mass errorminus="0.45" errorplus="0.45">1.47</mass>
 		<radius>9.3</radius>
 		<magV>1.15</magV>
 		<magB>2.15</magB>
 		<magR>0.6</magR>
 		<magI>0.2</magI>
 		<metallicity>0.19</metallicity>
-		<spectraltype>K0IIIb</spectraltype>
+		<spectraltype> K0IIIb</spectraltype>
 		<planet>
 			<name>HD 62509 b</name>
 			<name>Pollux b</name>
 			<name>Beta Geminorum b</name>
 			<name>Beta Gem b</name>
 			<list>Confirmed planets</list>
-			<mass>2.9</mass>
-			<period>589.64</period>
-			<semimajoraxis>1.69</semimajoraxis>
-			<eccentricity>0.02</eccentricity>
+			<mass errorminus="0.1" errorplus="0.1">2.9</mass>
+			<period errorminus="0.81" errorplus="0.81">589.64</period>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">1.69</semimajoraxis>
+			<eccentricity errorminus="0.03" errorplus="0.03">0.02</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/11</lastupdate>
+			<lastupdate>15/08/21</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>482.6</temperature>
+			<periastron errorminus="95.65" errorplus="95.65">354.58</periastron>
+			<periastrontime errorminus="4.5" errorplus="4.5">2447739.02</periastrontime>
 		</planet>
 	</star>
 </system>

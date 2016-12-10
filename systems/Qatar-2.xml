@@ -1,10 +1,10 @@
 <system>
 	<name>Qatar-2</name>
-	<rightascension>13 50 37</rightascension>
-	<declination>-06 48 14</declination>
+	<rightascension>13h50m37.41s</rightascension>
+	<declination>-06d48m14.5s</declination>
 	<star>
-		<mass>0.74</mass>
-		<radius>0.713</radius>
+		<mass errorminus="0.02" errorplus="0.02">0.74</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.78</radius>
 		<magV>13.3</magV>
 		<magB>14.0</magB>
 		<magR errorminus="0.10" errorplus="0.10">13.45</magR>
@@ -12,26 +12,26 @@
 		<magH errorminus="0.022" errorplus="0.022">10.794</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.619</magK>
 		<spectraltype>K</spectraltype>
+		<name>Qatar-2</name>
+		<temperature errorminus="50.00" errorplus="50.00">4645.00</temperature>
 		<planet>
 			<name>Qatar-2 b</name>
 			<name>GSC 04974-00112 b</name>
 			<name>2MASS J13503740-0648145 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.487</mass>
-			<radius>1.144</radius>
-			<period>1.3371182</period>
-			<semimajoraxis>0.02149</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.3</inclination>
+			<mass errorminus="0.05400" errorplus="0.05400">2.49400</mass>
+			<radius errorminus="0.013" errorplus="0.013">1.254</radius>
+			<period errorminus="0.00000026" errorplus="0.00000026">1.33711647</period>
+			<semimajoraxis errorminus="0.000200" errorplus="0.000200">0.021530</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.080" errorplus="0.080">86.120</inclination>
 			<transittime errorminus="0.00011" errorplus="0.00011" unit="BJD">2455624.26679</transittime>
 			<description>Qatar-2b is a transiting hot Jupiter orbiting a K dwarf and was found by the Qatar Exoplanet Survey (QES). The radial velocity data shows evidence for a second companion with a period of about one year and a mass several times that of Jupiter.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/10/28</lastupdate>
+			<lastupdate>14/11/05</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1179.7</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>Qatar-2</name>
-		<temperature>4645.0</temperature>
 	</star>
 </system>

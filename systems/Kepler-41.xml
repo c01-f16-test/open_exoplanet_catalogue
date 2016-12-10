@@ -1,8 +1,8 @@
 <system>
 	<name>Kepler-41</name>
-	<rightascension>19 38 03</rightascension>
-	<declination>+48 58 54</declination>
-	<distance>771.43</distance>
+	<rightascension>19 36 123.000000</rightascension>
+	<declination>45 58 54.0001200</declination>
+	<distance errorminus="70.0" errorplus="70.0">730.0</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.262</magJ>
 		<magH errorminus="0.024" errorplus="0.024">12.938</magH>
@@ -11,12 +11,13 @@
 		<name>KOI-196</name>
 		<name>KIC 9410930</name>
 		<name>2MASS J19380317+4558539</name>
-		<mass errorminus="0.07" errorplus="0.07">1.12</mass>
-		<radius errorminus="0.03" errorplus="0.03">1.02</radius>
-		<temperature errorminus="140" errorplus="140">5620</temperature>
-		<metallicity errorminus="0.16" errorplus="0.16">0.29</metallicity>
+		<mass errorminus="0.09" errorplus="0.09">0.94</mass>
+		<radius errorminus="0.032" errorplus="0.032">0.966</radius>
+		<temperature errorminus="100.0" errorplus="100.0">5660.0</temperature>
+		<metallicity errorminus="0.16" errorplus="0.16">-0.09</metallicity>
 		<spectraltype>G2V</spectraltype>
-		<age errorminus="1.1" errorplus="1.3">4.4</age>
+		<age errorminus="3.4" errorplus="3.4">7.4</age>
+		<magV>14.5</magV>
 		<planet>
 			<name>Kepler-41 b</name>
 			<name>KOI-196 b</name>
@@ -36,6 +37,19 @@
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<eccentricity>0.0</eccentricity>
+			<lastupdate>16/02/24</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<name>Kepler-41  b</name>
+			<name>KOI-196 b</name>
+			<inclination errorminus="0.7" errorplus="0.7">88.3</inclination>
+			<mass errorminus="0.09" errorplus="0.09">0.49</mass>
+			<discoveryyear>2011</discoveryyear>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.029</semimajoraxis>
+			<period errorminus="7e-06" errorplus="7e-06">1.855558</period>
+			<radius errorminus="0.032" errorplus="0.032">0.841</radius>
 		</planet>
 	</star>
 </system>

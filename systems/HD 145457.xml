@@ -1,11 +1,11 @@
 <system>
 	<name>HD 145457</name>
-	<rightascension>16 10 04</rightascension>
-	<declination>+26 44 34</declination>
-	<distance>126</distance>
+	<rightascension>16h10m03.91s</rightascension>
+	<declination>+26d44m33.9s</declination>
+	<distance errorminus="12.78" errorplus="10.63">126.10</distance>
 	<star>
-		<mass>1.9</mass>
-		<radius>9.9</radius>
+		<mass errorminus="0.30" errorplus="0.30">1.90</mass>
+		<radius errorminus="0.50" errorplus="0.50">9.90</radius>
 		<magV>6.57</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.61</magB>
 		<magR>6.91</magR>
@@ -14,19 +14,19 @@
 		<magK errorminus="0.042" errorplus="0.042">4.122</magK>
 		<metallicity>-0.14</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 145457</name>
+		<temperature errorminus="100.00" errorplus="100.00">4757.00</temperature>
 		<planet>
 			<name>HD 145457 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.9</mass>
-			<period>176.3</period>
-			<semimajoraxis>0.76</semimajoraxis>
-			<eccentricity>0.112</eccentricity>
+			<mass>2.90000</mass>
+			<period errorminus="0.39000000" errorplus="0.39000000">176.30000000</period>
+			<semimajoraxis>0.760000</semimajoraxis>
+			<eccentricity errorminus="0.035000" errorplus="0.035000">0.112000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/05/18</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>756.4</temperature>
 		</planet>
-		<name>HD 145457</name>
-		<temperature>4757.0</temperature>
 	</star>
 </system>

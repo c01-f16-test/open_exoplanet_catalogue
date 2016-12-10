@@ -1,9 +1,9 @@
 <system>
 	<name>HD 20782</name>
 	<name>HD 20781</name>
-	<rightascension>03 20 03.57791</rightascension>
-	<declination>-28 51 14.6651</declination>
-	<distance errorminus="0.36" errorplus="0.36">35.49</distance>
+	<rightascension>3 20 3.00000000</rightascension>
+	<declination>-28 51 14.0000399</declination>
+	<distance errorminus="1.0" errorplus="1.0">36.02</distance>
 	<binary>
 		<name>WDS J03201-2851</name>
 		<separation unit="arcsec">253.00</separation>
@@ -23,26 +23,26 @@
 			<magJ errorminus="0.019" errorplus="0.019">6.229</magJ>
 			<magH errorminus="0.038" errorplus="0.038">5.956</magH>
 			<magK errorminus="0.016" errorplus="0.016">5.827</magK>
-			<spectraltype>G1.5 V</spectraltype>
-			<mass errorminus="0.02" errorplus="0.02">1.02</mass>
+			<spectraltype>G2 V</spectraltype>
+			<mass errorminus="0.03" errorplus="0.03">1.0</mass>
 			<radius errorminus="0.04" errorplus="0.04">1.09</radius>
-			<temperature errorminus="44" errorplus="44">5798</temperature>
-			<metallicity errorminus="0.03" errorplus="0.03">0.01</metallicity>
-			<age errorminus="1.43" errorplus="1.43">5.53</age>
+			<temperature errorminus="30.0" errorplus="30.0">5578.0</temperature>
+			<metallicity errorminus="0.03" errorplus="0.03">-0.05</metallicity>
+			<age errorminus="4.3" errorplus="4.3">7.1</age>
 			<planet>
 				<name>HD 20782 b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass errorminus="0.03" errorplus="0.03" type="msini">1.43</mass>
-				<period errorminus="0.043" errorplus="0.043">597.065</period>
-				<semimajoraxis errorminus="0.009" errorplus="0.009">1.397</semimajoraxis>
-				<eccentricity errorminus="0.004" errorplus="0.004">0.956</eccentricity>
+				<mass errorminus="0.03000" errorplus="0.03000">1.43000</mass>
+				<period errorminus="0.04300000" errorplus="0.04300000">597.06500000</period>
+				<semimajoraxis errorminus="0.009000" errorplus="0.009000">1.397000</semimajoraxis>
+				<eccentricity errorminus="0.004000" errorplus="0.004000">0.956000</eccentricity>
 				<periastron errorminus="2.1" errorplus="2.1">142.1</periastron>
 				<periastrontime errorminus="0.094" errorplus="0.094" unit="BJD">2457038.458</periastrontime>
-				<inclination lowerlimit="1.22" />
+				<inclination lowerlimit="1.22"/>
 				<discoverymethod>RV</discoverymethod>
 				<description>The planet HD 20782 b is orbiting the main sequence star HD 20782, a star in a binary system in which both stars host a planetary systems. This is the first such system.</description>
-				<lastupdate>16/01/10</lastupdate>
+				<lastupdate>16/05/19</lastupdate>
 				<discoveryyear>2006</discoveryyear>
 			</planet>
 		</star>

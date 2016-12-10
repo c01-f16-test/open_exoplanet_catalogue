@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-811</name>
-	<rightascension>19 01 42</rightascension>
-	<declination>+47 50 05</declination>
+	<rightascension>19 0 101.82552</rightascension>
+	<declination>47 50 4.61040000</declination>
+	<distance>847.0</distance>
 	<star>
 		<name>Kepler-811</name>
-		<temperature errorminus="57.0" errorplus="64.5">5747.0</temperature>
+		<temperature errorminus="57.04" errorplus="64.53">5747.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">1.01</mass>
 		<radius errorminus="0.21" errorplus="0.26">1.24</radius>
-		<metallicity errorminus="0.06" errorplus="0.08">0.05</metallicity>
+		<metallicity errorminus="0.059" errorplus="0.08">0.05</metallicity>
+		<magH>12.529</magH>
+		<magK>12.462</magK>
+		<magJ>12.852</magJ>
 		<planet>
 			<name>Kepler-811 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000076010" errorplus="0.000076010">23.584476970</period>
+			<period errorminus="7.601e-05" errorplus="7.601e-05">23.58447697</period>
 			<radius errorminus="0.043" errorplus="0.061">0.241</radius>
 		</planet>
 	</star>

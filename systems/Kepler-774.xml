@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-774</name>
-	<rightascension>19 24 08</rightascension>
-	<declination>+38 12 43</declination>
+	<rightascension>19 23 67.6631999</rightascension>
+	<declination>38 12 43.0416000</declination>
+	<distance>1190.0</distance>
 	<star>
 		<name>Kepler-774</name>
-		<temperature errorminus="76.7" errorplus="86.2">6403.0</temperature>
+		<temperature errorminus="76.7" errorplus="86.23">6403.0</temperature>
 		<mass errorminus="0.14" errorplus="0.11">1.57</mass>
 		<radius errorminus="0.41" errorplus="0.34">2.42</radius>
-		<metallicity errorminus="0.04" errorplus="0.08">0.04</metallicity>
+		<metallicity errorminus="0.043" errorplus="0.076">0.04</metallicity>
+		<magH>11.652</magH>
+		<magK>11.64</magK>
+		<magJ>11.902</magJ>
 		<planet>
 			<name>Kepler-774 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000043730" errorplus="0.000043730">11.089572300</period>
+			<period errorminus="4.373e-05" errorplus="4.373e-05">11.0895723</period>
 			<radius errorminus="0.048" errorplus="0.041">0.283</radius>
 		</planet>
 	</star>

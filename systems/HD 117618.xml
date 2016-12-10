@@ -1,7 +1,7 @@
 <system>
 	<name>HD 117618</name>
-	<rightascension>13 32 25</rightascension>
-	<declination>-47 16 16</declination>
+	<rightascension>13 31 85.0000079</rightascension>
+	<declination>-47 16 15.9999600</declination>
 	<distance>38</distance>
 	<star>
 		<mass>1.05</mass>
@@ -13,17 +13,22 @@
 		<magB errorminus="0.01" errorplus="0.01">7.77</magB>
 		<metallicity>0.04</metallicity>
 		<spectraltype>G2V</spectraltype>
+		<name>HD 117618</name>
+		<temperature>5861.0</temperature>
+		<age>3.88</age>
 		<planet>
 			<name>HD 117618 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.178</mass>
-			<period>25.827</period>
-			<semimajoraxis>0.176</semimajoraxis>
-			<eccentricity>0.42</eccentricity>
+			<mass errorminus="0.02" errorplus="0.02">0.178</mass>
+			<period errorminus="0.02" errorplus="0.02">25.827</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.176</semimajoraxis>
+			<eccentricity errorminus="0.02" errorplus="0.02">0.42</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/06</lastupdate>
+			<lastupdate>16/01/15</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>664.2</temperature>
+			<periastron errorminus="19.0" errorplus="19.0">245.0</periastron>
+			<periastrontime errorminus="1.8" errorplus="1.8">2450832.2</periastrontime>
 		</planet>
 		<planet>
 			<name>HD 117618.02</name>
@@ -39,7 +44,16 @@
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>15/04/23</lastupdate>
 		</planet>
-		<name>HD 117618</name>
-		<temperature>5861.0</temperature>
+		<planet>
+			<eccentricity errorminus="0.26" errorplus="0.26">0.0</eccentricity>
+			<periastron errorminus="29.0" errorplus="29.0">360.0</periastron>
+			<lastupdate>13/07/04</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<name>HD 117618 c</name>
+			<mass errorminus="0.1" errorplus="0.1">0.2</mass>
+			<discoveryyear>2013</discoveryyear>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">0.93</semimajoraxis>
+			<period errorminus="2.0" errorplus="2.0">318.0</period>
+		</planet>
 	</star>
 </system>

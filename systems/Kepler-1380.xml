@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1380</name>
-	<rightascension>19 12 28</rightascension>
-	<declination>+42 26 26</declination>
+	<rightascension>19 11 87.8527199</rightascension>
+	<declination>42 26 25.5191999</declination>
+	<distance>1209.0</distance>
 	<star>
 		<name>Kepler-1380</name>
-		<temperature errorminus="82.2" errorplus="64.3">5570.0</temperature>
+		<temperature errorminus="82.2" errorplus="64.32">5570.0</temperature>
 		<mass errorminus="0.04" errorplus="0.05">0.96</mass>
 		<radius errorminus="0.06" errorplus="0.16">0.94</radius>
-		<metallicity errorminus="0.15" errorplus="0.16">0.10</metallicity>
+		<metallicity errorminus="0.149" errorplus="0.159">0.1</metallicity>
+		<magH>14.003</magH>
+		<magK>13.883</magK>
+		<magJ>14.31</magJ>
 		<planet>
 			<name>Kepler-1380 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000104200" errorplus="0.000104200">10.310824500</period>
-			<radius errorminus="0.010" errorplus="0.023">0.128</radius>
+			<period errorminus="0.0001042" errorplus="0.0001042">10.3108245</period>
+			<radius errorminus="0.01" errorplus="0.023">0.128</radius>
 		</planet>
 	</star>
 </system>

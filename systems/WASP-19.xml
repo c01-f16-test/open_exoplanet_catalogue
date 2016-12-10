@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-19</name>
-	<rightascension>09 53 40</rightascension>
-	<declination>-45 39 33</declination>
+	<rightascension>9 52 100.000008</rightascension>
+	<declination>-45 39 33.0001200</declination>
 	<distance errorminus="60" errorplus="80">250</distance>
 	<star>
-		<mass>0.97</mass>
-		<radius>0.99</radius>
+		<mass errorminus="0.045" errorplus="0.045">0.904</mass>
+		<radius errorminus="0.018" errorplus="0.018">1.004</radius>
 		<magV>12.3</magV>
 		<magB errorminus="0.35" errorplus="0.35">13.58</magB>
 		<magR errorminus="0.07" errorplus="0.07">12.17</magR>
@@ -13,26 +13,27 @@
 		<magJ errorminus="0.026" errorplus="0.026">10.911</magJ>
 		<magH errorminus="0.022" errorplus="0.022">10.602</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.481</magK>
-		<metallicity>0.02</metallicity>
+		<metallicity errorminus="0.09" errorplus="0.09">0.02</metallicity>
 		<spectraltype>G8V</spectraltype>
+		<name>WASP-19</name>
+		<temperature errorminus="100.0" errorplus="100.0">5500.0</temperature>
+		<age errorminus="2.7" errorplus="2.7">11.5</age>
 		<planet>
 			<name>WASP-19 b</name>
 			<name>2MASS J09534008-4539330 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.168</mass>
-			<radius>1.386</radius>
-			<period>0.78884</period>
-			<semimajoraxis>0.01655</semimajoraxis>
-			<eccentricity>0.0046</eccentricity>
-			<inclination>79.4</inclination>
+			<mass errorminus="0.03700" errorplus="0.03800">1.06900</mass>
+			<radius errorminus="0.040" errorplus="0.040">1.392</radius>
+			<period errorminus="0.00000004" errorplus="0.00000004">0.78883899</period>
+			<semimajoraxis errorminus="0.000240" errorplus="0.000240">0.016340</semimajoraxis>
+			<eccentricity errorminus="0.002000" errorplus="0.014000">0.002000</eccentricity>
+			<inclination errorminus="0.580" errorplus="0.580">78.780</inclination>
 			<transittime errorminus="0.00010" errorplus="0.00010" unit="BJD">2455252.58584</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/07/05</lastupdate>
+			<lastupdate>16/08/18</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1911.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-19</name>
-		<temperature>5500.0</temperature>
 	</star>
 </system>

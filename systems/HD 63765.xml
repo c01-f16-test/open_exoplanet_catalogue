@@ -1,8 +1,8 @@
 <system>
 	<name>HD 63765</name>
-	<rightascension>07 47 50</rightascension>
-	<declination>-54 15 51</declination>
-	<distance>32.6</distance>
+	<rightascension>07h47m49.72s</rightascension>
+	<declination>-54d15m50.9s</declination>
+	<distance errorminus="0.75" errorplus="0.72">32.62</distance>
 	<star>
 		<mass>0.865</mass>
 		<magV>8.1</magV>
@@ -12,19 +12,19 @@
 		<magK errorminus="0.021" errorplus="0.021">6.316</magK>
 		<metallicity>-0.16</metallicity>
 		<spectraltype>G9V</spectraltype>
+		<name>HD 63765</name>
+		<temperature>5432.0</temperature>
 		<planet>
 			<name>HD 63765 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.64</mass>
-			<period>358</period>
-			<semimajoraxis>0.949</semimajoraxis>
-			<eccentricity>0.24</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.05000">0.64000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">358.00000000</period>
+			<semimajoraxis errorminus="0.016000" errorplus="0.016000">0.940000</semimajoraxis>
+			<eccentricity errorminus="0.043000" errorplus="0.043000">0.240000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/07/05</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>222.6</temperature>
 		</planet>
-		<name>HD 63765</name>
-		<temperature>5432.0</temperature>
 	</star>
 </system>

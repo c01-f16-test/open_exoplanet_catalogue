@@ -1,11 +1,11 @@
 <system>
 	<name>WD 0806-661</name>
 	<name>GJ 3483</name>
-	<rightascension>08 06 53.736</rightascension>
-	<declination>-66 18 16.74</declination>
-	<distance>19.2</distance>
+	<rightascension>08h06m53.74s</rightascension>
+	<declination>-66d18m16.7s</declination>
+	<distance errorminus="0.60" errorplus="0.60">19.20</distance>
 	<star>
-		<mass>0.62</mass>
+		<mass errorminus="0.03" errorplus="0.03">0.62</mass>
 		<magB>13.76</magB>
 		<magV>13.70</magV>
 		<magR>13.66</magR>
@@ -14,6 +14,9 @@
 		<magH errorminus="0.025" errorplus="0.025">13.739</magH>
 		<magK errorminus="0.043" errorplus="0.043">13.781</magK>
 		<spectraltype>DQ D</spectraltype>
+		<name>WD 0806-661</name>
+		<name>GJ 3483</name>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>WD 0806-661 B</name>
 			<name>GJ 3483 B</name>
@@ -23,13 +26,16 @@
 			<spectraltype>Y</spectraltype>
 			<separation errorminus="0.2" errorplus="0.2" unit="arcsec">130.2</separation>
 			<separation unit="AU">2500</separation>
-			<positionangle errorminus="0.2" errorplus="0.2">104.2</positionangle>
 			<discoverymethod>imaging</discoverymethod>
 			<lastupdate>11/04/22</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 		</planet>
-		<name>WD 0806-661</name>
-		<name>GJ 3483</name>
-		<temperature>5700.0</temperature>
+		<planet>
+			<mass errorminus="1.50000" errorplus="1.50000">7.50000</mass>
+			<lastupdate>14/05/14</lastupdate>
+			<discoverymethod>imaging</discoverymethod>
+			<name>WD 0806-661 b</name>
+			<semimajoraxis>2500.000000</semimajoraxis>
+		</planet>
 	</star>
 </system>

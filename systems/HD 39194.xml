@@ -10,6 +10,8 @@
 		<magH errorminus="0.031" errorplus="0.031">6.212</magH>
 		<magK errorminus="0.020" errorplus="0.020">6.094</magK>
 		<spectraltype>K0V</spectraltype>
+		<name>HD 39194</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>HD 39194 b</name>
 			<list>Confirmed planets</list>
@@ -49,7 +51,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>484.1</temperature>
 		</planet>
-		<name>HD 39194</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

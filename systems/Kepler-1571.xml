@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1571</name>
-	<rightascension>20 03 44</rightascension>
-	<declination>+45 35 48</declination>
+	<rightascension>20 0 224.497439</rightascension>
+	<declination>45 35 47.5655999</declination>
+	<distance>802.0</distance>
 	<star>
 		<name>Kepler-1571</name>
-		<temperature errorminus="313.5" errorplus="339.1">6297.0</temperature>
+		<temperature errorminus="313.54" errorplus="339.05">6297.0</temperature>
 		<mass errorminus="0.16" errorplus="0.25">1.23</mass>
-		<radius errorminus="0.30" errorplus="0.62">1.39</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">0.04</metallicity>
+		<radius errorminus="0.3" errorplus="0.62">1.39</radius>
+		<metallicity errorminus="0.161" errorplus="0.13">0.04</metallicity>
+		<magH>12.151</magH>
+		<magK>12.044</magK>
+		<magJ>12.477</magJ>
 		<planet>
 			<name>Kepler-1571 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000015950" errorplus="0.000015950">3.385554880</period>
-			<radius errorminus="0.030" errorplus="0.061">0.136</radius>
+			<period errorminus="1.595e-05" errorplus="1.595e-05">3.38555488</period>
+			<radius errorminus="0.03" errorplus="0.061">0.136</radius>
 		</planet>
 	</star>
 </system>

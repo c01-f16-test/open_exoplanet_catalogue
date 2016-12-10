@@ -1,31 +1,35 @@
 <system>
 	<name>HD 33283</name>
-	<rightascension>05 08 01</rightascension>
-	<declination>-26 47 50</declination>
-	<distance>86</distance>
+	<rightascension>5 8 1.00000800</rightascension>
+	<declination>-26 47 49.9999199</declination>
+	<distance>86.0</distance>
 	<star>
-		<mass>1.24</mass>
-		<radius>1.2</radius>
+		<mass errorminus="0.1" errorplus="0.1">1.24</mass>
+		<radius errorminus="0.1" errorplus="0.1">1.2</radius>
 		<magV>8.05</magV>
 		<magB errorminus="0.007" errorplus="0.007">8.640</magB>
 		<magJ errorminus="0.029" errorplus="0.029">6.983</magJ>
 		<magH errorminus="0.027" errorplus="0.027">6.729</magH>
 		<magK errorminus="0.033" errorplus="0.033">6.646</magK>
-		<metallicity>0.366</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.366</metallicity>
 		<spectraltype>G3V</spectraltype>
+		<name>HD 33283</name>
+		<temperature errorminus="50.0" errorplus="50.0">5995.0</temperature>
+		<age errorminus="2.3" errorplus="2.3">3.2</age>
 		<planet>
 			<name>HD 33283 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.33</mass>
-			<period>18.179</period>
+			<period errorminus="0.008" errorplus="0.008">18.1801</period>
 			<semimajoraxis>0.168</semimajoraxis>
-			<eccentricity>0.48</eccentricity>
+			<eccentricity errorminus="0.0656" errorplus="0.0569">0.458</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/04/18</lastupdate>
+			<lastupdate>15/02/16</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>695.7</temperature>
+			<periastron errorminus="9.6" errorplus="9.6">156.0</periastron>
+			<periastrontime errorminus="0.3" errorplus="0.3">2453560.0</periastrontime>
+			<radius>0.99</radius>
 		</planet>
-		<name>HD 33283</name>
-		<temperature>5995.0</temperature>
 	</star>
 </system>

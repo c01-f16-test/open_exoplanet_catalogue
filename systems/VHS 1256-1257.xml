@@ -13,7 +13,7 @@
 		<magJ errorminus="0.023" errorplus="0.023">11.018</magJ>
 		<magH errorminus="0.023" errorplus="0.023">10.473</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.044</magK>
-		<age lowerlimit="0.150" upperlimit="0.300" />
+		<age lowerlimit="0.150" upperlimit="0.300"/>
 		<temperature errorminus="140" errorplus="140">2620</temperature>
 		<mass errorminus="0.014" errorplus="0.019">0.070</mass>
 		<spectraltype errorminus="0.5" errorplus="0.5">M7.5</spectraltype>
@@ -24,7 +24,6 @@
 			<list>Confirmed planets</list>
 			<separation errorminus="0.03" errorplus="0.03" unit="arcsec">8.06</separation>
 			<separation errorminus="9" errorplus="9" unit="AU">102</separation>
-			<positionangle errorminus="0.2" errorplus="0.2">218.1</positionangle>
 			<magJ errorminus="0.287" errorplus="0.287">16.662</magJ>
 			<magH errorminus="0.209" errorplus="0.209">15.595</magH>
 			<magK errorminus="0.121" errorplus="0.121">14.568</magK>

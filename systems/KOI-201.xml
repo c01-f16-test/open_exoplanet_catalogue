@@ -20,7 +20,7 @@
 			<period errorminus="0.000000268" errorplus="0.000000268">4.225384512</period>
 			<transittime errorminus="0.0000534" errorplus="0.0000534" unit="BJD">2454970.5606743</transittime>
 			<radius errorminus="0.06" errorplus="0.16">0.82</radius>
-			<mass upperlimit="0.6" />
+			<mass upperlimit="0.6"/>
 			<lastupdate>15/12/03</lastupdate>
 			<istransiting>1</istransiting>
 			<discoverymethod>transit</discoverymethod>

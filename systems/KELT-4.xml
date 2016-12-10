@@ -7,6 +7,18 @@
 		<separation unit="arcsec">1.5</separation>
 		<separation errorminus="16" errorplus="16" unit="AU">328</separation>
 		<period errorminus="105923" errorplus="105923">1380645</period>
+		<binary>
+			<name>KELT-4BC</name>
+			<separation unit="arcsec">0.034</separation>
+			<separation errorminus="0.74" errorplus="0.74" unit="AU">10.3</separation>
+			<period errorminus="1315" errorplus="1315">10738</period>
+			<star>
+				<name>KELT-4B</name>
+			</star>
+			<star>
+				<name>KELT-4C</name>
+			</star>
+		</binary>
 		<star>
 			<name>KELT-4A</name>
 			<name>BD+26 2091</name>
@@ -46,17 +58,5 @@
 				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
-		<binary>
-			<name>KELT-4BC</name>
-			<separation unit="arcsec">0.034</separation>
-			<separation errorminus="0.74" errorplus="0.74" unit="AU">10.3</separation>
-			<period errorminus="1315" errorplus="1315">10738</period>
-			<star>
-				<name>KELT-4B</name>
-			</star>
-			<star>
-				<name>KELT-4C</name>
-			</star>
-		</binary>
 	</binary>
 </system>

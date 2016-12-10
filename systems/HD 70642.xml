@@ -1,10 +1,10 @@
 <system>
 	<name>HD 70642</name>
-	<rightascension>08 21 28</rightascension>
-	<declination>-39 42 19</declination>
-	<distance>28.8</distance>
+	<rightascension>08h21m28.14s</rightascension>
+	<declination>-39d42m19.5s</declination>
+	<distance errorminus="0.50" errorplus="0.49">28.76</distance>
 	<star>
-		<mass>1</mass>
+		<mass>1.05</mass>
 		<radius>0.84</radius>
 		<magV>7.17</magV>
 		<magB>7.89</magB>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.020" errorplus="0.020">5.574</magK>
 		<metallicity>0.16</metallicity>
 		<spectraltype>G5 IV-V</spectraltype>
+		<name>HD 70642</name>
+		<temperature>5706.00</temperature>
 		<planet>
 			<name>HD 70642 b</name>
 			<list>Confirmed planets</list>
-			<mass>2</mass>
-			<period>2231</period>
-			<semimajoraxis>3.3</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.18000" errorplus="0.18000">1.97000</mass>
+			<period errorminus="39.00000000" errorplus="39.00000000">2068.00000000</period>
+			<semimajoraxis errorminus="0.190000" errorplus="0.190000">3.230000</semimajoraxis>
+			<eccentricity errorminus="0.043000" errorplus="0.043000">0.034000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/01</lastupdate>
+			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>126.1</temperature>
 		</planet>
-		<name>HD 70642</name>
-		<temperature>5670.0</temperature>
 	</star>
 </system>

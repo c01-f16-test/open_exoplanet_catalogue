@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1541</name>
-	<rightascension>18 55 09</rightascension>
-	<declination>+48 01 46</declination>
+	<rightascension>18 52 188.880960</rightascension>
+	<declination>48 1 46.4304000</declination>
+	<distance>414.0</distance>
 	<star>
 		<name>Kepler-1541</name>
-		<temperature errorminus="78.6" errorplus="75.1">5282.0</temperature>
+		<temperature errorminus="78.58" errorplus="75.06">5282.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.81</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">-0.04</metallicity>
+		<metallicity errorminus="0.164" errorplus="0.152">-0.04</metallicity>
+		<magH>12.029</magH>
+		<magK>11.927</magK>
+		<magJ>12.451</magJ>
 		<planet>
 			<name>Kepler-1541 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000026980" errorplus="0.000026980">8.406911990</period>
+			<period errorminus="2.698e-05" errorplus="2.698e-05">8.40691199</period>
 			<radius errorminus="0.007" errorplus="0.009">0.103</radius>
 		</planet>
 	</star>

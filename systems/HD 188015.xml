@@ -22,6 +22,7 @@
 				<name>HD 188015 A b</name>
 				<name>HD 188015 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.26</mass>
 				<period>456.46</period>
 				<semimajoraxis>1.19</semimajoraxis>
@@ -30,7 +31,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>12/12/08</lastupdate>
 				<discoveryyear>2004</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

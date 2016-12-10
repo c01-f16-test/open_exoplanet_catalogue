@@ -2,8 +2,8 @@
 	<name>Kepler-335</name>
 	<name>KOI-1915</name>
 	<name>KIC 9101496</name>
-	<rightascension>19 44 15</rightascension>
-	<declination>+45 25 43</declination>
+	<rightascension>19 44 15.4321440</rightascension>
+	<declination>45 25 43.0427999</declination>
 	<distance>1361.65</distance>
 	<star>
 		<magJ errorminus="0.020" errorplus="0.020">12.848</magJ>
@@ -12,23 +12,26 @@
 		<name>Kepler-335</name>
 		<name>KOI-1915</name>
 		<name>KIC 9101496</name>
-		<temperature errorminus="12" errorplus="112">5877</temperature>
-		<radius errorminus=".350" errorplus="0.350">1.854</radius>
+		<temperature errorminus="112.0" errorplus="112.0">5877.0</temperature>
+		<radius errorminus="0.35" errorplus="0.35">1.85</radius>
+		<mass>0.99</mass>
+		<metallicity>-0.106</metallicity>
 		<planet>
 			<name>Kepler-335 b</name>
 			<name>KOI-1915 b</name>
 			<name>KOI-1915.01</name>
 			<name>KIC 9101496 b</name>
 			<name>KIC 9101496.01</name>
-			<radius errorminus="0.06106" errorplus="0.06106">0.30893</radius>
-			<period errorminus=".000031" errorplus="0.000031">6.562331</period>
+			<radius errorminus="0.060" errorplus="0.060">0.302</radius>
+			<period errorminus="0.00003100" errorplus="0.00003100">6.56233100</period>
 			<transittime errorminus="0.0027800" errorplus="0.0027800">2454965.6063500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-335 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-335 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.075000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-335 c</name>
@@ -36,15 +39,16 @@
 			<name>KOI-1915.02</name>
 			<name>KIC 9101496 c</name>
 			<name>KIC 9101496.02</name>
-			<radius errorminus="0.06015" errorplus="0.06015">0.27977</radius>
-			<period errorminus=".001423" errorplus="0.001423">67.844469</period>
+			<radius errorminus="0.059" errorplus="0.059">0.274</radius>
+			<period errorminus="0.00142300" errorplus="0.00142300">67.84446900</period>
 			<transittime errorminus="0.0128500" errorplus="0.0128500">2454982.4992800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-335 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-335 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.356000</semimajoraxis>
 		</planet>
 	</star>
 </system>

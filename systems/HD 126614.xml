@@ -36,6 +36,7 @@
 				<planet>
 					<name>HD 126614 A b</name>
 					<list>Confirmed planets</list>
+					<list>Planets in binary systems, S-type</list>
 					<mass errorminus="0.04" errorplus="0.04" type="msini">0.38</mass>
 					<period errorminus="17" errorplus="17">1244</period>
 					<semimajoraxis errorminus="0.02" errorplus="0.02">2.35</semimajoraxis>
@@ -45,7 +46,6 @@
 					<discoverymethod>RV</discoverymethod>
 					<lastupdate>16/03/09</lastupdate>
 					<discoveryyear>2010</discoveryyear>
-					<list>Planets in binary systems, S-type</list>
 				</planet>
 			</star>
 			<star>

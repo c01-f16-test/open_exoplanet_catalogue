@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-656</name>
-	<rightascension>19 13 19</rightascension>
-	<declination>+47 22 54</declination>
+	<rightascension>19 11 138.695759</rightascension>
+	<declination>47 22 53.7311999</declination>
+	<distance>867.0</distance>
 	<star>
 		<name>Kepler-656</name>
-		<temperature errorminus="58.8" errorplus="63.3">5281.0</temperature>
+		<temperature errorminus="58.78" errorplus="63.29">5281.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.86</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.82</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.04</metallicity>
+		<metallicity errorminus="0.172" errorplus="0.15">-0.04</metallicity>
+		<magH>13.616</magH>
+		<magK>13.503</magK>
+		<magJ>14.054</magJ>
 		<planet>
 			<name>Kepler-656 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000660" errorplus="0.000000660">1.260259090</period>
-			<radius errorminus="0.030" errorplus="0.019">0.278</radius>
+			<period errorminus="6.6e-07" errorplus="6.6e-07">1.26025909</period>
+			<radius errorminus="0.03" errorplus="0.019">0.278</radius>
 		</planet>
 	</star>
 </system>

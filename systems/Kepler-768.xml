@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-768</name>
-	<rightascension>19 36 28</rightascension>
-	<declination>+38 23 37</declination>
+	<rightascension>19 36 27.7574400</rightascension>
+	<declination>38 23 36.5459999</declination>
+	<distance>795.0</distance>
 	<star>
 		<name>Kepler-768</name>
-		<temperature errorminus="165.0" errorplus="177.5">5108.0</temperature>
+		<temperature errorminus="165.03" errorplus="177.47">5108.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.82</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.03</metallicity>
+		<metallicity errorminus="0.168" errorplus="0.153">-0.03</metallicity>
+		<magH>13.627</magH>
+		<magK>13.514</magK>
+		<magJ>14.121</magJ>
 		<planet>
 			<name>Kepler-768 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000074990" errorplus="0.000074990">11.391002500</period>
-			<radius errorminus="0.012" errorplus="0.018">0.160</radius>
+			<period errorminus="7.499e-05" errorplus="7.499e-05">11.3910025</period>
+			<radius errorminus="0.012" errorplus="0.018">0.16</radius>
 		</planet>
 	</star>
 </system>

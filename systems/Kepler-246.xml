@@ -2,34 +2,36 @@
 	<name>Kepler-246</name>
 	<name>KOI-874</name>
 	<name>KIC 7134976</name>
-	<rightascension>19 45 56</rightascension>
-	<declination>+42 39 48</declination>
+	<rightascension>19 44 116.022948</rightascension>
+	<declination>42 39 48.3443999</declination>
 	<distance>768.87</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">13.587</magJ>
-		<magH errorminus="0.026" errorplus="0.026">13.150</magH>
-		<magK errorminus="0.03" errorplus="0.03">13.04</magK>
+		<magH>13.15</magH>
+		<magK>13.038</magK>
 		<name>Kepler-246</name>
 		<name>KOI-874</name>
 		<name>KIC 7134976</name>
 		<temperature errorminus="200" errorplus="200">5206</temperature>
-		<radius errorminus=".422" errorplus="0.422">0.831</radius>
-		<mass errorminus="0.0660" errorplus="0.0660">0.7590</mass>
+		<radius errorminus="0.42" errorplus="0.42">0.83</radius>
+		<mass>0.86</mass>
+		<metallicity>0.143</metallicity>
 		<planet>
 			<name>Kepler-246 b</name>
 			<name>KOI-874 b</name>
 			<name>KOI-874.01</name>
 			<name>KIC 7134976 b</name>
 			<name>KIC 7134976.01</name>
-			<radius errorminus="0.01823" errorplus="0.10936">0.21324</radius>
-			<period errorminus=".000008" errorplus="0.000008">4.601820</period>
+			<radius errorminus="0.107" errorplus="0.107">0.209</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">4.60182000</period>
 			<transittime errorminus="0.0009600" errorplus="0.0009600">2455002.9788700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-246 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-246 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.052000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-246 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-874.02</name>
 			<name>KIC 7134976 c</name>
 			<name>KIC 7134976.02</name>
-			<radius errorminus="0.06926" errorplus="0.06926">0.13670</radius>
-			<period errorminus=".000075" errorplus="0.000075">11.187161</period>
+			<radius errorminus="0.068" errorplus="0.068">0.134</radius>
+			<period errorminus="0.00007500" errorplus="0.00007500">11.18716100</period>
 			<transittime errorminus="0.0041500" errorplus="0.0041500">2454970.1817200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-246 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-246 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.095000</semimajoraxis>
 		</planet>
 	</star>
 </system>

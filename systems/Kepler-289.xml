@@ -2,8 +2,8 @@
 	<name>Kepler-289</name>
 	<name>KOI-1353</name>
 	<name>KIC 7303287</name>
-	<rightascension>19 49 51</rightascension>
-	<declination>+42 52 58</declination>
+	<rightascension>19 48 111.679704</rightascension>
+	<declination>42 52 58.2636000</declination>
 	<distance errorminus="14" errorplus="14">700</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">12.861</magJ>
@@ -14,9 +14,11 @@
 		<name>KIC 7303287</name>
 		<name>PH3</name>
 		<temperature errorminus="38" errorplus="38">5990</temperature>
-		<radius errorminus="0.02" errorplus="0.02">1.00</radius>
+		<radius errorminus="0.02" errorplus="0.02">1.0</radius>
 		<mass errorminus="0.02" errorplus="0.02">1.08</mass>
 		<metallicity errorminus="0.04" errorplus="0.04">0.05</metallicity>
+		<age errorminus="0.44" errorplus="0.44">0.65</age>
+		<magV>12.9</magV>
 		<planet>
 			<name>Kepler-289 b</name>
 			<name>KOI-1353 b</name>
@@ -26,34 +28,40 @@
 			<name>PH3 b</name>
 			<mass errorminus="0.021" errorplus="0.021">0.023</mass>
 			<radius errorminus="0.009" errorplus="0.009">0.192</radius>
-			<period errorminus="0.0005" errorplus="0.0005">34.5450</period>
+			<period errorminus="0.0005" errorplus="0.0005">34.545</period>
 			<transittime errorminus="0.0040" errorplus="0.0040">2454965.6404</transittime>
 			<semimajoraxis errorminus="0.01" errorplus="0.01">0.21</semimajoraxis>
-			<inclination errorminus="0.48" errorplus="0.30">89.59</inclination>
+			<inclination errorminus="0.48" errorplus="0.3">89.59</inclination>
 			<list>Confirmed planets</list>
 			<description>Kepler-289 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-289 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/02/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.024" errorplus="0.024">0.024</eccentricity>
+			<periastron>28.0</periastron>
+			<impactparameter errorplus="0.68">0.04</impactparameter>
 		</planet>
 		<planet>
 			<name>PH3 c</name>
 			<name>Kepler-289 d</name>
 			<name>KOI-1353 d</name>
 			<name>KIC 7303287 d</name>
-			<mass errorminus="0.003" errorplus="0.003">0.013</mass>
-			<radius errorminus="0.015" errorplus="0.015">0.239</radius>
-			<period errorminus="0.0114" errorplus="0.0114">66.0634</period>
+			<mass errorminus="0.053" errorplus="0.053">0.415</mass>
+			<radius errorminus="0.017" errorplus="0.017">1.034</radius>
+			<period errorminus="0.0076" errorplus="0.0076">125.8518</period>
 			<transittime errorminus="0.0068" errorplus="0.0068">2454975.6436</transittime>
-			<semimajoraxis errorminus="0.02" errorplus="0.02">0.33</semimajoraxis>
-			<inclination errorminus="0.38" errorplus="0.20">89.73</inclination>
+			<semimajoraxis errorminus="0.03" errorplus="0.03">0.51</semimajoraxis>
+			<inclination errorminus="0.017" errorplus="0.017">89.794</inclination>
 			<list>Confirmed planets</list>
 			<description>Although this system was previously known to host at least two planets, the third planet, PH3 c, was first spotted by citizen scientists using the Planet Hunters website.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/11/01</lastupdate>
+			<lastupdate>16/02/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.0033</eccentricity>
+			<periastron>45.0</periastron>
+			<impactparameter errorplus="0.02">0.394</impactparameter>
 		</planet>
 		<planet>
 			<name>Kepler-289 c</name>
@@ -62,18 +70,21 @@
 			<name>KIC 7303287 c</name>
 			<name>KIC 7303287.01</name>
 			<name>PH3 d</name>
-			<mass errorminus="0.053" errorplus="0.053">0.415</mass>
-			<radius errorminus="0.017" errorplus="0.017">1.034</radius>
-			<period errorminus="0.0076" errorplus="0.0076">125.8518</period>
+			<mass errorminus="0.003" errorplus="0.003">0.013</mass>
+			<radius errorminus="0.015" errorplus="0.015">0.239</radius>
+			<period errorminus="0.0114" errorplus="0.0114">66.0634</period>
 			<transittime errorminus="0.0077" errorplus="0.0077">2455069.6528</transittime>
-			<semimajoraxis errorminus="0.03" errorplus="0.03">0.51</semimajoraxis>
-			<inclination errorminus="0.016" errorplus="0.017">89.794</inclination>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">0.33</semimajoraxis>
+			<inclination errorminus="0.38" errorplus="0.2">89.73</inclination>
 			<list>Confirmed planets</list>
 			<description>Kepler-289 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-289 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/02/12</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<eccentricity>0.0115</eccentricity>
+			<periastron>72.0</periastron>
+			<impactparameter errorplus="0.76">0.05</impactparameter>
 		</planet>
 	</star>
 </system>

@@ -13,6 +13,8 @@
 		<magB errorminus="0.01" errorplus="0.01">6.43</magB>
 		<metallicity>-0.65</metallicity>
 		<spectraltype>K1 III</spectraltype>
+		<name>HD 47536</name>
+		<temperature>4380.0</temperature>
 		<planet>
 			<name>HD 47536 b</name>
 			<list>Confirmed planets</list>
@@ -37,7 +39,5 @@
 			<discoveryyear>2007</discoveryyear>
 			<description>The planet candidate HD 47536 c was not confirmed in follow-up measurements (Soto et al. 2015).</description>
 		</planet>
-		<name>HD 47536</name>
-		<temperature>4380.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-515</name>
-	<rightascension>19 21 59</rightascension>
-	<declination>+52 03 20</declination>
+	<rightascension>19 19 178.539119</rightascension>
+	<declination>52 3 20.1996000</declination>
+	<distance>255.0</distance>
 	<star>
 		<name>Kepler-515</name>
-		<temperature errorminus="61.3" errorplus="49.7">5293.0</temperature>
-		<mass errorminus="0.03" errorplus="0.03">0.90</mass>
+		<temperature errorminus="61.29" errorplus="49.66">5293.0</temperature>
+		<mass errorminus="0.03" errorplus="0.03">0.9</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.83</radius>
-		<metallicity errorminus="0.11" errorplus="0.14">0.08</metallicity>
+		<metallicity errorminus="0.112" errorplus="0.139">0.08</metallicity>
+		<magH>10.946</magH>
+		<magK>10.885</magK>
+		<magJ>11.295</magJ>
 		<planet>
 			<name>Kepler-515 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000056590" errorplus="0.000056590">19.963713180</period>
-			<radius errorminus="0.004" errorplus="0.005">0.130</radius>
+			<period errorminus="5.659e-05" errorplus="5.659e-05">19.96371318</period>
+			<radius errorminus="0.004" errorplus="0.005">0.13</radius>
 		</planet>
 	</star>
 </system>

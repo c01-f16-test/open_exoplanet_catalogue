@@ -15,7 +15,7 @@
 		<planet>
 			<name>EPIC 210363145 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="1.9" />
+			<mass upperlimit="1.9"/>
 			<radius errorminus="0.014581" errorplus="0.014581">0.209600</radius>
 			<period errorminus="0.0007" errorplus="0.0007">8.1998</period>
 			<eccentricity errorminus="0.09" errorplus="0.22">0.14</eccentricity>
