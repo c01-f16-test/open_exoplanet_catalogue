@@ -2,34 +2,36 @@
 	<name>Kepler-160</name>
 	<name>KOI-456</name>
 	<name>KIC 7269974</name>
-	<rightascension>19 11 05</rightascension>
-	<declination>+42 52 09</declination>
+	<rightascension>19 7 245.661635</rightascension>
+	<declination>42 52 9.42959999</declination>
 	<distance>859.11</distance>
 	<star>
-		<magJ errorminus="0.023" errorplus="0.023">13.460</magJ>
+		<magJ>13.46</magJ>
 		<magH errorminus="0.020" errorplus="0.020">13.101</magH>
 		<magK errorminus="0.026" errorplus="0.026">13.052</magK>
 		<name>Kepler-160</name>
 		<name>KOI-456</name>
 		<name>KIC 7269974</name>
 		<temperature errorminus="200" errorplus="200">5857</temperature>
-		<radius errorminus=".430" errorplus="0.430">0.884</radius>
+		<radius errorminus="0.43" errorplus="0.43">0.88</radius>
 		<mass errorminus="0.0860" errorplus="0.0860">0.9930</mass>
+		<metallicity>-0.361</metallicity>
 		<planet>
 			<name>Kepler-160 c</name>
 			<name>KOI-456 c</name>
 			<name>KOI-456.01</name>
 			<name>KIC 7269974 c</name>
 			<name>KIC 7269974.01</name>
-			<radius errorminus="0.07017" errorplus="0.16130">0.32898</radius>
-			<period errorminus=".000031" errorplus="0.000031">13.699087</period>
+			<radius errorminus="0.158" errorplus="0.158">0.322</radius>
+			<period errorminus="0.00003100" errorplus="0.00003100">13.69908700</period>
 			<transittime errorminus="0.0012700" errorplus="0.0012700">2455004.4874700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-160 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-160 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.109000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-160 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-456.02</name>
 			<name>KIC 7269974 b</name>
 			<name>KIC 7269974.02</name>
-			<radius errorminus="0.06926" errorplus="0.06926">0.14034</radius>
-			<period errorminus=".000017" errorplus="0.000017">4.309427</period>
+			<radius errorminus="0.068" errorplus="0.068">0.137</radius>
+			<period errorminus="0.00001700" errorplus="0.00001700">4.30942700</period>
 			<transittime errorminus="0.0024500" errorplus="0.0024500">2454967.0325700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-160 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-160 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.050000</semimajoraxis>
 		</planet>
 	</star>
 </system>

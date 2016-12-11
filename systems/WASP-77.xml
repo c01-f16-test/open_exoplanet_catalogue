@@ -2,17 +2,17 @@
 	<name>WASP-77</name>
 	<name>BD-07 436</name>
 	<name>1SWASP J022837.22-070338.4</name>
-	<rightascension>02 28 37</rightascension>
-	<declination>-07 03 38</declination>
+	<rightascension>02h28m37.23s</rightascension>
+	<declination>-07d03m38.5s</declination>
 	<distance errorminus="5" errorplus="5">93</distance>
 	<binary>
 		<separation unit="arcsec">3.30</separation>
 		<separation unit="AU">300</separation>
 		<positionangle>150</positionangle>
 		<star>
-			<mass>1.002</mass>
-			<radius>1.12</radius>
-			<temperature>5500</temperature>
+			<mass errorminus="0.04" errorplus="0.04">1.00</mass>
+			<radius errorminus="0.01" errorplus="0.01">0.95</radius>
+			<temperature errorminus="80.00" errorplus="80.00">5500.00</temperature>
 			<metallicity>0.00</metallicity>
 			<magV errorminus="0.05" errorplus="0.05">10.30</magV>
 			<magB errorminus="0.02" errorplus="0.02">10.87</magB>
@@ -21,24 +21,25 @@
 			<magH errorminus="0.037" errorplus="0.037">8.374</magH>
 			<magK errorminus="0.030" errorplus="0.030">8.408</magK>
 			<spectraltype>G8 V</spectraltype>
+			<name>WASP-77 A</name>
 			<planet>
 				<name>WASP-77 A b</name>
 				<name>1SWASP J022837.22-070338.4 b</name>
 				<list>Confirmed planets</list>
-				<mass>1.76</mass>
-				<radius>1.21</radius>
-				<period>1.3600309</period>
-				<semimajoraxis>0.0240</semimajoraxis>
-				<inclination>89.4</inclination>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.06000" errorplus="0.06000">1.76000</mass>
+				<radius errorminus="0.020" errorplus="0.020">1.210</radius>
+				<period errorminus="0.00000200" errorplus="0.00000200">1.36003090</period>
+				<semimajoraxis errorminus="0.000360" errorplus="0.000360">0.024000</semimajoraxis>
+				<inclination errorminus="0.700" errorplus="0.400">89.400</inclination>
 				<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2455870.44977</transittime>
 				<description>WASP-77 A b is a transiting Hot Jupiter (a planet similar to Jupiter but with an orbit much closer to the host star). It is orbiting a moderately bright G8 V star which is part of a visual binary. The binary has a separation of 3 arcseconds.</description>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>12/11/26</lastupdate>
+				<lastupdate>14/05/14</lastupdate>
 				<discoveryyear>2012</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<istransiting>1</istransiting>
+				<eccentricity>0.000000</eccentricity>
 			</planet>
-			<name>WASP-77 A</name>
 		</star>
 		<star>
 			<mass>0.71</mass>

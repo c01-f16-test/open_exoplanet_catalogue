@@ -1,13 +1,16 @@
 <system>
 	<name>Kepler-539</name>
-	<rightascension>19 56 29</rightascension>
-	<declination>+41 52 00</declination>
+	<rightascension>19 56 29.0000023</rightascension>
+	<declination>41 52 6.23999999</declination>
 	<star>
 		<name>Kepler-539</name>
 		<temperature errorminus="80.0" errorplus="80.0">5820.0</temperature>
-		<mass errorminus="0.04" errorplus="0.04">1.05</mass>
-		<radius errorminus="0.02" errorplus="0.02">0.95</radius>
+		<mass errorminus="0.045" errorplus="0.045">1.048</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.952</radius>
 		<metallicity errorminus="0.07" errorplus="0.07">-0.01</metallicity>
+		<magV>12.5</magV>
+		<age errorminus="0.7" errorplus="0.1">1.1</age>
+		<spectraltype>G2V</spectraltype>
 		<planet>
 			<name>Kepler-539 b</name>
 			<discoverymethod>transit</discoverymethod>
@@ -32,6 +35,30 @@
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
 			<period>1000.000000000</period>
 			<semimajoraxis errorminus="0.510000000" errorplus="0.500000000">2.420000000</semimajoraxis>
+		</planet>
+		<planet>
+			<inclination errorminus="0.086" errorplus="0.086">89.845</inclination>
+			<radius errorminus="0.016" errorplus="0.016">0.747</radius>
+			<period errorminus="0.00071" errorplus="0.00071">125.63243</period>
+			<mass errorminus="0.29" errorplus="0.29">0.97</mass>
+			<eccentricity errorminus="0.0" errorplus="0.39">0.0</eccentricity>
+			<discoveryyear>2015</discoveryyear>
+			<lastupdate>16/05/24</lastupdate>
+			<semimajoraxis errorminus="0.0054" errorplus="0.0054">0.4988</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<name>KOI-372 b</name>
+			<name>Kepler-539 b</name>
+		</planet>
+		<planet>
+			<inclination errorminus="0.68" errorplus="59.0">97.92</inclination>
+			<period errorminus="0.0" errorplus="inf">1000.0</period>
+			<mass errorminus="1.2" errorplus="1.2">2.4</mass>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.5</eccentricity>
+			<lastupdate>16/05/24</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+			<discoverymethod>ttv</discoverymethod>
+			<name>KOI-372 c</name>
+			<name>Kepler-539 c</name>
 		</planet>
 	</star>
 </system>

@@ -2,9 +2,9 @@
 	<name>Kepler-31</name>
 	<name>KOI-935</name>
 	<name>KIC 9347899</name>
-	<rightascension>19 36 05</rightascension>
-	<declination>+45 51 11</declination>
-	<distance>1790.60</distance>
+	<rightascension>19 36 6.00000000</rightascension>
+	<declination>45 51 11.0001600</declination>
+	<distance>2100.00</distance>
 	<star>
 		<magJ errorminus="0.029" errorplus="0.029">14.233</magJ>
 		<magH errorminus="0.038" errorplus="0.038">13.984</magH>
@@ -12,24 +12,27 @@
 		<name>Kepler-31</name>
 		<name>KOI-935</name>
 		<name>KIC 9347899</name>
-		<temperature errorminus="68" errorplus="168">6034</temperature>
-		<radius errorminus=".302" errorplus="0.302">1.306</radius>
-		<mass errorminus="0.0870" errorplus="0.0870">1.2080</mass>
+		<temperature errorminus="200.0" errorplus="200.0">6340.0</temperature>
+		<radius errorminus="0.24" errorplus="0.24">1.22</radius>
+		<mass errorminus="0.17" errorplus="0.17">1.21</mass>
+		<magV>15.5</magV>
+		<metallicity errorminus="0.4" errorplus="0.4">-0.08</metallicity>
 		<planet>
 			<name>Kepler-31 b</name>
 			<name>KOI-935 b</name>
 			<name>KOI-935.01</name>
 			<name>KIC 9347899 b</name>
 			<name>KIC 9347899.01</name>
-			<radius errorminus="0.04465" errorplus="0.13578">0.57868</radius>
-			<period errorminus=".000048" errorplus="0.000048">20.860674</period>
+			<radius errorminus="0.098" errorplus="0.098">0.491</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">20.86130000</period>
 			<transittime errorminus="0.0011800" errorplus="0.0011800">2455013.0107300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-31 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-31 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.160000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-31 c</name>
@@ -37,15 +40,17 @@
 			<name>KOI-935.02</name>
 			<name>KIC 9347899 c</name>
 			<name>KIC 9347899.02</name>
-			<radius errorminus="0.02916" errorplus="0.12029">0.51489</radius>
-			<period errorminus=".000162" errorplus="0.000162">42.632728</period>
+			<radius errorminus="0.098" errorplus="0.098">0.473</radius>
+			<period errorminus="0.00050000" errorplus="0.00050000">42.63180000</period>
 			<transittime errorminus="0.0020900" errorplus="0.0020900">2454974.1849700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-31 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-31 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.260000</semimajoraxis>
+			<mass>4.70000</mass>
 		</planet>
 		<planet>
 			<name>Kepler-31 d</name>
@@ -53,15 +58,17 @@
 			<name>KOI-935.03</name>
 			<name>KIC 9347899 d</name>
 			<name>KIC 9347899.03</name>
-			<radius errorminus="0.01002" errorplus="0.10115">0.41555</radius>
-			<period errorminus=".000801" errorplus="0.000801">87.648901</period>
+			<radius errorminus="0.071" errorplus="0.071">0.348</radius>
+			<period errorminus="0.00140000" errorplus="0.00140000">87.64510000</period>
 			<transittime errorminus="0.0046800" errorplus="0.0046800">2454967.9382800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-31 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-31 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>16/03/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.400000</semimajoraxis>
+			<mass>6.80000</mass>
 		</planet>
 	</star>
 </system>

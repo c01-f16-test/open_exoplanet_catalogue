@@ -1,11 +1,11 @@
 <system>
 	<name>HD 96063</name>
-	<rightascension>11 04 44.4546</rightascension>
-	<declination>-02 30 47.587</declination>
-	<distance>158</distance>
+	<rightascension>11h04m44.45s</rightascension>
+	<declination>-02d30m47.6s</declination>
+	<distance errorminus="21.76" errorplus="16.39">132.80</distance>
 	<star>
-		<mass>1.02</mass>
-		<radius>4.5</radius>
+		<mass errorminus="0.07" errorplus="0.07">1.02</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.50</radius>
 		<magV>8.37</magV>
 		<magB errorminus="0.02" errorplus="0.02">9.09</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.607</magJ>
@@ -13,20 +13,20 @@
 		<magK errorminus="0.031" errorplus="0.031">6.050</magK>
 		<metallicity>-0.30</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 96063</name>
+		<temperature errorminus="44.00" errorplus="44.00">5148.00</temperature>
 		<planet>
 			<name>HD 96063 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.9</mass>
-			<period>361.1</period>
-			<semimajoraxis>0.99</semimajoraxis>
-			<eccentricity>0.</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000">0.90000</mass>
+			<period errorminus="9.90000000" errorplus="9.90000000">361.10000000</period>
+			<semimajoraxis errorminus="0.030000" errorplus="0.030000">0.990000</semimajoraxis>
+			<eccentricity>0.030000</eccentricity>
 			<description>The star HD 96063 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>481.5</temperature>
 		</planet>
-		<name>HD 96063</name>
-		<temperature>5148.0</temperature>
 	</star>
 </system>

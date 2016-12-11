@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1287</name>
-	<rightascension>19 16 32</rightascension>
-	<declination>+47 03 47</declination>
+	<rightascension>19 15 92.3186399</rightascension>
+	<declination>47 3 46.7855999</declination>
+	<distance>1027.0</distance>
 	<star>
 		<name>Kepler-1287</name>
-		<temperature errorminus="84.0" errorplus="94.0">5715.0</temperature>
+		<temperature errorminus="83.95" errorplus="93.97">5715.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.96</mass>
 		<radius errorminus="0.07" errorplus="0.13">0.94</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.05</metallicity>
+		<metallicity errorminus="0.183" errorplus="0.147">-0.05</metallicity>
+		<magK>13.505</magK>
+		<magH>13.54</magH>
+		<magJ>13.925</magJ>
 		<planet>
 			<name>Kepler-1287 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000064660" errorplus="0.000064660">11.476859090</period>
-			<radius errorminus="0.012" errorplus="0.020">0.137</radius>
+			<period errorminus="6.466e-05" errorplus="6.466e-05">11.47685909</period>
+			<radius errorminus="0.012" errorplus="0.02">0.137</radius>
 		</planet>
 	</star>
 </system>

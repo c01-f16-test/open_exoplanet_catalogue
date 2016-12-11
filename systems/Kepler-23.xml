@@ -2,8 +2,8 @@
 	<name>Kepler-23</name>
 	<name>KOI-168</name>
 	<name>KIC 11512246</name>
-	<rightascension>19 36 52</rightascension>
-	<declination>+49 28 45</declination>
+	<rightascension>19 36 52.0000080</rightascension>
+	<declination>49 28 45.0001199</declination>
 	<distance>864.68</distance>
 	<star>
 		<magB>13.6</magB>
@@ -14,25 +14,28 @@
 		<name>Kepler-23</name>
 		<name>KOI-168</name>
 		<name>KIC 11512246</name>
-		<temperature errorminus="100" errorplus="100">5828</temperature>
-		<radius errorminus="0.048" errorplus="0.048">1.548</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">1.1900</mass>
+		<temperature errorminus="124.0" errorplus="124.0">5760.0</temperature>
+		<radius errorminus="0.3" errorplus="0.3">1.52</radius>
+		<mass>1.11</mass>
+		<magV>14.0</magV>
 		<planet>
 			<name>Kepler-23 c</name>
 			<name>KOI-168 c</name>
 			<name>KOI-168.01</name>
 			<name>KIC 11512246 c</name>
 			<name>KIC 11512246.01</name>
-			<radius errorminus="0.03007" errorplus="0.03007">0.34447</radius>
-			<period errorminus="0.000037" errorplus="0.000037">10.742371</period>
+			<radius errorminus="0.0089" errorplus="0.0089">0.278</radius>
+			<period errorminus="3.9e-05" errorplus="3.9e-05">10.742434</period>
 			<transittime errorminus="0.0021000" errorplus="0.0021000">2454966.2860300</transittime>
 			<eccentricity errorminus="0.02" errorplus="0.39">0.02</eccentricity>
 			<list>Confirmed planets</list>
 			<description>Kepler-23 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-23 c are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/06/09</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.033" errorplus="0.036">0.189</mass>
+			<semimajoraxis>0.099</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-23 d</name>
@@ -40,16 +43,19 @@
 			<name>KOI-168.02</name>
 			<name>KIC 11512246 d</name>
 			<name>KIC 11512246.02</name>
-			<radius errorminus="0.00820" errorplus="0.00820">0.20049</radius>
-			<period errorminus="0.000104" errorplus="0.000104">15.274299</period>
+			<radius errorminus="0.0079" errorplus="0.0079">0.1994</radius>
+			<period errorminus="0.00017" errorplus="0.00017">15.27429</period>
 			<transittime errorminus="0.0038700" errorplus="0.0038700">2454980.5825300</transittime>
 			<eccentricity errorminus="0.08" errorplus="0.24">0.08</eccentricity>
 			<list>Confirmed planets</list>
 			<description>Kepler-23 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-23 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/06/09</lastupdate>
+			<lastupdate>15/11/25</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.037" errorplus="0.043">0.055</mass>
+			<impactparameter errorplus="0.21">0.25</impactparameter>
+			<semimajoraxis>0.124</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-23 b</name>
@@ -57,16 +63,18 @@
 			<name>KOI-168.03</name>
 			<name>KIC 11512246 b</name>
 			<name>KIC 11512246.03</name>
-			<radius errorminus="0.01458" errorplus="0.01458">0.15401</radius>
-			<period errorminus="0.000075" errorplus="0.000075">7.107163</period>
+			<radius errorminus="0.0068" errorplus="0.0068">0.1511</radius>
+			<period errorminus="7.3e-05" errorplus="7.3e-05">7.106995</period>
 			<transittime errorminus="0.0066100" errorplus="0.0066100">2454971.3128400</transittime>
 			<eccentricity errorminus="0.06" errorplus="0.26">0.06</eccentricity>
 			<list>Confirmed planets</list>
 			<description>Kepler-23 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-23 b are still unknown, the object is highly unlikely to be a false positive.</description>
-			<discoveryyear>2014</discoveryyear>
-			<lastupdate>15/06/09</lastupdate>
+			<discoveryyear>2012</discoveryyear>
+			<lastupdate>15/11/25</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<mass errorminus="0.0091" errorplus="0.01">0.0478</mass>
+			<semimajoraxis>0.075</semimajoraxis>
 		</planet>
 	</star>
 </system>

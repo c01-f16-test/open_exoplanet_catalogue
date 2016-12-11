@@ -1,34 +1,35 @@
 <system>
 	<name>HD 86226</name>
-	<rightascension>09 56 30</rightascension>
-	<declination>-24 05 58</declination>
-	<distance>42.48</distance>
+	<rightascension>9 56 30.0000000</rightascension>
+	<declination>-24 5 57.9998400</declination>
+	<distance errorminus="1.53" errorplus="1.53">42.48</distance>
 	<star>
 		<name>HD 86226</name>
 		<age>1.5</age>
-		<mass>1.06</mass>
+		<mass>1.02</mass>
 		<magV>7.93</magV>
 		<magB errorminus="0.019" errorplus="0.019">8.563</magB>
 		<magR errorminus="0.11" errorplus="0.11">7.71</magR>
 		<magJ errorminus="0.019" errorplus="0.019">6.839</magJ>
 		<magH errorminus="0.034" errorplus="0.034">6.577</magH>
 		<magK errorminus="0.023" errorplus="0.023">6.463</magK>
-		<metallicity>0.05</metallicity>
-		<radius>1.02</radius>
+		<metallicity>-0.04</metallicity>
+		<radius errorminus="0.03" errorplus="0.03">1.02</radius>
 		<spectraltype>G2V</spectraltype>
+		<temperature errorminus="31.00" errorplus="31.00">5903.00</temperature>
 		<planet>
 			<name>HD 86226 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.92</mass>
-			<period>1695</period>
-			<semimajoraxis>2.84</semimajoraxis>
-			<eccentricity>0.15</eccentricity>
-			<periastron>193</periastron>
+			<mass errorminus="1.0" errorplus="1.0">1.5</mass>
+			<period errorminus="280.0" errorplus="280.0">1534.0</period>
+			<semimajoraxis errorminus="0.4" errorplus="0.4">2.6</semimajoraxis>
+			<eccentricity errorminus="0.21" errorplus="0.21">0.73</eccentricity>
+			<periastron errorminus="50.0" errorplus="50.0">58.0</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.0</temperature>
+			<periastrontime errorminus="290.0" errorplus="290.0">2452240.0</periastrontime>
 		</planet>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

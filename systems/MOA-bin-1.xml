@@ -6,6 +6,8 @@
 	<star>
 		<magI>23</magI>
 		<mass>0.75</mass>
+		<name>MOA-bin-1</name>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>MOA-bin-1 b</name>
 			<name>MOA-bin-1L b</name>
@@ -17,7 +19,5 @@
 			<lastupdate>12/03/22</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-		<name>MOA-bin-1</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

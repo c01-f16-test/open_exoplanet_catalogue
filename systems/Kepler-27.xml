@@ -1,16 +1,16 @@
 <system>
 	<name>Kepler-27</name>
-	<rightascension>19 28 56</rightascension>
-	<declination>+41 05 09</declination>
+	<rightascension>19 27 116.999999</rightascension>
+	<declination>41 5 8.99988000</declination>
 	<distance>991.22</distance>
 	<star>
 		<name>Kepler-27</name>
 		<name>KOI-841</name>
 		<name>KIC 5792202</name>
-		<temperature>5400.0</temperature>
-		<mass>0.65</mass>
-		<radius>0.59</radius>
-		<metallicity>0.41</metallicity>
+		<temperature errorminus="60.0" errorplus="60.0">5400.0</temperature>
+		<mass errorminus="0.16" errorplus="0.16">0.65</mass>
+		<radius errorminus="0.15" errorplus="0.15">0.59</radius>
+		<metallicity errorminus="0.04" errorplus="0.04">0.41</metallicity>
 		<magJ errorminus="0.04" errorplus="0.04">14.48</magJ>
 		<magH errorminus="0.03" errorplus="0.03">14.03</magH>
 		<magK errorminus="0.07" errorplus="0.07">14.12</magK>
@@ -20,16 +20,17 @@
 			<name>KOI-841 b</name>
 			<name>KIC 5792202 b</name>
 			<list>Confirmed planets</list>
-			<radius>0.364521</radius>
-			<period>15.33</period>
-			<semimajoraxis>0.118</semimajoraxis>
+			<radius>0.357</radius>
+			<period>15.33480000</period>
+			<semimajoraxis>0.118000</semimajoraxis>
 			<transittime errorminus="0.0048" errorplus="0.0048" unit="BJD">2454991.6726</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>532.4</temperature>
 			<istransiting>1</istransiting>
+			<mass>9.11000</mass>
 		</planet>
 		<planet>
 			<name>Kepler-27 c</name>
@@ -37,16 +38,17 @@
 			<name>KOI-841 c</name>
 			<name>KIC 5792202 c</name>
 			<list>Confirmed planets</list>
-			<radius>0.44653</radius>
-			<period>31.33</period>
-			<semimajoraxis>0.191</semimajoraxis>
+			<radius>0.437</radius>
+			<period>31.33090000</period>
+			<semimajoraxis>0.191000</semimajoraxis>
 			<transittime errorminus="0.0032" errorplus="0.0032" unit="BJD">2454986.4274</transittime>
 			<description>This planet candidate was discovered with the Kepler spacecraft. Its host star gets periodically fainter whenever the planet is in front of the star. Because there are multiple phenomena that can create a signal that looks similar to a planetary transit, the candidates have to be confirmed with another method. For Kepler-27 the planetary nature of the companions has been confirmed by transit timing variations, caused by other planets in the system, and a stability analysis. However, the mass of the planets is not well constrained yet.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/08/06</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<temperature>418.5</temperature>
 			<istransiting>1</istransiting>
+			<mass>13.80000</mass>
 		</planet>
 	</star>
 </system>

@@ -1,7 +1,7 @@
 <system>
 	<name>HD 330075</name>
-	<rightascension>15 49 37</rightascension>
-	<declination>-49 57 48</declination>
+	<rightascension>15 48 97.0000080</rightascension>
+	<declination>-49 57 47.9998799</declination>
 	<distance>50.2</distance>
 	<star>
 		<mass>0.95</mass>
@@ -9,19 +9,24 @@
 		<magB errorminus="0.04" errorplus="0.04">10.23</magB>
 		<metallicity>0.03</metallicity>
 		<spectraltype>G5</spectraltype>
+		<name>HD 330075</name>
+		<temperature>6295.0</temperature>
+		<age>6.21</age>
 		<planet>
 			<name>HD 330075 b</name>
 			<list>Confirmed planets</list>
 			<mass>0.62</mass>
-			<period>3.38773</period>
+			<period errorminus="0.00187" errorplus="0.00187">3.6413</period>
 			<semimajoraxis>0.039</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<eccentricity errorminus="0.0684" errorplus="0.0187">0.0187</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>15/02/25</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>1023.2</temperature>
+			<radius>1.06</radius>
+			<maximumrvtime errorminus="0.003" errorplus="0.003">2452878.815</maximumrvtime>
+			<periastron errorminus="91.2" errorplus="91.2">38.2</periastron>
+			<periastrontime>2452968.399</periastrontime>
 		</planet>
-		<name>HD 330075</name>
-		<temperature>6295.0</temperature>
 	</star>
 </system>

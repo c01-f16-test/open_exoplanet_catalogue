@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1205</name>
-	<rightascension>19 21 07</rightascension>
-	<declination>+41 30 54</declination>
+	<rightascension>19 19 127.130159</rightascension>
+	<declination>41 30 54.1763999</declination>
+	<distance>766.0</distance>
 	<star>
 		<name>Kepler-1205</name>
-		<temperature errorminus="71.3" errorplus="84.8">5226.0</temperature>
+		<temperature errorminus="71.27" errorplus="84.83">5226.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.84</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.81</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.04</metallicity>
+		<metallicity errorminus="0.165" errorplus="0.162">-0.04</metallicity>
+		<magK>13.262</magK>
+		<magH>13.409</magH>
+		<magJ>13.87</magJ>
 		<planet>
 			<name>Kepler-1205 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001600" errorplus="0.000001600">1.078390350</period>
+			<period errorminus="1.6e-06" errorplus="1.6e-06">1.07839035</period>
 			<radius errorminus="0.008" errorplus="0.009">0.126</radius>
 		</planet>
 	</star>

@@ -1,37 +1,25 @@
 <system>
 	<name>DP Leo</name>
-	<rightascension>11 17 16</rightascension>
-	<declination>+17 57 41</declination>
+	<rightascension>11 16 76.0000080</rightascension>
+	<declination>17 57 41.0000399</declination>
 	<distance>400</distance>
 	<binary>
 		<period>0.0625</period>
 		<star>
-			<mass>0.6</mass>
-			<radius>0.0144</radius>
-			<magV>17.5</magV>
-			<temperature>13500</temperature>
-			<spectraltype>AM Her</spectraltype>
-			<name>DP Leo</name>
-		</star>
-		<star>
-			<mass>0.09</mass>
+			<mass>0.69</mass>
 			<temperature>3000</temperature>
 			<name>DP Leo</name>
+			<spectraltype>AM Her</spectraltype>
+			<magV>17.5</magV>
+			<planet>
+				<lastupdate>14/05/14</lastupdate>
+				<semimajoraxis errorminus="0.390000" errorplus="0.390000">8.190000</semimajoraxis>
+				<discoverymethod>eclipse timing variations</discoverymethod>
+				<period errorminus="730.00000000" errorplus="730.00000000">10220.00000000</period>
+				<name>DP Leo b</name>
+				<mass errorminus="0.58000" errorplus="0.47000">6.05000</mass>
+				<eccentricity errorminus="0.130000" errorplus="0.130000">0.390000</eccentricity>
+			</planet>
 		</star>
-		<planet>
-			<name>DP Leo b</name>
-			<list>Confirmed planets</list>
-			<mass>6.05</mass>
-			<period>10230</period>
-			<semimajoraxis>8.19</semimajoraxis>
-			<eccentricity>0.39</eccentricity>
-			<transittime errorminus="0.00009" errorplus="0.00009" unit="BJD">2448773.21461</transittime>
-			<description>DP Leonis is an eclipsing binary system.</description>
-			<discoverymethod>timing</discoverymethod>
-			<lastupdate>10/11/18</lastupdate>
-			<discoveryyear>2009</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
-			<istransiting>1</istransiting>
-		</planet>
 	</binary>
 </system>

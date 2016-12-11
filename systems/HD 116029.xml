@@ -1,11 +1,11 @@
 <system>
 	<name>HD 116029</name>
-	<rightascension>13 20 39</rightascension>
-	<declination>+24 38 55</declination>
-	<distance>123</distance>
+	<rightascension>13h20m39.54s</rightascension>
+	<declination>+24d38m55.3s</declination>
+	<distance errorminus="13.45" errorplus="10.82">110.62</distance>
 	<star>
-		<mass>1.58</mass>
-		<radius>4.6</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.58</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.60</radius>
 		<magV>8.04</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.89</magB>
 		<magJ errorminus="0.037" errorplus="0.037">6.144</magJ>
@@ -13,20 +13,20 @@
 		<magK errorminus="0.016" errorplus="0.016">5.534</magK>
 		<metallicity>0.18</metallicity>
 		<spectraltype>K1</spectraltype>
+		<name>HD 116029</name>
+		<temperature errorminus="44.00" errorplus="44.00">4951.00</temperature>
 		<planet>
 			<name>HD 116029 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.1</mass>
-			<period>670.2</period>
-			<semimajoraxis>1.73</semimajoraxis>
-			<eccentricity>0</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000">2.10000</mass>
+			<period errorminus="11.00000000" errorplus="11.00000000">670.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.050000">1.780000</semimajoraxis>
+			<eccentricity>0.054000</eccentricity>
 			<description>The star HD 116029 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>355.0</temperature>
 		</planet>
-		<name>HD 116029</name>
-		<temperature>4951.0</temperature>
 	</star>
 </system>

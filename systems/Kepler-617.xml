@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-617</name>
-	<rightascension>18 54 58</rightascension>
-	<declination>+47 30 59</declination>
+	<rightascension>18 52 177.770400</rightascension>
+	<declination>47 30 58.6548000</declination>
+	<distance>150.0</distance>
 	<star>
 		<name>Kepler-617</name>
-		<temperature errorminus="33.4" errorplus="33.9">3712.0</temperature>
+		<temperature errorminus="33.35" errorplus="33.92">3712.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.51</mass>
 		<radius errorminus="0.03" errorplus="0.02">0.48</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">-0.07</metallicity>
+		<metallicity errorminus="0.082" errorplus="0.077">-0.07</metallicity>
+		<magK>11.573</magK>
+		<magH>11.802</magH>
+		<magJ>12.437</magJ>
 		<planet>
 			<name>Kepler-617 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001110" errorplus="0.000001110">1.682696150</period>
+			<period errorminus="1.11e-06" errorplus="1.11e-06">1.68269615</period>
 			<radius errorminus="0.006" errorplus="0.006">0.118</radius>
 		</planet>
 	</star>

@@ -1,32 +1,34 @@
 <system>
 	<name>HD 106515 A</name>
-	<rightascension>12 15 07</rightascension>
-	<declination>-07 15 26</declination>
-	<distance>35.2</distance>
+	<rightascension>12 11 247.000007</rightascension>
+	<declination>-7 15 25.9999199</declination>
+	<distance errorminus="1.0" errorplus="1.0">35.2</distance>
 	<star>
-		<mass>0.97</mass>
-		<age>11.7</age>
-		<metallicity>0.03</metallicity>
-		<radius>1.62</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.91</mass>
+		<age errorminus="2.0" errorplus="2.0">6.0</age>
+		<metallicity>0.01</metallicity>
+		<radius errorminus="0.05" errorplus="0.05">1.62</radius>
 		<magV>7.35</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.79</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.585</magJ>
 		<magH errorminus="0.05" errorplus="0.05">6.22</magH>
 		<magK errorminus="0.026" errorplus="0.026">6.151</magK>
 		<spectraltype>G5</spectraltype>
+		<name>HD 106515 A</name>
+		<temperature>5232.0</temperature>
 		<planet>
 			<name>HD 106515 A b</name>
 			<list>Confirmed planets</list>
-			<mass>9.61</mass>
-			<period>3630</period>
-			<semimajoraxis>4.59</semimajoraxis>
-			<eccentricity>0.572</eccentricity>
-			<periastron>123.8</periastron>
+			<mass errorminus="0.14" errorplus="0.14">9.61</mass>
+			<period errorminus="14.2" errorplus="14.2">3630.0</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">4.59</semimajoraxis>
+			<eccentricity errorminus="0.011" errorplus="0.011">0.572</eccentricity>
+			<periastron errorminus="2.5" errorplus="2.5">123.8</periastron>
 			<description>HD 106515A is part of a binary system. It also shows signs of a planetary companion. The star system is almost 11 billion years old.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/11/29</lastupdate>
+			<lastupdate>16/02/23</lastupdate>
 			<discoveryyear>2011</discoveryyear>
+			<periastrontime errorminus="27.0" errorplus="27.0">2451844.0</periastrontime>
 		</planet>
-		<name>HD 106515 A</name>
 	</star>
 </system>

@@ -1,10 +1,10 @@
 <system>
 	<name>HD 23596</name>
-	<rightascension>03 48 00</rightascension>
-	<declination>+40 31 50</declination>
-	<distance>52</distance>
+	<rightascension>03h48m00.37s</rightascension>
+	<declination>+40d31m50.3s</declination>
+	<distance errorminus="2.30" errorplus="2.30">52.00</distance>
 	<star>
-		<mass>1.27</mass>
+		<mass errorminus="0.06" errorplus="0.06">1.16</mass>
 		<radius>2.09</radius>
 		<magV>7.24</magV>
 		<magJ errorminus="0.019" errorplus="0.019">6.173</magJ>
@@ -13,19 +13,19 @@
 		<magB errorminus="0.02" errorplus="0.02">7.85</magB>
 		<metallicity>0.32</metallicity>
 		<spectraltype>F8</spectraltype>
+		<name>HD 23596</name>
+		<temperature errorminus="44.00" errorplus="44.00">5904.00</temperature>
 		<planet>
 			<name>HD 23596 b</name>
 			<list>Confirmed planets</list>
-			<mass>8.1</mass>
-			<period>1565</period>
-			<semimajoraxis>2.88</semimajoraxis>
-			<eccentricity>0.292</eccentricity>
+			<mass errorminus="0.39000" errorplus="0.39000">7.71000</mass>
+			<period errorminus="12.00000000" errorplus="12.00000000">1561.00000000</period>
+			<semimajoraxis errorminus="0.062000" errorplus="0.062000">2.772000</semimajoraxis>
+			<eccentricity errorminus="0.014000" errorplus="0.014000">0.266000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>220.0</temperature>
 		</planet>
-		<name>HD 23596</name>
-		<temperature>5888.0</temperature>
 	</star>
 </system>

@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-547</name>
-	<rightascension>19 04 28</rightascension>
-	<declination>+44 20 43</declination>
+	<rightascension>19 3 88.4815199</rightascension>
+	<declination>44 20 43.0080000</declination>
+	<distance>361.0</distance>
 	<star>
 		<name>Kepler-547</name>
-		<temperature errorminus="46.8" errorplus="40.1">4828.0</temperature>
+		<temperature errorminus="46.81" errorplus="40.1">4828.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.78</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.73</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">0.01</metallicity>
+		<metallicity errorminus="0.179" errorplus="0.161">0.01</metallicity>
+		<magK>11.998</magK>
+		<magH>12.107</magH>
+		<magJ>12.588</magJ>
 		<planet>
 			<name>Kepler-547 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001570" errorplus="0.000001570">6.010384290</period>
+			<period errorminus="1.57e-06" errorplus="1.57e-06">6.01038429</period>
 			<radius errorminus="0.028" errorplus="0.012">0.357</radius>
 		</planet>
 	</star>

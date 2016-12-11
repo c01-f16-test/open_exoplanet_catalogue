@@ -32,6 +32,7 @@
 				<name>GSC 0208-00722 b</name>
 				<name>2MASS J08154797+0550121</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.028" errorplus="0.028">0.711</mass>
 				<radius errorminus="0.065" errorplus="0.065">1.340</radius>
 				<period errorminus="0.000005" errorplus="0.000005">2.810595</period>
@@ -45,7 +46,6 @@
 				<temperature>1552.5</temperature>
 				<transittime errorminus="0.00037" errorplus="0.00037" unit="BJD">2455456.46561</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

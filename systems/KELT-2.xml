@@ -13,8 +13,8 @@
 		<name>SAO 58830</name>
 		<name>COU 1102</name>
 		<separation unit="arcsec">2.29</separation>
-		<positionangle>328.6</positionangle>
 		<separation errorminus="10" errorplus="10" unit="AU">295</separation>
+		<positionangle>328.6</positionangle>
 		<star>
 			<name>KELT-2A</name>
 			<name>WDS J06107+3057 A</name>
@@ -44,6 +44,7 @@
 				<name>SAO 58830 A b</name>
 				<name>2MASS J06103935+3057258 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.088" errorplus="0.088">1.524</mass>
 				<radius errorminus="0.050" errorplus="0.064">1.290</radius>
 				<period errorminus="0.00001" errorplus="0.00001">4.1137913</period>
@@ -56,7 +57,6 @@
 				<discoveryyear>2012</discoveryyear>
 				<temperature errorminus="20" errorplus="28">1712</temperature>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

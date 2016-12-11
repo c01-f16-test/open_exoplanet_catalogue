@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-507</name>
-	<rightascension>19 48 05</rightascension>
-	<declination>+50 24 32</declination>
+	<rightascension>19 48 4.52016000</rightascension>
+	<declination>50 24 32.3315999</declination>
+	<distance>410.0</distance>
 	<star>
 		<name>Kepler-507</name>
-		<temperature errorminus="67.9" errorplus="66.1">6113.0</temperature>
+		<temperature errorminus="67.92" errorplus="66.08">6113.0</temperature>
 		<mass errorminus="0.05" errorplus="0.07">1.16</mass>
 		<radius errorminus="0.17" errorplus="0.24">1.32</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.06</metallicity>
+		<metallicity errorminus="0.076" errorplus="0.081">0.06</metallicity>
+		<magK>10.665</magK>
+		<magH>10.731</magH>
+		<magJ>10.985</magJ>
 		<planet>
 			<name>Kepler-507 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000007070" errorplus="0.000007070">3.568096930</period>
+			<period errorminus="7.07e-06" errorplus="7.07e-06">3.56809693</period>
 			<radius errorminus="0.015" errorplus="0.021">0.116</radius>
 		</planet>
 	</star>

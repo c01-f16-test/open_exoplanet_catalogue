@@ -2,8 +2,8 @@
 	<name>Kepler-204</name>
 	<name>KOI-661</name>
 	<name>KIC 6347299</name>
-	<rightascension>19 01 23</rightascension>
-	<declination>+41 45 42</declination>
+	<rightascension>19 0 83.327652</rightascension>
+	<declination>41 45 42.9299999</declination>
 	<distance>854.31</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">12.846</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-661</name>
 		<name>KIC 6347299</name>
 		<temperature errorminus="100" errorplus="100">5812</temperature>
-		<radius errorminus=".263" errorplus="0.263">1.238</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">1.0500</mass>
+		<radius errorminus="0.26" errorplus="0.26">1.24</radius>
+		<mass>0.96</mass>
+		<metallicity>-0.213</metallicity>
 		<planet>
 			<name>Kepler-204 b</name>
 			<name>KOI-661 b</name>
 			<name>KOI-661.01</name>
 			<name>KIC 6347299 b</name>
 			<name>KIC 6347299.01</name>
-			<radius errorminus="0.04921" errorplus="0.04921">0.23056</radius>
-			<period errorminus=".000056" errorplus="0.000056">14.400974</period>
+			<radius errorminus="0.048" errorplus="0.048">0.226</radius>
+			<period errorminus="0.00005600" errorplus="0.00005600">14.40097400</period>
 			<transittime errorminus="0.0021300" errorplus="0.0021300">2455007.9859300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-204 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-204 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.117000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-204 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-661.02</name>
 			<name>KIC 6347299 c</name>
 			<name>KIC 6347299.02</name>
-			<radius errorminus="0.03554" errorplus="0.03554">0.16312</radius>
-			<period errorminus=".000288" errorplus="0.000288">25.660593</period>
+			<radius errorminus="0.035" errorplus="0.035">0.160</radius>
+			<period errorminus="0.00028800" errorplus="0.00028800">25.66059300</period>
 			<transittime errorminus="0.0067900" errorplus="0.0067900">2454988.1516500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-204 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-204 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.173000</semimajoraxis>
 		</planet>
 	</star>
 </system>

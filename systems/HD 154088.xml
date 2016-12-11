@@ -10,6 +10,8 @@
 		<magH errorminus="0.076" errorplus="0.076">4.955</magH>
 		<magK errorminus="0.021" errorplus="0.021">4.758</magK>
 		<spectraltype>K0IV</spectraltype>
+		<name>HD 154088</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>HD 154088 b</name>
 			<list>Confirmed planets</list>
@@ -23,7 +25,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>643.6</temperature>
 		</planet>
-		<name>HD 154088</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

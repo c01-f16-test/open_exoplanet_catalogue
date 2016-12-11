@@ -1,18 +1,20 @@
 <system>
 	<name>WASP-33</name>
-	<rightascension>02 26 51</rightascension>
-	<declination>+37 33 02</declination>
-	<distance>116</distance>
+	<rightascension>2 23 230.999999</rightascension>
+	<declination>37 33 2.00016000</declination>
+	<distance errorminus="16.0" errorplus="16.0">116.0</distance>
 	<star>
-		<mass>1.495</mass>
-		<radius>1.444</radius>
+		<mass errorminus="0.031" errorplus="0.031">1.495</mass>
+		<radius errorminus="0.034" errorplus="0.034">1.444</radius>
 		<magV>8.3</magV>
 		<magB errorminus="0.01" errorplus="0.01">8.41</magB>
 		<magJ errorminus="0.021" errorplus="0.021">7.581</magJ>
 		<magH errorminus="0.024" errorplus="0.024">7.516</magH>
 		<magK errorminus="0.024" errorplus="0.024">7.468</magK>
-		<metallicity>0.1</metallicity>
+		<metallicity errorminus="0.2" errorplus="0.2">0.1</metallicity>
 		<spectraltype>A5</spectraltype>
+		<name>WASP-33</name>
+		<temperature errorminus="200.0" errorplus="200.0">7400.0</temperature>
 		<planet>
 			<name>WASP-33 b</name>
 			<name>HIP 11397 b</name>
@@ -22,20 +24,18 @@
 			<name>SAO 55561 b</name>
 			<name>2MASS J02265106+3733017 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.59</mass>
-			<radius>1.438</radius>
-			<period>1.21986967</period>
-			<semimajoraxis>0.02558</semimajoraxis>
+			<mass errorminus="0.1" errorplus="0.1">2.1</mass>
+			<radius errorminus="0.014" errorplus="0.014">1.603</radius>
+			<period errorminus="4.5e-07" errorplus="4.5e-07">1.21986967</period>
+			<semimajoraxis errorminus="0.00023" errorplus="0.00023">0.02558</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>87.67</inclination>
+			<inclination errorminus="1.8" errorplus="1.8">87.7</inclination>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454590.18025</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>15/09/30</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>2451.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-33</name>
-		<temperature>7400.0</temperature>
 	</star>
 </system>

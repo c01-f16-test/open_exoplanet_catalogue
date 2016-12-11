@@ -2,8 +2,8 @@
 	<name>Kepler-353</name>
 	<name>KOI-2036</name>
 	<name>KIC 6382217</name>
-	<rightascension>19 47 25</rightascension>
-	<declination>+41 45 29</declination>
+	<rightascension>19 44 205.590804</rightascension>
+	<declination>41 45 29.4444000</declination>
 	<distance>370.06</distance>
 	<star>
 		<magJ errorminus="0.027" errorplus="0.027">13.601</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-2036</name>
 		<name>KIC 6382217</name>
 		<temperature errorminus="100" errorplus="100">3903</temperature>
-		<radius errorminus=".016" errorplus="0.016">0.504</radius>
-		<mass errorminus="0.0100" errorplus="0.0100">0.5530</mass>
+		<radius errorminus="0.02" errorplus="0.02">0.5</radius>
+		<mass>0.54</mass>
+		<metallicity>-0.194</metallicity>
 		<planet>
 			<name>Kepler-353 c</name>
 			<name>KOI-2036 c</name>
 			<name>KOI-2036.01</name>
 			<name>KIC 6382217 c</name>
 			<name>KIC 6382217.01</name>
-			<radius errorminus="0.00638" errorplus="0.00638">0.12576</radius>
-			<period errorminus=".000039" errorplus="0.000039">8.410894</period>
+			<radius errorminus="0.006" errorplus="0.006">0.123</radius>
+			<period errorminus="0.00003900" errorplus="0.00003900">8.41089400</period>
 			<transittime errorminus="0.0026500" errorplus="0.0026500">2454966.8050500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-353 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-353 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.065000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-353 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-2036.02</name>
 			<name>KIC 6382217 b</name>
 			<name>KIC 6382217.02</name>
-			<radius errorminus="0.00547" errorplus="0.00547">0.08111</radius>
-			<period errorminus=".000055" errorplus="0.000055">5.795278</period>
+			<radius errorminus="0.005" errorplus="0.005">0.079</radius>
+			<period errorminus="0.00005500" errorplus="0.00005500">5.79527800</period>
 			<transittime errorminus="0.0056900" errorplus="0.0056900">2454969.7819700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-353 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-353 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.051000</semimajoraxis>
 		</planet>
 	</star>
 </system>

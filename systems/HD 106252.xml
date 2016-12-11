@@ -1,7 +1,7 @@
 <system>
 	<name>HD 106252</name>
-	<rightascension>12 13 29</rightascension>
-	<declination>+10 02 29</declination>
+	<rightascension>12 11 148.999991</rightascension>
+	<declination>10 2 29.0000400</declination>
 	<distance>37.44</distance>
 	<star>
 		<mass>0.96</mass>
@@ -15,20 +15,23 @@
 		<magK>5.93</magK>
 		<metallicity>-0.078</metallicity>
 		<spectraltype>G0</spectraltype>
+		<name>HD 106252</name>
+		<temperature>5754.0</temperature>
+		<age>5.02</age>
 		<planet>
 			<name>HD 106252 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.56</mass>
-			<period>1600</period>
+			<mass errorminus="25.3" errorplus="39.5">32.9</mass>
+			<period errorminus="18.0" errorplus="18.0">1600.0</period>
 			<semimajoraxis>2.7</semimajoraxis>
-			<eccentricity>0.47</eccentricity>
-			<inclination>166.7</inclination>
+			<eccentricity errorminus="0.028" errorplus="0.028">0.47</eccentricity>
+			<inclination errorminus="160.2" errorplus="7.3">166.7</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>15/09/14</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>158.8</temperature>
+			<periastrontime errorminus="17.0" errorplus="17.0">51871.0</periastrontime>
+			<periastron errorminus="3.2" errorplus="3.2">292.2</periastron>
 		</planet>
-		<name>HD 106252</name>
-		<temperature>5754.0</temperature>
 	</star>
 </system>

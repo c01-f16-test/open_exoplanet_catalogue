@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-632</name>
-	<rightascension>19 49 01</rightascension>
-	<declination>+40 17 19</declination>
+	<rightascension>19 48 60.6271200</rightascension>
+	<declination>40 17 18.9779999</declination>
+	<distance>349.0</distance>
 	<star>
 		<name>Kepler-632</name>
-		<temperature errorminus="82.7" errorplus="89.6">5322.0</temperature>
+		<temperature errorminus="82.67" errorplus="89.61">5322.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.91</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.84</radius>
-		<metallicity errorminus="0.09" errorplus="0.09">0.11</metallicity>
+		<metallicity errorminus="0.091" errorplus="0.09">0.11</metallicity>
+		<magK>11.479</magK>
+		<magH>11.567</magH>
+		<magJ>11.994</magJ>
 		<planet>
 			<name>Kepler-632 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000047560" errorplus="0.000047560">30.996607330</period>
+			<period errorminus="4.756e-05" errorplus="4.756e-05">30.99660733</period>
 			<radius errorminus="0.007" errorplus="0.029">0.197</radius>
 		</planet>
 	</star>

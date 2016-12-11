@@ -1,8 +1,8 @@
 <system>
 	<name>HD 142022</name>
-	<rightascension>16 10 15</rightascension>
-	<declination>-84 13 53</declination>
-	<distance>35.87</distance>
+	<rightascension>16 7 194.999999</rightascension>
+	<declination>-84 13 53.0000400</declination>
+	<distance errorminus="0.90" errorplus="0.85">35.87</distance>
 	<binary>
 		<separation unit="arcsec">20.4</separation>
 		<separation unit="AU">732</separation>
@@ -10,27 +10,30 @@
 		<star>
 			<name>HD 142022 A</name>
 			<mass>0.99</mass>
-			<radius>0.705</radius>
+			<radius errorminus="0.135" errorplus="0.135">0.705</radius>
 			<magV>7.7</magV>
 			<magB>8.47</magB>
-			<metallicity>0.19</metallicity>
-			<spectraltype>G9V</spectraltype>
+			<metallicity errorminus="0.04" errorplus="0.04">0.19</metallicity>
+			<spectraltype>K0 V</spectraltype>
+			<temperature>5382.0</temperature>
+			<age errorminus="3.9" errorplus="3.9">13.3</age>
 			<planet>
 				<name>HD 142022 A b</name>
 				<list>Confirmed planets</list>
-				<mass>5.1</mass>
-				<period>1928</period>
-				<semimajoraxis>3.03</semimajoraxis>
-				<eccentricity>0.53</eccentricity>
-				<inclination>10</inclination>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="16.0" errorplus="81.0">29.0</mass>
+				<period errorminus="39.0" errorplus="53.0">1928.0</period>
+				<semimajoraxis errorminus="0.005" errorplus="0.005">3.03</semimajoraxis>
+				<eccentricity errorminus="0.18" errorplus="0.23">0.53</eccentricity>
+				<inclination errorminus="6.0" errorplus="6.0">10.0</inclination>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/08</lastupdate>
+				<lastupdate>14/05/26</lastupdate>
 				<description>The binary star system HD 142022 is located in the southernmost constellation of Octans. A planet has been discovered in orbit around the primary star.</description>
 				<discoveryyear>2005</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>112.3</temperature>
+				<periastrontime errorminus="91.0" errorplus="91.0">50941.0</periastrontime>
+				<periastron errorminus="10.0" errorplus="8.0">170.0</periastron>
 			</planet>
-			<temperature>5382.0</temperature>
 		</star>
 		<star>
 			<name>HD 142022 B</name>

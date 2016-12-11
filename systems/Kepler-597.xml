@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-597</name>
-	<rightascension>19 33 53</rightascension>
-	<declination>+39 15 10</declination>
+	<rightascension>19 32 112.825440</rightascension>
+	<declination>39 15 10.1087999</declination>
+	<distance>660.0</distance>
 	<star>
 		<name>Kepler-597</name>
-		<temperature errorminus="59.3" errorplus="69.3">5683.0</temperature>
+		<temperature errorminus="59.31" errorplus="69.29">5683.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.97</mass>
 		<radius errorminus="0.05" errorplus="0.06">0.95</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">-0.01</metallicity>
+		<metallicity errorminus="0.102" errorplus="0.097">-0.01</metallicity>
+		<magK>12.54</magK>
+		<magH>12.562</magH>
+		<magJ>12.951</magJ>
 		<planet>
 			<name>Kepler-597 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000027280" errorplus="0.000027280">13.023658610</period>
+			<period errorminus="2.728e-05" errorplus="2.728e-05">13.02365861</period>
 			<radius errorminus="0.012" errorplus="0.029">0.211</radius>
 		</planet>
 	</star>

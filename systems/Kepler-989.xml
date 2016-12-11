@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-989</name>
-	<rightascension>18 46 20</rightascension>
-	<declination>+47 14 01</declination>
+	<rightascension>18 44 139.898160</rightascension>
+	<declination>47 14 1.07159999</declination>
+	<distance>484.0</distance>
 	<star>
 		<name>Kepler-989</name>
-		<temperature errorminus="53.6" errorplus="52.7">5074.0</temperature>
+		<temperature errorminus="53.62" errorplus="52.66">5074.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.82</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.78</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">0.01</metallicity>
+		<metallicity errorminus="0.175" errorplus="0.149">0.01</metallicity>
+		<magK>12.415</magK>
+		<magH>12.522</magH>
+		<magJ>12.965</magJ>
 		<planet>
 			<name>Kepler-989 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000009620" errorplus="0.000009620">7.964315350</period>
+			<period errorminus="9.62e-06" errorplus="9.62e-06">7.96431535</period>
 			<radius errorminus="0.012" errorplus="0.012">0.197</radius>
 		</planet>
 	</star>

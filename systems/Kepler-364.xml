@@ -2,8 +2,8 @@
 	<name>Kepler-364</name>
 	<name>KOI-2153</name>
 	<name>KIC 10253547</name>
-	<rightascension>18 46 16</rightascension>
-	<declination>+47 23 55</declination>
+	<rightascension>18 44 136.787100</rightascension>
+	<declination>47 23 55.3091999</declination>
 	<distance>872.59</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">12.676</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-364</name>
 		<name>KOI-2153</name>
 		<name>KIC 10253547</name>
-		<temperature errorminus="25" errorplus="125">6108</temperature>
-		<radius errorminus=".249" errorplus="0.249">1.284</radius>
-		<mass errorminus="0.1500" errorplus="0.1500">1.2000</mass>
+		<temperature errorminus="125.0" errorplus="125.0">6108.0</temperature>
+		<radius errorminus="0.25" errorplus="0.25">1.28</radius>
+		<mass>1.2</mass>
+		<metallicity>-0.026</metallicity>
 		<planet>
 			<name>Kepler-364 c</name>
 			<name>KOI-2153 c</name>
 			<name>KOI-2153.01</name>
 			<name>KIC 10253547 c</name>
 			<name>KIC 10253547.01</name>
-			<radius errorminus="0.03827" errorplus="0.03827">0.19593</radius>
-			<period errorminus=".000879" errorplus="0.000879">59.980627</period>
+			<radius errorminus="0.037" errorplus="0.037">0.192</radius>
+			<period errorminus="0.00087900" errorplus="0.00087900">59.98062700</period>
 			<transittime errorminus="0.0069700" errorplus="0.0069700">2455009.1502500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-364 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-364 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.312000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-364 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-2153.02</name>
 			<name>KIC 10253547 b</name>
 			<name>KIC 10253547.02</name>
-			<radius errorminus="0.03372" errorplus="0.03372">0.14125</radius>
-			<period errorminus=".000548" errorplus="0.000548">25.745718</period>
+			<radius errorminus="0.033" errorplus="0.033">0.138</radius>
+			<period errorminus="0.00054800" errorplus="0.00054800">25.74571800</period>
 			<transittime errorminus="0.0132100" errorplus="0.0132100">2454968.9505800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-364 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-364 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.178000</semimajoraxis>
 		</planet>
 	</star>
 </system>

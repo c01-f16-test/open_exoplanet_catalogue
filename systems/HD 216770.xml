@@ -1,10 +1,10 @@
 <system>
 	<name>HD 216770</name>
-	<rightascension>22 55 53</rightascension>
-	<declination>-26 39 31</declination>
-	<distance>38</distance>
+	<rightascension>22h55m53.71s</rightascension>
+	<declination>-26d39m31.5s</declination>
+	<distance errorminus="1.59" errorplus="1.46">37.89</distance>
 	<star>
-		<mass>0.9</mass>
+		<mass>0.90</mass>
 		<radius>1</radius>
 		<magV>8.1</magV>
 		<magJ errorminus="0.018" errorplus="0.018">6.752</magJ>
@@ -13,19 +13,19 @@
 		<magB>8.92</magB>
 		<metallicity>0.23</metallicity>
 		<spectraltype>K1 V</spectraltype>
+		<name>HD 216770</name>
+		<temperature>5248.0</temperature>
 		<planet>
 			<name>HD 216770 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.65</mass>
-			<period>118.45</period>
-			<semimajoraxis>0.46</semimajoraxis>
-			<eccentricity>0.37</eccentricity>
+			<mass>0.65000</mass>
+			<period errorminus="0.55000000" errorplus="0.55000000">118.45000000</period>
+			<semimajoraxis>0.460000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.370000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/30</lastupdate>
+			<lastupdate>15/04/24</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>338.2</temperature>
 		</planet>
-		<name>HD 216770</name>
-		<temperature>5248.0</temperature>
 	</star>
 </system>

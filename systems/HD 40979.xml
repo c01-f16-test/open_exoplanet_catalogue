@@ -7,6 +7,21 @@
 		<separation unit="arcsec">192</separation>
 		<separation unit="AU">6394</separation>
 		<positionangle>290</positionangle>
+		<binary>
+			<semimajoraxis>129</semimajoraxis>
+			<star>
+				<name>HD 40979 B</name>
+				<name>BD +44 1351</name>
+				<mass>0.833</mass>
+				<age>1</age>
+				<spectraltype>K5</spectraltype>
+			</star>
+			<star>
+				<name>HD 40979 C</name>
+				<mass>0.380</mass>
+				<age>1</age>
+			</star>
+		</binary>
 		<star>
 			<name>HD 40979 A</name>
 			<name>HIP 28767 A</name>
@@ -41,20 +56,5 @@
 				<discoveryyear>2002</discoveryyear>
 			</planet>
 		</star>
-		<binary>
-			<semimajoraxis>129</semimajoraxis>
-			<star>
-				<name>HD 40979 B</name>
-				<name>BD +44 1351</name>
-				<mass>0.833</mass>
-				<age>1</age>
-				<spectraltype>K5</spectraltype>
-			</star>
-			<star>
-				<name>HD 40979 C</name>
-				<mass>0.380</mass>
-				<age>1</age>
-			</star>
-		</binary>
 	</binary>
 </system>

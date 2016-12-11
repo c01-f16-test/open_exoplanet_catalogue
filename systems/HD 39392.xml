@@ -11,6 +11,8 @@
 		<magB errorminus="0.02" errorplus="0.02">8.94</magB>
 		<metallicity errorminus="0.03" errorplus="0.03">-0.32</metallicity>
 		<spectraltype>F8</spectraltype>
+		<name>HD 39392</name>
+		<temperature errorminus="42" errorplus="42">5951</temperature>
 		<planet>
 			<name>HD 39392 b</name>
 			<mass errorminus="0.08" errorplus="0.08">13.2</mass>
@@ -22,7 +24,5 @@
 			<lastupdate>16/03/02</lastupdate>
 			<discoveryyear>2016</discoveryyear>
 		</planet>
-		<name>HD 39392</name>
-		<temperature errorminus="42" errorplus="42">5951</temperature>
 	</star>
 </system>

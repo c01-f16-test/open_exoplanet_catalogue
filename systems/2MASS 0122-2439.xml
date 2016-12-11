@@ -22,10 +22,9 @@
 			<magH errorminus="0.04" errorplus="0.04">15.65</magH>
 			<magK errorminus="0.05" errorplus="0.05">14.53</magK>
 			<spectraltype>L4–L6</spectraltype>
-			<mass lowerlimit="12" upperlimit="27" />
+			<mass lowerlimit="12" upperlimit="27"/>
 			<separation errorminus="6" errorplus="6" unit="AU">52</separation>
 			<separation errorminus="0.007" errorplus="0.007" unit="arcsec">1.444</separation>
-			<positionangle errorminus="0.2" errorplus="0.2">216.7</positionangle>
 			<discoverymethod>imaging</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<list>Confirmed planets</list>

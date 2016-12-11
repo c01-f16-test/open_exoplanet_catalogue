@@ -11,6 +11,7 @@
 		<name>2MASS J18101138-2631226</name>
 		<mass>0.16</mass>
 		<spectraltype>M</spectraltype>
+		<temperature>3840.0</temperature>
 		<planet>
 			<name>MOA-2010-BLG-073L b</name>
 			<name>2MASS J18101138-2631226  b</name>
@@ -22,6 +23,5 @@
 			<lastupdate>12/11/19</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-		<temperature>3840.0</temperature>
 	</star>
 </system>

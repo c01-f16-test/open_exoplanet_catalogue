@@ -50,6 +50,7 @@
 			<planet>
 				<name>tau Gem b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass type="msini">20.6</mass>
 				<period errorminus="0.1" errorplus="0.1">305.5</period>
 				<eccentricity errorminus="0.009" errorplus="0.009">0.031</eccentricity>
@@ -59,7 +60,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/11/03</lastupdate>
 				<discoveryyear>2004</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

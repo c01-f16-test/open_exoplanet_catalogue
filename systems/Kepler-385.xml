@@ -2,8 +2,8 @@
 	<name>Kepler-385</name>
 	<name>KOI-2433</name>
 	<name>KIC 11968463</name>
-	<rightascension>19 37 21</rightascension>
-	<declination>+50 20 11</declination>
+	<rightascension>19 36 81.2329200</rightascension>
+	<declination>50 20 11.5584000</declination>
 	<distance>1677.42</distance>
 	<star>
 		<magJ errorminus="0.027" errorplus="0.027">14.156</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-385</name>
 		<name>KOI-2433</name>
 		<name>KIC 11968463</name>
-		<temperature errorminus="50" errorplus="250">6326</temperature>
-		<radius errorminus=".564" errorplus="0.564">1.126</radius>
-		<mass errorminus="0.3000" errorplus="0.3000">1.1000</mass>
+		<temperature errorminus="250.0" errorplus="250.0">6326.0</temperature>
+		<radius errorminus="0.56" errorplus="0.56">1.13</radius>
+		<mass>1.09</mass>
+		<metallicity>-0.034</metallicity>
 		<planet>
 			<name>Kepler-385 c</name>
 			<name>KOI-2433 c</name>
 			<name>KOI-2433.01</name>
 			<name>KIC 11968463 c</name>
 			<name>KIC 11968463.01</name>
-			<radius errorminus="0.05103" errorplus="0.14216">0.27704</radius>
-			<period errorminus=".000269" errorplus="0.000269">15.163161</period>
+			<radius errorminus="0.139" errorplus="0.139">0.271</radius>
+			<period errorminus="0.00026900" errorplus="0.00026900">15.16316100</period>
 			<transittime errorminus="0.0109000" errorplus="0.0109000">2454977.4574100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-385 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-385 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.127000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-385 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-2433.02</name>
 			<name>KIC 11968463 b</name>
 			<name>KIC 11968463.02</name>
-			<radius errorminus="0.03463" errorplus="0.12576">0.24879</radius>
-			<period errorminus=".000128" errorplus="0.000128">10.043686</period>
+			<radius errorminus="0.123" errorplus="0.123">0.244</radius>
+			<period errorminus="0.00012800" errorplus="0.00012800">10.04368600</period>
 			<transittime errorminus="0.0053100" errorplus="0.0053100">2455186.6250300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-385 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-385 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.097000</semimajoraxis>
 		</planet>
 	</star>
 </system>

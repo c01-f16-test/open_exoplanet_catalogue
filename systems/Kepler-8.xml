@@ -14,6 +14,10 @@
 		<magK errorminus="0.016" errorplus="0.016">12.293</magK>
 		<spectraltype>F</spectraltype>
 		<metallicity errorminus="0.09" errorplus="0.09">0.05</metallicity>
+		<name>Kepler-8</name>
+		<name>KOI-10</name>
+		<name>KIC 6922244</name>
+		<temperature errorminus="75" errorplus="75">6251</temperature>
 		<planet>
 			<name>Kepler-8 b</name>
 			<name>2MASS J18450914+4227038 b</name>
@@ -34,9 +38,5 @@
 			<temperature>1519.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-8</name>
-		<name>KOI-10</name>
-		<name>KIC 6922244</name>
-		<temperature errorminus="75" errorplus="75">6251</temperature>
 	</star>
 </system>

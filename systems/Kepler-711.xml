@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-711</name>
-	<rightascension>19 49 50</rightascension>
-	<declination>+42 50 24</declination>
+	<rightascension>19 48 110.403600</rightascension>
+	<declination>42 50 23.7264000</declination>
+	<distance>664.0</distance>
 	<star>
 		<name>Kepler-711</name>
-		<temperature errorminus="219.6" errorplus="237.0">5222.0</temperature>
+		<temperature errorminus="219.6" errorplus="236.98">5222.0</temperature>
 		<mass errorminus="0.06" errorplus="0.06">0.84</mass>
-		<radius errorminus="0.06" errorplus="0.08">0.80</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.04</metallicity>
+		<radius errorminus="0.06" errorplus="0.08">0.8</radius>
+		<metallicity errorminus="0.176" errorplus="0.158">-0.04</metallicity>
+		<magK>13.061</magK>
+		<magH>13.2</magH>
+		<magJ>13.697</magJ>
 		<planet>
 			<name>Kepler-711 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000066470" errorplus="0.000066470">23.589143980</period>
-			<radius errorminus="0.056" errorplus="0.030">0.304</radius>
+			<period errorminus="6.647e-05" errorplus="6.647e-05">23.58914398</period>
+			<radius errorminus="0.056" errorplus="0.03">0.304</radius>
 		</planet>
 	</star>
 </system>

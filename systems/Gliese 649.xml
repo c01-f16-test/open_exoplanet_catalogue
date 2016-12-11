@@ -14,6 +14,8 @@
 		<magK errorminus="0.016" errorplus="0.016">5.624</magK>
 		<metallicity>0.08</metallicity>
 		<spectraltype>M1.5</spectraltype>
+		<name>Gliese 649</name>
+		<temperature>3700.0</temperature>
 		<planet>
 			<name>Gliese 649 b</name>
 			<name>GJ 649 b</name>
@@ -44,7 +46,5 @@
 			<discoveryyear>2013</discoveryyear>
 			<lastupdate>15/04/23</lastupdate>
 		</planet>
-		<name>Gliese 649</name>
-		<temperature>3700.0</temperature>
 	</star>
 </system>

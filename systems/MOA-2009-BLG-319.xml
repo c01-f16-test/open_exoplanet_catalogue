@@ -6,6 +6,8 @@
 	<star>
 		<mass>0.38</mass>
 		<spectraltype>K</spectraltype>
+		<name>MOA-2009-BLG-319</name>
+		<temperature>5150.0</temperature>
 		<planet>
 			<name>MOA-2009-BLG-319 b</name>
 			<name>MOA 2009-BLG-319L b</name>
@@ -16,7 +18,5 @@
 			<lastupdate>10/10/12</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 		</planet>
-		<name>MOA-2009-BLG-319</name>
-		<temperature>5150.0</temperature>
 	</star>
 </system>

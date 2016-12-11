@@ -1,10 +1,10 @@
 <system>
 	<name>WASP-32</name>
-	<rightascension>00 15 51</rightascension>
-	<declination>+01 12 02</declination>
+	<rightascension>00h15m50.80s</rightascension>
+	<declination>+01d12m01.6s</declination>
 	<star>
-		<mass errorminus="0.03" errorplus="0.03">1.1</mass>
-		<radius>1.09</radius>
+		<mass errorplus="0.03">1.10</mass>
+		<radius errorplus="0.05">1.11</radius>
 		<magV>11.3</magV>
 		<magB errorminus="0.18" errorplus="0.18">12.06</magB>
 		<magR errorminus="0.03" errorplus="0.03">11.63</magR>
@@ -15,26 +15,26 @@
 		<metallicity>-0.13</metallicity>
 		<spectraltype>G</spectraltype>
 		<age>2.42</age>
+		<name>WASP-32</name>
+		<temperature errorplus="100.00">6100.00</temperature>
 		<planet>
 			<name>WASP-32 b</name>
 			<name>TYC 002-01155-1 b</name>
 			<name>2MASS J00155080+0112016 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.07" errorplus="0.07">3.60</mass>
-			<radius errorminus="0.06" errorplus="0.06">1.19</radius>
-			<period errorminus="0.000008" errorplus="0.000008">2.718659</period>
-			<semimajoraxis errorminus="0.0003" errorplus="0.0003">0.0394</semimajoraxis>
-			<eccentricity errorminus="0.0065" errorplus="0.0065">0.0180</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000">3.60000</mass>
+			<radius errorminus="0.070" errorplus="0.070">1.180</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">2.71865900</period>
+			<semimajoraxis errorminus="0.000300" errorplus="0.000300">0.039400</semimajoraxis>
+			<eccentricity errorminus="0.006500" errorplus="0.006500">0.018000</eccentricity>
 			<spinorbitalignment>10.5</spinorbitalignment>
-			<inclination errorminus="0.5" errorplus="0.5">85.3</inclination>
+			<inclination errorminus="0.500" errorplus="0.500">85.300</inclination>
 			<transittime errorminus="0.0005" errorplus="0.0005" unit="BJD">2455151.0553</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/03/20</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1427.6</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-32</name>
-		<temperature errorminus="100" errorplus="100">6100.0</temperature>
 	</star>
 </system>

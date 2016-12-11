@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-614</name>
-	<rightascension>19 53 32</rightascension>
-	<declination>+46 16 34</declination>
+	<rightascension>19 52 92.3575200</rightascension>
+	<declination>46 16 33.7548000</declination>
+	<distance>571.0</distance>
 	<star>
 		<name>Kepler-614</name>
-		<temperature errorminus="126.0" errorplus="186.4">5268.0</temperature>
+		<temperature errorminus="125.95" errorplus="186.36">5268.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.85</mass>
 		<radius errorminus="0.05" errorplus="0.07">0.81</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.07</metallicity>
+		<metallicity errorminus="0.169" errorplus="0.15">-0.07</metallicity>
+		<magK>12.662</magK>
+		<magH>12.72</magH>
+		<magJ>13.195</magJ>
 		<planet>
 			<name>Kepler-614 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000025970" errorplus="0.000025970">14.034915140</period>
+			<period errorminus="2.597e-05" errorplus="2.597e-05">14.03491514</period>
 			<radius errorminus="0.015" errorplus="0.018">0.213</radius>
 		</planet>
 	</star>

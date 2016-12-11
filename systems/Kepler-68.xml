@@ -37,6 +37,7 @@
 				<name>KOI-246 b</name>
 				<name>KOI-246 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.007" errorplus="0.008">0.026</mass>
 				<radius errorminus="0.008" errorplus="0.005">0.206</radius>
 				<temperature errorminus="90" errorplus="90">1280</temperature>
@@ -50,7 +51,6 @@
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 b has a density intermediate between that of ice giants and Earth.</description>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-68 c</name>
@@ -62,6 +62,7 @@
 				<name>KOI-246 c</name>
 				<name>KOI-246 A c</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.011" errorplus="0.008">0.015</mass>
 				<radius errorminus="0.0037" errorplus="0.0033">0.0850</radius>
 				<period errorminus="0.000072" errorplus="0.000072">9.605085</period>
@@ -73,7 +74,6 @@
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet was discovered by radial velocity follow-up observation. Kepler-68 c is Earth-sized.</description>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 			<planet>
 				<name>Kepler-68 d</name>
@@ -85,6 +85,7 @@
 				<name>KOI-246 d</name>
 				<name>KOI-246 A d</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.035" errorplus="0.035" type="msini">0.947</mass>
 				<period errorminus="15" errorplus="15">580</period>
 				<semimajoraxis errorminus="0.03" errorplus="0.03">1.40</semimajoraxis>
@@ -93,7 +94,6 @@
 				<lastupdate>15/06/09</lastupdate>
 				<discoveryyear>2013</discoveryyear>
 				<description>The inner two planets in the Kepler-68 system are transiting. The outer planet, Kepler-68 d, was discovered by radial velocity follow-up observation. The mass is therefore a lower limit.</description>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

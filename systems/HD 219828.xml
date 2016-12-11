@@ -1,31 +1,41 @@
 <system>
 	<name>HD 219828</name>
-	<rightascension>23 18 47</rightascension>
-	<declination>+18 38 45</declination>
-	<distance>81.1</distance>
+	<rightascension>23 15 226.999991</rightascension>
+	<declination>18 38 44.9998800</declination>
+	<distance errorminus="1.0" errorplus="1.0">81.1</distance>
 	<star>
 		<mass>1.24</mass>
-		<radius>1.7</radius>
+		<radius errorminus="0.16" errorplus="0.16">1.7</radius>
 		<magV>8.04</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.68</magB>
 		<magJ errorminus="0.021" errorplus="0.021">6.871</magJ>
 		<magH errorminus="0.024" errorplus="0.024">6.614</magH>
 		<magK errorminus="0.018" errorplus="0.018">6.530</magK>
-		<metallicity>0.19</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.19</metallicity>
 		<spectraltype>G0IV</spectraltype>
+		<name>HD 219828</name>
+		<temperature errorminus="18.0" errorplus="18.0">5891.0</temperature>
+		<age errorminus="1.2" errorplus="1.2">5.8</age>
 		<planet>
 			<name>HD 219828 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.066</mass>
-			<period>3.8335</period>
-			<semimajoraxis>0.052</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
+			<mass errorminus="0.00440" errorplus="0.00440">0.06607</mass>
+			<period errorminus="0.00009600" errorplus="0.00009600">3.83488700</period>
+			<semimajoraxis>0.045000</semimajoraxis>
+			<eccentricity errorminus="0.036000" errorplus="0.036000">0.059000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/21</lastupdate>
+			<lastupdate>16/06/03</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1485.2</temperature>
 		</planet>
-		<name>HD 219828</name>
-		<temperature>5891.0</temperature>
+		<planet>
+			<lastupdate>16/06/03</lastupdate>
+			<semimajoraxis>5.960000</semimajoraxis>
+			<discoverymethod>RV</discoverymethod>
+			<period errorminus="75.00000000" errorplus="75.00000000">4791.00000000</period>
+			<name>HD 219828 c</name>
+			<mass errorminus="0.85000" errorplus="0.85000">15.10000</mass>
+			<eccentricity errorminus="0.003200" errorplus="0.003200">0.811500</eccentricity>
+		</planet>
 	</star>
 </system>

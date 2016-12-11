@@ -2,8 +2,8 @@
 	<name>Kepler-300</name>
 	<name>KOI-1435</name>
 	<name>KIC 11037335</name>
-	<rightascension>19 41 09</rightascension>
-	<declination>+48 35 58</declination>
+	<rightascension>19 40 69.2871240</rightascension>
+	<declination>48 35 58.9920000</declination>
 	<distance>753.63</distance>
 	<star>
 		<magJ errorminus="0.023" errorplus="0.023">13.113</magJ>
@@ -13,23 +13,25 @@
 		<name>KOI-1435</name>
 		<name>KIC 11037335</name>
 		<temperature errorminus="200" errorplus="200">5986</temperature>
-		<radius errorminus=".410" errorplus="0.410">0.900</radius>
-		<mass errorminus="0.0840" errorplus="0.0840">1.0350</mass>
+		<radius errorminus="0.41" errorplus="0.41">0.9</radius>
+		<mass>0.94</mass>
+		<metallicity>-0.238</metallicity>
 		<planet>
 			<name>Kepler-300 c</name>
 			<name>KOI-1435 c</name>
 			<name>KOI-1435.01</name>
 			<name>KIC 11037335 c</name>
 			<name>KIC 11037335.01</name>
-			<radius errorminus="0.00365" errorplus="0.09478">0.20504</radius>
-			<period errorminus=".000245" errorplus="0.000245">40.714955</period>
+			<radius errorminus="0.093" errorplus="0.093">0.201</radius>
+			<period errorminus="0.00024500" errorplus="0.00024500">40.71495500</period>
 			<transittime errorminus="0.0034300" errorplus="0.0034300">2454979.5644300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-300 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-300 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.232000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-300 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1435.02</name>
 			<name>KIC 11037335 b</name>
 			<name>KIC 11037335.02</name>
-			<radius errorminus="0.06926" errorplus="0.06926">0.15219</radius>
-			<period errorminus=".000043" errorplus="0.000043">10.446347</period>
+			<radius errorminus="0.068" errorplus="0.068">0.149</radius>
+			<period errorminus="0.00004300" errorplus="0.00004300">10.44634700</period>
 			<transittime errorminus="0.0022500" errorplus="0.0022500">2454966.2780300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-300 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-300 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.094000</semimajoraxis>
 		</planet>
 	</star>
 </system>

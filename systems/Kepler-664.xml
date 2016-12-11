@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-664</name>
-	<rightascension>19 15 01</rightascension>
-	<declination>+48 13 34</declination>
+	<rightascension>19 11 241.172879</rightascension>
+	<declination>48 13 34.3200000</declination>
+	<distance>1386.0</distance>
 	<star>
 		<name>Kepler-664</name>
-		<temperature errorminus="86.1" errorplus="73.6">5754.0</temperature>
+		<temperature errorminus="86.08" errorplus="73.56">5754.0</temperature>
 		<mass errorminus="0.05" errorplus="0.06">1.01</mass>
-		<radius errorminus="0.10" errorplus="0.26">1.02</radius>
-		<metallicity errorminus="0.15" errorplus="0.15">0.07</metallicity>
+		<radius errorminus="0.1" errorplus="0.26">1.02</radius>
+		<metallicity errorminus="0.15" errorplus="0.146">0.07</metallicity>
+		<magK>13.952</magK>
+		<magH>14.064</magH>
+		<magJ>14.366</magJ>
 		<planet>
 			<name>Kepler-664 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000003670" errorplus="0.000003670">2.525593320</period>
+			<period errorminus="3.67e-06" errorplus="3.67e-06">2.52559332</period>
 			<radius errorminus="0.022" errorplus="0.061">0.237</radius>
 		</planet>
 	</star>

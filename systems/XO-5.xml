@@ -1,36 +1,37 @@
 <system>
 	<name>XO-5</name>
-	<rightascension>07 46 52</rightascension>
-	<declination>+39 05 41</declination>
-	<distance>255</distance>
+	<rightascension>7 44 172.000008</rightascension>
+	<declination>39 5 40.9999199</declination>
+	<distance errorminus="13.0" errorplus="13.0">255.0</distance>
 	<star>
-		<mass>0.88</mass>
-		<radius>1.06</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.88</mass>
+		<radius errorminus="0.05" errorplus="0.05">1.06</radius>
 		<magV>12.13</magV>
 		<magR>11.95</magR>
-		<magJ errorminus="0.019" errorplus="0.019">10.774</magJ>
-		<magH errorminus="0.021" errorplus="0.021">10.443</magH>
+		<magJ>10.77</magJ>
+		<magH>10.44</magH>
 		<magK errorminus="0.018" errorplus="0.018">10.345</magK>
-		<metallicity>0.18</metallicity>
+		<metallicity errorminus="0.03" errorplus="0.03">0.18</metallicity>
 		<spectraltype>G8V</spectraltype>
+		<name>XO-5</name>
+		<temperature errorminus="44.0" errorplus="44.0">5510.0</temperature>
+		<age errorminus="0.8" errorplus="0.8">8.5</age>
 		<planet>
 			<name>XO-5 b</name>
 			<name>2MASS J07465196+3905404 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.077</mass>
-			<radius>1.03</radius>
-			<period>4.1877537</period>
-			<semimajoraxis>0.0487</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>86.8</inclination>
+			<mass errorminus="0.03000" errorplus="0.03000">1.19000</mass>
+			<radius errorminus="0.030" errorplus="0.030">1.140</radius>
+			<period errorminus="0.00000060" errorplus="0.00000060">4.18775580</period>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.051500</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">86.800</inclination>
 			<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454485.6842</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/03/07</lastupdate>
+			<lastupdate>15/02/12</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1133.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>XO-5</name>
-		<temperature>5510.0</temperature>
 	</star>
 </system>

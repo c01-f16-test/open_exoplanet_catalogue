@@ -6,6 +6,8 @@
 		<mass>0.84</mass>
 		<magV>18.2</magV>
 		<spectraltype>Catac. var.</spectraltype>
+		<name>UZ For(ab)</name>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>UZ For(ab) d</name>
 			<name>UZ For d</name>
@@ -21,7 +23,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>127.9</temperature>
 		</planet>
-		<name>UZ For(ab)</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

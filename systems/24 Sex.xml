@@ -3,6 +3,7 @@
 	<rightascension>10 23 28.370</rightascension>
 	<declination>-00 54 08.09</declination>
 	<distance errorminus="4.9" errorplus="4.9">74.8</distance>
+	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>
 	<star>
 		<name>24 Sex</name>
 		<name>24 Sextantis</name>
@@ -56,5 +57,4 @@
 			<discoveryyear>2010</discoveryyear>
 		</planet>
 	</star>
-	<videolink>http://youtu.be/Q-rFK86m6_s</videolink>
 </system>

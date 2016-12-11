@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1628</name>
-	<rightascension>18 46 32</rightascension>
-	<declination>+43 24 42</declination>
+	<rightascension>18 44 152.088000</rightascension>
+	<declination>43 24 41.6843999</declination>
+	<distance>352.0</distance>
 	<star>
 		<name>Kepler-1628</name>
-		<temperature errorminus="48.6" errorplus="65.6">3724.0</temperature>
+		<temperature errorminus="48.58" errorplus="65.64">3724.0</temperature>
 		<mass errorminus="0.03" errorplus="0.04">0.55</mass>
 		<radius errorminus="0.03" errorplus="0.04">0.52</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">0.17</metallicity>
+		<metallicity errorminus="0.107" errorplus="0.104">0.17</metallicity>
+		<magK>13.224</magK>
+		<magH>13.41</magH>
+		<magJ>14.126</magJ>
 		<planet>
 			<name>Kepler-1628 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.001833000" errorplus="0.001833000">76.378033000</period>
+			<period errorminus="0.001833" errorplus="0.001833">76.378033</period>
 			<radius errorminus="0.045" errorplus="0.084">0.574</radius>
 		</planet>
 	</star>

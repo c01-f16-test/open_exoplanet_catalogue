@@ -1,8 +1,8 @@
 <system>
 	<name>HIP 12961</name>
-	<rightascension>02 46 43</rightascension>
-	<declination>-23 05 12</declination>
-	<distance>23</distance>
+	<rightascension>02h46m42.89s</rightascension>
+	<declination>-23d05m11.8s</declination>
+	<distance errorminus="0.93" errorplus="0.86">23.80</distance>
 	<star>
 		<mass>0.67</mass>
 		<magV>10.31</magV>
@@ -14,19 +14,19 @@
 		<magK errorminus="0.018" errorplus="0.018">6.736</magK>
 		<metallicity>-0.07</metallicity>
 		<spectraltype>M0V</spectraltype>
+		<name>HIP 12961</name>
+		<temperature>3840.0</temperature>
 		<planet>
 			<name>HIP 12961 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.35</mass>
-			<period>57.435</period>
-			<semimajoraxis>0.13</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass>0.35000</mass>
+			<period errorminus="0.04200000" errorplus="0.04200000">57.43500000</period>
+			<semimajoraxis>0.250000</semimajoraxis>
+			<eccentricity errorminus="0.034000" errorplus="0.034000">0.166000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/11/23</lastupdate>
+			<lastupdate>15/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>393.0</temperature>
 		</planet>
-		<name>HIP 12961</name>
-		<temperature>3840.0</temperature>
 	</star>
 </system>

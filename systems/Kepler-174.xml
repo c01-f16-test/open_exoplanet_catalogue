@@ -2,8 +2,8 @@
 	<name>Kepler-174</name>
 	<name>KOI-518</name>
 	<name>KIC 8017703</name>
-	<rightascension>19 09 45</rightascension>
-	<declination>+43 49 55</declination>
+	<rightascension>19 7 165.410147</rightascension>
+	<declination>43 49 55.5312000</declination>
 	<distance>360.14</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">12.791</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-174</name>
 		<name>KOI-518</name>
 		<name>KIC 8017703</name>
-		<temperature errorminus="26" errorplus="126">4880</temperature>
-		<radius errorminus=".032" errorplus="0.032">0.622</radius>
+		<temperature errorminus="126.0" errorplus="126.0">4880.0</temperature>
+		<radius errorminus="0.03" errorplus="0.03">0.62</radius>
 		<mass errorminus="0.0190" errorplus="0.0190">0.6020</mass>
+		<metallicity>-0.556</metallicity>
 		<planet>
 			<name>Kepler-174 b</name>
 			<name>KOI-518 b</name>
 			<name>KOI-518.01</name>
 			<name>KIC 8017703 b</name>
 			<name>KIC 8017703.01</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.17862</radius>
-			<period errorminus=".000024" errorplus="0.000024">13.981790</period>
+			<radius errorminus="0.010" errorplus="0.010">0.175</radius>
+			<period errorminus="0.00002400" errorplus="0.00002400">13.98179000</period>
 			<transittime errorminus="0.0009500" errorplus="0.0009500">2455014.9735100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-174 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-174 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.100000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-174 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-518.02</name>
 			<name>KIC 8017703 c</name>
 			<name>KIC 8017703.02</name>
-			<radius errorminus="0.00820" errorplus="0.00820">0.13578</radius>
-			<period errorminus=".000265" errorplus="0.000265">44.000529</period>
+			<radius errorminus="0.008" errorplus="0.008">0.133</radius>
+			<period errorminus="0.00026500" errorplus="0.00026500">44.00052900</period>
 			<transittime errorminus="0.0031200" errorplus="0.0031200">2455043.7590800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-174 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-174 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.214000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-174 d</name>
@@ -53,15 +56,16 @@
 			<name>KOI-518.03</name>
 			<name>KIC 8017703 d</name>
 			<name>KIC 8017703.03</name>
-			<radius errorminus="0.01185" errorplus="0.01185">0.19958</radius>
-			<period errorminus=".002001" errorplus="0.002001">247.353730</period>
+			<radius errorminus="0.012" errorplus="0.012">0.195</radius>
+			<period errorminus="0.00200100" errorplus="0.00200100">247.35373000</period>
 			<transittime errorminus="0.0034600" errorplus="0.0034600">2455197.1587500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-174 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-174 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.677000</semimajoraxis>
 		</planet>
 	</star>
 </system>

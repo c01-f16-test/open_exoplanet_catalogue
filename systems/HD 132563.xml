@@ -43,6 +43,7 @@
 				<name>HD 132563 B b</name>
 				<name>HD 132563 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.49</mass>
 				<period>1544</period>
 				<semimajoraxis>2.62</semimajoraxis>
@@ -52,7 +53,6 @@
 				<lastupdate>11/07/06</lastupdate>
 				<discoveryyear>2011</discoveryyear>
 				<temperature>158.5</temperature>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 	</binary>

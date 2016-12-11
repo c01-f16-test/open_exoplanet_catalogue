@@ -1,12 +1,12 @@
 <system>
 	<name>TrES-5</name>
-	<rightascension>20 20 53</rightascension>
-	<declination>+59 26 55</declination>
-	<distance>360</distance>
+	<rightascension>20h20m53.24s</rightascension>
+	<declination>+59d26m55.6s</declination>
+	<distance errorminus="11.00" errorplus="11.00">360.00</distance>
 	<star>
 		<name>TrES-5</name>
-		<mass>0.88</mass>
-		<radius>0.85</radius>
+		<mass errorminus="0.03" errorplus="0.03">0.90</mass>
+		<radius errorminus="0.01" errorplus="0.01">0.87</radius>
 		<magB errorminus="0.41" errorplus="0.41">14.45</magB>
 		<magV errorminus="0.26" errorplus="0.26">13.58</magV>
 		<magR errorminus="0.07" errorplus="0.07">13.77</magR>
@@ -16,21 +16,21 @@
 		<magK errorminus="0.019" errorplus="0.019">11.591</magK>
 		<metallicity>0.20</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<temperature>5171</temperature>
+		<temperature errorminus="36.00" errorplus="36.00">5171.00</temperature>
 		<age>7.38</age>
 		<planet>
 			<name>TrES-5 b</name>
 			<name>2MASS J20205324+5926556 b</name>
 			<name>TrES-5</name>
 			<list>Confirmed planets</list>
-			<mass>1.778</mass>
-			<radius>1.209</radius>
-			<period>1.4822446</period>
-			<semimajoraxis>0.02446</semimajoraxis>
-			<inclination>84.529</inclination>
+			<mass errorminus="0.06800" errorplus="0.06800">1.79000</mass>
+			<radius errorminus="0.015" errorplus="0.015">1.194</radius>
+			<period errorminus="0.00000614" errorplus="0.00000614">1.48224686</period>
+			<semimajoraxis errorminus="0.000700" errorplus="0.000700">0.024590</semimajoraxis>
+			<inclination errorminus="0.260" errorplus="0.260">84.270</inclination>
 			<transittime errorminus="0.0001069" errorplus="0.0001069" unit="BJD">2455443.25398</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/05</lastupdate>
+			<lastupdate>15/04/16</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<description>TrES-5 b transits one of the faintest stars with known transiting planets.</description>
 			<istransiting>1</istransiting>

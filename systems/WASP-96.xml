@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-96</name>
-	<rightascension>00 04 11</rightascension>
-	<declination>-47 21 38</declination>
+	<rightascension>00h04m11.12s</rightascension>
+	<declination>-47d21m38.3s</declination>
 	<star>
 		<name>WASP-96</name>
 		<name>1SWASP J000411.14-472138.2</name>
@@ -21,17 +21,17 @@
 			<name>1SWASP J000411.14-472138.2 b</name>
 			<name>2MASS 00041112-4721382 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.03" errorplus="0.03">0.48</mass>
-			<radius errorminus="0.06" errorplus="0.06">1.2</radius>
+			<mass errorminus="0.03000" errorplus="0.03000">0.48000</mass>
+			<radius errorminus="0.060" errorplus="0.060">1.200</radius>
 			<temperature errorminus="40" errorplus="40">1285</temperature>
-			<period errorminus="0.0000027" errorplus="0.0000027">3.4252602</period>
+			<period errorminus="0.00000270" errorplus="0.00000270">3.42526020</period>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="HJD">2456258.0621</transittime>
-			<semimajoraxis errorminus="0.0013" errorplus="0.0013">0.0453</semimajoraxis>
-			<eccentricity upperlimit="0.27" />
-			<inclination errorminus="0.2" errorplus="0.2">85.6</inclination>
+			<semimajoraxis errorminus="0.001300" errorplus="0.001300">0.045300</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">85.600</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

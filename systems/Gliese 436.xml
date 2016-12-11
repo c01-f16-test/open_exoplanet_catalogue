@@ -3,6 +3,7 @@
 	<rightascension>11 42 11</rightascension>
 	<declination>+26 42 23</declination>
 	<distance errorminus="0.23" errorplus="0.25">10.14</distance>
+	<videolink>http://youtu.be/csx-hif97mw</videolink>
 	<star>
 		<mass errorminus="0.012" errorplus="0.014">0.452</mass>
 		<radius errorminus="0.012" errorplus="0.014">0.464</radius>
@@ -15,6 +16,8 @@
 		<magK errorminus="0.016" errorplus="0.016">6.073</magK>
 		<metallicity>-0.32</metallicity>
 		<spectraltype>M2V</spectraltype>
+		<name>Gliese 436</name>
+		<temperature>3684.0</temperature>
 		<planet>
 			<name>Gliese 436 b</name>
 			<name>GJ 436 b</name>
@@ -53,15 +56,8 @@
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>12/07/20</lastupdate>
 			<discoveryyear>2012</discoveryyear>
-			<image>ucf101</image>
-			<imagedescription>This artist's concept shows what astronomers believe is an alien world just two-thirds the size of Earth. It was identified by NASA's Spitzer Space Telescope. UCF-1.01 might be the nearest world to our solar system that is smaller than our home planet. 
-	
-	Credit: NASA/JPL-Caltech</imagedescription>
 			<temperature>813.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>Gliese 436</name>
-		<temperature>3684.0</temperature>
 	</star>
-	<videolink>http://youtu.be/csx-hif97mw</videolink>
 </system>

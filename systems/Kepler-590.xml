@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-590</name>
-	<rightascension>19 45 33</rightascension>
-	<declination>+48 14 00</declination>
+	<rightascension>19 44 92.5305600</rightascension>
+	<declination>48 14 0.41279999</declination>
+	<distance>986.0</distance>
 	<star>
 		<name>Kepler-590</name>
-		<temperature errorminus="147.5" errorplus="107.7">6000.0</temperature>
-		<mass errorminus="0.08" errorplus="0.09">1.10</mass>
+		<temperature errorminus="147.47" errorplus="107.67">6000.0</temperature>
+		<mass errorminus="0.08" errorplus="0.09">1.1</mass>
 		<radius errorminus="0.14" errorplus="0.31">1.15</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.07</metallicity>
+		<metallicity errorminus="0.144" errorplus="0.14">0.07</metallicity>
+		<magK>12.936</magK>
+		<magH>12.979</magH>
+		<magJ>13.268</magJ>
 		<planet>
 			<name>Kepler-590 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000004740" errorplus="0.000004740">5.852962570</period>
+			<period errorminus="4.74e-06" errorplus="4.74e-06">5.85296257</period>
 			<radius errorminus="0.045" errorplus="0.097">0.359</radius>
 		</planet>
 	</star>

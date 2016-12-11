@@ -1,10 +1,10 @@
 <system>
 	<name>WASP-46</name>
-	<rightascension>21 14 57</rightascension>
-	<declination>-55 52 18</declination>
+	<rightascension>21h14m56.88s</rightascension>
+	<declination>-55d52m18.4s</declination>
 	<star>
-		<mass>0.956</mass>
-		<radius>0.917</radius>
+		<mass errorminus="0.08" errorplus="0.08">0.83</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.86</radius>
 		<magV>12.9</magV>
 		<magB>13.0</magB>
 		<magR errorminus="0.08" errorplus="0.08">13.06</magR>
@@ -14,25 +14,25 @@
 		<magK errorminus="0.026" errorplus="0.026">11.401</magK>
 		<metallicity>-0.37</metallicity>
 		<spectraltype>G6V</spectraltype>
+		<name>WASP-46</name>
+		<temperature>5600.00</temperature>
 		<planet>
 			<name>WASP-46 b</name>
 			<name>2MASS J21145687-5552184 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.101</mass>
-			<radius>1.31</radius>
-			<period>1.43037</period>
-			<semimajoraxis>0.02448</semimajoraxis>
+			<mass errorminus="0.13000" errorplus="0.13000">1.91000</mass>
+			<radius errorminus="0.037" errorplus="0.037">1.174</radius>
+			<period errorminus="0.00000093" errorplus="0.00000093">1.43036763</period>
+			<semimajoraxis errorminus="0.000720" errorplus="0.000720">0.023350</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>82.63</inclination>
+			<inclination errorminus="0.170" errorplus="0.170">82.800</inclination>
 			<transittime errorminus="0.00020" errorplus="0.00020" unit="BJD">2455392.31627</transittime>
 			<description>WASP-46 b has about twice the mass of Jupiter and orbits a G6V star which shows evidence of being photospherically and chromospherically active.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/05/17</lastupdate>
+			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1516.6</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-46</name>
-		<temperature>5620.0</temperature>
 	</star>
 </system>

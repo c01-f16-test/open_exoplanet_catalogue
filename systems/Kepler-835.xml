@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-835</name>
-	<rightascension>18 54 18</rightascension>
-	<declination>+45 44 05</declination>
+	<rightascension>18 52 137.815920</rightascension>
+	<declination>45 44 5.28719999</declination>
+	<distance>2011.0</distance>
 	<star>
 		<name>Kepler-835</name>
-		<temperature errorminus="71.0" errorplus="71.9">5954.0</temperature>
+		<temperature errorminus="70.98" errorplus="71.86">5954.0</temperature>
 		<mass errorminus="0.05" errorplus="0.07">1.08</mass>
-		<radius errorminus="0.10" errorplus="0.21">1.11</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.08</metallicity>
+		<radius errorminus="0.1" errorplus="0.21">1.11</radius>
+		<metallicity errorminus="0.143" errorplus="0.142">0.08</metallicity>
+		<magK>14.561</magK>
+		<magH>14.586</magH>
+		<magJ>14.858</magJ>
 		<planet>
 			<name>Kepler-835 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000071160" errorplus="0.000071160">11.419093750</period>
+			<period errorminus="7.116e-05" errorplus="7.116e-05">11.41909375</period>
 			<radius errorminus="0.026" errorplus="0.048">0.249</radius>
 		</planet>
 	</star>

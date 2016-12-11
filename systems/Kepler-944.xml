@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-944</name>
-	<rightascension>19 34 24</rightascension>
-	<declination>+42 22 47</declination>
+	<rightascension>19 32 144.302880</rightascension>
+	<declination>42 22 47.1395999</declination>
+	<distance>1035.0</distance>
 	<star>
 		<name>Kepler-944</name>
-		<temperature errorminus="133.2" errorplus="108.7">5409.0</temperature>
+		<temperature errorminus="133.24" errorplus="108.67">5409.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.86</mass>
 		<radius errorminus="0.06" errorplus="0.08">0.83</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.11</metallicity>
+		<metallicity errorminus="0.183" errorplus="0.161">-0.11</metallicity>
+		<magK>13.851</magK>
+		<magH>13.96</magH>
+		<magJ>14.364</magJ>
 		<planet>
 			<name>Kepler-944 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000235100" errorplus="0.000235100">43.316773700</period>
+			<period errorminus="0.0002351" errorplus="0.0002351">43.3167737</period>
 			<radius errorminus="0.019" errorplus="0.024">0.235</radius>
 		</planet>
 	</star>

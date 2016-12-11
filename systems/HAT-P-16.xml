@@ -24,6 +24,7 @@
 				<name>HAT-P-16 b</name>
 				<name>HAT-P-16 A b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass errorminus="0.128" errorplus="0.128">4.193</mass>
 				<radius errorminus="0.037" errorplus="0.037">1.190</radius>
 				<period errorminus="0.0000015" errorplus="0.0000015">2.7759712</period>
@@ -36,7 +37,6 @@
 				<temperature errorminus="22" errorplus="22">1567</temperature>
 				<transittime errorminus="0.00040" errorplus="0.00040" unit="BJD">2455027.59821</transittime>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

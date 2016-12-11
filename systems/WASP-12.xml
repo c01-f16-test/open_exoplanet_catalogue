@@ -1,48 +1,12 @@
 <system>
 	<name>WASP-12</name>
-	<rightascension>06 30 33</rightascension>
-	<declination>+29 40 20</declination>
-	<distance errorminus="30" errorplus="30">250</distance>
+	<rightascension>6 28 153.000000</rightascension>
+	<declination>29 40 19.9999199</declination>
+	<distance errorminus="90.0" errorplus="90.0">427.0</distance>
 	<binary>
 		<separation errorminus="0.019" errorplus="0.019" unit="arcsec">1.064</separation>
 		<separation errorminus="5" errorplus="5" unit="AU">266</separation>
 		<positionangle>251.3</positionangle>
-		<star>
-			<name>WASP-12</name>
-			<name>WASP-12 A</name>
-			<mass>1.35</mass>
-			<radius>1.599</radius>
-			<magV>11.69</magV>
-			<magR>11.6</magR>
-			<magB errorminus="0.21" errorplus="0.21">12.14</magB>
-			<magJ errorminus="0.021" errorplus="0.021">10.477</magJ>
-			<magH errorminus="0.022" errorplus="0.022">10.228</magH>
-			<magK errorminus="0.020" errorplus="0.020">10.188</magK>
-			<temperature errorminus="64" errorplus="64">6118</temperature>
-			<metallicity>0.3</metallicity>
-			<spectraltype>G0</spectraltype>
-			<planet>
-				<name>WASP-12 b</name>
-				<name>WASP-12 A b</name>
-				<name>2MASS J06303279+2940202 b</name>
-				<list>Confirmed planets</list>
-				<mass>1.404</mass>
-				<radius>1.736</radius>
-				<period>1.0914222</period>
-				<semimajoraxis>0.02293</semimajoraxis>
-				<eccentricity>0.0</eccentricity>
-				<inclination>86</inclination>
-				<spinorbitalignment errorminus="20" errorplus="15">59</spinorbitalignment>
-				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454508.98074</transittime>
-				<discoverymethod>transit</discoverymethod>
-				<lastupdate>13/07/31</lastupdate>
-				<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
-				<discoveryyear>2008</discoveryyear>
-				<temperature>2319.7</temperature>
-				<list>Planets in binary systems, S-type</list>
-				<istransiting>1</istransiting>
-			</planet>
-		</star>
 		<binary>
 			<separation errorminus="0.0006" errorplus="0.0006" unit="arcsec">0.0843</separation>
 			<separation errorminus="3" errorplus="3" unit="AU">21</separation>
@@ -64,5 +28,43 @@
 				<mass errorminus="0.020" errorplus="0.020">0.540</mass>
 			</star>
 		</binary>
+		<star>
+			<name>WASP-12</name>
+			<name>WASP-12 A</name>
+			<mass errorminus="0.14" errorplus="0.14">1.35</mass>
+			<radius errorminus="0.071" errorplus="0.071">1.599</radius>
+			<magV>11.69</magV>
+			<magR>11.6</magR>
+			<magB errorminus="0.21" errorplus="0.21">12.14</magB>
+			<magJ>10.48</magJ>
+			<magH>10.23</magH>
+			<magK>10.19</magK>
+			<temperature errorminus="150.0" errorplus="150.0">6300.0</temperature>
+			<metallicity errorminus="0.1" errorplus="0.1">0.3</metallicity>
+			<spectraltype>G0</spectraltype>
+			<age errorminus="0.8" errorplus="0.8">1.7</age>
+			<magI>11.03</magI>
+			<planet>
+				<name>WASP-12 b</name>
+				<name>WASP-12 A b</name>
+				<name>2MASS J06303279+2940202 b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.06900" errorplus="0.07600">1.47000</mass>
+				<radius errorminus="0.055" errorplus="0.057">1.900</radius>
+				<period errorminus="0.00000014" errorplus="0.00000014">1.09142030</period>
+				<semimajoraxis errorminus="0.000500" errorplus="0.000560">0.023400</semimajoraxis>
+				<eccentricity>0.000000</eccentricity>
+				<inclination errorminus="0.640" errorplus="0.720">83.370</inclination>
+				<spinorbitalignment errorminus="20" errorplus="15">59</spinorbitalignment>
+				<transittime errorminus="0.00028" errorplus="0.00028" unit="BJD">2454508.98074</transittime>
+				<discoverymethod>transit</discoverymethod>
+				<lastupdate>16/09/15</lastupdate>
+				<description>The host star of WASP-12 b is the primary of a hierarchical triple system. The distant binary consists of two M dwarfs.</description>
+				<discoveryyear>2008</discoveryyear>
+				<temperature>2319.7</temperature>
+				<istransiting>1</istransiting>
+			</planet>
+		</star>
 	</binary>
 </system>

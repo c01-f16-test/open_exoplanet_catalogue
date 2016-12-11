@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-593</name>
-	<rightascension>19 39 48</rightascension>
-	<declination>+48 39 04</declination>
+	<rightascension>19 36 228.348240</rightascension>
+	<declination>48 39 4.27680000</declination>
+	<distance>1016.0</distance>
 	<star>
 		<name>Kepler-593</name>
-		<temperature errorminus="113.1" errorplus="96.5">5967.0</temperature>
+		<temperature errorminus="113.06" errorplus="96.47">5967.0</temperature>
 		<mass errorminus="0.07" errorplus="0.08">1.08</mass>
-		<radius errorminus="0.11" errorplus="0.26">1.10</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.11" errorplus="0.26">1.1</radius>
+		<metallicity errorminus="0.156" errorplus="0.142">0.04</metallicity>
+		<magK>13.115</magK>
+		<magH>13.131</magH>
+		<magJ>13.431</magJ>
 		<planet>
 			<name>Kepler-593 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000059270" errorplus="0.000059270">21.217089730</period>
+			<period errorminus="5.927e-05" errorplus="5.927e-05">21.21708973</period>
 			<radius errorminus="0.026" errorplus="0.062">0.256</radius>
 		</planet>
 	</star>

@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1543</name>
-	<rightascension>19 48 30</rightascension>
-	<declination>+47 02 13</declination>
+	<rightascension>19 48 29.8348800</rightascension>
+	<declination>47 2 13.2900000</declination>
+	<distance>1114.0</distance>
 	<star>
 		<name>Kepler-1543</name>
-		<temperature errorminus="171.7" errorplus="148.2">6561.0</temperature>
+		<temperature errorminus="171.68" errorplus="148.25">6561.0</temperature>
 		<mass errorminus="0.14" errorplus="0.23">1.39</mass>
-		<radius errorminus="0.30" errorplus="0.74">1.65</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.07</metallicity>
+		<radius errorminus="0.3" errorplus="0.74">1.65</radius>
+		<metallicity errorminus="0.144" errorplus="0.137">0.07</metallicity>
+		<magK>12.291</magK>
+		<magH>12.327</magH>
+		<magJ>12.538</magJ>
 		<planet>
 			<name>Kepler-1543 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000032850" errorplus="0.000032850">6.967102690</period>
+			<period errorminus="3.285e-05" errorplus="3.285e-05">6.96710269</period>
 			<radius errorminus="0.045" errorplus="0.108">0.242</radius>
 		</planet>
 	</star>

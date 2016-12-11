@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1003</name>
-	<rightascension>19 28 05</rightascension>
-	<declination>+44 52 34</declination>
+	<rightascension>19 27 64.9094399</rightascension>
+	<declination>44 52 34.3811999</declination>
+	<distance>873.0</distance>
 	<star>
 		<name>Kepler-1003</name>
-		<temperature errorminus="195.3" errorplus="150.0">6109.0</temperature>
+		<temperature errorminus="195.29" errorplus="150.04">6109.0</temperature>
 		<mass errorminus="0.08" errorplus="0.13">1.11</mass>
 		<radius errorminus="0.15" errorplus="0.32">1.17</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<metallicity errorminus="0.172" errorplus="0.14">0.01</metallicity>
+		<magK>12.623</magK>
+		<magH>12.637</magH>
+		<magJ>12.95</magJ>
 		<planet>
 			<name>Kepler-1003 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006710" errorplus="0.000006710">3.554856910</period>
-			<radius errorminus="0.020" errorplus="0.043">0.159</radius>
+			<period errorminus="6.71e-06" errorplus="6.71e-06">3.55485691</period>
+			<radius errorminus="0.02" errorplus="0.043">0.159</radius>
 		</planet>
 	</star>
 </system>

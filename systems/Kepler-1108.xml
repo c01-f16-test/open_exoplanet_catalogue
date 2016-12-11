@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1108</name>
-	<rightascension>19 44 10</rightascension>
-	<declination>+45 59 07</declination>
+	<rightascension>19 44 10.1613600</rightascension>
+	<declination>45 59 6.52559999</declination>
+	<distance>764.0</distance>
 	<star>
 		<name>Kepler-1108</name>
 		<temperature errorminus="105.1" errorplus="149.3">5406.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.88</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.84</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.09</metallicity>
+		<metallicity errorminus="0.182" errorplus="0.158">-0.09</metallicity>
+		<magK>13.172</magK>
+		<magH>13.262</magH>
+		<magJ>13.686</magJ>
 		<planet>
 			<name>Kepler-1108 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000013300" errorplus="0.000013300">4.510057480</period>
-			<radius errorminus="0.010" errorplus="0.012">0.130</radius>
+			<period errorminus="1.33e-05" errorplus="1.33e-05">4.51005748</period>
+			<radius errorminus="0.01" errorplus="0.012">0.13</radius>
 		</planet>
 	</star>
 </system>

@@ -12,6 +12,10 @@
 		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
 		<radius errorminus="0.07" errorplus="0.07">1.96</radius>
 		<metallicity errorminus="0.10" errorplus="0.10">0.10</metallicity>
+		<name>Kepler-7</name>
+		<name>KOI-97</name>
+		<name>KIC 5780885</name>
+		<temperature errorminus="75" errorplus="75">6027</temperature>
 		<planet>
 			<name>Kepler-7 b</name>
 			<name>2MASS J19141956+4105233 b</name>
@@ -32,9 +36,5 @@
 			<temperature>1486.8</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-7</name>
-		<name>KOI-97</name>
-		<name>KIC 5780885</name>
-		<temperature errorminus="75" errorplus="75">6027</temperature>
 	</star>
 </system>

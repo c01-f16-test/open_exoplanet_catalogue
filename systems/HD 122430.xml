@@ -13,6 +13,8 @@
 		<magK errorminus="0.294" errorplus="0.294">2.261</magK>
 		<metallicity>-0.09</metallicity>
 		<spectraltype>K3III</spectraltype>
+		<name>HD 122430</name>
+		<temperature>4300.0</temperature>
 		<planet>
 			<name>HD 122430 b</name>
 			<list>Controversial</list>
@@ -26,7 +28,5 @@
 			<temperature>868.8</temperature>
 			<description>The planet candidate HD 122430 b was not confirmed in follow-up measurements (Soto et al. 2015)</description>
 		</planet>
-		<name>HD 122430</name>
-		<temperature>4300.0</temperature>
 	</star>
 </system>

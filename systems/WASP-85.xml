@@ -1,13 +1,15 @@
 <system>
 	<name>WASP-85</name>
-	<rightascension>11 43 38.01</rightascension>
-	<declination>+06 33 49.4</declination>
+	<rightascension>11h43m38.01s</rightascension>
+	<declination>+06d33m49.4s</declination>
 	<distance errorminus="80" errorplus="80">128</distance>
 	<binary>
+		<separation unit="arcsec">1.48</separation>
+		<positionangle>99.6</positionangle>
 		<star>
 			<name>WASP-85 A</name>
 			<mass errorminus="0.08" errorplus="0.08">1.09</mass>
-			<radius errorminus="0.023" errorplus="0.023">0.935</radius>
+			<radius errorminus="0.02" errorplus="0.02">0.94</radius>
 			<magV>11.2</magV>
 			<metallicity errorminus="0.10" errorplus="0.10">0.08</metallicity>
 			<spectraltype>G5</spectraltype>
@@ -15,20 +17,20 @@
 			<planet>
 				<name>WASP-85 A b</name>
 				<list>Confirmed planets</list>
-				<mass errorminus="0.065" errorplus="0.065">1.265</mass>
-				<radius errorminus="0.03" errorplus="0.03">1.24</radius>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.06500" errorplus="0.06500">1.26500</mass>
+				<radius errorminus="0.030" errorplus="0.030">1.240</radius>
 				<period errorminus="0.00000044" errorplus="0.00000044">2.65567770</period>
-				<semimajoraxis errorminus="0.001" errorplus="0.001">0.039</semimajoraxis>
+				<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.039000</semimajoraxis>
 				<eccentricity>0</eccentricity>
-				<inclination errorminus="0.03" errorplus="0.11">89.69</inclination>
+				<inclination errorminus="0.030" errorplus="0.110">89.690</inclination>
 				<transittime errorminus="0.000014" errorplus="0.000014" unit="BJD">2456847.472856</transittime>
 				<discoverymethod>transit</discoverymethod>
-				<lastupdate>15/09/15</lastupdate>
+				<lastupdate>16/07/07</lastupdate>
 				<description>WASP-85 A b is a transiting hot Jupiter. WASP-85 is a binary system that lies in the Kepler K2 Campaign 1. The star has starspots which are occulted by the planet, indicating that the orbit is misaligned with the stellar equator.</description>
 				<discoveryyear>2014</discoveryyear>
 				<temperature errorminus="6" errorplus="6">1452</temperature>
-				<spinorbitalignment lowerlimit="10" />
-				<list>Planets in binary systems, S-type</list>
+				<spinorbitalignment lowerlimit="10"/>
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
@@ -41,7 +43,5 @@
 			<spectraltype>K0</spectraltype>
 			<temperature errorminus="90" errorplus="90">5250</temperature>
 		</star>
-		<separation unit="arcsec">1.48</separation>
-		<positionangle>99.6</positionangle>
 	</binary>
 </system>

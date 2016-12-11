@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1254</name>
-	<rightascension>19 00 42</rightascension>
-	<declination>+48 46 12</declination>
+	<rightascension>19 0 41.5982400</rightascension>
+	<declination>48 46 12.1511999</declination>
+	<distance>676.0</distance>
 	<star>
 		<name>Kepler-1254</name>
-		<temperature errorminus="45.0" errorplus="53.0">4985.0</temperature>
+		<temperature errorminus="45.04" errorplus="53.0">4985.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.78</mass>
 		<radius errorminus="0.05" errorplus="0.03">0.75</radius>
-		<metallicity errorminus="0.20" errorplus="0.15">-0.10</metallicity>
+		<metallicity errorminus="0.203" errorplus="0.149">-0.1</metallicity>
+		<magK>13.292</magK>
+		<magH>13.288</magH>
+		<magJ>13.866</magJ>
 		<planet>
 			<name>Kepler-1254 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000056100" errorplus="0.000056100">9.991133130</period>
+			<period errorminus="5.61e-05" errorplus="5.61e-05">9.99113313</period>
 			<radius errorminus="0.011" errorplus="0.008">0.138</radius>
 		</planet>
 		<planet>
@@ -25,11 +29,11 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000019000" errorplus="0.000019000">3.600842760</period>
+			<period errorminus="1.9e-05" errorplus="1.9e-05">3.60084276</period>
 			<radius errorminus="0.011" errorplus="0.006">0.116</radius>
 		</planet>
 		<planet>
@@ -37,12 +41,12 @@
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000029080" errorplus="0.000029080">5.727172260</period>
-			<radius errorminus="0.010" errorplus="0.008">0.117</radius>
+			<period errorminus="2.908e-05" errorplus="2.908e-05">5.72717226</period>
+			<radius errorminus="0.01" errorplus="0.008">0.117</radius>
 		</planet>
 	</star>
 </system>

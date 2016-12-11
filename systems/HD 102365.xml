@@ -1,8 +1,8 @@
 <system>
 	<name>HD 102365</name>
-	<rightascension>11 46 31</rightascension>
-	<declination>-40 30 01</declination>
-	<distance>9.24</distance>
+	<rightascension>11h46m31.07s</rightascension>
+	<declination>-40d30m01.3s</declination>
+	<distance errorminus="0.06" errorplus="0.06">9.24</distance>
 	<star>
 		<mass>0.85</mass>
 		<magV>4.89</magV>
@@ -14,19 +14,19 @@
 		<magK errorminus="0.278" errorplus="0.278">3.489</magK>
 		<metallicity>-0.28</metallicity>
 		<spectraltype>G2V</spectraltype>
+		<name>HD 102365</name>
+		<temperature>5630.00</temperature>
 		<planet>
 			<name>HD 102365 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.05</mass>
-			<period>122.1</period>
-			<semimajoraxis>0.46</semimajoraxis>
-			<eccentricity>0.34</eccentricity>
+			<mass errorminus="0.00800" errorplus="0.00800">0.05000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">122.10000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">0.460000</semimajoraxis>
+			<eccentricity errorminus="0.140000" errorplus="0.140000">0.340000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>355.1</temperature>
 		</planet>
-		<name>HD 102365</name>
-		<temperature>5650.0</temperature>
 	</star>
 </system>

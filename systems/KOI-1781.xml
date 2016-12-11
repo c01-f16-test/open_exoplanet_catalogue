@@ -1,18 +1,20 @@
 <system>
 	<name>KOI-1781</name>
 	<name>Kepler-411</name>
-	<rightascension>19 10 25.34</rightascension>
-	<declination>+49 31 23.7</declination>
+	<rightascension>19 7 205.341839</rightascension>
+	<declination>49 31 23.7287999</declination>
 	<star>
 		<name>KOI-1781</name>
 		<name>Kepler-411</name>
 		<name>KIC 11551692</name>
 		<temperature errorminus="51" errorplus="46">4974</temperature>
-		<mass errorminus="0.10" errorplus="0.04">0.83</mass>
+		<mass errorminus="0.1" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.06" errorplus="0.07">0.79</radius>
 		<magJ errorminus="0.022" errorplus="0.022">10.641</magJ>
 		<magH errorminus="0.028" errorplus="0.028">10.161</magH>
 		<magK errorminus="0.023" errorplus="0.023">10.062</magK>
+		<magV>12.5</magV>
+		<metallicity errorminus="0.48" errorplus="0.37">0.23</metallicity>
 		<planet>
 			<name>KOI-1781 b</name>
 			<name>KOI-1781.02</name>
@@ -20,13 +22,13 @@
 			<name>KIC 11551692 b</name>
 			<list>Confirmed planets</list>
 			<radius errorminus="0.018" errorplus="0.018">0.168</radius>
-			<period errorminus="0.00001" errorplus="0.0001">3.00516</period>
-			<semimajoraxis errorminus="0.001" errorplus="0.001">0.038</semimajoraxis>
-			<inclination errorminus="1.83" errorplus="1.73">88.27</inclination>
+			<period errorminus="0.00001000" errorplus="0.00001000">3.00516000</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.038000</semimajoraxis>
+			<inclination errorminus="1.830" errorplus="1.730">88.270</inclination>
 			<transittime unit="BJD">2454970.1027</transittime>
-			<eccentricity upperlimit="0.35">0.00</eccentricity>
+			<eccentricity errorminus="0.000000" errorplus="0.350000">0.000000</eccentricity>
 			<description>The KOI-1781 system was discovered by the Kepler spacecraft. A subsequent analysis has confirmed the planetary nature of this planet.</description>
-			<lastupdate>14/01/06</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
@@ -60,6 +62,35 @@
 			<discoverymethod>transit</discoverymethod>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
+			<lastupdate>16/05/10</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<period errorminus="0.00000298" errorplus="0.00000298">7.83442788</period>
+			<name>Kepler-411 c</name>
+		</planet>
+		<planet>
+			<inclination errorminus="1.83" errorplus="1.73">88.27</inclination>
+			<radius errorminus="0.02" errorplus="0.02">0.168</radius>
+			<period errorminus="1e-05" errorplus="1e-05">3.00516</period>
+			<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/06/27</lastupdate>
+			<semimajoraxis errorminus="0.001" errorplus="0.001">0.038</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<name> KOI-1781 b</name>
+			<name>Kepler-411 b</name>
+			<periastron errorminus="250.0" errorplus="0.0">360.0</periastron>
+		</planet>
+		<planet>
+			<lastupdate>16/06/27</lastupdate>
+			<discoveryyear>2016</discoveryyear>
+			<discoverymethod>transit</discoverymethod>
+			<period errorminus="2.98e-06" errorplus="2.98e-06">7.83442788</period>
+			<name>KOI-1781 c</name>
+			<name>Kepler-411 c</name>
+			<radius errorminus="0.006" errorplus="0.011">0.292</radius>
 		</planet>
 	</star>
 </system>

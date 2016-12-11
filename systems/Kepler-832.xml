@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-832</name>
-	<rightascension>19 43 42</rightascension>
-	<declination>+45 23 02</declination>
+	<rightascension>19 40 222.262560</rightascension>
+	<declination>45 23 1.90319999</declination>
+	<distance>1346.0</distance>
 	<star>
 		<name>Kepler-832</name>
-		<temperature errorminus="133.1" errorplus="181.7">5596.0</temperature>
+		<temperature errorminus="133.14" errorplus="181.65">5596.0</temperature>
 		<mass errorminus="0.06" errorplus="0.06">0.92</mass>
-		<radius errorminus="0.07" errorplus="0.14">0.90</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.08</metallicity>
+		<radius errorminus="0.07" errorplus="0.14">0.9</radius>
+		<metallicity errorminus="0.185" errorplus="0.163">-0.08</metallicity>
+		<magK>14.197</magK>
+		<magH>14.295</magH>
+		<magJ>14.682</magJ>
 		<planet>
 			<name>Kepler-832 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000028170" errorplus="0.000028170">7.139694100</period>
+			<period errorminus="2.817e-05" errorplus="2.817e-05">7.1396941</period>
 			<radius errorminus="0.015" errorplus="0.029">0.184</radius>
 		</planet>
 	</star>

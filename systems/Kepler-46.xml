@@ -2,9 +2,9 @@
 	<name>Kepler-46</name>
 	<name>KOI-872</name>
 	<name>KIC 7109675</name>
-	<rightascension>19 17 04</rightascension>
-	<declination>+42 36 15</declination>
-	<distance>855</distance>
+	<rightascension>19 15 124.999991</rightascension>
+	<declination>42 36 15.0001199</declination>
+	<distance errorminus="69.0" errorplus="69.0">857.0</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">13.814</magJ>
 		<magH errorminus="0.020" errorplus="0.020">13.436</magH>
@@ -12,45 +12,49 @@
 		<name>Kepler-46</name>
 		<name>KOI-872</name>
 		<name>KIC 7109675</name>
-		<temperature errorminus="200" errorplus="200">5309</temperature>
-		<radius errorminus="0.441" errorplus="0.441">0.790</radius>
-		<mass errorminus="0.1000" errorplus="0.1000">0.8200</mass>
-		<metallicity>0.410</metallicity>
+		<temperature errorminus="105.0" errorplus="105.0">5155.0</temperature>
+		<radius errorminus="0.04" errorplus="0.04">0.94</radius>
+		<mass errorminus="0.04" errorplus="0.04">0.902</mass>
+		<metallicity errorminus="0.1" errorplus="0.1">0.41</metallicity>
+		<magV>15.3</magV>
+		<age errorminus="3.1" errorplus="3.1">9.9</age>
 		<planet>
 			<name>Kepler-46 b</name>
 			<name>KOI-872 b</name>
 			<name>KOI-872.01</name>
 			<name>KIC 7109675 b</name>
 			<name>KIC 7109675.01</name>
-			<radius errorminus="0.00273" errorplus="0.36726">0.65705</radius>
-			<period errorminus=".000030" errorplus="0.000030">33.601528</period>
+			<radius errorminus="0.043" errorplus="0.043">0.812</radius>
+			<period errorminus="0.00021" errorplus="0.00021">33.60134</period>
 			<transittime errorminus="0.0004600" errorplus="0.0004600">2455019.6776800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-46 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/03/06</lastupdate>
+			<lastupdate>16/02/24</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<temperature>543</temperature>
-			<inclination>89.038</inclination>
-			<eccentricity>0.010</eccentricity>
-			<semimajoraxis>0.19680</semimajoraxis>
+			<inclination errorminus="0.069" errorplus="0.069">89.033</inclination>
+			<eccentricity errorminus="0.01" errorplus="0.01">0.01</eccentricity>
+			<semimajoraxis errorminus="0.0029" errorplus="0.0029">0.1967</semimajoraxis>
 			<istransiting>1</istransiting>
+			<mass errorminus="inf" errorplus="nan">6.0</mass>
 		</planet>
 		<planet>
 			<name>Kepler-46 c</name>
 			<name>KIC 7109675 c</name>
 			<name>KOI-872 c</name>
-			<mass errorminus="0.019" errorplus="0.021">0.376</mass>
-			<period errorminus="0.000030" errorplus="0.000030">57.011</period>
+			<mass errorminus="0.023" errorplus="0.023">0.376</mass>
+			<period errorminus="0.1" errorplus="0.1">57.004</period>
 			<list>Confirmed planets</list>
 			<discoveryyear>2012</discoveryyear>
-			<lastupdate>14/03/06</lastupdate>
-			<discoverymethod>transit</discoverymethod>
+			<lastupdate>16/02/24</lastupdate>
+			<discoverymethod>ttv</discoverymethod>
 			<temperature>455</temperature>
-			<inclination>87.400</inclination>
-			<eccentricity>0.015</eccentricity>
-			<semimajoraxis>0.27990</semimajoraxis>
+			<inclination errorminus="0.95" errorplus="0.95">87.25</inclination>
+			<eccentricity errorminus="0.0039" errorplus="0.0039">0.0145</eccentricity>
+			<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.2799</semimajoraxis>
 			<istransiting>1</istransiting>
+			<periastron errorminus="11.0" errorplus="11.0">329.4</periastron>
 		</planet>
 		<planet>
 			<name>Kepler-46 d</name>
@@ -58,17 +62,17 @@
 			<name>KOI-872.02</name>
 			<name>KIC 7109675 d</name>
 			<name>KIC 7109675.02</name>
-			<radius errorminus="0.08384" errorplus="0.08384">0.14945</radius>
-			<period errorminus="0.000022" errorplus="0.000022">6.766589</period>
+			<radius errorminus="0.082" errorplus="0.082">0.146</radius>
+			<period errorminus="0.00002200" errorplus="0.00002200">6.76658900</period>
 			<transittime errorminus="0.0019200" errorplus="0.0019200">2454971.0589100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-46 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-46 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/03/06</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<temperature>793</temperature>
 			<inclination>88.240</inclination>
-			<semimajoraxis>0.06700</semimajoraxis>
+			<semimajoraxis>0.067000</semimajoraxis>
 			<istransiting>1</istransiting>
 		</planet>
 	</star>

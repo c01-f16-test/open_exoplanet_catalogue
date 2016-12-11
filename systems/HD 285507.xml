@@ -1,8 +1,8 @@
 <system>
 	<name>HD 285507</name>
-	<rightascension>04 07 01</rightascension>
-	<declination>+15 20 06</declination>
-	<distance>41.339</distance>
+	<rightascension>4 3 241.000000</rightascension>
+	<declination>15 20 6.00002880</declination>
+	<distance errorminus="3.0" errorplus="3.0">41.3</distance>
 	<star>
 		<magB>11.8</magB>
 		<magV>10.5</magV>
@@ -14,11 +14,11 @@
 		<name>2MASS J04070122+1520062</name>
 		<name>BD+14 653</name>
 		<mass errorminus="0.034" errorplus="0.034">0.734</mass>
-		<radius errorminus="0.054" errorplus="0.054">0.656</radius>
-		<temperature errorminus="61" errorplus="85">4503</temperature>
+		<radius errorminus="0.034" errorplus="0.034">0.656</radius>
+		<temperature errorminus="85.0" errorplus="61.0">4503.0</temperature>
 		<metallicity errorminus="0.01" errorplus="0.01">0.13</metallicity>
-		<age errorminus="0.05" errorplus="0.05">0.625</age>
-		<spectraltype>K5 D</spectraltype>
+		<age errorminus="50.0" errorplus="50.0">0.625</age>
+		<spectraltype>K5</spectraltype>
 		<planet>
 			<name>HD 285507 b</name>
 			<name>HIP 19207 b</name>
@@ -32,8 +32,10 @@
 			<periastron errorminus="11" errorplus="11">182</periastron>
 			<description>HD 285507b is a Hot Jupiter that joins the small but growing list of planets in open clusters. HD 285507b orbits a star in the Hyades cluster.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/10/29</lastupdate>
+			<lastupdate>15/06/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
+			<periastrontime errorminus="0.029" errorplus="0.029">2456263.121</periastrontime>
+			<semimajoraxis errorminus="0.003" errorplus="0.003">0.0729</semimajoraxis>
 		</planet>
 	</star>
 </system>

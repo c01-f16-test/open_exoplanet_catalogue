@@ -1,11 +1,11 @@
 <system>
 	<name>HD 44219</name>
-	<rightascension>06 20 14</rightascension>
-	<declination>-10 43 30</declination>
-	<distance>50.43</distance>
+	<rightascension>06h20m14.32s</rightascension>
+	<declination>-10d43m30.0s</declination>
+	<distance errorminus="1.90" errorplus="2.10">50.40</distance>
 	<star>
 		<mass>1</mass>
-		<radius>1.32</radius>
+		<radius errorminus="0.07" errorplus="0.07">1.32</radius>
 		<magV>7.69</magV>
 		<magB errorminus="0.01" errorplus="0.01">8.36</magB>
 		<magJ errorminus="0.029" errorplus="0.029">6.509</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.017" errorplus="0.017">6.115</magK>
 		<metallicity>0.03</metallicity>
 		<spectraltype>G2V</spectraltype>
+		<name>HD 44219</name>
+		<temperature errorminus="16.00" errorplus="16.00">5752.00</temperature>
 		<planet>
 			<name>HD 44219 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.58</mass>
-			<period>472.3</period>
-			<semimajoraxis>1.19</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<mass errorminus="0.04000" errorplus="0.06000">0.58000</mass>
+			<period errorminus="5.00000000" errorplus="6.30000000">472.30000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">1.190000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.070000">0.610000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>15/01/22</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>260.2</temperature>
 		</planet>
-		<name>HD 44219</name>
-		<temperature>5752.0</temperature>
 	</star>
 </system>

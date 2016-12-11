@@ -9,6 +9,7 @@
 		<name>NGC 4349 MMU 127</name>
 		<mass>3.9</mass>
 		<magV>7.4</magV>
+		<temperature>5700.0</temperature>
 		<planet>
 			<name>NGC 4349 No 127 b</name>
 			<name>NGC 4349 127 b</name>
@@ -24,6 +25,5 @@
 			<discoveryyear>2007</discoveryyear>
 			<temperature>599.9</temperature>
 		</planet>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

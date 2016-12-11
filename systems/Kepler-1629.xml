@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1629</name>
-	<rightascension>18 40 50</rightascension>
-	<declination>+43 46 27</declination>
+	<rightascension>18 40 49.5890400</rightascension>
+	<declination>43 46 27.4692</declination>
+	<distance>390.0</distance>
 	<star>
 		<name>Kepler-1629</name>
-		<temperature errorminus="74.7" errorplus="68.4">5776.0</temperature>
+		<temperature errorminus="74.65" errorplus="68.39">5776.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">1.01</mass>
 		<radius errorminus="0.08" errorplus="0.19">1.01</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.05</metallicity>
+		<metallicity errorminus="0.156" errorplus="0.147">0.05</metallicity>
+		<magK>11.218</magK>
+		<magH>11.302</magH>
+		<magJ>11.595</magJ>
 		<planet>
 			<name>Kepler-1629 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000023790" errorplus="0.000023790">3.875958070</period>
+			<period errorminus="2.379e-05" errorplus="2.379e-05">3.87595807</period>
 			<radius errorminus="0.007" errorplus="0.013">0.069</radius>
 		</planet>
 	</star>

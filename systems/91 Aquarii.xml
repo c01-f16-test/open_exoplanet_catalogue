@@ -21,54 +21,6 @@
 		<separation unit="arcsec">49.4</separation>
 		<separation unit="AU">2267</separation>
 		<positionangle>313</positionangle>
-		<star>
-			<name>91 Aquarii A</name>
-			<name>91 Aqr A</name>
-			<name>psi01 Aqr A</name>
-			<name>Psi-1 Aquarii A</name>
-			<name>ψ1 Aqr A</name>
-			<name>ψ1 Aquarii A</name>
-			<name>HD 219449 A</name>
-			<name>HIP 114855 A</name>
-			<name>Gliese 893.2 A</name>
-			<name>GJ 893.2 A</name>
-			<name>GJ 9815 A</name>
-			<name>BD-09 6156 A</name>
-			<name>WDS J23159-0905 A</name>
-			<magV>4.24</magV>
-			<magR>3.46</magR>
-			<magI>2.90</magI>
-			<magB>5.32</magB>
-			<magJ errorminus="0.01" errorplus="0.01">2.400</magJ>
-			<magH errorminus="0.01" errorplus="0.01">1.886</magH>
-			<magK errorminus="0.01" errorplus="0.01">1.746</magK>
-			<mass errorminus="0.1" errorplus="0.1">1.4</mass>
-			<radius errorminus="0.1" errorplus="0.1">11.0</radius>
-			<temperature errorminus="18" errorplus="18">4665</temperature>
-			<metallicity errorminus="0.1" errorplus="0.1">-0.03</metallicity>
-			<spectraltype>K0 III</spectraltype>
-			<age errorminus="0.63" errorplus="0.63">3.56</age>
-			<planet>
-				<name>91 Aquarii A b</name>
-				<name>91 Aqr A b</name>
-				<name>HD 219449 A b</name>
-				<name>HIP 114855 A b</name>
-				<name>Gliese 893.2 A b</name>
-				<name>91 Aqr b</name>
-				<list>Confirmed planets</list>
-				<list>Planets in binary systems, S-type</list>
-				<mass type="msini">3.2</mass>
-				<period errorminus="0.1" errorplus="0.1">181.4</period>
-				<semimajoraxis>0.70</semimajoraxis>
-				<eccentricity errorminus="0.026" errorplus="0.026">0.027</eccentricity>
-				<periastron errorminus="0.8" errorplus="0.8">177.3</periastron>
-				<periastrontime errorminus="24.5" errorplus="24.5">2453472.1</periastrontime>
-				<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>15/11/03</lastupdate>
-				<discoveryyear>2003</discoveryyear>
-			</planet>
-		</star>
 		<binary>
 			<name>91 Aquarii BC</name>
 			<name>91 Aqr BC</name>
@@ -129,5 +81,53 @@
 				<spectraltype>K</spectraltype>
 			</star>
 		</binary>
+		<star>
+			<name>91 Aquarii A</name>
+			<name>91 Aqr A</name>
+			<name>psi01 Aqr A</name>
+			<name>Psi-1 Aquarii A</name>
+			<name>ψ1 Aqr A</name>
+			<name>ψ1 Aquarii A</name>
+			<name>HD 219449 A</name>
+			<name>HIP 114855 A</name>
+			<name>Gliese 893.2 A</name>
+			<name>GJ 893.2 A</name>
+			<name>GJ 9815 A</name>
+			<name>BD-09 6156 A</name>
+			<name>WDS J23159-0905 A</name>
+			<magV>4.24</magV>
+			<magR>3.46</magR>
+			<magI>2.90</magI>
+			<magB>5.32</magB>
+			<magJ errorminus="0.01" errorplus="0.01">2.400</magJ>
+			<magH errorminus="0.01" errorplus="0.01">1.886</magH>
+			<magK errorminus="0.01" errorplus="0.01">1.746</magK>
+			<mass errorminus="0.1" errorplus="0.1">1.4</mass>
+			<radius errorminus="0.1" errorplus="0.1">11.0</radius>
+			<temperature errorminus="18" errorplus="18">4665</temperature>
+			<metallicity errorminus="0.1" errorplus="0.1">-0.03</metallicity>
+			<spectraltype>K0 III</spectraltype>
+			<age errorminus="0.63" errorplus="0.63">3.56</age>
+			<planet>
+				<name>91 Aquarii A b</name>
+				<name>91 Aqr A b</name>
+				<name>HD 219449 A b</name>
+				<name>HIP 114855 A b</name>
+				<name>Gliese 893.2 A b</name>
+				<name>91 Aqr b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass type="msini">3.2</mass>
+				<period errorminus="0.1" errorplus="0.1">181.4</period>
+				<semimajoraxis>0.70</semimajoraxis>
+				<eccentricity errorminus="0.026" errorplus="0.026">0.027</eccentricity>
+				<periastron errorminus="0.8" errorplus="0.8">177.3</periastron>
+				<periastrontime errorminus="24.5" errorplus="24.5">2453472.1</periastrontime>
+				<description>91 Aquarii is a triple star system in the constellation Aquarius. It is visible to the naked eye and is host to at least one extrasolar planet.</description>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>15/11/03</lastupdate>
+				<discoveryyear>2003</discoveryyear>
+			</planet>
+		</star>
 	</binary>
 </system>

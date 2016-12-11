@@ -1,8 +1,8 @@
 <system>
 	<name>HD 6434</name>
-	<rightascension>01 04 40.15077</rightascension>
-	<declination>-39 29 17.5822</declination>
-	<distance errorminus="1.03" errorplus="1.03">41.4</distance>
+	<rightascension>01h04m40.15s</rightascension>
+	<declination>-39d29m17.6s</declination>
+	<distance errorminus="1.50" errorplus="1.40">40.32</distance>
 	<star>
 		<name>HD 6434</name>
 		<name>HIP 5054</name>
@@ -26,14 +26,14 @@
 		<planet>
 			<name>HD 6434 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.01" errorplus="0.01" type="msini">0.44</mass>
-			<period errorminus="0.0008" errorplus="0.0008">22.0170</period>
-			<semimajoraxis errorminus="0.002" errorplus="0.002">0.148</semimajoraxis>
-			<eccentricity errorminus="0.025" errorplus="0.025">0.146</eccentricity>
+			<mass errorminus="0.01000" errorplus="0.01000">0.44000</mass>
+			<period errorminus="0.00080000" errorplus="0.00080000">22.01700000</period>
+			<semimajoraxis errorminus="0.002000" errorplus="0.002000">0.148000</semimajoraxis>
+			<eccentricity errorminus="0.025000" errorplus="0.025000">0.146000</eccentricity>
 			<periastron errorminus="10.5" errorplus="10.5">163.2</periastron>
 			<periastrontime errorminus="0.638" errorplus="0.638">2451909.308</periastrontime>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>15/10/16</lastupdate>
+			<lastupdate>15/11/19</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 		</planet>
 	</star>

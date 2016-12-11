@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-828</name>
-	<rightascension>19 07 33</rightascension>
-	<declination>+42 28 17</declination>
+	<rightascension>19 3 272.945999</rightascension>
+	<declination>42 28 16.5216000</declination>
+	<distance>625.0</distance>
 	<star>
 		<name>Kepler-828</name>
-		<temperature errorminus="59.5" errorplus="50.7">5039.0</temperature>
+		<temperature errorminus="59.5" errorplus="50.73">5039.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.81</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.77</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.02</metallicity>
+		<metallicity errorminus="0.175" errorplus="0.164">-0.02</metallicity>
+		<magK>12.992</magK>
+		<magH>13.146</magH>
+		<magJ>13.586</magJ>
 		<planet>
 			<name>Kepler-828 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000440" errorplus="0.000000440">0.567857140</period>
-			<radius errorminus="0.010" errorplus="0.007">0.135</radius>
+			<period errorminus="4.4e-07" errorplus="4.4e-07">0.56785714</period>
+			<radius errorminus="0.01" errorplus="0.007">0.135</radius>
 		</planet>
 	</star>
 </system>

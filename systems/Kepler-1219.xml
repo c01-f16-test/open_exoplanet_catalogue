@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1219</name>
-	<rightascension>19 48 52</rightascension>
-	<declination>+47 22 43</declination>
+	<rightascension>19 48 51.7941600</rightascension>
+	<declination>47 22 42.6539999</declination>
+	<distance>622.0</distance>
 	<star>
 		<name>Kepler-1219</name>
-		<temperature errorminus="81.7" errorplus="91.3">5944.0</temperature>
+		<temperature errorminus="81.66" errorplus="91.26">5944.0</temperature>
 		<mass errorminus="0.12" errorplus="0.14">1.25</mass>
-		<radius errorminus="0.40" errorplus="0.50">1.94</radius>
-		<metallicity errorminus="0.09" errorplus="0.14">0.05</metallicity>
+		<radius errorminus="0.4" errorplus="0.5">1.94</radius>
+		<metallicity errorminus="0.085" errorplus="0.136">0.05</metallicity>
+		<magK>10.809</magK>
+		<magH>10.846</magH>
+		<magJ>11.136</magJ>
 		<planet>
 			<name>Kepler-1219 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000088280" errorplus="0.000088280">16.104677490</period>
-			<radius errorminus="0.040" errorplus="0.050">0.189</radius>
+			<period errorminus="8.828e-05" errorplus="8.828e-05">16.10467749</period>
+			<radius errorminus="0.04" errorplus="0.05">0.189</radius>
 		</planet>
 	</star>
 </system>

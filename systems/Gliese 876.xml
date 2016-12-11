@@ -3,6 +3,7 @@
 	<rightascension>22 53 13</rightascension>
 	<declination>-14 15 13</declination>
 	<distance>4.69</distance>
+	<videolink>http://youtu.be/1Uf3eBdnxUs</videolink>
 	<star>
 		<name>Gliese 876</name>
 		<mass>0.37</mass>
@@ -90,11 +91,6 @@
 			<discoverymethod>RV</discoverymethod>
 			<lastupdate>15/06/08</lastupdate>
 			<discoveryyear>2010</discoveryyear>
-			<image>Gliese876e</image>
-			<imagedescription>Artist's impression of Gliese 876 e, a member of a multi-planetary system. The illustration shows the planet from the perspective of a hypothetical moon orbiting.
-
-Credit: Jonah Gallagher.</imagedescription>
 		</planet>
 	</star>
-	<videolink>http://youtu.be/1Uf3eBdnxUs</videolink>
 </system>

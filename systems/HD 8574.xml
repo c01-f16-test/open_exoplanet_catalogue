@@ -1,10 +1,10 @@
 <system>
 	<name>HD 8574</name>
-	<rightascension>01 25 12</rightascension>
-	<declination>+28 34 00</declination>
-	<distance>44.2</distance>
+	<rightascension>01h25m12.52s</rightascension>
+	<declination>+28d34m00.1s</declination>
+	<distance errorminus="1.60" errorplus="1.60">44.20</distance>
 	<star>
-		<mass>1.17</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.12</mass>
 		<radius>1.37</radius>
 		<magV>7.12</magV>
 		<magB errorminus="0.016" errorplus="0.016">7.684</magB>
@@ -15,19 +15,19 @@
 		<magK>5.78</magK>
 		<metallicity>0.05</metallicity>
 		<spectraltype>F8</spectraltype>
+		<name>HD 8574</name>
+		<temperature errorminus="44.00" errorplus="44.00">6050.00</temperature>
 		<planet>
 			<name>HD 8574 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.11</mass>
-			<period>227.55</period>
-			<semimajoraxis>0.77</semimajoraxis>
-			<eccentricity>0.288</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000">1.80000</mass>
+			<period errorminus="0.20000000" errorplus="0.20000000">227.00000000</period>
+			<semimajoraxis errorminus="0.005000" errorplus="0.005000">0.757000</semimajoraxis>
+			<eccentricity errorminus="0.026000" errorplus="0.026000">0.297000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/10/08</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2003</discoveryyear>
 			<temperature>355.7</temperature>
 		</planet>
-		<name>HD 8574</name>
-		<temperature>6080.0</temperature>
 	</star>
 </system>

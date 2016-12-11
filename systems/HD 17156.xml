@@ -1,35 +1,36 @@
 <system>
 	<name>HD 17156</name>
-	<rightascension>02 49 44</rightascension>
-	<declination>+71 45 12</declination>
+	<rightascension>2 47 163.999991</rightascension>
+	<declination>71 45 11.9998799</declination>
 	<distance>78.24</distance>
 	<star>
-		<mass>1.275</mass>
-		<radius>1.508</radius>
-		<magV errorminus="0.01" errorplus="0.01">8.16</magV>
+		<mass errorminus="0.018" errorplus="0.018">1.275</mass>
+		<radius errorminus="0.021" errorplus="0.021">1.508</radius>
+		<magV>8.17</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.78</magB>
 		<magJ errorminus="0.007" errorplus="0.007">7.080</magJ>
 		<magH errorminus="0.023" errorplus="0.023">6.857</magH>
 		<magK errorminus="0.024" errorplus="0.024">6.807</magK>
-		<metallicity>0.24</metallicity>
-		<spectraltype>G0V</spectraltype>
+		<metallicity errorminus="0.05" errorplus="0.05">0.24</metallicity>
+		<spectraltype>G0</spectraltype>
+		<name>HD 17156</name>
+		<temperature errorminus="80.0" errorplus="80.0">6079.0</temperature>
+		<age errorminus="0.47" errorplus="0.47">3.38</age>
 		<planet>
 			<name>HD 17156 b</name>
 			<list>Confirmed planets</list>
-			<mass>3.191</mass>
-			<radius>1.095</radius>
-			<period>21.2163979</period>
-			<semimajoraxis>0.1623</semimajoraxis>
-			<eccentricity>0.6768</eccentricity>
-			<inclination>87.21</inclination>
+			<mass errorminus="0.08000" errorplus="0.08000">3.22000</mass>
+			<radius errorminus="0.080" errorplus="0.080">1.020</radius>
+			<period errorminus="0.00045000" errorplus="0.00045000">21.21663000</period>
+			<semimajoraxis errorminus="0.002200" errorplus="0.002200">0.161400</semimajoraxis>
+			<eccentricity errorminus="0.004400" errorplus="0.004400">0.681900</eccentricity>
+			<inclination errorminus="0.110" errorplus="0.110">87.890</inclination>
 			<transittime errorminus="0.000081" errorplus="0.000081" unit="HJD">2454777.946341</transittime>
-			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<discoverymethod>RV</discoverymethod>
+			<lastupdate>14/10/29</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>790.5</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HD 17156</name>
-		<temperature>6079.0</temperature>
 	</star>
 </system>

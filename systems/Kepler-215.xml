@@ -2,8 +2,8 @@
 	<name>Kepler-215</name>
 	<name>KOI-700</name>
 	<name>KIC 8962094</name>
-	<rightascension>19 39 53</rightascension>
-	<declination>+45 12 49</declination>
+	<rightascension>19 36 233.642592</rightascension>
+	<declination>45 12 49.2767999</declination>
 	<distance>593.87</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">12.417</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-215</name>
 		<name>KOI-700</name>
 		<name>KIC 8962094</name>
-		<temperature errorminus="64" errorplus="164">5739</temperature>
-		<radius errorminus=".236" errorplus="0.236">1.027</radius>
-		<mass errorminus="0.0750" errorplus="0.0750">0.9770</mass>
+		<temperature errorminus="164.0" errorplus="164.0">5739.0</temperature>
+		<radius errorminus="0.24" errorplus="0.24">1.03</radius>
+		<mass>0.77</mass>
+		<metallicity>-0.618</metallicity>
 		<planet>
 			<name>Kepler-215 d</name>
 			<name>KOI-700 d</name>
 			<name>KOI-700.01</name>
 			<name>KIC 8962094 d</name>
 			<name>KIC 8962094.01</name>
-			<radius errorminus="0.05012" errorplus="0.05012">0.21780</radius>
-			<period errorminus=".000092" errorplus="0.000092">30.864423</period>
+			<radius errorminus="0.049" errorplus="0.049">0.213</radius>
+			<period errorminus="0.00009200" errorplus="0.00009200">30.86442300</period>
 			<transittime errorminus="0.0015400" errorplus="0.0015400">2455005.9330900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-215 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.185000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-215 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-700.02</name>
 			<name>KIC 8962094 b</name>
 			<name>KIC 8962094.02</name>
-			<radius errorminus="0.03645" errorplus="0.03645">0.14763</radius>
-			<period errorminus=".000040" errorplus="0.000040">9.360672</period>
+			<radius errorminus="0.036" errorplus="0.036">0.145</radius>
+			<period errorminus="0.00004000" errorplus="0.00004000">9.36067200</period>
 			<transittime errorminus="0.0025000" errorplus="0.0025000">2455004.9671900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-215 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.084000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-215 c</name>
@@ -53,15 +56,16 @@
 			<name>KOI-700.03</name>
 			<name>KIC 8962094 c</name>
 			<name>KIC 8962094.03</name>
-			<radius errorminus="0.03827" errorplus="0.03827">0.16130</radius>
-			<period errorminus=".000089" errorplus="0.000089">14.667108</period>
+			<radius errorminus="0.037" errorplus="0.037">0.158</radius>
+			<period errorminus="0.00008900" errorplus="0.00008900">14.66710800</period>
 			<transittime errorminus="0.0031400" errorplus="0.0031400">2454978.4238100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-215 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.113000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-215 e</name>
@@ -69,15 +73,16 @@
 			<name>KOI-700.04</name>
 			<name>KIC 8962094 e</name>
 			<name>KIC 8962094.04</name>
-			<radius errorminus="0.03736" errorplus="0.03736">0.15948</radius>
-			<period errorminus=".000630" errorplus="0.000630">68.161010</period>
+			<radius errorminus="0.037" errorplus="0.037">0.156</radius>
+			<period errorminus="0.00063000" errorplus="0.00063000">68.16101000</period>
 			<transittime errorminus="0.0056900" errorplus="0.0056900">2455020.0324700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-215 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-215 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.314000</semimajoraxis>
 		</planet>
 	</star>
 </system>

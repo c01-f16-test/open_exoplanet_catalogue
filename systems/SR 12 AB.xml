@@ -21,17 +21,5 @@
 			<radius>3.8</radius>
 			<temperature>2500</temperature>
 		</star>
-		<planet>
-			<name>SR 12 C</name>
-			<list>Confirmed planets</list>
-			<mass>13</mass>
-			<separation unit="arcsec">8.8</separation>
-			<separation unit="AU">1083</separation>
-			<positionangle>166</positionangle>
-			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>11/03/08</lastupdate>
-			<discoveryyear>2011</discoveryyear>
-			<list>Planets in binary systems, P-type</list>
-		</planet>
 	</binary>
 </system>

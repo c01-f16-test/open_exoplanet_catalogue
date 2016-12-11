@@ -1,11 +1,11 @@
 <system>
 	<name>HD 180902</name>
-	<rightascension>19 19 18</rightascension>
-	<declination>-23 33 29</declination>
-	<distance>110</distance>
+	<rightascension>19h19m17.71s</rightascension>
+	<declination>-23d33m29.4s</declination>
+	<distance errorminus="14.82" errorplus="11.77">114.55</distance>
 	<star>
-		<mass>1.52</mass>
-		<radius>4.1</radius>
+		<mass errorminus="0.11" errorplus="0.11">1.52</mass>
+		<radius errorminus="0.10" errorplus="0.10">4.10</radius>
 		<magV>7.78</magV>
 		<magB errorminus="0.019" errorplus="0.019">8.714</magB>
 		<magI errorminus="0.05" errorplus="0.05">8.87</magI>
@@ -14,19 +14,19 @@
 		<magK errorminus="0.020" errorplus="0.020">5.543</magK>
 		<metallicity>0.04</metallicity>
 		<spectraltype>K0III/IV</spectraltype>
+		<name>HD 180902</name>
+		<temperature errorminus="44.00" errorplus="44.00">5030.00</temperature>
 		<planet>
 			<name>HD 180902 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.6</mass>
-			<period>479</period>
-			<semimajoraxis>1.39</semimajoraxis>
-			<eccentricity>0.09</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000">1.60000</mass>
+			<period errorminus="13.00000000" errorplus="13.00000000">479.00000000</period>
+			<semimajoraxis errorminus="0.040000" errorplus="0.040000">1.390000</semimajoraxis>
+			<eccentricity errorminus="0.110000" errorplus="0.110000">0.090000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/03/19</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>380.7</temperature>
 		</planet>
-		<name>HD 180902</name>
-		<temperature>5030.0</temperature>
 	</star>
 </system>

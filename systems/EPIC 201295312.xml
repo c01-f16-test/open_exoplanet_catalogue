@@ -21,7 +21,7 @@
 			<period errorminus="0.00075" errorplus="0.00075">5.65639</period>
 			<transittime errorminus="0.0049" errorplus="0.0049" unit="BJD">2456811.7191</transittime>
 			<eccentricity errorminus="0.09" errorplus="0.22">0.12</eccentricity>
-			<mass upperlimit="0.03776" />
+			<mass upperlimit="0.03776"/>
 			<impactparameter errorminus="0.26" errorplus="0.25">0.43</impactparameter>
 			<description>This planet was discovered by the Kepler spacecraft during its extended K2 mission, Campaign 1.</description>
 			<discoverymethod>transit</discoverymethod>

@@ -1,11 +1,11 @@
 <system>
 	<name>HIP 57274</name>
-	<rightascension>11 44 41</rightascension>
-	<declination>+30 57 33</declination>
+	<rightascension>11 43 100.999991</rightascension>
+	<declination>30 57 33.0001200</declination>
 	<distance>25.92</distance>
 	<star>
-		<mass>0.73</mass>
-		<radius>0.68</radius>
+		<mass errorminus="0.05" errorplus="0.05">0.73</mass>
+		<radius errorminus="0.03" errorplus="0.03">0.68</radius>
 		<magV>8.96</magV>
 		<magB>10.09</magB>
 		<magR>8.3</magR>
@@ -13,48 +13,49 @@
 		<magJ errorminus="0.019" errorplus="0.019">6.958</magJ>
 		<magH errorminus="0.018" errorplus="0.018">6.408</magH>
 		<magK errorminus="0.021" errorplus="0.021">6.286</magK>
-		<metallicity>0.09</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.09</metallicity>
 		<spectraltype>K5V</spectraltype>
+		<name>HIP 57274</name>
+		<temperature errorminus="100.0" errorplus="100.0">4640.0</temperature>
+		<age errorminus="5.0" errorplus="5.0">7.87</age>
 		<planet>
 			<name>HIP 57274 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.036</mass>
-			<period>8.1352</period>
-			<semimajoraxis>0.07</semimajoraxis>
-			<eccentricity>0.187</eccentricity>
+			<mass errorminus="0.00409" errorplus="0.00409">0.03650</mass>
+			<period errorminus="0.00400000" errorplus="0.00400000">8.13520000</period>
+			<semimajoraxis>0.070000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.187000</eccentricity>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
+			<lastupdate>15/04/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>636.3</temperature>
 		</planet>
 		<planet>
 			<name>HIP 57274 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.41</mass>
-			<period>32.03</period>
-			<semimajoraxis>0.178</semimajoraxis>
-			<eccentricity>0.05</eccentricity>
+			<mass errorminus="0.00944" errorplus="0.00944">0.40902</mass>
+			<period errorminus="0.02000000" errorplus="0.02000000">32.03000000</period>
+			<semimajoraxis>0.178000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.050000</eccentricity>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
+			<lastupdate>15/04/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>399.8</temperature>
 		</planet>
 		<planet>
 			<name>HIP 57274 d</name>
 			<list>Confirmed planets</list>
-			<mass>0.527</mass>
-			<period>431.7</period>
-			<semimajoraxis>1.01</semimajoraxis>
-			<eccentricity>0.27</eccentricity>
+			<mass errorminus="0.03000" errorplus="0.03000">0.52670</mass>
+			<period errorminus="8.50000000" errorplus="8.50000000">431.70000000</period>
+			<semimajoraxis>1.010000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.270000</eccentricity>
 			<description>The star HIP 57274 is a K dwarf. It hosts one Super-Earth and two sub-Jupiter mass gas giants. The observations were made with the Keck Observatory on Hawaii.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/09/15</lastupdate>
+			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>167.1</temperature>
 		</planet>
-		<name>HIP 57274</name>
-		<temperature>4640.0</temperature>
 	</star>
 </system>

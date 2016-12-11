@@ -1,11 +1,11 @@
 <system>
 	<name>HD 106270</name>
-	<rightascension>12 13 37</rightascension>
-	<declination>-09 30 47</declination>
-	<distance>84.9</distance>
+	<rightascension>12h13m37.28s</rightascension>
+	<declination>-09d30m48.2s</declination>
+	<distance errorminus="8.65" errorplus="7.23">87.87</distance>
 	<star>
-		<mass>1.32</mass>
-		<radius>2.5</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.32</mass>
+		<radius errorminus="0.10" errorplus="0.10">2.50</radius>
 		<magV>7.73</magV>
 		<magB errorminus="0.016" errorplus="0.016">8.319</magB>
 		<magJ errorminus="0.026" errorplus="0.026">6.249</magJ>
@@ -13,20 +13,20 @@
 		<magK errorminus="0.024" errorplus="0.024">5.862</magK>
 		<metallicity>0.08</metallicity>
 		<spectraltype>G5</spectraltype>
+		<name>HD 106270</name>
+		<temperature errorminus="44.00" errorplus="44.00">5638.00</temperature>
 		<planet>
 			<name>HD 106270 b</name>
 			<list>Confirmed planets</list>
-			<mass>11.0</mass>
-			<period>2890</period>
-			<semimajoraxis>4.3</semimajoraxis>
-			<eccentricity>0.402</eccentricity>
+			<mass errorminus="0.80000" errorplus="0.80000">11.00000</mass>
+			<period errorminus="390.00000000" errorplus="390.00000000">2890.00000000</period>
+			<semimajoraxis errorminus="0.400000" errorplus="0.400000">4.300000</semimajoraxis>
+			<eccentricity errorminus="0.054000" errorplus="0.054000">0.402000</eccentricity>
 			<description>The star HD 106270 hosts a Jupiter-like planet. It was discovered as part of a Doppler survey at the Keck Observatory.</description>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/07/24</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>187.6</temperature>
 		</planet>
-		<name>HD 106270</name>
-		<temperature>5638.0</temperature>
 	</star>
 </system>

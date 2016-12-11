@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1603</name>
-	<rightascension>19 41 19</rightascension>
-	<declination>+42 32 06</declination>
+	<rightascension>19 40 79.1623200</rightascension>
+	<declination>42 32 5.87760000</declination>
+	<distance>1751.0</distance>
 	<star>
 		<name>Kepler-1603</name>
-		<temperature errorminus="168.5" errorplus="116.7">6241.0</temperature>
-		<mass errorminus="0.10" errorplus="0.15">1.21</mass>
+		<temperature errorminus="168.54" errorplus="116.66">6241.0</temperature>
+		<mass errorminus="0.1" errorplus="0.15">1.21</mass>
 		<radius errorminus="0.18" errorplus="0.48">1.31</radius>
-		<metallicity errorminus="0.14" errorplus="0.14">0.07</metallicity>
+		<metallicity errorminus="0.141" errorplus="0.14">0.07</metallicity>
+		<magK>13.84</magK>
+		<magH>13.928</magH>
+		<magJ>14.191</magJ>
 		<planet>
 			<name>Kepler-1603 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000023360" errorplus="0.000023360">2.271639260</period>
+			<period errorminus="2.336e-05" errorplus="2.336e-05">2.27163926</period>
 			<radius errorminus="0.017" errorplus="0.042">0.115</radius>
 		</planet>
 	</star>

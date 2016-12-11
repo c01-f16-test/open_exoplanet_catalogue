@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1646</name>
-	<rightascension>19 10 06</rightascension>
-	<declination>+42 54 46</declination>
+	<rightascension>19 7 186.341279</rightascension>
+	<declination>42 54 46.4688000</declination>
+	<distance>81.0</distance>
 	<star>
 		<name>Kepler-1646</name>
-		<temperature errorminus="41.1" errorplus="36.2">3299.0</temperature>
+		<temperature errorminus="41.07" errorplus="36.22">3299.0</temperature>
 		<mass errorminus="0.06" errorplus="0.06">0.24</mass>
 		<radius errorminus="0.05" errorplus="0.05">0.26</radius>
-		<metallicity errorminus="0.13" errorplus="0.13">0.04</metallicity>
+		<metallicity errorminus="0.131" errorplus="0.127">0.04</metallicity>
+		<magK>12.029</magK>
+		<magH>12.298</magH>
+		<magJ>12.872</magJ>
 		<planet>
 			<name>Kepler-1646 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000010500" errorplus="0.000010500">4.485583830</period>
-			<radius errorminus="0.021" errorplus="0.025">0.110</radius>
+			<period errorminus="1.05e-05" errorplus="1.05e-05">4.48558383</period>
+			<radius errorminus="0.021" errorplus="0.025">0.11</radius>
 		</planet>
 	</star>
 </system>

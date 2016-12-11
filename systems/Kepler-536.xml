@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-536</name>
-	<rightascension>19 50 57</rightascension>
-	<declination>+49 38 14</declination>
+	<rightascension>19 48 176.731200</rightascension>
+	<declination>49 38 13.7543999</declination>
+	<distance>446.0</distance>
 	<star>
 		<name>Kepler-536</name>
-		<temperature errorminus="143.2" errorplus="91.5">5524.0</temperature>
+		<temperature errorminus="143.16" errorplus="91.48">5524.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.92</mass>
 		<radius errorminus="0.06" errorplus="0.11">0.89</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">0.00</metallicity>
+		<metallicity errorminus="0.178" errorplus="0.147">0.0</metallicity>
+		<magK>11.892</magK>
+		<magH>11.988</magH>
+		<magJ>12.379</magJ>
 		<planet>
 			<name>Kepler-536 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000440" errorplus="0.000000440">1.827082300</period>
-			<radius errorminus="0.020" errorplus="0.034">0.277</radius>
+			<period errorminus="4.4e-07" errorplus="4.4e-07">1.8270823</period>
+			<radius errorminus="0.02" errorplus="0.034">0.277</radius>
 		</planet>
 	</star>
 </system>

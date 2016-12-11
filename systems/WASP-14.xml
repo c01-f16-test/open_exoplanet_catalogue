@@ -27,6 +27,7 @@
 				<name>2MASS J14330635+2153409 b</name>
 				<name>SAO 83398 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>7.341</mass>
 				<radius>1.281</radius>
 				<period>2.2437661</period>
@@ -39,7 +40,6 @@
 				<discoveryyear>2008</discoveryyear>
 				<temperature>1718.8</temperature>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

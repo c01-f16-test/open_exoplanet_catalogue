@@ -10,6 +10,8 @@
 		<magH errorminus="0.192" errorplus="0.192">3.898</magH>
 		<magK errorminus="0.036" errorplus="0.036">4.159</magK>
 		<spectraltype>G4V</spectraltype>
+		<name>HD 136352</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 136352 b</name>
 			<list>Confirmed planets</list>
@@ -49,7 +51,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>397.3</temperature>
 		</planet>
-		<name>HD 136352</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

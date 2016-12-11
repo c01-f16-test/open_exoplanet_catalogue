@@ -1,7 +1,7 @@
 <system>
 	<name>HD 114783</name>
-	<rightascension>13 12 43</rightascension>
-	<declination>-02 15 54</declination>
+	<rightascension>13 11 103.000007</rightascension>
+	<declination>-2 15 54.0</declination>
 	<distance>20.4</distance>
 	<star>
 		<mass>0.92</mass>
@@ -15,20 +15,23 @@
 		<magK errorminus="0.017" errorplus="0.017">5.475</magK>
 		<metallicity>0.33</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 114783</name>
+		<temperature>5105.0</temperature>
+		<age>3.7</age>
 		<planet>
 			<name>HD 114783 b</name>
 			<list>Confirmed planets</list>
-			<mass>1</mass>
-			<period>501</period>
-			<semimajoraxis>1.2</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
-			<inclination>10</inclination>
+			<mass errorminus="3.0" errorplus="27.0">6.3</mass>
+			<period errorminus="1.8" errorplus="1.8">493.7</period>
+			<semimajoraxis errorminus="0.019" errorplus="0.019">1.16</semimajoraxis>
+			<eccentricity errorminus="0.032" errorplus="0.032">0.144</eccentricity>
+			<inclination errorminus="8.0" errorplus="8.0">10.0</inclination>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/01/11</lastupdate>
+			<lastupdate>16/01/22</lastupdate>
 			<discoveryyear>2001</discoveryyear>
 			<temperature>181.4</temperature>
+			<periastrontime errorminus="14.0" errorplus="14.0">2453806.0</periastrontime>
+			<periastron errorminus="11.0" errorplus="11.0">86.0</periastron>
 		</planet>
-		<name>HD 114783</name>
-		<temperature>5105.0</temperature>
 	</star>
 </system>

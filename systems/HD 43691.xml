@@ -1,10 +1,10 @@
 <system>
 	<name>HD 43691</name>
-	<rightascension>06 19 35</rightascension>
-	<declination>+41 05 32</declination>
-	<distance>93.2</distance>
+	<rightascension>06h19m34.68s</rightascension>
+	<declination>+41d05m32.3s</declination>
+	<distance errorminus="11.30" errorplus="9.09">93.20</distance>
 	<star>
-		<mass>1.38</mass>
+		<mass errorminus="0.05" errorplus="0.05">1.38</mass>
 		<magV>8.03</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.59</magB>
 		<magJ errorminus="0.024" errorplus="0.024">6.976</magJ>
@@ -12,19 +12,19 @@
 		<magK errorminus="0.023" errorplus="0.023">6.700</magK>
 		<metallicity>0.28</metallicity>
 		<spectraltype>G0IV</spectraltype>
+		<name>HD 43691</name>
+		<temperature errorminus="40.00" errorplus="40.00">6200.00</temperature>
 		<planet>
 			<name>HD 43691 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.49</mass>
-			<period>36.96</period>
-			<semimajoraxis>0.24</semimajoraxis>
-			<eccentricity>0.14</eccentricity>
+			<mass>2.49000</mass>
+			<period errorminus="0.02000000" errorplus="0.02000000">36.96000000</period>
+			<semimajoraxis>0.240000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.140000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>07/11/27</lastupdate>
+			<lastupdate>15/01/22</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>762.5</temperature>
 		</planet>
-		<name>HD 43691</name>
-		<temperature>6200.0</temperature>
 	</star>
 </system>

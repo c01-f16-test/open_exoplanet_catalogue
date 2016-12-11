@@ -4,8 +4,8 @@
 	<name>GSC2.3 N2K0000444</name>
 	<name>USNO-A2 1275-11111739</name>
 	<name>2MASS 19182590+4420435</name>
-	<rightascension>19 18 25</rightascension>
-	<declination>+44 20 44</declination>
+	<rightascension>19h18m25.91s</rightascension>
+	<declination>+44d20m43.5s</declination>
 	<distance errorminus="70" errorplus="70">570</distance>
 	<star>
 		<magB errorminus="0.04" errorplus="0.04">15.03</magB>
@@ -34,19 +34,20 @@
 			<name>GSC2.3 N2K0000444</name>
 			<name>USNO-A2 1275-11111739 b</name>
 			<name>2MASS 19182590+4420435 b</name>
-			<radius errorminus="0.016" errorplus="0.016">0.96</radius>
-			<period errorminus="2.3e-07" errorplus="2.3e-07">3.5787087</period>
+			<radius errorminus="0.016" errorplus="0.016">0.960</radius>
+			<period errorminus="0.00000023" errorplus="0.00000023">3.57878087</period>
 			<transittime errorminus="2.9e-05" errorplus="2.9e-05">2455095.86573</transittime>
-			<mass errorminus="0.032" errorplus="0.032">0.43</mass>
-			<semimajoraxis errorminus="0.00063" errorplus="0.00063">0.04501</semimajoraxis>
-			<inclination errorminus="0.11" errorplus="0.11">88.0</inclination>
+			<mass errorminus="0.03200" errorplus="0.03200">0.43000</mass>
+			<semimajoraxis errorminus="0.000630" errorplus="0.000630">0.045010</semimajoraxis>
+			<inclination errorminus="0.110" errorplus="0.110">88.000</inclination>
 			<temperature>1189.0</temperature>
 			<list>Confirmed planets</list>
 			<description>KOI-127 b is a transiting Saturn-mass planet in a 3.6 day orbit. It was found in the publicly available Kepler photometry from quarters 1-13 and has been confirmed independently with ground based spectroscopy. The planet has one of the lowest albedos of all known gas giants (less than 0.087).</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>14/04/03</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
 		</planet>
 	</star>
 </system>

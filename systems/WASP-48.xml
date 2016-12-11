@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-48</name>
-	<rightascension>19 24 39</rightascension>
-	<declination>+55 28 23</declination>
+	<rightascension>19 23 98.9999999</rightascension>
+	<declination>55 28 23.0001600</declination>
 	<star>
 		<mass errorminus="0.05" errorplus="0.05">1.19</mass>
 		<radius errorminus="0.09" errorplus="0.09">1.75</radius>
@@ -12,24 +12,24 @@
 		<magH errorminus="0.03" errorplus="0.03">10.44</magH>
 		<magK errorminus="0.022" errorplus="0.022">10.372</magK>
 		<metallicity errorminus="0.12" errorplus="0.12">-0.12</metallicity>
+		<name>WASP-48</name>
+		<temperature errorminus="90.0" errorplus="90.0">5990.0</temperature>
 		<planet>
 			<name>WASP-48 b</name>
 			<name>2MASS J19243895+5528233 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.09" errorplus="0.09">0.98</mass>
-			<radius errorminus="0.10" errorplus="0.10">1.67</radius>
-			<period errorminus="0.000003" errorplus="0.000003">2.143634</period>
-			<semimajoraxis errorminus="0.00045" errorplus="0.00045">0.03444</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination errorminus="0.79" errorplus="0.88">80.09</inclination>
+			<mass errorminus="0.08500" errorplus="0.08500">0.90700</mass>
+			<radius errorminus="0.051" errorplus="0.051">1.396</radius>
+			<period errorminus="0.00000058" errorplus="0.00000058">2.14363544</period>
+			<semimajoraxis errorminus="0.000780" errorplus="0.000780">0.033200</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.540" errorplus="0.540">81.990</inclination>
 			<transittime errorminus="0.00042" errorplus="0.00042" unit="BJD">2455364.55119</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/04/15</lastupdate>
+			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature errorminus="70" errorplus="70">2030</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-48</name>
-		<temperature errorminus="150" errorplus="150">5920</temperature>
 	</star>
 </system>

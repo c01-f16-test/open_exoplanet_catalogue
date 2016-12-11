@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1503</name>
-	<rightascension>19 34 55</rightascension>
-	<declination>+42 48 24</declination>
+	<rightascension>19 32 174.522000</rightascension>
+	<declination>42 48 24.3324000</declination>
+	<distance>850.0</distance>
 	<star>
 		<name>Kepler-1503</name>
-		<temperature errorminus="74.0" errorplus="95.0">5069.0</temperature>
+		<temperature errorminus="73.98" errorplus="95.03">5069.0</temperature>
 		<mass errorminus="0.07" errorplus="0.05">0.77</mass>
 		<radius errorminus="0.07" errorplus="0.05">0.74</radius>
-		<metallicity errorminus="0.26" errorplus="0.18">-0.19</metallicity>
+		<metallicity errorminus="0.259" errorplus="0.179">-0.19</metallicity>
+		<magK>13.767</magK>
+		<magH>13.82</magH>
+		<magJ>14.353</magJ>
 		<planet>
 			<name>Kepler-1503 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.001180000" errorplus="0.001180000">96.169870000</period>
+			<period errorminus="0.00118" errorplus="0.00118">96.16987</period>
 			<radius errorminus="0.021" errorplus="0.017">0.203</radius>
 		</planet>
 	</star>

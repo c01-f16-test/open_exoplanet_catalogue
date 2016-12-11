@@ -2,34 +2,36 @@
 	<name>Kepler-292</name>
 	<name>KOI-1364</name>
 	<name>KIC 6962977</name>
-	<rightascension>19 43 03</rightascension>
-	<declination>+42 25 27</declination>
+	<rightascension>19 40 183.874512</rightascension>
+	<declination>42 25 27.4295999</declination>
 	<distance>1216.22</distance>
 	<star>
 		<magJ errorminus="0.028" errorplus="0.028">14.537</magJ>
-		<magH errorminus="0.03" errorplus="0.03">14.08</magH>
+		<magH>14.077</magH>
 		<magK errorminus="0.06" errorplus="0.06">13.97</magK>
 		<name>Kepler-292</name>
 		<name>KOI-1364</name>
 		<name>KIC 6962977</name>
 		<temperature errorminus="100" errorplus="100">5299</temperature>
-		<radius errorminus=".073" errorplus="0.073">0.826</radius>
-		<mass errorminus="0.0780" errorplus="0.0780">0.8340</mass>
+		<radius errorminus="0.07" errorplus="0.07">0.83</radius>
+		<mass>0.88</mass>
+		<metallicity>0.077</metallicity>
 		<planet>
 			<name>Kepler-292 f</name>
 			<name>KOI-1364 f</name>
 			<name>KOI-1364.01</name>
 			<name>KIC 6962977 f</name>
 			<name>KIC 6962977.01</name>
-			<radius errorminus="0.02005" errorplus="0.02005">0.21416</radius>
-			<period errorminus=".000184" errorplus="0.000184">20.834237</period>
+			<radius errorminus="0.020" errorplus="0.020">0.210</radius>
+			<period errorminus="0.00018400" errorplus="0.00018400">20.83423700</period>
 			<transittime errorminus="0.0060400" errorplus="0.0060400">2455019.0324900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-292 f has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 f are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.141000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-292 d</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1364.02</name>
 			<name>KIC 6962977 d</name>
 			<name>KIC 6962977.02</name>
-			<radius errorminus="0.01914" errorplus="0.01914">0.20322</radius>
-			<period errorminus=".000043" errorplus="0.000043">7.055679</period>
+			<radius errorminus="0.019" errorplus="0.019">0.199</radius>
+			<period errorminus="0.00004300" errorplus="0.00004300">7.05567900</period>
 			<transittime errorminus="0.0036900" errorplus="0.0036900">2455014.9097300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-292 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.068000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-292 e</name>
@@ -53,15 +56,16 @@
 			<name>KOI-1364.03</name>
 			<name>KIC 6962977 e</name>
 			<name>KIC 6962977.03</name>
-			<radius errorminus="0.03190" errorplus="0.03190">0.24332</radius>
-			<period errorminus=".000101" errorplus="0.000101">11.979010</period>
+			<radius errorminus="0.031" errorplus="0.031">0.238</radius>
+			<period errorminus="0.00010100" errorplus="0.00010100">11.97901000</period>
 			<transittime errorminus="0.0052300" errorplus="0.0052300">2455011.9664000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-292 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.097000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-292 c</name>
@@ -69,15 +73,16 @@
 			<name>KOI-1364.04</name>
 			<name>KIC 6962977 c</name>
 			<name>KIC 6962977.04</name>
-			<radius errorminus="0.01367" errorplus="0.01367">0.13396</radius>
-			<period errorminus=".000033" errorplus="0.000033">3.715335</period>
+			<radius errorminus="0.013" errorplus="0.013">0.131</radius>
+			<period errorminus="0.00003300" errorplus="0.00003300">3.71533500</period>
 			<transittime errorminus="0.0051300" errorplus="0.0051300">2455002.7919800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-292 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.045000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-292 b</name>
@@ -85,15 +90,16 @@
 			<name>KOI-1364.05</name>
 			<name>KIC 6962977 b</name>
 			<name>KIC 6962977.05</name>
-			<radius errorminus="0.01276" errorplus="0.01276">0.12029</radius>
-			<period errorminus=".000020" errorplus="0.000020">2.580827</period>
+			<radius errorminus="0.012" errorplus="0.012">0.118</radius>
+			<period errorminus="0.00002000" errorplus="0.00002000">2.58082700</period>
 			<transittime errorminus="0.0051200" errorplus="0.0051200">2455004.5621400</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-292 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-292 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.035000</semimajoraxis>
 		</planet>
 	</star>
 </system>

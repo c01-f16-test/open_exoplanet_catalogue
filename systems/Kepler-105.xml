@@ -2,8 +2,8 @@
 	<name>Kepler-105</name>
 	<name>KOI-115</name>
 	<name>KIC 9579641</name>
-	<rightascension>19 11 32</rightascension>
-	<declination>+46 16 34</declination>
+	<rightascension>19 7 272.958995</rightascension>
+	<declination>46 16 34.4532000</declination>
 	<distance>488.45</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">11.811</magJ>
@@ -12,9 +12,10 @@
 		<name>Kepler-105</name>
 		<name>KOI-115</name>
 		<name>KIC 9579641</name>
-		<temperature errorminus="100" errorplus="100">5873</temperature>
-		<radius errorminus="0.245" errorplus="0.245">1.160</radius>
-		<mass errorminus="0.0930" errorplus="0.0930">1.1800</mass>
+		<temperature errorminus="100.0" errorplus="100.0">5873.0</temperature>
+		<radius errorminus="0.24" errorplus="0.24">1.16</radius>
+		<mass errorminus="0.12" errorplus="0.12">1.28</mass>
+		<metallicity errorminus="0.47" errorplus="0.47">-0.22</metallicity>
 		<planet>
 			<name>Kepler-105 b</name>
 			<name>KOI-115 b</name>
@@ -37,14 +38,14 @@
 			<name>KOI-115.02</name>
 			<name>KIC 9579641 c</name>
 			<name>KIC 9579641.02</name>
-			<radius errorminus="0.03098" errorplus="0.03098">0.14672</radius>
-			<period errorminus="0.000017" errorplus="0.000017">7.125939</period>
+			<radius errorminus="0.006" errorplus="0.006">0.117</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">7.12620000</period>
 			<transittime errorminus="0.0014100" errorplus="0.0014100">2454972.0042100</transittime>
-			<mass errorminus="0.002781" errorplus="0.002904">0.014483</mass>
+			<mass errorminus="0.00267" errorplus="0.00289">0.01447</mass>
 			<list>Confirmed planets</list>
 			<description>Kepler-105 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-105 c are still unknown, the object is highly unlikely to be a false positive. TTV measurements indicate it is likely to be rocky.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>16/01/13</lastupdate>
+			<lastupdate>16/04/07</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>

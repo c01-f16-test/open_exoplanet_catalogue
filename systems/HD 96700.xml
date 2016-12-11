@@ -12,6 +12,8 @@
 		<magH errorminus="0.033" errorplus="0.033">5.114</magH>
 		<magK errorminus="0.024" errorplus="0.024">4.995</magK>
 		<spectraltype>G0V</spectraltype>
+		<name>HD 96700</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 96700 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>425.4</temperature>
 		</planet>
-		<name>HD 96700</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

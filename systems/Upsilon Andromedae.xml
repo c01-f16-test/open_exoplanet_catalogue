@@ -22,11 +22,13 @@
 			<age>3.1</age>
 			<metallicity>0.09</metallicity>
 			<spectraltype>F8 V</spectraltype>
+			<temperature>6212.0</temperature>
 			<planet>
 				<name>Upsilon Andromedae A b</name>
 				<name>ups And A b</name>
 				<name>ups And b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.78</mass>
 				<period>4.61716</period>
 				<semimajoraxis>0.059408</semimajoraxis>
@@ -39,7 +41,6 @@
 				<discoverymethod>RV</discoverymethod>
 				<lastupdate>15/03/16</lastupdate>
 				<discoveryyear>1996</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>1440.1</temperature>
 			</planet>
 			<planet>
@@ -47,6 +48,7 @@
 				<name>ups And A c</name>
 				<name>ups And c</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>10.78</mass>
 				<period>241.02</period>
 				<semimajoraxis>0.831580</semimajoraxis>
@@ -59,7 +61,6 @@
 				<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
 				<lastupdate>15/03/16</lastupdate>
 				<discoveryyear>1999</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>375.6</temperature>
 			</planet>
 			<planet>
@@ -67,6 +68,7 @@
 				<name>ups And A d</name>
 				<name>ups And d</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>8.86</mass>
 				<period>1282.57</period>
 				<semimajoraxis>2.533539</semimajoraxis>
@@ -79,7 +81,6 @@
 				<description>The binary star Upsilon Andromedae is only 40 light years away from Earth. The system hosts at least 3 jovian planets. It was the first multiple planet system to be discovered around a main sequence star.</description>
 				<lastupdate>15/03/16</lastupdate>
 				<discoveryyear>1999</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>218.0</temperature>
 			</planet>
 			<planet>
@@ -87,6 +88,7 @@
 				<name>ups And A e</name>
 				<name>ups And e</name>
 				<list>Controversial</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>1.059</mass>
 				<period>3848.86</period>
 				<semimajoraxis>5.2456</semimajoraxis>
@@ -95,10 +97,8 @@
 				<description>The detection of the fourth planet in the Upsilon Andromedae system has been questioned due to the presence of an unaccounted-for instrumental shift in earlier reductions of the radial velocity data from the Lick observatory.</description>
 				<lastupdate>15/03/16</lastupdate>
 				<discoveryyear>2010</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>150.6</temperature>
 			</planet>
-			<temperature>6212.0</temperature>
 		</star>
 		<star>
 			<name>Upsilon Andromedae B</name>

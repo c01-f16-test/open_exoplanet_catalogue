@@ -1,16 +1,17 @@
 <system>
 	<name>HD 114762</name>
-	<rightascension>13 12 19</rightascension>
-	<declination>+17 31 01</declination>
-	<distance>39.46</distance>
+	<rightascension>13 11 79.0000079</rightascension>
+	<declination>17 31 0.99983999</declination>
+	<distance errorminus="2.86" errorplus="2.86">39.46</distance>
 	<binary>
 		<separation unit="arcsec">3.26</separation>
 		<separation unit="AU">129</separation>
 		<positionangle>30</positionangle>
 		<star>
 			<name>HD 114762 A</name>
+			<name>HD 114762</name>
 			<mass>0.84</mass>
-			<radius>1.24</radius>
+			<radius errorminus="0.1" errorplus="0.1">1.24</radius>
 			<magV>7.3</magV>
 			<magB>7.85</magB>
 			<magR>7.0</magR>
@@ -18,24 +19,27 @@
 			<magJ>6.14</magJ>
 			<magH>5.89</magH>
 			<magK>5.81</magK>
-			<metallicity>-0.71</metallicity>
+			<metallicity errorminus="0.08" errorplus="0.08">-0.71</metallicity>
 			<spectraltype>F9V</spectraltype>
+			<temperature errorminus="80.0" errorplus="80.0">5934.0</temperature>
+			<age errorminus="3.9" errorplus="3.9">11.8</age>
 			<planet>
 				<name>HD 114762 b</name>
 				<name>HD 114762 A b</name>
 				<list>Confirmed planets</list>
 				<list>Planets in binary systems, S-type</list>
-				<mass>10.98</mass>
-				<period>83.9151</period>
-				<semimajoraxis>0.353</semimajoraxis>
-				<eccentricity>0.3354</eccentricity>
+				<mass errorminus="0.09" errorplus="0.09">10.98</mass>
+				<period errorminus="0.003" errorplus="0.003">83.9151</period>
+				<semimajoraxis errorminus="0.001" errorplus="0.001">0.353</semimajoraxis>
+				<eccentricity errorminus="0.0048" errorplus="0.0048">0.3354</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>11/06/09</lastupdate>
-				<discoveryyear>1992</discoveryyear>
+				<lastupdate>16/01/10</lastupdate>
+				<discoveryyear>1989</discoveryyear>
 				<temperature>486.8</temperature>
+				<radius>1.110</radius>
+				<periastrontime errorminus="0.186" errorplus="0.186">2449889.106</periastrontime>
+				<periastron errorminus="1.01" errorplus="1.01">201.28</periastron>
 			</planet>
-			<name>HD 114762</name>
-			<temperature>5934.0</temperature>
 		</star>
 		<star>
 			<name>HD 114762 B</name>

@@ -1,10 +1,10 @@
 <system>
 	<name>HD 38283</name>
-	<rightascension>05 37 02</rightascension>
-	<declination>-73 41 58</declination>
-	<distance>37.7</distance>
+	<rightascension>05h37m02.02s</rightascension>
+	<declination>-73d41m57.6s</declination>
+	<distance errorminus="0.82" errorplus="0.78">37.78</distance>
 	<star>
-		<mass>1.085</mass>
+		<mass errorminus="0.02" errorplus="0.02">1.08</mass>
 		<magV>6.7</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.26</magB>
 		<magI errorminus="0.02" errorplus="0.02">8.35</magI>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.026" errorplus="0.026">5.267</magK>
 		<metallicity>-0.24</metallicity>
 		<spectraltype>F9.5V</spectraltype>
+		<name>HD 38283</name>
+		<temperature>5998.00</temperature>
 		<planet>
 			<name>HD 38283 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.34</mass>
-			<period>363.2</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.41</eccentricity>
+			<mass errorminus="0.02000" errorplus="0.02000">0.34000</mass>
+			<period errorminus="1.60000000" errorplus="1.60000000">363.20000000</period>
+			<semimajoraxis errorminus="0.070000" errorplus="0.070000">1.020000</semimajoraxis>
+			<eccentricity errorminus="0.160000" errorplus="0.160000">0.410000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>11/04/13</lastupdate>
+			<lastupdate>15/09/10</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>309.9</temperature>
 		</planet>
-		<name>HD 38283</name>
-		<temperature>5945.0</temperature>
 	</star>
 </system>

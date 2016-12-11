@@ -1,44 +1,12 @@
 <system>
 	<name>HD 178911</name>
-	<rightascension>19 09 03</rightascension>
-	<declination>+34 35 59</declination>
-	<distance>46.73</distance>
+	<rightascension>19h09m03.11s</rightascension>
+	<declination>+34d35m59.5s</declination>
+	<distance errorminus="11.00" errorplus="11.00">47.00</distance>
 	<binary>
 		<separation unit="arcsec">16.1</separation>
 		<separation unit="AU">752</separation>
 		<positionangle>82</positionangle>
-		<star>
-			<name>HD 178911 B</name>
-			<name>HR 7272</name>
-			<name>ADS 12101</name>
-			<name>HIP 94075/6</name>
-			<mass>1.07</mass>
-			<radius>1.14</radius>
-			<magV>7.98</magV>
-			<magB>7.37</magB>
-			<magR>6.3</magR>
-			<magI>6.0</magI>
-			<magJ>5.55</magJ>
-			<magH>5.29</magH>
-			<magK>5.21</magK>
-			<metallicity>0.28</metallicity>
-			<spectraltype>G5</spectraltype>
-			<planet>
-				<name>HD 178911 B b</name>
-				<list>Confirmed planets</list>
-				<mass>6.292</mass>
-				<period>71.487</period>
-				<semimajoraxis>0.32</semimajoraxis>
-				<eccentricity>0.1243</eccentricity>
-				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/12/07</lastupdate>
-				<description>The planet HD 178911 B b is part of a stellar triple system. The wide binary separation is approximately 640 astronomical units. The planet was found using the HIRES and ELODIE spectrographs mounted on telescopes in Hawaii and France.</description>
-				<discoveryyear>2001</discoveryyear>
-				<list>Planets in binary systems, S-type</list>
-				<temperature>469.8</temperature>
-			</planet>
-			<temperature>5650.0</temperature>
-		</star>
 		<binary>
 			<period>1296.6098</period>
 			<eccentricity>0.59</eccentricity>
@@ -53,5 +21,37 @@
 				<spectraltype>K1</spectraltype>
 			</star>
 		</binary>
+		<star>
+			<name>HD 178911 B</name>
+			<name>HR 7272</name>
+			<name>ADS 12101</name>
+			<name>HIP 94075/6</name>
+			<mass errorminus="0.06" errorplus="0.06">1.01</mass>
+			<radius>1.14</radius>
+			<magV>7.98</magV>
+			<magB>7.37</magB>
+			<magR>6.3</magR>
+			<magI>6.0</magI>
+			<magJ>5.55</magJ>
+			<magH>5.29</magH>
+			<magK>5.21</magK>
+			<metallicity>0.28</metallicity>
+			<spectraltype>G5</spectraltype>
+			<temperature errorminus="44.00" errorplus="44.00">5668.00</temperature>
+			<planet>
+				<name>HD 178911 B b</name>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.28000" errorplus="0.28000">7.03000</mass>
+				<period errorminus="0.00200000" errorplus="0.00200000">71.48400000</period>
+				<semimajoraxis errorminus="0.006000" errorplus="0.006000">0.339000</semimajoraxis>
+				<eccentricity errorminus="0.003000" errorplus="0.003000">0.114000</eccentricity>
+				<discoverymethod>RV</discoverymethod>
+				<lastupdate>14/05/14</lastupdate>
+				<description>The planet HD 178911 B b is part of a stellar triple system. The wide binary separation is approximately 640 astronomical units. The planet was found using the HIRES and ELODIE spectrographs mounted on telescopes in Hawaii and France.</description>
+				<discoveryyear>2001</discoveryyear>
+				<temperature>469.8</temperature>
+			</planet>
+		</star>
 	</binary>
 </system>

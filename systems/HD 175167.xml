@@ -1,8 +1,8 @@
 <system>
 	<name>HD 175167</name>
-	<rightascension>19 00 01</rightascension>
-	<declination>-69 56 39</declination>
-	<distance>67.02</distance>
+	<rightascension>19 0 1.000008</rightascension>
+	<declination>-69 56 39.0001200</declination>
+	<distance errorminus="4.09" errorplus="4.09">67.02</distance>
 	<star>
 		<mass>1.102</mass>
 		<magV>9.18</magV>
@@ -14,19 +14,21 @@
 		<magK errorminus="0.018" errorplus="0.018">6.288</magK>
 		<metallicity>0.19</metallicity>
 		<spectraltype>G5 IV/V</spectraltype>
+		<name>HD 175167</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 175167 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.8</mass>
-			<period>1290</period>
-			<semimajoraxis>2.4</semimajoraxis>
-			<eccentricity>0.54</eccentricity>
+			<mass errorminus="3.5" errorplus="3.5">7.8</mass>
+			<period errorminus="22.0" errorplus="22.0">1290.0</period>
+			<semimajoraxis errorminus="0.05" errorplus="0.05">2.4</semimajoraxis>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.54</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/26</lastupdate>
+			<lastupdate>14/08/27</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>154.0</temperature>
+			<periastrontime errorminus="48.0" errorplus="48.0">2453598.0</periastrontime>
+			<periastron errorminus="9.0" errorplus="9.0">342.0</periastron>
 		</planet>
-		<name>HD 175167</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

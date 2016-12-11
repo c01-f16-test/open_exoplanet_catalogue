@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-702</name>
-	<rightascension>19 35 31</rightascension>
-	<declination>+41 39 42</declination>
+	<rightascension>19 32 210.746880</rightascension>
+	<declination>41 39 42.3719999</declination>
+	<distance>892.0</distance>
 	<star>
 		<name>Kepler-702</name>
-		<temperature errorminus="143.8" errorplus="122.2">5419.0</temperature>
-		<mass errorminus="0.05" errorplus="0.05">0.90</mass>
+		<temperature errorminus="143.8" errorplus="122.25">5419.0</temperature>
+		<mass errorminus="0.05" errorplus="0.05">0.9</mass>
 		<radius errorminus="0.05" errorplus="0.08">0.86</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.00</metallicity>
+		<metallicity errorminus="0.161" errorplus="0.143">0.0</metallicity>
+		<magK>13.492</magK>
+		<magH>13.532</magH>
+		<magJ>13.968</magJ>
 		<planet>
 			<name>Kepler-702 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001900" errorplus="0.000001900">10.526294060</period>
+			<period errorminus="1.9e-06" errorplus="1.9e-06">10.52629406</period>
 			<radius errorminus="0.052" errorplus="0.075">0.818</radius>
 		</planet>
 	</star>

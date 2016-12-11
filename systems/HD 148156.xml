@@ -1,11 +1,11 @@
 <system>
 	<name>HD 148156</name>
-	<rightascension>16 28 17</rightascension>
-	<declination>-46 19 03</declination>
-	<distance>53.05</distance>
+	<rightascension>16h28m17.28s</rightascension>
+	<declination>-46d19m03.4s</declination>
+	<distance errorminus="3.07" errorplus="2.75">53.05</distance>
 	<star>
 		<mass>1.22</mass>
-		<radius>1.21</radius>
+		<radius errorminus="0.03" errorplus="0.03">1.21</radius>
 		<magV>7.69</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.26</magB>
 		<magJ errorminus="0.018" errorplus="0.018">6.688</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.023" errorplus="0.023">6.397</magK>
 		<metallicity>0.29</metallicity>
 		<spectraltype>F8V</spectraltype>
+		<name>HD 148156</name>
+		<temperature errorminus="28.00" errorplus="28.00">6308.00</temperature>
 		<planet>
 			<name>HD 148156 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<period>1010</period>
-			<semimajoraxis>2.45</semimajoraxis>
-			<eccentricity>0.52</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.67000">0.85000</mass>
+			<period errorminus="28.00000000" errorplus="28.00000000">1027.00000000</period>
+			<semimajoraxis errorminus="0.050000" errorplus="0.040000">2.450000</semimajoraxis>
+			<eccentricity errorminus="0.090000" errorplus="0.040000">0.520000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/09</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>191.9</temperature>
 		</planet>
-		<name>HD 148156</name>
-		<temperature>6308.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-588</name>
-	<rightascension>18 57 02</rightascension>
-	<declination>+47 41 20</declination>
+	<rightascension>18 56 61.7304000</rightascension>
+	<declination>47 41 20.2308000</declination>
+	<distance>972.0</distance>
 	<star>
 		<name>Kepler-588</name>
-		<temperature errorminus="83.1" errorplus="73.8">5835.0</temperature>
+		<temperature errorminus="83.13" errorplus="73.84">5835.0</temperature>
 		<mass errorminus="0.07" errorplus="0.05">1.01</mass>
-		<radius errorminus="0.08" errorplus="0.19">1.00</radius>
-		<metallicity errorminus="0.20" errorplus="0.14">0.00</metallicity>
+		<radius errorminus="0.08" errorplus="0.19">1.0</radius>
+		<metallicity errorminus="0.198" errorplus="0.139">0.0</metallicity>
+		<magK>13.187</magK>
+		<magH>13.277</magH>
+		<magJ>13.58</magJ>
 		<planet>
 			<name>Kepler-588 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000004750" errorplus="0.000004750">4.221625360</period>
-			<radius errorminus="0.020" errorplus="0.045">0.235</radius>
+			<period errorminus="4.75e-06" errorplus="4.75e-06">4.22162536</period>
+			<radius errorminus="0.02" errorplus="0.045">0.235</radius>
 		</planet>
 	</star>
 </system>

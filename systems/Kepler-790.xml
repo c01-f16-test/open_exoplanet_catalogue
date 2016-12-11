@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-790</name>
-	<rightascension>19 07 40</rightascension>
-	<declination>+38 52 20</declination>
+	<rightascension>19 3 280.108079</rightascension>
+	<declination>38 52 19.9956000</declination>
+	<distance>727.0</distance>
 	<star>
 		<name>Kepler-790</name>
-		<temperature errorminus="114.1" errorplus="139.3">5208.0</temperature>
+		<temperature errorminus="114.14" errorplus="139.26">5208.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.84</mass>
-		<radius errorminus="0.05" errorplus="0.05">0.80</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">-0.05</metallicity>
+		<radius errorminus="0.05" errorplus="0.05">0.8</radius>
+		<metallicity errorminus="0.165" errorplus="0.141">-0.05</metallicity>
+		<magK>13.248</magK>
+		<magH>13.294</magH>
+		<magJ>13.784</magJ>
 		<planet>
 			<name>Kepler-790 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000040260" errorplus="0.000040260">13.734698070</period>
+			<period errorminus="4.026e-05" errorplus="4.026e-05">13.73469807</period>
 			<radius errorminus="0.012" errorplus="0.015">0.194</radius>
 		</planet>
 	</star>

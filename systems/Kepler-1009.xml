@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1009</name>
-	<rightascension>18 51 26</rightascension>
-	<declination>+42 39 57</declination>
+	<rightascension>18 48 206.383200</rightascension>
+	<declination>42 39 56.7504000</declination>
+	<distance>281.0</distance>
 	<star>
 		<name>Kepler-1009</name>
-		<temperature errorminus="36.5" errorplus="41.1">4027.0</temperature>
+		<temperature errorminus="36.46" errorplus="41.14">4027.0</temperature>
 		<mass errorminus="0.03" errorplus="0.02">0.59</mass>
 		<radius errorminus="0.02" errorplus="0.02">0.57</radius>
-		<metallicity errorminus="0.11" errorplus="0.09">-0.12</metallicity>
+		<metallicity errorminus="0.107" errorplus="0.091">-0.12</metallicity>
+		<magK>12.347</magK>
+		<magH>12.518</magH>
+		<magJ>13.192</magJ>
 		<planet>
 			<name>Kepler-1009 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000022500" errorplus="0.000022500">11.350119170</period>
+			<period errorminus="2.25e-05" errorplus="2.25e-05">11.35011917</period>
 			<radius errorminus="0.021" errorplus="0.024">0.194</radius>
 		</planet>
 	</star>

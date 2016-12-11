@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1317</name>
-	<rightascension>19 26 27</rightascension>
-	<declination>+42 06 57</declination>
+	<rightascension>19 23 206.851439</rightascension>
+	<declination>42 6 57.4956000</declination>
+	<distance>734.0</distance>
 	<star>
 		<name>Kepler-1317</name>
 		<temperature errorminus="69.2" errorplus="84.2">5144.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.83</mass>
 		<radius errorminus="0.04" errorplus="0.04">0.79</radius>
-		<metallicity errorminus="0.16" errorplus="0.13">-0.01</metallicity>
+		<metallicity errorminus="0.156" errorplus="0.133">-0.01</metallicity>
+		<magK>13.309</magK>
+		<magH>13.316</magH>
+		<magJ>13.822</magJ>
 		<planet>
 			<name>Kepler-1317 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000600" errorplus="0.000000600">0.568874430</period>
+			<period errorminus="6e-07" errorplus="6e-07">0.56887443</period>
 			<radius errorminus="0.007" errorplus="0.008">0.139</radius>
 		</planet>
 	</star>

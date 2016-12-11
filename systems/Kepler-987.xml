@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-987</name>
-	<rightascension>19 17 39</rightascension>
-	<declination>+46 07 51</declination>
+	<rightascension>19 15 158.656799</rightascension>
+	<declination>46 7 51.0527999</declination>
+	<distance>936.0</distance>
 	<star>
 		<name>Kepler-987</name>
-		<temperature errorminus="61.0" errorplus="69.8">5637.0</temperature>
+		<temperature errorminus="60.98" errorplus="69.85">5637.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.97</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.91</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.01</metallicity>
+		<metallicity errorminus="0.102" errorplus="0.104">0.01</metallicity>
+		<magK>13.375</magK>
+		<magH>13.484</magH>
+		<magJ>13.776</magJ>
 		<planet>
 			<name>Kepler-987 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000478300" errorplus="0.000478300">105.303314800</period>
+			<period errorminus="0.0004783" errorplus="0.0004783">105.3033148</period>
 			<radius errorminus="0.011" errorplus="0.014">0.291</radius>
 		</planet>
 	</star>

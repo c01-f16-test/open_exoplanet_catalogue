@@ -13,6 +13,11 @@
 		<magK errorminus="0.019" errorplus="0.019">10.318</magK>
 		<metallicity>-0.13</metallicity>
 		<spectraltype>G8V</spectraltype>
+		<name>Kepler-19</name>
+		<name>KOI-84</name>
+		<name>KIC 2571238</name>
+		<temperature errorminus="60" errorplus="60">5541</temperature>
+		<age errorminus="1.7" errorplus="1.7">1.9</age>
 		<planet>
 			<name>Kepler-19 b</name>
 			<name>TYC 3134-1549-1 b</name>
@@ -22,7 +27,7 @@
 			<name>2MASS J19214099+3751064 b</name>
 			<name>KIC 2571238 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="0.0639" />
+			<mass upperlimit="0.0639"/>
 			<radius errorminus="0.0043" errorplus="0.0043">0.1971</radius>
 			<period errorminus="0.0000088" errorplus="0.0000088">9.2869944</period>
 			<semimajoraxis errorminus="0.0012" errorplus="0.0012">0.0846</semimajoraxis>
@@ -42,18 +47,13 @@
 			<name>2MASS J19214099+3751064 c</name>
 			<name>KIC 2571238 c</name>
 			<list>Confirmed planets</list>
-			<period upperlimit="160" />
-			<mass upperlimit="6.0" />
+			<period upperlimit="160"/>
+			<mass upperlimit="6.0"/>
 			<description>The planet Kepler-19 c was the first confirmed detection of a planet by transit timing variations.</description>
 			<discoverymethod>timing</discoverymethod>
 			<discoveryyear>2011</discoveryyear>
 			<lastupdate>15/03/18</lastupdate>
 			<istransiting>0</istransiting>
 		</planet>
-		<name>Kepler-19</name>
-		<name>KOI-84</name>
-		<name>KIC 2571238</name>
-		<temperature errorminus="60" errorplus="60">5541</temperature>
-		<age errorminus="1.7" errorplus="1.7">1.9</age>
 	</star>
 </system>

@@ -1,31 +1,46 @@
 <system>
 	<name>HD 30177</name>
-	<rightascension>04 41 54</rightascension>
-	<declination>-58 01 14</declination>
-	<distance>55</distance>
+	<rightascension>4 40 114.000000</rightascension>
+	<declination>-58 1 14.0001599</declination>
+	<distance errorminus="2.3" errorplus="2.3">54.7</distance>
 	<star>
-		<mass>0.95</mass>
+		<mass errorminus="0.08" errorplus="0.08">1.05</mass>
 		<radius>1.12</radius>
 		<magV>8.41</magV>
 		<magJ errorminus="0.035" errorplus="0.035">7.15</magJ>
 		<magH errorminus="0.053" errorplus="0.053">6.829</magH>
 		<magK errorminus="0.027" errorplus="0.027">6.715</magK>
 		<magB errorminus="0.02" errorplus="0.02">9.18</magB>
-		<metallicity>0.19</metallicity>
+		<metallicity errorminus="0.05" errorplus="0.05">0.33</metallicity>
 		<spectraltype>G8 V</spectraltype>
+		<name>HD 30177</name>
+		<temperature errorminus="12.0" errorplus="12.0">5580.0</temperature>
+		<age errorminus="2.2" errorplus="1.8">11.6</age>
 		<planet>
 			<name>HD 30177 b</name>
 			<list>Confirmed planets</list>
-			<mass>7.7</mass>
-			<period>1620</period>
-			<semimajoraxis>2.6</semimajoraxis>
-			<eccentricity>0.22</eccentricity>
+			<mass errorminus="0.12" errorplus="0.12">8.07</mass>
+			<period errorminus="10.6" errorplus="10.6">2532.5</period>
+			<semimajoraxis errorminus="0.01" errorplus="0.01">3.58</semimajoraxis>
+			<eccentricity errorminus="0.014" errorplus="0.014">0.18</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/31</lastupdate>
+			<lastupdate>16/12/08</lastupdate>
 			<discoveryyear>2002</discoveryyear>
 			<temperature>153.5</temperature>
+			<periastrontime errorminus="26.0" errorplus="26.0">2451428.0</periastrontime>
+			<periastron errorminus="4.0" errorplus="4.0">32.0</periastron>
 		</planet>
-		<name>HD 30177</name>
-		<temperature>5320.0</temperature>
+		<planet>
+			<discoveryyear>2016</discoveryyear>
+			<periastrontime errorminus="573.0" errorplus="573.0">2451661.0</periastrontime>
+			<period errorminus="621.0" errorplus="621.0">6921.0</period>
+			<mass errorminus="0.3" errorplus="0.3">3.0</mass>
+			<eccentricity errorminus="0.1" errorplus="0.1">0.35</eccentricity>
+			<lastupdate>16/12/09</lastupdate>
+			<semimajoraxis errorminus="0.42" errorplus="0.42">6.99</semimajoraxis>
+			<periastron errorminus="13.0" errorplus="13.0">11.0</periastron>
+			<name>HD 30177 c</name>
+			<discoverymethod>RV</discoverymethod>
+		</planet>
 	</star>
 </system>

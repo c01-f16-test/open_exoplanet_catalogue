@@ -1,7 +1,7 @@
 <system>
 	<name>HD 216536</name>
-	<rightascension>22 53 03.9725</rightascension>
-	<declination>+44 28 39.862</declination>
+	<rightascension>22 32 228.000000</rightascension>
+	<declination>44 28 40.0000655</declination>
 	<star>
 		<name>HD 216536</name>
 		<name>BD+43 4329</name>
@@ -18,19 +18,19 @@
 		<metallicity errorminus="0.09" errorplus="0.09">-0.17</metallicity>
 		<mass errorminus="0.38" errorplus="0.38">1.36</mass>
 		<radius errorminus="4.0" errorplus="4.0">12.5</radius>
-		<age errorminus="2.0" errorplus="4.3">3.8</age>
+		<age errorminus="4.3" errorplus="2.0">3.8</age>
 		<planet>
 			<name>HD 216536 b</name>
 			<period errorminus="0.7" errorplus="0.7">148.6</period>
 			<periastrontime errorminus="11" errorplus="11">2453587</periastrontime>
-			<eccentricity errorminus="0.10" errorplus="0.12">0.38</eccentricity>
-			<periastron errorminus="20" errorplus="21">270</periastron>
-			<mass errorminus="0.12" errorplus="0.20" type="msini">1.47</mass>
+			<eccentricity errorminus="0.12" errorplus="0.12">0.38</eccentricity>
+			<periastron errorminus="21.0" errorplus="21.0">270.0</periastron>
+			<mass errorminus="0.12" errorplus="0.2">1.47</mass>
 			<semimajoraxis errorminus="0.002" errorplus="0.002">0.609</semimajoraxis>
 			<list>Confirmed planets</list>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
-			<lastupdate>15/01/29</lastupdate>
+			<lastupdate>16/01/10</lastupdate>
 		</planet>
 	</star>
 </system>

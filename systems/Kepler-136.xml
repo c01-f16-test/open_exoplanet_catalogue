@@ -2,8 +2,8 @@
 	<name>Kepler-136</name>
 	<name>KOI-312</name>
 	<name>KIC 7050989</name>
-	<rightascension>19 45 52.158</rightascension>
-	<declination>+42 35 55.73</declination>
+	<rightascension>19 44 112.155756</rightascension>
+	<declination>42 35 55.5720000</declination>
 	<distance>539.57</distance>
 	<star>
 		<name>Kepler-136</name>
@@ -15,23 +15,24 @@
 		<magH errorminus="0.021" errorplus="0.021">10.573</magH>
 		<magK errorminus="0.012" errorplus="0.012">10.519</magK>
 		<temperature errorminus="100" errorplus="100">6165</temperature>
-		<radius errorminus=".248" errorplus="0.248">1.355</radius>
-		<mass errorminus="0.0430" errorplus="0.0430">1.2040</mass>
+		<radius errorminus="0.25" errorplus="0.25">1.35</radius>
+		<mass>1.2</mass>
 		<planet>
 			<name>Kepler-136 b</name>
 			<name>KOI-312 b</name>
 			<name>KOI-312.01</name>
 			<name>KIC 7050989 b</name>
 			<name>KIC 7050989.01</name>
-			<radius errorminus="0.03463" errorplus="0.03463">0.18682</radius>
-			<period errorminus=".000030" errorplus="0.000030">11.578900</period>
+			<radius errorminus="0.034" errorplus="0.034">0.183</radius>
+			<period errorminus="0.00003000" errorplus="0.00003000">11.57890000</period>
 			<transittime errorminus="0.0013900" errorplus="0.0013900">2455008.5864900</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-136 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-136 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.106000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-136 c</name>
@@ -39,15 +40,16 @@
 			<name>KOI-312.02</name>
 			<name>KIC 7050989 c</name>
 			<name>KIC 7050989.02</name>
-			<radius errorminus="0.03372" errorplus="0.03372">0.18135</radius>
-			<period errorminus=".000051" errorplus="0.000051">16.399235</period>
+			<radius errorminus="0.033" errorplus="0.033">0.178</radius>
+			<period errorminus="0.00005100" errorplus="0.00005100">16.39923500</period>
 			<transittime errorminus="0.0018000" errorplus="0.0018000">2454964.9685100</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-136 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-136 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.133000</semimajoraxis>
 		</planet>
 	</star>
 </system>

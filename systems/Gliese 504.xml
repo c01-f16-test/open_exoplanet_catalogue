@@ -1,7 +1,7 @@
 <system>
 	<name>Gliese 504</name>
-	<rightascension>13 16 47</rightascension>
-	<declination>+09 25 27</declination>
+	<rightascension>13 16 46.9920000</rightascension>
+	<declination>9 25 27.1200000</declination>
 	<distance errorminus="0.08" errorplus="0.08">17.56</distance>
 	<star>
 		<magB>5.81</magB>
@@ -18,15 +18,15 @@
 		<mass errorminus="0.08" errorplus="0.08">1.22</mass>
 		<temperature errorminus="25" errorplus="25">6234</temperature>
 		<metallicity errorminus="0.03" errorplus="0.03">0.28</metallicity>
-		<spectraltype>G0V</spectraltype>
-		<age errorminus="0.06" errorplus="0.35">0.16</age>
+		<spectraltype>GOV</spectraltype>
+		<age errorminus="0.35" errorplus="0.06">0.16</age>
 		<planet>
 			<name>Gliese 504 b</name>
 			<name>GJ 504 b</name>
 			<name>HIP 64792 b</name>
 			<name>HD 115383 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="1.0" errorplus="4.5">4</mass>
+			<mass errorminus="1.00000" errorplus="4.50000">4.00000</mass>
 			<temperature errorminus="20" errorplus="30">510</temperature>
 			<separation errorminus="0.008" errorplus="0.008" unit="arcsec">2.483</separation>
 			<separation unit="AU">43.5</separation>
@@ -34,15 +34,22 @@
 			<magJ errorminus="0.15" errorplus="0.15">19.91</magJ>
 			<magH errorminus="0.14" errorplus="0.14">20.14</magH>
 			<magK errorminus="0.28" errorplus="0.28">19.19</magK>
-			<positionangle errorminus="0.19" errorplus="0.19">327.45</positionangle>
 			<description>Gliese 504 b is the first directly imaged planet on a wide orbit around a G-type main-sequence star with a mass similar to that of our Sun. The planet is a gas giant, about 4 times more massive than Jupiter. It was discovered by the SEEDS survey.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>13/07/22</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2013</discoveryyear>
-			<image>Gliese504</image>
-			<imagedescription>This is an actual image of the exoplanet Gliese 504 b and its host star. It was taken by the SEEDS survey. 
-			
-Credit: Kuzuhara et al. (2013).</imagedescription>
+			<semimajoraxis>43.500000</semimajoraxis>
+		</planet>
+		<planet>
+			<discoveryyear>2013</discoveryyear>
+			<radius errorminus="0.07" errorplus="0.07">0.96</radius>
+			<mass errorminus="1.0" errorplus="4.5">4.0</mass>
+			<lastupdate>15/12/01</lastupdate>
+			<semimajoraxis>43.5</semimajoraxis>
+			<discoverymethod>imaging</discoverymethod>
+			<name>59 Vir b</name>
+			<name>GJ 504 b</name>
+			<temperature>544.0</temperature>
 		</planet>
 	</star>
 </system>

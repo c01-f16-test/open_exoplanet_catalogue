@@ -1,19 +1,20 @@
 <system>
 	<name>PH-2</name>
 	<name>KIC 12735740</name>
-	<rightascension>19 19 03</rightascension>
-	<declination>+51 57 45.36</declination>
+	<rightascension>19 15 242.999999</rightascension>
+	<declination>51 57 45.0</declination>
 	<distance>369.8</distance>
+	<videolink>http://youtu.be/qHvb9mewXJo</videolink>
 	<star>
 		<name>PH-2</name>
 		<name>Kepler-86</name>
 		<name>KOI-3663</name>
 		<name>KIC 12735740</name>
 		<name>2MASS 19190326+5157453</name>
-		<metallicity errorminus="0.03" errorplus="0.03">-0.08</metallicity>
+		<metallicity errorminus="0.028" errorplus="0.032">-0.078</metallicity>
 		<temperature errorminus="45" errorplus="42">5629</temperature>
 		<mass errorminus="0.02" errorplus="0.02">0.94</mass>
-		<radius errorminus="0.05" errorplus="0.05">1.00</radius>
+		<radius errorminus="0.05" errorplus="0.05">1.0</radius>
 		<planet>
 			<name>PH-2 b</name>
 			<name>KOI-3663.01</name>
@@ -32,16 +33,24 @@
 			<temperature>281</temperature>
 			<transittime unit="MJD">2455195.570</transittime>
 			<description>The exoplanet PH-2 b was discovered by citizen scientists using an online tool at planethunters.org. The planet is a gas giant and could be located in the star's habitable zone. The system might also have a faint binary companion.</description>
-			<image>PH2</image>
-			<imagedescription>Artistic rendition of a sunset view from the perspective of an imagined Earth-like moon orbiting the giant planet, PH2 b. 
-			
-Image Credit: H. Giguere, M. Giguere/Yale University</imagedescription>
 			<discoverymethod>transit</discoverymethod>
 			<lastupdate>15/12/03</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
-			<mass upperlimit="80.0" />
+			<mass upperlimit="80.0"/>
+		</planet>
+		<planet>
+			<inclination errorminus="0.02" errorplus="0.03">89.83</inclination>
+			<radius errorminus="0.05" errorplus="0.05">0.905</radius>
+			<period errorminus="0.001" errorplus="0.001">282.5255</period>
+			<eccentricity errorminus="0.29" errorplus="0.08">0.41</eccentricity>
+			<discoveryyear>2013</discoveryyear>
+			<lastupdate>16/02/24</lastupdate>
+			<semimajoraxis errorminus="0.009" errorplus="0.009">0.828</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<name>PH2 b, KIC-12735740 b</name>
+			<name>Kepler-86 b</name>
+			<periastron errorminus="54.0" errorplus="3.4">3.4</periastron>
 		</planet>
 	</star>
-	<videolink>http://youtu.be/qHvb9mewXJo</videolink>
 </system>

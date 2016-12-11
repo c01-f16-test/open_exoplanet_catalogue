@@ -1,8 +1,8 @@
 <system>
 	<name>HR 810</name>
-	<rightascension>02 42 31</rightascension>
-	<declination>-50 48 12</declination>
-	<distance>17.17</distance>
+	<rightascension>02h42m33.47s</rightascension>
+	<declination>-50d48m01.1s</declination>
+	<distance errorminus="0.17" errorplus="0.16">17.24</distance>
 	<star>
 		<mass>1.11</mass>
 		<radius>1.85</radius>
@@ -14,19 +14,19 @@
 		<magK>4.138</magK>
 		<metallicity>0.25</metallicity>
 		<spectraltype>G0V pecul.</spectraltype>
+		<name>HR 810</name>
+		<temperature>5997.0</temperature>
 		<planet>
 			<name>HR 810 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.26</mass>
-			<period>320.1</period>
-			<semimajoraxis>0.925</semimajoraxis>
-			<eccentricity>0.161</eccentricity>
+			<mass>2.13000</mass>
+			<period errorminus="5.00000000" errorplus="5.00000000">312.00000000</period>
+			<semimajoraxis>0.910000</semimajoraxis>
+			<eccentricity errorminus="0.050000" errorplus="0.050000">0.150000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>15/04/30</lastupdate>
 			<discoveryyear>1999</discoveryyear>
 			<temperature>373.3</temperature>
 		</planet>
-		<name>HR 810</name>
-		<temperature>5997.0</temperature>
 	</star>
 </system>

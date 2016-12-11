@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-475</name>
-	<rightascension>19 08 12</rightascension>
-	<declination>+40 12 42</declination>
+	<rightascension>19 7 72.4096799</rightascension>
+	<declination>40 12 41.5511999</declination>
+	<distance>280.0</distance>
 	<star>
 		<name>Kepler-475</name>
-		<temperature errorminus="77.6" errorplus="85.0">5009.0</temperature>
+		<temperature errorminus="77.64" errorplus="85.0">5009.0</temperature>
 		<mass errorminus="0.03" errorplus="0.03">0.86</mass>
 		<radius errorminus="0.01" errorplus="0.02">0.79</radius>
-		<metallicity errorminus="0.09" errorplus="0.08">0.21</metallicity>
+		<metallicity errorminus="0.092" errorplus="0.081">0.21</metallicity>
+		<magK>11.241</magK>
+		<magH>11.331</magH>
+		<magJ>11.821</magJ>
 		<planet>
 			<name>Kepler-475 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000001040" errorplus="0.000001040">3.105508190</period>
+			<period errorminus="1.04e-06" errorplus="1.04e-06">3.10550819</period>
 			<radius errorminus="0.016" errorplus="0.004">0.222</radius>
 		</planet>
 	</star>

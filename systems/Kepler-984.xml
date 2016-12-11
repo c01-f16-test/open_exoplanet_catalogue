@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-984</name>
-	<rightascension>19 47 50</rightascension>
-	<declination>+46 23 39</declination>
+	<rightascension>19 44 230.128320</rightascension>
+	<declination>46 23 38.8571999</declination>
+	<distance>461.0</distance>
 	<star>
 		<name>Kepler-984</name>
-		<temperature errorminus="91.8" errorplus="94.4">5610.0</temperature>
+		<temperature errorminus="91.79" errorplus="94.38">5610.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.96</mass>
 		<radius errorminus="0.04" errorplus="0.05">0.93</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.04</metallicity>
+		<metallicity errorminus="0.105" errorplus="0.104">0.04</metallicity>
+		<magK>11.83</magK>
+		<magH>11.914</magH>
+		<magJ>12.247</magJ>
 		<planet>
 			<name>Kepler-984 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000147900" errorplus="0.000147900">43.034227200</period>
-			<radius errorminus="0.010" errorplus="0.012">0.189</radius>
+			<period errorminus="0.0001479" errorplus="0.0001479">43.0342272</period>
+			<radius errorminus="0.01" errorplus="0.012">0.189</radius>
 		</planet>
 	</star>
 </system>

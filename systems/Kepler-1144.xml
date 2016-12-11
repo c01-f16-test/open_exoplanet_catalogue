@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1144</name>
-	<rightascension>19 20 10</rightascension>
-	<declination>+47 15 29</declination>
+	<rightascension>19 19 70.3903199</rightascension>
+	<declination>47 15 28.7172000</declination>
+	<distance>1012.0</distance>
 	<star>
 		<name>Kepler-1144</name>
-		<temperature errorminus="86.3" errorplus="91.9">5753.0</temperature>
+		<temperature errorminus="86.29" errorplus="91.93">5753.0</temperature>
 		<mass errorminus="0.06" errorplus="0.05">0.98</mass>
 		<radius errorminus="0.07" errorplus="0.14">0.96</radius>
-		<metallicity errorminus="0.18" errorplus="0.14">-0.03</metallicity>
+		<metallicity errorminus="0.178" errorplus="0.141">-0.03</metallicity>
+		<magK>13.433</magK>
+		<magH>13.435</magH>
+		<magJ>13.818</magJ>
 		<planet>
 			<name>Kepler-1144 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000090730" errorplus="0.000090730">17.146473020</period>
+			<period errorminus="9.073e-05" errorplus="9.073e-05">17.14647302</period>
 			<radius errorminus="0.014" errorplus="0.027">0.178</radius>
 		</planet>
 	</star>

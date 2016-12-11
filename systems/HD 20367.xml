@@ -14,6 +14,8 @@
 		<magB>6.933</magB>
 		<metallicity>0.1</metallicity>
 		<spectraltype>G0</spectraltype>
+		<name>HD 20367</name>
+		<temperature>6128.0</temperature>
 		<planet>
 			<name>HD 20367 b</name>
 			<list>Confirmed planets</list>
@@ -26,7 +28,5 @@
 			<discoveryyear>2002</discoveryyear>
 			<temperature>261.6</temperature>
 		</planet>
-		<name>HD 20367</name>
-		<temperature>6128.0</temperature>
 	</star>
 </system>

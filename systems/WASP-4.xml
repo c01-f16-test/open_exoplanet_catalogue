@@ -1,37 +1,37 @@
 <system>
 	<name>WASP-4</name>
-	<rightascension>23 34 15</rightascension>
-	<declination>-42 03 41</declination>
-	<distance>300</distance>
+	<rightascension>23 32 135.000000</rightascension>
+	<declination>-42 3 41.0000400</declination>
+	<distance errorminus="50.0" errorplus="50.0">300.0</distance>
 	<star>
-		<mass>0.93</mass>
-		<radius>1.15</radius>
+		<mass errorminus="0.05" errorplus="0.05">0.93</mass>
+		<radius errorminus="0.28" errorplus="0.28">1.15</radius>
 		<magV>12.6</magV>
 		<magB>13.0</magB>
 		<magR>11.9</magR>
 		<magJ errorminus="0.025" errorplus="0.025">11.179</magJ>
 		<magH errorminus="0.026" errorplus="0.026">10.842</magH>
 		<magK errorminus="0.021" errorplus="0.021">10.746</magK>
-		<metallicity>-0.03</metallicity>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.03</metallicity>
 		<spectraltype>G8</spectraltype>
+		<name>WASP-4</name>
+		<temperature errorminus="100.0" errorplus="100.0">5500.0</temperature>
 		<planet>
 			<name>WASP-4 b</name>
 			<name>2MASS J23341508-4203411 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.1215</mass>
-			<radius>1.363</radius>
-			<period>1.33823187</period>
+			<mass errorminus="0.01300" errorplus="0.01300">1.21600</mass>
+			<radius errorminus="0.160" errorplus="0.160">1.330</radius>
+			<period errorminus="0.00000031" errorplus="0.00000031">1.33823251</period>
 			<semimajoraxis>0.02312</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>88.8</inclination>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="1.760" errorplus="1.760">86.850</inclination>
 			<transittime errorminus="0.000048" errorplus="0.000048" unit="BJD">2454697.798226</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/04/04</lastupdate>
+			<lastupdate>15/08/27</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1710.4</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-4</name>
-		<temperature>5500.0</temperature>
 	</star>
 </system>

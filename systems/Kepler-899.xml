@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-899</name>
-	<rightascension>19 49 56</rightascension>
-	<declination>+40 40 51</declination>
+	<rightascension>19 48 115.819200</rightascension>
+	<declination>40 40 50.8079999</declination>
+	<distance>1038.0</distance>
 	<star>
 		<name>Kepler-899</name>
-		<temperature errorminus="192.1" errorplus="270.6">5595.0</temperature>
+		<temperature errorminus="192.07" errorplus="270.58">5595.0</temperature>
 		<mass errorminus="0.07" errorplus="0.08">0.93</mass>
 		<radius errorminus="0.09" errorplus="0.15">0.91</radius>
-		<metallicity errorminus="0.18" errorplus="0.16">-0.06</metallicity>
+		<metallicity errorminus="0.178" errorplus="0.158">-0.06</metallicity>
+		<magK>13.615</magK>
+		<magH>13.725</magH>
+		<magJ>14.113</magJ>
 		<planet>
 			<name>Kepler-899 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000080750" errorplus="0.000080750">19.178912930</period>
+			<period errorminus="8.075e-05" errorplus="8.075e-05">19.17891293</period>
 			<radius errorminus="0.023" errorplus="0.041">0.239</radius>
 		</planet>
 	</star>

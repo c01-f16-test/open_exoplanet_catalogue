@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1240</name>
-	<rightascension>18 51 59.9</rightascension>
-	<declination>+40 33 27</declination>
+	<rightascension>18 48 239.931600</rightascension>
+	<declination>40 33 26.8200000</declination>
+	<distance>614.0</distance>
 	<star>
 		<name>Kepler-1240</name>
-		<temperature errorminus="116.7" errorplus="103.3">5682.0</temperature>
+		<temperature errorminus="116.7" errorplus="103.27">5682.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.98</mass>
 		<radius errorminus="0.08" errorplus="0.16">0.96</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">0.04</metallicity>
+		<metallicity errorminus="0.159" errorplus="0.138">0.04</metallicity>
+		<magK>12.361</magK>
+		<magH>12.414</magH>
+		<magJ>12.759</magJ>
 		<planet>
 			<name>Kepler-1240 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000025130" errorplus="0.000025130">4.866381500</period>
+			<period errorminus="2.513e-05" errorplus="2.513e-05">4.8663815</period>
 			<radius errorminus="0.009" errorplus="0.018">0.103</radius>
 		</planet>
 	</star>

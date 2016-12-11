@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1429</name>
-	<rightascension>19 01 28</rightascension>
-	<declination>+49 02 42</declination>
+	<rightascension>19 0 87.8988</rightascension>
+	<declination>49 2 41.5248</declination>
+	<distance>1156.0</distance>
 	<star>
 		<name>Kepler-1429</name>
-		<temperature errorminus="77.0" errorplus="68.8">5902.0</temperature>
+		<temperature errorminus="77.0" errorplus="68.85">5902.0</temperature>
 		<mass errorminus="0.06" errorplus="0.06">1.05</mass>
-		<radius errorminus="0.10" errorplus="0.28">1.07</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.04</metallicity>
+		<radius errorminus="0.1" errorplus="0.28">1.07</radius>
+		<metallicity errorminus="0.166" errorplus="0.135">0.04</metallicity>
+		<magK>13.404</magK>
+		<magH>13.508</magH>
+		<magJ>13.775</magJ>
 		<planet>
 			<name>Kepler-1429 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000045580" errorplus="0.000045580">4.484874930</period>
+			<period errorminus="4.558e-05" errorplus="4.558e-05">4.48487493</period>
 			<radius errorminus="0.012" errorplus="0.031">0.115</radius>
 		</planet>
 	</star>

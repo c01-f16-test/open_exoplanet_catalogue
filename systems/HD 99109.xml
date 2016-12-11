@@ -1,8 +1,8 @@
 <system>
 	<name>HD 99109</name>
-	<rightascension>11 24 17</rightascension>
-	<declination>-01 31 44</declination>
-	<distance>60.5</distance>
+	<rightascension>11h24m17.36s</rightascension>
+	<declination>-01d31m44.7s</declination>
+	<distance errorminus="5.20" errorplus="4.44">60.46</distance>
 	<star>
 		<mass>0.93</mass>
 		<magV>9.1</magV>
@@ -12,19 +12,19 @@
 		<magB errorminus="0.04" errorplus="0.04">9.96</magB>
 		<metallicity>0.315</metallicity>
 		<spectraltype>K0</spectraltype>
+		<name>HD 99109</name>
+		<temperature>5272.00</temperature>
 		<planet>
 			<name>HD 99109 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.502</mass>
-			<period>439.3</period>
-			<semimajoraxis>1.105</semimajoraxis>
-			<eccentricity>0.09</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000">0.50200</mass>
+			<period errorminus="5.60000000" errorplus="5.60000000">439.30000000</period>
+			<semimajoraxis errorminus="0.065000" errorplus="0.065000">1.105000</semimajoraxis>
+			<eccentricity errorminus="0.160000" errorplus="0.160000">0.090000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>06/07/15</lastupdate>
+			<lastupdate>14/07/23</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>231.3</temperature>
 		</planet>
-		<name>HD 99109</name>
-		<temperature>5272.0</temperature>
 	</star>
 </system>

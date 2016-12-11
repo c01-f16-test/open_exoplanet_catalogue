@@ -1,35 +1,37 @@
 <system>
 	<name>CoRoT-21</name>
-	<rightascension>06 44 12.64</rightascension>
-	<declination>-00 17 57.06</declination>
+	<rightascension>6 44 12.588</rightascension>
+	<declination>0 17 56.8679999</declination>
 	<star>
-		<mass>1.29</mass>
-		<radius>1.945</radius>
-		<magV>15.84</magV>
+		<mass errorminus="0.09" errorplus="0.09">1.29</mass>
+		<radius errorminus="0.21" errorplus="0.21">1.945</radius>
+		<magV>16.0</magV>
 		<magB errorminus="0.10" errorplus="0.10">16.66</magB>
 		<magR errorminus="0.38" errorplus="0.38">15.61</magR>
 		<magI errorminus="0.03" errorplus="0.03">14.99</magI>
 		<magJ errorminus="0.04" errorplus="0.04">14.34</magJ>
 		<magH errorminus="0.04" errorplus="0.04">13.98</magH>
 		<magK errorminus="0.05" errorplus="0.05">13.81</magK>
-		<spectraltype>FIV8</spectraltype>
+		<spectraltype>F8IV</spectraltype>
+		<name>CoRoT-21</name>
+		<temperature errorminus="100.0" errorplus="100.0">6200.0</temperature>
+		<age errorminus="0.5" errorplus="0.5">4.1</age>
+		<metallicity errorminus="0.1" errorplus="0.1">0.0</metallicity>
 		<planet>
 			<name>CoRoT-21 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.26</mass>
-			<radius>1.3</radius>
-			<period>2.72474</period>
-			<semimajoraxis>0.0417</semimajoraxis>
+			<mass errorminus="0.31" errorplus="0.31">2.26</mass>
+			<radius errorminus="0.14" errorplus="0.14">1.3</radius>
+			<period errorminus="0.00014" errorplus="0.00014">2.72474</period>
+			<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0417</semimajoraxis>
 			<eccentricity>0.0</eccentricity>
-			<inclination>86.8</inclination>
+			<inclination errorminus="2.1" errorplus="2.1">86.8</inclination>
 			<transittime errorminus="0.0054" errorplus="0.0054" unit="HJD">2454400.3197</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/12/13</lastupdate>
+			<lastupdate>14/01/24</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1867.0</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>CoRoT-21</name>
-		<temperature>6200.0</temperature>
 	</star>
 </system>

@@ -1,35 +1,39 @@
 <system>
 	<name>Kepler-1398</name>
-	<rightascension>19 39 28</rightascension>
-	<declination>+48 38 20</declination>
+	<rightascension>19 36 207.884400</rightascension>
+	<declination>48 38 20.3460000</declination>
+	<distance>793.0</distance>
 	<star>
 		<name>Kepler-1398</name>
-		<temperature errorminus="125.4" errorplus="115.4">6126.0</temperature>
+		<temperature errorminus="125.42" errorplus="115.41">6126.0</temperature>
 		<mass errorminus="0.08" errorplus="0.12">1.13</mass>
 		<radius errorminus="0.14" errorplus="0.37">1.18</radius>
-		<metallicity errorminus="0.17" errorplus="0.14">0.01</metallicity>
+		<metallicity errorminus="0.172" errorplus="0.136">0.01</metallicity>
+		<magK>12.355</magK>
+		<magH>12.389</magH>
+		<magJ>12.695</magJ>
 		<planet>
 			<name>Kepler-1398 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000020210" errorplus="0.000020210">2.788156790</period>
-			<radius errorminus="0.011" errorplus="0.025">0.080</radius>
+			<period errorminus="2.021e-05" errorplus="2.021e-05">2.78815679</period>
+			<radius errorminus="0.011" errorplus="0.025">0.08</radius>
 		</planet>
 		<planet>
 			<name>Kepler-1398 c</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000026160" errorplus="0.000026160">4.138275950</period>
+			<period errorminus="2.616e-05" errorplus="2.616e-05">4.13827595</period>
 			<radius errorminus="0.013" errorplus="0.033">0.092</radius>
 		</planet>
 	</star>

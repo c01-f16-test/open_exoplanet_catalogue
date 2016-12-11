@@ -19,7 +19,7 @@
 			<name>KOI-1089 b</name>
 			<name>KIC 3247268 b</name>
 			<list>Confirmed planets</list>
-			<mass upperlimit="1.1" />
+			<mass upperlimit="1.1"/>
 			<radius errorminus="0.16" errorplus="0.16">1.20</radius>
 			<period errorminus="0.00007" errorplus="0.00007">86.67856</period>
 			<eccentricity errorminus="0.11" errorplus="0.11">0.20</eccentricity>

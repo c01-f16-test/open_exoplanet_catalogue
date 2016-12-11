@@ -4,41 +4,11 @@
 	<name>Rigil Kent</name>
 	<name>Toliman</name>
 	<name>Bungula</name>
-	<rightascension>14 39 36.204</rightascension>
-	<declination>-60 50 08.23</declination>
+	<rightascension>14 28 103.000003</rightascension>
+	<declination>-62 40 46.0000847</declination>
 	<distance errorminus="0.0045" errorplus="0.0045">1.295</distance>
 	<binary>
 		<semimajoraxis>15000</semimajoraxis>
-		<star>
-			<name>Proxima Centauri</name>
-			<name>α Centauri C</name>
-			<name>GL 551</name>
-			<name>HIP 70890</name>
-			<name>Proxima</name>
-			<temperature errorminus="100" errorplus="100">3050</temperature>
-			<radius errorminus="0.019" errorplus="0.022">0.141</radius>
-			<mass errorminus="0.015" errorplus="0.014">0.120</mass>
-			<spectraltype>M5.5V</spectraltype>
-			<planet>
-				<name>Proxima Centauri b</name>
-				<name>α Centauri C b</name>
-				<name>GL 551 b</name>
-				<name>HIP 70890 b</name>
-				<name>Proxima b</name>
-				<period errorminus="0.002" errorplus="0.001">11.186</period>
-				<mass>0.004089</mass>
-				<semimajoraxis errorminus="0.0051" errorplus="0.0041">0.0485</semimajoraxis>
-				<eccentricity upperlimit="0.35" />
-				<longitude errorminus="8" errorplus="8">110</longitude>
-				<temperature errorminus="14" errorplus="6">234</temperature>
-				<description>Astronomers using ESO telescopes and other facilities have found clear evidence of a planet orbiting the closest star to Earth, Proxima Centauri. The long-sought world, designated Proxima b, orbits its cool red parent star every 11 days and has a temperature suitable for liquid water to exist on its surface. This rocky world is a little more massive than the Earth and is the closest exoplanet to us — and it may also be the closest possible abode for life outside the Solar System.</description>
-				<discoverymethod>RV</discoverymethod>
-				<list>Confirmed planets</list>
-				<discoveryyear>2016</discoveryyear>
-				<lastupdate>16/08/22</lastupdate>
-				<list>Planets in binary systems, S-type</list>
-			</planet>
-		</star>
 		<binary>
 			<name>Alpha Centauri</name>
 			<name>alf Cen</name>
@@ -82,7 +52,6 @@
 				<name>CPD-60 5483 A</name>
 				<name>WDS J14396-6050 A</name>
 				<name>RHD 1 A</name>
-				<magU>0.96</magU>
 				<magB>0.72</magB>
 				<magV>0.01</magV>
 				<magJ>-1.15</magJ>
@@ -115,7 +84,6 @@
 				<name>TYC 9007-5848-1</name>
 				<name>WDS J14396-6050 B</name>
 				<name>RHD 1 B</name>
-				<magU>2.89</magU>
 				<magB>2.21</magB>
 				<magV>1.33</magV>
 				<magJ>-0.01</magJ>
@@ -140,14 +108,10 @@
 					<eccentricity>0.0</eccentricity>
 					<discoverymethod>RV</discoverymethod>
 					<list>Controversial</list>
+					<list>Planets in binary systems, S-type</list>
 					<discoveryyear>2012</discoveryyear>
 					<lastupdate>15/11/17</lastupdate>
 					<description>Alpha Centauri is one of the brightest stars in the southern sky (in fact, it is a triple system). The planet candidate Alpha Centauri Bb was announced as the nearest exoplanet to Earth and also the lightest exoplanet ever discovered around a Sun-like star. The candidate was detected using the HARPS instrument on the 3.6-metre telescope at ESO's La Silla Observatory in Chile. The planet's existence was challenged by Hatzes (2013) and was shown to be likely an artifact caused by the data sampling by Rajpaul et al. (2015).</description>
-					<image>AlphaCentauriB</image>
-					<imagedescription>This artist's impression shows the planet orbiting the star Alpha Centauri B, a member of the triple star system that is the closest to Earth. Alpha Centauri B is the most brilliant object in the sky and the other dazzling object is Alpha Centauri A. Our own Sun is visible to the upper right. The tiny signal of the planet was found with the HARPS spectrograph on the 3.6-metre telescope at ESO's La Silla Observatory in Chile.
-			
-				Credit:	ESO/L. Calcada</imagedescription>
-					<list>Planets in binary systems, S-type</list>
 				</planet>
 				<planet>
 					<name>Alpha Centauri B c</name>
@@ -157,8 +121,8 @@
 					<name>HIP 71681 c</name>
 					<name>alf Cen B c</name>
 					<radius errorminus="0.005468" errorplus="0.005468">0.083840</radius>
-					<period upperlimit="20.4" />
-					<eccentricity upperlimit="0.24" />
+					<period upperlimit="20.4"/>
+					<eccentricity upperlimit="0.24"/>
 					<transittime unit="BJD">2456482.195</transittime>
 					<discoverymethod>transit</discoverymethod>
 					<discoveryyear>2015</discoveryyear>
@@ -170,5 +134,47 @@
 				</planet>
 			</star>
 		</binary>
+		<star>
+			<name>Proxima Centauri</name>
+			<name>α Centauri C</name>
+			<name>GL 551</name>
+			<name>HIP 70890</name>
+			<name>Proxima</name>
+			<temperature errorminus="100" errorplus="100">3050</temperature>
+			<radius errorminus="0.021" errorplus="0.021">0.141</radius>
+			<mass errorminus="0.015" errorplus="0.015">0.12</mass>
+			<spectraltype>M5.5V</spectraltype>
+			<magV>11.13</magV>
+			<planet>
+				<name>Proxima Centauri b</name>
+				<name>α Centauri C b</name>
+				<name>GL 551 b</name>
+				<name>HIP 70890 b</name>
+				<name>Proxima b</name>
+				<period errorminus="0.002" errorplus="0.001">11.186</period>
+				<mass>0.004089</mass>
+				<semimajoraxis errorminus="0.0051" errorplus="0.0041">0.0485</semimajoraxis>
+				<eccentricity upperlimit="0.35"/>
+				<longitude errorminus="8" errorplus="8">110</longitude>
+				<temperature errorminus="14" errorplus="6">234</temperature>
+				<description>Astronomers using ESO telescopes and other facilities have found clear evidence of a planet orbiting the closest star to Earth, Proxima Centauri. The long-sought world, designated Proxima b, orbits its cool red parent star every 11 days and has a temperature suitable for liquid water to exist on its surface. This rocky world is a little more massive than the Earth and is the closest exoplanet to us — and it may also be the closest possible abode for life outside the Solar System.</description>
+				<discoverymethod>RV</discoverymethod>
+				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
+				<discoveryyear>2016</discoveryyear>
+				<lastupdate>16/08/22</lastupdate>
+			</planet>
+			<planet>
+				<discoveryyear>2016</discoveryyear>
+				<period errorminus="0.001" errorplus="0.001">11.186</period>
+				<mass errorminus="0.0006" errorplus="0.0006">0.004</mass>
+				<eccentricity errorminus="0.0" errorplus="0.35">0.0</eccentricity>
+				<lastupdate>16/08/24</lastupdate>
+				<semimajoraxis errorminus="0.0041" errorplus="0.0041">0.0485</semimajoraxis>
+				<discoverymethod>RV</discoverymethod>
+				<name>HIP 70890 b, GL 551 C b, alpha Cen C b</name>
+				<name>Proxima Cen b</name>
+			</planet>
+		</star>
 	</binary>
 </system>

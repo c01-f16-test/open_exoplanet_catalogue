@@ -1,11 +1,11 @@
 <system>
 	<name>HAT-P-4</name>
-	<rightascension>15 19 58</rightascension>
-	<declination>+36 13 47</declination>
-	<distance>310</distance>
+	<rightascension>15h19m57.92s</rightascension>
+	<declination>+36d13m46.8s</declination>
+	<distance errorminus="24.00" errorplus="24.00">314.00</distance>
 	<star>
-		<mass>1.26</mass>
-		<radius>1.59</radius>
+		<mass errorplus="0.14">1.26</mass>
+		<radius errorplus="0.06">1.60</radius>
 		<magV errorminus="0.07" errorplus="0.07">11.12</magV>
 		<magB errorminus="0.10" errorplus="0.10">11.83</magB>
 		<magJ errorminus="0.018" errorplus="0.018">10.100</magJ>
@@ -13,6 +13,8 @@
 		<magK errorminus="0.018" errorplus="0.018">9.770</magK>
 		<metallicity>0.24</metallicity>
 		<spectraltype>F</spectraltype>
+		<name>HAT-P-4</name>
+		<temperature errorplus="80.00">5860.00</temperature>
 		<planet>
 			<name>HAT-P-4 b</name>
 			<name>BD+36 2593 b</name>
@@ -20,21 +22,19 @@
 			<name>2MASS J15195792+3613467 b</name>
 			<name>SAO 64638 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.68</mass>
-			<radius>1.27</radius>
-			<period>3.0565114</period>
-			<semimajoraxis>0.0446</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>89.67</inclination>
+			<mass errorminus="0.04400" errorplus="0.03300">0.67100</mass>
+			<radius errorminus="0.060" errorplus="0.049">1.274</radius>
+			<period>3.05653600</period>
+			<semimajoraxis errorminus="0.001500" errorplus="0.000810">0.044380</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="2.200" errorplus="0.090">89.910</inclination>
 			<transittime errorminus="0.00023" errorplus="0.00025" unit="BJD">2454365.91538</transittime>
 			<description>The star HAT-P-4 is located in the constellation Bootes.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/05/29</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>1550.7</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>HAT-P-4</name>
-		<temperature>5890.0</temperature>
 	</star>
 </system>

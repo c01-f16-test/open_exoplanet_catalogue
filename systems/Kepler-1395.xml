@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1395</name>
-	<rightascension>19 29 21</rightascension>
-	<declination>+47 39 51</declination>
+	<rightascension>19 27 141.012239</rightascension>
+	<declination>47 39 51.1200000</declination>
+	<distance>507.0</distance>
 	<star>
 		<name>Kepler-1395</name>
-		<temperature errorminus="60.6" errorplus="66.8">6138.0</temperature>
+		<temperature errorminus="60.63" errorplus="66.83">6138.0</temperature>
 		<mass errorminus="0.03" errorplus="0.04">1.17</mass>
 		<radius errorminus="0.08" errorplus="0.12">1.23</radius>
-		<metallicity errorminus="0.07" errorplus="0.07">0.12</metallicity>
+		<metallicity errorminus="0.068" errorplus="0.073">0.12</metallicity>
+		<magK>11.29</magK>
+		<magH>11.348</magH>
+		<magJ>11.574</magJ>
 		<planet>
 			<name>Kepler-1395 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000027200" errorplus="0.000027200">3.784706490</period>
+			<period errorminus="2.72e-05" errorplus="2.72e-05">3.78470649</period>
 			<radius errorminus="0.005" errorplus="0.008">0.071</radius>
 		</planet>
 	</star>

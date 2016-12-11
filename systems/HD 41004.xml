@@ -1,13 +1,43 @@
 <system>
 	<name>HD 41004</name>
-	<rightascension>05 59 50</rightascension>
-	<declination>-48 14 23</declination>
-	<distance>43.03</distance>
+	<rightascension>5 56 229.999992</rightascension>
+	<declination>-48 14 22.9999199</declination>
+	<distance errorminus="1.98" errorplus="1.81">43.03</distance>
 	<binary>
 		<semimajoraxis>21.51</semimajoraxis>
+		<binary>
+			<period>1.32</period>
+			<eccentricity>0.081</eccentricity>
+			<star>
+				<name>HD 41004 B</name>
+				<mass>0.4</mass>
+				<spectraltype>M2</spectraltype>
+				<magV>12.33</magV>
+				<age errorminus="0.8" errorplus="0.8">1.56</age>
+				<metallicity>-0.01</metallicity>
+				<temperature>5035.0</temperature>
+				<planet>
+					<lastupdate>15/02/16</lastupdate>
+					<discoveryyear>2004</discoveryyear>
+					<discoverymethod>RV</discoverymethod>
+					<period errorminus="8.9e-05" errorplus="8.9e-05">1.32363</period>
+					<name>HD 41004 B b</name>
+					<periastrontime errorminus="0.0029" errorplus="0.0029">2452532.699</periastrontime>
+					<mass errorminus="0.22" errorplus="0.22">18.4</mass>
+					<radius>1.06</radius>
+					<semimajoraxis>0.0177</semimajoraxis>
+					<eccentricity errorminus="0.0511" errorplus="0.058">0.058</eccentricity>
+					<periastron errorminus="72.2" errorplus="72.2">149.0</periastron>
+				</planet>
+			</star>
+			<star>
+				<name>HD 41004 B b</name>
+				<mass>0.0181410</mass>
+			</star>
+		</binary>
 		<star>
 			<name>HD 41004 A</name>
-			<mass>0.4</mass>
+			<mass>0.70</mass>
 			<magV>12.33</magV>
 			<magB>9.49</magB>
 			<magR>8.6</magR>
@@ -16,34 +46,21 @@
 			<magK errorminus="0.04" errorplus="0.04">6.43</magK>
 			<metallicity>-0.09</metallicity>
 			<spectraltype>M2</spectraltype>
+			<temperature>5010.00</temperature>
 			<planet>
 				<name>HD 41004 A b</name>
 				<list>Confirmed planets</list>
-				<mass>2.54</mass>
-				<period>963</period>
+				<list>Planets in binary systems, S-type</list>
+				<mass errorminus="0.74000" errorplus="0.74000">2.54000</mass>
+				<period errorminus="38.00000000" errorplus="38.00000000">963.00000000</period>
 				<semimajoraxis>1.7</semimajoraxis>
-				<eccentricity>0.74</eccentricity>
+				<eccentricity errorminus="0.200000" errorplus="0.200000">0.740000</eccentricity>
 				<discoverymethod>RV</discoverymethod>
-				<lastupdate>12/11/30</lastupdate>
+				<lastupdate>14/12/03</lastupdate>
 				<discoveryyear>2004</discoveryyear>
 				<description>This planet is orbiting the star HD 41004 A. A second object has been found around the star HD 41004 B. With a mass estimate of about 19 Jupiter masses, it is considered to be a brown dwarf.</description>
-				<list>Planets in binary systems, S-type</list>
 				<temperature>174.8</temperature>
 			</planet>
-			<temperature>5035.0</temperature>
 		</star>
-		<binary>
-			<period>1.32</period>
-			<eccentricity>0.081</eccentricity>
-			<star>
-				<name>HD 41004 B</name>
-				<mass>0.7</mass>
-				<spectraltype>K1V</spectraltype>
-			</star>
-			<star>
-				<name>HD 41004 B b</name>
-				<mass>0.0181410</mass>
-			</star>
-		</binary>
 	</binary>
 </system>

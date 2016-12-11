@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1199</name>
-	<rightascension>19 34 54</rightascension>
-	<declination>+47 14 49</declination>
+	<rightascension>19 32 174.209280</rightascension>
+	<declination>47 14 49.3584000</declination>
+	<distance>540.0</distance>
 	<star>
 		<name>Kepler-1199</name>
-		<temperature errorminus="64.9" errorplus="84.3">5889.0</temperature>
-		<mass errorminus="0.06" errorplus="0.10">0.94</mass>
+		<temperature errorminus="64.89" errorplus="84.29">5889.0</temperature>
+		<mass errorminus="0.06" errorplus="0.1">0.94</mass>
 		<radius errorminus="0.16" errorplus="0.21">1.17</radius>
-		<metallicity errorminus="0.13" errorplus="0.12">-0.27</metallicity>
+		<metallicity errorminus="0.128" errorplus="0.116">-0.27</metallicity>
+		<magK>11.581</magK>
+		<magH>11.656</magH>
+		<magJ>11.965</magJ>
 		<planet>
 			<name>Kepler-1199 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000108400" errorplus="0.000108400">15.044719800</period>
+			<period errorminus="0.0001084" errorplus="0.0001084">15.0447198</period>
 			<radius errorminus="0.014" errorplus="0.019">0.103</radius>
 		</planet>
 	</star>

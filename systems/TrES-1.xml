@@ -1,38 +1,51 @@
 <system>
 	<name>TrES-1</name>
-	<rightascension>19 04 09</rightascension>
-	<declination>+36 37 57</declination>
-	<distance>157</distance>
+	<rightascension>19 3 68.9999999</rightascension>
+	<declination>36 37 56.9999999</declination>
+	<distance errorminus="6.0" errorplus="6.0">157.0</distance>
 	<star>
 		<name>TrES-1</name>
-		<mass>0.88</mass>
-		<radius>0.85</radius>
+		<mass errorminus="0.07" errorplus="0.07">0.88</mass>
+		<radius errorminus="0.05" errorplus="0.05">0.85</radius>
 		<magB errorminus="0.21" errorplus="0.21">12.35</magB>
-		<magV errorminus="0.10" errorplus="0.10">11.42</magV>
+		<magV>11.79</magV>
 		<magJ errorminus="0.022" errorplus="0.022">10.294</magJ>
 		<magH errorminus="0.021" errorplus="0.021">9.887</magH>
 		<magK errorminus="0.019" errorplus="0.019">9.819</magK>
-		<metallicity>0.001</metallicity>
+		<metallicity errorminus="0.004" errorplus="0.004">0.001</metallicity>
 		<spectraltype>K0V</spectraltype>
-		<temperature errorminus="200" errorplus="200">5250</temperature>
+		<temperature errorminus="50.00" errorplus="50.00">5230.00</temperature>
+		<age errorminus="1.4" errorplus="1.4">2.5</age>
 		<planet>
 			<name>TrES-1 b</name>
 			<name>TYC 2652-01324-1</name>
 			<name>2MASS J19040985+3637574</name>
 			<name>TrES-1</name>
 			<list>Confirmed planets</list>
-			<mass>0.761</mass>
-			<radius>1.099</radius>
-			<period>3.0300722</period>
-			<semimajoraxis>0.0393</semimajoraxis>
+			<mass errorminus="0.04600" errorplus="0.04700">0.75200</mass>
+			<radius errorminus="0.021" errorplus="0.022">1.067</radius>
+			<period>3.03006500</period>
+			<semimajoraxis errorminus="0.000600" errorplus="0.000560">0.039250</semimajoraxis>
 			<transittime errorminus="0.00014" errorplus="0.00014" unit="BJD">2453898.876696</transittime>
 			<eccentricity>0.0</eccentricity>
-			<inclination>88.4</inclination>
+			<inclination errorminus="1.100" errorplus="0.000">90.000</inclination>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/02/09</lastupdate>
+			<lastupdate>14/10/15</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<description>TrES-1 b orbits an orange dwarf star in the constellation of Lyra. It belongs to the class of Hot Jupiters</description>
 			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<inclination errorminus="0.3" errorplus="0.3">88.4</inclination>
+			<radius errorminus="0.035" errorplus="0.035">1.099</radius>
+			<period errorminus="2e-07" errorplus="2e-07">3.0300722</period>
+			<mass errorminus="0.05" errorplus="0.05">0.761</mass>
+			<eccentricity>0.0</eccentricity>
+			<discoveryyear>2004</discoveryyear>
+			<lastupdate>13/05/31</lastupdate>
+			<semimajoraxis errorminus="0.0007" errorplus="0.0007">0.0393</semimajoraxis>
+			<discoverymethod>transit</discoverymethod>
+			<name>TrES-1 </name>
 		</planet>
 	</star>
 </system>

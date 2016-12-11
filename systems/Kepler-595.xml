@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-595</name>
-	<rightascension>19 38 17</rightascension>
-	<declination>+50 40 23</declination>
+	<rightascension>19 36 136.894320</rightascension>
+	<declination>50 40 22.8827999</declination>
+	<distance>639.0</distance>
 	<star>
 		<name>Kepler-595</name>
-		<temperature errorminus="79.7" errorplus="59.0">5247.0</temperature>
+		<temperature errorminus="79.67" errorplus="59.03">5247.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.83</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.08</metallicity>
+		<metallicity errorminus="0.157" errorplus="0.15">0.08</metallicity>
+		<magK>12.862</magK>
+		<magH>12.94</magH>
+		<magJ>13.335</magJ>
 		<planet>
 			<name>Kepler-595 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000030030" errorplus="0.000030030">25.302923320</period>
-			<radius errorminus="0.015" errorplus="0.025">0.340</radius>
+			<period errorminus="3.003e-05" errorplus="3.003e-05">25.30292332</period>
+			<radius errorminus="0.015" errorplus="0.025">0.34</radius>
 		</planet>
 	</star>
 </system>

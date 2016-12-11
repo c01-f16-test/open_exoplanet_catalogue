@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1256</name>
-	<rightascension>19 25 54</rightascension>
-	<declination>+44 41 01</declination>
+	<rightascension>19 23 173.832959</rightascension>
+	<declination>44 41 0.65039999</declination>
+	<distance>862.0</distance>
 	<star>
 		<name>Kepler-1256</name>
-		<temperature errorminus="69.3" errorplus="67.9">6129.0</temperature>
+		<temperature errorminus="69.29" errorplus="67.94">6129.0</temperature>
 		<mass errorminus="0.06" errorplus="0.09">1.17</mass>
 		<radius errorminus="0.19" errorplus="0.27">1.36</radius>
-		<metallicity errorminus="0.08" errorplus="0.09">0.05</metallicity>
+		<metallicity errorminus="0.077" errorplus="0.092">0.05</metallicity>
+		<magK>12.234</magK>
+		<magH>12.284</magH>
+		<magJ>12.486</magJ>
 		<planet>
 			<name>Kepler-1256 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000108000" errorplus="0.000108000">12.412775400</period>
-			<radius errorminus="0.020" errorplus="0.039">0.133</radius>
+			<period errorminus="0.000108" errorplus="0.000108">12.4127754</period>
+			<radius errorminus="0.02" errorplus="0.039">0.133</radius>
 		</planet>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-844</name>
-	<rightascension>19 11 26</rightascension>
-	<declination>+48 46 27</declination>
+	<rightascension>19 7 265.854959</rightascension>
+	<declination>48 46 26.8068000</declination>
+	<distance>394.0</distance>
 	<star>
 		<name>Kepler-844</name>
-		<temperature errorminus="47.0" errorplus="46.1">4128.0</temperature>
+		<temperature errorminus="46.95" errorplus="46.09">4128.0</temperature>
 		<mass errorminus="0.04" errorplus="0.03">0.59</mass>
 		<radius errorminus="0.03" errorplus="0.03">0.57</radius>
-		<metallicity errorminus="0.14" errorplus="0.12">-0.24</metallicity>
+		<metallicity errorminus="0.142" errorplus="0.12">-0.24</metallicity>
+		<magK>13.058</magK>
+		<magH>13.194</magH>
+		<magJ>13.804</magJ>
 		<planet>
 			<name>Kepler-844 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006240" errorplus="0.000006240">2.613020860</period>
-			<radius errorminus="0.021" errorplus="0.006">0.150</radius>
+			<period errorminus="6.24e-06" errorplus="6.24e-06">2.61302086</period>
+			<radius errorminus="0.021" errorplus="0.006">0.15</radius>
 		</planet>
 	</star>
 </system>

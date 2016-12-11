@@ -2,34 +2,36 @@
 	<name>Kepler-200</name>
 	<name>KOI-654</name>
 	<name>KIC 5941160</name>
-	<rightascension>18 57 38</rightascension>
-	<declination>+41 14 14</declination>
+	<rightascension>18 56 98.3789160</rightascension>
+	<declination>41 14 14.8740000</declination>
 	<distance>643.59</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">12.871</magJ>
-		<magH errorminus="0.023" errorplus="0.023">12.580</magH>
+		<magH>12.58</magH>
 		<magK errorminus="0.021" errorplus="0.021">12.455</magK>
 		<name>Kepler-200</name>
 		<name>KOI-654</name>
 		<name>KIC 5941160</name>
 		<temperature errorminus="100" errorplus="100">5678</temperature>
-		<radius errorminus=".158" errorplus="0.158">0.944</radius>
+		<radius errorminus="0.16" errorplus="0.16">0.94</radius>
 		<mass errorminus="0.0990" errorplus="0.0990">1.0420</mass>
+		<metallicity>-0.118</metallicity>
 		<planet>
 			<name>Kepler-200 b</name>
 			<name>KOI-654 b</name>
 			<name>KOI-654.01</name>
 			<name>KIC 5941160 b</name>
 			<name>KIC 5941160.01</name>
-			<radius errorminus="0.03736" errorplus="0.03736">0.19411</radius>
-			<period errorminus=".000036" errorplus="0.000036">8.594805</period>
+			<radius errorminus="0.037" errorplus="0.037">0.190</radius>
+			<period errorminus="0.00003600" errorplus="0.00003600">8.59480500</period>
 			<transittime errorminus="0.0023400" errorplus="0.0023400">2455004.6299800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-200 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-200 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.080000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-200 c</name>
@@ -37,15 +39,16 @@
 			<name>KOI-654.02</name>
 			<name>KIC 5941160 c</name>
 			<name>KIC 5941160.02</name>
-			<radius errorminus="0.02643" errorplus="0.02643">0.14490</radius>
-			<period errorminus=".000053" errorplus="0.000053">10.222157</period>
+			<radius errorminus="0.026" errorplus="0.026">0.142</radius>
+			<period errorminus="0.00005300" errorplus="0.00005300">10.22215700</period>
 			<transittime errorminus="0.0029700" errorplus="0.0029700">2454968.8905600</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-200 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-200 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.090000</semimajoraxis>
 		</planet>
 	</star>
 </system>

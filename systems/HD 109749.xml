@@ -14,10 +14,12 @@
 			<magB>8.76</magB>
 			<metallicity>0.25</metallicity>
 			<spectraltype>G3 IV</spectraltype>
+			<temperature>5610.0</temperature>
 			<planet>
 				<name>HD 109749 A b</name>
 				<name>HD 109749 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>0.28</mass>
 				<period>5.24</period>
 				<semimajoraxis>0.0635</semimajoraxis>
@@ -26,9 +28,7 @@
 				<lastupdate>10/12/23</lastupdate>
 				<discoveryyear>2005</discoveryyear>
 				<temperature>1161.9</temperature>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
-			<temperature>5610.0</temperature>
 		</star>
 		<star>
 			<name>HD 109749 B</name>

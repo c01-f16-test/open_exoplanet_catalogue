@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-554</name>
-	<rightascension>19 45 38</rightascension>
-	<declination>+51 21 29</declination>
+	<rightascension>19 44 97.6447200</rightascension>
+	<declination>51 21 29.3543999</declination>
+	<distance>642.0</distance>
 	<star>
 		<name>Kepler-554</name>
-		<temperature errorminus="66.6" errorplus="76.5">5447.0</temperature>
+		<temperature errorminus="66.56" errorplus="76.54">5447.0</temperature>
 		<mass errorminus="0.03" errorplus="0.04">0.93</mass>
 		<radius errorminus="0.04" errorplus="0.06">0.92</radius>
-		<metallicity errorminus="0.10" errorplus="0.10">0.14</metallicity>
+		<metallicity errorminus="0.095" errorplus="0.098">0.14</metallicity>
+		<magK>12.615</magK>
+		<magH>12.654</magH>
+		<magJ>13.043</magJ>
 		<planet>
 			<name>Kepler-554 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000000410" errorplus="0.000000410">1.902208560</period>
+			<period errorminus="4.1e-07" errorplus="4.1e-07">1.90220856</period>
 			<radius errorminus="0.019" errorplus="0.024">0.383</radius>
 		</planet>
 	</star>

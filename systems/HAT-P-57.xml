@@ -8,6 +8,22 @@
 		<separation errorminus="0.001" errorplus="0.001" unit="arcsec">2.667</separation>
 		<separation errorminus="30" errorplus="30" unit="AU">800</separation>
 		<positionangle>234</positionangle>
+		<binary>
+			<name>HAT-P-57 BC</name>
+			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.225</separation>
+			<separation errorminus="3" errorplus="3" unit="AU">68</separation>
+			<positionangle>165</positionangle>
+			<star>
+				<name>HAT-P-57 B</name>
+				<magH errorminus="0.10" errorplus="0.10">12.25</magH>
+				<mass errorminus="0.10" errorplus="0.10">0.61</mass>
+			</star>
+			<star>
+				<name>HAT-P-57 C</name>
+				<magH errorminus="0.11" errorplus="0.11">13.26</magH>
+				<mass errorminus="0.08" errorplus="0.08">0.53</mass>
+			</star>
+		</binary>
 		<star>
 			<name>HAT-P-57 A</name>
 			<name>GSC 01014-00973</name>
@@ -32,8 +48,8 @@
 				<period errorminus="0.0000032" errorplus="0.0000032">2.4652950</period>
 				<transittime errorminus="0.00048" errorplus="0.00048" unit="BJD">2455113.48127</transittime>
 				<inclination errorminus="0.85" errorplus="0.85">88.26</inclination>
-				<spinorbitalignment lowerlimit="27.6" upperlimit="57.4" />
-				<mass upperlimit="1.85" />
+				<spinorbitalignment lowerlimit="27.6" upperlimit="57.4"/>
+				<mass upperlimit="1.85"/>
 				<semimajoraxis errorminus="0.0011" errorplus="0.0011">0.0406</semimajoraxis>
 				<eccentricity>0</eccentricity>
 				<radius errorminus="0.054" errorplus="0.054">1.413</radius>
@@ -46,21 +62,5 @@
 				<istransiting>1</istransiting>
 			</planet>
 		</star>
-		<binary>
-			<name>HAT-P-57 BC</name>
-			<separation errorminus="0.002" errorplus="0.002" unit="arcsec">0.225</separation>
-			<separation errorminus="3" errorplus="3" unit="AU">68</separation>
-			<positionangle>165</positionangle>
-			<star>
-				<name>HAT-P-57 B</name>
-				<magH errorminus="0.10" errorplus="0.10">12.25</magH>
-				<mass errorminus="0.10" errorplus="0.10">0.61</mass>
-			</star>
-			<star>
-				<name>HAT-P-57 C</name>
-				<magH errorminus="0.11" errorplus="0.11">13.26</magH>
-				<mass errorminus="0.08" errorplus="0.08">0.53</mass>
-			</star>
-		</binary>
 	</binary>
 </system>

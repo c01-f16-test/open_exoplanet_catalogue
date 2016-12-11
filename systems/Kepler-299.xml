@@ -2,34 +2,36 @@
 	<name>Kepler-299</name>
 	<name>KOI-1432</name>
 	<name>KIC 11014932</name>
-	<rightascension>18 52 49</rightascension>
-	<declination>+48 34 49</declination>
+	<rightascension>18 52 49.6728480</rightascension>
+	<declination>48 34 49.8072000</declination>
 	<distance>1107.98</distance>
 	<star>
 		<magJ errorminus="0.028" errorplus="0.028">13.875</magJ>
-		<magH errorminus="0.027" errorplus="0.027">13.510</magH>
-		<magK errorminus="0.04" errorplus="0.04">13.44</magK>
+		<magH>13.51</magH>
+		<magK>13.436</magK>
 		<name>Kepler-299</name>
 		<name>KOI-1432</name>
 		<name>KIC 11014932</name>
-		<temperature errorminus="12" errorplus="112">5617</temperature>
-		<radius errorminus=".208" errorplus="0.208">1.032</radius>
-		<mass errorminus="0.0680" errorplus="0.0680">1.0010</mass>
+		<temperature errorminus="112.0" errorplus="112.0">5617.0</temperature>
+		<radius errorminus="0.21" errorplus="0.21">1.03</radius>
+		<mass>0.97</mass>
+		<metallicity>-0.052</metallicity>
 		<planet>
 			<name>Kepler-299 c</name>
 			<name>KOI-1432 c</name>
 			<name>KOI-1432.01</name>
 			<name>KIC 11014932 c</name>
 			<name>KIC 11014932.01</name>
-			<radius errorminus="0.05741" errorplus="0.05741">0.24150</radius>
-			<period errorminus=".000040" errorplus="0.000040">6.885875</period>
+			<radius errorminus="0.056" errorplus="0.056">0.236</radius>
+			<period errorminus="0.00004000" errorplus="0.00004000">6.88587500</period>
 			<transittime errorminus="0.0035600" errorplus="0.0035600">2454971.4095500</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-299 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-299 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.070000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-299 d</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1432.02</name>
 			<name>KIC 11014932 d</name>
 			<name>KIC 11014932.02</name>
-			<radius errorminus="0.03463" errorplus="0.03463">0.16950</radius>
-			<period errorminus=".000189" errorplus="0.000189">15.054786</period>
+			<radius errorminus="0.034" errorplus="0.034">0.166</radius>
+			<period errorminus="0.00018900" errorplus="0.00018900">15.05478600</period>
 			<transittime errorminus="0.0080400" errorplus="0.0080400">2454977.5855700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-299 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-299 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.118000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-299 b</name>
@@ -53,15 +56,16 @@
 			<name>KOI-1432.03</name>
 			<name>KIC 11014932 b</name>
 			<name>KIC 11014932.03</name>
-			<radius errorminus="0.02461" errorplus="0.02461">0.12029</radius>
-			<period errorminus=".000033" errorplus="0.000033">2.927128</period>
+			<radius errorminus="0.024" errorplus="0.024">0.118</radius>
+			<period errorminus="0.00003300" errorplus="0.00003300">2.92712800</period>
 			<transittime errorminus="0.0065000" errorplus="0.0065000">2454966.8285800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-299 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-299 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.040000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-299 e</name>
@@ -69,15 +73,16 @@
 			<name>KOI-1432.04</name>
 			<name>KIC 11014932 e</name>
 			<name>KIC 11014932.04</name>
-			<radius errorminus="0.03554" errorplus="0.03554">0.17041</radius>
-			<period errorminus=".001428" errorplus="0.001428">38.285489</period>
+			<radius errorminus="0.035" errorplus="0.035">0.167</radius>
+			<period errorminus="0.00142800" errorplus="0.00142800">38.28548900</period>
 			<transittime errorminus="0.0248300" errorplus="0.0248300">2454976.3074700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-299 e has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-299 e are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.220000</semimajoraxis>
 		</planet>
 	</star>
 </system>

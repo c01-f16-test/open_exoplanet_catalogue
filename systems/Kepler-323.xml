@@ -2,8 +2,8 @@
 	<name>Kepler-323</name>
 	<name>KOI-1824</name>
 	<name>KIC 2989404</name>
-	<rightascension>19 25 31</rightascension>
-	<declination>+38 07 38</declination>
+	<rightascension>19 23 151.735847</rightascension>
+	<declination>38 7 38.8992000</declination>
 	<distance>499.35</distance>
 	<star>
 		<magJ errorminus="0.022" errorplus="0.022">11.689</magJ>
@@ -12,24 +12,26 @@
 		<name>Kepler-323</name>
 		<name>KOI-1824</name>
 		<name>KIC 2989404</name>
-		<temperature errorminus="50" errorplus="150">5987</temperature>
-		<radius errorminus=".228" errorplus="0.228">1.178</radius>
-		<mass errorminus="0.1300" errorplus="0.1300">1.1600</mass>
+		<temperature errorminus="150.0" errorplus="150.0">5987.0</temperature>
+		<radius errorminus="0.23" errorplus="0.23">1.18</radius>
+		<mass>1.09</mass>
+		<metallicity>-0.078</metallicity>
 		<planet>
 			<name>Kepler-323 c</name>
 			<name>KOI-1824 c</name>
 			<name>KOI-1824.01</name>
 			<name>KIC 2989404 c</name>
 			<name>KIC 2989404.01</name>
-			<radius errorminus="0.02916" errorplus="0.02916">0.14854</radius>
-			<period errorminus=".000008" errorplus="0.000008">3.553822</period>
+			<radius errorminus="0.029" errorplus="0.029">0.145</radius>
+			<period errorminus="0.00000800" errorplus="0.00000800">3.55382200</period>
 			<transittime errorminus="0.0013300" errorplus="0.0013300">2454967.6407800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-323 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-323 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.046000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-323 b</name>
@@ -37,15 +39,16 @@
 			<name>KOI-1824.02</name>
 			<name>KIC 2989404 b</name>
 			<name>KIC 2989404.02</name>
-			<radius errorminus="0.02552" errorplus="0.02552">0.13032</radius>
-			<period errorminus=".000003" errorplus="0.000003">1.678327</period>
+			<radius errorminus="0.025" errorplus="0.025">0.128</radius>
+			<period errorminus="0.00000300" errorplus="0.00000300">1.67832700</period>
 			<transittime errorminus="0.0010900" errorplus="0.0010900">2454969.0530700</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-323 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-323 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.028000</semimajoraxis>
 		</planet>
 	</star>
 </system>

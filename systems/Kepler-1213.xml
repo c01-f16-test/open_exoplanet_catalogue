@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1213</name>
-	<rightascension>19 17 57</rightascension>
-	<declination>+50 56 39</declination>
+	<rightascension>19 15 176.597279</rightascension>
+	<declination>50 56 38.9903999</declination>
+	<distance>685.0</distance>
 	<star>
 		<name>Kepler-1213</name>
-		<temperature errorminus="81.7" errorplus="74.6">6050.0</temperature>
+		<temperature errorminus="81.73" errorplus="74.56">6050.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">1.14</mass>
 		<radius errorminus="0.09" errorplus="0.13">1.21</radius>
-		<metallicity errorminus="0.08" errorplus="0.08">0.13</metallicity>
+		<metallicity errorminus="0.083" errorplus="0.076">0.13</metallicity>
+		<magK>11.988</magK>
+		<magH>12.043</magH>
+		<magJ>12.367</magJ>
 		<planet>
 			<name>Kepler-1213 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000026590" errorplus="0.000026590">5.349824120</period>
+			<period errorminus="2.659e-05" errorplus="2.659e-05">5.34982412</period>
 			<radius errorminus="0.009" errorplus="0.012">0.106</radius>
 		</planet>
 	</star>

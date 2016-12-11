@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-574</name>
-	<rightascension>19 20 59</rightascension>
-	<declination>+52 08 57</declination>
+	<rightascension>19 19 119.290319</rightascension>
+	<declination>52 8 56.8895999</declination>
+	<distance>747.0</distance>
 	<star>
 		<name>Kepler-574</name>
-		<temperature errorminus="108.4" errorplus="116.0">5612.0</temperature>
+		<temperature errorminus="108.4" errorplus="116.01">5612.0</temperature>
 		<mass errorminus="0.05" errorplus="0.05">0.95</mass>
 		<radius errorminus="0.06" errorplus="0.12">0.91</radius>
-		<metallicity errorminus="0.16" errorplus="0.14">-0.01</metallicity>
+		<metallicity errorminus="0.164" errorplus="0.137">-0.01</metallicity>
+		<magK>12.921</magK>
+		<magH>12.921</magH>
+		<magJ>13.326</magJ>
 		<planet>
 			<name>Kepler-574 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000013460" errorplus="0.000013460">7.658804140</period>
+			<period errorminus="1.346e-05" errorplus="1.346e-05">7.65880414</period>
 			<radius errorminus="0.014" errorplus="0.029">0.213</radius>
 		</planet>
 	</star>

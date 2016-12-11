@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-17</name>
-	<rightascension>15 59 51</rightascension>
-	<declination>-28 03 42</declination>
+	<rightascension>15 56 231.000000</rightascension>
+	<declination>-28 3 42.0001200</declination>
 	<distance errorminus="60" errorplus="60">400</distance>
 	<star>
-		<mass>1.306</mass>
-		<radius>1.572</radius>
+		<mass errorminus="0.13" errorplus="-0.13">1.2</mass>
+		<radius errorminus="0.18" errorplus="-0.18">1.38</radius>
 		<magV>11.6</magV>
 		<magR>11.31</magR>
 		<magB errorminus="0.08" errorplus="0.08">11.83</magB>
@@ -15,24 +15,27 @@
 		<magK errorminus="0.027" errorplus="0.027">10.224</magK>
 		<metallicity errorminus="0.09" errorplus="0.09">-0.19</metallicity>
 		<spectraltype>F4</spectraltype>
+		<name>WASP-17</name>
+		<temperature errorminus="80.0" errorplus="80.0">6650.0</temperature>
+		<age errorminus="2.6" errorplus="-2.6">3.0</age>
 		<planet>
 			<name>WASP-17 b</name>
 			<name>2MASS J15595095-2803422 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.486</mass>
-			<radius>1.991</radius>
-			<period>3.735438</period>
-			<semimajoraxis>0.0515</semimajoraxis>
-			<eccentricity>0.028</eccentricity>
-			<inclination>86.83</inclination>
+			<mass errorminus="0.032" errorplus="0.032">0.486</mass>
+			<radius errorminus="0.081" errorplus="0.081">1.991</radius>
+			<period errorminus="6.8e-06" errorplus="6.8e-06">3.735438</period>
+			<semimajoraxis errorminus="0.00034" errorplus="0.00034">0.0515</semimajoraxis>
+			<eccentricity errorminus="0.018" errorplus="0.015">0.028</eccentricity>
+			<inclination errorminus="0.56" errorplus="0.68">86.83</inclination>
 			<transittime errorminus="0.00027" errorplus="0.00027" unit="BJD">2454577.85879</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>16/09/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>1517.8</temperature>
 			<istransiting>1</istransiting>
+			<impactparameter errorplus="0.077">0.401</impactparameter>
+			<periastron errorminus="14.6" errorplus="2.6">277.4</periastron>
 		</planet>
-		<name>WASP-17</name>
-		<temperature>6650.0</temperature>
 	</star>
 </system>

@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-623</name>
-	<rightascension>19 47 57</rightascension>
-	<declination>+47 28 39</declination>
+	<rightascension>19 44 236.813040</rightascension>
+	<declination>47 28 38.6040000</declination>
+	<distance>811.0</distance>
 	<star>
 		<name>Kepler-623</name>
-		<temperature errorminus="85.6" errorplus="103.3">5443.0</temperature>
-		<mass errorminus="0.05" errorplus="0.04">0.90</mass>
-		<radius errorminus="0.06" errorplus="0.10">0.86</radius>
-		<metallicity errorminus="0.17" errorplus="0.15">-0.03</metallicity>
+		<temperature errorminus="85.59" errorplus="103.28">5443.0</temperature>
+		<mass errorminus="0.05" errorplus="0.04">0.9</mass>
+		<radius errorminus="0.06" errorplus="0.1">0.86</radius>
+		<metallicity errorminus="0.175" errorplus="0.15">-0.03</metallicity>
+		<magK>13.211</magK>
+		<magH>13.321</magH>
+		<magJ>13.729</magJ>
 		<planet>
 			<name>Kepler-623 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000012830" errorplus="0.000012830">9.070977340</period>
-			<radius errorminus="0.019" errorplus="0.030">0.269</radius>
+			<period errorminus="1.283e-05" errorplus="1.283e-05">9.07097734</period>
+			<radius errorminus="0.019" errorplus="0.03">0.269</radius>
 		</planet>
 	</star>
 </system>

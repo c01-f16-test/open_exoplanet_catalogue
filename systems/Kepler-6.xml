@@ -11,6 +11,10 @@
 		<mass errorminus="0.07" errorplus="0.08">1.05</mass>
 		<radius errorminus="0.10" errorplus="0.09">1.29</radius>
 		<metallicity errorminus="0.16" errorplus="0.10">0.34</metallicity>
+		<name>Kepler-6</name>
+		<name>KOI-17</name>
+		<name>KIC 10874614</name>
+		<temperature errorminus="110" errorplus="99">5640</temperature>
 		<planet>
 			<name>Kepler-6 b</name>
 			<name>2MASS J19472094+4814238 b</name>
@@ -31,9 +35,5 @@
 			<temperature>1374.1</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>Kepler-6</name>
-		<name>KOI-17</name>
-		<name>KIC 10874614</name>
-		<temperature errorminus="110" errorplus="99">5640</temperature>
 	</star>
 </system>

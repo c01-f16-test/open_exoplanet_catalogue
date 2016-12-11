@@ -1,8 +1,8 @@
 <system>
 	<name>HD 148427</name>
-	<rightascension>16 28 28</rightascension>
-	<declination>-13 23 59</declination>
-	<distance>59.3</distance>
+	<rightascension>16h28m28.15s</rightascension>
+	<declination>-13d23m58.7s</declination>
+	<distance errorminus="3.58" errorplus="3.19">59.28</distance>
 	<star>
 		<mass>1.45</mass>
 		<radius>3.22</radius>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.021" errorplus="0.021">4.682</magK>
 		<metallicity>0.154</metallicity>
 		<spectraltype>K0IV</spectraltype>
+		<name>HD 148427</name>
+		<temperature>5052.0</temperature>
 		<planet>
 			<name>HD 148427 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.96</mass>
-			<period>331.5</period>
-			<semimajoraxis>0.93</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.10000">0.96000</mass>
+			<period errorminus="3.00000000" errorplus="3.00000000">331.50000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.930000</semimajoraxis>
+			<eccentricity errorminus="0.080000" errorplus="0.080000">0.160000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/13</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>413.8</temperature>
 		</planet>
-		<name>HD 148427</name>
-		<temperature>5052.0</temperature>
 	</star>
 </system>

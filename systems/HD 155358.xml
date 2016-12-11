@@ -1,8 +1,8 @@
 <system>
 	<name>HD 155358</name>
-	<rightascension>17 09 35</rightascension>
-	<declination>+33 21 21</declination>
-	<distance>43</distance>
+	<rightascension>17h09m34.61s</rightascension>
+	<declination>+33d21m21.1s</declination>
+	<distance errorminus="1.34" errorplus="1.26">43.40</distance>
 	<star>
 		<mass>0.92</mass>
 		<magV>7.27</magV>
@@ -14,31 +14,31 @@
 		<magK errorminus="0.018" errorplus="0.018">5.808</magK>
 		<metallicity>-0.51</metallicity>
 		<spectraltype>G0</spectraltype>
+		<name>HD 155358</name>
+		<temperature>5900.0</temperature>
 		<planet>
 			<name>HD 155358 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.85</mass>
-			<period>194.3</period>
-			<semimajoraxis>0.64</semimajoraxis>
-			<eccentricity>0.17</eccentricity>
+			<mass errorminus="0.05000" errorplus="0.05000">0.85000</mass>
+			<period errorminus="0.30000000" errorplus="0.30000000">194.30000000</period>
+			<semimajoraxis errorminus="0.010000" errorplus="0.010000">0.640000</semimajoraxis>
+			<eccentricity errorminus="0.030000" errorplus="0.030000">0.170000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>377.6</temperature>
 		</planet>
 		<planet>
 			<name>HD 155358 c</name>
 			<list>Confirmed planets</list>
-			<mass>0.82</mass>
-			<period>391.9</period>
-			<semimajoraxis>1.02</semimajoraxis>
-			<eccentricity>0.16</eccentricity>
+			<mass errorminus="0.07000" errorplus="0.07000">0.82000</mass>
+			<period errorminus="1.00000000" errorplus="1.00000000">391.90000000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">1.020000</semimajoraxis>
+			<eccentricity errorminus="0.100000" errorplus="0.100000">0.160000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>12/02/04</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>299.1</temperature>
 		</planet>
-		<name>HD 155358</name>
-		<temperature>5900.0</temperature>
 	</star>
 </system>

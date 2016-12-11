@@ -1,28 +1,28 @@
 <system>
 	<name>HD 50499</name>
-	<rightascension>06 52 02</rightascension>
-	<declination>-33 54 56</declination>
-	<distance>47.26</distance>
+	<rightascension>06h52m02.03s</rightascension>
+	<declination>-33d54m56.0s</declination>
+	<distance errorminus="1.57" errorplus="1.47">47.26</distance>
 	<star>
-		<mass>1.27</mass>
+		<mass errorminus="0.10" errorplus="0.10">1.24</mass>
 		<radius>1.38</radius>
 		<magV>7.22</magV>
 		<magB errorminus="0.02" errorplus="0.02">7.82</magB>
 		<metallicity>0.23</metallicity>
 		<spectraltype>G IV</spectraltype>
+		<name>HD 50499</name>
+		<temperature>5902.0</temperature>
 		<planet>
 			<name>HD 50499 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.71</mass>
-			<period>2482.7</period>
-			<semimajoraxis>3.86</semimajoraxis>
-			<eccentricity>0.23</eccentricity>
+			<mass errorminus="0.20000" errorplus="0.20000">1.71000</mass>
+			<period errorminus="110.00000000" errorplus="110.00000000">2482.70000000</period>
+			<semimajoraxis errorminus="0.600000" errorplus="0.600000">3.860000</semimajoraxis>
+			<eccentricity errorminus="0.140000" errorplus="0.140000">0.230000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/12/29</lastupdate>
+			<lastupdate>14/12/17</lastupdate>
 			<discoveryyear>2005</discoveryyear>
 			<temperature>155.1</temperature>
 		</planet>
-		<name>HD 50499</name>
-		<temperature>5902.0</temperature>
 	</star>
 </system>

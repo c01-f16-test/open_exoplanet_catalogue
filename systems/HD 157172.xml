@@ -12,6 +12,8 @@
 		<magH errorminus="0.017" errorplus="0.017">6.176</magH>
 		<magK errorminus="0.029" errorplus="0.029">6.082</magK>
 		<spectraltype>G8.5V</spectraltype>
+		<name>HD 157172</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 157172 b</name>
 			<list>Confirmed planets</list>
@@ -25,7 +27,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>347.9</temperature>
 		</planet>
-		<name>HD 157172</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

@@ -15,6 +15,8 @@
 		<magK errorminus="0.023" errorplus="0.023">6.763</magK>
 		<metallicity>0.18</metallicity>
 		<spectraltype>K0/K1V</spectraltype>
+		<name>HD 137388</name>
+		<temperature>5240.0</temperature>
 		<planet>
 			<name>HD 137388 b</name>
 			<name>HD 137388 A b</name>
@@ -29,7 +31,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>219.9</temperature>
 		</planet>
-		<name>HD 137388</name>
-		<temperature>5240.0</temperature>
 	</star>
 </system>

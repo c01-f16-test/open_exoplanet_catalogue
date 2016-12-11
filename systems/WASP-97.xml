@@ -1,7 +1,7 @@
 <system>
 	<name>WASP-97</name>
-	<rightascension>01 38 25</rightascension>
-	<declination>-55 46 19</declination>
+	<rightascension>1 36 145.008000</rightascension>
+	<declination>-55 46 18.8400000</declination>
 	<star>
 		<name>WASP-97</name>
 		<name>1SWASP J013825.04-554619.4</name>
@@ -10,7 +10,7 @@
 		<radius errorminus="0.04" errorplus="0.04">1.06</radius>
 		<temperature errorminus="100" errorplus="100">5640</temperature>
 		<metallicity errorminus="0.11" errorplus="0.11">0.23</metallicity>
-		<age>11.9</age>
+		<age errorminus="8.3" errorplus="16.0">11.9</age>
 		<spectraltype>G5</spectraltype>
 		<magV>10.6</magV>
 		<magB errorminus="0.06" errorplus="0.06">11.31</magB>
@@ -25,14 +25,14 @@
 			<mass errorminus="0.05" errorplus="0.05">1.32</mass>
 			<radius errorminus="0.06" errorplus="0.06">1.13</radius>
 			<temperature errorminus="40" errorplus="40">1555</temperature>
-			<period errorminus="0.000001" errorplus="0.000001">2.072760</period>
+			<period errorminus="1e-06" errorplus="1e-06">2.07276</period>
 			<transittime errorminus="0.00018" errorplus="0.00018" unit="HJD">2456438.18683</transittime>
 			<semimajoraxis errorminus="0.00056" errorplus="0.00056">0.03303</semimajoraxis>
-			<eccentricity upperlimit="0.05" />
-			<inclination errorminus="1" errorplus="1.3">88</inclination>
+			<eccentricity>0.0</eccentricity>
+			<inclination errorminus="1.0" errorplus="1.3">88.0</inclination>
 			<description>This is a hot Jupiter discovered by the WASP team.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>13/10/22</lastupdate>
+			<lastupdate>14/05/28</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

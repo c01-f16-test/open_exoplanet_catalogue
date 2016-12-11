@@ -1,11 +1,11 @@
 <system>
 	<name>HD 6718</name>
-	<rightascension>01 07 49</rightascension>
-	<declination>-08 14 01</declination>
-	<distance>55.9</distance>
+	<rightascension>01h07m48.66s</rightascension>
+	<declination>-08d14m01.3s</declination>
+	<distance errorminus="2.20" errorplus="2.40">54.90</distance>
 	<star>
 		<mass>0.96</mass>
-		<radius>1.02</radius>
+		<radius errorminus="0.03" errorplus="0.03">1.02</radius>
 		<magV>8.45</magV>
 		<magB errorminus="0.019" errorplus="0.019">9.087</magB>
 		<magJ errorminus="0.018" errorplus="0.018">7.269</magJ>
@@ -13,19 +13,19 @@
 		<magK errorminus="0.020" errorplus="0.020">6.876</magK>
 		<metallicity>-0.06</metallicity>
 		<spectraltype>G5V</spectraltype>
+		<name>HD 6718</name>
+		<temperature errorminus="19.00" errorplus="19.00">5746.00</temperature>
 		<planet>
 			<name>HD 6718 b</name>
 			<list>Confirmed planets</list>
-			<mass>1.56</mass>
-			<period>2496</period>
-			<semimajoraxis>3.56</semimajoraxis>
-			<eccentricity>0.1</eccentricity>
+			<mass errorminus="0.10000" errorplus="0.11000">1.56000</mass>
+			<period errorminus="176.00000000" errorplus="176.00000000">2496.00000000</period>
+			<semimajoraxis errorminus="0.150000" errorplus="0.240000">3.560000</semimajoraxis>
+			<eccentricity errorminus="0.040000" errorplus="0.110000">0.100000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/09/08</lastupdate>
+			<lastupdate>15/03/26</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>135.5</temperature>
 		</planet>
-		<name>HD 6718</name>
-		<temperature>5745.0</temperature>
 	</star>
 </system>

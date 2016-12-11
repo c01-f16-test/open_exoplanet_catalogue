@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1209</name>
-	<rightascension>19 10 20</rightascension>
-	<declination>+49 09 17</declination>
+	<rightascension>19 7 200.373839</rightascension>
+	<declination>49 9 17.2547999</declination>
+	<distance>558.0</distance>
 	<star>
 		<name>Kepler-1209</name>
-		<temperature errorminus="59.1" errorplus="71.2">6210.0</temperature>
+		<temperature errorminus="59.14" errorplus="71.25">6210.0</temperature>
 		<mass errorminus="0.05" errorplus="0.09">1.23</mass>
 		<radius errorminus="0.16" errorplus="0.29">1.38</radius>
-		<metallicity errorminus="0.08" errorplus="0.09">0.12</metallicity>
+		<metallicity errorminus="0.08" errorplus="0.085">0.12</metallicity>
+		<magK>11.239</magK>
+		<magH>11.274</magH>
+		<magJ>11.499</magJ>
 		<planet>
 			<name>Kepler-1209 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000124900" errorplus="0.000124900">25.369116000</period>
+			<period errorminus="0.0001249" errorplus="0.0001249">25.369116</period>
 			<radius errorminus="0.016" errorplus="0.029">0.135</radius>
 		</planet>
 	</star>

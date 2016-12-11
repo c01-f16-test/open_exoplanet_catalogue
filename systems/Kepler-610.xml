@@ -1,35 +1,39 @@
 <system>
 	<name>Kepler-610</name>
-	<rightascension>19 32 41</rightascension>
-	<declination>+45 03 56</declination>
+	<rightascension>19 32 41.1223200</rightascension>
+	<declination>45 3 56.1779999</declination>
+	<distance>1113.0</distance>
 	<star>
 		<name>Kepler-610</name>
-		<temperature errorminus="127.3" errorplus="92.0">5943.0</temperature>
-		<mass errorminus="0.07" errorplus="0.09">1.10</mass>
+		<temperature errorminus="127.26" errorplus="91.96">5943.0</temperature>
+		<mass errorminus="0.07" errorplus="0.09">1.1</mass>
 		<radius errorminus="0.12" errorplus="0.31">1.13</radius>
-		<metallicity errorminus="0.14" errorplus="0.15">0.12</metallicity>
+		<metallicity errorminus="0.143" errorplus="0.148">0.12</metallicity>
+		<magK>13.267</magK>
+		<magH>13.306</magH>
+		<magJ>13.601</magJ>
 		<planet>
 			<name>Kepler-610 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000005590" errorplus="0.000005590">6.996926550</period>
-			<radius errorminus="0.040" errorplus="0.103">0.374</radius>
+			<period errorminus="5.59e-06" errorplus="5.59e-06">6.99692655</period>
+			<radius errorminus="0.04" errorplus="0.103">0.374</radius>
 		</planet>
 		<planet>
 			<name>Kepler-610 c</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.001118000" errorplus="0.001118000">151.863920000</period>
+			<period errorminus="0.001118" errorplus="0.001118">151.86392</period>
 			<radius errorminus="0.033" errorplus="0.075">0.294</radius>
 		</planet>
 	</star>

@@ -1,7 +1,7 @@
 <system>
 	<name>Kepler-60</name>
-	<rightascension>19 15 50.698</rightascension>
-	<declination>+42 15 54.04</declination>
+	<rightascension>19 11 290.999999</rightascension>
+	<declination>42 15 54.0</declination>
 	<distance>664.24</distance>
 	<star>
 		<name>Kepler-60</name>
@@ -12,17 +12,18 @@
 		<magJ errorminus="0.023" errorplus="0.023">12.804</magJ>
 		<magH errorminus="0.018" errorplus="0.018">12.569</magH>
 		<magK errorminus="0.018" errorplus="0.018">12.516</magK>
-		<mass>1.105</mass>
+		<mass>1.1</mass>
 		<radius>1.5</radius>
+		<magV>14.5</magV>
 		<planet>
 			<name>Kepler-60 b</name>
 			<name>KOI-2086.01</name>
 			<name>KOI-2086 b</name>
 			<name>KIC 6768394 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0022" errorplus="0.0022">0.0129</mass>
-			<radius errorminus="0.050" errorplus="0.109">0.196</radius>
-			<period errorminus="0.0005" errorplus="0.0005">7.1320</period>
+			<mass errorminus="0.00164" errorplus="0.00176">0.01318</mass>
+			<radius errorminus="0.012" errorplus="0.012">0.153</radius>
+			<period errorminus="0.00010000" errorplus="0.00010000">7.13340000</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454902.035</transittime>
 			<semimajoraxis>0.07497</semimajoraxis>
 			<eccentricity>0.0108</eccentricity>
@@ -30,7 +31,7 @@
 			<meananomaly>-110.47</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 7.13 days for 4.1519 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/04/07</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -40,9 +41,9 @@
 			<name>KOI-2086 c</name>
 			<name>KIC 6768394 c</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0031" errorplus="0.0031">0.0151</mass>
-			<radius errorminus="0.054" errorplus="0.118">0.212</radius>
-			<period errorminus="0.0006" errorplus="0.0006">8.9177</period>
+			<mass errorminus="0.00255" errorplus="0.00255">0.01211</mass>
+			<radius errorminus="0.013" errorplus="0.013">0.170</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">8.91870000</period>
 			<transittime errorminus="0.009" errorplus="0.009" unit="BJD">2454906.075</transittime>
 			<semimajoraxis>0.08701</semimajoraxis>
 			<eccentricity>0.0291</eccentricity>
@@ -50,7 +51,7 @@
 			<meananomaly>-67.35</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 8.92 days for 4.4059 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/04/07</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>
@@ -60,9 +61,9 @@
 			<name>KOI-2086 d</name>
 			<name>KIC 6768394 d</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.0035" errorplus="0.0035">0.0120</mass>
-			<radius>0.232382</radius>
-			<period errorminus="0.001" errorplus="0.001">11.903</period>
+			<mass errorminus="0.00236" errorplus="0.00264">0.01309</mass>
+			<radius errorminus="0.014" errorplus="0.014">0.178</radius>
+			<period errorminus="0.00020000" errorplus="0.00020000">11.89810000</period>
 			<transittime errorminus="0.012" errorplus="0.012" unit="BJD">2454899.273</transittime>
 			<semimajoraxis>0.10548</semimajoraxis>
 			<eccentricity>0.0151</eccentricity>
@@ -70,7 +71,7 @@
 			<meananomaly>81.84</meananomaly>
 			<description>This planet candidate was discovered by the Kepler spacecraft. It transits its host star every 11.90 days for 2.9856 hours. Periodic transit timing variations confirm its planetary nature. The system lies close to a 3-body Laplace resonance.</description>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>15/11/16</lastupdate>
+			<lastupdate>16/04/07</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 			<istransiting>1</istransiting>
 		</planet>

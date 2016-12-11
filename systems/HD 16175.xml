@@ -1,31 +1,32 @@
 <system>
 	<name>HD 16175</name>
-	<rightascension>02 37 02</rightascension>
-	<declination>+42 03 45</declination>
+	<rightascension>2 36 61.9999920</rightascension>
+	<declination>42 3 45.0</declination>
 	<distance>59.8</distance>
 	<star>
-		<mass>1.35</mass>
-		<radius>1.87</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.35</mass>
+		<radius errorminus="0.04" errorplus="0.04">1.87</radius>
 		<magV>7.28</magV>
 		<magB errorminus="0.01" errorplus="0.01">7.92</magB>
-		<magJ errorminus="0.039" errorplus="0.039">6.166</magJ>
-		<magH errorminus="0.029" errorplus="0.029">5.922</magH>
-		<magK errorminus="0.021" errorplus="0.021">5.853</magK>
-		<metallicity>0.23</metallicity>
+		<magJ>6.17</magJ>
+		<magH>5.92</magH>
+		<magK>5.85</magK>
+		<metallicity errorminus="0.03" errorplus="0.03">0.37</metallicity>
 		<spectraltype>G0</spectraltype>
+		<name>HD 16175</name>
+		<temperature errorminus="34.0" errorplus="34.0">6022.0</temperature>
+		<age errorminus="1.0" errorplus="1.0">5.3</age>
 		<planet>
 			<name>HD 16175 b</name>
 			<list>Confirmed planets</list>
-			<mass>4.4</mass>
-			<period>990</period>
-			<semimajoraxis>2.1</semimajoraxis>
-			<eccentricity>0.59</eccentricity>
+			<mass errorminus="0.37000" errorplus="0.37000">4.77000</mass>
+			<period errorminus="2.80000000" errorplus="2.80000000">995.40000000</period>
+			<semimajoraxis errorminus="0.076000" errorplus="0.076000">2.148000</semimajoraxis>
+			<eccentricity errorminus="0.020000" errorplus="0.020000">0.637000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/21</lastupdate>
+			<lastupdate>16/05/19</lastupdate>
 			<discoveryyear>2007</discoveryyear>
 			<temperature>243.7</temperature>
 		</planet>
-		<name>HD 16175</name>
-		<temperature>6000.0</temperature>
 	</star>
 </system>

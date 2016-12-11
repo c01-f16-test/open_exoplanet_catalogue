@@ -2,8 +2,8 @@
 	<name>Kepler-81</name>
 	<name>KOI-877</name>
 	<name>KIC 7287995</name>
-	<rightascension>19 34 32</rightascension>
-	<declination>+42 49 29</declination>
+	<rightascension>19 32 152.871120</rightascension>
+	<declination>42 49 29.8919999</declination>
 	<distance>410.38</distance>
 	<star>
 		<magJ errorminus="0.021" errorplus="0.021">13.168</magJ>
@@ -12,22 +12,24 @@
 		<name>Kepler-81</name>
 		<name>KOI-877</name>
 		<name>KIC 7287995</name>
-		<temperature errorminus="16" errorplus="116">4500</temperature>
-		<radius errorminus=".029" errorplus="0.029">0.595</radius>
-		<mass errorminus="0.0280" errorplus="0.0280">0.6480</mass>
+		<temperature errorminus="65.0" errorplus="65.0">4391.0</temperature>
+		<radius errorminus="0.012" errorplus="0.012">0.578</radius>
+		<mass errorminus="0.028" errorplus="0.028">0.648</mass>
+		<magV>15.563</magV>
+		<metallicity>-0.2</metallicity>
 		<planet>
 			<name>Kepler-81 b</name>
 			<name>KOI-877 b</name>
 			<name>KOI-877.01</name>
 			<name>KIC 7287995 b</name>
 			<name>KIC 7287995.01</name>
-			<radius errorminus="0.01823" errorplus="0.01823">0.22874</radius>
-			<period errorminus=".000008" errorplus="0.000008">5.954880</period>
+			<radius errorminus="0.034" errorplus="0.034">0.216</radius>
+			<period>5.95500000</period>
 			<transittime errorminus="0.0007700" errorplus="0.0007700">2455003.9562800</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -37,13 +39,13 @@
 			<name>KOI-877.02</name>
 			<name>KIC 7287995 c</name>
 			<name>KIC 7287995.02</name>
-			<radius errorminus="0.01002" errorplus="0.01002">0.18317</radius>
-			<period errorminus=".000025" errorplus="0.000025">12.039956</period>
+			<radius errorminus="0.033" errorplus="0.033">0.211</radius>
+			<period>12.04000000</period>
 			<transittime errorminus="0.0011200" errorplus="0.0011200">2455014.2229200</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
 		</planet>
@@ -53,15 +55,16 @@
 			<name>KOI-877.03</name>
 			<name>KIC 7287995 d</name>
 			<name>KIC 7287995.03</name>
-			<radius errorminus="0.02461" errorplus="0.02461">0.11027</radius>
-			<period errorminus=".000181" errorplus="0.000181">20.837846</period>
+			<radius errorminus="0.024" errorplus="0.024">0.108</radius>
+			<period errorminus="0.00018100" errorplus="0.00018100">20.83784600</period>
 			<transittime errorminus="0.0053300" errorplus="0.0053300">2454965.0796300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-81 d has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-81 d are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.128000</semimajoraxis>
 		</planet>
 	</star>
 </system>

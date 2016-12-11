@@ -2,33 +2,36 @@
 	<name>Kepler-362</name>
 	<name>KOI-2147</name>
 	<name>KIC 10404582</name>
-	<rightascension>19 27 05</rightascension>
-	<declination>+47 31 47</declination>
+	<rightascension>19 23 245.192855</rightascension>
+	<declination>47 31 47.6508000</declination>
 	<distance>648.69</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">13.322</magJ>
 		<magH errorminus="0.022" errorplus="0.022">12.921</magH>
-		<magK errorminus="0.03" errorplus="0.03">12.78</magK>
+		<magK>12.784</magK>
 		<name>Kepler-362</name>
 		<name>KOI-2147</name>
 		<name>KIC 10404582</name>
 		<temperature errorminus="200" errorplus="200">5788</temperature>
-		<radius errorminus=".304" errorplus="0.304">0.722</radius>
+		<radius errorminus="0.3" errorplus="0.3">0.72</radius>
+		<mass>0.77</mass>
+		<metallicity>-0.718</metallicity>
 		<planet>
 			<name>Kepler-362 c</name>
 			<name>KOI-2147 c</name>
 			<name>KOI-2147.01</name>
 			<name>KIC 10404582 c</name>
 			<name>KIC 10404582.01</name>
-			<radius errorminus="0.05559" errorplus="0.05559">0.13214</radius>
-			<period errorminus=".000298" errorplus="0.000298">37.866281</period>
+			<radius errorminus="0.054" errorplus="0.054">0.129</radius>
+			<period errorminus="0.00029800" errorplus="0.00029800">37.86628100</period>
 			<transittime errorminus="0.0045200" errorplus="0.0045200">2454967.3578300</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-362 c has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-362 c are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.207000</semimajoraxis>
 		</planet>
 		<planet>
 			<name>Kepler-362 b</name>
@@ -36,15 +39,16 @@
 			<name>KOI-2147.02</name>
 			<name>KIC 10404582 b</name>
 			<name>KIC 10404582.02</name>
-			<radius errorminus="0.03463" errorplus="0.03463">0.08019</radius>
-			<period errorminus=".000101" errorplus="0.000101">10.327186</period>
+			<radius errorminus="0.034" errorplus="0.034">0.079</radius>
+			<period errorminus="0.00010100" errorplus="0.00010100">10.32718600</period>
 			<transittime errorminus="0.0057700" errorplus="0.0057700">2454972.3793000</transittime>
 			<list>Confirmed planets</list>
 			<description>Kepler-362 b has been discovered by the Kepler spacecraft and was originally classified as a planet candidate. A new statistical analysis led by a team at NASA Ames Research Center has validated the planet with more than 99 percent confidence. Although many parameters of Kepler-362 b are still unknown, the object is highly unlikely to be a false positive.</description>
 			<discoveryyear>2014</discoveryyear>
-			<lastupdate>14/02/26</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoverymethod>transit</discoverymethod>
 			<istransiting>1</istransiting>
+			<semimajoraxis>0.087000</semimajoraxis>
 		</planet>
 	</star>
 </system>

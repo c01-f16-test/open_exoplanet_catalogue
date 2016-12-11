@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1033</name>
-	<rightascension>18 55 23</rightascension>
-	<declination>+44 36 33</declination>
+	<rightascension>18 52 202.834080</rightascension>
+	<declination>44 36 32.7348000</declination>
+	<distance>1425.0</distance>
 	<star>
 		<name>Kepler-1033</name>
-		<temperature errorminus="66.5" errorplus="59.8">5547.0</temperature>
+		<temperature errorminus="66.49" errorplus="59.76">5547.0</temperature>
 		<mass errorminus="0.04" errorplus="0.04">0.94</mass>
 		<radius errorminus="0.06" errorplus="0.15">0.92</radius>
-		<metallicity errorminus="0.16" errorplus="0.15">0.06</metallicity>
+		<metallicity errorminus="0.156" errorplus="0.147">0.06</metallicity>
+		<magK>14.283</magK>
+		<magH>14.381</magH>
+		<magJ>14.684</magJ>
 		<planet>
 			<name>Kepler-1033 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000024050" errorplus="0.000024050">7.560528060</period>
+			<period errorminus="2.405e-05" errorplus="2.405e-05">7.56052806</period>
 			<radius errorminus="0.016" errorplus="0.037">0.224</radius>
 		</planet>
 	</star>

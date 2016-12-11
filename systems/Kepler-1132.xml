@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-1132</name>
-	<rightascension>19 05 28</rightascension>
-	<declination>+48 25 26</declination>
+	<rightascension>19 3 148.191119</rightascension>
+	<declination>48 25 26.1659999</declination>
+	<distance>940.0</distance>
 	<star>
 		<name>Kepler-1132</name>
-		<temperature errorminus="56.8" errorplus="54.2">5298.0</temperature>
+		<temperature errorminus="56.79" errorplus="54.24">5298.0</temperature>
 		<mass errorminus="0.05" errorplus="0.04">0.87</mass>
 		<radius errorminus="0.05" errorplus="0.06">0.83</radius>
-		<metallicity errorminus="0.17" errorplus="0.16">-0.01</metallicity>
+		<metallicity errorminus="0.17" errorplus="0.162">-0.01</metallicity>
+		<magK>13.633</magK>
+		<magH>13.791</magH>
+		<magJ>14.167</magJ>
 		<planet>
 			<name>Kepler-1132 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000452300" errorplus="0.000452300">62.891622800</period>
-			<radius errorminus="0.015" errorplus="0.017">0.210</radius>
+			<period errorminus="0.0004523" errorplus="0.0004523">62.8916228</period>
+			<radius errorminus="0.015" errorplus="0.017">0.21</radius>
 		</planet>
 	</star>
 </system>

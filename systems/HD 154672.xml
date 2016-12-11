@@ -1,31 +1,32 @@
 <system>
 	<name>HD 154672</name>
-	<rightascension>17 10 05</rightascension>
-	<declination>-56 26 57</declination>
+	<rightascension>17 7 184.999991</rightascension>
+	<declination>-56 26 57.0001199</declination>
 	<distance>65.8</distance>
 	<star>
-		<mass>1.06</mass>
-		<radius>1.27</radius>
+		<mass errorminus="0.09" errorplus="0.09">1.06</mass>
+		<radius errorminus="0.09" errorplus="0.09">1.27</radius>
 		<magV>8.22</magV>
 		<magB errorminus="0.02" errorplus="0.02">8.91</magB>
-		<magJ errorminus="0.029" errorplus="0.029">7.013</magJ>
-		<magH errorminus="0.046" errorplus="0.046">6.699</magH>
-		<magK errorminus="0.023" errorplus="0.023">6.612</magK>
-		<metallicity>0.26</metallicity>
+		<magJ>7.01</magJ>
+		<magH>6.7</magH>
+		<magK>6.61</magK>
+		<metallicity errorminus="0.04" errorplus="0.04">0.26</metallicity>
 		<spectraltype>G3IV</spectraltype>
+		<name>HD 154672</name>
+		<temperature errorminus="30.0" errorplus="30.0">5714.0</temperature>
+		<age errorminus="2.36" errorplus="2.36">9.28</age>
 		<planet>
 			<name>HD 154672 b</name>
 			<list>Confirmed planets</list>
-			<mass>5.02</mass>
-			<period>163.91</period>
-			<semimajoraxis>0.6</semimajoraxis>
-			<eccentricity>0.61</eccentricity>
+			<mass errorminus="0.32000" errorplus="0.32000">4.73000</mass>
+			<period errorminus="0.00900000" errorplus="0.00900000">163.96700000</period>
+			<semimajoraxis errorminus="0.020000" errorplus="0.020000">0.590000</semimajoraxis>
+			<eccentricity errorminus="0.004000" errorplus="0.004000">0.600000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/05/20</lastupdate>
+			<lastupdate>16/11/10</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>357.1</temperature>
 		</planet>
-		<name>HD 154672</name>
-		<temperature>5714.0</temperature>
 	</star>
 </system>

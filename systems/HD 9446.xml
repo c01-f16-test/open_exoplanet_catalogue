@@ -1,10 +1,10 @@
 <system>
 	<name>HD 9446</name>
-	<rightascension>01 33 20</rightascension>
-	<declination>+29 15 55</declination>
-	<distance>53</distance>
+	<rightascension>01h33m20.18s</rightascension>
+	<declination>+29d15m54.5s</declination>
+	<distance errorminus="3.14" errorplus="2.80">52.85</distance>
 	<star>
-		<mass>1</mass>
+		<mass errorminus="0.10" errorplus="0.10">1.00</mass>
 		<radius>1</radius>
 		<magV>8.35</magV>
 		<magB>9.03</magB>
@@ -15,31 +15,31 @@
 		<magK>6.85</magK>
 		<metallicity>0.09</metallicity>
 		<spectraltype>G5V</spectraltype>
+		<name>HD 9446</name>
+		<temperature errorminus="22.00" errorplus="22.00">5793.00</temperature>
 		<planet>
 			<name>HD 9446 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.7</mass>
-			<period>30.052</period>
-			<semimajoraxis>0.189</semimajoraxis>
-			<eccentricity>0.2</eccentricity>
+			<mass errorminus="0.06000" errorplus="0.06000">0.70000</mass>
+			<period errorminus="0.02700000" errorplus="0.02700000">30.05200000</period>
+			<semimajoraxis errorminus="0.006000" errorplus="0.006000">0.189000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.200000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
+			<lastupdate>16/03/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>586.1</temperature>
 		</planet>
 		<planet>
 			<name>HD 9446 c</name>
 			<list>Confirmed planets</list>
-			<mass>1.82</mass>
-			<period>192.9</period>
-			<semimajoraxis>0.654</semimajoraxis>
-			<eccentricity>0.06</eccentricity>
+			<mass errorminus="0.17000" errorplus="0.17000">1.82000</mass>
+			<period errorminus="0.90000000" errorplus="0.90000000">192.90000000</period>
+			<semimajoraxis errorminus="0.022000" errorplus="0.022000">0.654000</semimajoraxis>
+			<eccentricity errorminus="0.060000" errorplus="0.060000">0.060000</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>10/01/05</lastupdate>
+			<lastupdate>16/03/10</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>315.8</temperature>
 		</planet>
-		<name>HD 9446</name>
-		<temperature>5793.0</temperature>
 	</star>
 </system>

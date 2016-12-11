@@ -1,7 +1,7 @@
 <system>
 	<name>KOI-89</name>
-	<rightascension>19 59 17.084</rightascension>
-	<declination>+43 48 51.43</declination>
+	<rightascension>19 56 197.000001</rightascension>
+	<declination>43 48 51.0000983</declination>
 	<star>
 		<name>KOI-89</name>
 		<name>KIC 8056665</name>
@@ -11,7 +11,7 @@
 		<mass errorminus="0.256" errorplus="0.256">1.965</mass>
 		<radius errorminus="0.2" errorplus="0.2">2.3</radius>
 		<magB errorminus="0.10" errorplus="0.10">11.95</magB>
-		<magV>11.731</magV>
+		<magV>11.73</magV>
 		<magJ errorminus="0.027" errorplus="0.027">10.983</magJ>
 		<magH errorminus="0.029" errorplus="0.029">10.876</magH>
 		<magK errorminus="0.020" errorplus="0.020">10.851</magK>
@@ -19,7 +19,7 @@
 			<name>KOI-89.01</name>
 			<period>84.69</period>
 			<radius errorminus="0.03" errorplus="0.03">0.45</radius>
-			<eccentricity lowerlimit="0.056" />
+			<eccentricity lowerlimit="0.056"/>
 			<inclination errorminus="0.05" errorplus="0.05">89.340</inclination>
 			<transittime errorminus="0.0046" errorplus="0.0046">2455237.6389</transittime>
 			<spinorbitalignment errorminus="11" errorplus="11">-32</spinorbitalignment>
@@ -34,7 +34,7 @@
 			<name>KOI-89.02</name>
 			<period>207.58</period>
 			<radius errorminus="0.05" errorplus="0.05">0.43</radius>
-			<eccentricity lowerlimit="0.50" />
+			<eccentricity lowerlimit="0.50"/>
 			<inclination errorminus="0.06" errorplus="0.06">90.64</inclination>
 			<transittime errorminus="0.0081" errorplus="0.0081">2455122.8310</transittime>
 			<spinorbitalignment errorminus="40" errorplus="40">-32</spinorbitalignment>
@@ -44,6 +44,28 @@
 			<lastupdate>15/10/30</lastupdate>
 			<list>Confirmed planets</list>
 			<istransiting>1</istransiting>
+		</planet>
+		<planet>
+			<inclination errorminus="0.05" errorplus="0.05">89.34</inclination>
+			<radius errorminus="0.03" errorplus="0.03">0.45</radius>
+			<period>84.69</period>
+			<eccentricity errorminus="0.019" errorplus="0.019">0.056</eccentricity>
+			<lastupdate>16/05/24</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+			<discoverymethod>transit</discoverymethod>
+			<name>KOI-89 b</name>
+			<name>Kepler-462 b</name>
+		</planet>
+		<planet>
+			<inclination errorminus="0.06" errorplus="0.06">90.64</inclination>
+			<radius errorminus="0.05" errorplus="0.05">0.43</radius>
+			<period>207.58</period>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.5</eccentricity>
+			<lastupdate>16/05/24</lastupdate>
+			<discoveryyear>2015</discoveryyear>
+			<discoverymethod>transit</discoverymethod>
+			<name>KOI-89 c</name>
+			<name>Kepler-462 c</name>
 		</planet>
 	</star>
 </system>

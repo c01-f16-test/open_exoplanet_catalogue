@@ -27,6 +27,7 @@
 				<name>TYC 7522-505-1 b</name>
 				<name>2MASS J23593607-3501530 b</name>
 				<list>Confirmed planets</list>
+				<list>Planets in binary systems, S-type</list>
 				<mass>2.244</mass>
 				<radius>1.038</radius>
 				<period>8.158715</period>
@@ -39,7 +40,6 @@
 				<discoveryyear>2008</discoveryyear>
 				<temperature>846.5</temperature>
 				<istransiting>1</istransiting>
-				<list>Planets in binary systems, S-type</list>
 			</planet>
 		</star>
 		<star>

@@ -1,30 +1,33 @@
 <system>
 	<name>HD 171238</name>
-	<rightascension>18 34 44</rightascension>
-	<declination>-28 04 20</declination>
-	<distance>50.28</distance>
+	<rightascension>18 32 163.999992</rightascension>
+	<declination>-28 4 19.9999200</declination>
+	<distance errorminus="2.91" errorplus="2.91">50.28</distance>
 	<star>
-		<mass>0.943</mass>
+		<mass errorminus="0.033" errorplus="0.033">0.943</mass>
 		<magV>8.66</magV>
 		<magB errorminus="0.03" errorplus="0.03">9.41</magB>
 		<magJ errorminus="0.019" errorplus="0.019">7.244</magJ>
 		<magH errorminus="0.023" errorplus="0.023">6.868</magH>
 		<magK errorminus="0.017" errorplus="0.017">6.831</magK>
-		<metallicity>0.17</metallicity>
+		<metallicity errorminus="0.007" errorplus="0.007">0.17</metallicity>
 		<spectraltype>KOV</spectraltype>
+		<name>HD 171238</name>
+		<temperature errorminus="55.0" errorplus="55.0">5467.0</temperature>
+		<age errorminus="4.11" errorplus="4.11">4.92</age>
 		<planet>
 			<name>HD 171238 b</name>
 			<list>Confirmed planets</list>
-			<mass>2.6</mass>
-			<period>1523</period>
-			<semimajoraxis>2.54</semimajoraxis>
-			<eccentricity>0.4</eccentricity>
+			<mass errorminus="0.15" errorplus="0.15">2.6</mass>
+			<period errorminus="45.0" errorplus="45.0">1523.0</period>
+			<semimajoraxis errorminus="0.06" errorplus="0.06">2.54</semimajoraxis>
+			<eccentricity errorminus="0.065" errorplus="0.065">0.4</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/08/12</lastupdate>
+			<lastupdate>14/12/19</lastupdate>
 			<discoveryyear>2009</discoveryyear>
 			<temperature>152.4</temperature>
+			<periastrontime errorminus="20.0" errorplus="20.0">5062.0</periastrontime>
+			<periastron errorminus="9.8" errorplus="9.8">47.0</periastron>
 		</planet>
-		<name>HD 171238</name>
-		<temperature>5467.0</temperature>
 	</star>
 </system>

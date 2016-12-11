@@ -1,24 +1,28 @@
 <system>
 	<name>Kepler-818</name>
-	<rightascension>19 44 56</rightascension>
-	<declination>+39 22 13</declination>
+	<rightascension>19 44 56.4252000</rightascension>
+	<declination>39 22 13.2347999</declination>
+	<distance>967.0</distance>
 	<star>
 		<name>Kepler-818</name>
-		<temperature errorminus="111.0" errorplus="214.1">5638.0</temperature>
+		<temperature errorminus="110.99" errorplus="214.12">5638.0</temperature>
 		<mass errorminus="0.06" errorplus="0.07">0.94</mass>
 		<radius errorminus="0.08" errorplus="0.14">0.92</radius>
-		<metallicity errorminus="0.18" errorplus="0.15">-0.08</metallicity>
+		<metallicity errorminus="0.181" errorplus="0.149">-0.08</metallicity>
+		<magK>13.448</magK>
+		<magH>13.476</magH>
+		<magJ>13.882</magJ>
 		<planet>
 			<name>Kepler-818 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000006590" errorplus="0.000006590">10.035385810</period>
-			<radius errorminus="0.038" errorplus="0.070">0.456</radius>
+			<period errorminus="6.59e-06" errorplus="6.59e-06">10.03538581</period>
+			<radius errorminus="0.038" errorplus="0.07">0.456</radius>
 		</planet>
 	</star>
 </system>

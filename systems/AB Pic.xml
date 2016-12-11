@@ -1,8 +1,8 @@
 <system>
 	<name>AB Pic</name>
-	<rightascension>06 19 12</rightascension>
-	<declination>-58 03 15</declination>
-	<distance errorminus="1.7" errorplus="1.8">45.5</distance>
+	<rightascension>06h19m12.91s</rightascension>
+	<declination>-58d03m15.5s</declination>
+	<distance errorminus="1.76" errorplus="1.64">45.52</distance>
 	<star>
 		<magV>9.16</magV>
 		<magB errorminus="0.03" errorplus="0.03">10.01</magB>
@@ -13,24 +13,22 @@
 		<magK errorminus="0.024" errorplus="0.024">6.981</magK>
 		<metallicity>-0.64</metallicity>
 		<spectraltype>K2 V</spectraltype>
+		<name>AB Pic</name>
+		<temperature>4875.0</temperature>
 		<planet>
 			<name>AB Pic b</name>
 			<list>Confirmed planets</list>
-			<mass lowerlimit="10" upperlimit="14">12</mass>
+			<mass errorminus="0.50000" errorplus="0.50000">13.50000</mass>
 			<temperature errorminus="100" errorplus="100">1750</temperature>
 			<radius lowerlimit="1.5" upperlimit="1.6">1.55</radius>
 			<separation errorminus="0.014" errorplus="0.014" unit="arcsec">5.450</separation>
 			<separation unit="AU">260</separation>
-			<positionangle errorminus="0.20" errorplus="0.20">175.30</positionangle>
 			<spectraltype>L0-1</spectraltype>
 			<description>AB Pictoris is a star in the constellation of Pictor. Because of its high mass, the companion could be a planet or a brown dwarf.</description>
 			<discoverymethod>imaging</discoverymethod>
-			<lastupdate>10/12/06</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2005</discoveryyear>
-			<image>AB Pic</image>
-			<imagedescription>This is a coronagraphic image of AB Pictoris. A planetary companion is visible on the lower left. It was obtained with NACO on the VLT with an occulting mask on top of AB Pictoris. Credit: ESO.</imagedescription>
+			<semimajoraxis>260.000000</semimajoraxis>
 		</planet>
-		<name>AB Pic</name>
-		<temperature>4875.0</temperature>
 	</star>
 </system>

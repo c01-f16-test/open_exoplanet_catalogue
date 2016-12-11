@@ -1,7 +1,7 @@
 <system>
 	<name>WTS-2</name>
-	<rightascension>19 34 56</rightascension>
-	<declination>+36 48 56</declination>
+	<rightascension>19 32 176.000004</rightascension>
+	<declination>36 48 56.0001023</declination>
 	<distance>1000</distance>
 	<star>
 		<magJ errorminus="0.025" errorplus="0.025">13.928</magJ>
@@ -13,11 +13,11 @@
 		<name>WISE J193455.86+364855.6</name>
 		<name>KIC 1173581</name>
 		<mass errorminus="0.082" errorplus="0.082">0.82</mass>
-		<radius errorminus="0.032" errorplus="0.032">0.752</radius>
+		<radius errorminus="0.033" errorplus="0.033">0.761</radius>
 		<temperature errorminus="250" errorplus="250">5000</temperature>
-		<age lowerlimit="0.6" />
-		<metallicity errorminus="0.2" errorplus="0.3">0.2</metallicity>
-		<spectraltype>K2V</spectraltype>
+		<age>0.6</age>
+		<metallicity errorminus="0.3" errorplus="0.3">0.2</metallicity>
+		<spectraltype>K3V</spectraltype>
 		<planet>
 			<name>WTS-2 b</name>
 			<name>2MASS 19345587+3648557 b</name>
@@ -25,18 +25,19 @@
 			<name>WISE J193455.86+364855.6 b</name>
 			<name>KIC 1173581 b</name>
 			<list>Confirmed planets</list>
-			<mass errorminus="0.016" errorplus="0.016">1.12</mass>
+			<mass errorminus="0.16000" errorplus="0.16000">1.12000</mass>
 			<radius errorminus="0.061" errorplus="0.061">1.363</radius>
 			<temperature errorminus="100" errorplus="100">2000</temperature>
-			<period errorminus="0.00000065" errorplus="0.00000065">1.0187068</period>
-			<semimajoraxis errorminus="0.00062" errorplus="0.00062">0.01855</semimajoraxis>
-			<inclination errorminus="0.53" errorplus="0.53">83.55</inclination>
+			<period errorminus="0.00000065" errorplus="0.00000065">1.01870680</period>
+			<semimajoraxis errorminus="0.000620" errorplus="0.000620">0.018550</semimajoraxis>
+			<inclination errorminus="0.530" errorplus="0.530">83.550</inclination>
 			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454317.81333</transittime>
 			<description>WTS-2 b is an unusually close hot Jupiter on a 1.02-day orbit around a K2V star. The planet is close to the tidal destruction radius of the star and has a predicted remaining lifetime of only 40 million years.</description>
-			<discoverymethod>RV</discoverymethod>
-			<lastupdate>14/02/25</lastupdate>
+			<discoverymethod>transit</discoverymethod>
+			<lastupdate>15/04/24</lastupdate>
 			<discoveryyear>2014</discoveryyear>
 			<istransiting>1</istransiting>
+			<eccentricity>0.000000</eccentricity>
 		</planet>
 	</star>
 </system>

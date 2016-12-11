@@ -1,37 +1,38 @@
 <system>
 	<name>WASP-6</name>
-	<rightascension>23 12 38</rightascension>
-	<declination>-22 40 26</declination>
+	<rightascension>23 11 97.9999919</rightascension>
+	<declination>-22 40 26.0000399</declination>
 	<distance>307</distance>
 	<star>
-		<mass>0.888</mass>
-		<radius>0.87</radius>
+		<mass errorminus="0.08" errorplus="0.08">0.888</mass>
+		<radius errorminus="0.036" errorplus="0.036">0.87</radius>
 		<magV>12.4</magV>
 		<magR>11.9</magR>
 		<magB errorminus="0.35" errorplus="0.35">12.90</magB>
 		<magJ errorminus="0.026" errorplus="0.026">10.769</magJ>
 		<magH errorminus="0.025" errorplus="0.025">10.445</magH>
 		<magK errorminus="0.025" errorplus="0.025">10.325</magK>
-		<metallicity>-0.2</metallicity>
+		<metallicity errorminus="0.09" errorplus="0.09">-0.2</metallicity>
 		<spectraltype>G8</spectraltype>
+		<name>WASP-6</name>
+		<temperature errorminus="100.0" errorplus="100.0">5450.0</temperature>
+		<age errorminus="7.0" errorplus="7.0">11.0</age>
 		<planet>
 			<name>WASP-6 b</name>
 			<name>2MASS J23123773-2240261 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.503</mass>
-			<radius>1.224</radius>
-			<period>3.361006</period>
-			<semimajoraxis>0.0421</semimajoraxis>
-			<eccentricity>0.054</eccentricity>
-			<inclination>88.47</inclination>
+			<mass errorminus="0.02700" errorplus="0.02700">0.48500</mass>
+			<radius errorminus="0.035" errorplus="0.035">1.230</radius>
+			<period errorminus="0.00000031" errorplus="0.00000031">3.36100208</period>
+			<semimajoraxis errorminus="0.001000" errorplus="0.001000">0.041400</semimajoraxis>
+			<eccentricity errorminus="0.015000" errorplus="0.018000">0.054000</eccentricity>
+			<inclination errorminus="0.310" errorplus="0.310">88.380</inclination>
 			<transittime errorminus="0.00010" errorplus="0.00015" unit="BJD">2454596.43341</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>12/04/08</lastupdate>
+			<lastupdate>15/04/16</lastupdate>
 			<discoveryyear>2008</discoveryyear>
 			<temperature>1092.2</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-6</name>
-		<temperature>5450.0</temperature>
 	</star>
 </system>

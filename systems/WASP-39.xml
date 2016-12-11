@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-39</name>
-	<rightascension>14 29 18</rightascension>
-	<declination>-03 26 40</declination>
-	<distance>230</distance>
+	<rightascension>14h29m18.41s</rightascension>
+	<declination>-03d26m40.3s</declination>
+	<distance errorminus="80.00" errorplus="80.00">230.00</distance>
 	<star>
-		<mass>0.93</mass>
-		<radius>0.895</radius>
+		<mass errorplus="0.03">0.93</mass>
+		<radius errorplus="0.02">0.90</radius>
 		<magV>12.11</magV>
 		<magB errorminus="0.25" errorplus="0.25">12.93</magB>
 		<magR errorminus="0.14" errorplus="0.14">12.17</magR>
@@ -15,24 +15,24 @@
 		<magK errorminus="0.023" errorplus="0.023">10.202</magK>
 		<metallicity>-0.12</metallicity>
 		<spectraltype>G8</spectraltype>
+		<name>WASP-39</name>
+		<temperature errorplus="150.00">5400.00</temperature>
 		<planet>
 			<name>WASP-39 b</name>
 			<name>2MASS J14291840-0326403 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.28</mass>
-			<radius>1.27</radius>
-			<period>4.055259</period>
-			<semimajoraxis>0.0486</semimajoraxis>
-			<eccentricity>0.0</eccentricity>
-			<inclination>87.83</inclination>
+			<mass errorminus="0.03000" errorplus="0.03000">0.28000</mass>
+			<radius errorminus="0.040" errorplus="0.040">1.270</radius>
+			<period errorminus="0.00000900" errorplus="0.00000900">4.05525900</period>
+			<semimajoraxis errorminus="0.000500" errorplus="0.000500">0.048600</semimajoraxis>
+			<eccentricity>0.000000</eccentricity>
+			<inclination errorminus="0.220" errorplus="0.250">87.830</inclination>
 			<transittime errorminus="0.0002" errorplus="0.0002" unit="BJD">2455342.9696</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>11/09/08</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2011</discoveryyear>
 			<temperature>1021.8</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-39</name>
-		<temperature>5400.0</temperature>
 	</star>
 </system>

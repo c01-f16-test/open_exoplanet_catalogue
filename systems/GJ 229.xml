@@ -24,7 +24,6 @@
 			<name>SAO 171334</name>
 			<name>TYC 5945-765-1</name>
 			<name>2MASS J06103462-2151521</name>
-			<magU>10.801</magU>
 			<magB>9.607</magB>
 			<magV>8.125</magV>
 			<magR>7.164</magR>
@@ -49,8 +48,8 @@
 				<discoveryyear>2014</discoveryyear>
 				<description>This planet is in a binary system comprising the red dwarf star GJ 229 A and the brown dwarf GJ 229 B, which was the first identified methane brown dwarf. The planet candidate orbiting GJ 229 A was identified by Bayesian analysis of 73 UVES and 17 HARPS radial velocity measurements.</description>
 				<list>Controversial</list>
-				<lastupdate>15/04/21</lastupdate>
 				<list>Planets in binary systems, S-type</list>
+				<lastupdate>15/04/21</lastupdate>
 			</planet>
 		</star>
 		<star>
@@ -62,7 +61,7 @@
 			<magH errorminus="0.05" errorplus="0.05">14.36</magH>
 			<magK errorminus="0.05" errorplus="0.05">14.36</magK>
 			<spectraltype>T6</spectraltype>
-			<mass lowerlimit="0.04" upperlimit="0.055" />
+			<mass lowerlimit="0.04" upperlimit="0.055"/>
 			<temperature>1000</temperature>
 		</star>
 	</binary>

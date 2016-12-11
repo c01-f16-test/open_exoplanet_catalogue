@@ -1,7 +1,7 @@
 <system>
 	<name>HD 175607</name>
-	<rightascension>19 01 05.49</rightascension>
-	<declination>-66 11 33.65</declination>
+	<rightascension>19 0 65.0000004</rightascension>
+	<declination>-66 11 34.0000403</declination>
 	<distance errorminus="2.07" errorplus="2.07">45.27</distance>
 	<star>
 		<name>HD 175607</name>
@@ -11,7 +11,7 @@
 		<name>CPD-66 3406</name>
 		<name>2MASS J19010548-6611336</name>
 		<magB>9.31</magB>
-		<magV>8.61</magV>
+		<magV>8.6</magV>
 		<magJ errorminus="0.020" errorplus="0.020">7.280</magJ>
 		<magH errorminus="0.026" errorplus="0.026">6.928</magH>
 		<magK errorminus="0.057" errorplus="0.057">6.881</magK>
@@ -19,19 +19,19 @@
 		<temperature errorminus="17" errorplus="17">5392</temperature>
 		<metallicity errorminus="0.01" errorplus="0.01">-0.62</metallicity>
 		<mass errorminus="0.01" errorplus="0.01">0.71</mass>
-		<radius errorminus="0.01" errorplus="0.01">0.70</radius>
+		<radius errorminus="0.03" errorplus="0.03">0.71</radius>
 		<age errorminus="1.58" errorplus="1.58">10.32</age>
 		<planet>
 			<name>HD 175607 b</name>
-			<period errorminus="1.10" errorplus="1.10">8.98</period>
-			<mass errorminus="0.0035" errorplus="0.0035" type="msini">0.0283</mass>
-			<eccentricity errorminus="0.07" errorplus="0.09">0.11</eccentricity>
-			<periastron errorminus="52" errorplus="52">142</periastron>
-			<periastrontime errorminus="4.18" errorplus="4.15" unit="BJD">2455532.17</periastrontime>
+			<period errorminus="0.02" errorplus="0.02">29.01</period>
+			<mass errorminus="0.0035" errorplus="0.0035">0.0283</mass>
+			<eccentricity errorminus="0.09" errorplus="0.09">0.11</eccentricity>
+			<periastron errorminus="52.0" errorplus="52.0">142.2</periastron>
+			<periastrontime errorminus="4.18" errorplus="4.18">2455532.17</periastrontime>
 			<discoverymethod>RV</discoverymethod>
 			<discoveryyear>2015</discoveryyear>
 			<description>HD 175607 b is a sub-Neptune planet orbiting a metal-poor star.</description>
-			<lastupdate>15/11/15</lastupdate>
+			<lastupdate>15/12/30</lastupdate>
 			<list>Confirmed planets</list>
 		</planet>
 		<planet>

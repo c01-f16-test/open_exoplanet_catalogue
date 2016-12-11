@@ -12,6 +12,8 @@
 		<magH errorminus="0.027" errorplus="0.027">5.207</magH>
 		<magK errorminus="0.026" errorplus="0.026">5.098</magK>
 		<spectraltype>G0.5V</spectraltype>
+		<name>HD 215456</name>
+		<temperature>5940.0</temperature>
 		<planet>
 			<name>HD 215456 b</name>
 			<list>Confirmed planets</list>
@@ -38,7 +40,5 @@
 			<discoveryyear>2011</discoveryyear>
 			<temperature>178.5</temperature>
 		</planet>
-		<name>HD 215456</name>
-		<temperature>5940.0</temperature>
 	</star>
 </system>

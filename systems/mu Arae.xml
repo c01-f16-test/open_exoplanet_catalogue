@@ -1,22 +1,24 @@
 <system>
 	<name>mu Arae</name>
-	<rightascension>17 44 08</rightascension>
-	<declination>-51 50 02</declination>
+	<rightascension>17 44 7.99999200</rightascension>
+	<declination>-51 50 2.00004000</declination>
 	<distance>15.3</distance>
 	<star>
 		<name>mu Arae</name>
 		<name>mu Ara</name>
 		<name>HD 160691</name>
 		<name>HR 6585</name>
-		<mass>1.08</mass>
-		<radius>1.245</radius>
+		<mass errorminus="0.05" errorplus="0.05">1.08</mass>
+		<radius errorminus="0.255" errorplus="0.255">1.245</radius>
 		<magV>5.15</magV>
 		<magB>5.85</magB>
 		<magJ errorminus="0.28" errorplus="0.28">4.16</magJ>
 		<magH errorminus="0.21" errorplus="0.21">3.72</magH>
 		<magK errorminus="0.25" errorplus="0.25">3.68</magK>
-		<metallicity>0.28</metallicity>
+		<metallicity errorminus="0.04" errorplus="0.04">0.28</metallicity>
 		<spectraltype>G3 IV-V</spectraltype>
+		<temperature errorminus="100.0" errorplus="100.0">5700.0</temperature>
+		<age>6.41</age>
 		<planet>
 			<name>mu Arae b</name>
 			<name>mu Ara b</name>
@@ -24,13 +26,15 @@
 			<name>HR 6585 b</name>
 			<list>Confirmed planets</list>
 			<mass>1.676</mass>
-			<period>643.25</period>
-			<semimajoraxis>1.5</semimajoraxis>
-			<eccentricity>0.128</eccentricity>
+			<period errorminus="0.9" errorplus="0.9">643.25</period>
+			<semimajoraxis errorminus="0.02" errorplus="0.02">1.5</semimajoraxis>
+			<eccentricity errorminus="0.017" errorplus="0.017">0.128</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/02</lastupdate>
+			<lastupdate>15/05/05</lastupdate>
 			<discoveryyear>2000</discoveryyear>
 			<temperature>228.7</temperature>
+			<periastrontime errorminus="12.6" errorplus="12.6">2452365.6</periastrontime>
+			<periastron errorminus="7.0" errorplus="7.0">22.0</periastron>
 		</planet>
 		<planet>
 			<name>mu Arae c</name>
@@ -39,13 +43,15 @@
 			<name>HR 6585 c</name>
 			<list>Confirmed planets</list>
 			<mass>0.03321</mass>
-			<period>9.6386</period>
+			<period errorminus="0.0015" errorplus="0.0015">9.6386</period>
 			<semimajoraxis>0.09094</semimajoraxis>
-			<eccentricity>0.172</eccentricity>
+			<eccentricity errorminus="0.04" errorplus="0.04">0.172</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/02</lastupdate>
+			<lastupdate>15/05/05</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>928.2</temperature>
+			<periastrontime errorminus="0.4" errorplus="0.4">2452991.1</periastrontime>
+			<periastron errorminus="13.3" errorplus="13.3">212.7</periastron>
 		</planet>
 		<planet>
 			<name>mu Arae d</name>
@@ -54,13 +60,15 @@
 			<name>HR 6585 d</name>
 			<list>Confirmed planets</list>
 			<mass>0.5219</mass>
-			<period>310.55</period>
+			<period errorminus="0.83" errorplus="0.83">310.55</period>
 			<semimajoraxis>0.921</semimajoraxis>
-			<eccentricity>0.0666</eccentricity>
+			<eccentricity errorminus="0.0122" errorplus="0.0122">0.0666</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/02</lastupdate>
+			<lastupdate>15/05/05</lastupdate>
 			<discoveryyear>2004</discoveryyear>
 			<temperature>292.1</temperature>
+			<periastrontime errorminus="8.3" errorplus="8.3">2452708.7</periastrontime>
+			<periastron errorminus="9.4" errorplus="9.4">189.6</periastron>
 		</planet>
 		<planet>
 			<name>mu Arae e</name>
@@ -69,14 +77,15 @@
 			<name>HR 6585 e</name>
 			<list>Confirmed planets</list>
 			<mass>1.814</mass>
-			<period>4205.8</period>
+			<period errorminus="758.9" errorplus="758.9">4205.8</period>
 			<semimajoraxis>5.235</semimajoraxis>
-			<eccentricity>0.0985</eccentricity>
+			<eccentricity errorminus="0.0627" errorplus="0.0627">0.0985</eccentricity>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>09/04/02</lastupdate>
+			<lastupdate>15/05/05</lastupdate>
 			<discoveryyear>2006</discoveryyear>
 			<temperature>122.5</temperature>
+			<periastrontime errorminus="521.8" errorplus="521.8">2452955.2</periastrontime>
+			<periastron errorminus="43.7" errorplus="43.7">57.6</periastron>
 		</planet>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

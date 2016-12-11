@@ -1,11 +1,11 @@
 <system>
 	<name>WASP-34</name>
-	<rightascension>11 01 36</rightascension>
-	<declination>-23 51 38</declination>
-	<distance>120</distance>
+	<rightascension>11h01m35.89s</rightascension>
+	<declination>-23d51m38.3s</declination>
+	<distance errorminus="15.00" errorplus="15.00">120.00</distance>
 	<star>
-		<mass>1.01</mass>
-		<radius>0.93</radius>
+		<mass errorplus="0.07">1.01</mass>
+		<radius errorplus="0.12">0.93</radius>
 		<magV>10.4</magV>
 		<magB errorminus="0.09" errorplus="0.09">11.05</magB>
 		<magR errorminus="0.03" errorplus="0.03">10.21</magR>
@@ -15,25 +15,25 @@
 		<magK errorminus="0.021" errorplus="0.021">8.792</magK>
 		<metallicity>-0.02</metallicity>
 		<spectraltype>G5</spectraltype>
+		<name>WASP-34</name>
+		<temperature errorplus="100.00">5700.00</temperature>
 		<planet>
 			<name>WASP-34 b</name>
 			<name>TYC 6636-00540-1 b</name>
 			<name>2MASS J11013589-2351382 b</name>
 			<list>Confirmed planets</list>
-			<mass>0.59</mass>
-			<radius>1.22</radius>
-			<period>4.3176782</period>
-			<semimajoraxis>0.0524</semimajoraxis>
-			<eccentricity>0.038</eccentricity>
-			<inclination>85.2</inclination>
+			<mass errorminus="0.01000" errorplus="0.01000">0.59000</mass>
+			<radius errorminus="0.080" errorplus="0.110">1.220</radius>
+			<period errorminus="0.00000450" errorplus="0.00000450">4.31767820</period>
+			<semimajoraxis errorminus="0.000400" errorplus="0.000400">0.052400</semimajoraxis>
+			<eccentricity errorminus="0.012000" errorplus="0.012000">0.038000</eccentricity>
+			<inclination errorminus="0.200" errorplus="0.200">85.200</inclination>
 			<transittime errorminus="0.00064" errorplus="0.00064" unit="BJD">2454647.55434</transittime>
 			<discoverymethod>transit</discoverymethod>
-			<lastupdate>10/12/13</lastupdate>
+			<lastupdate>14/05/14</lastupdate>
 			<discoveryyear>2010</discoveryyear>
 			<temperature>1058.7</temperature>
 			<istransiting>1</istransiting>
 		</planet>
-		<name>WASP-34</name>
-		<temperature>5700.0</temperature>
 	</star>
 </system>

@@ -14,6 +14,8 @@
 		<magK errorminus="0.021" errorplus="0.021">5.623</magK>
 		<metallicity>-0.22</metallicity>
 		<spectraltype>M1.5</spectraltype>
+		<name>Gliese 433</name>
+		<temperature>3600.0</temperature>
 		<planet>
 			<name>Gliese 433 b</name>
 			<name>GJ 433 b</name>
@@ -44,7 +46,5 @@
 			<lastupdate>14/03/18</lastupdate>
 			<discoveryyear>2012</discoveryyear>
 		</planet>
-		<name>Gliese 433</name>
-		<temperature>3600.0</temperature>
 	</star>
 </system>

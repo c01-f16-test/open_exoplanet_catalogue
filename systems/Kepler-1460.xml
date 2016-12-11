@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-1460</name>
-	<rightascension>19 02 14</rightascension>
-	<declination>+44 00 39</declination>
+	<rightascension>19 0 133.87104</rightascension>
+	<declination>44 0 38.8368000</declination>
+	<distance>574.0</distance>
 	<star>
 		<name>Kepler-1460</name>
-		<temperature errorminus="45.0" errorplus="43.6">4422.0</temperature>
-		<mass errorminus="0.05" errorplus="0.03">0.70</mass>
+		<temperature errorminus="45.02" errorplus="43.62">4422.0</temperature>
+		<mass errorminus="0.05" errorplus="0.03">0.7</mass>
 		<radius errorminus="0.04" errorplus="0.02">0.67</radius>
-		<metallicity errorminus="0.17" errorplus="0.18">-0.02</metallicity>
+		<metallicity errorminus="0.172" errorplus="0.18">-0.02</metallicity>
+		<magK>13.359</magK>
+		<magH>13.449</magH>
+		<magJ>14.093</magJ>
 		<planet>
 			<name>Kepler-1460 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000218600" errorplus="0.000218600">29.963324700</period>
+			<period errorminus="0.0002186" errorplus="0.0002186">29.9633247</period>
 			<radius errorminus="0.012" errorplus="0.012">0.175</radius>
 		</planet>
 	</star>

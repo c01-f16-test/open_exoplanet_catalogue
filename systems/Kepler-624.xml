@@ -1,23 +1,27 @@
 <system>
 	<name>Kepler-624</name>
-	<rightascension>19 40 46</rightascension>
-	<declination>+39 32 23</declination>
+	<rightascension>19 40 46.4133600</rightascension>
+	<declination>39 32 22.8371999</declination>
+	<distance>731.0</distance>
 	<star>
 		<name>Kepler-624</name>
-		<temperature errorminus="63.3" errorplus="70.7">6117.0</temperature>
-		<mass errorminus="0.06" errorplus="0.05">1.10</mass>
+		<temperature errorminus="63.28" errorplus="70.67">6117.0</temperature>
+		<mass errorminus="0.06" errorplus="0.05">1.1</mass>
 		<radius errorminus="0.11" errorplus="0.17">1.18</radius>
-		<metallicity errorminus="0.11" errorplus="0.10">-0.06</metallicity>
+		<metallicity errorminus="0.114" errorplus="0.104">-0.06</metallicity>
+		<magK>12.205</magK>
+		<magH>12.195</magH>
+		<magJ>12.514</magJ>
 		<planet>
 			<name>Kepler-624 b</name>
 			<discoverymethod>transit</discoverymethod>
 			<list>Confirmed planets</list>
 			<discoveryyear>2016</discoveryyear>
-			<lastupdate>16/05/10</lastupdate>
+			<lastupdate>16/05/12</lastupdate>
 			<istransiting>1</istransiting>
 			<new>1</new>
 			<description>This planet was discovered by the NASA Kepler spacecraft and is part of the May 10th 2016 data release. Although not many details are known about this particular system yet, it has a very low probability of being a false positive.</description>
-			<period errorminus="0.000028760" errorplus="0.000028760">14.586496070</period>
+			<period errorminus="2.876e-05" errorplus="2.876e-05">14.58649607</period>
 			<radius errorminus="0.021" errorplus="0.029">0.206</radius>
 		</planet>
 	</star>

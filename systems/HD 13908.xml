@@ -1,12 +1,12 @@
 <system>
 	<name>HD 13908</name>
-	<rightascension>02 18 14.56056</rightascension>
-	<declination>+65 35 39.6988</declination>
-	<distance errorminus="3.5" errorplus="3.5">71.3</distance>
+	<rightascension>2 15 195.000001</rightascension>
+	<declination>65 35 40.0000740</declination>
+	<distance errorminus="3.5" errorplus="3.5">71.2</distance>
 	<star>
 		<name>HD 13908</name>
 		<mass errorminus="0.04" errorplus="0.04">1.29</mass>
-		<radius errorminus="0.1" errorplus="0.1">1.67</radius>
+		<radius errorminus="0.10" errorplus="0.10">1.67</radius>
 		<temperature errorminus="66" errorplus="66">6255</temperature>
 		<age errorminus="0.4" errorplus="0.4">2.9</age>
 		<magV errorminus="0.01" errorplus="0.01">7.51</magV>
@@ -25,9 +25,10 @@
 			<eccentricity errorminus="0.022" errorplus="0.022">0.046</eccentricity>
 			<periastron errorminus="43" errorplus="43">185</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/11/22</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>HD 13908 b is a Hot Jupiter with an orbital period of 19 days. There is another planet in the system with a perdio of over 900 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+			<periastrontime errorminus="0.18" errorplus="0.18">2455750.93</periastrontime>
 		</planet>
 		<planet>
 			<name>HD 13908 c</name>
@@ -38,9 +39,10 @@
 			<eccentricity errorminus="0.02" errorplus="0.02">0.12</eccentricity>
 			<periastron errorminus="11" errorplus="11">185</periastron>
 			<discoverymethod>RV</discoverymethod>
-			<lastupdate>13/11/22</lastupdate>
+			<lastupdate>14/08/25</lastupdate>
 			<discoveryyear>2013</discoveryyear>
 			<description>HD 13908 c is a planet with 5 times the mass of our Jupiter. The system HD 13908 also hosts a hot Jupiter with an orbital period of 19 days. The system was discovered with the SOPHIE spectrograph in France.</description>
+			<periastrontime errorminus="9.0" errorplus="9.0">2456165.0</periastrontime>
 		</planet>
 	</star>
 </system>
