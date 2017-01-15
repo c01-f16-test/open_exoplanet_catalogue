@@ -1,0 +1,41 @@
+<system>
+        <name>HATS-26</name>
+        <declination>CONFLICT OCCURS</declination>
+        <distance>907.00</distance>
+        <rightascension>CONFLICT OCCURS</rightascension>
+        <star>
+                <name>HATS-26</name>
+                <age>4.040</age>
+                <magH>11.510</magH>
+                <magHmax>0.022</magHmax>
+                <magHmin>0.022</magHmin>
+                <magJ>11.839</magJ>
+                <magJmax>0.021</magJmax>
+                <magJmin>0.021</magJmin>
+                <magK>11.435</magK>
+                <magKmax>0.019</magKmax>
+                <magKmin>0.019</magKmin>
+                <magV>12.955</magV>
+                <magVmax>0.030</magVmax>
+                <magVmin>0.030</magVmin>
+                <mass>CONFLICT OCCURS</mass>
+                <metallicity>CONFLICT OCCURS</metallicity>
+                <radius>2.04</radius>
+                <spectraltype>F</spectraltype>
+                <temperature>6071.00</temperature>
+                <planet>
+                        <name>HATS-26 b</name>
+                        <eccentricity>CONFLICT OCCURS</eccentricity>
+                        <impactparameter>0.3300</impactparameter>
+                        <inclination>86.200</inclination>
+                        <mass>0.65000</mass>
+                        <period>3.30238810</period>
+                        <radius>1.750</radius>
+                        <semimajoraxis>0.047350</semimajoraxis>
+                        <temperature>1918</temperature>
+                        <temperaturemax>61</temperaturemax>
+                        <temperaturemin>-61</temperaturemin>
+                </planet>
+        </star>
+</system>
+
