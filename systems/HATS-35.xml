@@ -1,0 +1,40 @@
+<system>
+        <name>HATS-35</name>
+        <declination>CONFLICT OCCURS</declination>
+        <distance>557.00</distance>
+        <rightascension>lolwat</rightascension>
+        <star>
+                <name>HATS-35</name>
+                <age>2.130</age>
+                <magH>11.192</magH>
+                <magHmax>0.022</magHmax>
+                <magHmin>0.022</magHmin>
+                <magJ>11.439</magJ>
+                <magJmax>0.022</magJmax>
+                <magJmin>0.022</magJmin>
+                <magK>11.118</magK>
+                <magKmax>0.023</magKmax>
+                <magKmin>0.023</magKmin>
+                <magV>12.560</magV>
+                <magVmax>0.100</magVmax>
+                <magVmin>0.100</magVmin>
+                <mass>CONFLICT OCCURS</mass>
+                <metallicity>CONFLICT OCCURS</metallicity>
+                <radius>CONFLICT OCCURS</radius>
+                <temperature>6300.00</temperature>
+                <planet>
+                        <name>HATS-35 b</name>
+                        <eccentricity>CONFLICT OCCURS</eccentricity>
+                        <impactparameter>0.2600</impactparameter>
+                        <inclination>86.900</inclination>
+                        <mass>1.22200</mass>
+                        <period>lolwat</period>
+                        <radius>1.464</radius>
+                        <semimajoraxis>0.031990</semimajoraxis>
+                        <temperature>2037</temperature>
+                        <temperaturemax>43</temperaturemax>
+                        <temperaturemin>-43</temperaturemin>
+                </planet>
+        </star>
+</system>
+
