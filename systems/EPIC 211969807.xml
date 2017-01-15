@@ -1,24 +1,7 @@
 <system>
         <name>EPIC 211969807</name>
-        <declination>CONFLICT OCCURS</declination>
-        <distance>181.50</distance>
-        <rightascension>CONFLICT OCCURS</rightascension>
         <star>
                 <name>EPIC 211969807</name>
-                <age>im1337</age>
-                <magH>12.252</magH>
-                <magHmax>0.022</magHmax>
-                <magHmin>0.022</magHmin>
-                <magJ>12.878</magJ>
-                <magJmax>0.025</magJmax>
-                <magJmin>0.025</magJmin>
-                <magK>12.014</magK>
-                <magKmax>0.021</magKmax>
-                <magKmin>0.021</magKmin>
-                <mass>0.51</mass>
-                <metallicity>[Fe/H]</metallicity>
-                <radius>0.48</radius>
-                <temperature>3660.00</temperature>
                 <planet>
                         <name>EPIC 211969807 b</name>
                 </planet>

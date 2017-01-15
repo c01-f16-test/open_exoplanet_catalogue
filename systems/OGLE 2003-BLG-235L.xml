@@ -1,11 +1,7 @@
 <system>
         <name>OGLE 2003-BLG-235L</name>
-        <declination>-28d53m42.0s</declination>
-        <distance>5800.00</distance>
-        <rightascension>18h05m16.35s</rightascension>
         <star>
                 <name>OGLE 2003-BLG-235L</name>
-                <mass>0.63</mass>
                 <planet>
                         <name>OGLE 2003-BLG-235L b</name>
                 </planet>
