@@ -1,0 +1,30 @@
+<system>
+        <name>K2-80</name>
+        <declination>+13d33m33.4s</declination>
+        <rightascension>03h56m09.00s</rightascension>
+        <star>
+                <name>K2-80</name>
+                <magH>10.425</magH>
+                <magHmax>0.022</magHmax>
+                <magHmin>0.022</magHmin>
+                <magJ>10.874</magJ>
+                <magJmax>0.021</magJmax>
+                <magJmin>0.021</magJmin>
+                <magK>10.313</magK>
+                <magKmax>0.017</magKmax>
+                <magKmin>0.017</magKmin>
+                <magV>12.626</magV>
+                <magVmax>0.090</magVmax>
+                <magVmin>0.090</magVmin>
+                <mass>0.90</mass>
+                <radius>0.87</radius>
+                <temperature>5441.00</temperature>
+                <planet>
+                        <name>K2-80 b</name>
+                        <period>19.09180000</period>
+                        <radius>0.179</radius>
+                        <semimajoraxis>0.135000</semimajoraxis>
+                </planet>
+        </star>
+</system>
+
