@@ -1,26 +1,7 @@
 <system>
         <name>WASP-93</name>
-        <declination>CONFLICT OCCURS</declination>
-        <distance>250.00</distance>
-        <rightascension>CONFLICT OCCURS</rightascension>
         <star>
                 <name>WASP-93</name>
-                <age>0.700</age>
-                <magH>9.997</magH>
-                <magHmax>0.019</magHmax>
-                <magHmin>0.019</magHmin>
-                <magJ>10.233</magJ>
-                <magJmax>0.018</magJmax>
-                <magJmin>0.018</magJmin>
-                <magK>9.942</magK>
-                <magKmax>0.013</magKmax>
-                <magKmin>0.013</magKmin>
-                <magV>10.970</magV>
-                <mass>CONFLICT OCCURS</mass>
-                <metallicity>CONFLICT OCCURS</metallicity>
-                <radius>CONFLICT OCCURS</radius>
-                <spectraltype>F4</spectraltype>
-                <temperature>6700.00</temperature>
                 <planet>
                         <name>WASP-93 b</name>
                 </planet>

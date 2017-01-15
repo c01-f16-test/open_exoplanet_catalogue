@@ -1,24 +1,7 @@
 <system>
         <name>Proxima Cen</name>
-        <declination>-62d40m46.1s</declination>
-        <distance>1.29</distance>
-        <rightascension>14h29m42.95s</rightascension>
         <star>
                 <name>Proxima Cen</name>
-                <magH>4.835</magH>
-                <magHmax>0.057</magHmax>
-                <magHmin>0.057</magHmin>
-                <magI>7.442</magI>
-                <magJ>5.357</magJ>
-                <magJmax>0.023</magJmax>
-                <magJmin>0.023</magJmin>
-                <magK>4.384</magK>
-                <magKmax>0.033</magKmax>
-                <magKmin>0.033</magKmin>
-                <magV>11.110</magV>
-                <mass>0.12</mass>
-                <radius>0.14</radius>
-                <temperature>3050.00</temperature>
                 <planet>
                         <name>Proxima Cen b</name>
                 </planet>
